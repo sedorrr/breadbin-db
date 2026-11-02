@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "83ab95ea3a9de5aed3e6c65e018b2d4065dc4dce",
+  "md5": "3d3ed5d196c95b5b5e7c31e15d87b609",
+  "crc32": "138756de",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "warlock.d64"
+  ],
+  "title": "Warlock: Der Ketzer",
+  "year": "2026",
+  "publisher": "Haplo",
+  "developer": "Haplo",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Action aus der Draufsicht nach dem Vorbild des Ego-Shooters Heretic: 25 handgebaute Level mit Geheimbereichen, fünf Waffen und acht Gegnerarten, dazu Verbesserungen, Vorteile und Flüche. Kein Roguelike, kein endgültiger Tod; im Startmenü lässt sich ein Code eingeben.\n\nVon Haplo.",
+  "images": {
+    "sstitle": "images/2a/2aa245cb936cb508e7d03bef01d7a0b42168683f.png"
+  }
+}

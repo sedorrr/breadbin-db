@@ -1,0 +1,13 @@
+# Prüft jeden Beitrag (Pull Request) und jeden Push auf den Datenaufbau.
+# Checks every contribution and push against the data layout.
+name: Prüfen
+on:
+  pull_request:
+  push:
+    branches-ignore: [main]
+jobs:
+  pruefen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/pruefen.py

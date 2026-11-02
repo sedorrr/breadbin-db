@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c5d02fd78132a402fc64ff9fcc61ff9307674dd1",
+  "md5": "d64de37cfee1e613b8975ea69275c5bc",
+  "crc32": "539f7804",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "vh_arcade.d64"
+  ],
+  "title": "Van Helsing",
+  "year": "2026",
+  "publisher": "Psytronik Software",
+  "developer": "GriffonSoft",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Herbst 1893 in London: Ein Vampir hat Lucy Westenra entführt, und Van Helsing nimmt die Verfolgung auf. Jump-'n'-Run-Actionspiel über acht Level – laufen, springen, Leitern klettern und Gegner mit wechselnden Waffen bekämpfen.\n\nComplete Edition (Modul, auch als Disk-Umsetzung) mit Karte und Zwischensequenzen; Arcade Edition (Band, PRG, Disk) ohne beides, lädt in einem Stück. Steuerung mit Joystick in Port 2.\n\nCode: Ola Zandelin · Musik und Soundeffekte: Saul Cross · Grafik: Dennis Gustafsson · Modul und Disk-Fassung: Mike Robertson.",
+  "images": {
+    "ss": "images/0c/0c7b4db642404f5404928f936b52f25864eb7b8d.png",
+    "sstitle": "images/c4/c4c237c30a3932ed1d6b193dbc699cc78c728275.png"
+  }
+}

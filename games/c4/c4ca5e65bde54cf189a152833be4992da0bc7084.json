@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "c4ca5e65bde54cf189a152833be4992da0bc7084",
+  "md5": "4c7a346dd0ef6f8ff8dc08891d9425cf",
+  "crc32": "71b8b1f8",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "mappy-V1.0.2.d64"
+  ],
+  "title": "Mappy",
+  "year": "2026",
+  "publisher": "charger0277",
+  "developer": "Carlo Gerla",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle Fan-Umsetzung des Namco-Automaten von 1983: Polizeimaus Mappy holt in der Villa der Katzen das Diebesgut zurück, federt über Trampoline zwischen den Stockwerken und setzt Türen und Mikrowellen gegen die Katzen und ihren Boss Goro ein.\n\nBraucht eine REU mit mindestens 1 MB (auf der Ultimate: RAM Expansion Unit einschalten). Läuft auf PAL und NTSC; als Modul und Disk.\n\nC64-Umsetzung: Carlo Gerla (charger0277) · Betatest: alexninja71.",
+  "images": {
+    "sstitle": "images/f9/f99fa3008cdd376c5295350bf9f8bf49118dda2f.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "919e7ef2db87b368fd1a2a085726b25a846dd204",
+  "md5": "2b32f9d3a1e94ac621f72ce1a16a9eb7",
+  "crc32": "6d4aedbb",
+  "size": 51201,
+  "format": "PRG",
+  "files": [
+    "nuclear.prg"
+  ],
+  "title": "Nuclear Party",
+  "year": "2026",
+  "publisher": "Vector5 Games",
+  "developer": "Jani Parviainen",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Rundenbasiertes Kriegsspiel gegen vier Computergegner – überleben darf nur einer. In jeder Runde Fabrik und Propaganda nutzen (Bevölkerung abwerben), Raketen oder Bomber vorbereiten, Sprengköpfe zuweisen und mit dem Radar Angriffe abwehren.\n\nSteuerung mit Joystick (Port 2) oder Maus 1351 (Port 1), umschaltbar mit F1 im Titelbild. Zooparty Edition.\n\nProgrammierung, Grafik, Sound: Jani Parviainen · Musik: Jaroslaw Burkacki (Ozone).",
+  "images": {
+    "sstitle": "images/03/03abae70ea6ee14fb9c6ad935233ebfa6cf20e18.png"
+  }
+}

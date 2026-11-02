@@ -1,0 +1,26 @@
+# Nach jeder Änderung auf main: prüfen, die Austauschdatei bauen und als Release „stand“
+# veröffentlichen. Breadbin lädt sie von
+#   https://github.com/<besitzer>/breadbin-db/releases/download/stand/breadbin-db.zip
+# After every change on main: check, build the exchange file and publish it as release “stand”.
+name: Stand veröffentlichen
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stand:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/pruefen.py
+      - run: python3 tools/paket.py
+      - name: Release „stand“ aktualisieren
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view stand >/dev/null 2>&1 || \
+            gh release create stand --title "Aktueller Stand / current data" \
+              --notes "Austauschdatei für Breadbin, wird bei jeder Änderung neu gebaut. / Exchange file for Breadbin, rebuilt on every change." --latest
+          gh release upload stand dist/breadbin-db.zip --clobber

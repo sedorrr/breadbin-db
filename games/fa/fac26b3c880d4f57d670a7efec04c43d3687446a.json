@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "fac26b3c880d4f57d670a7efec04c43d3687446a",
+  "md5": "d8663db8eca273e236d5ddf22a954e0f",
+  "crc32": "b066919f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "1-2-3A.D64"
+  ],
+  "title": "1-2-3",
+  "year": "2000",
+  "publisher": "Infocom",
+  "developer": "Chris Mudd",
+  "genres": [
+    "Interactive Fiction"
+  ],
+  "players": "1",
+  "synopsis": "In this dark and intense psychological horror text adventure, you navigate a bleak narrative centered on mystery, crime, and violence. Driven by heavy atmospheric storytelling and a focused topic-based interaction system, the game guides you through a tense and unforgiving journey into the darker depths of human nature.",
+  "images": {
+    "ss": "images/e4/e44b6df4c55096b8df93d8b8dcbd531c2f72fe5e.png"
+  }
+}

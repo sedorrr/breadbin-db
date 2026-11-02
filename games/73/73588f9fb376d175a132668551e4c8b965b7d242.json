@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "73588f9fb376d175a132668551e4c8b965b7d242",
+  "md5": "04fb3bedceb5956acf3aaa53547a3d7c",
+  "crc32": "8ee827f6",
+  "size": 12137,
+  "format": "PRG",
+  "files": [
+    "bpixies.prg"
+  ],
+  "title": "Bitmap Pixies",
+  "year": "2026",
+  "publisher": "Laurikka",
+  "developer": "Laurikka",
+  "genres": [
+    "Arcade",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Schnelles Ein-Bild-Arcadespiel: Mit dem Joystick (Port 1 oder 2) bunte Pixies einsammeln. Wer die Farben in der richtigen Reihenfolge erwischt – die Rahmenfarbe zeigt die nächste –, bekommt Zeit und Punkte. Weder Feuerknopf noch Tastatur nötig; ein flinker Joystick hilft.\n\nErste Fassung auf der Assembly Summer 2025 (3. Platz im Game-Dev-Wettbewerb); hier Fassung 1.0, Quelltext auf GitHub.",
+  "images": {
+    "sstitle": "images/2a/2a7349c4de5ac98ce41b969f6bd9342a35be0bd4.png"
+  }
+}
