@@ -1,0 +1,39 @@
+# Stufe 3a: den gebauten Stand zusätzlich auf den eigenen Webspace legen (per FTPS).
+# Läuft nur, wenn die Secrets gesetzt sind: SPIEGEL_HOST, SPIEGEL_USER, SPIEGEL_PASSWORD, SPIEGEL_DIR
+# (z. B. /breadbin/db). Danach liest Breadbin die Daten von https://<domain>/breadbin/db/breadbin-db.zip.
+# Stage 3a: also put the built data on our own web space (FTPS), only if the secrets are set.
+name: Spiegel auf Webspace
+on:
+  workflow_run:
+    workflows: ["Stand veröffentlichen"]
+    types: [completed]
+  workflow_dispatch:
+jobs:
+  spiegel:
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    env:
+      HOST: ${{ secrets.SPIEGEL_HOST }}
+      USER: ${{ secrets.SPIEGEL_USER }}
+      PASS: ${{ secrets.SPIEGEL_PASSWORD }}
+      DIR: ${{ secrets.SPIEGEL_DIR }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Secrets vorhanden?
+        id: da
+        run: echo "ok=$([ -n "$HOST" ] && [ -n "$USER" ] && [ -n "$PASS" ] && [ -n "$DIR" ] && echo 1 || echo 0)" >> "$GITHUB_OUTPUT"
+      - if: steps.da.outputs.ok == '1'
+        run: python3 tools/pruefen.py && python3 tools/paket.py
+      - if: steps.da.outputs.ok == '1'
+        name: Hochladen (FTPS)
+        run: |
+          sudo apt-get install -y -qq lftp >/dev/null
+          python3 - <<'PY' > dist/stand.json
+          import json, time, zipfile
+          z = zipfile.ZipFile("dist/breadbin-db.zip")
+          m = json.loads(z.read("breadbin-share.json"))
+          print(json.dumps({"games": m["games"], "created": m["created"], "file": "breadbin-db.zip"}))
+          PY
+          lftp -u "$USER","$PASS" -e "set ftp:ssl-force true; set ssl:verify-certificate yes; mkdir -p $DIR; cd $DIR; put dist/breadbin-db.zip -o breadbin-db.zip.neu; mv breadbin-db.zip.neu breadbin-db.zip; put dist/stand.json; bye" "$HOST"
+      - if: steps.da.outputs.ok != '1'
+        run: echo "Keine Spiegel-Secrets gesetzt – übersprungen."

@@ -1,0 +1,6 @@
+# Nur public/ ist für Besucher gedacht; alles andere hier sperren.
+# Only public/ is meant for visitors; deny everything else here.
+<FilesMatch "^(config(\.example)?\.php|schema\.sql|.*\.md)$">
+  Require all denied
+</FilesMatch>
+Options -Indexes
