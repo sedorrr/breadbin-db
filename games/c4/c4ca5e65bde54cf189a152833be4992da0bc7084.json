@@ -19,6 +19,7 @@
   "players": "1",
   "synopsis": "Inoffizielle Fan-Umsetzung des Namco-Automaten von 1983: Polizeimaus Mappy holt in der Villa der Katzen das Diebesgut zurück, federt über Trampoline zwischen den Stockwerken und setzt Türen und Mikrowellen gegen die Katzen und ihren Boss Goro ein.\n\nBraucht eine REU mit mindestens 1 MB (auf der Ultimate: RAM Expansion Unit einschalten). Läuft auf PAL und NTSC; als Modul und Disk.\n\nC64-Umsetzung: Carlo Gerla (charger0277) · Betatest: alexninja71.",
   "images": {
+    "ss": "images/1b/1b91eccc2a4f64f4d8138b3db4881396344da629.png",
     "sstitle": "images/f9/f99fa3008cdd376c5295350bf9f8bf49118dda2f.png"
   }
 }
