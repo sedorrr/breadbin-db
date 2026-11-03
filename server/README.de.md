@@ -15,10 +15,13 @@ FTPS auf den Webspace. Dazu im Daten-Repository unter *Settings → Secrets and 
 | `SPIEGEL_HOST` | FTP-Server laut Kundenmenü des Hosters |
 | `SPIEGEL_USER` | FTP-Benutzer (am besten einer nur für diesen Ordner) |
 | `SPIEGEL_PASSWORD` | dessen Passwort |
-| `SPIEGEL_DIR` | `/breadbin/db` |
+| `SPIEGEL_DIR` | Zielordner, so wie er nach der FTP-Anmeldung heißt (z. B. `/breadbindb`) |
 
-Danach in Breadbin unter ⚙ → „Adresse der Gemeinschaftsdaten“ eintragen:
-`https://8bitcavern.de/breadbin/db/breadbin-db.zip`. Fehlen die Secrets, überspringt der Workflow den Schritt.
+Dazu die Variable (nicht Secret) `SPIEGEL_URL` = öffentliche Adresse der Datei, z. B.
+`https://8bitcavern.de/breadbin/db/breadbindb/breadbin-db.zip`; der Lauf lädt sie danach herunter und vergleicht.
+Breadbin nutzt diese Adresse ab 0.5.7 von selbst. Fehlen die Secrets, überspringt der Workflow den Schritt.
+Nie `pwd` oder ausführliche lftp-Ausgaben ins Log schreiben: lftp zeigt dabei die Adresse samt Passwort
+URL-kodiert, und GitHub blendet diese Form nicht aus.
 
 ## 3b: Beiträge direkt annehmen
 

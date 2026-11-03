@@ -1,6 +1,6 @@
 # Stufe 3a: den gebauten Stand zusätzlich auf den eigenen Webspace legen (per FTPS).
 # Läuft nur, wenn die Secrets gesetzt sind: SPIEGEL_HOST, SPIEGEL_USER, SPIEGEL_PASSWORD, SPIEGEL_DIR
-# (z. B. /breadbin/db). Danach liest Breadbin die Daten von https://<domain>/breadbin/db/breadbin-db.zip.
+# (Ordner nach der FTP-Anmeldung). Variable SPIEGEL_URL = öffentliche Adresse der Datei; der Lauf prüft sie.
 # Stage 3a: also put the built data on our own web space (FTPS), only if the secrets are set.
 name: Spiegel auf Webspace
 on:
