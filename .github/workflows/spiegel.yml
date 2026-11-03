@@ -31,7 +31,8 @@ jobs:
         name: Ordner auflisten
         run: |
           sudo apt-get install -y -qq lftp >/dev/null
-          lftp -u "$USER","$PASS" -e "set ftp:ssl-force true; set ssl:verify-certificate yes; pwd; cls -1 -F; cls -1 -F $DIR; bye" "$HOST" || true
+          # kein pwd: lftp zeigt dort die URL samt Passwort, URL-kodiert und damit von GitHub nicht maskiert
+          lftp -u "$USER","$PASS" -e "set ftp:ssl-force true; set ssl:verify-certificate yes; cls -1 -F; cls -1 -F $DIR; bye" "$HOST" || true
       - if: steps.da.outputs.ok == '1' && !inputs.liste
         run: python3 tools/pruefen.py && python3 tools/paket.py
       - if: steps.da.outputs.ok == '1' && !inputs.liste
