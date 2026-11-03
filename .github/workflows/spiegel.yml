@@ -8,6 +8,11 @@ on:
     workflows: ["Stand veröffentlichen"]
     types: [completed]
   workflow_dispatch:
+    inputs:
+      liste:
+        description: "Nur Ordner auf dem Webspace auflisten (Fehlersuche)"
+        type: boolean
+        default: false
 jobs:
   spiegel:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
@@ -22,9 +27,14 @@ jobs:
       - name: Secrets vorhanden?
         id: da
         run: echo "ok=$([ -n "$HOST" ] && [ -n "$USER" ] && [ -n "$PASS" ] && [ -n "$DIR" ] && echo 1 || echo 0)" >> "$GITHUB_OUTPUT"
-      - if: steps.da.outputs.ok == '1'
+      - if: steps.da.outputs.ok == '1' && inputs.liste
+        name: Ordner auflisten
+        run: |
+          sudo apt-get install -y -qq lftp >/dev/null
+          lftp -u "$USER","$PASS" -e "set ftp:ssl-force true; set ssl:verify-certificate yes; pwd; cls -1 -F; cls -1 -F $DIR; bye" "$HOST" || true
+      - if: steps.da.outputs.ok == '1' && !inputs.liste
         run: python3 tools/pruefen.py && python3 tools/paket.py
-      - if: steps.da.outputs.ok == '1'
+      - if: steps.da.outputs.ok == '1' && !inputs.liste
         name: Hochladen (FTPS)
         run: |
           sudo apt-get install -y -qq lftp >/dev/null
@@ -34,6 +44,11 @@ jobs:
           m = json.loads(z.read("breadbin-share.json"))
           print(json.dumps({"games": m["games"], "created": m["created"], "file": "breadbin-db.zip"}))
           PY
-          lftp -u "$USER","$PASS" -e "set ftp:ssl-force true; set ssl:verify-certificate yes; mkdir -p $DIR; cd $DIR; put dist/breadbin-db.zip -o breadbin-db.zip.neu; mv breadbin-db.zip.neu breadbin-db.zip; put dist/stand.json; bye" "$HOST"
+          lftp -u "$USER","$PASS" -e "set cmd:fail-exit true; set ftp:ssl-force true; set ssl:verify-certificate yes; mkdir -p -f $DIR; cd $DIR; put dist/breadbin-db.zip -o breadbin-db.zip.neu; mv breadbin-db.zip.neu breadbin-db.zip; put dist/stand.json; bye" "$HOST"
+      - if: steps.da.outputs.ok == '1' && !inputs.liste && vars.SPIEGEL_URL != ''
+        name: Abrufbar?
+        run: |
+          curl -fsS -o /tmp/pruef.zip "${{ vars.SPIEGEL_URL }}"
+          cmp /tmp/pruef.zip dist/breadbin-db.zip && echo "Spiegel stimmt mit dem Stand überein."
       - if: steps.da.outputs.ok != '1'
         run: echo "Keine Spiegel-Secrets gesetzt – übersprungen."
