@@ -134,7 +134,7 @@ def main():
     count, used = check_games()
     check_images(used)
     allowed = {"breadbin-share.json", "games", "images", "tools", "README.md", "README.de.md", "LICENSE",
-               "CONTRIBUTING.md", ".github", ".gitignore", ".git", "dist", "server"}
+               "CONTRIBUTING.md", ".github", ".gitignore", ".git", "dist", "server", "app"}
     for name in os.listdir(ROOT):
         if name not in allowed:
             bad(name, "unerwartete Datei oder Ordner / unexpected file or folder")
