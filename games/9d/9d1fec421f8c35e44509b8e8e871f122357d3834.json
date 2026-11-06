@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "9d1fec421f8c35e44509b8e8e871f122357d3834",
+  "md5": "ad50f7d439e8124281eff1f6d376c1ce",
+  "crc32": "f8bf7b1d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tantooman-V1.2.d64"
+  ],
+  "title": "TantooMan – Volume One (V1.2)",
+  "year": "2025",
+  "publisher": "delta-machine",
+  "developer": "Delta Machine (Lux)",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Labyrinthspiel nach dem Vorbild des Handyspiels „Tomb of the Mask: Color“: TantooMan muss jedes kleine Labyrinth vollständig einfärben, während Gegner und ein Countdown ihn bedrängen. Die ersten Level sind leicht, später wird es deutlich schneller und schwieriger; Spielstände lassen sich speichern.\n\nNur PAL. Disk-Fassung (D64) mit Nachladen; Steuerung per Joystick in Port 2 oder Cursortasten. Volume One erschien Anfang Juni 2025, danach folgten kleine Fehlerbehebungen (Münzen, Bonuslevel) bis zu dieser Version 1.2.\n\nCode, Grafik, Design: Lux · Musik und Test: Manganoid · Zeichensatz: Phazze · Lader: Cadaver (Covert Bitops)",
+  "images": {
+    "sstitle": "images/77/779ea755f0f9f81ddcdcae94bc85cc8592ba277b.png"
+  }
+}

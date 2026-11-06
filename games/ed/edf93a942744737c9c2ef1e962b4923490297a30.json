@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "edf93a942744737c9c2ef1e962b4923490297a30",
+  "md5": "8187ad6ac3c27660ba89d8e1b126665d",
+  "crc32": "c0865c15",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Summbot FF CSE.d64"
+  ],
+  "title": "Summbot",
+  "year": "2026",
+  "publisher": "CSE (Cracking Service Ergolz)",
+  "developer": "Firefox, GhostNOP",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Eine kleine Roboterbiene soll in jedem Level von allen Blüten Nektar holen und ihn in den Bienenstock bringen. Den Flug legt man vorab als Befehlsfolge fest (Richtungen, Landen, Warten, Schleifen), danach fliegt die Biene das Programm ab. 20 Level in vier Jahreszeiten bringen Spinnennetze, patrouillierende Hornissen, Regen- und Schneewolken, Blitzfelder, Wind und Glatteis; pro Level gibt es drei Versuche und bis zu drei Sterne. Die Farben der Biene sind einstellbar.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein PRG auf D64. Steuerung über Tastatur, Richtungen und Landen auch mit Joystick in Port 2. Bildschirmtexte auf Deutsch. Multicolor-Titelbild; die Titelmusik ist eine Umsetzung von „Pooyan“ (Scott Spanburg, Datasoft/Konami 1983).\n\nIdee: Firefox · Umsetzung: GhostNOP · laut Titellaufschrift komplett mit KI erstellt.",
+  "images": {
+    "sstitle": "images/07/078c12fea24ce0084b53f32d0756186a22fe2209.png"
+  }
+}

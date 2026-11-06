@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "df239e005aee5b451ecebb4dfffe1cbfd07a5ecc",
+  "md5": "0bf58fb4ccab22d01fcbf3a66b08983f",
+  "crc32": "20f639ec",
+  "size": 27273,
+  "format": "PRG",
+  "files": [
+    "axis.prg"
+  ],
+  "title": "Axis",
+  "year": "2026",
+  "publisher": "AnyStone Games",
+  "developer": "Zsolt Bertók (Bery)",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Fluchtspiel ohne Waffen: Die Spielfigur muss zehn Sektoren voller Außerirdischer durchqueren und jeweils die mit zwei roten Pfeilen markierte Ausgangstür erreichen. Die Außerirdischen sind schneller als der Spieler und stürmen herbei, sobald sie ihn wahrnehmen, auch durch Wände. Rote und grüne Schlüsselkarten öffnen gleichfarbige Türen; am Ende wird die Gesamtzeit angezeigt.\n\nUmsetzung des gleichnamigen Spiels für den ungarischen Videoton TV Computer, mit TRSE erstellt; von AnyStone gibt es auch eine Plus/4-Fassung. Steuerung mit Joystick in Port 2 oder W/A/S/D, Feuer bzw. Leertaste öffnet Türen, + und - ändern das Spieltempo, M schaltet die Musik.\n\nOriginal und Code: Zsolt Bertók (Bery) · Musik: Csabo (Csaba Pankaczy) · Weitere Grafik: Unreal (Csaba Kémeri)",
+  "images": {
+    "ss": "images/f3/f374cd5c991c96e7e463d709c2de5b87cf7c8a72.png"
+  }
+}

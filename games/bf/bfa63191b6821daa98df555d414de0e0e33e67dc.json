@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "bfa63191b6821daa98df555d414de0e0e33e67dc",
+  "md5": "34b87e3b05bfee62ff4f6f7d41230bf3",
+  "crc32": "7bad301f",
+  "size": 15182,
+  "format": "PRG",
+  "files": [
+    "artybot.prg"
+  ],
+  "title": "ArtyBot",
+  "year": "2026",
+  "publisher": "Goodwell",
+  "developer": "Goodwell",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Programmierrätsel um einen Roboter, der genau das tut, was man ihm aufträgt: In jedem Level müssen alle Pakete auf Zielfelder. Man erstellt eine Befehlsliste (vor, zurück, drehen, aufnehmen/ablegen, springen, werfen) und lässt sie ablaufen; Bäume versperren den Weg, Wasser muss übersprungen oder überworfen werden, auf Eis rutscht der Roboter, Schlüssel öffnen Türen. Die Level werden über eine Weltkarte angewählt; je Level gibt es einen Par-Wert.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein einzelnes PRG. Befehle per Tastatur (Q W E A S D Z X C) oder durch Anklicken der Symbole; Weltkarte mit WASD/Cursortasten. Bildschirmtexte auf Englisch. Mit ACME gebaut.\n\nIdee, Design, Level: Goodwell · Code, Grafik, Sound: Claude.",
+  "images": {
+    "ss": "images/da/dab77fb412f1439f7aadc21ff4e572b8e988580e.png"
+  }
+}

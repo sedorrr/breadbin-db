@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "sha1": "83db76bfcac6001a5e20c0a3f2426999345dc77e",
+  "md5": "d2dcf99ddf1a9ac84145fadeaac83a88",
+  "crc32": "d54b857b",
+  "size": 51201,
+  "format": "PRG",
+  "files": [
+    "boroboro.prg"
+  ],
+  "title": "Boroboro",
+  "year": "2026",
+  "publisher": "berni",
+  "developer": "berni",
+  "genres": [
+    "Strategie",
+    "Puzzle"
+  ],
+  "players": "1-8",
+  "synopsis": "Wettbewerb über ein ganzes Spieljahr: Die Teilnehmer programmieren je einen Transportroboter vom Typ BORO 2.7, der Kisten auf Zielfelder schieben und danach selbst ins Ziel fahren soll. Die 14 Befehlsplätze werden mit selbst gelöteten Platinen bestückt, die Befehlsfolgen speichern; dafür kauft man Chips ein, bastelt, testet und verwaltet sein Geld mit Anlagen und Krediten. Einmal im Monat tritt man in einem Labyrinth an, Preisgeld gibt es für Kisten auf Zielen und schnelle Zeit, Abzüge für kaputte Kisten und Aufpralle; am Ende gewinnt, wer am meisten Robotaler hat.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein PRG aus BASIC-Hauptprogramm und Maschinenspracheteilen. Für 1 bis 8 Spieler abwechselnd an einem Rechner, Bedienung über die Tastatur; Bildschirmtexte auf Deutsch."
+}

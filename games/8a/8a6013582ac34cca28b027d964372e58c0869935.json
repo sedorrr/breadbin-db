@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "8a6013582ac34cca28b027d964372e58c0869935",
+  "md5": "3b9d8dd443fbfa66623e240c5d215273",
+  "crc32": "40698c13",
+  "size": 42952,
+  "format": "PRG",
+  "files": [
+    "chrome-horizon92.prg"
+  ],
+  "title": "Chrome Horizon (Demo 0.9.2)",
+  "year": "2026",
+  "publisher": "Retro Team Games",
+  "developer": "Stefano Coppi",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Frühe Vorabfassung eines horizontal scrollenden Shoot'em Ups im Stil von R-Type: ein kurzer Demo-Abschnitt, der vor allem die Technik zeigt – weiches Scrolling, viele Gegner gleichzeitig dank Sprite-Multiplexing. Das Spiel ist in C mit dem Compiler Oscar64 geschrieben und Begleitprojekt zu einem geplanten Buch über die Entwicklung von C64-Actionspielen.\n\nEinzelne PRG-Datei, Build 0.9.2 (März/April 2026, beseitigt unter anderem das Flackern der unteren Anzeige). Die fertige Fassung erschien später als Modul.",
+  "images": {
+    "sstitle": "images/dc/dccf161161a155f2e047fd30544fb78c26755ffa.png"
+  }
+}

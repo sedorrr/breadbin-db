@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "fc8a4e5fd5f65e3c44ee01d61b34009eb376a7cb",
+  "md5": "96cc018337dd9bbc9526e180152f4adb",
+  "crc32": "f708e473",
+  "size": 106768,
+  "format": "CRT",
+  "files": [
+    "chrome-horizon.crt"
+  ],
+  "title": "Chrome Horizon",
+  "year": "2026",
+  "publisher": "Retro Team Games",
+  "developer": "Stefano Coppi",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Horizontal scrollendes Shoot'em Up im Stil von R-Type mit Waffen-Extras und Endgegnern in vier Leveln. Ab Fassung 1.1 ist jedes Level in vier Abschnitte mit Rücksetzpunkten geteilt und die Karten sind länger; Satellit und aufladbarer Strahl wurden dabei entfernt. Geschrieben in C mit dem Compiler Oscar64, mit Parallax-Scrolling und Sprite-Multiplexing.\n\nAls Modul (CRT); Scrolling laut Entwickler mit 50/60 Bildern pro Sekunde. Vorher gab es eine Demo (Build 0.9.2) als PRG.",
+  "images": {
+    "sstitle": "images/45/450abac00e1447ce810a982ce1194c9a0ea4096c.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "847375536f99f9f3f46c71a70f6cf812d5ef452c",
+  "md5": "7db87fc09745073275b2155b282e7f36",
+  "crc32": "a3a54924",
+  "size": 525376,
+  "format": "CRT",
+  "files": [
+    "infe2tationNTSC.crt"
+  ],
+  "title": "Infe2tation – Mystery of the Crystal Moon",
+  "year": "2026",
+  "publisher": "Monte Boyd",
+  "developer": "Monte Boyd",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von infeZtation: Der galaktische Sheriff untersucht illegalen Bergbau auf dem Kristallmond, sammelt in jedem Abschnitt alle Kristalle und verlässt ihn über eine Öffnung am rechten Rand. Run-and-Gun-Plattformspiel mit vier Gebieten, Waffen-Extras (Schnellfeuer, Plasma-, Blitz- und Bumerangwaffe) und Zwischensequenzen. In einem eigenen Spielteil steuert man den Roboter D3P-UT mit Schubdüse; Fortschritt wird über Passwörter gespeichert.\n\nAls Modul (CRT, Ocean-Format) in getrennten Fassungen für PAL und NTSC. Joystick in Port 2. Kaufspiel bei itch.io.\n\nCode, Grafik, Musik, Sound: Monte Boyd · Geschichte: Monte Boyd, Harry Boyd · Test: Louie Dimovski, Patrick Offord",
+  "images": {
+    "sstitle": "images/f9/f92663ee4ea1ef6748a6dc1c50f12c536b9e65b0.png"
+  }
+}

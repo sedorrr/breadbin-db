@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "f155912a5513c6f3bdc43de11b294d8a21d8942b",
+  "md5": "a04aee3c1d9284b00a4c4586488227f6",
+  "crc32": "48dffd72",
+  "size": 31267,
+  "format": "PRG",
+  "files": [
+    "BYTE-BOT.prg",
+    "byte-bot.prg"
+  ],
+  "title": "Byte-Bot: Code & Cargo",
+  "year": "2026",
+  "publisher": "TD1334",
+  "developer": "TD1334",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Programmierpuzzle mit 24 frei wählbaren Leveln in vier Kapiteln (Ausbildung, Schalter und Tore, Kühlhaus, Meisterprüfung): Ein Roboter soll eine Kiste aufnehmen und auf dem Zielfeld ablegen. Befehle sind Fahren, Drehen, Greifen, Schalter und ein Vorwärtssensor, dazu verschachtelbare Schleifen; Eisflächen lassen den Roboter rutschen, Abgründe beenden den Versuch. Für kurze Programme gibt es Bronze-, Silber- und Goldmedaillen.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Standard-C64 ohne Erweiterung, PRG und D64; Steuerung über die Tastatur. Spielstand lässt sich auf eine beschreibbare Diskette in Laufwerk 8 speichern (BYTEBOT.SAV). Vorliegend Version 1.1 (nur zusätzlicher Hinweis „ChatGPT + TD1334 / Forum64 Wettbewerb“ auf dem Titelbild; 1.0 vom 26. Oktober 2026). Bildschirmtexte und Anleitung auf Deutsch.\n\nTD1334 mit ChatGPT.",
+  "images": {
+    "sstitle": "images/72/72ff05e1e559b817f0174b28f16902ee679c4d6d.png"
+  }
+}

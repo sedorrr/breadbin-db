@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "ac8a76bdebe17b347e12fe4640b36e9a1b42b743",
+  "md5": "3e9000af69204fa957960f00f43bd4eb",
+  "crc32": "d34eed52",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GravitySnake.d64"
+  ],
+  "title": "Gravity Snake",
+  "year": "2026",
+  "publisher": "Naufr4g0",
+  "developer": "Naufr4g0",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Denkspiel nach dem Snake-Prinzip mit Schwerkraft: Die Schlange muss in verschachtelten Kammern alle Früchte fressen und den Ausgang erreichen. Verliert sie den Halt unter sich, fällt sie nach unten, was man beim Planen der Wege nutzen muss; dazu kommen Fallen. Die Idee stammt aus einem BASIC-10-Zeiler von 2016, 2023 folgte eine Assembler-Fassung für einen Game Jam; die öffentliche Fassung von 2026 hat neue Grafik und mehr Level.\n\nD64-Diskimage. Läuft laut Berichten auf PAL und NTSC.\n\nCode, Grafik: Naufr4g0 · Musik: Crain (Phaze101)",
+  "images": {
+    "sstitle": "images/1b/1b9621219bc4457e02ec09d3539a545c7dcca9a8.png"
+  }
+}

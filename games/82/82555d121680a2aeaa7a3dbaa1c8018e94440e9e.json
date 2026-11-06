@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "82555d121680a2aeaa7a3dbaa1c8018e94440e9e",
+  "md5": "d8b603cf44fbd885c079255dd6e339fb",
+  "crc32": "33ef022e",
+  "size": 1050688,
+  "format": "CRT",
+  "files": [
+    "lemmings-easy.crt"
+  ],
+  "title": "Lemmings Reloaded",
+  "year": "2026",
+  "publisher": "Lunatic Lab",
+  "developer": "Lunatic Lab (Jorg)",
+  "genres": [
+    "Puzzle",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Erweiterte, inoffizielle Fan-Neuauflage von Lemmings für den C64: Man verteilt Fähigkeiten an die Lemminge, damit genug von ihnen sicher den Ausgang erreichen. 123 Level aus Originalkarten, seltenen Umsetzungen und neuen Entwürfen, jedes mit eigenem Zeichensatz, dazu eine Sternebewertung, Levelauswahl mit den klassischen Passwörtern und eine Jukebox. Gewann den Mixed-Wettbewerb der BREAKOUT 2026.\n\nModul-Spiel, nur PAL; erscheint als EasyFlash- und GMod2-Abbild (lemmings-easy.crt ist die EasyFlash-Fassung), Fortschritt und Bestwerte werden auf dem Modul gespeichert; eigene THEC64-Fassung ohne Speichern. Steuerung mit Maus oder Joystick. Ein Update nach dem 15.08.2026 behob Menüflackern mit Joystick und Hänger beim EasyFlash-Speichern. Die Crack-Fassung von Quantum (lemmings_reloaded+4_qdos_iffl.d81) läuft von einer D81-Diskette im IFFL-Format mit vier Trainern und braucht ein Retro-Replay-Modul, dessen Zusatz-RAM für Musik und Code genutzt wird; laut den Crackern läuft sie mit der Retro-Replay-Nachbildung der Ultimate 64 (Firmware 3.15a) nicht richtig.\n\nCode: Jorg · Grafik und Leveldesign: Hend · Musik: Nordischsound (30 SID-Stücke) · Test: Courage · Crack (D81): L.A.Style, X-Large (Quantum)",
+  "images": {
+    "sstitle": "images/8f/8ff727fc4120ab3b4c121ef26e56bf7488c4dc90.png"
+  }
+}

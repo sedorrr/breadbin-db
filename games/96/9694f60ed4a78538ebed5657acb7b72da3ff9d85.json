@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "sha1": "9694f60ed4a78538ebed5657acb7b72da3ff9d85",
+  "md5": "1d1abb503224d1ca37d1f72a916297be",
+  "crc32": "50fc8140",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "dplanetgolf01.d64"
+  ],
+  "title": "Desert Planet Golf (Test 1)",
+  "year": "2026",
+  "publisher": "jonazdk",
+  "developer": "jonazdk",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1",
+  "synopsis": "Golfspiel auf einem Wüstenplaneten, ursprünglich als Browserspiel auf itch.io und Newgrounds erschienen und hier in einer C64-Umsetzung. Spielinhalt und Steuerung sind in den beiliegenden Dateien nicht beschrieben.\n\nErste öffentliche Testfassung („Test 1“) vom Juli 2026 als ZIP mit D64, Bild und Liesmich-Datei; der Autor bittet um Rückmeldungen vom echten C64. Hokuto Force veröffentlichte dieselbe Vorschau am 17. Juli 2026."
+}

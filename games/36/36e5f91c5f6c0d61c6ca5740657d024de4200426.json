@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "36e5f91c5f6c0d61c6ca5740657d024de4200426",
+  "md5": "efa8befe86c86e0ed29a85a046fe88b6",
+  "crc32": "fe66fda5",
+  "size": 49725,
+  "format": "PRG",
+  "files": [
+    "kosmodromzv.prg"
+  ],
+  "title": "Kosmodrom: Zero Vector (Prototyp)",
+  "year": "2026",
+  "publisher": "b4sh3cl1ps3",
+  "developer": "Abrakadabra",
+  "genres": [
+    "Action / Breakout Spiele"
+  ],
+  "players": "1",
+  "synopsis": "Breakout-Spiel im Weltraum mit breitem, durchsichtigem Schläger. Extras wie klebender Ball oder schrumpfender Schläger, blinkende Steine, die benachbarte Steine mitreißen, und Schwerelosigkeitseffekte verändern das Spiel. Mit Bestenliste und Eingabe der Initialen.\n\nSpielbarer Prototyp; die Weiterentwicklung ruht laut Entwickler seit Mai 2026. Steuerung mit Joystick in Port 2 oder Tastatur (A/D/Leertaste). Hintergründe und Musik wurden mit eigenen Python-Werkzeugen erzeugt. Auf itch.io zum frei wählbaren Preis.\n\nSpielidee und Code: Abrakadabra · Grafik und SID: ID3FIX · Test: BashEclipse",
+  "images": {
+    "sstitle": "images/e4/e41857ebc4688ea906b5d33bfc5bd562be2fabe8.png"
+  }
+}

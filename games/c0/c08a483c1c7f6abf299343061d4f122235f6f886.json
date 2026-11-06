@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "c08a483c1c7f6abf299343061d4f122235f6f886",
+  "md5": "ad486281f39ab392d29e6076454383e7",
+  "crc32": "2569e30d",
+  "size": 21506,
+  "format": "PRG",
+  "files": [
+    "golems_cipher.prg"
+  ],
+  "title": "Golem's Cipher",
+  "year": "2026",
+  "publisher": "j5-2026",
+  "developer": "Johnny5",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Rätselspiel mit Schleichanteil: Auf jeder von neun Ebenen (u. a. Zisterne, Beinhaus, Gießerei, Gewölbe) muss ein dreistelliger Code für die Tür nach unten erraten werden. Hinweise liefern neun Runen je Ebene (Stelle, gerade/ungerade, Summe, Größenvergleich), die nach Gebrauch zerfallen. Jede Bewegung und jede Münze erzeugt Lärm; erreicht er die über die Risikostufe eingestellte Schwelle, rückt ein Golem näher, dessen Glühen und Herzschlag die Gefahr anzeigen.\n\nPRG-Fassung (21 KB) für einen unerweiterten C64, läuft auch auf dem C128 im 64er-Modus. In Assembler geschrieben. Zehn SID-Bearbeitungen gemeinfreier klassischer Stücke (u. a. Bach, Beethoven, Mozart, Grieg).\n\nCode: Johnny5",
+  "images": {
+    "sstitle": "images/d8/d887f3002ca28eef1207d4080f7c6be2afafc901.png"
+  }
+}

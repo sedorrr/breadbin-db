@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "81d0353fa18eaab25ec9b144f6ed396932d47031",
+  "md5": "4d6f5d2cc73ba8111727ccfd83acef6c",
+  "crc32": "931df5b6",
+  "size": 48356,
+  "format": "PRG",
+  "files": [
+    "Lost Cave 1.0.prg"
+  ],
+  "title": "Bubble Bobble: Lost Cave",
+  "year": "2026",
+  "publisher": "Dave's Retro Forge",
+  "developer": "Davide Bottino, Victor Widell",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Inoffizielle Umsetzung des Fan-Automatenhacks Lost Cave (2012) auf Basis der C64-Fassung von Bubble Bobble: 100 neue Level, die aus Taitos Konsolen- und Handheld-Umsetzungen stammen, mit nachgebildeten Luftströmungen und neuen Bonusgegenständen. Die Drachen Bub und Bob fangen Gegner in Blasen und bringen sie zum Platzen; Grafik im Stil von Bubble Bobble Remastered. Ein Geheimcode schaltet einen schwereren Super-Modus frei.\n\nEinzelne PRG-Datei. Joystick in Port 2 startet ein Spiel für einen Spieler, Port 1 für zwei; wahlweise Steuerung mit zweitem Feuerknopf zum Springen (Spiel mit Knopf 2 starten). Commodore-Taste pausiert, Q beendet. Kostenlos (Name your own price) bei itch.io.\n\nGrafik, Level: Davide Bottino · Reverse Engineering, Code, Editor: Victor Widell · Intromusik: Aldo Chiummo · Intro-Code: Antonio Savona · Zwei-Knopf-Steuerung: Salvo Cristaldi · Lost Cave (Automat): Bisboch & Aladar · Original C64 1987: Stephen Ruddy, Andrew R. Threlfall, Peter Clarke",
+  "images": {
+    "sstitle": "images/3b/3be046b59d3a2b79707978a92ae7566e5368a20a.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "5b577b4f60c50cb53b855e9e936403a4c92ab82c",
+  "md5": "1c8fcb8e60ea74ae5115cbaf734e1113",
+  "crc32": "40af442c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "crystian +2d Quantum.d64"
+  ],
+  "title": "Crystian and the Lost Crystals",
+  "year": "2026",
+  "publisher": "ntpr",
+  "developer": "Marcel Sásik",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Nach einem Grubenunglück steigt der Junge Crystian unter die Erde, um die verlorenen Kristalle zurückzuholen. Drei große, labyrinthartige Höhlengebiete mit Fallen, über 60 Gegnern je Gebiet, Münzen (100 Münzen ergeben ein Extraleben) und magischen Würfeln, die farbgleiche Tore öffnen. Gesprungen und gelaufen wird in festem Raster, was genaues Timing verlangt.\n\nDisk-Fassung (D64), läuft auf PAL und NTSC; Steuerung per Joystick in Port 2. Neben dem Original liegen zwei Crack-Fassungen vom 9. April 2026: Laxity +2D (Trainer, Linking und Doku: O'Dog) und Quantum +2D (Trainer: L.A.Style und Stormfront, Linking: Stormfront). Kurz nach Erscheinen behob der Autor einen Fehler mit zwei Plattformen am Ende von Level 2 (später V1.01).\n\nCode, Grafik, Soundeffekte: Marcel Sásik · Musik: Hans Svala, Marcel Sásik",
+  "images": {
+    "sstitle": "images/c0/c021640b7568bf1a3cf3db2cd35d987aed491f1b.png"
+  }
+}

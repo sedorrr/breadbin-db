@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "91e0609735711d568ece9b256b3ec5ee9f08653b",
+  "md5": "c2daabbce00b35686b4aac3b9bc22c0e",
+  "crc32": "5ce269d7",
+  "size": 48549,
+  "format": "PRG",
+  "files": [
+    "Bubble Bobble Remastered 1.1.prg"
+  ],
+  "title": "Bubble Bobble Remastered",
+  "year": "2025",
+  "publisher": "Dave's Retro Forge",
+  "developer": "Davide Bottino, Victor Widell",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Grafisch überarbeitete Fassung der C64-Umsetzung von Bubble Bobble (Software Creations/Firebird, 1987): neu gezeichnete Figuren, Gegner und Hintergründe, die näher am Taito-Automaten liegen, ein neues Ladebild, Fehlerbehebungen und eine neue Fassung der Titelmelodie. Spielablauf und Level entsprechen dem Original; es handelt sich um einen Hack des alten Programms, nicht um eine Neuprogrammierung.\n\nEinzelne PRG-Datei, Fassung 1.1 (Januar 2026; Version 1.0 erschien im Oktober 2025). 1.1 bringt die wahlweise Zwei-Knopf-Steuerung (Springen auf Knopf 2) und Intromusik; zwei Bonus-SIDs (6581/8580) liegen bei. Joystick in Port 2 für einen Spieler, Port 1 startet ein Spiel zu zweit. Kostenlos bei itch.io.\n\nGrafik: Davide Bottino · Reverse Engineering, Editor: Victor Widell · Intromusik und Bonus-Soundtrack: Aldo Chiummo · Zwei-Knopf-Steuerung: Salvo Cristaldi",
+  "images": {
+    "sstitle": "images/4c/4c70b10028a9994874161af4ede3d76145829cf4.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "61002ec8d9521fd00e9bf54e51705949d469f3a9",
+  "md5": "87c2b238298d5b3cde7e2ecbad66190e",
+  "crc32": "523b998e",
+  "size": 819200,
+  "format": "D81",
+  "files": [
+    "cyber-run_DE.d81"
+  ],
+  "title": "Cyber-Run",
+  "year": "2026",
+  "publisher": "cristiancubillos",
+  "developer": "cristiancubillos",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Cyberpunk-Rollenspiel im Jahr 2085: Der Spieler dringt in den abgeschotteten Bunker „Black-Ice“ ein und muss auf Ebene 10 die Genesis-Firmware stehlen. Die Ebenen werden bei jedem Durchgang zufällig erzeugt; versagende Implantate kosten laufend Lebenspunkte. Rundenbasierte Kämpfe mit Hack-Angriffen und Übertakten, Erfahrungsstufen, drei Klassen (Söldner, Netrunner, Cyborg), ein Schwarzmarkt zwischen den Ebenen und ein Rätsel-Minispiel an Terminals.\n\nDeutsche Fassung als D81 mit Intro, Hauptprogramm, Outro und drei Enden; das Spiel gibt es auch auf Englisch, Spanisch und Französisch sowie als PRG/D64. In C (cc65) geschrieben. Steuerung per Joystick in Port 2 oder W/A/S/D. Deutsche Anleitung liegt bei.\n\nCode: cristiancubillos · Musik: Cadaver, Richard, Beck (Cover von No-XS)",
+  "images": {
+    "sstitle": "images/87/87d5c78dec5fe538a5297a92f612766097f3b888.png"
+  }
+}

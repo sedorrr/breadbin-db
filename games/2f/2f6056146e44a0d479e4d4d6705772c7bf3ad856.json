@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "2f6056146e44a0d479e4d4d6705772c7bf3ad856",
+  "md5": "6d572e150446d9c445eff723c6d5bea0",
+  "crc32": "ef980eba",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SPY_KOMBAT_III_C64.d64"
+  ],
+  "title": "Spy Kombat III: Zenfrox Commando Mission 3",
+  "year": "2026",
+  "publisher": "VoxvideogamePV",
+  "developer": "Pinov Vox",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Dritter Teil der Spy-Kombat-Reihe: Geheimagent Shancky kämpft gegen eine Roboterarmee von Oberst Zenfrox (Organisation Spymax2). Unterwegs sammelt er Disketten, Geld, Munitionsmagazine und Kisten für Punkte; alle 10 000 Punkte gibt es ein Extraleben. Ziel ist es, nach sechs Levels Zenfrox zu besiegen, der mehrmals antritt, und dessen „Super-Diskette“ mit den Geheimplänen zu erbeuten.\n\nMit dem Shoot'em-Up-Construction-Kit (SEUCK) in der 2024 von Martin Piper erweiterten Fassung „SidewayLeft“ gebaut. Kaufspiel auf itch.io; erhältlich als Modul (CRT), Diskette (D64) und Kassette (TAP), Anleitung italienisch und englisch. Musik für den SID 8580.\n\nSpielidee, Grafik, Animation, Karten und Soundeffekte: Pinov Vox · Musik: Vg Vox Dj · Titelbildcode: R. Bayliss (TND64)",
+  "images": {
+    "sstitle": "images/91/91ac42e336d80a1370ea74fd5d82a76132af93e1.png"
+  }
+}

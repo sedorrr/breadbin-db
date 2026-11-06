@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "0c9ae8b5ec32a7cbcac2461f6a19523fff4d36b2",
+  "md5": "26ecffd22183a7739059341fe4a9c1db",
+  "crc32": "cb98e576",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "robologik.d64"
+  ],
+  "title": "Robo-Logik 64: Kern-Transport",
+  "year": "2026",
+  "publisher": "Peter",
+  "developer": "Peter",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Ein Roboter soll in 40 Missionen einen Energiekern auf das Zieldock bringen. Man gibt die Befehlsfolge vorab ein (vorwärts, drehen, greifen/ablegen, schieben, zwei Felder springen, Schleifenblöcke) und startet sie; dazu kommen Gruben, Laser-Tore mit Schaltern, Förderbänder, Glatteis, Druckplatten und Teleporter. Für wenige Befehle gibt es bis zu drei Sterne, zu jeder Mission lässt sich eine Musterlösung als Tipp laden.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). BASIC-Programm mit Maschinenspracheteil (Zeichensatz, Hires-Kacheln, Sprites), als PRG und auf D64. Tastatursteuerung; Bildschirmtexte auf Deutsch.",
+  "images": {
+    "ss": "images/cb/cbc893a349eedba8816cec6a99752fec5f990293.png"
+  }
+}

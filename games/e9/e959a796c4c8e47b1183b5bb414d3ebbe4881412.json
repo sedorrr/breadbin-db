@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "e959a796c4c8e47b1183b5bb414d3ebbe4881412",
+  "md5": "6bbea9d4f7a08e59a0623b2176105af7",
+  "crc32": "c416ff19",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "curse_13.d64"
+  ],
+  "title": "Curse of the Pharaoh",
+  "year": "2026",
+  "publisher": "furidk",
+  "developer": "Odin Strabo Jensen",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Actionspiel im Stil der 80er Jahre: Ein Forscher dringt in ein verfluchtes ägyptisches Grab vor, weicht Fallen aus, kämpft gegen Kreaturen und muss am Ende den Wächter des Grabes besiegen, um den Fluch zu brechen. Zehn Level, ein eigener Endgegner-Level und fünf Arten von Monstern und Fallen; vollständig in Assembler geschrieben.\n\nD64 mit Fassung 1.3 (März 2026). Kostenlos (Name your own price) bei itch.io.\n\nCode: Odin Strabo Jensen · Musik: Rambones",
+  "images": {
+    "sstitle": "images/49/499286e5a168f4701a6bb571a59778d06f1d4bfb.png"
+  }
+}

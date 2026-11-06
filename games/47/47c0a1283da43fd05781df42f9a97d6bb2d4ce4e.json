@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "47c0a1283da43fd05781df42f9a97d6bb2d4ce4e",
+  "md5": "10997229dc5a5f59e18943faa0dac1a5",
+  "crc32": "c4fe1101",
+  "size": 50808,
+  "format": "PRG",
+  "files": [
+    "CYCLE64.prg"
+  ],
+  "title": "Cycle 64",
+  "year": "2026",
+  "publisher": "MacTee",
+  "developer": "MacTee",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Eine Forschungsanlage steckt in einer Zeitschleife und setzt sich alle 64 Zyklen auf den Anfang zurück; als Robotertechniker steuert man über eine alte Wartungsverbindung einen Roboter, dem man ein Programm hochlädt und dann ablaufen lässt. Ziel ist, Strom in den Sektoren wiederherzustellen, die Reaktorsteuerung zu erreichen und so die Schleife zu beenden. Programm und gesammeltes Wissen bleiben zwischen den Durchläufen erhalten; Hindernisse sind unter anderem verschlossene Tore und Laser, Missionen werden im Missionslog festgehalten.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein einzelnes PRG für einen PAL-C64 ohne Erweiterungen, ohne Nachladen; laut Autor in VICE 3.8 getestet, auf echter Hardware noch nicht. Tastatursteuerung (Leertaste, F1 Ausführen, F3 Einzelschritt, F5 Musik, F7 Zurücksetzen, H Hilfe, V Missionslog). Bildschirmtexte auf Englisch; dazu Handbuch („Programming Field Manual“) und Vorlagen für eine Spieleschachtel als PDF.\n\nIdee und Leitung: MacTee · Code, Rätsel, Story, Musik, Grafik: KI (Sol 6.1 und Claude Opus).",
+  "images": {
+    "ss": "images/9a/9ad3e1dbb778a93e6804ae9f045d28d5d02ca56d.png"
+  }
+}

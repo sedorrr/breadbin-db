@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "eb51ab1670f6419f2fae1635194f02b6f79b26ba",
+  "md5": "fa5c8950b2e53e45f34500b566ff6412",
+  "crc32": "ccbb62aa",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "adrian-and-a-friend-in-need_v1.02.d64"
+  ],
+  "title": "Adrian and a Friend in Need",
+  "year": "2026",
+  "publisher": "ntpr",
+  "developer": "Marcel Sásik",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Direkte Fortsetzung von „Crystian and the Lost Crystals“: Weil Crystian beim Klettern ungeschickt ist, springt sein gewandter Freund Adrian ein und holt aus sechs großen Höhlenkarten je einen verlorenen Kristall. Die Karten sind etwa doppelt so groß wie im Vorgänger, frei erkundbar und voller Gegner, Stacheln, fallender Felsen und Lava; Adrian kann nicht angreifen. Würfel öffnen Tore, 100 Münzen ergeben ein Extraleben, die Bewegung ist nicht mehr ans Raster gebunden.\n\nDisk-Fassung (D64), Version 1.02 mit den Schwierigkeitsstufen Easy und Hard (Easy: langsamere Gegner, mehr Energie, weniger Fallschaden). Läuft auf PAL und NTSC.\n\nCode, Grafik, Soundeffekte: Marcel Sásik · Musik: Johan Samuelson (Stinsen) · Ambient-Soundeffekte: Nordischsound, Hans Svala",
+  "images": {
+    "ss": "images/76/760c2f2815208c56e75f830c533e07e511dfb032.png",
+    "sstitle": "images/78/78d5d5c703fa2ef7b2a50fa7eaa51166f0e54089.png"
+  }
+}

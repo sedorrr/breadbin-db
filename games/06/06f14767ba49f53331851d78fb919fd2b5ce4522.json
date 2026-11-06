@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "06f14767ba49f53331851d78fb919fd2b5ce4522",
+  "md5": "87a9a0e300ef0c2939170a5e935402cf",
+  "crc32": "4cd4f388",
+  "size": 36610,
+  "format": "PRG",
+  "files": [
+    "schlag_zwoelf.prg"
+  ],
+  "title": "Schlag Zwölf – Der Automat des Professors",
+  "year": "2026",
+  "publisher": "SanstarR",
+  "developer": "SanstarR",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Halloween 1886 auf Schloss Schattenfels: Professor Fledermann hat einen Uhrwerk-Automaten auf Ketten gebaut, dem man eine Lochkarte stanzt, damit er Kürbisse, Kerzen und Knoblauch an ihren Platz trägt. Das Schloss ist in der Seitenansicht über vier Stockwerke mit Treppen und Hebebühnen zu sehen. In 28 Leveln über sieben Stunden bis Mitternacht kommen Unterprogramme, Wiederholungen, Geheimgänge, Hebel, Gitter, Falltüren, farbiges Licht und zum Schluss zwei Automaten mit einer Lochkarte hinzu; je Level gibt es bis zu drei Zahnräder. Der Professor spricht mit digitalisierter Sprache.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Selbstentpackender Onefiler für einen PAL-C64 ohne Erweiterungen, als PRG und auf D64. Steuerung mit Joystick in Port 2 oder Tastatur, mit Einzelschritt vor und zurück, Passwörtern je Stunde und Vorführung im Titel. Sprachausgabe als 4-Bit-Sample über die SID-Lautstärke (auch auf dem 8580). Bildschirmtexte auf Deutsch.\n\nIdee, Hälfte der Level, Automat-Grafik, Raumgestaltung: SanstarR · Engine, übrige Level, Grafik, Musik: Claude · Stimme: ElevenLabs · Professor Fledermann aus SanstarRs FABULA.",
+  "images": {
+    "sstitle": "images/5a/5a564a2ed54fa1b7d4c7b4a828ec216a75b74b8f.png"
+  }
+}

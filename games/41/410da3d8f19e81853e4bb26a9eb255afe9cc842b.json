@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "410da3d8f19e81853e4bb26a9eb255afe9cc842b",
+  "md5": "9bf754919139b25b825276e29770050e",
+  "crc32": "77885fd9",
+  "size": 6165,
+  "format": "PRG",
+  "files": [
+    "tetriso.prg"
+  ],
+  "title": "TetrISO",
+  "year": "2026",
+  "publisher": "Roman Werner (romwer)",
+  "developer": "Roman Werner",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Fallende-Blöcke-Puzzle in isometrischer Ansicht: Die Teile fallen auf eine 4×4-Fläche und werden zu einem Turm gestapelt. Den ganzen Turm kann man drehen, um Lücken zu finden; das fallende Teil lässt sich im letzten Moment noch drehen oder verschieben. Volle Ebenen verschwinden und bringen Punkte, mehrere hintereinander geben Kombo-Boni.\n\nEine einzelne, kleine PRG-Datei (ca. 6 KB), auf itch.io zum selbst gewählten Preis. Musik: SID-Fassung von „L'amour est bleu“. Crack-Fassung „TetrISO +2D“ von Excess und Hokuto Force (23.08.2026).\n\nCode: Roman Werner",
+  "images": {
+    "sstitle": "images/9a/9acf0ea89acab28df511237a4075e12e685255ec.png"
+  }
+}

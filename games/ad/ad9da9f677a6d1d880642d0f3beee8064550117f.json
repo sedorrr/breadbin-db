@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "ad9da9f677a6d1d880642d0f3beee8064550117f",
+  "md5": "b945550b3d47ca83be3f197bd68d5797",
+  "crc32": "74006192",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Jessica Steel - Bloodmonger.d64"
+  ],
+  "title": "Jessica Steel – Bloodmonger",
+  "year": "2025",
+  "publisher": "CFS Productions",
+  "developer": "Christian Siege",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Die Sekte Bloodmonger hat ein Portal geöffnet, durch das Monster und Roboter in die Welt gelangen; Agentin Jessica Steel muss es schließen. Sie läuft durch vier Gebiete (Friedhof, Dorf, Fabrik, Anwesen), bekämpft Skelette, Engel, Roboter und Tentakel mit einer Pistole geringer Reichweite und muss am Ende jedes Gebiets die violette Portalkugel zerstören. Fledermäuse und rollende Loren lassen sich nicht abschießen und müssen umgangen werden; Extraleben alle 10 000 Punkte.\n\nMit dem Sideways SEUCK (Shoot'em-Up Construction Kit) erstellter Beitrag zum C64 SEUCK Compo 2025 (Teil 2). Joystick in beliebigem Port; RUN/STOP pausiert. Die Diskette enthält zusätzlich die Rohdaten zum Laden in den Sideways SEUCK.\n\nSpiel: Christian Siege · Musik: Richard Bayliss (TND) · Sideways SEUCK: Chris Yates, Jon Wells",
+  "images": {
+    "sstitle": "images/c0/c00a7fe51e1d3336bae52d4991a2956a042002d2.png"
+  }
+}

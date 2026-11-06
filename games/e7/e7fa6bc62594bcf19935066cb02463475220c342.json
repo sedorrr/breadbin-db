@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "e7fa6bc62594bcf19935066cb02463475220c342",
+  "md5": "e666a2e901f637ec81f8a8850c8932b5",
+  "crc32": "82596883",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "petalpete.d64"
+  ],
+  "title": "Petal Panic (Preview)",
+  "year": "2026",
+  "publisher": "Piggy 18 Team",
+  "developer": "Piggy 18 Team",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Vorabfassung eines Plattformspiels vom Team hinter „A Pig Quest“: Der Gärtner Petal Pete soll auf einer aus dem Gleichgewicht geratenen Erde wieder Ordnung schaffen. Statt Waffen hat er eine Gartengabel; aus gestreuten Samen wachsen Pflanzen, die als Plattformen zum Hinaufklettern dienen. Die Welten bestehen aus mehreren Abschnitten mit eigenwilligen Gegnern und enden jeweils mit einem großen Endgegner. Die Vorschau enthält drei Welten, geplant sind acht.\n\nKostenlose Vorschau (Version 1.01) als Diskette (D64) und als EasyFlash-Modul (CRT); die Entwickler empfehlen das Modul wegen der kurzen Ladezeit und zusätzlicher Übergänge und Effekte. Das fertige Spiel soll nur als Modul erscheinen.\n\nEntwicklung: Piggy 18 Team.",
+  "images": {
+    "sstitle": "images/45/45dd3bc7c8363a4a429449a1bb520718a2195486.png"
+  }
+}

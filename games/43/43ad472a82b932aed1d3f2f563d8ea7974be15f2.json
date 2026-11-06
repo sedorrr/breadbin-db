@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "43ad472a82b932aed1d3f2f563d8ea7974be15f2",
+  "md5": "1c8e337af380c6f625cf379e83140329",
+  "crc32": "7f1dc821",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Cult_of_Nonsense_[PTV].d64"
+  ],
+  "title": "Space-Rat: Cult of Nonsense",
+  "year": "2026",
+  "publisher": "Protovision",
+  "developer": "Sönke Wolfgramm, Mathias Neumann",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Grafik-Textabenteuer mit Zeigen-und-Klicken nach dem Comic von TIKWA aus der Zeitschrift ASM: Die Ratte Ziggy beamt sich auf einen abgelegenen Planeten, und Captain Stevie Lucas muss sie finden und die Bewohner vor einer Katastrophe retten – mitten im Treiben eines seltsamen Kults. Grundlage ist ein Papier-Abenteuer, das 1993 in der ASM erschien.\n\nBaut auf dem D42 Adventure System auf; Steuerung mit Joystick oder Maus, Spielstände lassen sich speichern und laden. Englische Fassung (Cult of Nonsense) und deutsche Fassung (Der Sinnlos-Kult) auf je einer D64. Laut Protovision läuft die Disk-Fassung nur auf PAL, die Modul-Fassung auf PAL und NTSC.\n\nGeschichte: Mathias Neumann · Umsetzung: Sönke Wolfgramm · Engine: Stephan Lesch, Tobias Erbsland · Grafik: Santiago Cardenas, TIKWA · Musik: Chris Hülsbeck (C64: Roy Widding) · Produktion: Tim Jakob Chen-Voos",
+  "images": {
+    "sstitle": "images/51/515d1263fa6f10b3bce4371ab8fcd84ba80421b7.png"
+  }
+}

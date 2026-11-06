@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "585f2436d658cfbea3a211be1080c47910c58e41",
+  "md5": "715730be87c2994cf3ffc21d77ef259c",
+  "crc32": "ccd1ab95",
+  "size": 18623,
+  "format": "PRG",
+  "files": [
+    "pumpkinkitchen.prg"
+  ],
+  "title": "Pumpkin Kitchen",
+  "year": "2026",
+  "publisher": "drazil",
+  "developer": "drazil",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Eine Spinne soll in einer Halloween-Küche Kürbisse auf Zielfelder (Kessel) bringen; man schreibt vorher ein kurzes Programm aus Vor, Drehen, Greifen und Schleifen (auch „solange frei“) und lässt es ablaufen. Die 24 Räume hängen zusammen: Nach jedem gelösten Level krabbelt die Spinne selbst durch die Tür in den nächsten. Schalter öffnen und schließen alle Türen; je Level gibt es ein Längenlimit, einen Par-Wert und bis zu drei Sterne.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein PRG in 6502-Assembler, Steuerung nur über die Tastatur (SPACE startet, RETURN führt das Programm aus). Titelbild mit Musik und Laufschrift; Bildschirmtexte auf Deutsch. Laut Laufschrift bis auf die Halloween-Symbole komplett KI-generiert, Entwicklungszeit etwa sieben Stunden.\n\nCode und Musik: Claude · Titelgrafik: ChatGPT · Halloween-Symbole: drazil · Scroller-Routine: Yopaca.",
+  "images": {
+    "ss": "images/94/947133920a281946588f41ee158b5f46d0845139.png"
+  }
+}

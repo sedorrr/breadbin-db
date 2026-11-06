@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "5c022d36eb566efaa77f9db8b918cbb030fa3d64",
+  "md5": "0cd309dfbc23a0168fddd352760937cb",
+  "crc32": "cebe703f",
+  "size": 17451,
+  "format": "PRG",
+  "files": [
+    "bubble_pop_the_sea_v1.0.prg"
+  ],
+  "title": "Bubble Pop: The Sea",
+  "year": "2026",
+  "publisher": "J5",
+  "developer": "J5",
+  "genres": [
+    "Puzzle",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Blasen-Schießspiel nach dem Vorbild von Puzzle Bobble mit Meeresthema: Man zielt mit einer Abschussvorrichtung auf die farbigen Blasen und lässt Gruppen gleicher Farbe platzen, bevor die Decke herunterkommt. Erreicht ein Floß die Schiene, ist das Spiel verloren; Bomben zerstören alles, was sie berühren. Die Tonhöhe des Platzgeräuschs steigt mit der Größe der gesprengten Gruppe.\n\nIn 6502-Assembler geschrieben, eine einzelne PRG-Datei (Fassung 1.0). Der Autor gibt an, beim Code und bei der Grafik KI-Hilfe genutzt zu haben. Später folgten „Bubble Pop In Space“ und „Bubble Pop: Monsters“.\n\nCode: J5 · Musik: Toxic Avenger (Titel, Spielende, Siegesmelodien, vier zufällig wechselnde Stufenmusiken)",
+  "images": {
+    "sstitle": "images/b9/b9cff94489001dbe1f000f3a9bd7d5c376c704fc.png"
+  }
+}

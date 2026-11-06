@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "5eae365057cc86cc74c3d519bfe80aab77a88bf3",
+  "md5": "a7e5d11aed16cf9954115dcbd1aae059",
+  "crc32": "cc5ccdfc",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "bcwad.d64"
+  ],
+  "title": "Broken Crown",
+  "year": "2026",
+  "publisher": "BarracudaBits",
+  "developer": "Nathan Degenhart",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Roguelike im Stil der Achtzigerjahre-Klassiker wie Rogue: Auf einer bei jedem Spiel neu erzeugten Oberwelt und in zufällig erzeugten Verliesen sucht man die Bruchstücke einer zerbrochenen Krone, um eine drohende Gefahr abzuwenden. Gekämpft und erkundet wird rundenweise auf einem Raster.\n\nZwei Fassungen auf je einer D64: bcvi.d64 mit vi-Tasten (HJKL samt Diagonalen), bcwad.d64 mit WADX-Belegung samt Diagonalen bzw. Joystick. Daneben gibt es eine PRG- und eine Browser-Fassung; auf itch.io zum selbst gewählten Preis. Eine Fehlerkorrektur vom 24.05.2026 behebt ein seltenes Einfrieren beim Tod während bestimmter Kampfeffekte.\n\nCode: Nathan Degenhart",
+  "images": {
+    "ss": "images/79/79b7b3f0d412b17e0f1e2619d1a28b3c0a89ad69.png",
+    "sstitle": "images/28/28499cca23585f6ad4aef21418680afa4f5392d3.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "8d7a562bef5d49fc01445edf21b4817c276ebe47",
+  "md5": "de1b670fb3ddb438482156772ca69b19",
+  "crc32": "281e19cd",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "munchyworm1_05.d64"
+  ],
+  "title": "Munchy Worm",
+  "year": "2026",
+  "publisher": "Antibody Software",
+  "developer": "Antibody Software",
+  "genres": [
+    "Arcade",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "C64-Umsetzung eines eigenen Browser-/Windows-Spiels nach dem Snake-Prinzip: Ein Wurm frisst in einem geschlossenen Feld Pilze und wird dabei länger; wer schnell frisst, erhöht den Punktemultiplikator. Sterne verkürzen den Wurm, erscheinen aber immer seltener. Ein Zusammenstoß mit Wand oder Schwanz beendet das Spiel. Rastertricks, Sprites und eigene Zeichensätze sorgen für pixelgenaue Bewegung.\n\nD64 mit Fassung 1.05 (lautere Soundeffekte; Titelmusik seit 1.04), Bestenliste wird auf Diskette gespeichert. Läuft auf PAL und NTSC. Kostenlos bei itch.io.\n\nMusik: Richard Bayliss",
+  "images": {
+    "sstitle": "images/fb/fb4a0a8dc33e5a0a1ca91db76225c1df776ce71b.png"
+  }
+}

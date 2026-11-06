@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "af52131dfdff19b43ba11e6044170ff7665c921b",
+  "md5": "0b8ed81f9dc804f494f10f47fc784f7f",
+  "crc32": "f2fd112d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "siders-solitaire.d64"
+  ],
+  "title": "Siders Solitaire",
+  "year": "2026",
+  "publisher": "Siders",
+  "developer": "HackZ0id (Mattias Hansson)",
+  "genres": [
+    "Kartenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung der klassischen Patience Klondike. Wahlweise wird eine oder werden drei Karten vom Stapel aufgedeckt; die Karten werden mit einem hardwaregestützten Zufallsgenerator gemischt. Die Grafik nutzt den Extended Color Mode mit einem Sprite als Zeiger.\n\nGedacht für die Bedienung mit Maus (1351, laut Autor auch über Adapter wie mouSTer), Joystick als Ausweichmöglichkeit. Version 1.0 vom 8. April 2026 auf Diskette, mit Anleitung auf der Diskette; vom Autor auf echtem C64, C64 Ultimate und in VICE getestet.\n\nCode und Grafik: HackZ0id · Musik: Gazza",
+  "images": {
+    "ss": "images/da/da122ce864d56fe83cce45cc44256b569d21172e.png"
+  }
+}

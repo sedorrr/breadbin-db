@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "ab368b96d0d00a8e736583954040befc9943a0b7",
+  "md5": "d7603b488680410314bc85acffd2a1d8",
+  "crc32": "d5c6edd5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "comchinko.d64"
+  ],
+  "title": "Comchinko",
+  "year": "2026",
+  "publisher": "drmortalwombat",
+  "developer": "drmortalwombat",
+  "genres": [
+    "Gelegenheitsspiel",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Pachinko-artiges Punktespiel: Kugeln fallen durch ein Feld aus Stiften, zerstörte Stifte werden kurz zu Sternen und lösen Kettenreaktionen aus. Zwischen den Runden wählt man Verbesserungen, die Kugeln verdoppeln oder Werte und Bonusmultiplikatoren erhöhen. Drei Spielarten: endlos, Bestenliste mit begrenzter Zeit oder Kugelzahl sowie ein Modus mit über 100 Erfolgen, die Bonuskugeln bringen. Das Spiel kann auch unbeaufsichtigt laufen.\n\nAls D64 und PRG. Für PAL entwickelt, auf NTSC getestet. Feuerknopf oder Leertaste lässt eine Kugel fallen, links/rechts ändert die Richtung des Zuführers, Verbesserungen mit den Cursortasten.\n\nCode: drmortalwombat · Musik: Crisps",
+  "images": {
+    "ss": "images/94/946daae85942c4b659956be9d9c20f1daca958a9.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "577cb9907206ec418522eb357da02524462649fd",
+  "md5": "91b5e5b00330f73b9fb2cb5ebf45f697",
+  "crc32": "5a48fc94",
+  "size": 21474,
+  "format": "PRG",
+  "files": [
+    "cromoshock.prg"
+  ],
+  "title": "Chromo Shock Reloaded",
+  "year": "2026",
+  "publisher": "cristiancubillos",
+  "developer": "cristiancubillos",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Seitlich scrollendes Shoot'em Up: Mit einem Raumschiff werden Wellen feindlicher Schiffe abgeschossen, am Ende warten Endgegner, deren Angriffen man ausweichen muss. Die „Reloaded“-Fassung behebt technische Fehler einer früheren Version und läuft schneller.\n\nZwei PRG-Fassungen: normal und „DX“; worin sich die DX-Fassung unterscheidet, ist nicht bekannt.\n\nCode: cristiancubillos",
+  "images": {
+    "sstitle": "images/cc/ccfdc2610d69ea9f2f03eb3b372042ee3affbaf8.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "531e47eb9a98cac3fb50a19a25df998a2cf9b2c0",
+  "md5": "c5d55421efbb9184293945c04b1c2ba4",
+  "crc32": "cc3a088d",
+  "size": 45093,
+  "format": "PRG",
+  "files": [
+    "delete_me_hard.prg"
+  ],
+  "title": "Delete Me Hard",
+  "year": "2026",
+  "publisher": "ilmenit",
+  "developer": "ilmenit",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Abstrakter Arcade-Shooter in 30 Leveln: Eine Schlange aus Buchstaben windet sich über den Bildschirm und muss Buchstabe für Buchstabe abgeschossen werden. Dazu kommen weitere Gegnertypen, Hindernisse, Endgegner, freischaltbare Waffen (z. B. Streuschuss, Granate, Bumerang, Geschütz) und Verbesserungen nach jedem Level. Entstanden aus einem Scherz um einen doppelt geposteten Forenbeitrag mit dem Titel „Delete me“ auf AtariAge.\n\nPRG-Fassung; das Spiel gibt es auch für Atari XL/XE und NES. In Assembler geschrieben, für ein oder zwei Spieler. Laut CSDb läuft es auf PAL und NTSC.\n\nCode: ilmenit",
+  "images": {
+    "sstitle": "images/ab/abf6c35f1077126610356f9d389ce92ea4166790.png"
+  }
+}

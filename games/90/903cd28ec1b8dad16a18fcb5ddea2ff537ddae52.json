@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "903cd28ec1b8dad16a18fcb5ddea2ff537ddae52",
+  "md5": "1913b7855f4e641186c6db2c04a897cf",
+  "crc32": "b9bacbf4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Brek N Bubble V3.3.d64"
+  ],
+  "title": "Brek'n'Bubble",
+  "year": "2026",
+  "publisher": "natthrafn",
+  "developer": "Marcus Wagner (natthrafn)",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Mischung aus Block'n'Bubble und Brektwon: Ein Zauberer plündert die Burgen und Katakomben des verstorbenen Magiers Brektwon, dessen Schätze in magische Sphären verwandelt wurden. Er läuft auf festem Grund, klettert automatisch auf Steinblöcke und wechselt zwischen zwei Zaubern: Steinblöcke neben, über und schräg neben sich erschaffen oder entfernen (unbegrenzt) und Blitze nach links, rechts und oben (höchstens vier je Level). 50 Stufen in fünf Burgen mit eigener Grafik, zehn versteckte Schatzräume und ein Endkampf gegen Brektwons Geist; die fünfte Burg wird erst nach den anderen vier freigeschaltet.\n\nJoystick in Port 2; Tasten X (Zauber wechseln), G (Spieltempo), P (Pause), K (Selbstaufgabe), Q (Ende). Geschaffte Level werden auf Diskette gespeichert und lassen sich wieder anwählen (mit 0 Punkten); Bestenliste. Vorliegend Fassung 3.3 (D64) mit deutscher Anleitung als PDF; spätere Fassungen bis 4.1 erschienen bis August 2026.\n\nCode: Marcus Wagner",
+  "images": {
+    "sstitle": "images/77/7712c8e70db0bb794c2c01e32668227338c23f52.png"
+  }
+}

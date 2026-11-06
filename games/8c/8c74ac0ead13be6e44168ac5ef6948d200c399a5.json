@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "8c74ac0ead13be6e44168ac5ef6948d200c399a5",
+  "md5": "fd7e6c253add77749725adc855022180",
+  "crc32": "593c01f9",
+  "size": 33295,
+  "format": "PRG",
+  "files": [
+    "LOGI_BOT_64.prg"
+  ],
+  "title": "Logi-Bot 64",
+  "year": "2026",
+  "publisher": "MacTee",
+  "developer": "MacTee",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Ein Lieferroboter soll in 20 Sektoren je eine Kiste aufnehmen und auf dem grünen Ziel absetzen. Der Ablauf wird vorher als Befehlsfolge eingegeben (vor, rückwärts, drehen, greifen/ablegen, Schalter betätigen, Wiederholungen) und dann abgespielt; im Weg stehen Stahlwände, rote Tore mit Schaltern und Portale, die zwei Orte verbinden. Jeder Sektor hat ein Befehlslimit; wer die kürzeste Lösung trifft, bekommt Gold.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein einzelnes PRG. Tastatursteuerung mit Einzelschritt, Pause, Tempo und Hinweisfunktion; Bildschirmtexte auf Englisch. Bestwerte gelten nur für die laufende Sitzung.\n\nMacTee & ChatGPT („Extra High“).",
+  "images": {
+    "sstitle": "images/a1/a16e54b89cc0cc21977acc0bb3a367d72c9c866d.png"
+  }
+}

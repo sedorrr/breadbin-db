@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "0009983a07c3946f19aa96facc8870895d584a95",
+  "md5": "e1c981aa65fef3448ff9b2bfbbf3224e",
+  "crc32": "795ebb68",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BnB2.d64"
+  ],
+  "title": "Block'n'Bubble II: The Magician's Revenge",
+  "year": "2026",
+  "publisher": "natthrafn",
+  "developer": "Marcus Wagner (natthrafn)",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Überarbeitete Neuauflage des Action-Denkspiels von 1986/1989: 1307 Jahre nach seinem Ausschluss aus der Zauberergilde muss der Held Räume freiräumen, die der Oberste Magier mit springenden Blasen geflutet hat. Man schiebt Steine, um Wege zu bahnen, und schießt alle Blasen ab; Berührung mit einer Blase kostet schnell das Leben.\n\nNeu in der Fassung von 2026: Level-Editor, Spiel zu zweit gleichzeitig, 20 neue Level, sechs Levelpakete mit je 20 Leveln auf der Diskette (bb.level.a–f) und eine Bestenliste. D64, auf itch.io zum selbst gewählten Preis. Das Original erschien 1989 bei Markt & Technik im 64'er-Sonderheft 30.\n\nCode: Marcus Wagner · Musikdaten: A. Bauernfeind",
+  "images": {
+    "sstitle": "images/ae/aecb98b883c828611ee822b016f02bf094955e00.png"
+  }
+}

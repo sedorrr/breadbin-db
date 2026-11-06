@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "12b4631e451dce89422f6c74851f63af89afa974",
+  "md5": "d6834cf673219756cc987bd880f46dab",
+  "crc32": "e7bad78a",
+  "size": 558208,
+  "format": "CRT",
+  "files": [
+    "BOOM_SE_Easyflash.crt",
+    "BOOM_SE_Easyflash copy.crt",
+    "BOOM_SE_Easyflash.crt"
+  ],
+  "title": "BOOM Special Edition",
+  "year": "2025",
+  "publisher": "poly.play / Protovision",
+  "developer": "Malte Mundt (Brainstorm Software)",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Überarbeitete Neuauflage des horizontal scrollenden Shoot'em Ups BOOM, das die Brüder Frank und André Hugenroth (Brainstorm Software) zwischen 1989 und 1993 schrieben und damals nur in rund 15 Exemplaren selbst verkauften. Im Jahr 2197 fliegt man gegen mutierte Kolonisten auf dem Planeten Blue Moon: sieben Level mit je zwei Abschnitten und Endgegnern, Waffen-Upgrades in farbigen Behältern, vier Zusatzwaffen und ein aufladbarer Strahl. Neu sind eine Energieleiste statt Sofort-Tod, vier Schwierigkeitsgrade mit eigenen Bestenlisten, neue Titel- und Levelbilder sowie zahlreiche Fehlerbehebungen. Zwei Spieler können sich das Schiff abwechselnd oder als Team (Schiff und Zusatzwaffe) teilen.\n\nOriginal als 512-KB-EasyFlash-Modul (CRT), Bestenliste wird aufs Modul gespeichert; Joystick in Port 2, zweiter Spieler Port 1. Die Disk-Fassung auf drei Seiten ist ein Crack von Laxity (LXT, 19.03.2026) mit Trainer (+4), Loader von Horizon und Docs; laut CSDb nur PAL.\n\nOriginal 1993: André Hugenroth, Frank Hugenroth, Frank Schlüter · Special Edition: Malte Mundt · Grafik (neue Bilder): Gergely Sinkó · Zusatzmusik: Roland Pfau · Credits-Bildschirm: Jan Mazák · Test: Michael Biller, Louie Dimovski, Stefan Gutsch · Crack: Didi/Laxity",
+  "images": {
+    "sstitle": "images/91/9190bf60586f84d4b3327cdc19c9232a152cb12c.png"
+  }
+}

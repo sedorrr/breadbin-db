@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "f820775a89dc6a137d746dc1b8a2f5ea94272977",
+  "md5": "436426aba06e8b97c8e32ebc35aefc49",
+  "crc32": "c72c0bd2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "RnS Reboot.d64"
+  ],
+  "title": "Rust'n'Steel Reboot",
+  "year": "2026",
+  "publisher": "natthrafn",
+  "developer": "Marcus Wagner (natthrafn)",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Überarbeitete Neufassung des Plattformspiels Rust'n'Steel von 2009: In jedem Level müssen alle Stahlträger eines Gerüsts angestrichen oder die Bolzen herausgezogen werden, bis die Konstruktion einstürzt. Grüner Schleim stört dabei; wer ihn wegwischt, bekommt Extrapunkte. 31 Level, davon 9 neue, und ein neuer Endgegner.\n\nDisk-Fassung (D64). Schnelleres, flüssigeres Spiel als das Original; Highscores und Spielfortschritt werden auf Diskette gespeichert, nach dem Tod geht es im selben Level weiter. Mit H oder X im Titelbild lassen sich Highscores und Fortschritt zurücksetzen; ein Trainermodus ist eingebaut.",
+  "images": {
+    "sstitle": "images/ca/ca3e16e0d08cfae077fa7826a9390ac2bfdcdb4a.png"
+  }
+}

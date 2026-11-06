@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "5eca170b759482f9afd62398a225b2f777a1e29b",
+  "md5": "628a8654375a131762f8e724911d5ecb",
+  "crc32": "e2f8535a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "VaultOfSeraphimV2.2.d64"
+  ],
+  "title": "Vault of Seraphim",
+  "year": "2026",
+  "publisher": "natthrafn",
+  "developer": "Marcus Wagner (natthrafn)",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Ein Zauberer durchsucht die Höhlen des Schwarzen Gebirges nach den Schätzen der verschwundenen Cherubim und schließlich nach dem Schatz der Seraphim. Nachfolger von „The Catacombs of Cherubim“ mit vier neuen Höhlen und neuer Bewegung: Per Feuerknopf teleportiert sich der Zauberer über Gräben, Fallen und Gegner, kann sich unsichtbar machen und findet Schlüssel, Gold und Truhen mit Überraschungen. Je Höhle muss eine große Schatztruhe gefunden werden; die Höhlen von Catacombs of Cherubim sind im Titelbild ebenfalls wählbar.\n\nDisk-Fassung (D64), Version 2.2. Steuerung per Joystick in Port 2, dazu Tasten I (Unsichtbarkeit), K (aufgeben) und Q (zurück zum Titel). Highscore-Liste. Infoblätter auf Deutsch und Englisch liegen bei.\n\nProgramm und Grafik: Marcus Wagner · Musik: Andreas Bauernfeind",
+  "images": {
+    "ss": "images/63/63ae63535ee6c0e85754899de505343c7f2097e0.png",
+    "sstitle": "images/c6/c61ba054d0aee1f8d86313c83e72a27e00d5cff6.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "b043fea2aeb9cc9bd9e3dc9a0f925ec226dc9a55",
+  "md5": "e5a288ddf9429be083c3ef16fe990985",
+  "crc32": "f5a058cb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Gino the muncher.d64"
+  ],
+  "title": "Gino the Muncher",
+  "year": "2026",
+  "publisher": "Massimo Bonucchi",
+  "developer": "Massimo Bonucchi",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Einfaches Labyrinthspiel nach dem Vorbild früher Achtzigerjahre-Automaten: Gino muss alle Punkte im Irrgarten fressen und den Geistern ausweichen, eine Berührung beendet das Spiel. Frisst er genug Punkte hintereinander, wird er kurz unverwundbar und kann an den Geistern vorbeilaufen, ohne sie zu fressen.\n\nJoystick in Port 2, Feuer startet. In 6502-Assembler (DASM) mit BASIC-Lader für das Titelbild, eigenen Sprites, PETSCII-Zeichen und SID-Effekten; D64, auf itch.io zum selbst gewählten Preis.\n\nCode: Massimo Bonucchi",
+  "images": {
+    "sstitle": "images/e7/e7a36bb7fd706996b6fba7f44e193f53f36fe19c.png"
+  }
+}

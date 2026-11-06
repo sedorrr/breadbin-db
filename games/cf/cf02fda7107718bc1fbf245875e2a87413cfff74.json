@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "cf02fda7107718bc1fbf245875e2a87413cfff74",
+  "md5": "5cc6eec50736e3178a34f1f6525587c7",
+  "crc32": "7557e063",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "lemans2-V1.3c.d64"
+  ],
+  "title": "Le Mans 2",
+  "year": "2026",
+  "publisher": "ZeroG Labs",
+  "developer": "Alessandro Bulgarelli",
+  "genres": [
+    "Rennen",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Arcade-Autorennen von oben gesehen, angelehnt an das Commodore-Spiel Lemans (HAL, 1982). Seit Fassung 1.1 gibt es eine Top-10-Bestenliste mit Initialen, die auf Diskette gespeichert und beim Start geladen wird; dazu wurden Titelbild und Streckenrand überarbeitet.\n\nV1.0 erschien im September 2026 zunächst als „Beta“, V1.2 als kommerzielle Endfassung mit überarbeiteter Grafik und Spielablauf. Vorliegend Fassung 1.3c auf Diskette (D64). Cracks gibt es von Excess/Hokuto Force und Shadow.\n\nCode und Design: Alessandro Bulgarelli",
+  "images": {
+    "sstitle": "images/10/10f89bd481c52be0f5d696f182f3985457d0d4bb.png"
+  }
+}
