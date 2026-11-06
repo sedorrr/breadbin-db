@@ -48,6 +48,11 @@ URL-kodiert, und GitHub blendet diese Form nicht aus.
 5. Angenommene Beiträge: ZIP herunterladen, in die Arbeitskopie des Daten-Repositorys auspacken, committen.
    (Automatisch ins Repository schreiben könnte der Server später mit einem GitHub-Token – bewusst noch nicht.)
 
+**Bei 8bitcavern.de (2026-11-06):** liegt unter `https://8bitcavern.de/breadbin/db/breadbin/annahme/` (FTP-Konto des
+Spiegels: `/breadbin/annahme`). Programmdateien (`lib/`, `public/`) lädt der Workflow `server.yml` („Run workflow“)
+hoch und macht `daten/` für PHP beschreibbar; `config.php` legt nur der Betreiber selbst ab. Breadbin schickt
+Beiträge ab 0.5.8 von sich aus dorthin.
+
 **Schutz:** nur gültige Beiträge werden gespeichert (gleiche Regeln wie im Repository), höchstens 5 Beiträge je
 Stunde und Absender (IP nur als gesalzene Prüfsumme gespeichert), höchstens 20 MB, Prüfseite mit Passwort,
 Sitzungs-Cookie `HttpOnly`/`SameSite=Strict`, CSRF-Schutz bei Entscheidungen, `noindex`.
