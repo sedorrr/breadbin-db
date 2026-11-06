@@ -28,7 +28,7 @@ URL-kodiert, und GitHub blendet diese Form nicht aus.
 | Datei | Zweck |
 | --- | --- |
 | `public/api/beitrag.php` | nimmt Beiträge an (POST, Feld `datei` = Austauschdatei, freiwillig `name`, `hinweis`); `GET` zeigt die Grenzen |
-| `public/admin/index.php` | Prüfseite: Beiträge mit Texten und Bildern ansehen, annehmen oder ablehnen, ZIP herunterladen |
+| `public/admin/index.php` | Prüfseite: Beiträge mit Texten und Bildern ansehen, Spiele einzeln übernehmen oder weglassen, Angaben bearbeiten und Bilder abwählen (gespeichert neben dem Beitrag, das Original bleibt), annehmen oder ablehnen, geprüfte ZIP herunterladen |
 | `lib/pruefen.php` | Prüfregeln, dieselben wie `tools/pruefen.py` |
 | `lib/gemeinsam.php` | Datenbank, Einstellungen |
 | `schema.sql` | Tabelle `beitraege` |
