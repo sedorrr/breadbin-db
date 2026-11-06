@@ -1,5 +1,6 @@
 # Stufe 3b: Programmdateien des Annahme-Servers (server/lib, server/public) auf den Webspace legen.
-# Nur von Hand („Run workflow“). config.php und daten/ fasst der Lauf nie an. Gleiche Secrets wie der Spiegel;
+# Nur von Hand („Run workflow“). config.php und den Inhalt von daten/ fasst der Lauf nie an; daten/ bekommt
+# Schreibrechte für PHP (777, nach außen sperrt es die .htaccess). Gleiche Secrets wie der Spiegel;
 # Zielordner relativ zur FTP-Anmeldung in der Variable SERVER_DIR (Standard /breadbin/annahme).
 # Stage 3b: upload the server program files by hand; never touches config.php or daten/.
 name: Server hochladen
@@ -19,5 +20,5 @@ jobs:
         run: |
           sudo apt-get install -y -qq lftp >/dev/null
           # kein pwd und kein -v: lftp zeigt sonst die Adresse samt Passwort (URL-kodiert, nicht maskiert)
-          lftp -u "$USER","$PASS" -e "set cmd:fail-exit true; set ftp:ssl-force true; set ssl:verify-certificate yes; mirror -R --no-perms server/lib $DIR/lib; mirror -R --no-perms server/public $DIR/public; bye" "$HOST"
+          lftp -u "$USER","$PASS" -e "set cmd:fail-exit true; set ftp:ssl-force true; set ssl:verify-certificate yes; mirror -R --no-perms server/lib $DIR/lib; mirror -R --no-perms server/public $DIR/public; chmod 777 $DIR/daten; bye" "$HOST"
           echo "lib/ und public/ hochgeladen."
