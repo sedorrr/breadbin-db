@@ -1,0 +1,23 @@
+# Stufe 3b: Programmdateien des Annahme-Servers (server/lib, server/public) auf den Webspace legen.
+# Nur von Hand („Run workflow“). config.php und daten/ fasst der Lauf nie an. Gleiche Secrets wie der Spiegel;
+# Zielordner relativ zur FTP-Anmeldung in der Variable SERVER_DIR (Standard /breadbin/annahme).
+# Stage 3b: upload the server program files by hand; never touches config.php or daten/.
+name: Server hochladen
+on:
+  workflow_dispatch:
+jobs:
+  server:
+    runs-on: ubuntu-latest
+    env:
+      HOST: ${{ secrets.SPIEGEL_HOST }}
+      USER: ${{ secrets.SPIEGEL_USER }}
+      PASS: ${{ secrets.SPIEGEL_PASSWORD }}
+      DIR: ${{ vars.SERVER_DIR || '/breadbin/annahme' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Hochladen (FTPS)
+        run: |
+          sudo apt-get install -y -qq lftp >/dev/null
+          # kein pwd und kein -v: lftp zeigt sonst die Adresse samt Passwort (URL-kodiert, nicht maskiert)
+          lftp -u "$USER","$PASS" -e "set cmd:fail-exit true; set ftp:ssl-force true; set ssl:verify-certificate yes; mirror -R --no-perms server/lib $DIR/lib; mirror -R --no-perms server/public $DIR/public; bye" "$HOST"
+          echo "lib/ und public/ hochgeladen."

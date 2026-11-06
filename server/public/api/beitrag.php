@@ -35,12 +35,17 @@ if ($f['size'] > $c['max_bytes']) {
 }
 
 if (!is_dir($c['daten_dir'])) {
-    mkdir($c['daten_dir'], 0700, true);
+    @mkdir($c['daten_dir'], 0700, true);
 }
 $name = gmdate('Ymd-His') . '-' . bin2hex(random_bytes(6)) . '.zip';
 $ziel = $c['daten_dir'] . '/' . $name;
-if (!move_uploaded_file($f['tmp_name'], $ziel)) {
-    json_antwort(500, ['ok' => false, 'fehler' => 'Speichern gescheitert / could not store']);
+if (!@move_uploaded_file($f['tmp_name'], $ziel)) {
+    // Grund ohne Serverpfade nennen, damit sich die Einrichtung prüfen lässt.
+    $grund = !is_dir($c['daten_dir']) ? 'Ordner daten/ fehlt / folder daten/ missing'
+        : (!is_writable($c['daten_dir']) ? 'Ordner daten/ nicht beschreibbar / folder daten/ not writable'
+        : (!is_uploaded_file($f['tmp_name']) ? 'Hochgeladene Datei fehlt (upload_tmp_dir?) / uploaded file missing'
+        : 'Verschieben gescheitert / move failed'));
+    json_antwort(500, ['ok' => false, 'fehler' => 'Speichern gescheitert: ' . $grund]);
 }
 
 $ergebnis = pruefe_beitrag($ziel);
