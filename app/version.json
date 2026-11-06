@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
+  "version": "0.6.1",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Eigene Listen, Bewertung und Notizen; auf Gerät kopieren; Spielstände zurückholen; Bibliothek sichern; Aufräum-Übersicht",
-  "notes_en": "Your own lists, rating and notes; copy to a device; fetch saved games; library backup; clean-up overview"
+  "notes_de": "Aus der eigenen Bibliothek zuordnen (PRG und D64 zusammenfassen); Spielstand holen in den Details",
+  "notes_en": "Match from your own library (join PRG and D64); fetch saved game in the details"
 }
