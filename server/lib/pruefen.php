@@ -109,7 +109,7 @@ function pruefe_beitrag(string $zipPfad): array
         $probleme[] = 'Keine Spiele im Beitrag / no games in the contribution';
     }
     $zip->close();
-    return ['probleme' => $probleme, 'spiele' => $spiele, 'bilder' => $bilder];
+    return ['probleme' => $probleme, 'spiele' => $spiele, 'bilder' => $bilder, 'praefix' => $praefix];
 }
 
 function pruefe_spiel(string $rel, array $g, string $sha1Pfad): array

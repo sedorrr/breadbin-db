@@ -35,6 +35,55 @@ function beitrag(int $id): ?array
     return $st->fetch() ?: null;
 }
 
+// Teilweise angenommen: Liste der übernommenen Spiele (SHA-1) neben der ZIP-Datei, sonst null (= alle).
+function auswahl_pfad(array $c, array $b): string
+{
+    return $c['daten_dir'] . '/' . $b['datei'] . '.auswahl.json';
+}
+
+function auswahl(array $c, array $b): ?array
+{
+    $p = auswahl_pfad($c, $b);
+    if (!is_file($p)) {
+        return null;
+    }
+    $a = json_decode((string)file_get_contents($p), true);
+    return is_array($a) ? $a : null;
+}
+
+// ZIP nur mit den gewählten Spielen und deren Bildern (Kopf bleibt). Gibt den Pfad einer Temp-Datei zurück.
+function zip_auswahl(string $quelle, array $erg, array $sha1s): string
+{
+    $praefix = $erg['praefix'] ?? '';
+    $bilder = [];
+    foreach ($sha1s as $sha1) {
+        foreach (($erg['spiele'][$sha1]['images'] ?? []) as $bild) {
+            $bilder[$bild] = true;
+        }
+    }
+    $ziel = tempnam(sys_get_temp_dir(), 'bb');
+    $ein = new ZipArchive();
+    $ein->open($quelle, ZipArchive::RDONLY);
+    $aus = new ZipArchive();
+    $aus->open($ziel, ZipArchive::OVERWRITE);
+    for ($i = 0; $i < $ein->numFiles; $i++) {
+        $name = (string)$ein->getNameIndex($i);
+        if (str_ends_with($name, '/') || ($praefix !== '' && !str_starts_with($name, $praefix))) {
+            continue;
+        }
+        $rel = substr($name, strlen($praefix));
+        $nimm = $rel === 'breadbin-share.json'
+            || (preg_match('#^games/[0-9a-f]{2}/([0-9a-f]{40})\.json$#', $rel, $t) && in_array($t[1], $sha1s, true))
+            || isset($bilder[$rel]);
+        if ($nimm) {
+            $aus->addFromString($rel, (string)$ein->getFromIndex($i));
+        }
+    }
+    $aus->close();
+    $ein->close();
+    return $ziel;
+}
+
 if ($admin) {
     // Bild oder ZIP aus einem Beitrag ausliefern
     if (isset($_GET['bild'], $_GET['id'])) {
@@ -69,16 +118,38 @@ if ($admin) {
             http_response_code(404);
             exit;
         }
+        $quelle = $c['daten_dir'] . '/' . $b['datei'];
+        $wahl = auswahl($c, $b);
         header('Content-Type: application/zip');
-        header('Content-Disposition: attachment; filename="beitrag-' . (int)$b['id'] . '.zip"');
-        readfile($c['daten_dir'] . '/' . $b['datei']);
+        header('Content-Disposition: attachment; filename="beitrag-' . (int)$b['id'] . ($wahl === null ? '' : '-auswahl') . '.zip"');
+        if ($wahl === null) {
+            readfile($quelle);
+        } else {
+            $tmp = zip_auswahl($quelle, pruefe_beitrag($quelle), $wahl);
+            readfile($tmp);
+            unlink($tmp);
+        }
         exit;
     }
     // Entscheidung speichern
     if (isset($_POST['entscheidung'], $_POST['id']) && hash_equals($token, (string)($_POST['token'] ?? ''))) {
+        $b = beitrag((int)$_POST['id']);
         $status = $_POST['entscheidung'] === 'angenommen' ? 'angenommen' : 'abgelehnt';
+        $notiz = mb_substr(trim((string)($_POST['notiz'] ?? '')), 0, 2000);
+        if ($b && $status === 'angenommen') {
+            // Nur die angehakten Spiele übernehmen; alle angehakt = ganzer Beitrag.
+            $erg = pruefe_beitrag($c['daten_dir'] . '/' . $b['datei']);
+            $alle = array_keys($erg['spiele']);
+            $gewaehlt = array_values(array_intersect($alle, array_map('strval', (array)($_POST['spiele'] ?? []))));
+            if (!$gewaehlt) {
+                $status = 'abgelehnt';
+            } elseif (count($gewaehlt) < count($alle)) {
+                file_put_contents(auswahl_pfad($c, $b), json_encode($gewaehlt));
+                $notiz = trim(count($gewaehlt) . ' von ' . count($alle) . ' Spielen übernommen. ' . $notiz);
+            }
+        }
         $st = db()->prepare('UPDATE beitraege SET status = ?, entschieden = NOW(), notiz = ? WHERE id = ?');
-        $st->execute([$status, mb_substr(trim((string)($_POST['notiz'] ?? '')), 0, 2000), (int)$_POST['id']]);
+        $st->execute([$status, $notiz, (int)$_POST['id']]);
         header('Location: ./');
         exit;
     }
@@ -103,6 +174,8 @@ if ($admin) {
   .ok { color: var(--ok); } .bad { color: var(--bad); }
   a { color: var(--accent); }
   textarea { width: 100%; box-sizing: border-box; }
+  .nimm { font-weight: 600; color: var(--accent); }
+  .spiel.weg { opacity: .5; }
 </style>
 </head>
 <body><main>
@@ -126,7 +199,9 @@ if ($admin) {
   <?php if (!$liste): ?><p class="meta">Keine Beiträge mit Status „<?= h($zeige) ?>“.</p><?php endif ?>
   <?php foreach ($liste as $b):
       $pfad = $c['daten_dir'] . '/' . $b['datei'];
-      $erg = is_file($pfad) ? pruefe_beitrag($pfad) : ['probleme' => ['Datei fehlt'], 'spiele' => []]; ?>
+      $erg = is_file($pfad) ? pruefe_beitrag($pfad) : ['probleme' => ['Datei fehlt'], 'spiele' => []];
+      $wahl = auswahl($c, $b);
+      $neu = $b['status'] === 'neu'; ?>
     <section class="karte">
       <strong>#<?= (int)$b['id'] ?></strong> · <?= h($b['eingang']) ?> · <?= (int)$b['spiele'] ?> Spiele
       <?php if ($b['name'] !== ''): ?>· von <?= h($b['name']) ?><?php endif ?>
@@ -134,7 +209,12 @@ if ($admin) {
       <?php if ($b['hinweis'] !== ''): ?><p><em><?= nl2br(h($b['hinweis'])) ?></em></p><?php endif ?>
       <?php foreach ($erg['probleme'] as $p): ?><p class="bad"><?= h($p) ?></p><?php endforeach ?>
       <?php foreach ($erg['spiele'] as $sha1 => $g): ?>
-        <div class="spiel">
+        <div class="spiel<?= $wahl !== null && !in_array($sha1, $wahl, true) ? ' weg' : '' ?>">
+          <?php if ($neu): ?>
+            <label class="nimm"><input type="checkbox" name="spiele[]" value="<?= h($sha1) ?>" form="f<?= (int)$b['id'] ?>" checked> übernehmen</label>
+          <?php elseif ($wahl !== null && !in_array($sha1, $wahl, true)): ?>
+            <span class="meta bad">nicht übernommen</span>
+          <?php endif ?>
           <div><strong><?= h($g['title'] ?? '') ?></strong>
             <span class="meta"><?= h(implode(' · ', array_filter([$g['year'] ?? '', $g['publisher'] ?? '', $g['developer'] ?? '', implode(', ', $g['genres'] ?? [])]))) ?></span></div>
           <div class="meta"><?= h(implode(', ', $g['files'] ?? [])) ?> · <?= h($g['format'] ?? '') ?> · SHA-1 <?= h($sha1) ?></div>
@@ -144,8 +224,9 @@ if ($admin) {
           <?php endforeach ?></div>
         </div>
       <?php endforeach ?>
-      <?php if ($b['status'] === 'neu'): ?>
-        <form method="post">
+      <?php if ($neu): ?>
+        <form method="post" id="f<?= (int)$b['id'] ?>">
+          <p class="meta">Haken weg = dieses Spiel nicht übernehmen. „Annehmen“ übernimmt nur die angehakten Spiele; der ZIP-Download enthält dann nur sie.</p>
           <input type="hidden" name="token" value="<?= h($token) ?>">
           <input type="hidden" name="id" value="<?= (int)$b['id'] ?>">
           <textarea name="notiz" rows="2" placeholder="Notiz (z. B. Grund der Ablehnung)"></textarea>
