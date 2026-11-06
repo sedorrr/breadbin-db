@@ -1,6 +1,6 @@
 {
-  "version": "0.5.7",
+  "version": "0.6.0",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Gemeinschaftsdaten von 8bitcavern.de",
-  "notes_en": "Community data from 8bitcavern.de"
+  "notes_de": "Eigene Listen, Bewertung und Notizen; auf Gerät kopieren; Spielstände zurückholen; Bibliothek sichern; Aufräum-Übersicht",
+  "notes_en": "Your own lists, rating and notes; copy to a device; fetch saved games; library backup; clean-up overview"
 }
