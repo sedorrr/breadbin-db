@@ -21,4 +21,8 @@ return [
     'max_pro_stunde' => 5,
     // Höchstgröße eines Beitrags (ZIP) in Byte
     'max_bytes'   => 20 * 1024 * 1024,
+
+    // Veröffentlichter Stand für den Vergleich auf der Prüfseite (neu / geändert / unverändert).
+    // Standard: der Spiegel neben dem Annahme-Ordner (<web>/breadbindb/breadbin-db.zip). Nur nötig, wenn er woanders liegt.
+    // 'stand_zip' => '/pfad/zu/breadbin-db.zip',
 ];

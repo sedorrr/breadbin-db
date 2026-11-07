@@ -28,7 +28,8 @@ URL-kodiert, und GitHub blendet diese Form nicht aus.
 | Datei | Zweck |
 | --- | --- |
 | `public/api/beitrag.php` | nimmt Beiträge an (POST, Feld `datei` = Austauschdatei, freiwillig `name`, `hinweis`); `GET` zeigt die Grenzen |
-| `public/admin/index.php` | Prüfseite: Beiträge mit Texten und Bildern ansehen, Spiele einzeln übernehmen oder weglassen, Angaben bearbeiten und Bilder abwählen (gespeichert neben dem Beitrag, das Original bleibt), annehmen oder ablehnen, geprüfte ZIP herunterladen |
+| `public/admin/index.php` | Prüfseite: Beiträge mit Texten und Bildern ansehen, Spiele einzeln übernehmen oder weglassen, Angaben bearbeiten und Bilder abwählen (gespeichert neben dem Beitrag, das Original bleibt), annehmen oder ablehnen, geprüfte ZIP herunterladen; vergleicht jedes Spiel mit dem veröffentlichten Stand (neu / geändert mit Feldvergleich und Bildern bisher–eingereicht / unverändert – diese sind nicht angehakt) |
+| `lib/vergleich.php` | Vergleich mit dem Stand: liest `breadbin-db.zip` des Spiegels (Standard `../../breadbindb/breadbin-db.zip` vom Annahme-Ordner aus, sonst `stand_zip` in config.php), Zwischenspeicher `daten/stand-cache.json` |
 | `lib/pruefen.php` | Prüfregeln, dieselben wie `tools/pruefen.py` |
 | `lib/gemeinsam.php` | Datenbank, Einstellungen |
 | `schema.sql` | Tabelle `beitraege` |

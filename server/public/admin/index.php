@@ -4,6 +4,7 @@
 declare(strict_types=1);
 require __DIR__ . '/../../lib/gemeinsam.php';
 require __DIR__ . '/../../lib/pruefen.php';
+require __DIR__ . '/../../lib/vergleich.php';
 
 session_set_cookie_params(['httponly' => true, 'samesite' => 'Strict', 'secure' => !empty($_SERVER['HTTPS'])]);
 session_start();
@@ -167,6 +168,19 @@ if ($admin) {
         echo $daten;
         exit;
     }
+    // Bild aus dem veröffentlichten Stand (Gegenüberstellung bisher/neu)
+    if (isset($_GET['standbild'])) {
+        $pfad = (string)$_GET['standbild'];
+        $daten = preg_match('#\.(png|jpg|gif|webp)$#', $pfad, $m) ? stand_bild($c, $pfad) : null;
+        if ($daten === null) {
+            http_response_code(404);
+            exit;
+        }
+        header('Content-Type: ' . ['png' => 'image/png', 'jpg' => 'image/jpeg', 'gif' => 'image/gif', 'webp' => 'image/webp'][$m[1]]);
+        header('X-Content-Type-Options: nosniff');
+        echo $daten;
+        exit;
+    }
     if (isset($_GET['zip'])) {
         $b = beitrag((int)$_GET['zip']);
         if (!$b) {
@@ -269,6 +283,17 @@ if ($admin) {
   .bearbeiten .reihe { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
   .bearbeiten .meta label { display: inline-flex; gap: 4px; margin-right: 10px; }
   .bearbeiten input:not([type=checkbox]) { width: 100%; box-sizing: border-box; }
+  .chip.neu { background: color-mix(in srgb, var(--ok) 20%, transparent); color: var(--ok); }
+  .chip.geaendert { background: color-mix(in srgb, var(--accent) 22%, transparent); color: var(--accent); }
+  .chip.gleich { background: var(--line); color: var(--muted); }
+  .spiel.gleich > :not(.kopf):not(.nimm) { display: none; }
+  .vergleich { border-collapse: collapse; width: 100%; font-size: 13px; }
+  .vergleich th, .vergleich td { border-top: 1px solid var(--line); padding: 4px 6px; text-align: left; vertical-align: top; }
+  .vergleich td { white-space: pre-wrap; width: 45%; }
+  .vergleich th { width: 10%; color: var(--muted); font-weight: 500; }
+  .vergleich del { color: var(--bad); text-decoration: none; } .vergleich ins { color: var(--ok); text-decoration: none; }
+  .vergleich img { max-width: 160px; image-rendering: pixelated; border: 1px solid var(--line); }
+  .zusammen { font-size: 13px; }
 </style>
 </head>
 <body><main>
@@ -285,7 +310,10 @@ if ($admin) {
     $zeige = in_array($zeige, ['neu', 'angenommen', 'abgelehnt'], true) ? $zeige : 'neu';
     $st = db()->prepare('SELECT * FROM beitraege WHERE status = ? ORDER BY eingang DESC LIMIT 50');
     $st->execute([$zeige]);
-    $liste = $st->fetchAll(); ?>
+    $liste = $st->fetchAll();
+    $stand = stand_spiele($c); ?>
+  <?php if ($stand === null): ?><p class="meta bad">Vergleich mit dem Datenbestand nicht möglich: Stand nicht gefunden
+    (<?= h(stand_pfad($c)) ?>; in config.php mit 'stand_zip' einstellbar).</p><?php endif ?>
   <p class="meta">
     <a href="?status=neu">Neu</a> · <a href="?status=angenommen">Angenommen</a> · <a href="?status=abgelehnt">Abgelehnt</a>
     · <a href="?abmelden=1">Abmelden</a>
@@ -296,24 +324,53 @@ if ($admin) {
       $erg = is_file($pfad) ? pruefe_beitrag($pfad) : ['probleme' => ['Datei fehlt'], 'spiele' => []];
       $wahl = auswahl($c, $b);
       $ed = edits($c, $b);
-      $neu = $b['status'] === 'neu'; ?>
+      $neu = $b['status'] === 'neu';
+      $vg = [];
+      if ($stand !== null) {
+          foreach ($erg['spiele'] as $sha1 => $orig) {
+              $vg[$sha1] = vergleiche(mit_edits($orig, $ed[$sha1] ?? null), $stand[$sha1] ?? null);
+          }
+      }
+      $zaehl = array_count_values(array_column($vg, 'art')); ?>
     <section class="karte">
       <strong>#<?= (int)$b['id'] ?></strong> · <?= h($b['eingang']) ?> · <?= (int)$b['spiele'] ?> Spiele
       <?php if ($b['name'] !== ''): ?>· von <?= h($b['name']) ?><?php endif ?>
       · <a href="?zip=<?= (int)$b['id'] ?>">ZIP herunterladen</a>
+      <?php if ($vg): ?><p class="zusammen">Im Vergleich zum Datenbestand:
+        <span class="chip neu"><?= (int)($zaehl['neu'] ?? 0) ?> neu</span>
+        <span class="chip geaendert"><?= (int)($zaehl['geaendert'] ?? 0) ?> geändert</span>
+        <span class="chip gleich"><?= (int)($zaehl['gleich'] ?? 0) ?> unverändert</span>
+        <?php if (!empty($zaehl['gleich']) && $neu): ?><span class="meta">– unveränderte sind nicht angehakt und eingeklappt.</span><?php endif ?></p><?php endif ?>
       <?php if ($b['hinweis'] !== ''): ?><p><em><?= nl2br(h($b['hinweis'])) ?></em></p><?php endif ?>
       <?php foreach ($erg['probleme'] as $p): ?><p class="bad"><?= h($p) ?></p><?php endforeach ?>
       <?php foreach ($erg['spiele'] as $sha1 => $orig):
-          $g = mit_edits($orig, $ed[$sha1] ?? null); ?>
-        <div class="spiel<?= $wahl !== null && !in_array($sha1, $wahl, true) ? ' weg' : '' ?>" id="s<?= h($sha1) ?>">
+          $g = mit_edits($orig, $ed[$sha1] ?? null);
+          $v = $vg[$sha1] ?? null;
+          $art = $v['art'] ?? ''; ?>
+        <div class="spiel<?= $wahl !== null && !in_array($sha1, $wahl, true) ? ' weg' : '' ?><?= $art === 'gleich' ? ' gleich' : '' ?>" id="s<?= h($sha1) ?>">
           <?php if ($neu): ?>
-            <label class="nimm"><input type="checkbox" name="spiele[]" value="<?= h($sha1) ?>" form="f<?= (int)$b['id'] ?>" checked> übernehmen</label>
+            <label class="nimm"><input type="checkbox" name="spiele[]" value="<?= h($sha1) ?>" form="f<?= (int)$b['id'] ?>" <?= $art === 'gleich' ? '' : 'checked' ?>> übernehmen</label>
           <?php elseif ($wahl !== null && !in_array($sha1, $wahl, true)): ?>
             <span class="meta bad">nicht übernommen</span>
           <?php endif ?>
-          <div><strong><?= h($g['title'] ?? '') ?></strong><?php if (isset($ed[$sha1])): ?> <span class="chip">bearbeitet</span><?php endif ?>
+          <div class="kopf"><strong><?= h($g['title'] ?? '') ?></strong>
+            <?php if ($art): ?><span class="chip <?= h($art) ?>"><?= ['neu' => 'neu', 'gleich' => 'unverändert', 'geaendert' => 'geändert'][$art] ?></span><?php endif ?>
+            <?php if (isset($ed[$sha1])): ?> <span class="chip">bearbeitet</span><?php endif ?>
             <span class="meta"><?= h(implode(' · ', array_filter([$g['year'] ?? '', $g['publisher'] ?? '', $g['developer'] ?? '', implode(', ', $g['genres'] ?? [])]))) ?></span></div>
           <div class="meta"><?= h(implode(', ', $g['files'] ?? [])) ?> · <?= h($g['format'] ?? '') ?> · SHA-1 <?= h($sha1) ?></div>
+          <?php if ($art === 'geaendert'): ?>
+            <details open><summary class="meta">Unterschiede zum Datenbestand</summary>
+            <table class="vergleich"><tr><th></th><td class="meta">bisher</td><td class="meta">eingereicht</td></tr>
+              <?php foreach ($v['felder'] as $f => [$alt, $neuw]): ?>
+                <tr><th><?= h(VG_FELDER[$f]) ?></th><td><del><?= $alt === '' ? '–' : h($alt) ?></del></td><td><ins><?= $neuw === '' ? '–' : h($neuw) ?></ins></td></tr>
+              <?php endforeach ?>
+              <?php foreach ($v['bilder'] as $ba => [$alt, $neuw]): ?>
+                <tr><th><?= h(VG_BILDARTEN[$ba]) ?></th>
+                  <td><?= $alt === '' ? '<del>–</del>' : '<img src="?standbild=' . h(rawurlencode($alt)) . '" alt="bisher">' ?></td>
+                  <td><?= $neuw === '' ? '<ins>– (fällt weg)</ins>' : '<img src="?id=' . (int)$b['id'] . '&amp;bild=' . h(rawurlencode($neuw)) . '" alt="neu">' ?></td></tr>
+              <?php endforeach ?>
+            </table></details>
+          <?php endif ?>
           <?php if (!empty($g['synopsis'])): ?><div><?= nl2br(h($g['synopsis'])) ?></div><?php endif ?>
           <div class="bilder"><?php foreach (($g['images'] ?? []) as $art => $bild): ?>
             <img src="?id=<?= (int)$b['id'] ?>&amp;bild=<?= h(rawurlencode($bild)) ?>" alt="<?= h($art) ?>" title="<?= h($art) ?>">
