@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
+  "version": "0.6.2",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Aus der eigenen Bibliothek zuordnen (PRG und D64 zusammenfassen); Spielstand holen in den Details",
-  "notes_en": "Match from your own library (join PRG and D64); fetch saved game in the details"
+  "notes_de": "Nur Neues einsenden; falsch zusammengefasste Fassungen lösen; Technikangaben auf Englisch",
+  "notes_en": "Submit only what is new; separate wrongly grouped versions; technical details in English"
 }
