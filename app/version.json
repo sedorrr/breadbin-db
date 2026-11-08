@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
+  "version": "0.6.3",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Nur Neues einsenden; falsch zusammengefasste Fassungen lösen; Technikangaben auf Englisch",
-  "notes_en": "Submit only what is new; separate wrongly grouped versions; technical details in English"
+  "notes_de": "Diskettenspiele mit Autostart-Lader starten jetzt",
+  "notes_en": "Disk games with an autostart loader now start"
 }
