@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Breadbin-DB – C64-Spiele</title>
+<meta name="description" content="Gemeinschaftsdaten für Breadbin: selbst geschriebene Angaben und Bildschirmfotos zu C64-Spielen, frei unter CC BY-SA 4.0.">
+<style>
+  /* Hell: Gehäusefarbe des Brotkastens. Dunkel: Startbildschirm des C64. Keine fremden Schriften oder Dienste. */
+  :root {
+    --bg: #ece6d6; --panel: #f7f3e9; --line: #d5ccb5; --fg: #2b2620; --muted: #6d6455;
+    --accent: #40318d; --accent-2: #7869c4; --chip: #e2dac6; --bar: #7869c4;
+    --stripe: linear-gradient(90deg, #c0392b 0 20%, #e67e22 20% 40%, #f1c40f 40% 60%, #27ae60 60% 80%, #2c6fbb 80%);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #2c2370; --panel: #352a86; --line: #4b3fa3; --fg: #c9c2ff; --muted: #958de0;
+      --accent: #a99fff; --accent-2: #8a7ff0; --chip: #41349a; --bar: #a99fff; color-scheme: dark; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 max(16px, env(safe-area-inset-left)) 48px max(16px, env(safe-area-inset-right)); }
+  .stripe { height: 6px; background: var(--stripe); }
+  header { padding-block: 28px 8px; display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px; }
+  h1 { margin: 0; font: 700 clamp(28px, 5vw, 40px)/1.1 ui-monospace, "SF Mono", Menlo, Consolas, monospace; letter-spacing: -0.5px; color: var(--accent); }
+  .lede { margin: 6px 0 0; color: var(--muted); max-width: 60ch; }
+  .lang { background: none; border: 1px solid var(--line); color: var(--fg); border-radius: 6px; padding: 4px 10px; cursor: pointer; font: inherit; font-size: 14px; }
+  .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-top: 20px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; min-width: 0; }
+  .num { font: 700 clamp(22px, 6vw, 30px)/1.1 ui-monospace, "SF Mono", Menlo, Consolas, monospace; color: var(--accent); }
+  .lbl { font-size: 13px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+  .charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 12px; margin-top: 12px; }
+  .bars { display: grid; gap: 6px; margin-top: 8px; }
+  .bar { display: grid; grid-template-columns: 70px 1fr 40px; align-items: center; gap: 8px; font-size: 14px; }
+  .bar i { display: block; height: 10px; border-radius: 3px; background: var(--bar); min-width: 2px; }
+  .bar span:last-child { text-align: right; color: var(--muted); font-variant-numeric: tabular-nums; }
+  h2 { font-size: 18px; margin: 32px 0 10px; }
+  .search { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .search input[type=search] { flex: 1 1 260px; min-width: 0; font: inherit; padding: 10px 12px; border-radius: 8px;
+    border: 1px solid var(--line); background: var(--panel); color: var(--fg); }
+  .search select { font: inherit; padding: 9px 8px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); color: var(--fg); }
+  .search label { font-size: 14px; display: flex; gap: 6px; align-items: center; }
+  .count { color: var(--muted); font-size: 14px; margin: 10px 0; }
+  .list { display: grid; gap: 10px; }
+  .game { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; display: grid;
+    grid-template-columns: 160px 1fr; gap: 14px; padding: 10px; cursor: pointer; }
+  .game:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .shot { width: 160px; aspect-ratio: 8 / 5; max-width: 100%; border-radius: 4px; background: var(--chip); object-fit: cover; image-rendering: pixelated; }
+  .noshot { width: 160px; aspect-ratio: 8 / 5; max-width: 100%; border-radius: 4px; background: var(--chip); display: grid; place-items: center;
+    color: var(--muted); font: 12px ui-monospace, Menlo, monospace; }
+  .info { min-width: 0; }
+  .title { font-weight: 650; font-size: 17px; }
+  .sub { color: var(--muted); font-size: 14px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+  .chip { background: var(--chip); border-radius: 4px; padding: 1px 6px; font-size: 12px; }
+  .chip.f { font-family: ui-monospace, Menlo, monospace; }
+  .more { display: none; grid-column: 1 / -1; border-top: 1px solid var(--line); padding-top: 10px; font-size: 15px; }
+  .game.open .more { display: block; }
+  .more p { margin: 0 0 8px; white-space: pre-line; max-width: 75ch; }
+  .shots2 { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+  .shots2 img { width: 320px; max-width: 100%; aspect-ratio: 8 / 5; image-rendering: pixelated; border-radius: 4px; }
+  .files { font: 12px/1.6 ui-monospace, Menlo, monospace; color: var(--muted); overflow-x: auto; }
+  .btn { font: inherit; padding: 8px 16px; border-radius: 8px; border: 1px solid var(--line); background: var(--panel); color: var(--fg); cursor: pointer; margin-top: 12px; }
+  footer { margin-top: 40px; font-size: 14px; color: var(--muted); display: grid; gap: 4px; }
+  a { color: var(--accent); }
+  @media (max-width: 560px) {
+    .game { grid-template-columns: 96px 1fr; }
+    .shot, .noshot { width: 96px; }
+  }
+</style>
+</head>
+<body>
+<div class="stripe"></div>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Breadbin-DB</h1>
+      <p class="lede" data-t="lede">Gemeinschaftsdaten für Breadbin: selbst geschriebene Angaben und Bildschirmfotos zu C64-Spielen.</p>
+    </div>
+    <button class="lang" id="lang" type="button">English</button>
+  </header>
+
+  <section class="stats" id="stats" aria-live="polite">
+    <div class="card"><div class="num" id="s-games">…</div><div class="lbl" data-t="games">Spiele</div></div>
+    <div class="card"><div class="num" id="s-files">…</div><div class="lbl" data-t="files">Dateien</div></div>
+    <div class="card"><div class="num" id="s-img">…</div><div class="lbl" data-t="withimg">mit Bild</div></div>
+    <div class="card"><div class="num" id="s-date">…</div><div class="lbl" data-t="stand">Stand</div></div>
+  </section>
+  <section class="charts">
+    <div class="card"><div class="lbl" data-t="byformat">Nach Format</div><div class="bars" id="c-format"></div></div>
+    <div class="card"><div class="lbl" data-t="bydecade">Nach Erscheinungsjahr</div><div class="bars" id="c-decade"></div></div>
+  </section>
+
+  <h2 data-t="search">Suchen</h2>
+  <div class="search">
+    <input type="search" id="q" autocomplete="off" spellcheck="false" placeholder="Titel, Herausgeber, Entwickler, Genre, Jahr …" data-tp="ph">
+    <select id="f-format"><option value="" data-t="allformats">Alle Formate</option></select>
+    <label><input type="checkbox" id="f-img"> <span data-t="onlyimg">nur mit Bild</span></label>
+  </div>
+  <div class="count" id="count"></div>
+  <div class="list" id="list"></div>
+  <button class="btn" id="more" type="button" hidden data-t="showmore">Mehr zeigen</button>
+
+  <footer>
+    <div><span data-t="license">Daten und Bilder unter</span> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" id="lic">CC BY-SA 4.0</a>.
+      <span data-t="dl">Alles auf einmal:</span> <a href="breadbin-db.zip">breadbin-db.zip</a></div>
+    <div><span data-t="app">Lesen und ergänzen mit der Desktop-App Breadbin</span> – <a href="https://8bitcavern.de">8bitcavern.de</a></div>
+  </footer>
+</div>
+<script>
+"use strict";
+const EN = {
+  lede: "Community data for Breadbin: self-written details and screenshots of C64 games.",
+  games: "Games", files: "Files", withimg: "with picture", stand: "Updated",
+  byformat: "By format", bydecade: "By release year", search: "Search", allformats: "All formats",
+  onlyimg: "picture only", showmore: "Show more", license: "Data and pictures under",
+  dl: "Everything at once:", app: "Read and extend it with the Breadbin desktop app",
+  ph: "Title, publisher, developer, genre, year …", unknown: "unknown",
+  n: (a, b) => b === undefined ? `${a} games` : `${a} of ${b} games`,
+  dev: "Developer", players: "Players", noimg: "no picture",
+};
+const DE = { n: (a, b) => b === undefined ? `${a} Spiele` : `${a} von ${b} Spielen`, unknown: "unbekannt",
+  dev: "Entwicklung", players: "Spieler", noimg: "kein Bild" };
+let lang = (navigator.language || "de").slice(0, 2) === "de" ? "de" : "en";
+try { lang = localStorage.getItem("lang") || lang; } catch { /* egal */ }
+const T = (k) => (lang === "en" ? EN[k] : DE[k]);
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const nf = (n) => n.toLocaleString(lang === "en" ? "en-GB" : "de-DE");
+
+const original = new Map();
+function applyLang() {
+  document.documentElement.lang = lang;
+  document.querySelectorAll("[data-t]").forEach((el) => {
+    if (!original.has(el)) original.set(el, el.textContent);
+    el.textContent = lang === "en" ? EN[el.dataset.t] : original.get(el);
+  });
+  const q = $("#q");
+  if (!q.dataset.de) q.dataset.de = q.placeholder;
+  q.placeholder = lang === "en" ? EN.ph : q.dataset.de;
+  $("#lang").textContent = lang === "en" ? "Deutsch" : "English";
+  $("#lic").href = `https://creativecommons.org/licenses/by-sa/4.0/${lang === "en" ? "" : "deed.de"}`;
+}
+
+let DATA = null, hits = [], shown = 0;
+const PAGE = 50;
+
+function bars(el, rows) {
+  const max = Math.max(1, ...rows.map((r) => r[1]));
+  el.innerHTML = rows.map(([k, v]) =>
+    `<div class="bar"><span class="mono">${esc(k)}</span><i style="width:${(v / max) * 100}%"></i><span>${nf(v)}</span></div>`).join("");
+}
+
+function stats() {
+  const g = DATA.games;
+  $("#s-games").textContent = nf(g.length);
+  $("#s-files").textContent = nf(DATA.files);
+  $("#s-img").textContent = nf(g.filter((e) => e.sstitle || e.ss).length);
+  $("#s-date").textContent = new Date(DATA.created * 1000).toLocaleDateString(lang === "en" ? "en-GB" : "de-DE");
+  const fmt = {};
+  g.forEach((e) => new Set(e.v.map((v) => v.f)).forEach((f) => { fmt[f] = (fmt[f] || 0) + 1; }));
+  bars($("#c-format"), Object.entries(fmt).sort((a, b) => b[1] - a[1]));
+  const dec = {};
+  g.forEach((e) => {
+    const y = parseInt(e.y, 10);
+    const k = y > 1970 ? `${Math.floor(y / 10) * 10}er`.replace(/er$/, lang === "en" ? "s" : "er") : T("unknown");
+    dec[k] = (dec[k] || 0) + 1;
+  });
+  bars($("#c-decade"), Object.entries(dec).sort((a, b) => a[0].localeCompare(b[0])));
+}
+
+function fillFormats() {
+  const sel = $("#f-format");
+  const fmts = [...new Set(DATA.games.flatMap((e) => e.v.map((v) => v.f)))].filter(Boolean).sort();
+  sel.insertAdjacentHTML("beforeend", fmts.map((f) => `<option>${esc(f)}</option>`).join(""));
+}
+
+const hay = (e) => (e._h ??= [e.t, e.p, e.d, e.y, ...(e.g || []), ...e.v.map((v) => v.n)].join(" ").toLowerCase());
+
+function search() {
+  const words = $("#q").value.toLowerCase().split(/\s+/).filter(Boolean);
+  const f = $("#f-format").value, img = $("#f-img").checked;
+  hits = DATA.games.filter((e) => words.every((w) => hay(e).includes(w))
+    && (!f || e.v.some((v) => v.f === f)) && (!img || e.sstitle || e.ss));
+  shown = 0;
+  $("#list").innerHTML = "";
+  $("#count").textContent = hits.length === DATA.games.length ? T("n")(nf(hits.length)) : T("n")(nf(hits.length), nf(DATA.games.length));
+  more();
+  try { history.replaceState(null, "", $("#q").value ? `#${encodeURIComponent($("#q").value)}` : location.pathname); } catch { /* egal */ }
+}
+
+function card(e) {
+  const img = e.sstitle || e.ss;
+  const sub = [e.y, e.p].filter(Boolean).map(esc).join(" · ");
+  const fmts = [...new Set(e.v.map((v) => v.f))];
+  return `<article class="game" tabindex="0">
+    ${img ? `<img class="shot" loading="lazy" alt="" src="${esc(img)}">` : `<div class="noshot">${T("noimg")}</div>`}
+    <div class="info">
+      <div class="title">${esc(e.t)}</div>
+      <div class="sub">${sub}</div>
+      <div class="chips">${fmts.map((f) => `<span class="chip f">${esc(f)}</span>`).join("")}${(e.g || []).map((g) => `<span class="chip">${esc(g)}</span>`).join("")}</div>
+    </div>
+    <div class="more">
+      ${e.sstitle && e.ss ? `<div class="shots2"><img loading="lazy" alt="" src="${esc(e.sstitle)}"><img loading="lazy" alt="" src="${esc(e.ss)}"></div>` : ""}
+      ${e.s ? `<p>${esc(e.s)}</p>` : ""}
+      <div class="sub">${[e.d && `${T("dev")}: ${esc(e.d)}`, e.pl && `${T("players")}: ${esc(e.pl)}`].filter(Boolean).join(" · ")}</div>
+      <div class="files">${e.v.map((v) => `${esc(v.n)} · ${esc(v.f)} · ${nf(v.z)} B · SHA-1 ${esc(v.h)}`).join("<br>")}</div>
+    </div>
+  </article>`;
+}
+
+function more() {
+  const next = hits.slice(shown, shown + PAGE);
+  $("#list").insertAdjacentHTML("beforeend", next.map(card).join(""));
+  shown += next.length;
+  $("#more").hidden = shown >= hits.length;
+}
+
+$("#list").addEventListener("click", (ev) => { const g = ev.target.closest(".game"); if (g && !ev.target.closest("a")) g.classList.toggle("open"); });
+$("#list").addEventListener("keydown", (ev) => { if ((ev.key === "Enter" || ev.key === " ") && ev.target.classList.contains("game")) { ev.preventDefault(); ev.target.classList.toggle("open"); } });
+$("#more").addEventListener("click", more);
+let timer;
+$("#q").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(search, 120); });
+$("#f-format").addEventListener("change", search);
+$("#f-img").addEventListener("change", search);
+$("#lang").addEventListener("click", () => {
+  lang = lang === "en" ? "de" : "en";
+  try { localStorage.setItem("lang", lang); } catch { /* egal */ }
+  applyLang(); if (DATA) { stats(); search(); }
+});
+
+applyLang();
+fetch("spiele.json", { cache: "no-cache" }).then((r) => r.json()).then((d) => {
+  DATA = d;
+  if (location.hash.length > 1) $("#q").value = decodeURIComponent(location.hash.slice(1));
+  stats(); fillFormats(); search();
+}).catch((e) => { $("#count").textContent = String(e); });
+</script>
+</body>
+</html>
