@@ -25,4 +25,9 @@ return [
     // Veröffentlichter Stand für den Vergleich auf der Prüfseite (neu / geändert / unverändert).
     // Standard: der Spiegel neben dem Annahme-Ordner (<web>/breadbindb/breadbin-db.zip). Nur nötig, wenn er woanders liegt.
     // 'stand_zip' => '/pfad/zu/breadbin-db.zip',
+
+    // Abholung angenommener Beiträge durch GitHub (api/export.php, Workflow „Beiträge übernehmen“):
+    // SHA-256 des Schlüssels, der als Secret BEITRAG_TOKEN im Daten-Repository liegt. Leer = abgeschaltet.
+    //   printf %s 'schlüssel' | shasum -a 256
+    // 'export_token_sha256' => '',
 ];

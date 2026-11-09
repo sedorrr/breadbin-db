@@ -1,0 +1,38 @@
+# Angenommene Beiträge vom Annahme-Server holen und übernehmen (tools/uebernehmen.py): je Beitrag ein Commit,
+# danach Stand und Spiegel neu bauen. Läuft stündlich und auf Knopfdruck.
+# Braucht: Secret BEITRAG_TOKEN (Schlüssel; in config.php auf dem Server steht nur dessen SHA-256 als
+# 'export_token_sha256') und Variable BEITRAG_URL (Adresse von api/export.php). Fehlt eines, passiert nichts.
+# Pull accepted contributions from the submission server hourly (one commit each), then rebuild data and mirror.
+name: Beiträge übernehmen
+on:
+  schedule:
+    - cron: "23 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: uebernehmen
+  cancel-in-progress: false
+permissions:
+  contents: write
+  actions: write
+jobs:
+  uebernehmen:
+    runs-on: ubuntu-latest
+    env:
+      BEITRAG_URL: ${{ vars.BEITRAG_URL }}
+      BEITRAG_TOKEN: ${{ secrets.BEITRAG_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Eingerichtet?
+        id: da
+        run: echo "ok=$([ -n "$BEITRAG_URL" ] && [ -n "$BEITRAG_TOKEN" ] && echo 1 || echo 0)" >> "$GITHUB_OUTPUT"
+      - if: steps.da.outputs.ok == '1'
+        id: holen
+        run: python3 tools/uebernehmen.py --push
+      # Pushes mit GITHUB_TOKEN lösen keine anderen Workflows aus, workflow_dispatch schon.
+      - if: ${{ always() && steps.holen.outputs.geaendert == '1' }}
+        name: Stand und Spiegel anstoßen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh workflow run stand.yml --ref main
+          gh workflow run spiegel.yml --ref main

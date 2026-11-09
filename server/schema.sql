@@ -13,7 +13,8 @@ CREATE TABLE IF NOT EXISTS beitraege (
   hinweis       TEXT NOT NULL,                 -- freiwillig: Nachricht an die Prüfenden
   ip_hash       CHAR(64) NOT NULL,             -- SHA-256 der IP mit Salz, nur für die Eingangsbremse
   entschieden   DATETIME NULL,
-  notiz         TEXT NOT NULL                  -- Notiz der Prüfenden (z. B. Ablehnungsgrund)
+  notiz         TEXT NOT NULL,                 -- Notiz der Prüfenden (z. B. Ablehnungsgrund)
+  uebernommen   DATETIME NULL                  -- vom Workflow „Beiträge übernehmen“ ins Daten-Repository geholt
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 CREATE INDEX beitraege_status ON beitraege (status, eingang);

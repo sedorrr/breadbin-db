@@ -15,6 +15,10 @@ on:
         description: "Nur Ordner auf dem Webspace auflisten (Fehlersuche)"
         type: boolean
         default: false
+# Läufe nacheinander (Stand und „Beiträge übernehmen“ können beide einen Lauf anstoßen)
+concurrency:
+  group: spiegel
+  cancel-in-progress: false
 jobs:
   spiegel:
     if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
