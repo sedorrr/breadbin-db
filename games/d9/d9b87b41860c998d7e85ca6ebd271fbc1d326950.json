@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "d9b87b41860c998d7e85ca6ebd271fbc1d326950",
+  "md5": "5322f80a0c0cdb1643da8902fdf5691a",
+  "crc32": "ebd08559",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "rambo3-crymod.d64"
+  ],
+  "title": "Rambo III (2nd-Fire-Mod)",
+  "year": "1988",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum Film: Rambo dringt in ein sowjetisches Lager in Afghanistan ein, um Colonel Trautman zu befreien. Im ersten Teil durchsucht man aus der Vogelperspektive das Lager, sammelt Gegenstände und Waffen und schaltet Wachen aus; danach folgen Actionabschnitte.\n\nUmbau von CrystalCT (September 2022, „crymod“): Zweiter Knopf benutzt den Gegenstand, dritter Knopf nimmt auf bzw. tauscht; mit den Zusatztasten Start/Select von crystalcts 5+1-Joystick wechselt man die Waffe bzw. blättert im Inventar. Die normalen Tasten bleiben gültig. Diskette mit Anleitungsprogramm „instructions-joy“. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Ocean · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/e7/e717d3c8ec63c543b464d854f4d7a57af2b6a147.png",
+    "sstitle": "images/2b/2b152b0c8d85d6c85a790889cff5bf08a5654ed7.png"
+  }
+}

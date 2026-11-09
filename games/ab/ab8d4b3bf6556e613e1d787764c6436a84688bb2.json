@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "ab8d4b3bf6556e613e1d787764c6436a84688bb2",
+  "md5": "b3bd5b83dafc79350e0c2ec6f1f5c311",
+  "crc32": "df9dd64b",
+  "size": 51161,
+  "format": "PRG",
+  "files": [
+    "corescape.prg"
+  ],
+  "screenscraper_id": "576516",
+  "title": "Corescape",
+  "year": "2024",
+  "publisher": "drmortalwombat",
+  "developer": "drmortalwombat",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Ein Schmuggler flieht nach einem geplatzten Geschäft aus dem Kern einer imperialen Raumstation und muss sich durch acht Abschnitte nach draußen kämpfen. Der Bildschirm läuft unaufhaltsam weiter; Wände und Hindernisse sind der eigentliche Gegner, gegnerische Schiffe kommen nur hinzu. Die Abschnitte sind fest vorgegeben und wollen auswendig gelernt werden – das Spiel ist bewusst schwer. Extraleben liegen oft versteckt in Nischen abseits des Weges, die Schussrichtung lässt sich über die seitliche Bewegung beeinflussen.\n\nEinzeldatei ohne Nachladen, für PAL entwickelt (NTSC nicht zugesichert). Joystick in Port 2, Leertaste pausiert, STOP führt ins Hauptmenü. Während des Spiels lassen sich Schummeltasten zuschalten (T unendliche Leben, L Extraleben, R Abschnitt neu, S Abschnitt überspringen, H halbe Geschwindigkeit); dann zählt kein Highscore. Der Quelltext wurde 2025 veröffentlicht.\n\nCode: drmortalwombat · Musik: Crisps",
+  "images": {
+    "ss": "images/ec/ec5120d4fc6f36c1f1b4b9f89cafaef9a1becb9d.png",
+    "sstitle": "images/6e/6e89b0f2903fe004c9394b17c86d42010c089107.png"
+  }
+}

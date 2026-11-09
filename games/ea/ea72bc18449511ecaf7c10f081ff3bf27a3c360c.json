@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "ea72bc18449511ecaf7c10f081ff3bf27a3c360c",
+  "md5": "03efa950adf290ad7f47a1811a396a14",
+  "crc32": "56c75794",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "boulderdash-gs.crt"
+  ],
+  "title": "Boulder Dash (C64GS-Fassung)",
+  "year": "1984",
+  "publisher": "First Star Software",
+  "developer": "Peter Liepa, Chris Gray",
+  "genres": [
+    "Action / Labyrinth",
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Rockford gräbt sich durch Höhlen voller Erde, Felsbrocken und Diamanten. Wer genug Diamanten in der Zeit sammelt, öffnet den Ausgang; fallende Steine, Schmetterlinge und Glühwürmchen sowie wachsende Amöben verlangen vorausschauendes Graben.\n\nModul-Umbau von CrystalCT, auf GitHub veröffentlicht im Mai 2023. Mit dem zweiten Feuerknopf wählt man auf dem Startbild Spielerzahl und Joystick, wofür im Original die Tastatur nötig ist. Die Fassung liegt als 64-KB-Modul im Magic-Desk-Format vor und ist laut Modder C64GS-tauglich, kommt also ohne Tastatur aus. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "images": {
+    "ss": "images/8f/8f9dfaee5f609808cf8268374ae539a279751bdf.png",
+    "sstitle": "images/48/486527d67070570271d63e606de3d23684a46bce.png"
+  }
+}

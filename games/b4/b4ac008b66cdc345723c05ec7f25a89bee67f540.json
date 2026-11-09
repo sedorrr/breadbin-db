@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "b4ac008b66cdc345723c05ec7f25a89bee67f540",
+  "md5": "d503d4275dd898251515a11766a28327",
+  "crc32": "98b42377",
+  "size": 205264,
+  "format": "CRT",
+  "files": [
+    "ZetaWing2 v1_01.crt"
+  ],
+  "title": "Zeta Wing 2",
+  "year": "2023",
+  "publisher": "Witchsoft",
+  "developer": "Sarah Jane Avory",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung des preisgekrönten Zeta Wing: Senkrecht scrollender Shooter gegen zurückgekehrte Mutantenwesen in sieben Abschnitten mit eigener Grafik, viel Parallax-Scrolling und je einem Endgegner. Wer ganze Angriffswellen abschießt, erhält Sterne; neun Sterne verbessern die Waffe (zwölf Stufen), ein Lebensverlust kostet eine Stufe. Dazu kommen Smart Bombs (auf Wunsch automatisch) und Bonussymbole.\n\nDrei Schwierigkeitsgrade, PAL und NTSC, Musik und Effekte gleichzeitig. Joystick in Port 2 oder Tastatur; ein zweiter Feuerknopf nach C64GS-Art löst die Smart Bomb aus (mit F3 abschaltbar). Einstellungen und Bestenliste werden auf Diskette bzw. EasyFlash-Modul gespeichert. Hier die Diskettenfassung 1.0 und die Modulfassung 1.01, erschienen ab 28.04.2023.\n\nCode, Grafik, Musik: Sarah Jane Avory",
+  "images": {
+    "ss": "images/96/96d13884f143b1220caa9098279acce0ce14ff0d.png",
+    "sstitle": "images/f8/f8cc5a752a6a863e86b2a30d148ff97d7a4fe5a6.png"
+  }
+}

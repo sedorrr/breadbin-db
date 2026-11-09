@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "42273a349ea3906704e18076a40aa4b40e3660e0",
+  "md5": "0819cc3cc35db984bc52fb49cb33e8a7",
+  "crc32": "b7e19a6c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "IK_GOLD.D64"
+  ],
+  "screenscraper_id": "36218",
+  "title": "International Karate + Gold",
+  "year": "1987",
+  "publisher": "System 3",
+  "developer": "Archer Maclean; Bearbeitung: Ninja (The Dreams)",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-3",
+  "synopsis": "Karatekampf mit drei Kämpfern gleichzeitig auf einem Bildschirm: Wer Treffer landet, sammelt Punkte, der Schwächste scheidet aus. Zwischen den Runden gibt es Bonusspiele, etwa Bälle mit dem Schild abwehren.\n\nÜberarbeitung von Ninja (The Dreams), veröffentlicht am 10.06.2001: Alle drei Kämpfer lassen sich von Menschen steuern, den dritten über einen 4-Spieler-Adapter; dazu weitere kleine Verbesserungen. Auf der Diskette liegen Bauanleitungen für verschiedene Adapter (8 SNES-Pads, CGA-Adapter, D&H-Adapter) samt Leseprogramm sowie als Zugabe „Thrust Gold“, eine verbesserte Fassung von Thrust (läuft laut Info auch auf C128 bzw. SuperCPU schneller).\n\nOriginal: Archer Maclean (System 3, 1987) · Bearbeitung: Ninja",
+  "images": {
+    "sstitle": "images/74/744714ee88059ee13cbbe5f649d510c0d4ae7a66.png"
+  }
+}

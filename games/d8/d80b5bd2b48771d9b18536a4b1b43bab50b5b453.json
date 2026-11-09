@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "d80b5bd2b48771d9b18536a4b1b43bab50b5b453",
+  "md5": "61dbfaa2492bc4df1ae63bdf00b7d05c",
+  "crc32": "9478baf4",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "op-wolf-gs.crt"
+  ],
+  "title": "Operation Wolf (C64GS-Mod)",
+  "year": "1988",
+  "publisher": "Ocean",
+  "developer": "Colin Porch",
+  "genres": [
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Taito-Automaten: Aus der Ich-Sicht schießt man mit einem Fadenkreuz auf Soldaten, Fahrzeuge und Hubschrauber, die über den seitlich scrollenden Hintergrund angreifen. In sechs Abschnitten gilt es, Gefangene zu befreien und Munition sowie Granaten nachzuschieben.\n\nUmbau von CrystalCT (September 2022): Der zweite Feuerknopf wirft eine Granate (im Original Leertaste). Zusätzlich lässt sich eine NEOS-Maus in Port 2 verwenden; dazu startet man mit Feuer am Joystick in Port 1. Magic-Desk-Modul (64 KB) mit Startmenü, C64GS-tauglich. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nCode: Colin Porch · Grafik: Stephen Wahid · Musik: Jonathan Dunn · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/f2/f24cacad3daff72722c6ec49196bad859f159023.png",
+    "sstitle": "images/ae/ae8c92be4f63da675fd0b69a38a9b687a7d6fe82.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "0c30dec98e135279466da07480abf6c7076575fe",
+  "md5": "86a39c3e73178703574c56a20bc2a1de",
+  "crc32": "b92a3251",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TURRI1-0.D64"
+  ],
+  "screenscraper_id": "35904",
+  "title": "Turrican",
+  "year": "1990",
+  "publisher": "Rainbow Arts",
+  "developer": "Manfred Trenz",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Im Kampfanzug Turrican durchstreift man fünf Welten mit großen, frei erkundbaren Leveln, die in alle Richtungen scrollen. Neben dem aufrüstbaren Hauptschuss stehen ein schwenkbarer Blitzstrahl, Granaten und Minen sowie die Verwandlung in ein unverwundbares Rad zur Verfügung; versteckte Extras, Zeitlimit und große Endgegner prägen das Spiel.\n\nVier D64 (Kopf „ASS presents“): Disk 0 und 1 sind die PAL-Fassung mit Trainer („+“) und Intro, Disk 2 und 3 die NTSC-Fassung. Joystick in Port 2.\n\nIdee, Code, Grafik: Manfred Trenz · Musik: Ramiro Vaca u. a.",
+  "images": {
+    "sstitle": "images/f5/f559916472beb5acf08b61d7274c1a03ff06e718.png"
+  }
+}

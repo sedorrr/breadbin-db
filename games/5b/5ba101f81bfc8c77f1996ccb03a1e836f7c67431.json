@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "sha1": "5ba101f81bfc8c77f1996ccb03a1e836f7c67431",
+  "md5": "ef8f06de89d7631ff57bc52175d21b54",
+  "crc32": "2df90143",
+  "size": 175531,
+  "format": "D64",
+  "files": [
+    "Grand_Prix_Circuit_(Drive).d64"
+  ],
+  "screenscraper_id": "36181",
+  "title": "Grand Prix Circuit",
+  "year": "1988",
+  "publisher": "Accolade",
+  "developer": "Distinctive Software",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Formel-1-Rennsimulation aus der Cockpitsicht in 3D: Drei verschiedene Rennwagen, acht Strecken und Felder aus zehn Fahrzeugen, deren neun Gegner eigenständig fahren. Man wählt zwischen Trainingsfahrt, Einzelrennen und Weltmeisterschaft sowie fünf Schwierigkeitsstufen; für jede Strecke wird eine Rundenrekordliste gespeichert.\n\nZwei Fassungen: Drive (PAL/NTSC-angepasste Einzeldatei; zu Beginn P für PAL oder N für NTSC wählen, lange Ladezeit) und Nostalgia #208 (mit Anleitung und PAL-Fix; läuft laut Infodatei auch auf 1570/1571, 1581, CMD-Laufwerken, IDE64 und mit REU). Joystick in Port 2, englisch.\n\nCode: Frank Barchard, Kevin Pickell · Musik: Kris Hatlelid"
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "bdafcb14e91ce4cc8beff01c5d00b35bfaf9f361",
+  "md5": "6e241ed8bf67c71df3f7a02ee8b4de96",
+  "crc32": "45c31b7e",
+  "size": 47726,
+  "format": "T64",
+  "files": [
+    "CHILLER1.T64"
+  ],
+  "title": "Chiller",
+  "year": "1984",
+  "publisher": "Mastertronic",
+  "developer": "Richard Darling, David Darling",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Plattformspiel über mehrere Bildschirme, in dem man seine Freundin aus einer Gruselgegend retten muss. Die Schauplätze – Wald, Kino, Straße, Friedhof und Haus – sind dem Musikvideo zu Michael Jacksons „Thriller“ nachempfunden; unterwegs sammelt man Gegenstände ein und weicht Geistern und anderen Gestalten aus.\n\nDie ersten Exemplare der C64-Fassung wurden zurückgezogen, weil die Titelmusik ohne Lizenz „Thriller“ nachspielte; spätere Auflagen bekamen andere Musik. Diese Datei ist ein T64 mit Spiel und Ladebild (Kopf „ASS presents“); welche Musikfassung enthalten ist, ist nicht geprüft. Joystick in Port 2.\n\nCode: Richard Darling · Grafik: David Darling, James Wilson · Musik: David Dunn",
+  "images": {
+    "ss": "images/dd/dd74e02015334d2c5ccd3058b222bfc7f733ec8a.png"
+  }
+}

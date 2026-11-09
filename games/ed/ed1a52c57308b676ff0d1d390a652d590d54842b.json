@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "ed1a52c57308b676ff0d1d390a652d590d54842b",
+  "md5": "3012e692625f0db5a979dc3f6c50b94b",
+  "crc32": "78083e26",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FIZZ-V1.0.0_AD.d64"
+  ],
+  "title": "FiZZ",
+  "year": "2023",
+  "publisher": "fleischgemuese",
+  "developer": "Andy Daumann",
+  "genres": [
+    "Puzzle",
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "Knobel-Plattformspiel mit 40 Einzel- und 30 Koop-Levels. Die Spielfigur kann über Schwerkraftkapseln die Schwerkraft in alle vier Richtungen umlegen und mit Laserportalen springen; Spiegel lenken Laser um. Die ersten Level dienen als Einführung, die Koop-Level lassen sich auch allein spielen. Wer feststeckt, startet den Level mit DEL neu.\n\nDiskettenfassung 1.0.0 (Erstveröffentlichung 01.09.2023) mit Krill-Schnelllader; spätere Fassungen bis 1.0.5 beheben Fehler, eine Modulfassung und ein Level-Editor für den PC kamen dazu. Joystick, Englisch. Geschrieben mit Turbo Rascal Syntax Error (TRSE).\n\nCode, Grafik, Leveldesign: Andy Daumann · Musik: picrard",
+  "images": {
+    "sstitle": "images/2b/2b084b58560d780f2b078c65b5e2b8ba71d26c7f.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "27fe5b535c46d612d570e9525fef9accd53fd15e",
+  "md5": "3f976942cd7ff9ae2b971ffe13dc20b2",
+  "crc32": "1a60a13c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Cruisin_For_A_Bruisin.d64"
+  ],
+  "title": "Cruisin' For A Bruisin'",
+  "year": "2024",
+  "publisher": "Megastyle",
+  "developer": "Docster, Rotteroy",
+  "genres": [
+    "Plattform",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Ein springendes Auto hüpft von Plattform zu Plattform und sammelt Farbpunkte in Rot, Grün, Blau, Gelb und Lila. Je mehr auf einer Plattform eingesammelt wird, desto mehr Punkte gibt es; sind alle fünf Farben beisammen, steigt der Multiplikator. Graue Plattformen sind brüchig, ein Sturz auf den Boden lässt das Auto explodieren. Ein Anhalter bringt Bonuspunkte, wenn man ihn aufnimmt statt auf ihm zu landen.\n\nEin-Knopf-Spiel: Feuer springt, ein zweiter Druck in der Luft löst einen Doppelsprung aus. RUN/STOP führt zum Titelbild, F7 öffnet ein Schummelmenü (dann wird kein Highscore gespeichert). Disk-Fassung.\n\nIdee und Code: Docster · Grafik und Musik: Rotteroy · Linking: Six",
+  "images": {
+    "sstitle": "images/74/74235ef0e28259c822026f86ef263adc3d935381.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "49919e60df2d53a56edea3f91f0d02f3a85766fc",
+  "md5": "dd289500a52bdcdc703532da85bc4917",
+  "crc32": "3b7dc159",
+  "size": 262720,
+  "format": "CRT",
+  "files": [
+    "GianaPower.crt"
+  ],
+  "title": "Giana Power [Modul]",
+  "year": "2024",
+  "publisher": "Falborg",
+  "developer": "Falborg (Zusammenstellung); Original: Time Warp Productions",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Sammlung"
+  ],
+  "players": "1-2",
+  "synopsis": "Modul-Zusammenstellung mehrerer Giana-Sisters-Fassungen, die der dänische Szener Falborg 2024 veröffentlicht hat. Laut CSDb enthält sie „Giana Sisters 1“ bis „5“ sowie „Giana Power“; die 16 Level der Szene-Fassung „Giana Power Edition 2023“ sind nachweislich im Modul enthalten. Das Spielprinzip ist das des Klassikers The Great Giana Sisters (1987): durch seitlich scrollende Welten laufen, springen, Diamanten sammeln und Gegnern ausweichen.\n\nMagic-Desk-Modul (256 KB), läuft ohne Diskettenlaufwerk. Joystick. Auf CSDb als Recrack eingeordnet; Titelmusik „Giana Mix“ von Walt.",
+  "images": {
+    "ss": "images/6d/6d0b8703bda95e6ffb674196935602f03ad1b007.png",
+    "sstitle": "images/89/89e1dba333ff1da676b89c6d7c7fc3a4c424d0bb.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "fd0e052d992cda9993c6d1b744e8ef14a99a5fe4",
+  "md5": "b30b5ff09de0c3d7397e7416e8ed823e",
+  "crc32": "dbe896e9",
+  "size": 22373,
+  "format": "PRG",
+  "files": [
+    "frogs.prg"
+  ],
+  "screenscraper_id": "493859",
+  "title": "Frogs",
+  "year": "2017",
+  "publisher": "Dr. Wuro Industries",
+  "developer": "ZeHa (Dr. Wuro Industries)",
+  "genres": [
+    "Action",
+    "Gelegenheitsspiel"
+  ],
+  "players": "2-4",
+  "synopsis": "Partyspiel für zwei bis vier Spieler: Frösche treten an einem Teich in kleinen Wettbewerben gegeneinander an. Mit der Zunge stößt man die Mitspieler ins Wasser oder schnappt ihnen die vorbeifliegenden Insekten weg, bevor sie selbst zugreifen.\n\nFür den dritten und vierten Spieler ist der 4-Spieler-Adapter am Userport („Classical Games 4-Player Interface“, auch von Protovision) nötig; VICE bildet ihn nach. Läuft auf C64 und C128 (die erste Fassung vom 30.03.2017 hatte einen C128-Fehler, behoben am 06.04.2017). Als PRG und D64.\n\nCode, Grafik, Musik: ZeHa",
+  "images": {
+    "ss": "images/06/0691731d56fb9be9a14e28336453dd2912c42f66.png",
+    "sstitle": "images/8d/8d11a387564ad5528f0f8c134de1ad61f6ad25b8.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "064c7749ac9528efdc8b8c3e227e952d87099c48",
+  "md5": "73419c027bc3c7579a613dbec4ce2d79",
+  "crc32": "90664da0",
+  "size": 475614,
+  "format": "TAP",
+  "files": [
+    "Rsmashex.tap"
+  ],
+  "title": "Rocket Smash EX",
+  "year": "2015",
+  "publisher": "RGCD / Psytronik Software",
+  "developer": "Saul Cross, John Christian Lønningdal",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Ein Raumfahrer muss auf fremden Planeten seine abgestürzte Rakete wieder zusammensetzen und betanken, bevor ihm der Sauerstoff ausgeht – während Meteore niedergehen und Außerirdische angreifen, die er mit seiner Laserwaffe abschießt. Jeder Level besteht aus vier Stufen auf je einem Bildschirm: Zuerst trägt man die Raketenteile zur Startrampe, danach nur noch sechs Treibstoffkapseln; der Bildschirm ist waagerecht durchgängig. Edelsteine und Geld bringen Zusatzpunkte. Erweiterte Fassung von „Rocket Smash“, dem Beitrag zum RGCD-16-KB-Modulwettbewerb 2013, mit Zwischensequenzen, Story- und Endlos-Modus (Loop) und drei Schwierigkeitsgraden.\n\nDrei Fassungen: CRT (64-KB-Modul von RGCD, nur hier mit verstecktem Bonusspiel), D64 und TAP (Diskette und Kassette von Psytronik). Für PAL ausgelegt, läuft auch auf NTSC (dort etwas schneller); C64, C128 und C64GS, keine Tastatur nötig. Joystick in Port 2: links/rechts treiben, oben Raketenrucksack, Feuer schießen.\n\nCode: John Christian Lønningdal · Design, Grafik, Musik: Saul Cross · Verpackung: Flemming Dupont",
+  "images": {
+    "ss": "images/83/833e781540da0134d0e3cb296cc3ec27df60aeb8.png",
+    "sstitle": "images/c5/c5a83ca00ca951faf39d22a44360928babab6f66.png"
+  }
+}

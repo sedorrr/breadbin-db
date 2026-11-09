@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "f6dfa6aaa6cdc1a387387a0795b220a6829f4d9a",
+  "md5": "e89d71f550ebce783a9c7833ef93e47b",
+  "crc32": "f1851734",
+  "size": 10390,
+  "format": "PRG",
+  "files": [
+    "scramble[2015]_2nd_fire.prg"
+  ],
+  "title": "Scramble (2015, 2nd-Fire-Mod)",
+  "year": "2015",
+  "publisher": "Tomk",
+  "developer": "Tomk",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Neue C64-Umsetzung des Konami-Automaten Scramble von 2015: Ein Jet fliegt durch eine seitlich scrollende Landschaft und Höhlen, schießt nach vorn und wirft Bomben auf Raketen, Treibstofflager und Bodenziele. Treibstoff füllt man durch Bombentreffer auf Tanks auf.\n\nUmbau von CrystalCT (Juli/August 2022): Schuss und Bombe liegen wie am Automaten getrennt, der zweite Feuerknopf wirft die Bomben. Ein-Datei-PRG. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nCode und Grafik: Tomk · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/15/151c48224d689819ef7a1f90abc98f042373d6a4.png",
+    "sstitle": "images/0e/0e15ffc125f7272fd75e534f2450be20143fb5b6.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "b20658736ac30181bb24a40c38bb640780e1e1a8",
+  "md5": "78839787095fb400dba1d608b8fb3da7",
+  "crc32": "ea85af4b",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "double_dragon_ocean_2nd_fire.crt"
+  ],
+  "title": "Double Dragon (Ocean, 2nd-Fire-Mod)",
+  "year": "1991",
+  "publisher": "Ocean",
+  "developer": "Imagitec Design",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Technos-Automaten in der seltenen Modulfassung von Ocean: Billy Lee prügelt sich durch Straßen, Fabrik und Wald, um seine entführte Freundin Marian zu befreien, und kann Waffen der Gegner aufheben.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im Oktober 2022, als 128-KB-Modul im Ocean-Format. Was der zweite Feuerknopf genau übernimmt, ist in den gefundenen Quellen nicht beschrieben. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "images": {
+    "ss": "images/77/776069fabfaa74911b40d4a6ad70daa6a77ccc7d.png",
+    "sstitle": "images/ca/ca4baba1bc6e5455590992dbbf77f812f5f064eb.png"
+  }
+}

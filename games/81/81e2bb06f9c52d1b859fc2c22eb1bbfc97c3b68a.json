@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "81e2bb06f9c52d1b859fc2c22eb1bbfc97c3b68a",
+  "md5": "684cdbd73fb65aa4353ec44630c8696f",
+  "crc32": "858baaf2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tenebra2_c64.d64"
+  ],
+  "screenscraper_id": "493505",
+  "title": "Tenebra 2",
+  "year": "2022",
+  "publisher": "Haplo",
+  "developer": "Haplo",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Direkte Fortsetzung des Rätselspiels Tenebra im Stil der Rogue-likes. Die Spielfigur hat Angst vor der Dunkelheit und betritt nur beleuchtete Felder; die Aufgabe ist, ihr einen beleuchteten Weg zum Ausgang zu verschaffen. Neu sind unter anderem eine Portalkanone und weitere Spielelemente. 35 Level.\n\nPAL und NTSC, Joystick. Nach einem Level überspringt gedrückt gehaltenes Feuer die Erklärungen, R führt zum Infobildschirm zurück. Als PRG und D64; Haplo hat das Spiel später auch für Plus/4, Amiga, Atari, Spectrum, CPC, MSX und NES umgesetzt.\n\nCode: Haplo",
+  "images": {
+    "ss": "images/9b/9b436d45a7fefb959eebdd83388e1209be4d8a39.png"
+  }
+}

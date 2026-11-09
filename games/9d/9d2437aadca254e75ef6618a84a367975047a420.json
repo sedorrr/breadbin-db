@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "9d2437aadca254e75ef6618a84a367975047a420",
+  "md5": "657a49df6a419a653a842e9ab14cc359",
+  "crc32": "fd0e0941",
+  "size": 31016,
+  "format": "PRG",
+  "files": [
+    "breakthrou-2nd-fire.prg"
+  ],
+  "title": "Breakthru (2nd-Fire-Mod)",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "developer": "Data East",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Data-East-Automaten: Mit einem gepanzerten Geländewagen fährt man durch feindliches Gebiet, um ein gestohlenes Kampfflugzeug zurückzuholen, schießt auf Panzer und Geschütze und springt über Hindernisse und Gräben.\n\nUmbau von CrystalCT, veröffentlicht am 2. Mai 2023 (CSDb: „Breakthru with 2nd Fire to Jump“). Der zweite Feuerknopf lässt das Fahrzeug springen. Das Ladebild hat CrystalCT selbst gezeichnet. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "images": {
+    "ss": "images/92/92196af2c2c65bbb50f5afb1451f6ed2e9fd37a9.png",
+    "sstitle": "images/65/65a979da92f72e3fcca527a9d7c72ddc3f98248d.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "7a79ec049d024cd86d5c09105a9e6b89ed1df15b",
+  "md5": "e26710d2970f0eac035f87d99c4e38cd",
+  "crc32": "a6113b4f",
+  "size": 34832,
+  "format": "PRG",
+  "files": [
+    "slapfight-2nd-fire.prg"
+  ],
+  "title": "Slap Fight (2nd-Fire-Mod)",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Imagine",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Toaplan-Automaten: Ein Raumgleiter fliegt über eine senkrecht scrollende Planetenoberfläche. Eingesammelte Sterne rücken eine Leiste mit Ausbaustufen weiter (Tempo, Seitenschuss, Flügel, Bomben, Laser, Zielsuchraketen, Schild), die man zum passenden Zeitpunkt aktiviert.\n\nUmbau von CrystalCT (März 2023) für einen zweiten Feuerknopf. Ein-Datei-PRG. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Imagine (Toaplan) · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/77/77a18a5ffebf5ae2995b01c6248776201014bad2.png",
+    "sstitle": "images/b9/b9546fd90100f39a52b7972d4243092b90ac06c6.png"
+  }
+}

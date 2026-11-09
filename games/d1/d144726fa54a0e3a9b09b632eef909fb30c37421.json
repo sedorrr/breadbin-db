@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "d144726fa54a0e3a9b09b632eef909fb30c37421",
+  "md5": "46f83233b825f052800e2480d657b58f",
+  "crc32": "9794000c",
+  "size": 525376,
+  "format": "CRT",
+  "files": [
+    "rockyandco_icon64-gs_512.crt"
+  ],
+  "title": "Rocky & Co",
+  "year": "2023",
+  "publisher": "Psytronik Software",
+  "developer": "ICON64",
+  "genres": [
+    "Puzzle",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Abenteurer Rocky Memphis sucht im Tempel des Königs Ku die goldene Kondor-Statue, dicht verfolgt vom französischen Schatzjäger Russo Baluch. Dieses Mal helfen ihm Spud und Jet: Rocky hat eine Peitsche, der schwere Spud kann große Schalter umlegen, Jet ist besonders flink. Zwischen den drei Figuren wird umgeschaltet (Leertaste oder Feuer halten und nach unten), um in zwölf Leveln Rätsel zu lösen; wer die Buchstaben I-C-O-N findet, schaltet ein Geheimnis frei.\n\nAls Modul in mehreren Formaten (Magic Desk 256/512 KB, GS-Format, EasyFlash-tauglich); die Download-Ausgabe enthält auch D64/D81. PAL und NTSC, unterstützt einen zweiten Feuerknopf. Im Titelbild: unten = Ton-Auswahl, oben = Übungsmodus mit unendlich Leben (ohne Abspann).\n\nCode: Stuart Collier · Design und Grafik: Trevor Storey · Musik: Saul Cross · Zusätzliche Modulentwicklung: Mike Robertson",
+  "images": {
+    "sstitle": "images/a7/a73e2f782c2be8a25d02bdd3147781c142bd559b.png"
+  }
+}

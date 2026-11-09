@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "46239131fea80eede3623b8e45a8e7f9fc56c5b1",
+  "md5": "7942c55bc531eb0298aca349c8b377ce",
+  "crc32": "c84bf87d",
+  "size": 30429,
+  "format": "PRG",
+  "files": [
+    "cauldron-mod.prg"
+  ],
+  "title": "Cauldron (2nd-Fire-Mod)",
+  "year": "1985",
+  "publisher": "Palace Software",
+  "developer": "Palace Software",
+  "genres": [
+    "Action / Abenteuer",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Eine Hexe sucht auf ihrem Besen die Zutaten für einen Zaubertrank, um den Kürbiskönig zu besiegen. Draußen fliegt sie über eine horizontal scrollende Landschaft und schießt Gegner ab, in den Höhlen geht es zu Fuß weiter.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im April 2023. Feuer schießt nach vorn (ohne Joystickrichtung), der zweite Knopf schießt nach unten, der dritte nach oben. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "images": {
+    "ss": "images/9b/9bd0497bcc41af1e23dcf47f4f760c806437291d.png",
+    "sstitle": "images/54/54048069f00cd9eb7aca81d51c08a11e822cb32b.png"
+  }
+}

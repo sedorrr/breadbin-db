@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "6f499a59c510131743de9cfc0e9cd67acca591dc",
+  "md5": "a4328b3d7bd44aa60644cfcedaef9cf4",
+  "crc32": "46a48ead",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "spyhunter-gs.crt"
+  ],
+  "title": "Spy Hunter (C64GS-Mod)",
+  "year": "1983",
+  "publisher": "Sega / U.S. Gold",
+  "developer": "Bally Midway",
+  "genres": [
+    "Fahren",
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Bally-Midway-Automaten: Ein Agent rast in einem bewaffneten Wagen eine senkrecht scrollende Straße entlang, schießt feindliche Fahrzeuge ab und schont dabei Zivilisten. Aus einem Versorgungslaster erhält man Zusatzwaffen wie Ölspur und Nebelwand; auf Wasserabschnitten wird der Wagen zum Boot.\n\nUmbau von CrystalCT (Juli 2023): Der zweite Feuerknopf löst die Heckwaffe aus, der dritte führt zurück zum Titelbild. Magic-Desk-Modul (64 KB) mit Startmenü, C64GS-tauglich. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Bally Midway · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/30/304ce63d9c8b07ef17e9308a270ad2a714182fe1.png",
+    "sstitle": "images/30/30fae5a9b74fe2de1a1c3adc31cae6b94c7d2c3b.png"
+  }
+}

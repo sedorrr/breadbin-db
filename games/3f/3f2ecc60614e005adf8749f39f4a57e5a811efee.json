@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "3f2ecc60614e005adf8749f39f4a57e5a811efee",
+  "md5": "6b7ee01a30b35f45695b1a4bfa7821b9",
+  "crc32": "36921758",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "livingstone-gs.crt"
+  ],
+  "title": "Livingstone, I Presume? (C64GS-Mod)",
+  "year": "1987",
+  "publisher": "Alligata",
+  "developer": "Opera Soft",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des spanischen Opera-Soft-Spiels „Livingstone Supongo“: Der Forscher Stanley sucht in Afrika nach dem verschollenen Dr. Livingstone und kämpft sich durch Dschungel, Minen und Tempelanlagen. Als Hilfsmittel dienen Bumerang, Messer, Granaten und ein Sprungstab, zwischen denen man wechseln muss.\n\nUmbau von CrystalCT (Mai 2023): Der zweite Feuerknopf schaltet die Gegenstände nach rechts weiter, der dritte nach links. Die Modul-Fassung (Magic-Desk-Modul, 64 KB, mit Startmenü) ist C64GS-tauglich, also ohne Tastatur spielbar; dazu gibt es eine Ein-Datei-PRG-Fassung. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Opera Soft (Alligata, 1987) · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/af/af093a9cbf4dd6fdc563930cd0a709472b15f371.png",
+    "sstitle": "images/37/37a93f9575adeba3e82db9df4d395146a67a526a.png"
+  }
+}

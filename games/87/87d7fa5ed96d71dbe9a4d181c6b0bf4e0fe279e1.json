@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "87d7fa5ed96d71dbe9a4d181c6b0bf4e0fe279e1",
+  "md5": "0a0971fcefa5a92bdf5e099aff18f5e9",
+  "crc32": "1964a9f4",
+  "size": 42178,
+  "format": "PRG",
+  "files": [
+    "iw-2nd-fire.prg"
+  ],
+  "title": "Ikari Warriors (2nd-Fire-Mod)",
+  "year": "1986",
+  "publisher": "Elite Systems",
+  "developer": "John Twiddy",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des SNK-Automaten: Zwei Kämpfer schlagen sich durch vertikal scrollendes Feindesland, um einen General zu befreien, und können unterwegs Panzer erobern. Zu zweit gleichzeitig spielbar.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im Februar 2023. Im Original wirft langes Drücken des Feuerknopfs eine Granate; vermutlich übernimmt das der zweite Knopf, belegt ist es aber nicht. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.\n\nGrafik (Original): John Harrison, Karen Trueman, Paul Walker, Rory Green · Musik: Jason C. Brooke, Mark Cooksey",
+  "images": {
+    "ss": "images/9e/9eaf69e55b5606b4bfff3622999afe2ad4ef3a22.png",
+    "sstitle": "images/56/56537a477e4d888c5f83ff35da970cd2dd3bb302.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c6f015ef8cb54205f84959b47a19016eb0489f72",
+  "md5": "070376488f25b0392bfe70e13abed194",
+  "crc32": "c7b0e4de",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "gryzor-gs.crt"
+  ],
+  "title": "Gryzor (2nd-Fire-Mod)",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Shoot'em Up",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Konami-Automaten Contra: Ein Soldat kämpft sich durch Dschungel, Stützpunkte und dreidimensional dargestellte Gänge einer außerirdischen Basis, sammelt Waffen-Extras und springt über Plattformen.\n\nUmbau von CrystalCT, als PRG auf GitHub veröffentlicht im August 2022 und im Januar 2024 überarbeitet; zugleich erschien ein C64GS-taugliches 64-KB-Modul im Magic-Desk-Format. Der zweite Feuerknopf lässt die Figur springen, im Original Joystick nach oben. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "images": {
+    "ss": "images/16/168bdee6cc778c7794439339ebaf33927a1343cb.png",
+    "sstitle": "images/16/16d57c921ac736dc27d83580342215491422d954.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "bdb820c6cfd91e0dfaa0fc05a4931d2f02148809",
+  "md5": "83742dce0e804313f1979c3f7fa51686",
+  "crc32": "0a26cf69",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Micro_Hexagon+hd_[ExCeSs].d64"
+  ],
+  "title": "Micro Hexagon +HD",
+  "year": "2013",
+  "publisher": "RGCD",
+  "developer": "Paul Koller (Paulko64)",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "C64-Fassung von Terry Cavanaghs Super Hexagon. Ein kleines Dreieck kreist um die Mitte des Bildschirms, während von außen Wände in Sechseckform heranrücken; man muss sich durch die Lücken drehen und so lange wie möglich überleben. Das Spielfeld dreht und pulsiert dabei ständig. Entstanden als Beitrag zum RGCD-16-KB-Modul-Wettbewerb 2013 (2. Platz).\n\nDiese Datei ist die Disk-Fassung der Gruppe Excess vom Oktober 2019 mit Highscore-Speicherung und Anleitung (Crack: Faayd), nur PAL. Joystick. Achtung: starke Flacker- und Stroboskopeffekte.\n\nSpiel: Paul Koller · Musik: Mikkel Hastrup",
+  "images": {
+    "sstitle": "images/5d/5d41b862b14346cdc9f488101ac8b352503381af.png"
+  }
+}

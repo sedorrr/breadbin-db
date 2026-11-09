@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "a4af2367ea0caad8ff75cd3f4c935335c828ff74",
+  "md5": "75a3897822ee2a1741916981e4d83830",
+  "crc32": "c367adc7",
+  "size": 262720,
+  "format": "CRT",
+  "files": [
+    "turrican.crt"
+  ],
+  "screenscraper_id": "35904",
+  "title": "Turrican (2nd-Fire-Mod 1.1)",
+  "year": "1990",
+  "publisher": "Rainbow Arts",
+  "developer": "Manfred Trenz",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Manfred Trenz' Action-Plattformspiel: Der Kämpfer Turrican erkundet große, in alle Richtungen scrollende Welten, sammelt Waffen-Extras und Diamanten und setzt Laser, Blitzpeitsche, Energielinien, Granaten und das Gyroskop-Rad gegen Gegner und Endgegner ein.\n\nÜberarbeiteter Umbau 1.1 von CrystalCT (Juni 2023): Der zweite Feuerknopf löst zwei Energielinien aus, der dritte wirft eine Granate. Als zwei Diskettenseiten (D64) und als EasyFlash-Modul (mit „Disk2EasyFlash“ umgewandelt). Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nCode und Grafik: Manfred Trenz · Musik: Chris Hülsbeck, Ramiro Vaca · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/68/68c7f412a545249ad088e403a7bb7a537f970776.png",
+    "sstitle": "images/e5/e5ae40d1803375ee390045bac4dcd8bdae30ecf3.png"
+  }
+}

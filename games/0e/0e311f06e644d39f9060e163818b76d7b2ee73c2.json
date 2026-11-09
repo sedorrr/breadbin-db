@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "0e311f06e644d39f9060e163818b76d7b2ee73c2",
+  "md5": "0cf39f52d61c71564ef12276593878ab",
+  "crc32": "5c281d44",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CHILLER2.D64"
+  ],
+  "screenscraper_id": "494159",
+  "title": "Chiller 2",
+  "year": "2020",
+  "publisher": "Cosine",
+  "developer": "aNdy (Andy Vaisey)",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle Fortsetzung von Mastertronics „Chiller“, entstanden mit Erlaubnis eines der Darling-Brüder (Untertitel „The Return of the Jackal“). Auf einzelnen Bildschirmen voller Plattformen sammelt man in jedem Level 20 Kreuze, um weiterzukommen, und weicht dabei den umherziehenden Gruselgestalten aus. Die Level sind in hochauflösender Grafik gezeichnet; das Spiel ist kostenlos und wurde samt Quelltext veröffentlicht.\n\nDiese D64 ist eine bearbeitete Fassung mit Trainer („+“) und eigener Highscore-Datei (Kopf „ASS presents“). Steuerung mit Joystick. Erschienen im Dezember 2020, gewidmet T.M.R.\n\nCode, Grafik, Musik: aNdy",
+  "images": {
+    "sstitle": "images/74/7427a8f6360d6c26d19c86a740989b636ee4d54a.png"
+  }
+}

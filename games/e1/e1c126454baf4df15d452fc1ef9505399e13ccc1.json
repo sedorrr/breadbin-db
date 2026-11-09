@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "e1c126454baf4df15d452fc1ef9505399e13ccc1",
+  "md5": "dd087625b938187f5f3ceb4b48fc403d",
+  "crc32": "d37996e9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "NINJASPIRIT.d64"
+  ],
+  "screenscraper_id": "36118",
+  "title": "Ninja Spirit (2nd-Fire-Mod)",
+  "year": "1990",
+  "publisher": "Activision",
+  "developer": "Chris Butler",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Irem-Automaten: Der Geist eines weißen Wolfs kämpft in Gestalt eines Ninjas gegen einen bösen Zauberer. Die Level laufen von links nach rechts, Gegner kommen von allen Seiten, am Ende wartet ein Endgegner. Zur Wahl stehen Schwert, Wurfsterne, Kettensichel und Sprengsätze; Extras erzeugen Schattendoppel, die die Bewegungen mitmachen.\n\nUmbau von CrystalCT (August 2023): Der zweite Feuerknopf wechselt die Waffe (im Original Leertaste). Nachladendes Spiel auf einer D64-Diskette. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nC64-Umsetzung: Chris Butler · Musik: Martin Walker · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/0f/0fa025295af23dc7c9d1c0e7d06fb63ed311a879.png",
+    "sstitle": "images/2e/2ee75e4500b6b4882951ad0941d9b2f3e1ee96f6.png"
+  }
+}

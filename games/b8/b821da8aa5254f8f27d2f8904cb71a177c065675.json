@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "b821da8aa5254f8f27d2f8904cb71a177c065675",
+  "md5": "223fd614f23ad2b00b5052aeeb02aacf",
+  "crc32": "984e76f4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TERRESTRIAL_ICON64.d64"
+  ],
+  "title": "Terrestrial",
+  "year": "2022",
+  "publisher": "Psytronik Software",
+  "developer": "ICON64",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Mehrteiliges Science-Fiction-Actionspiel: Außerirdische greifen die Heimatwelt an, Captain Havoc startet von einer geheimen Mondbasis zum Gegenschlag. Neun verschiedene Spielabschnitte reihen sich aneinander – Start aus dem Hangar, Raumschlacht mit Geschützen, 3D-Canyonflug, Häuserkampf im Cabal-Stil, Panzerfahrt mit Parallax-Scrolling, Schildgeneratoren, Duell mit Energiescheiben gegen Roboterwachen und zum Schluss das Alien-Gehirn.\n\nNachladespiel für Diskette, Joystick in Port 2, PAL und NTSC, läuft auch auf TheC64. Im Geschützabschnitt muss die Entfernungsanzeige auf null gebracht werden, sonst gehen die Schüsse daneben. Im Ordner liegt zusätzlich die Weihnachtsdemo „Xmas 2022“ von ICON64 (Icon64_XMAS_DEMO2.d64), kein Teil des Spiels.\n\nGrafik und Design: Trevor Storey · Code: Stuart Collier · Musik: Saul Cross",
+  "images": {
+    "sstitle": "images/ce/ce64e9ca5c6921d23ded5bf518d400e8cf85062d.png"
+  }
+}

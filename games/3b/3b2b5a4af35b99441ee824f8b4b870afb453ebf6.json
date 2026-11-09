@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "3b2b5a4af35b99441ee824f8b4b870afb453ebf6",
+  "md5": "a4cf0f89b2bf314f2cedd846cb6599ea",
+  "crc32": "64104048",
+  "size": 16198,
+  "format": "PRG",
+  "files": [
+    "hell.prg"
+  ],
+  "screenscraper_id": "179885",
+  "title": "Hell Beneath",
+  "year": "2023",
+  "publisher": "Haplo",
+  "developer": "Haplo",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Ableger von Tenebra: Die Spielfigur steht inmitten einer immer größer werdenden Horde von Monstern. Sie schießt von selbst; man steuert Bewegung und Schussrichtung, sammelt Erfahrung, steigt im Level auf und erhält neue Fähigkeiten. Gedacht als kurzes Spiel für zwischendurch.\n\nPAL und NTSC. Joystick in Port 2 bewegt die Figur; Feuer halten und Richtung drücken ändert die Schussrichtung (waagerecht, senkrecht, diagonal), alternativ übernimmt ein zweiter Joystick in Port 1 das Zielen. Als PRG und D64.\n\nCode: Haplo · Musik: unbekannter Komponist",
+  "images": {
+    "sstitle": "images/4e/4e0164e446d0d37a2cf504bd43486f4f049dd380.png"
+  }
+}

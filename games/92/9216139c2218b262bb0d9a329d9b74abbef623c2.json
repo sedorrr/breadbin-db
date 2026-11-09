@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "9216139c2218b262bb0d9a329d9b74abbef623c2",
+  "md5": "332be616b9f23d4342b8150b2eda27c7",
+  "crc32": "504b07c3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "INDYHEAT.D64"
+  ],
+  "screenscraper_id": "36280",
+  "title": "Indy Heat",
+  "year": "1991",
+  "publisher": "Storm",
+  "developer": "The Sales Curve",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Leland-Automaten „Danny Sullivan's Indy Heat“: Von oben gesehen fahren IndyCar-Rennwagen über verschiedene Rundkurse. Zwischen den Rennen wird das Preisgeld in bessere Teile für den Wagen gesteckt. Zwei Spieler können gleichzeitig fahren.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“); die Strecken werden nachgeladen. Joystick in Port 2, englisch.\n\nCode, Musik: Simon Pick · Grafik: Robert Whitaker",
+  "images": {
+    "sstitle": "images/11/113c490432dcee63f5780edb4c60887510396ae3.png"
+  }
+}

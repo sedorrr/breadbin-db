@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "32872aefe470f1632bc422e6907e24fd079be9e9",
+  "md5": "8d33677d26dd7c5589b05f3e367222d7",
+  "crc32": "95295459",
+  "size": 27425,
+  "format": "PRG",
+  "files": [
+    "turbogirl-2nd-fire.prg"
+  ],
+  "title": "Turbo Girl (2nd-Fire-Mod)",
+  "year": "1988",
+  "publisher": "Dinamic",
+  "developer": "Gamesoft",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Spanisches Ballerspiel: Die Heldin fährt auf einem Motorrad eine senkrecht scrollende Strecke entlang, schießt Gegner ab und muss Hindernissen ausweichen oder über sie hinwegspringen.\n\nUmbau von CrystalCT (August 2022): Der zweite Feuerknopf springt. Ein-Datei-PRG. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Gamesoft (Dinamic, 1988) · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/c2/c26d4d9797388cc8c6f8444c6a0b56375b4d8bf9.png",
+    "sstitle": "images/75/75f49b6c61a35aca8ee3ed5b39b5a6ff6555e0ab.png"
+  }
+}

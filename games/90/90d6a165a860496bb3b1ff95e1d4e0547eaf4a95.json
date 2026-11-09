@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "90d6a165a860496bb3b1ff95e1d4e0547eaf4a95",
+  "md5": "6d2c8d6f28ed5d9c246e97f84e4bd830",
+  "crc32": "31b70e98",
+  "size": 402256,
+  "format": "CRT",
+  "files": [
+    "caren_priorart_ef.crt",
+    "Caren and the Tangled Tentacles.crt",
+    "caren_priorart_ef.crt"
+  ],
+  "title": "Caren and the Tangled Tentacles",
+  "year": "2015",
+  "publisher": "Prior Art",
+  "developer": "Prior Art",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Klassisches Point-and-Click-Adventure im Stil von Maniac Mansion und Zak McKracken, in dem man die Heldin Caren durch die Räume führt. Ein Zeiger hebt anklickbare Dinge hervor; über ein Aktionsfeld wählt man Ansehen, Benutzen oder Benutzen mit einem Gegenstand aus dem Inventar, ein Doppelklick führt die Standardaktion aus. Caren findet selbst den Weg um Hindernisse, und schnelle Ausgänge sparen Laufwege.\n\nEasyFlash-Modul (interner Name „Caren 1.2 ef“): laut den Machern dasselbe Spiel wie Version 1.1 vom Oktober 2015, nur mit kaum noch spürbaren Ladezeiten; ursprünglich als Wettbewerbsbeitrag (Fassung 1.0, August 2015) erschienen. Joystick in Port 2; Sprache Englisch/Deutsch umschaltbar (F3), Textgeschwindigkeit (F5), Laden/Speichern (F1/F7).\n\nCode, Skript: Martin Wendt (Enthusi) · Grafik, Animation: Oliver Lindau (Veto) · Musik, Effekte: Kamil Wolnikowski (Jammer)",
+  "images": {
+    "sstitle": "images/7d/7dd62c3b87b5724d7ad4d62968978f900c1924fb.png"
+  }
+}

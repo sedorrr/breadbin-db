@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "0a71d416e3af9e23e85970a3822b0388b7f56f8d",
+  "md5": "fe66ca9d9bd4b93731f360de054249f0",
+  "crc32": "e4ae4073",
+  "size": 43512,
+  "format": "PRG",
+  "files": [
+    "wizball-2nd-fire.prg"
+  ],
+  "title": "Wizball (2nd-Fire-Mod)",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Sensible Software",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Sensible Softwares Ballerspiel: Ein Zauberer in einer hüpfenden Kugel soll die grau gewordenen Level wieder einfärben. Mit seiner Katze sammelt er Farbtropfen; grüne Perlen rücken eine Leiste mit Extras am oberen Bildrand weiter, die man aktivieren kann. Ein zweiter Spieler kann die Katze steuern.\n\nUmbau von CrystalCT (August 2022): Der zweite Feuerknopf wählt das gerade blinkende Extra am oberen Rand. Ein-Datei-PRG. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nCode: Chris Yates · Grafik und Design: Jon Hare · Musik: Martin Galway · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/4f/4f3f0fd5c393203dfe7802e01f82ba69b6d4df11.png",
+    "sstitle": "images/b6/b6a61f0810770cea17897b000be02d108192aace.png"
+  }
+}

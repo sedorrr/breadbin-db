@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "eb12c7e4f21a29f6815002ef21d7fe04172e5f67",
+  "md5": "689128c920e8a90bb5fa23f26520edff",
+  "crc32": "da8fae93",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Midnight Resistance.d64"
+  ],
+  "screenscraper_id": "36509",
+  "title": "Midnight Resistance (2nd-Fire-Mod 1.0)",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Special FX",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Data-East-Automaten: Ein Soldat kämpft sich durch seitlich scrollende Level, um seine entführte Familie zu befreien. Die Schussrichtung der Waffe lässt sich drehen; erbeutete Schlüssel tauschen zwischen den Leveln gegen stärkere Waffen und eine Zusatzwaffe im Rucksack.\n\nUmbau von CrystalCT (August 2023): Der zweite Feuerknopf springt, der dritte feuert die Waffe aus dem Rucksack. Nachladendes Spiel auf einer D64-Diskette. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Special FX (Ocean, 1990) · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/7d/7d93b93cfc88ded8dc1ba075f684ef3549395ce1.png",
+    "sstitle": "images/0d/0d3a2209881bd17059083cceaa838c8c8beb839e.png"
+  }
+}

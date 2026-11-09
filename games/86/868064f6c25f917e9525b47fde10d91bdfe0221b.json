@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "868064f6c25f917e9525b47fde10d91bdfe0221b",
+  "md5": "44e067fcd159965dbe1a16d4d9583e6e",
+  "crc32": "7348b1d6",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "MoonShadow[italian]_2nd_fire.crt"
+  ],
+  "screenscraper_id": "115319",
+  "title": "Moonshadow (2nd-Fire-Mod, italienisch)",
+  "year": "1990",
+  "publisher": "Idea Software",
+  "developer": "Paolo Galimberti, Antonio Farina",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Italienisches Jump 'n' Run mit Abenteuer-Anteil: Der Held steigt in höllische Kavernen hinab, um eine böse Schlange zu vernichten. Unterwegs sammelt er Waffen und Gegenstände in großen Leveln; die Zeit läuft dabei ab, angezeigt durch den Mond Fulax.\n\nUmbau von CrystalCT (Februar 2023) auf Grundlage der italienischen Fassung: Der zweite Feuerknopf wechselt die Waffe, der dritte benutzt den gewählten Gegenstand (im Original Leertaste bzw. Cursortasten und RETURN). Modul-Datei (Magic Desk, 64 KB). Bildschirmtexte italienisch. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Paolo Galimberti, Antonio Farina (Idea Software, 1990) · Musik: Paolo Galimberti · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/11/11a608886b7e6cd7e1040a11f4abeb7570cd36c6.png",
+    "sstitle": "images/e9/e951822e9db0b9c6b2904cb4f6616a1b962f2d2c.png"
+  }
+}

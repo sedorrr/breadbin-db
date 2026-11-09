@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "5a6ec949eb7aafd64c7b4fe6057dccef2c0be4c4",
+  "md5": "1822fa16c59d3054b93f9e75ec9a8ee4",
+  "crc32": "c2be2670",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Gridlock_megastyle_itch_io.d64"
+  ],
+  "title": "Gridlock",
+  "year": "2024",
+  "publisher": "Megastyle, Bitmap Soft",
+  "developer": "Chris Stanley",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Schiebepuzzle im Krankenhaus: Als angehender Rettungswagenfahrer muss man acht Arbeitstage zu je zehn Notrufen überstehen, um am neunten Tag die Prüfung abzuschließen. Der Parkplatz ist von oben zu sehen und mit Autos und Lastwagen zugestellt; die Fahrzeuge lassen sich nur längs oder quer verschieben, bis der Krankenwagen die Ausfahrt erreicht. Jeder Einsatz hat ein Zeitlimit, und von Tag zu Tag wird der Parkplatz voller.\n\nDisk-Fassung mit 80 Rätseln; der Spielstand wird auf Laufwerk 8 gespeichert. Joystick. Digitale Anleitung im PETSCII-Betrachter auf der Disk. Es gab außerdem eine begrenzte Kaufausgabe bei Bitmap Soft. Läuft laut Rückmeldungen nicht auf TheC64.\n\nIdee und Code: Chris Stanley · Grafik, Jingles, Effekte: Roy Widding · Musik: LukHash (Album „Cyberchip“) · Ladebild: Pixelburner",
+  "images": {
+    "ss": "images/6c/6c1a028da54ebcad2bd18370527f3ff2b5baa3d0.png",
+    "sstitle": "images/46/46d011da5f6882b9ffc4123067721e5a0cee8634.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "44a4278805a8177e65a0634ee04bb1a67d12957e",
+  "md5": "fa7b08ba2b873fe993cc42d9f97ad4bc",
+  "crc32": "15029e7f",
+  "size": 819200,
+  "format": "D81",
+  "files": [
+    "ghosts_mega65.d81"
+  ],
+  "title": "The Ghosts of Blackwood Manor",
+  "year": "2023",
+  "publisher": "Moonmist Entertainment",
+  "developer": "Stefan Vogt",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Textadventure mit Gruselgeschichte: Der Schriftsteller Thomas King zieht kurz vor Weihnachten 1986 mit seiner Frau Cora in ein abgelegenes schottisches Herrenhaus und stößt bei seinen Nachforschungen auf ein Geheimnis aus der Zeit der Hexenverfolgung. Je nach Entscheidungen gibt es ein schlechtes, ein neutrales und ein gutes Ende; Sackgassen gibt es nicht, der Schwierigkeitsgrad ist gemäßigt.\n\nIm Infocom-Format XZIP (Z-Machine 5) geschrieben, auf Commodore-Rechnern mit dem Ozmoo-Interpreter: C64 (D64), C128 (D71, nutzt den größeren Speicher, auch 80 Zeichen), Plus/4 (D64) und Mega65 (D81). Englisch, Texteingabe; Spielstände nie auf die Spieldiskette speichern. Diese Dateien sind Release 10 vom Dezember 2023 (später bis Release 14 verbessert, u. a. mit Hilfesystem).\n\nAutor: Stefan Vogt · Ozmoo: Fredrik Ramsberg, Johan Berntsson · Inform 6 mit PunyInform",
+  "images": {
+    "sstitle": "images/9c/9c4f849003d8f35ea16ba19907480e2ccfda29c7.png"
+  }
+}

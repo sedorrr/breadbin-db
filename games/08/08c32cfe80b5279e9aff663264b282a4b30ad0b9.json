@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "08c32cfe80b5279e9aff663264b282a4b30ad0b9",
+  "md5": "6ad2c1a1a3cf913b902986699eb9b442",
+  "crc32": "e6a3b60a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "dragon ninja-rem.d64"
+  ],
+  "title": "Dragon Ninja",
+  "year": "1988",
+  "publisher": "Imagine",
+  "developer": "Ocean Software",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Data-East-Automaten: Als einer der „Bad Dudes“ kämpft man sich durch seitlich scrollende Abschnitte, um den entführten US-Präsidenten aus der Gewalt einer Ninja-Bande zu befreien. Geschlagen und getreten wird mit Fäusten und Füßen, fallengelassene Waffen kann man aufheben, und am Ende jedes Abschnitts wartet ein Endgegner. Wie in Shinobi gibt es zwei Ebenen, zwischen denen man mit einem hohen Sprung wechselt; den Zwei-Spieler-Modus des Automaten hat die C64-Fassung nicht.\n\nCrack von Jack Alien / Remember mit 7 Trainern, im März 2020 von Comos (Angels/Onslaught) für IDE64 angepasst: neue Laderoutinen, entfernte Level-Überspringen-Abfrage über den Userport (die mit Parallelkabel ständig auslöste), wählbarer Joystick-Port; läuft von Festplatte, CD oder Diskette.\n\nCode: David A. Collier · Grafik: Stephen Wahid, John Palmer · Musik: Jonathan Dunn",
+  "images": {
+    "sstitle": "images/98/98ec2277721e53728716c658537818f9fef86e70.png"
+  }
+}

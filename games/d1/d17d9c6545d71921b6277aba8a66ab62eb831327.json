@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "d17d9c6545d71921b6277aba8a66ab62eb831327",
+  "md5": "d0e4c8fcc79c78d9f08e1f606d22f571",
+  "crc32": "26255806",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "adastra_AD.d64"
+  ],
+  "title": "Ad Astra 2420",
+  "year": "2024",
+  "publisher": "orlof",
+  "developer": "orlof",
+  "genres": [
+    "Shooter",
+    "Strategie"
+  ],
+  "players": "1-2",
+  "synopsis": "Weltraumspiel im Asteroidengürtel: Ein Hacker hat einen Singularitätsgenerator gebaut, der die Raumzeit zu zerstören droht. Als Weltraum-Ranger sammelt man von den Verge-Raumstationen die Bauteile für einen „Singularity Diffuser“, handelt dafür Tauschgeschäfte aus, baut Erz ab, rüstet das Schiff auf (Sektorkarte, Laderaum, Systeme) und zerstört Raketensilos des Gegners – alles gegen die Zeit.\n\nDiskettenspiel mit Prolog, Epilog und Speicherständen (automatisch und drei Plätze, Menü „New Game/Load“). Laut Beschreibung im Web zu zweit spielbar (Pilot und Schütze). Nachfolger und Ersatz des ursprünglichen „Ad Astra“ von Januar 2023; diese Fassung erschien um Februar 2024.",
+  "images": {
+    "sstitle": "images/78/78d3e5c2c2b2558c0e47c3a87d396df308061ae6.png"
+  }
+}

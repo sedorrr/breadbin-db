@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "7e6d64299d3908e032d1befe5a711b54a11169aa",
+  "md5": "28cf8459e1e49746e5d9c6b0c57c51b4",
+  "crc32": "99cf6f75",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "mig29-gs.crt"
+  ],
+  "title": "MiG-29 Soviet Fighter (C64GS-Mod)",
+  "year": "1989",
+  "publisher": "Codemasters",
+  "developer": "Richard Chaney, Paul Black",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Seitlich scrollendes Ballerspiel der Codemasters: Man fliegt eine MiG-29 durch mehrere Einsätze, weicht feindlichen Jägern, Hubschraubern und Bodenabwehr aus und zerstört Ziele mit Bordkanone und Raketen.\n\nUmbau von CrystalCT (Juli 2023): Der zweite Feuerknopf wechselt die Waffe, der dritte führt zurück zum Titelbild. Magic-Desk-Modul (64 KB) mit Startmenü, C64GS-tauglich. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Richard Chaney (Spectrum), C64-Umsetzung Paul Black (Codemasters, 1989) · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/a1/a1ad337ce609a90c61974c6c6070e59b6f0a925a.png",
+    "sstitle": "images/a6/a6f8c29d142cede00284e677b89695b9b5425043.png"
+  }
+}

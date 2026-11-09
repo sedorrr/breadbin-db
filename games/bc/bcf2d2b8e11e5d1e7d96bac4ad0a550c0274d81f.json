@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "bcf2d2b8e11e5d1e7d96bac4ad0a550c0274d81f",
+  "md5": "daa5d12bfc483f3aa81069fb63c53293",
+  "crc32": "df75d3f8",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "drip2.d64"
+  ],
+  "screenscraper_id": "533336",
+  "title": "Drip II: The Sequel",
+  "year": "2024",
+  "publisher": "Vector5 Games",
+  "developer": "Jani Parviainen",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Drip: In 15 Labyrinthen aus Rohren fährt man als Tropfen die Leitungen ab und lässt sie dabei rosten; sind alle Abschnitte gefüllt, geht es ins nächste Labyrinth, für das man einen Code erhält. Es gibt vier Arten von Labyrinthen – Eis, Säure, Feuer und Bakterien – mit eigenen Farben und eigenen Gegnern. Ein Stern erlaubt es, Gegner durch Berühren kurz in eine Auszeit zu schicken, eine Blase lässt einen eine Weile frei fliegen; nach jedem dritten Labyrinth gibt es eine Bonusrunde, in der man mit vier Wasserbomben Extraleben gewinnen kann.\n\nEinzeldatei ohne Nachladen. Joystick in Port 2, der Feuerknopf lässt den Tropfen nach unten fallen; Schwierigkeitsgrad im Titelbild, Codeeingabe per Joystick.\n\nCode, Grafik, Effekte, Spielmusik: Jani Parviainen · Titelmusik: Richard Bayliss",
+  "images": {
+    "ss": "images/a4/a47a34fbfbb43985348fff0553734e82d3b68076.png",
+    "sstitle": "images/2d/2dd2fcde93760670768939378b34a637ae3571ab.png"
+  }
+}

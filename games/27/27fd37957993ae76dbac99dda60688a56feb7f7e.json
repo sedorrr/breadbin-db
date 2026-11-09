@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "27fd37957993ae76dbac99dda60688a56feb7f7e",
+  "md5": "0f234690c6c3417c704c3b7aa047a9fe",
+  "crc32": "1f74d2b4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "commando.d64"
+  ],
+  "screenscraper_id": "35856",
+  "title": "Commando (2nd-Fire-Mod)",
+  "year": "1985",
+  "publisher": "Elite Systems",
+  "developer": "Chris Butler",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Capcom-Automaten: Super Joe kämpft sich allein durch vertikal scrollendes Feindesland, schießt Soldaten ab, befreit Gefangene und sprengt mit Handgranaten Stellungen. Bekannt für Rob Hubbards Titelmusik.\n\nUmbau von CrystalCT, erschienen am 11. Juli 2022 als Diskette (CSDb), im Oktober 2022 zusätzlich als C64GS-taugliches 64-KB-Modul im Magic-Desk-Format; das Modul wurde im Januar 2024 überarbeitet (Schwellwert für POTX, kleiner Fehler). Der zweite Feuerknopf wirft eine Handgranate. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.\n\nMusik (Original): Rob Hubbard",
+  "images": {
+    "ss": "images/9e/9e227f9de85b392b7d4d2c3a043e448c93a9567b.png",
+    "sstitle": "images/c4/c4301002fab3a8921fa86afb2f5d698e5a690e35.png"
+  }
+}

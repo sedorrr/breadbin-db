@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "2b2b568c1f998b3269ef540026a0db51355eae89",
+  "md5": "84ca59e51bcc0ad5215f5c5099280545",
+  "crc32": "ca9c252e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "renegade-3-fires.d64"
+  ],
+  "title": "Renegade (3-Fire-Mod)",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Imagine",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Taito-Automaten: Ein Straßenkämpfer prügelt sich durch Banden an U-Bahn-Station, Hafen und in dunklen Gassen bis zum Bandenboss. Angriffe gehen je nach Knopf nach links oder rechts, dazu kommen Sprungtritte und Würfe.\n\nUmbau von CrystalCT (März 2023) für drei Knöpfe wie am Automaten: Feuer springt, der zweite Knopf greift nach links an, der dritte nach rechts. Diskette mit Lader. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Imagine (Taito) · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/0c/0c9acda1fa339cb683c5123778cb184e1e7ade59.png",
+    "sstitle": "images/77/770ae22874ebc28cf24fbe5500fb8f75e1364dba.png"
+  }
+}

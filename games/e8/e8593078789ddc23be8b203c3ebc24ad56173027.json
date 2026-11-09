@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "e8593078789ddc23be8b203c3ebc24ad56173027",
+  "md5": "fbab2dfb465c2ac29a482aab14b1feac",
+  "crc32": "7080dc8c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Cavern Drone Race +D [BLZ].d64"
+  ],
+  "title": "Cavern Drone Race",
+  "year": "2024",
+  "publisher": "Geir Straume",
+  "developer": "Geir Straume",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Drohnenrennen in einer großen Höhle: Als rote Drohne tritt man gegen eine grüne und eine blaue an, wobei die Startpositionen jedes Mal ausgelost werden. Zwei blinkende Kontrollpunkte müssen durchflogen werden, sonst folgt die Disqualifikation; wer nicht innerhalb von zwei Minuten ins Ziel kommt, scheidet aus. Die Drohnen überstehen Wandberührungen und fliegen nebeneinander her, statt zusammenzustoßen.\n\nBeitrag zum Reset64 4KB Craptastic Game Competition 2024. Crack-Fassung von Blazon mit Anleitung. Joystick in Port 2, für PAL entwickelt (vom Autor gibt es eine eigene NTSC-Fassung).\n\nDesign, Code: Geir Straume",
+  "images": {
+    "ss": "images/22/227e22aac9d54c67250500fc6a3885ae29c46aba.png",
+    "sstitle": "images/c6/c6d987f7b5b85177937c27d4ea486b3c924e04af.png"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "1501c39967f0f6811bc58327160ece98a4e0c947",
+  "md5": "71a1149af36b27445168fb60339aeb3c",
+  "crc32": "5e127796",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "runn_n_gunn.d64",
+    "Runn 'n' Gunn.d64",
+    "runn_n_gunn.d64"
+  ],
+  "screenscraper_id": "360051",
+  "title": "Runn 'n' Gunn",
+  "year": "2021",
+  "publisher": "Thalamus Digital Publishing",
+  "developer": "Carleton Handley",
+  "genres": [
+    "Plattform",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Die Soldaten Willie Runn und Wally Gunn wurden bei einem missglückten Experiment zu einem Supersoldaten verschmolzen und für eine Elitetruppe gegen Außerirdische eingezogen. Auf dem Planeten Bantaya läuft, springt und schießt man sich durch die Mission und schaltet dabei zwischen den beiden Figuren um.\n\nPAL/NTSC (empfohlen PAL). Joystick mit zwei Belegungen (Feuer = Springen/oben = Schießen oder umgekehrt) oder Tastatur QAOP, F1 = Pause; Schwierigkeitsgrade Normal, Tricky, Hard. Fassung 1.0 als D64, PRG und T64, erschienen am 29.01.2021 (die geplanten Missionen 2 und 3 blieben aus). Bekannter Fehler: Lässt man die Ladebildmusik auslaufen, wird die Spielmusik leiser.\n\nCode: Carleton Handley · Grafik und Musik: Saul Cross",
+  "images": {
+    "sstitle": "images/09/09d9caa2afcc63653a679d7969e1eb6a8ba83532.png"
+  }
+}

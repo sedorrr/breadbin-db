@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "cff4f8363d87e5e2fdecbd0c0ee6faa860b20574",
+  "md5": "b455b1bf2778852a03d46562079f45e6",
+  "crc32": "df96881a",
+  "size": 35857,
+  "format": "PRG",
+  "files": [
+    "nemesis-2nd-fire.prg"
+  ],
+  "title": "Nemesis (2nd-Fire-Mod)",
+  "year": "1986",
+  "publisher": "Konami",
+  "developer": "Simon Pick",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-4",
+  "synopsis": "C64-Fassung von Konamis Gradius: Ein Raumschiff fliegt durch seitlich scrollende Level voller Gegnerformationen und Endgegner. Eingesammelte Kapseln rücken eine Leiste mit Extras weiter (Tempo, Raketen, Doppelschuss, Laser, Begleiter, Schild), die man im passenden Moment aktiviert.\n\nUmbau von CrystalCT (März 2023): Der zweite Feuerknopf aktiviert das markierte Extra (im Original eine Taste), der dritte hält das Spiel an. Ein-Datei-PRG. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nCode: Simon Pick · Grafik: Stu Jackson, Ashley Routledge, Simon Pick · Original: Konami · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/50/50667dff1403aa35f329fbc87c9772b82ef4af9f.png",
+    "sstitle": "images/c1/c18970f1e614ec7ec66776adf539cd067eb43d47.png"
+  }
+}

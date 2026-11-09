@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "a8151356171dc274cdc6f182456a6daeccc27f65",
+  "md5": "7b2d4d5725a5d5d2af61adb1558b0041",
+  "crc32": "f5beca82",
+  "size": 8199,
+  "format": "PRG",
+  "files": [
+    "missluna.prg"
+  ],
+  "title": "Missione Lunare",
+  "year": "2024",
+  "publisher": "Massimo Bonucchi",
+  "developer": "Massimo Bonucchi",
+  "genres": [
+    "Simulation",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Mondlandespiel nach dem Vorbild von Lunar Lander und Jupiter Lander. Die Mondfähre soll sanft auf einer der weißen Landeplattformen im zerklüfteten Gelände aufsetzen; dabei sind Neigung, Schub und der begrenzte Treibstoff zu beachten. Übriger Treibstoff bringt Bonuspunkte, eine Bestpunktzahl wird gehalten.\n\nIn BASIC V2 geschrieben, Einzeldatei. Steuerung über die Tastatur: A und D kippen die Fähre, L zündet das Triebwerk. Zu Beginn wählt man mit 1–3 das Triebwerk und damit die Schwierigkeit. Texte englisch, Titel italienisch.\n\nCode: Massimo Bonucchi",
+  "images": {
+    "sstitle": "images/d0/d0404584bdc1ef946330121fd35311a2dbe2a08e.png"
+  }
+}

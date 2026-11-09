@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "sha1": "0ad8dca8af09958b59748c11996b153c42aa5b63",
+  "md5": "5b0e6e13cf78c3c4159faef879f03ecf",
+  "crc32": "3e55f345",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "maniacmansion_b.d64",
+    "MANIACD1.D64"
+  ],
+  "title": "Maniac Mansion (deutsch)",
+  "year": "1987",
+  "publisher": "Lucasfilm Games",
+  "developer": "Ron Gilbert, Gary Winnick",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Grafik-Adventure, in dem der Schüler Dave mit zwei selbst gewählten Begleitern seine Freundin Sandy aus der Villa des verrückten Dr. Fred befreien will. Gesteuert wird über Verben, die man mit Gegenständen und Personen auf dem Bildschirm verbindet; zwischen den drei Figuren lässt sich jederzeit umschalten. Je nach Zusammenstellung der Gruppe gibt es verschiedene Lösungswege und mehrere Enden. Das Spiel war das erste mit der später berühmten SCUMM-Technik.\n\nDeutsche Fassung auf zwei Diskettenseiten. Seite A ist der Crack von Cent (Nightmare Crew), Seite B (maniacmansion_b.d64) enthält die Spieldaten mit deutschen Texten. Joystick in Port 2 oder Tastatur. mm.d64 enthält nur eine 56-Block-Datei mit einem Vorspann der Gruppe Beastie Boys und ist allein nicht das ganze Spiel. Im Ordner liegt außerdem die Musik als SID-Datei.\n\nSpiel: Ron Gilbert, Gary Winnick · Musik: Chris Grigg, David Lawrence"
+}

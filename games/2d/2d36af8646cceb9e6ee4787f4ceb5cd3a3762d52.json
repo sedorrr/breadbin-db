@@ -19,6 +19,7 @@
   "players": "1-4",
   "synopsis": "Diskette mit zwei rundenbasierten Wirtschaftsspielen im Stil eines Brettspiels von WindigoProductions. In „Spediteur“ (März 2024, angelehnt an „Auf Achse“) transportieren bis zu vier Speditionen Waren zwischen Städten; wer nach Ablauf der Zeit am meisten verdient hat, gewinnt. Staus und Sabotage stören, und mitunter lohnt der Umstieg von der Straße auf Schiff oder Flugzeug; es gibt fünf Karten und einstellbare Schwierigkeit. In „Die Kaufmannsgilde“ (Mai 2024) handelt man als Kaufmann im mittelalterlichen Deutschland mit Waren und sammelt Stimmen im Gildenrat, um in die Kaufmannsgilde aufgenommen zu werden; Ereignisse können den Verlauf beeinflussen.\n\nBeide Spiele: bis zu vier Spieler, Menschen oder Computergegner; Steuerung komplett mit Joystick in Port 2; PAL und NTSC. Die Kaufmannsgilde ist dreisprachig (Deutsch, Englisch, Polnisch). Auf itch.io gibt es die Spiele einzeln als PRG mit PDF-Anleitung kostenlos; eine Box-Fassung beider Spiele erschien beim Magazin Komoda & Amiga plus. Die Diskette wurde aus den beiden PRG-Dateien zusammengestellt (Dateien „kaufmannsgilde“ und „spediteur“).",
   "images": {
+    "ss": "images/52/5209c4aebe193fca39a4865b68acb2504c29e922.png",
     "sstitle": "images/c5/c58e17df004001bcdf8a27eb41201edf774b7d35.png"
   }
 }

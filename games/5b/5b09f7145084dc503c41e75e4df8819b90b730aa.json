@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "5b09f7145084dc503c41e75e4df8819b90b730aa",
+  "md5": "93d3e41bd3e15d3a5d42cf22d9ffc79b",
+  "crc32": "0bd037dd",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Turrican 2 - Side2.d64"
+  ],
+  "title": "Turrican II: The Final Fight (2nd-Fire-Mod)",
+  "year": "1991",
+  "publisher": "Rainbow Arts",
+  "developer": "Manfred Trenz",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Turrican: Wieder erkundet der Held weitläufige Plattformwelten mit verschiedenen Waffen, Blitzpeitsche, Energielinien und Gyroskop-Rad, dazu kommen Abschnitte als Raumschiff-Ballerspiel.\n\nUmbau von CrystalCT (August 2022): Der zweite Feuerknopf löst zwei Energielinien aus. Zwei Diskettenseiten (D64). Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Manfred Trenz (Rainbow Arts, 1991) · Umbau: CrystalCT",
+  "images": {
+    "sstitle": "images/d0/d04f9ab0b2fa2a17dc18839eef85d854f94dc7fc.png"
+  }
+}

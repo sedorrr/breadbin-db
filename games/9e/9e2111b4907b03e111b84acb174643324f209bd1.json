@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "9e2111b4907b03e111b84acb174643324f209bd1",
+  "md5": "d849c38f5a1957616098aa5bf757c361",
+  "crc32": "b7e54530",
+  "size": 1050688,
+  "format": "CRT",
+  "files": [
+    "Bruce Lee - Duology.crt"
+  ],
+  "title": "Bruce Lee – Duology",
+  "year": "2019",
+  "publisher": "Rebel Android",
+  "developer": "Vidar „dmx“ Bang (Return of Fury+); Ron J. Fortier (Bruce Lee, 1984)",
+  "genres": [
+    "Plattform",
+    "Beat'em Up"
+  ],
+  "players": "1-3",
+  "synopsis": "Sammlung aus zwei Teilen: „Return of Fury+“ ist eine inoffizielle, fehlerbereinigte und erweiterte Fortsetzung des Datasoft-Klassikers Bruce Lee von 1984 mit neuen Räumen – Bruce kämpft sich wieder an Ninja und dem grünen Yamo vorbei bis zum bösen Herrscher. Dazu kommt das Original von 1984, ebenfalls fehlerbereinigt und um einen Drei-Spieler-Modus ergänzt. Beide bieten wählbare Figurenfarben, die Stufen Leicht/Schwer, einen Wettkampfmodus und schwache Trainer.\n\nDas Modul (CRT) startet mit einem Auswahlmenü; die Diskette hat kein Menü, die Teile werden einzeln geladen (Return of Fury+, dieselbe Fassung mit alternativen Figuren von TIX, das Original „Classic 3pl“ sowie zwei Ladebilder mit Musik). Für den dritten Spieler ist ein 4-Spieler-Adapter am Userport nötig. Return of Fury+: RUN/STOP = Pause, RESTORE = zurück zum Titel; Original: Leertaste = Pause, F1 = Titel. Die .cjm-Datei ist eine Tastenbelegung für TheC64.\n\nReturn of Fury+: Karten, Code und Musik: Vidar „dmx“ Bang · Titellogo: Chris „Flow“ Persad · Alternative Figuren: Konstantinos „TIX“ Giamalidis · Ladebild: Rune „Sparkler“ Spaans, Musik: Anders „Rage“ Rodahl · Original (1984): Ron J. Fortier (Code), Kelly Day (Grafik), John A. Fitzpatrick (Musik)",
+  "images": {
+    "ss": "images/ee/ee42a71674084007d339398c2dd2bae4a40c960c.png",
+    "sstitle": "images/42/42cbe40a8acdf5e3285de9592ea29fe38c7fc46b.png"
+  }
+}

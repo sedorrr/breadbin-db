@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "sha1": "d73bc667be7b3e7606c21b2f47681b8556610c4c",
+  "md5": "f9fb1b8f4762ed2d1815598205d9e00c",
+  "crc32": "418b5691",
+  "size": 819200,
+  "format": "D81",
+  "files": [
+    "Boom_1993_Electric_Brains.d81"
+  ],
+  "title": "Boom",
+  "year": "1993",
+  "publisher": "Brainstorm Software",
+  "developer": "Frank Hugenroth, Andre Hugenroth",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Weltraum-Shooter der Brüder Hugenroth, die ihn zwischen 1989 und 1993 unter ihrem Label Brainstorm entwickelten (der Abspann nennt 1990/91). Das Spiel lehnt sich an Katakis an und enthält neben den waagerecht scrollenden Abschnitten auch einen senkrecht scrollenden Teil mit gesampelter Musik. Wegen des schrumpfenden C64-Markts wurden nur sehr wenige Exemplare direkt vertrieben; Ende 2025 erschien eine von Grund auf neu gebaute „Special Edition“ bei Polyplay.\n\nDiese Datei ist eine 1581-Umsetzung (D81) von Master (Avatar / Raiders of the Lost Empire); das Original kam auf zwei Disketten mit Kopierschutz. In VICE startet die D81 nur mit echter 1581-Emulation (True Drive), mit der schnellen virtuellen Floppy bleibt der Bildschirm schwarz. Englisch, PAL.\n\nCode: Frank Hugenroth, Andre Hugenroth · Grafik: Andre Hugenroth, Frank Hugenroth, Frank Schlüter · Musik: Andre Hugenroth, Frank Hugenroth"
+}

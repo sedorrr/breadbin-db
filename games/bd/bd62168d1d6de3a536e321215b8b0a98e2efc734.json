@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "bd62168d1d6de3a536e321215b8b0a98e2efc734",
+  "md5": "57a807cda9568b930762ccdef8e712d3",
+  "crc32": "3d3ad443",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Rabenstein_C64_40thA_EN.d64"
+  ],
+  "title": "The Curse of Rabenstein – Point-and-Click-Edition",
+  "year": "2022",
+  "publisher": "Puddle Software",
+  "developer": "Stefan Vogt; Point-and-Click-Fassung: Sönke Wolfgramm",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Grusel-Adventure im Schwarzwald: Der Kutscher ist spurlos verschwunden, man sucht eine Unterkunft für die Nacht und stößt auf ein dunkles Geheimnis. Man kann weder sterben noch in Sackgassen geraten, der Ablauf ist weitgehend geradlinig. Diese Sonderausgabe zum 40. Geburtstag des C64 ersetzt die Texteingabe durch eine Point-and-Click-Bedienung und bringt SID-Musik mit.\n\nNur für den C64, Steuerung mit Maus oder Joystick, je eine Diskette auf Deutsch und Englisch (LOAD\"*\",8,1). Erschienen am 22.07.2022, gebaut mit dem D42-Adventure-System; auch als Modul (PAL/NTSC) erhältlich. Hinweis für Ultimate 64: Bei „Time Out – Reset Floppy“ alle weiteren Laufwerke, auch das IEC-Laufwerk, abschalten.\n\nAutor: Stefan Vogt · D42-Umsetzung und deutsche Übersetzung: Sönke Wolfgramm · D42-System: Tobias Erbsland, Stephan Lesch · Musik: René „Peacemaker“ · Test: André Eymann",
+  "images": {
+    "ss": "images/2e/2e0477a9b342d3ca02cd4d19832db104e776d83c.png",
+    "sstitle": "images/df/df43265cf54cd1674366fd39f8a03c8be816516b.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "1f4bc3cc840a916ddcfc43b4d0b75fffb758c890",
+  "md5": "c122bbd3194778a65e9f15babda1eb96",
+  "crc32": "d7f89581",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "drip.d64"
+  ],
+  "screenscraper_id": "533333",
+  "title": "Drip",
+  "year": "2024",
+  "publisher": "Vector5 Games",
+  "developer": "Jani Parviainen",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Amiga-Spiels von Art Skiles (1989): Ein Wassertropfen läuft über die Rohre von 15 Etagen und lässt sie rosten; sind alle Rohre einer Etage verrostet, geht es weiter. Gegner sind zu meiden, Wolken reinigen die Rohre wieder und lassen sich durch Anrempeln stoppen. Ein Stern macht kurzzeitig Gegner unschädlich, eine Blase schützt vor Gefahren. Die Etagen gibt es in vier Arten (Eis, Säure, Feuer, Bakterien) mit eigenen Farben, Gegnern und Gefahren; nach je drei Etagen folgt eine Bonusrunde mit Wasserbomben um Extraleben.\n\nEin-Datei-Spiel ohne Nachladen (PRG und D64). Joystick in Port 2, Feuer lässt den Tropfen nach unten fallen; RUN/STOP = Pause. Schwierigkeitsgrad im Titelbild wählbar.\n\nCode, Grafik, Effekte: Jani Parviainen · Musik: Richard Bayliss · Test: Mika Penttinen, Ville Jokela",
+  "images": {
+    "ss": "images/c3/c34be59e16655676f1fc88bca99716e5dfc91d40.png",
+    "sstitle": "images/8f/8fd7191074788079383b41e810cad8965fbf5b73.png"
+  }
+}

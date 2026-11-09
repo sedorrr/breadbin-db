@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "131fcd232d9140c2c1856e1e815d31f9b5a00aac",
+  "md5": "88216d7a64c1529dff35aed9705f607e",
+  "crc32": "ae1c4f2a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "thunderblade.d64"
+  ],
+  "screenscraper_id": "36127",
+  "title": "Thunder Blade (2nd-Fire-Mod)",
+  "year": "1988",
+  "publisher": "U.S. Gold",
+  "developer": "Tiertex",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Sega-Automaten: Mit einem Kampfhubschrauber fliegt man über Städte, Wüsten und Flüsse, teils von oben gesehen, teils aus der Verfolgersicht, und bekämpft Panzer, Hubschrauber und Bodenstellungen.\n\nUmbau von CrystalCT (August 2023): Der zweite Feuerknopf beschleunigt, der dritte bremst ab. Nachladendes Spiel auf einer D64-Diskette. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Tiertex (U.S. Gold, 1988) · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/a9/a985e1d3a2762492438a6b4e2f23c58cfaeff7e3.png",
+    "sstitle": "images/33/338a2fef9a90e7c09e1a7d6d694aca9f190bd46e.png"
+  }
+}

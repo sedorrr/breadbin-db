@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "1d3ccd2b08eee538cc6d5426e5f8a198ad91fd82",
+  "md5": "a8c38af5891ffdf2d24a00d370e204e6",
+  "crc32": "229aa1db",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "lock'n'chase.d64"
+  ],
+  "screenscraper_id": "532568",
+  "title": "Lock'n'Chase",
+  "year": "2024",
+  "publisher": "LC-Games",
+  "developer": "LC-Games",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Automatenspiels Lock'n'Chase von Data East (1981). Der Dieb Lupin räumt ein Tresorlabyrinth leer, sammelt Münzen, Geldsäcke und wechselnde Schätze und muss dabei vier Polizisten entkommen. Er kann hinter sich Türen schließen, um die Verfolger aufzuhalten – höchstens zwei gleichzeitig –, und durch die seitlichen Ausgänge auf die andere Seite wechseln. Polizisten, die in einer Ecke zwischen zwei Türen eingesperrt werden, bringen Sonderpunkte.\n\nLäuft auf PAL und NTSC. Joystick in Port 2, Feuer schließt eine Tür, F7 pausiert, F1 bricht ab. Vier Schwierigkeitsstufen, Bestenliste wird auf der Disk gespeichert. Version 1.1 ergänzte einen Vorführmodus.\n\nCode, Grafik, Musik: LC-Games",
+  "images": {
+    "ss": "images/b7/b74130ac94db31017cdc79581223fdf48897964e.png",
+    "sstitle": "images/8b/8b81326d8fac52feeea6d9a4aa2aab9385222b49.png"
+  }
+}

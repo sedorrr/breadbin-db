@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "b25ba34ed5b7860f65671b5305f73f008c407975",
+  "md5": "e300a9307f075c98986e2f775c4a5984",
+  "crc32": "19fe5503",
+  "size": 525376,
+  "format": "CRT",
+  "files": [
+    "terminator2_gs.crt"
+  ],
+  "title": "Terminator 2: Judgment Day (C64GS-Fix)",
+  "year": "1991",
+  "publisher": "Ocean",
+  "developer": "Dementia",
+  "genres": [
+    "Action",
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum Film: Abwechselnd kämpft der T-800 gegen den T-1000, flieht auf dem Motorrad vor dem Lastwagen und repariert zwischendurch sein Gesicht bzw. seinen Arm in einem Schiebepuzzle.\n\nÜberarbeitung der Ocean-Modulfassung durch CrystalCT (Oktober 2022, im Spiel als „C64 GS fixed by CrystalCT“ bezeichnet), damit sie auf dem C64GS bzw. mit Pad ohne Tastatur läuft. Ocean-Modul (512 KB). Bildschirmtexte deutsch und englisch.\n\nOriginal: Dementia (Ocean, 1991) · Bearbeitung: CrystalCT",
+  "images": {
+    "ss": "images/32/32c537a129fadb7994d6de043b0d57ba12facf0c.png",
+    "sstitle": "images/b9/b9aaed7aa8336b70d0c3d991d82eecf99c9fd1fc.png"
+  }
+}

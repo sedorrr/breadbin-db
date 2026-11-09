@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "sha1": "5ba2313dd429d746a642c0abeacfe6616bb79fa5",
+  "md5": "537892a19a598a647360ebceeccfb4d4",
+  "crc32": "f2f93a4f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SLICKS.D64"
+  ],
+  "screenscraper_id": "113363",
+  "title": "Slicks",
+  "year": "1992",
+  "publisher": "Codemasters",
+  "developer": "Ashley Routledge, David Saunders",
+  "genres": [
+    "Rennen"
+  ],
+  "synopsis": "Formel-1-Rennspiel aus der Vogelperspektive: Man steuert einen kleinen Rennwagen über Strecken, die von oben gezeigt werden, und fährt gegen Computergegner um Platzierungen in einer Rennserie.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“) und eigenem Intro; die Strecken werden nachgeladen. Steuerung mit Joystick.\n\nCode, Design: Ashley Routledge, David Saunders"
+}

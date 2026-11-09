@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "sha1": "9c7646e1d91b4255d9cdf521c1ecbe3bdbc3b404",
+  "md5": "f814c097ff63a6d890b5e591c54ffe02",
+  "crc32": "7e52ab3e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ptvdmagic.d64"
+  ],
+  "title": "Icon Run",
+  "year": "2012",
+  "publisher": "C64 Club Berlin",
+  "developer": "Evil Joe (C64 Club Berlin / Digital Talk)",
+  "genres": [
+    "Action",
+    "Gelegenheitsspiel"
+  ],
+  "players": "2-4",
+  "synopsis": "Kleines Mehrspielerspiel für den 4-Spieler-Adapter, entstanden als Beitrag zur BCC Party #6 (Berlin, 24.–26.02.2012), wo es im Mixed-Wettbewerb Platz 5 belegte. Das Titelbild zeigt ein stacheliges, kugelförmiges Wesen und den Schriftzug „Berlin C64 Club“; im Spiel wird ein Sieger ermittelt. Es war die erste Veröffentlichung des Autors.\n\nDas Spiel liegt als Datei „icon run/eviljoe“ auf der Partydisk „travel hooker #6“ (bcc6sidea.d64) zusammen mit weiteren Partybeiträgen. Die zweite Diskette im Ordner (ptvdmagic.d64) enthält die Demo „The True Story of Batman“ von Protovision und dmagic – sie ist kein Spiel, nur eine Beigabe aus derselben Quelle.\n\nCode: Evil Joe"
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "ccf22a5f009e81a2654184b9a11346b1379f5cbd",
+  "md5": "e626b19e289c78afe0c2929988f2ce33",
+  "crc32": "75bce840",
+  "size": 50410,
+  "format": "PRG",
+  "files": [
+    "retaliate-ce.prg"
+  ],
+  "screenscraper_id": "502940",
+  "title": "Retaliate CE (3-Button-Mod)",
+  "year": "2021",
+  "publisher": "Marcelo Lv Cabral",
+  "developer": "Marcelo Lv Cabral",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "C64-Neuentwicklung des Roku-Weltraumspiels Retaliate: Das Schiff beginnt ohne Munition. Mit dem Schild zerstört man Gegner und sammelt deren Munition ein, um dann zurückzuschießen. Vier Schwierigkeitsstufen mit je sieben Abschnitten, freischaltbare Schiffe und Bestenlisten.\n\nCommunity Edition (Version 1.0, 2021, Quelltext offen auf GitHub), hier mit Umbau von CrystalCT (Juli 2022) für drei Knöpfe: der zweite Knopf aktiviert den Schild, der dritte startet Raketen; ohne Zusatzknöpfe geht beides über Joystickbewegungen. Ein-Datei-PRG, Leertaste pausiert, M schaltet die Musik. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nCode und Sprites: Marcelo Lv Cabral · Spielidee: Romans I XVI Gaming · Musik-Remix: Richard/TND · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/1f/1f2eac97f74e694b665eaebfe88c189f1c3d3c2e.png",
+    "sstitle": "images/36/36645bd567230bb78fd9db178628bae5b956f130.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "e441362d64b5112e875ada20e1112b14e2be7b42",
+  "md5": "63402a0f15581ed2f135263bca4c3e50",
+  "crc32": "48cbbc0a",
+  "size": 36526,
+  "format": "PRG",
+  "files": [
+    "green-beret-2nd-fire.prg"
+  ],
+  "title": "Green Beret (2nd-Fire-Mod)",
+  "year": "1986",
+  "publisher": "Imagine",
+  "developer": "Imagine",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Konami-Automaten: Ein Elitesoldat dringt mit dem Messer in vier feindliche Stützpunkte ein, um Gefangene zu befreien. Erbeutete Flammenwerfer, Panzerfäuste und Granaten helfen kurzzeitig gegen die Übermacht.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im August 2022, überarbeitet im Februar 2023. Der zweite Feuerknopf setzt die erbeutete Zusatzwaffe ein, für die im Original die Leertaste nötig ist. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.\n\nMusik (Original): Martin Galway",
+  "images": {
+    "ss": "images/f5/f54fc8c2a534f6e238eb56c66b2cac21fed08657.png",
+    "sstitle": "images/4f/4f401f5f3e1cd1782099354157ce4f2061836e3b.png"
+  }
+}

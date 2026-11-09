@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "405af75be436c7afd7f634a8c1379426b1902b74",
+  "md5": "e7f8d74394ab1bb5762b533d97cf1644",
+  "crc32": "0f9faa86",
+  "size": 114976,
+  "format": "CRT",
+  "files": [
+    "wilf_ef.crt"
+  ],
+  "title": "Legend of Wilf",
+  "year": "2024",
+  "publisher": "hayesmaker64",
+  "developer": "hayesmaker64",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Zauberlehrling Tony Wilf bekommt von seinem Meister Ulrich Flügel verpasst und wird durch die Zeit geschickt, um die Teile eines Drachenamuletts einzusammeln, bevor die Drachen erwachen. Er läuft, fliegt und taucht durch Abschnitte voller Dinosaurier, Fallen und Wasserpassagen. Angelehnt an Kokotoni Wilf (Elite Systems, 1984), mit großer, farbiger Pixelgrafik und flüssiger Bewegung in 50 Bildern pro Sekunde.\n\nEasyFlash-Modul. Joystick: Feuer oder hoch zum Fliegen, Feuer im Wasser zum Abtauchen; eine alternative Steuerung ist wählbar. Tasten: M Musik, S Effekte, P Pause, F7 Ende; mit eingeschalteten Cheats F1 unendliche Leben und F3 Level überspringen. Vier Schwierigkeitsstufen von 9 Leben bis „Iron Wilf“ mit einem Leben; seit Version 1.1 gibt es einen leichten Modus.\n\nCode: hayesmaker64 · Musik: Stepz, DMX87 · Grafik: Stacbats, theJolieJones · Logo: Rotteroy",
+  "images": {
+    "ss": "images/2e/2e53a9a7cad373bfe5cc521a192ea3f9271ce930.png",
+    "sstitle": "images/df/df7196bf520c1cba06b482f0060a606ec9ce697d.png"
+  }
+}

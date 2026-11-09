@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "126b1e7b7cebfef995da2df9fe86da31a38f3383",
+  "md5": "2053a49b88569fc854aa4d9f1e1cec77",
+  "crc32": "2d69c899",
+  "size": 46684,
+  "format": "PRG",
+  "files": [
+    "sgp64.prg"
+  ],
+  "title": "Super GP 64",
+  "year": "2024",
+  "publisher": "AJ Layden",
+  "developer": "Andrew J. Layden",
+  "genres": [
+    "Rennen",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Einfaches Formel-Rennspiel in der Art von Pitstop: Fünf Strecken (Bahrain, Monza, Monaco, Spa, Interlagos) mit eingeblendeter Streckenkarte. Zusammenstöße beschädigen das Auto und senken die Höchstgeschwindigkeit; in der Boxengasse wird repariert, wahlweise auch nur teilweise. Neben Einzelrennen gibt es eine Meisterschaft, in der man jedes Rennen auf dem Podest beenden muss; Startplatz und Renndauer bestimmen den Schwierigkeitsgrad.\n\nUmsetzung und Überarbeitung von Super Monza GP 2 (VIC-20). Nur Joystick (Feuer = Gas, unten = Bremse, Leertaste = Pause). Für PAL gebaut, auf NTSC etwas schneller und schwerer. Ein-Datei-Spiel als PRG und D64, Fassung 1.0 vom 05.01.2024, erstellt mit CBM prg Studio.\n\nCode, Grafik, Effekte: Andrew J. Layden",
+  "images": {
+    "sstitle": "images/7f/7f5383c626137a959551499325795e980241b512.png"
+  }
+}

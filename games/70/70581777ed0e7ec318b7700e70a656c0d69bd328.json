@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "70581777ed0e7ec318b7700e70a656c0d69bd328",
+  "md5": "c6de1af5eb81bc28742180854d048bc5",
+  "crc32": "1670d177",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "gauntlet.d64"
+  ],
+  "screenscraper_id": "198762",
+  "title": "Gauntlet (2nd-Fire-Mod)",
+  "year": "1986",
+  "publisher": "U.S. Gold",
+  "developer": "Gremlin Graphics",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Atari-Automaten: Krieger, Walküre, Zauberer und Elf kämpfen sich durch Verliese voller Geister, Dämonen und Generatoren, sammeln Schätze, Schlüssel und Essen und suchen den Ausgang zur nächsten Ebene. Zu zweit gleichzeitig.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im Juli 2023. Der zweite Feuerknopf löst die Magie (Zaubertrank) aus, die im Original auf der Tastatur liegt. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "images": {
+    "sstitle": "images/cd/cd2f4c9c0eacb0502ff4baee5e0dff0724f42346.png"
+  }
+}

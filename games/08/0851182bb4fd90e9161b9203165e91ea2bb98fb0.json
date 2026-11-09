@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "0851182bb4fd90e9161b9203165e91ea2bb98fb0",
+  "md5": "b0f9f3bb43f08c164b71760e7862b891",
+  "crc32": "d1c1fdce",
+  "size": 48723,
+  "format": "PRG",
+  "files": [
+    "exile-2nd-fire.prg"
+  ],
+  "title": "Exile (2nd-Fire-Mod)",
+  "year": "1991",
+  "publisher": "Audiogenic",
+  "developer": "Peter Irvin, Jeremy Smith",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Mike Finn erkundet mit Raumanzug und Rucksack-Düse einen riesigen Höhlenplaneten. Eine eigene Physik mit Schwerkraft, Trägheit, Wind und Wasser bestimmt Flug und Gegenstände; viele Rätsel lassen sich auf mehreren Wegen lösen.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im Februar 2023. Der zweite Feuerknopf wechselt zwischen den Symbolgruppen der Steuerung. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "images": {
+    "ss": "images/27/2787cdda4e0a8af8703763796b7725a27b4584b0.png",
+    "sstitle": "images/98/9828cf6101c53bad327c6cb699e9a5c86a44c5e6.png"
+  }
+}

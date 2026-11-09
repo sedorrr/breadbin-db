@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "7c735b2d4ebcc13a11a0012b370843fdac50fcb4",
+  "md5": "920e028b6b62047079d0584fa1ce065a",
+  "crc32": "7131f92d",
+  "size": 12520,
+  "format": "PRG",
+  "files": [
+    "lemans-2023.prg"
+  ],
+  "title": "Lemans 2023",
+  "year": "1982",
+  "publisher": "Commodore",
+  "developer": "HAL Laboratory",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Überarbeitete Fassung des Commodore-Rennspiels Le Mans von 1982: Man steuert einen Rennwagen auf einer von oben gesehenen, senkrecht scrollenden Strecke und muss innerhalb des Zeitlimits möglichst weit kommen, ohne mit den anderen Wagen zusammenzustoßen. Die Neufassung bietet drei wählbare Fahrzeuge, Wagen mit verkleideten Rädern, zwei Gänge (niedrig/hoch), etwas feiner gezeichnete Spielerwagen und eine geänderte Bremse.\n\nInoffizielle Bearbeitung von CrystalCT (Italien), veröffentlicht am 13. März 2023. Feuer gibt Gas, Joystick hoch/runter schaltet in den hohen bzw. niedrigen Gang; mit Mehrknopf-Joystick bremst der zweite Knopf (POTX), der dritte (POTY) legt den hohen Gang ein. Ein-Datei-PRG. Das Ladebild stammt laut CSDb-Kommentaren von Worrior1 und wurde umgefärbt.\n\nOriginal: HAL Laboratory (Commodore, 1982) · Bearbeitung: CrystalCT",
+  "images": {
+    "sstitle": "images/72/72dc11a9d716921ee3218ec26934155a5c8691fe.png"
+  }
+}

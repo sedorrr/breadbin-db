@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "6835cfc2f919a6115eff19b92c23463ebeccc044",
+  "md5": "f42c9dc7c53822c19ed6a739c212de21",
+  "crc32": "d55afcfb",
+  "size": 427951,
+  "format": "TAP",
+  "files": [
+    "asp64es v1.2 Final.tap"
+  ],
+  "screenscraper_id": "501281",
+  "title": "Abu Simbel Profanation",
+  "year": "2017",
+  "publisher": "Equinoxe",
+  "developer": "Francisco Javier González Cañete (Equinoxe)",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "C64-Umsetzung des spanischen Spectrum-Spiels von Víctor Ruiz (Dinamic, 1985), das nie offiziell für den C64 erschien. Johnny Jones ist in einer Pyramide verflucht und hüpft als kleines Wesen ohne Arme durch Räume voller Fallen, Piranhas, Spinnen und Messer, um die Grabkammer zu erreichen. Jede Berührung ist tödlich; Diamanten der richtigen Farbe öffnen Türen. Die C64-Fassung nutzt die Sprite-Kollision der Hardware und ist etwas leichter als das berüchtigt schwere Original.\n\nZwei Fassungen: „Standard“ (2017) auf Englisch und Spanisch als PRG und TAP sowie „Extendida/Extended“ (spanisch, Fassung 1.2 Final) als CRT, PRG und TAP. Steuerung per Joystick in Port 2 (oben = weiter Sprung, oben + Feuer = kurzer Sprung) oder Tastatur O/P/Q/A. Im Ordner liegen außerdem Musik, Karte und Kassettenhüllen.\n\nCode und Grafik: Francisco Javier González Cañete · Musik und Effekte: CKultur, Richard Bayliss · Ladebild: Nico Galis",
+  "images": {
+    "ss": "images/4a/4a65e555943340e79b0e818e4b707caea5e454e0.png",
+    "sstitle": "images/42/42ae0474baebd090204b35559290108a02eb8b61.png"
+  }
+}

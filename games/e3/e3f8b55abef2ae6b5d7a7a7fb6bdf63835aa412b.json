@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "e3f8b55abef2ae6b5d7a7a7fb6bdf63835aa412b",
+  "md5": "5f31d0083890a0d02efdb894aca272d9",
+  "crc32": "11f8e734",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BAGMAN2.d64",
+    "Bagman Strikes Back v1.0.2 (LC-Games - 2022).d64",
+    "BAGMAN2.d64"
+  ],
+  "title": "Bagman Strikes Back",
+  "year": "2022",
+  "publisher": "LC-Games",
+  "developer": "Luca Carminati (LC-Games)",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Zweite Fortsetzung zum Automaten Bagman (Valadon Automation, 1982) und Nachfolger von Bagman Comes Back, mit 24 neuen Bergwerksabschnitten. Der Dieb schleppt Geldsäcke durch Stollen, Leitern und Aufzüge zur Schubkarre an der Oberfläche und weicht dabei Wachen, Loren und Aufzügen aus. Wachen lassen sich mit der Spitzhacke, einem fallengelassenen oder hinabrutschenden Sack oder der Schubkarre betäuben; die Hacke bricht auch Mauern auf, hält aber nur wenige Sekunden. An Deckengriffen kann man sich festhalten und in Loren springen.\n\nJoystick in Port 2 (Feuer = Aktion), F7 = Pause, F1 = zurück zum Titel. Drei Schwierigkeitsgrade, Anleitung im Spiel, Bestenliste wird auf Diskette gespeichert. Ein Extraleben bei 30.000 und danach alle 60.000 Punkte, höchstens sechs.\n\nCode: Luca Carminati",
+  "images": {
+    "ss": "images/b0/b096c9fe55e3c188516e607652b71aef41784609.png",
+    "sstitle": "images/74/7432224e719a503ee2b37083f532242bff005abd.png"
+  }
+}

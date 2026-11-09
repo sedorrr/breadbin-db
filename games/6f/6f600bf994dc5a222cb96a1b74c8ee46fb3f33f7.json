@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "sha1": "6f600bf994dc5a222cb96a1b74c8ee46fb3f33f7",
+  "md5": "151b83b250c86c16ff2edc12d69c44e6",
+  "crc32": "3eb9e652",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "scramble_plus1_SWIMMERS.d64"
+  ],
+  "title": "Scramble +",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Weltraum-Ballerspiel nach dem Vorbild des Konami-Automaten Scramble, laut Crack-Intro ein Spiel aus den 1980er Jahren, das in GameBase64 noch fehlt. Ein zusätzliches Schiff gibt es bei 2000 Punkten und danach alle 4000 Punkte.\n\nNur 16 Blöcke groß. Im Original wird mit F1 (hoch) und SHIFT (Feuer) gespielt; die Gruppe Swimmers (September 2026, Original: Radd Maxx) hat einen Trainer für unbegrenzte Leben und eine Joystick-Option für Port 2 (oben/Knopf) ergänzt (Dumpster Diver).",
+  "images": {
+    "sstitle": "images/be/be2692249996a0cb06bc7e061d6fc904f91833db.png"
+  }
+}

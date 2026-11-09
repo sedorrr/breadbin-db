@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c5facee0ef07f5605e21f1b8faa0a5a8891452f1",
+  "md5": "f608b78b56bf0b026b6b6275af0a1d58",
+  "crc32": "f2101573",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "terracresta.crt"
+  ],
+  "screenscraper_id": "110211",
+  "title": "Terra Cresta (2nd-Fire-Mod)",
+  "year": "1986",
+  "publisher": "Imagine",
+  "developer": "Imagine",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Nichibutsu-Automaten: Ein Jäger fliegt über eine senkrecht scrollende Landschaft und sammelt nummerierte Schiffsteile ein, die sich an das eigene Schiff ankoppeln. Mit allen Teilen verwandelt es sich zeitweise in den Phönix; die Teile lassen sich auch in eine Formation auffächern.\n\nUmbau von CrystalCT (Juni 2023): Der zweite Feuerknopf löst die Verwandlung aus. Magic-Desk-Modul (64 KB) mit Startmenü wie bei den C64GS-Umbauten. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Imagine (Nichibutsu) · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/ad/adbc4559ce9ccb9eed8922748fe9b7aa2465d8cf.png",
+    "sstitle": "images/3e/3ec3964b1f98fbf47efdc04a94c4c5b7afe8b6b7.png"
+  }
+}

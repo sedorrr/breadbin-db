@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "3e8210b0a4c71c68ca2ffaff965b1bf9ad27eb6f",
+  "md5": "f0ae41507216490893b2473abcd9df37",
+  "crc32": "c6e3f828",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "EVIL_DUNGEON_2_INT.d64"
+  ],
+  "title": "Evil Dungeon II – Alrik's Revenge",
+  "year": "2023",
+  "publisher": "RetroArts",
+  "developer": "Gregor Schillinger",
+  "genres": [
+    "Rollenspiele",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Evil Dungeon: Alrik will Rache an einer Orkbande nehmen, die seine Eltern getötet hat, und erkundet dafür ein neues tödliches Labyrinth mit Monstern, Gegenständen, Rätseln und Geheimnissen. Kämpfe und Erkundung laufen wieder rundenbasiert; neu sind eine Schnellspeicherfunktion und zwei unterschiedliche Enden. Spieldauer etwa 60–90 Minuten.\n\nSteuerung über die Tastatur. Deutsche und englische Fassung auf einer Diskette, PAL/NTSC, läuft auch auf TheC64. Veröffentlicht am 20.10.2023 (englische Fassung 1.01 am 24.11.2023 nachgebessert).\n\nCode und Design: Gregor Schillinger · Musik: Nordischsound (Benjamin Dibbert)",
+  "images": {
+    "sstitle": "images/04/04a9f5c603f4ceab2703e5b085371617a289f1ab.png"
+  }
+}

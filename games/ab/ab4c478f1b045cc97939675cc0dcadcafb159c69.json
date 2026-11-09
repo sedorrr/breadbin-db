@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "ab4c478f1b045cc97939675cc0dcadcafb159c69",
+  "md5": "54ac72a7d978340488c1d76684dde71a",
+  "crc32": "9a4d1b7c",
+  "size": 18200,
+  "format": "PRG",
+  "files": [
+    "straight-up.prg"
+  ],
+  "screenscraper_id": "493856",
+  "title": "Straight Up",
+  "year": "2021",
+  "publisher": "Dr. Wuro Industries",
+  "developer": "ZeHa (Dr. Wuro Industries)",
+  "genres": [
+    "Plattform",
+    "Gelegenheitsspiel"
+  ],
+  "players": "1-4",
+  "synopsis": "Vier Gemüsefiguren – Tomate, Zwiebel, Salat und Aubergine – springen von Plattform zu Plattform so hoch hinauf wie möglich. Im Gegeneinander-Modus gewinnt, wer am schnellsten oben ist; im Miteinander-Modus sammelt die Gruppe einen gemeinsamen Höchststand, allein geht es auch.\n\nFür den dritten und vierten Spieler ist der 4-Spieler-Adapter am Userport („Classical Games 4-Player Interface“) nötig; VICE bildet ihn nach. Erschienen zur DoReCo Party 2021 (02.10.2021). Als PRG und D64.\n\nCode, Grafik, Musik: ZeHa",
+  "images": {
+    "ss": "images/c7/c7af4deedcf23c78ebe6e7721be0888fe9b15a56.png",
+    "sstitle": "images/79/79731e38530485947fdc007c4736b0a354dba348.png"
+  }
+}

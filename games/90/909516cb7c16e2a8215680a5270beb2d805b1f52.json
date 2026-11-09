@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "909516cb7c16e2a8215680a5270beb2d805b1f52",
+  "md5": "149cb2c4f82ca0e7e111bde3f1c2ea02",
+  "crc32": "291b7a73",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Lemans +3HD 100% [Shadow].d64"
+  ],
+  "title": "Le Mans 2",
+  "year": "2026",
+  "publisher": "Zerog Labs",
+  "developer": "Alessandro Bulgarelli",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Von oben gesehenes Arcade-Rennspiel nach dem Vorbild des Klassikers Lemans: Nach dem Start schlängelt man sich durch den Verkehr und muss jeden Kontrollpunkt vor Ablauf der Zeit erreichen; Kontrollpunkte füllen das Zeitkonto auf (höchstens 60 Sekunden), jeder Zusammenstoß kostet Zeit, und alle zehn überholten Wagen gibt es 1000 Bonuspunkte. Die Strecken wechseln zwischen Landschaft, Seeufer, rutschigem Schnee, Nacht mit Scheinwerferkegel und Nebel; die Gegner fahren unterschiedlich schnell und auf eigenen Linien.\n\nCrack von Shadow (+3HD, „101%“) der Beta-Fassung 1.0: Trainer (unbegrenzte Zeit, keine Kollisionen, automatisches Gasgeben), Highscore-Speicher, Fehlerkorrektur und Anleitung von pcollins, Original und Test: Stormfront. Joystick in Port 2 (Feuer halten = Gas) oder Paddle in Port 1; P pausiert.\n\nCode, Design: Alessandro Bulgarelli",
+  "images": {
+    "sstitle": "images/f8/f8d48cc8d415a829c447262edcab6522f54c87d9.png"
+  }
+}

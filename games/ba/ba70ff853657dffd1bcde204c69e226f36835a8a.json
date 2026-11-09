@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "ba70ff853657dffd1bcde204c69e226f36835a8a",
+  "md5": "8e24be200af08c2a62bdb0ee4787fb85",
+  "crc32": "eb623c55",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SCOUT THE STRAY.d64"
+  ],
+  "screenscraper_id": "534767",
+  "title": "Scout the Stray",
+  "year": "2022",
+  "publisher": "LC-Games",
+  "developer": "LC-Games",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Der Straßenhund Scout frisst sich durch Labyrinthe voller Knochen und muss dabei Hundefängern ausweichen. Ein Bellen verscheucht die Verfolger für einige Sekunden, lädt sich danach aber erst wieder auf. Farbige Kugeln bringen dreifache Punkte, lassen die Fänger fliehen oder verschwinden, geben Bonuspunkte oder einen Buchstaben für das Wort EXTRA, das ein Extraleben bringt. Die 32 Labyrinthe werden bei jedem Spiel neu erzeugt, die Fänger werden mit jedem Level schneller.\n\nLäuft auf PAL und NTSC. Joystick in Port 2, Feuer bellt, F7 pausiert, F1 bricht ab. Vier Schwierigkeitsstufen, Musik abschaltbar (dann mehr Soundeffekte). Version 1.1 ergänzte Musik im Spiel, 1.2 einen Vorführmodus.\n\nEntwicklung: LC-Games",
+  "images": {
+    "ss": "images/08/08ec1427e8ccdec1cbcb079aceb8bd062a77b03c.png",
+    "sstitle": "images/eb/ebe702345c94003d120ee59e12d98feed37ee6d3.png"
+  }
+}

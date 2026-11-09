@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "2e201e66f2014987e5aac7114028f07f4ec22255",
+  "md5": "2bd6b5d049129bf83fc2eb3b1bcbb835",
+  "crc32": "5417b7c2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Astran Staker+1D[HF+EX].d64"
+  ],
+  "title": "Astran Staker",
+  "year": "2026",
+  "publisher": "Commodore Plus",
+  "developer": "Minter",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung der Stacker-Automaten aus Spielhallen: Eine Reihe leuchtender Blöcke wandert waagerecht hin und her, und man muss im richtigen Moment drücken, damit sie genau auf der Reihe darunter liegen bleibt. Was übersteht, fällt weg; je höher der Turm wird, desto schmaler und schneller werden die Reihen. Wer ganz oben ankommt, „gewinnt“ einen Commodore 64.\n\nCrack-Fassung von Excess und Hokuto Force (September 2026) mit einem Trainer und Spielbeschreibung (Trainer, Zusammenbau: Sentinel; Original und Test: E$G); Auswahl mit Y/N oder Joystick. Gespielt wird mit Joystick in Port 2 und nur einem Knopf. Das Original ist kostenlos als PRG und TAP erhältlich.\n\nCode, Grafik, Ladebild: Minter · Musik: Yoko (Sanxion Loader Mix) · Verpackungsgrafik: Josepzin",
+  "images": {
+    "ss": "images/eb/eb1fd8e40b105c8038341b596fcf407427825000.png",
+    "sstitle": "images/6a/6ac39cdcb35ece7a0134f4637d000c5efed4684a.png"
+  }
+}

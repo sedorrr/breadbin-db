@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "d01ce0f3f9049e60f3ff4ee5258d5fd049f0386b",
+  "md5": "2afe037e35f8fba3f00c8aa67edd7be2",
+  "crc32": "417fcc32",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WHEEEEE! +3D [Shadow].d64"
+  ],
+  "title": "Wheeeee!",
+  "year": "2026",
+  "publisher": "snow-g",
+  "developer": "snow-g",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Jump-'n'-Run ohne Ende: Jeder Level wird beim Betreten vom C64 aus Bausteinen wie Gruben, Stachelfeldern, Treppen zu versteckten Edelsteinen, Bonusblöcken und schwebenden Inseln neu zusammengesetzt und darauf geprüft, dass alles erreichbar ist; mit jedem Level wird es etwas schwerer. Vier Welten mit eigener Musik und eigenen Regeln – grünes Tal, Feuerberg, ein Mond mit geringer Schwerkraft und eine Roboterstadt – und alle zehn Level ein Kampf gegen den Skarabäuskönig. Aus „!“-Blöcken kommen Schutzschild, Feuerbälle und ein Münzmagnet; 100 Münzen geben ein Extraleben, jeder Level hat ein Zeitlimit.\n\nCrack von Shadow (+3D, September 2026): Trainer für unbegrenzte Zeit und Leben sowie Level-Überspringen (C=-Taste), Anleitung von pcollins, Original und Test: Stormfront. Joystick in Port 1 oder 2 oder Tastatur (A/D bzw. Cursortasten, Springen mit Feuer/Z/Leertaste/Return, Ducken S, Schießen W). Mehrlagiges Parallax-Scrolling mit vielen Rasterinterrupts.",
+  "images": {
+    "sstitle": "images/42/42f105811fe86a785f537c25efcced491354ce92.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "743245a78e078af2ba454fd9b1bddf1c06d47893",
+  "md5": "0688d71b00b5162cb75e8022705fde44",
+  "crc32": "8abb9654",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Goodkniight.d64"
+  ],
+  "screenscraper_id": "494450",
+  "title": "Good Kniight",
+  "year": "2024",
+  "publisher": "Psytronik Software",
+  "developer": "ICON64",
+  "genres": [
+    "Plattform",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Der Drache Embers hat die Prinzessin entführt, und Sir Darren von Durham, der „gute Ritter“, zieht los, um sie zu befreien. Auf über 40 Einzelbildschirmen (plus Bonusbildschirmen) muss er jeweils von links nach rechts gelangen und dabei Feuerbällen, Pfeilen, Drachen, Soldaten und Stacheln ausweichen; Seile und bewegliche Plattformen helfen. Der Sprung lässt sich in der Luft lenken.\n\nJoystick in Port 2 (Feuer = Springen); im Titelbild wählt man zwischen Musik und Effekten. Als Kassette (TAP), Diskette (D64, speichert die Bestenliste) und PRG; läuft auch auf TheC64. Erschienen in der Psytronik Collection.\n\nCode: Stuart Collier · Grafik und Design: Trevor Storey · Musik: Saul Cross · Kassettenmastering: Richard Bayliss",
+  "images": {
+    "ss": "images/22/22a83e4b77dcf4262fa607268ddb3e522f1d6e19.png",
+    "sstitle": "images/72/72093383aaeb39b310df77af2cbb8e230185d29c.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "a8a5556aeb05612281b22e7d548e60f5d2529542",
+  "md5": "f010b7a6c6f9a3a727c976e939e5f2a3",
+  "crc32": "087517a4",
+  "size": 37275,
+  "format": "PRG",
+  "files": [
+    "rambo-first-blood-2nd-fire.prg"
+  ],
+  "title": "Rambo: First Blood Part II (2nd-Fire-Mod)",
+  "year": "1985",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum Film: Aus der Vogelperspektive kämpft sich Rambo durch den Dschungel, befreit Kriegsgefangene und entkommt schließlich mit einem Hubschrauber. Neben dem Messer stehen Bogen, Sprengpfeile, Maschinengewehr und Raketenwerfer zur Verfügung.\n\nUmbau von CrystalCT (August 2022): Der zweite Feuerknopf wählt die Waffe und löst Aktionen aus. Ein-Datei-PRG. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Ocean · Umbau: CrystalCT",
+  "images": {
+    "ss": "images/1b/1b93fe242217a5668d3a86a3c4fa1bb80a71180d.png",
+    "sstitle": "images/8c/8cb35fa51cbd68f40f971eb7515acd8815a33d81.png"
+  }
+}

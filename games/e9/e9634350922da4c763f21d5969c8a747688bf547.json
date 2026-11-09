@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "e9634350922da4c763f21d5969c8a747688bf547",
+  "md5": "34b48f365b33748009ca12e42e121e66",
+  "crc32": "2c2d18e5",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "pitstop2-gs.crt"
+  ],
+  "title": "Pitstop II (C64GS-Mod)",
+  "year": "1984",
+  "publisher": "Epyx",
+  "developer": "Steven H. Landrum, Dennis Caswell, Erin Murphy",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-2",
+  "synopsis": "Formel-Rennspiel mit geteiltem Bildschirm für zwei gleichzeitige Fahrer auf sechs echten Strecken. Reifen nutzen sich ab und Benzin geht zur Neige, deshalb muss man in die Box, wo man die Mechaniker selbst steuert.\n\nUmbau von CrystalCT (Mai 2023): Der zweite Feuerknopf beschleunigt stark, der dritte bremst. Magic-Desk-Modul (64 KB) mit Startmenü, C64GS-tauglich. Der zweite Knopf wird nach C64GS-Art über die POTX-Leitung (Pin 9) gelesen, ein dritter über POTY (Pin 5); nötig ist also ein entsprechend belegter Joystick oder ein Pad-Adapter (z. B. Cheetah Annihilator, crystalcts 5+1-Knopf-Joystick oder Sega-/SNES-Pad-Adapter). Mit einem normalen Ein-Knopf-Joystick bleibt das Spiel wie gewohnt spielbar.\n\nOriginal: Epyx · Umbau: CrystalCT",
+  "images": {
+    "sstitle": "images/7e/7e06921a3df7dbfbd311b4092eac85a7190cf374.png"
+  }
+}

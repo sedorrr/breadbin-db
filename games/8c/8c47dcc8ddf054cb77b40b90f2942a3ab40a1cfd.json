@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "8c47dcc8ddf054cb77b40b90f2942a3ab40a1cfd",
+  "md5": "fe25ac2907df790d19d74fea2b26ff42",
+  "crc32": "5ebbe212",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "c64_rabenstein.d64"
+  ],
+  "title": "The Curse of Rabenstein",
+  "year": "2020",
+  "publisher": "Puddle Software",
+  "developer": "Stefan Vogt",
+  "genres": [
+    "Abenteuer / Text",
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Grusel-Adventure im Schwarzwald: Nach dem rätselhaften Verschwinden des Kutschers sucht man eine Bleibe für die Nacht und kommt einem alten Fluch auf die Spur. Text-Grafik-Adventure im Stil der Level-9-Spiele mit Zwei-Wort-Parser (z. B. EAT APPLE); wichtige Gegenstände werden unter „YOU NOTICE“ aufgeführt, UNTERSUCHEN und DURCHSUCHEN führen zu unterschiedlichen Ergebnissen. Man kann nicht sterben und gerät nicht in Sackgassen.\n\nParser-Fassung auf Englisch, je eine Diskette für C64 (LOAD\"*\",8,1) und Plus/4. Spielstände lassen sich jederzeit speichern und laden. Erstveröffentlichung am 17.03.2020, erstellt mit DAAD und dem Maluva-Plugin; es gibt Fassungen für viele weitere Rechner. Hinweis für Ultimate 64: Bei „Time Out“ zusätzliche Laufwerke abschalten.\n\nAutor: Stefan Vogt",
+  "images": {
+    "sstitle": "images/fd/fd0fb4eca72f582aac14b2ce041b63e2fc1bc2b6.png"
+  }
+}

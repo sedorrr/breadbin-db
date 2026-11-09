@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "c499610a091a3ce561204efa6002bfad33a2a2d7",
+  "md5": "3289d96498ad3923345ced7db7576fed",
+  "crc32": "9df89abc",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ENDURO.D64"
+  ],
+  "screenscraper_id": "36319",
+  "title": "Enduro Racer",
+  "year": "1987",
+  "publisher": "Activision",
+  "developer": "Icon Design",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Sega-Automaten: Mit einem Enduro-Motorrad fährt man aus der Sicht hinter dem Fahrer über holprige Geländestrecken, nimmt Hügel als Sprungschanzen, weicht Hindernissen und anderen Fahrern aus und muss jeden Abschnitt vor Ablauf der Zeit schaffen.\n\nCrack von The Lightforce (TLF) mit einem Trainer, Highscore-Speicher und Ladebild; die Anleitung liegt in zwei Dateien auf der Diskette. Joystick in Port 2, englisch, PAL.\n\nCode: Nick Pelling · Musik: David Whittaker",
+  "images": {
+    "ss": "images/b4/b4f878c3b2c2ea966b2282cd2a25feb02abca654.png"
+  }
+}

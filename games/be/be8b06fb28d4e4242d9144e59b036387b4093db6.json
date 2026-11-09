@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "sha1": "be8b06fb28d4e4242d9144e59b036387b4093db6",
+  "md5": "271369b13f24eb39f0259b4713de8167",
+  "crc32": "ff0cc7c7",
+  "size": 48157,
+  "format": "T64",
+  "files": [
+    "ironmanoffroad.t64"
+  ],
+  "title": "Ivan 'Ironman' Stewart's Super Off Road",
+  "year": "1990",
+  "publisher": "Virgin Games",
+  "developer": "Graftgold",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-3",
+  "synopsis": "Umsetzung des Leland-Automaten: Vier Geländewagen, darunter der von Ivan „Ironman“ Stewart, rasen auf von oben gezeigten Schlammpisten mit Hügeln und Sprüngen um den Sieg. Acht Strecken werden in beiden Richtungen gefahren; mit Preisgeld und auf der Strecke eingesammelten Geldsäcken kauft man Nitro-Ladungen und verbessert Beschleunigung, Höchstgeschwindigkeit, Stoßdämpfer und Reifen.\n\nDie C64-Fassung lädt in einem Stück, ohne Nachladen. Diese Datei ist ein T64 mit einer einzigen Programmdatei („Ironman's Offroad“)."
+}
