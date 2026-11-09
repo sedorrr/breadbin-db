@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3c99ba4f9c60e922bbcf30be928fe6888ce52866",
+  "md5": "574511e005edfdb403b2a0e404609f12",
+  "crc32": "6cbc7910",
+  "size": 625985,
+  "format": "TAP",
+  "files": [
+    "Barry McGuigan World Championship Boxing (Mastertronic Plus).tap"
+  ],
+  "screenscraper_id": "115042",
+  "title": "Barry McGuigan World Championship Boxing",
+  "year": "1985",
+  "publisher": "Activision",
+  "developer": "Sportsware Productions (Troy Lyndon, Doug Barnett, Chris Harvey)",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Eine Boxsimulation, benannt nach dem irischen Weltmeister Barry McGuigan. Man stellt einen eigenen Boxer zusammen, trainiert ihn und arbeitet sich in der Rangliste nach oben, bis zum Titelkampf. Im Ring werden Schläge und Deckung mit dem Joystick gesteuert, Ausdauer und Taktik spielen eine große Rolle. Zwei Spieler können auch gegeneinander antreten.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Troy Lyndon, Doug Barnett, Chris Harvey · Musik: John A. Fitzpatrick",
+  "texts": {
+    "de": "Eine Boxsimulation, benannt nach dem irischen Weltmeister Barry McGuigan. Man stellt einen eigenen Boxer zusammen, trainiert ihn und arbeitet sich in der Rangliste nach oben, bis zum Titelkampf. Im Ring werden Schläge und Deckung mit dem Joystick gesteuert, Ausdauer und Taktik spielen eine große Rolle. Zwei Spieler können auch gegeneinander antreten.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Troy Lyndon, Doug Barnett, Chris Harvey · Musik: John A. Fitzpatrick",
+    "en": "A boxing simulation named after the Irish world champion Barry McGuigan. You put together your own boxer, train him and work your way up the rankings to a title fight. In the ring, punches and guard are controlled with the joystick; stamina and tactics play a major role. Two players can also compete against each other.\n\nThis file contains the game as a tape image (TAP); several versions exist (original, conversions, cracks).\n\nCode: Troy Lyndon, Doug Barnett, Chris Harvey · Music: John A. Fitzpatrick"
+  },
+  "images": {
+    "sstitle": "images/e4/e4121fe35b9a0c3daf6d7d8c46e0bb93ab9a3da9.png"
+  }
+}

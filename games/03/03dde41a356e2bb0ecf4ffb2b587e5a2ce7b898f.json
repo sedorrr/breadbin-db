@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "03dde41a356e2bb0ecf4ffb2b587e5a2ce7b898f",
+  "md5": "d125e3436824017acb2afb8f22c25ae1",
+  "crc32": "f116cdc9",
+  "size": 418672,
+  "format": "CRT",
+  "files": [
+    "Summer Games II (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36474",
+  "title": "Summer Games II",
+  "year": "1985",
+  "publisher": "Epyx",
+  "developer": "Epyx",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "Die Fortsetzung von Summer Games bringt acht neue Sommerdisziplinen: Dreisprung, Rudern, Speerwurf, Springreiten, Hochsprung, Fechten, Radfahren und Kajak. Bis zu acht Spieler wählen ein Land und treten nacheinander an, beim Fechten und Rudern auch zwei gleichzeitig. Die Disziplinen verlangen sehr unterschiedliche Joystickbewegungen, was den Reiz des Spiels ausmacht.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile kommen aus dem Modul statt von Diskette.\n\nMusik: Bob Vieira",
+  "texts": {
+    "de": "Die Fortsetzung von Summer Games bringt acht neue Sommerdisziplinen: Dreisprung, Rudern, Speerwurf, Springreiten, Hochsprung, Fechten, Radfahren und Kajak. Bis zu acht Spieler wählen ein Land und treten nacheinander an, beim Fechten und Rudern auch zwei gleichzeitig. Die Disziplinen verlangen sehr unterschiedliche Joystickbewegungen, was den Reiz des Spiels ausmacht.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile kommen aus dem Modul statt von Diskette.\n\nMusik: Bob Vieira",
+    "en": "The sequel to Summer Games brings eight new summer events: triple jump, rowing, javelin, equestrian show jumping, high jump, fencing, cycling and kayaking. Up to eight players each choose a country and compete in turn, in fencing and rowing also two at once. The events call for very different joystick movements, which is what makes the game appealing.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the load parts come from the cartridge instead of from disk.\n\nMusic: Bob Vieira"
+  },
+  "images": {
+    "ss": "images/0a/0a54db4c5b044495a96329dc732cb494d07b1547.png",
+    "sstitle": "images/b0/b0232a3940da35646c6ec4157a7440c6160029ae.png"
+  }
+}

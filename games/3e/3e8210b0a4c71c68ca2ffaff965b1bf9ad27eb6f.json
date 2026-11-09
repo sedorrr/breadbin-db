@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Fortsetzung von Evil Dungeon: Alrik will Rache an einer Orkbande nehmen, die seine Eltern getötet hat, und erkundet dafür ein neues tödliches Labyrinth mit Monstern, Gegenständen, Rätseln und Geheimnissen. Kämpfe und Erkundung laufen wieder rundenbasiert; neu sind eine Schnellspeicherfunktion und zwei unterschiedliche Enden. Spieldauer etwa 60–90 Minuten.\n\nSteuerung über die Tastatur. Deutsche und englische Fassung auf einer Diskette, PAL/NTSC, läuft auch auf TheC64. Veröffentlicht am 20.10.2023 (englische Fassung 1.01 am 24.11.2023 nachgebessert).\n\nCode und Design: Gregor Schillinger · Musik: Nordischsound (Benjamin Dibbert)",
+  "texts": {
+    "de": "Fortsetzung von Evil Dungeon: Alrik will Rache an einer Orkbande nehmen, die seine Eltern getötet hat, und erkundet dafür ein neues tödliches Labyrinth mit Monstern, Gegenständen, Rätseln und Geheimnissen. Kämpfe und Erkundung laufen wieder rundenbasiert; neu sind eine Schnellspeicherfunktion und zwei unterschiedliche Enden. Spieldauer etwa 60–90 Minuten.\n\nSteuerung über die Tastatur. Deutsche und englische Fassung auf einer Diskette, PAL/NTSC, läuft auch auf TheC64. Veröffentlicht am 20.10.2023 (englische Fassung 1.01 am 24.11.2023 nachgebessert).\n\nCode und Design: Gregor Schillinger · Musik: Nordischsound (Benjamin Dibbert)",
+    "en": "Sequel to Evil Dungeon: Alrik wants revenge on a band of orcs that killed his parents and explores a new deadly labyrinth with monsters, items, puzzles and secrets. Combat and exploration are again turn-based; new are a quick-save function and two different endings. Playing time about 60–90 minutes.\n\nControlled via the keyboard. German and English versions on one disk, PAL/NTSC, also runs on TheC64. Released on 20.10.2023 (English version 1.01 revised on 24.11.2023).\n\nCode and design: Gregor Schillinger · Music: Nordischsound (Benjamin Dibbert)"
+  },
   "images": {
     "sstitle": "images/04/04a9f5c603f4ceab2703e5b085371617a289f1ab.png"
   }

@@ -17,5 +17,13 @@
     "Puzzle"
   ],
   "players": "1",
-  "synopsis": "Mischung aus Bomberman und Pac-Man aus Polen: Auf jedem Spielfeld müssen alle Sterne eingesammelt werden. Bomben räumen Mauern weg und erledigen die Monster, zerstören aber auch Sterne – das kostet ein Leben. Insgesamt 123 Level.\n\nCrack von Hitmen („bombmania +2/hit“) mit Trainer (+2), Crack und Trainer von The Ministry, eine Datei. Der Laufschrift-Vorspann nennt L.K. Avalon als Herausgeber. Nicht zu verwechseln mit dem gleichnamigen Vier-Spieler-Spiel von Protovision.\n\nCode, Grafik, Musik: Siepac"
+  "synopsis": "Mischung aus Bomberman und Pac-Man aus Polen: Auf jedem Spielfeld müssen alle Sterne eingesammelt werden. Bomben räumen Mauern weg und erledigen die Monster, zerstören aber auch Sterne – das kostet ein Leben. Insgesamt 123 Level.\n\nCrack von Hitmen („bombmania +2/hit“) mit Trainer (+2), Crack und Trainer von The Ministry, eine Datei. Der Laufschrift-Vorspann nennt L.K. Avalon als Herausgeber. Nicht zu verwechseln mit dem gleichnamigen Vier-Spieler-Spiel von Protovision.\n\nCode, Grafik, Musik: Siepac",
+  "texts": {
+    "de": "Mischung aus Bomberman und Pac-Man aus Polen: Auf jedem Spielfeld müssen alle Sterne eingesammelt werden. Bomben räumen Mauern weg und erledigen die Monster, zerstören aber auch Sterne – das kostet ein Leben. Insgesamt 123 Level.\n\nCrack von Hitmen („bombmania +2/hit“) mit Trainer (+2), Crack und Trainer von The Ministry, eine Datei. Der Laufschrift-Vorspann nennt L.K. Avalon als Herausgeber. Nicht zu verwechseln mit dem gleichnamigen Vier-Spieler-Spiel von Protovision.\n\nCode, Grafik, Musik: Siepac",
+    "en": "A mix of Bomberman and Pac-Man from Poland: on each playfield all the stars must be collected. Bombs clear away walls and dispatch the monsters, but also destroy stars – which costs a life. 123 levels in total.\n\nCrack by Hitmen (\"bombmania +2/hit\") with trainer (+2), crack and trainer by The Ministry, one file. The scrolling intro names L.K. Avalon as the publisher. Not to be confused with Protovision's four-player game of the same name.\n\nCode, graphics, music: Siepac"
+  },
+  "images": {
+    "ss": "images/ab/ab89cdced726491114b8e617e8c28cb6201522a3.png",
+    "sstitle": "images/37/37f29a19ccb3c47a38638ea7eaabf4c411d416df.png"
+  }
 }

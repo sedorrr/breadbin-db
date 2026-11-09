@@ -19,6 +19,10 @@
   ],
   "players": "1",
   "synopsis": "Hommage an Namcos Pac-Man von 1980 mit zwei Neuerungen: Die Labyrinthe werden zufällig erzeugt, und nach den ersten zwei Runden und danach jeder dritten folgt eine Bonusrunde, in der Pac-Man gegen die Uhr alle Bonusgegenstände fressen muss. Sonst gilt das bekannte Prinzip mit vier Geistern, Kraftpillen, Früchten und Tunneln; Extraleben bei 10 000 und dann alle 50 000 Punkte.\n\nLäuft auf PAL und NTSC. Joystick in Port 2, F7 Pause, F1 zurück zum Titel. Optionen (speicherbar): vier Schwierigkeitsstufen, fünf Wandformen, symmetrische oder freie Labyrinthe. Ab Version 1.4 mit Vorführmodus und verbesserter Labyrintherzeugung.",
+  "texts": {
+    "de": "Hommage an Namcos Pac-Man von 1980 mit zwei Neuerungen: Die Labyrinthe werden zufällig erzeugt, und nach den ersten zwei Runden und danach jeder dritten folgt eine Bonusrunde, in der Pac-Man gegen die Uhr alle Bonusgegenstände fressen muss. Sonst gilt das bekannte Prinzip mit vier Geistern, Kraftpillen, Früchten und Tunneln; Extraleben bei 10 000 und dann alle 50 000 Punkte.\n\nLäuft auf PAL und NTSC. Joystick in Port 2, F7 Pause, F1 zurück zum Titel. Optionen (speicherbar): vier Schwierigkeitsstufen, fünf Wandformen, symmetrische oder freie Labyrinthe. Ab Version 1.4 mit Vorführmodus und verbesserter Labyrintherzeugung.",
+    "en": "Homage to Namco's Pac-Man from 1980 with two new features: the mazes are randomly generated, and after the first two rounds and every third round thereafter comes a bonus round in which Pac-Man must eat all the bonus items against the clock. Otherwise the familiar principle applies, with four ghosts, power pills, fruit and tunnels; extra lives at 10,000 and then every 50,000 points.\n\nRuns on PAL and NTSC. Joystick in port 2, F7 pause, F1 back to the title. Options (can be saved): four difficulty levels, five wall styles, symmetrical or free-form mazes. From version 1.4 with a demo mode and improved maze generation."
+  },
   "images": {
     "ss": "images/0e/0e0e40415e0f8fc48686135f6e62486c7b231039.png"
   }

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "57d6ad9ee7f96ed7715daa630af45cb9d84efe73",
+  "md5": "1be4417ee8afcd9630d8b7468dd5a0dd",
+  "crc32": "cbda2e24",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Match Day II.crt"
+  ],
+  "screenscraper_id": "36679",
+  "title": "Match Day II",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Jon Ritman, Bernie Drummond",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Fußballspiel in Seitenansicht und Nachfolger von Match Day. Neu war vor allem eine Schussstärkenanzeige, über die sich Pässe und Schüsse unterschiedlich weit spielen lassen, dazu Kopfbälle, Fallrückzieher und Abpraller, die vom Auftreffwinkel abhängen. Gespielt wird gegen den Computer oder zu zweit, wahlweise als Freundschaftsspiel, Liga oder Pokal. Das flotte, gut steuerbare Spielgefühl machte es zu einem der beliebtesten Fußballspiele der 8-Bit-Zeit.\n\nErschien auf Kassette und Diskette, später auch als Budget-Neuauflage; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick. Die C64-Fassung ist eine Umsetzung des ursprünglich für Spectrum und Amstrad entworfenen Spiels.\n\nEntwurf: Jon Ritman, Bernie Drummond · Code (C64): John Darnell · Grafik (C64): Simon Butler · Musik (C64): Jonathan Dunn",
+  "texts": {
+    "de": "Fußballspiel in Seitenansicht und Nachfolger von Match Day. Neu war vor allem eine Schussstärkenanzeige, über die sich Pässe und Schüsse unterschiedlich weit spielen lassen, dazu Kopfbälle, Fallrückzieher und Abpraller, die vom Auftreffwinkel abhängen. Gespielt wird gegen den Computer oder zu zweit, wahlweise als Freundschaftsspiel, Liga oder Pokal. Das flotte, gut steuerbare Spielgefühl machte es zu einem der beliebtesten Fußballspiele der 8-Bit-Zeit.\n\nErschien auf Kassette und Diskette, später auch als Budget-Neuauflage; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick. Die C64-Fassung ist eine Umsetzung des ursprünglich für Spectrum und Amstrad entworfenen Spiels.\n\nEntwurf: Jon Ritman, Bernie Drummond · Code (C64): John Darnell · Grafik (C64): Simon Butler · Musik (C64): Jonathan Dunn",
+    "en": "Side-view football game and successor to Match Day. New above all was a shot-power indicator that allows passes and shots to be played over varying distances, plus headers, overhead kicks and rebounds that depend on the angle of impact. It is played against the computer or by two players, as a friendly, league or cup. The brisk, easily controlled feel made it one of the most popular football games of the 8-bit era.\n\nReleased on cassette and disk, later also as a budget re-release; there is also a OneLoad64 cartridge conversion. Controlled with a joystick. The C64 version is a conversion of the game originally designed for the Spectrum and Amstrad.\n\nDesign: Jon Ritman, Bernie Drummond · Code (C64): John Darnell · Graphics (C64): Simon Butler · Music (C64): Jonathan Dunn"
+  }
+}

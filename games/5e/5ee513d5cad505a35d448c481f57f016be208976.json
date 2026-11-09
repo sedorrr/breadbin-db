@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5ee513d5cad505a35d448c481f57f016be208976",
+  "md5": "9688ee1115eaf0407a32be19f1a3e495",
+  "crc32": "2b8fc014",
+  "size": 46129,
+  "format": "T64",
+  "files": [
+    "BOUNDER1.T64"
+  ],
+  "screenscraper_id": "134471",
+  "title": "Bounder on the Rebound",
+  "year": "1986",
+  "publisher": "Gremlin Graphics",
+  "developer": "Christian P. Shrigley, Andrew Green",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Man steuert einen hüpfenden Tennisball, von oben gesehen, über Strecken aus Platten hoch über dem Boden. Wände, Gegner und Abstürze kosten Leben; Sprungfelder ermöglichen weite Sätze, Fragezeichenfelder bringen Extras oder Gefahren. Nach jeder Strecke folgt ein Bonusbildschirm. Bounder war 1985 eines der ersten großen Spiele von Gremlin und verlangt Übersicht und genaues Timing.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nEntwicklung: Christian P. Shrigley, Andrew Green",
+  "texts": {
+    "de": "Man steuert einen hüpfenden Tennisball, von oben gesehen, über Strecken aus Platten hoch über dem Boden. Wände, Gegner und Abstürze kosten Leben; Sprungfelder ermöglichen weite Sätze, Fragezeichenfelder bringen Extras oder Gefahren. Nach jeder Strecke folgt ein Bonusbildschirm. Bounder war 1985 eines der ersten großen Spiele von Gremlin und verlangt Übersicht und genaues Timing.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nEntwicklung: Christian P. Shrigley, Andrew Green",
+    "en": "You steer a bouncing tennis ball, seen from above, along courses of tiles high above the ground. Walls, enemies and falls cost lives; jump pads allow long leaps, question-mark tiles bring extras or dangers. Each course is followed by a bonus screen. Bounder was one of Gremlin's first big games in 1985 and demands overview and precise timing.\n\nThis file contains the game as a tape archive (T64); several versions exist (original, conversions, cracks).\n\nDevelopment: Christian P. Shrigley, Andrew Green"
+  },
+  "images": {
+    "ss": "images/c9/c9609cf18b7bb14a720130bb042962db76c2edc5.png",
+    "sstitle": "images/78/780c978d84187bd472fd309045449ffbb1be465c.png"
+  }
+}

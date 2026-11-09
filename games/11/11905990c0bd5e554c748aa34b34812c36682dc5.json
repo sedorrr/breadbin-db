@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "11905990c0bd5e554c748aa34b34812c36682dc5",
+  "md5": "6e35470365a7285c15dee186300c0670",
+  "crc32": "ebdc7539",
+  "size": 4809,
+  "format": "T64",
+  "files": [
+    "ASTEROI1.T64"
+  ],
+  "screenscraper_id": "110508",
+  "title": "Asteroids",
+  "publisher": "Data Media",
+  "developer": "Data Media",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle Nachbildung des Atari-Automaten Asteroids von 1979: Ein kleines Raumschiff dreht sich in der Bildmitte, beschleunigt und schießt auf Felsbrocken, die beim Treffer in kleinere Stücke zerfallen. Gelegentlich tauchen feindliche Untertassen auf. Eine offizielle C64-Fassung von Atari erschien nicht.\n\nKleines Programm, verbreitet auf Kassette bzw. als Datei. Steuerung per Joystick in Port 2.",
+  "texts": {
+    "de": "Inoffizielle Nachbildung des Atari-Automaten Asteroids von 1979: Ein kleines Raumschiff dreht sich in der Bildmitte, beschleunigt und schießt auf Felsbrocken, die beim Treffer in kleinere Stücke zerfallen. Gelegentlich tauchen feindliche Untertassen auf. Eine offizielle C64-Fassung von Atari erschien nicht.\n\nKleines Programm, verbreitet auf Kassette bzw. als Datei. Steuerung per Joystick in Port 2.",
+    "en": "Unofficial recreation of Atari's 1979 arcade game Asteroids: a small spaceship rotates in the centre of the screen, accelerates and shoots at rocks, which break into smaller pieces when hit. Occasionally enemy saucers appear. No official C64 version from Atari was released.\n\nSmall program, distributed on tape or as a file. Controlled via joystick in port 2."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0a8d3810ce8ec05be58a67f2e1f49abb9171c6b6",
+  "md5": "680912171b911fd8cea3f83ca35d0fce",
+  "crc32": "f277de9f",
+  "size": 211781,
+  "format": "TAP",
+  "files": [
+    "Montezuma's Revenge.tap"
+  ],
+  "screenscraper_id": "36165",
+  "title": "Montezuma's Revenge",
+  "year": "1984",
+  "publisher": "Parker Brothers",
+  "developer": "Robert Jaeger (Design)",
+  "genres": [
+    "Plattform",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Panama Joe durchsucht eine aztekische Pyramide aus vielen miteinander verbundenen Räumen nach dem Schatz Montezumas. Schlüssel öffnen farbige Türen, Fackeln erhellen dunkle Kammern, Schwerter und Amulette helfen gegen rollende Schädel, Schlangen und Spinnen. Laserschranken, verschwindende Böden und Feuergruben verlangen genaues Timing. Das Spiel gilt als frühes Beispiel für ein zusammenhängendes, frei erkundbares Plattform-Labyrinth.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).",
+  "texts": {
+    "de": "Panama Joe durchsucht eine aztekische Pyramide aus vielen miteinander verbundenen Räumen nach dem Schatz Montezumas. Schlüssel öffnen farbige Türen, Fackeln erhellen dunkle Kammern, Schwerter und Amulette helfen gegen rollende Schädel, Schlangen und Spinnen. Laserschranken, verschwindende Böden und Feuergruben verlangen genaues Timing. Das Spiel gilt als frühes Beispiel für ein zusammenhängendes, frei erkundbares Plattform-Labyrinth.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).",
+    "en": "Panama Joe searches an Aztec pyramid made up of many interconnected rooms for Montezuma's treasure. Keys open coloured doors, torches light up dark chambers, and swords and amulets help against rolling skulls, snakes and spiders. Laser barriers, disappearing floors and fire pits demand precise timing. The game is regarded as an early example of an interconnected, freely explorable platform maze.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks)."
+  },
+  "images": {
+    "sstitle": "images/ed/ed450dacec9cc76da2f295c6f2ddfa5321f8f167.png"
+  }
+}

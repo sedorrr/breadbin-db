@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "17e89537682c216984c5c7146c09a66d5c85e766",
+  "md5": "78343322e765bc14e9c8c732b3f907d2",
+  "crc32": "e7afac96",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GYRUSS.D64"
+  ],
+  "screenscraper_id": "36111",
+  "title": "Gyruss",
+  "year": "1984",
+  "publisher": "Parker Brothers",
+  "developer": "Parker Brothers (Umsetzung); Original: Konami",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Das Raumschiff des Spielers kreist am Rand des Bildschirms um die Mitte, aus der die Gegner in Formationen hervorkommen, ähnlich wie bei Tempest. Auf dem Weg vom Neptun zur Erde werden Planet für Planet Gegnerwellen abgewehrt; zwischendurch gibt es Bonusrunden. Satelliten können eine stärkere Doppelkanone freigeben. Das Konami-Automatenspiel von 1983 verband die Ideen von Galaga mit einer neuen, räumlich wirkenden Perspektive.\n\nDie offizielle C64-Umsetzung erschien bei Parker Brothers als Steckmodul. Gesteuert wird per Joystick.\n\nOriginal: Konami (Automat, 1983)",
+  "texts": {
+    "de": "Das Raumschiff des Spielers kreist am Rand des Bildschirms um die Mitte, aus der die Gegner in Formationen hervorkommen, ähnlich wie bei Tempest. Auf dem Weg vom Neptun zur Erde werden Planet für Planet Gegnerwellen abgewehrt; zwischendurch gibt es Bonusrunden. Satelliten können eine stärkere Doppelkanone freigeben. Das Konami-Automatenspiel von 1983 verband die Ideen von Galaga mit einer neuen, räumlich wirkenden Perspektive.\n\nDie offizielle C64-Umsetzung erschien bei Parker Brothers als Steckmodul. Gesteuert wird per Joystick.\n\nOriginal: Konami (Automat, 1983)",
+    "en": "The player's spaceship circles the centre of the screen along its edge, while enemies emerge from the centre in formations, similar to Tempest. On the way from Neptune to Earth, waves of enemies are fought off planet by planet, with bonus rounds in between. Satellites can unlock a more powerful double cannon. The 1983 Konami arcade game combined the ideas of Galaga with a new perspective that gives an impression of depth.\n\nThe official C64 conversion was released by Parker Brothers as a plug-in cartridge. Controlled with a joystick.\n\nOriginal: Konami (arcade, 1983)"
+  }
+}

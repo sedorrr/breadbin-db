@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "1fb15d109435f0f425ff16d7e381e5965f3af0a4",
+  "md5": "5431aff8f881ac1565177fc895a5e61a",
+  "crc32": "f4429a7e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TRAIN.D64"
+  ],
+  "screenscraper_id": "36395",
+  "title": "The Train: Escape to Normandy",
+  "year": "1987",
+  "publisher": "Accolade",
+  "developer": "Artech (J. Stuart Easterbrook, Lise Mendoza)",
+  "genres": [
+    "Action",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "1944 übernehmen französische Widerstandskämpfer einen deutschen Zug voller Kunstschätze und wollen ihn zu den Alliierten in die Normandie bringen. Im Führerstand werden Kessel, Dampfdruck und Bremse bedient, vom Geschützstand aus wehrt man Flugzeuge, Boote und Brückenstellungen ab. An Bahnhöfen lassen sich Weichen stellen und Funksprüche absetzen. Die Mischung aus Lokomotivsimulation, Ballerei und Streckenplanung war ungewöhnlich.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Paul Butler",
+  "texts": {
+    "de": "1944 übernehmen französische Widerstandskämpfer einen deutschen Zug voller Kunstschätze und wollen ihn zu den Alliierten in die Normandie bringen. Im Führerstand werden Kessel, Dampfdruck und Bremse bedient, vom Geschützstand aus wehrt man Flugzeuge, Boote und Brückenstellungen ab. An Bahnhöfen lassen sich Weichen stellen und Funksprüche absetzen. Die Mischung aus Lokomotivsimulation, Ballerei und Streckenplanung war ungewöhnlich.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Paul Butler",
+    "en": "In 1944 French resistance fighters take over a German train full of art treasures and want to bring it to the Allies in Normandy. In the driver's cab the boiler, steam pressure and brake are operated; from the gun position, planes, boats and bridge positions are fended off. At stations points can be switched and radio messages sent. The mix of locomotive simulation, shoot'em up and route planning was unusual.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nMusic: Paul Butler"
+  },
+  "images": {
+    "ss": "images/a8/a80365a194fb96255cf2bedc0381251a36858d2b.png",
+    "sstitle": "images/a3/a37ab7f23851a9e5fed250d78692518ef564d24f.png"
+  }
+}

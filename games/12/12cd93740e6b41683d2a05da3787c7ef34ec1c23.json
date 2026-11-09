@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "12cd93740e6b41683d2a05da3787c7ef34ec1c23",
+  "md5": "698bcf5642f5c01f2b11dfffc005b4a3",
+  "crc32": "f6055759",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Hunchback.d64"
+  ],
+  "screenscraper_id": "36664",
+  "title": "Hunchback",
+  "year": "1983",
+  "publisher": "Ocean",
+  "developer": "J. Steele",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Automaten von Century Electronics (1983), lose nach Victor Hugos Roman: Quasimodo läuft über die Burgmauer, um Esmeralda zu retten. Auf jedem Bildschirm springt er über Gruben und Wachen, schwingt an Seilen und duckt sich unter Pfeilen und Feuerbällen weg; am rechten Rand läutet er die Glocke. Das einfache, schwer zu meisternde Spiel war einer der ersten großen Erfolge von Ocean.\n\nErschien auf Kassette und Diskette. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode, Grafik und Musik: J. Steele",
+  "texts": {
+    "de": "Umsetzung des Automaten von Century Electronics (1983), lose nach Victor Hugos Roman: Quasimodo läuft über die Burgmauer, um Esmeralda zu retten. Auf jedem Bildschirm springt er über Gruben und Wachen, schwingt an Seilen und duckt sich unter Pfeilen und Feuerbällen weg; am rechten Rand läutet er die Glocke. Das einfache, schwer zu meisternde Spiel war einer der ersten großen Erfolge von Ocean.\n\nErschien auf Kassette und Diskette. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode, Grafik und Musik: J. Steele",
+    "en": "Conversion of the Century Electronics arcade machine (1983), loosely based on Victor Hugo's novel: Quasimodo runs along the castle wall to rescue Esmeralda. On each screen he jumps over pits and guards, swings on ropes and ducks under arrows and fireballs; at the right-hand edge he rings the bell. The simple, hard-to-master game was one of Ocean's first big successes.\n\nReleased on cassette and disk. Controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge that requires no loading.\n\nCode, graphics and music: J. Steele"
+  }
+}

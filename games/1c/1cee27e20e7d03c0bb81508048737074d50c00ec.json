@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "1cee27e20e7d03c0bb81508048737074d50c00ec",
+  "md5": "7ab03dc5f96d661d15ddc4c59c6def72",
+  "crc32": "a65019fd",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WARHAWK.D64"
+  ],
+  "screenscraper_id": "122133",
+  "title": "Warhawk",
+  "year": "1986",
+  "publisher": "Firebird",
+  "developer": "Proteus Developments",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Ein senkrecht scrollender Weltraum-Shooter: Der Spieler fliegt mit seinem Jäger über riesige Raumstationen, zerstört Bodenziele und Gegnerformationen und muss dabei auf seine Energie achten. Die Stationen sind dicht mit Geschütztürmen bestückt, der Schwierigkeitsgrad ist hoch. Das Spiel erschien zum Budgetpreis und wurde vor allem durch die Titelmusik von Rob Hubbard bekannt.\n\nErschien auf Kassette und Diskette. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Michael Ware, Andrew Betts · Grafik: Ian Gogay, Michael Ware, Stephen Robertson · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Ein senkrecht scrollender Weltraum-Shooter: Der Spieler fliegt mit seinem Jäger über riesige Raumstationen, zerstört Bodenziele und Gegnerformationen und muss dabei auf seine Energie achten. Die Stationen sind dicht mit Geschütztürmen bestückt, der Schwierigkeitsgrad ist hoch. Das Spiel erschien zum Budgetpreis und wurde vor allem durch die Titelmusik von Rob Hubbard bekannt.\n\nErschien auf Kassette und Diskette. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Michael Ware, Andrew Betts · Grafik: Ian Gogay, Michael Ware, Stephen Robertson · Musik: Rob Hubbard",
+    "en": "A vertically scrolling space shooter: the player flies a fighter over huge space stations, destroys ground targets and enemy formations and has to keep an eye on his energy. The stations are densely packed with gun turrets, and the difficulty is high. The game was released at a budget price and became known above all for Rob Hubbard's title music.\n\nReleased on cassette and disk. Controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge that requires no loading.\n\nCode: Michael Ware, Andrew Betts · Graphics: Ian Gogay, Michael Ware, Stephen Robertson · Music: Rob Hubbard"
+  }
+}

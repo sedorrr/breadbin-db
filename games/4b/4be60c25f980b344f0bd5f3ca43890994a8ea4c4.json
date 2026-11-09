@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "4be60c25f980b344f0bd5f3ca43890994a8ea4c4",
+  "md5": "946a94e4f1470aa022429c6e59ed03e8",
+  "crc32": "b9d92145",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ARKANOI2.D64"
+  ],
+  "screenscraper_id": "191977",
+  "title": "Arkanoid II (Fairlight)",
+  "year": "1987",
+  "developer": "Fairlight",
+  "genres": [
+    "Action / Breakout Spiele"
+  ],
+  "players": "1-2",
+  "synopsis": "Inoffizielle Abwandlung von Arkanoid, die 1987 in der Crackerszene entstand, ein Jahr vor der offiziellen Fortsetzung Revenge of Doh. Spielprinzip und Technik stammen aus Imagines Arkanoid: Mit dem Schläger Vaus wird ein Ball gegen Steinreihen gelenkt, herabfallende Kapseln bringen Laser, Verbreiterung oder Verlangsamung. Neu sind andere Bildschirme und ein mitgelieferter Editor für eigene Steinanordnungen.\n\nVerbreitet auf Diskette; in Italien erschien die Abwandlung unter anderen Namen (etwa „Super Crack“) auf Kassetten-Sammlungen. Steuerung per Joystick in Port 1. Nicht zu verwechseln mit der offiziellen C64-Fassung von Arkanoid: Revenge of Doh (Imagine, 1988).\n\nCode (Arkanoid): David A. Collier · Grafik: Mark R. Jones · Musik: Martin Galway",
+  "texts": {
+    "de": "Inoffizielle Abwandlung von Arkanoid, die 1987 in der Crackerszene entstand, ein Jahr vor der offiziellen Fortsetzung Revenge of Doh. Spielprinzip und Technik stammen aus Imagines Arkanoid: Mit dem Schläger Vaus wird ein Ball gegen Steinreihen gelenkt, herabfallende Kapseln bringen Laser, Verbreiterung oder Verlangsamung. Neu sind andere Bildschirme und ein mitgelieferter Editor für eigene Steinanordnungen.\n\nVerbreitet auf Diskette; in Italien erschien die Abwandlung unter anderen Namen (etwa „Super Crack“) auf Kassetten-Sammlungen. Steuerung per Joystick in Port 1. Nicht zu verwechseln mit der offiziellen C64-Fassung von Arkanoid: Revenge of Doh (Imagine, 1988).\n\nCode (Arkanoid): David A. Collier · Grafik: Mark R. Jones · Musik: Martin Galway",
+    "en": "Unofficial variant of Arkanoid created in the cracking scene in 1987, a year before the official sequel Revenge of Doh. Gameplay and technology come from Imagine's Arkanoid: the Vaus bat steers a ball against rows of bricks, and falling capsules give a laser, widening or slowing down. New are different screens and an included editor for one's own brick layouts.\n\nDistributed on disk; in Italy the variant appeared under other names (such as \"Super Crack\") on tape compilations. Controlled via joystick in port 1. Not to be confused with the official C64 version of Arkanoid: Revenge of Doh (Imagine, 1988).\n\nCode (Arkanoid): David A. Collier · Graphics: Mark R. Jones · Music: Martin Galway"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "199c7f636bb88468aabba7ea60aa7c3027d18157",
+  "md5": "136f7e576da9a413295feb824d56f3f6",
+  "crc32": "d8d5ce2a",
+  "size": 5163,
+  "format": "T64",
+  "files": [
+    "JOUST1.T64"
+  ],
+  "screenscraper_id": "480641",
+  "title": "Joust",
+  "year": "1980",
+  "publisher": "The Code Works (CURSOR)",
+  "developer": "Brian Sawyer",
+  "genres": [
+    "Action"
+  ],
+  "players": "2",
+  "synopsis": "Zwei Ritter treten in einem Turnier gegeneinander an und versuchen, sich mit der Lanze aus dem Sattel zu heben. Die Spieler geben den Rittern Namen, das Duell läuft in Runden und wird über die Tastatur gesteuert. Es ist ein schlichtes Programm in BASIC und hat nichts mit dem gleichnamigen Williams-Automaten von 1982 zu tun.\n\nDas Programm erschien im März 1980 auf der Ausgabe 18 des Kassettenmagazins CURSOR für den Commodore PET und wurde später auch auf dem C64 weitergegeben. Es ist nur für zwei Spieler gedacht und wird über die Tastatur gesteuert.\n\nCode: Brian Sawyer",
+  "texts": {
+    "de": "Zwei Ritter treten in einem Turnier gegeneinander an und versuchen, sich mit der Lanze aus dem Sattel zu heben. Die Spieler geben den Rittern Namen, das Duell läuft in Runden und wird über die Tastatur gesteuert. Es ist ein schlichtes Programm in BASIC und hat nichts mit dem gleichnamigen Williams-Automaten von 1982 zu tun.\n\nDas Programm erschien im März 1980 auf der Ausgabe 18 des Kassettenmagazins CURSOR für den Commodore PET und wurde später auch auf dem C64 weitergegeben. Es ist nur für zwei Spieler gedacht und wird über die Tastatur gesteuert.\n\nCode: Brian Sawyer",
+    "en": "Two knights compete against each other in a tournament, trying to unseat each other with the lance. The players give the knights names; the duel runs in rounds and is controlled via the keyboard. It is a simple program in BASIC and has nothing to do with Williams's 1982 arcade game of the same name.\n\nThe program appeared in March 1980 on issue 18 of the cassette magazine CURSOR for the Commodore PET and was later also passed around on the C64. It is intended only for two players and is controlled via the keyboard.\n\nCode: Brian Sawyer"
+  }
+}

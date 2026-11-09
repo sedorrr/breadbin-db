@@ -16,5 +16,13 @@
   "genres": [
     "Rennen"
   ],
-  "synopsis": "Formel-1-Rennspiel aus der Vogelperspektive: Man steuert einen kleinen Rennwagen über Strecken, die von oben gezeigt werden, und fährt gegen Computergegner um Platzierungen in einer Rennserie.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“) und eigenem Intro; die Strecken werden nachgeladen. Steuerung mit Joystick.\n\nCode, Design: Ashley Routledge, David Saunders"
+  "synopsis": "Formel-1-Rennspiel aus der Vogelperspektive: Man steuert einen kleinen Rennwagen über Strecken, die von oben gezeigt werden, und fährt gegen Computergegner um Platzierungen in einer Rennserie.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“) und eigenem Intro; die Strecken werden nachgeladen. Steuerung mit Joystick.\n\nCode, Design: Ashley Routledge, David Saunders",
+  "texts": {
+    "de": "Formel-1-Rennspiel aus der Vogelperspektive: Man steuert einen kleinen Rennwagen über Strecken, die von oben gezeigt werden, und fährt gegen Computergegner um Platzierungen in einer Rennserie.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“) und eigenem Intro; die Strecken werden nachgeladen. Steuerung mit Joystick.\n\nCode, Design: Ashley Routledge, David Saunders",
+    "en": "Top-down Formula 1 racing game: you steer a small racing car around tracks shown from above and race against computer opponents for placings in a championship.\n\nDisk version (header \"ASS presents\") with trainer (\"+\") and its own intro; the tracks are loaded on demand. Controlled with a joystick.\n\nCode, design: Ashley Routledge, David Saunders"
+  },
+  "images": {
+    "ss": "images/52/52e1aa177f2c1db58123bf21ecaa10d51f7fe63e.png",
+    "sstitle": "images/b3/b38faf0b080de5074f95d74d621fe3a123e24a16.png"
+  }
 }

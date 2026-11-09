@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Inoffizielle Fortsetzung von Mastertronics „Chiller“, entstanden mit Erlaubnis eines der Darling-Brüder (Untertitel „The Return of the Jackal“). Auf einzelnen Bildschirmen voller Plattformen sammelt man in jedem Level 20 Kreuze, um weiterzukommen, und weicht dabei den umherziehenden Gruselgestalten aus. Die Level sind in hochauflösender Grafik gezeichnet; das Spiel ist kostenlos und wurde samt Quelltext veröffentlicht.\n\nDiese D64 ist eine bearbeitete Fassung mit Trainer („+“) und eigener Highscore-Datei (Kopf „ASS presents“). Steuerung mit Joystick. Erschienen im Dezember 2020, gewidmet T.M.R.\n\nCode, Grafik, Musik: aNdy",
+  "texts": {
+    "de": "Inoffizielle Fortsetzung von Mastertronics „Chiller“, entstanden mit Erlaubnis eines der Darling-Brüder (Untertitel „The Return of the Jackal“). Auf einzelnen Bildschirmen voller Plattformen sammelt man in jedem Level 20 Kreuze, um weiterzukommen, und weicht dabei den umherziehenden Gruselgestalten aus. Die Level sind in hochauflösender Grafik gezeichnet; das Spiel ist kostenlos und wurde samt Quelltext veröffentlicht.\n\nDiese D64 ist eine bearbeitete Fassung mit Trainer („+“) und eigener Highscore-Datei (Kopf „ASS presents“). Steuerung mit Joystick. Erschienen im Dezember 2020, gewidmet T.M.R.\n\nCode, Grafik, Musik: aNdy",
+    "en": "Unofficial sequel to Mastertronic's \"Chiller\", made with the permission of one of the Darling brothers (subtitle \"The Return of the Jackal\"). On single screens full of platforms the player collects 20 crosses in each level to progress, while avoiding the wandering ghouls. The levels are drawn in high-resolution graphics; the game is free and was released together with its source code.\n\nThis D64 is an edited version with a trainer (\"+\") and its own high-score file (header \"ASS presents\"). Controlled by joystick. Released in December 2020, dedicated to T.M.R.\n\nCode, graphics, music: aNdy"
+  },
   "images": {
     "sstitle": "images/74/7427a8f6360d6c26d19c86a740989b636ee4d54a.png"
   }

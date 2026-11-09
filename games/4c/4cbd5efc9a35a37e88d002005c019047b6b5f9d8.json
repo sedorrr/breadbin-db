@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4cbd5efc9a35a37e88d002005c019047b6b5f9d8",
+  "md5": "0024b2a2d7b4811ee89a0619c7609fa5",
+  "crc32": "c5932b6d",
+  "size": 426880,
+  "format": "CRT",
+  "files": [
+    "Summer Games II (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36474",
+  "title": "Summer Games II",
+  "year": "1985",
+  "publisher": "Epyx",
+  "developer": "Epyx",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "Die Fortsetzung von Summer Games bringt acht neue Sommerdisziplinen: Dreisprung, Rudern, Speerwurf, Springreiten, Hochsprung, Fechten, Radfahren und Kajak. Bis zu acht Spieler wählen ein Land und treten nacheinander an, beim Fechten und Rudern auch zwei gleichzeitig. Die Disziplinen verlangen sehr unterschiedliche Joystickbewegungen, was den Reiz des Spiels ausmacht.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Bob Vieira",
+  "texts": {
+    "de": "Die Fortsetzung von Summer Games bringt acht neue Sommerdisziplinen: Dreisprung, Rudern, Speerwurf, Springreiten, Hochsprung, Fechten, Radfahren und Kajak. Bis zu acht Spieler wählen ein Land und treten nacheinander an, beim Fechten und Rudern auch zwei gleichzeitig. Die Disziplinen verlangen sehr unterschiedliche Joystickbewegungen, was den Reiz des Spiels ausmacht.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Bob Vieira",
+    "en": "The sequel to Summer Games brings eight new summer events: triple jump, rowing, javelin, equestrian show jumping, high jump, fencing, cycling and kayaking. Up to eight players choose a country and take turns, with two at a time in fencing and rowing. The events require very different joystick movements, which is what makes the game appealing.\n\nThis file contains the game as a cartridge (CRT); there are several versions (original, conversions, cracks).\n\nMusic: Bob Vieira"
+  },
+  "images": {
+    "ss": "images/0a/0a54db4c5b044495a96329dc732cb494d07b1547.png",
+    "sstitle": "images/b0/b0232a3940da35646c6ec4157a7440c6160029ae.png"
+  }
+}

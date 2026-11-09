@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "61cbba51080de9b4283170aacaa7cfb779c81d56",
+  "md5": "92f003aa6c62059085aacbf2eea9c7d0",
+  "crc32": "8830a9d7",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ZORK1-G1.D64"
+  ],
+  "screenscraper_id": "35900",
+  "title": "Zork I: The Great Underground Empire",
+  "year": "1980",
+  "publisher": "Infocom",
+  "developer": "Infocom (Marc Blank, Dave Lebling)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Das bekannteste Textadventure von Infocom: Der Spieler erkundet ein verlassenes unterirdisches Reich, sammelt zwanzig Schätze und bringt sie in einer Trophäenvitrine in Sicherheit. Unterwegs warten Rätsel, ein Troll, ein Labyrinth und ein Dieb, der Schätze stiehlt, aber auch helfen kann. Der Parser versteht vergleichsweise komplexe englische Sätze. Zork I ging aus dem Großrechnerspiel Zork hervor und prägte das Genre nachhaltig.\n\nErschien auf Diskette in mehreren Ausgaben, darunter die „Solid Gold“-Ausgabe mit eingebauten Hilfen (InvisiClues). Gesteuert wird per Tastatur (englisch).\n\nAutoren: Marc Blank, Dave Lebling (nach dem Zork von Tim Anderson, Marc Blank, Bruce Daniels, Dave Lebling)",
+  "texts": {
+    "de": "Das bekannteste Textadventure von Infocom: Der Spieler erkundet ein verlassenes unterirdisches Reich, sammelt zwanzig Schätze und bringt sie in einer Trophäenvitrine in Sicherheit. Unterwegs warten Rätsel, ein Troll, ein Labyrinth und ein Dieb, der Schätze stiehlt, aber auch helfen kann. Der Parser versteht vergleichsweise komplexe englische Sätze. Zork I ging aus dem Großrechnerspiel Zork hervor und prägte das Genre nachhaltig.\n\nErschien auf Diskette in mehreren Ausgaben, darunter die „Solid Gold“-Ausgabe mit eingebauten Hilfen (InvisiClues). Gesteuert wird per Tastatur (englisch).\n\nAutoren: Marc Blank, Dave Lebling (nach dem Zork von Tim Anderson, Marc Blank, Bruce Daniels, Dave Lebling)",
+    "en": "Infocom's best-known text adventure: the player explores an abandoned underground empire, collects twenty treasures and stores them safely in a trophy case. Along the way there are puzzles, a troll, a maze and a thief who steals treasures but can also help. The parser understands comparatively complex English sentences. Zork I grew out of the mainframe game Zork and had a lasting influence on the genre.\n\nReleased on disk in several editions, including the \"Solid Gold\" edition with built-in hints (InvisiClues). It is controlled by keyboard (English).\n\nAuthors: Marc Blank, Dave Lebling (based on the Zork by Tim Anderson, Marc Blank, Bruce Daniels, Dave Lebling)"
+  }
+}

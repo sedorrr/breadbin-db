@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "56219576fc229214d35f674048702d431b1de873",
+  "md5": "a9ba921d91ebcd2a4df28a12581d68d5",
+  "crc32": "9c3597b4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "INFILT1B.D64"
+  ],
+  "screenscraper_id": "35917",
+  "title": "Infiltrator",
+  "year": "1986",
+  "publisher": "U.S. Gold",
+  "developer": "Chris Gray Enterprises",
+  "genres": [
+    "Action",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Zweigeteiltes Spiel: Zuerst fliegt Johnny „Jimbo Baby“ McGibbits einen Kampfhubschrauber zum Einsatzort und muss unterwegs feindliche Maschinen bekämpfen oder sich per Funk als Freund ausgeben. Am Ziel schleicht er zu Fuß durch eine feindliche Basis, betäubt Wachen mit Gas und sucht Dokumente oder Sprengziele. Drei Einsätze mit steigender Schwierigkeit verbinden Flugsimulation und Schleichspiel auf damals ungewöhnliche Weise.\n\nErschien auf Diskette (zwei Seiten); in den USA bei Mindscape. Gesteuert wird mit dem Joystick, Teile über die Tastatur.\n\nCode: Chris Gray",
+  "texts": {
+    "de": "Zweigeteiltes Spiel: Zuerst fliegt Johnny „Jimbo Baby“ McGibbits einen Kampfhubschrauber zum Einsatzort und muss unterwegs feindliche Maschinen bekämpfen oder sich per Funk als Freund ausgeben. Am Ziel schleicht er zu Fuß durch eine feindliche Basis, betäubt Wachen mit Gas und sucht Dokumente oder Sprengziele. Drei Einsätze mit steigender Schwierigkeit verbinden Flugsimulation und Schleichspiel auf damals ungewöhnliche Weise.\n\nErschien auf Diskette (zwei Seiten); in den USA bei Mindscape. Gesteuert wird mit dem Joystick, Teile über die Tastatur.\n\nCode: Chris Gray",
+    "en": "A game in two parts: first Johnny \"Jimbo Baby\" McGibbits flies a combat helicopter to the mission site and on the way has to fight enemy aircraft or pass himself off as a friend over the radio. At the destination he sneaks on foot through an enemy base, knocks out guards with gas and searches for documents or demolition targets. Three missions of increasing difficulty combine flight simulation and stealth game in a way that was unusual at the time.\n\nReleased on disk (two sides); in the USA by Mindscape. It is controlled with the joystick, with some parts via the keyboard.\n\nCode: Chris Gray"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "23a4fd3e4202c1f4581a4b3fbf39db41d2ee920c",
+  "md5": "f067c64b933afe5e00480a781ae69720",
+  "crc32": "73da3304",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Delta.crt"
+  ],
+  "screenscraper_id": "36292",
+  "title": "Delta",
+  "year": "1987",
+  "publisher": "Thalamus",
+  "developer": "Stavros Fasoulas",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Horizontal scrollendes Ballerspiel mit 32 Leveln; nach Sanxion das zweite Thalamus-Spiel von Stavros Fasoulas. Für abgeschossene Formationen gibt es Guthaben, das zwischen den Angriffswellen beim Überfliegen von Symbolen gegen Extras wie stärkere Waffen eingetauscht wird; die Extras halten nur eine Zeit lang. Graue Symbole sind tödlich. Die eingängige Musik von Rob Hubbard gehört zu den bekanntesten C64-Stücken.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Stavros Fasoulas · Titelbild: Lizard · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Horizontal scrollendes Ballerspiel mit 32 Leveln; nach Sanxion das zweite Thalamus-Spiel von Stavros Fasoulas. Für abgeschossene Formationen gibt es Guthaben, das zwischen den Angriffswellen beim Überfliegen von Symbolen gegen Extras wie stärkere Waffen eingetauscht wird; die Extras halten nur eine Zeit lang. Graue Symbole sind tödlich. Die eingängige Musik von Rob Hubbard gehört zu den bekanntesten C64-Stücken.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Stavros Fasoulas · Titelbild: Lizard · Musik: Rob Hubbard",
+    "en": "Horizontally scrolling shoot'em up with 32 levels; after Sanxion, Stavros Fasoulas's second Thalamus game. Shooting down formations earns credit, which between attack waves is exchanged for extras such as stronger weapons by flying over symbols; the extras only last for a limited time. Grey symbols are deadly. Rob Hubbard's catchy music is among the best-known C64 pieces.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: Stavros Fasoulas · Title screen: Lizard · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/f2/f272706039c7167dc805e66ee003b168a8b08e03.png",
+    "sstitle": "images/46/46a1eae9106d7981f6d20aa1219ccd9dce6605ad.png"
+  }
+}

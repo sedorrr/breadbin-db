@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "4e840b11b7167c2c241e875f3054067fa8e564ea",
+  "md5": "7fb8ad2c285e76fea955ad1c5dc72734",
+  "crc32": "3ebdcbe0",
+  "size": 17061,
+  "format": "T64",
+  "files": [
+    "PACMAN.T64"
+  ],
+  "screenscraper_id": "116520",
+  "title": "Pacman (Donald G. Burden)",
+  "year": "1983",
+  "publisher": "Public Domain",
+  "developer": "Donald G. Burden",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein frei verbreiteter Nachbau des Automatenspiels Pac-Man: Die Spielfigur frisst sich durch ein Labyrinth voller Punkte und weicht dabei vier Geistern aus. Kraftpillen drehen den Spieß kurzzeitig um, sodass die Geister gefressen werden können. Das Labyrinth ist in dieser Fassung auf die Seite gedreht, damit es besser auf den Bildschirm passt. Es war einer der früheren gelungenen Pac-Man-Nachbauten auf dem C64.\n\nEin unabhängig geschriebenes Programm, keine lizenzierte Umsetzung; verbreitet auf Kassette und Diskette. Gesteuert wird per Joystick in Port 1; zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Donald G. Burden",
+  "texts": {
+    "de": "Ein frei verbreiteter Nachbau des Automatenspiels Pac-Man: Die Spielfigur frisst sich durch ein Labyrinth voller Punkte und weicht dabei vier Geistern aus. Kraftpillen drehen den Spieß kurzzeitig um, sodass die Geister gefressen werden können. Das Labyrinth ist in dieser Fassung auf die Seite gedreht, damit es besser auf den Bildschirm passt. Es war einer der früheren gelungenen Pac-Man-Nachbauten auf dem C64.\n\nEin unabhängig geschriebenes Programm, keine lizenzierte Umsetzung; verbreitet auf Kassette und Diskette. Gesteuert wird per Joystick in Port 1; zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Donald G. Burden",
+    "en": "A freely distributed remake of the arcade game Pac-Man: the player character eats its way through a maze full of dots while avoiding four ghosts. Power pills briefly turn the tables so that the ghosts can be eaten. In this version the maze is turned on its side to fit the screen better. It was one of the earlier successful Pac-Man remakes on the C64.\n\nAn independently written program, not a licensed conversion; distributed on tape and disk. Controlled via joystick in port 1; two players take turns.\n\nCode and graphics: Donald G. Burden"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "1128458bfd16354fa7cfec41aa150e5353f9c14c",
+  "md5": "99dd4c3fd4ac100a375eb2eb20f17077",
+  "crc32": "affce2af",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "River Raid (J1).crt"
+  ],
+  "screenscraper_id": "36468",
+  "title": "River Raid",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Activision",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1-2",
+  "synopsis": "Mit einem Kampfflugzeug geht es einen senkrecht scrollenden Fluss hinauf. Schiffe, Hubschrauber, Jets und Brücken werden abgeschossen, die Ufer dürfen nicht berührt werden. Der Treibstoff geht ständig zur Neige und muss durch Überfliegen von Tankdepots aufgefüllt werden, die sich ebenfalls abschießen lassen. Das Tempo lässt sich selbst bestimmen, was dem einfachen Prinzip viel Tiefe gibt; Carol Shaws Atari-2600-Spiel von 1982 gehört zu den bekanntesten Activision-Titeln.\n\nDie C64-Fassung erschien 1984 auf Modul, Diskette und Kassette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Zwei Spieler fliegen abwechselnd.\n\nEntwurf: Carol Shaw",
+  "texts": {
+    "de": "Mit einem Kampfflugzeug geht es einen senkrecht scrollenden Fluss hinauf. Schiffe, Hubschrauber, Jets und Brücken werden abgeschossen, die Ufer dürfen nicht berührt werden. Der Treibstoff geht ständig zur Neige und muss durch Überfliegen von Tankdepots aufgefüllt werden, die sich ebenfalls abschießen lassen. Das Tempo lässt sich selbst bestimmen, was dem einfachen Prinzip viel Tiefe gibt; Carol Shaws Atari-2600-Spiel von 1982 gehört zu den bekanntesten Activision-Titeln.\n\nDie C64-Fassung erschien 1984 auf Modul, Diskette und Kassette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Zwei Spieler fliegen abwechselnd.\n\nEntwurf: Carol Shaw",
+    "en": "In a fighter plane the player flies up a vertically scrolling river. Ships, helicopters, jets and bridges are shot down, and the banks must not be touched. Fuel is constantly running out and has to be replenished by flying over fuel depots, which can also be shot. The speed can be controlled by the player, which gives the simple concept a lot of depth; Carol Shaw's 1982 Atari 2600 game is one of the best-known Activision titles.\n\nThe C64 version was released in 1984 on cartridge, disk and cassette; there is also a OneLoad64 cartridge conversion (joystick in port 1). Two players fly in turns.\n\nDesign: Carol Shaw"
+  }
+}

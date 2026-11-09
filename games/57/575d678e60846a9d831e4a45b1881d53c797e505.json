@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "575d678e60846a9d831e4a45b1881d53c797e505",
+  "md5": "228d147421640b3b602144271e328aa3",
+  "crc32": "57648070",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Way of the Exploding Fist, The.crt"
+  ],
+  "screenscraper_id": "36782",
+  "title": "The Way of the Exploding Fist",
+  "year": "1985",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software (Gregg Barnett, Bruce Bayley, David Johnston, Greg Holland)",
+  "genres": [
+    "Beat'em Up",
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Karate-Zweikampf vor wechselnden Kulissen: Zwei Kämpfer messen sich mit rund 18 Tritten, Schlägen und Sprüngen, die über Joystickrichtungen mit und ohne Feuerknopf ausgelöst werden. Ein Richter vergibt halbe und ganze Punkte, wer zuerst zwei ganze erzielt, gewinnt die Runde und steigt im Dan-Grad auf. Zu zweit wird gegeneinander gespielt. Das Spiel prägte die Kampfspiele auf Heimcomputern und war 1985 ein großer Verkaufserfolg.\n\nDiese Datei ist eine Modulfassung (CRT); woher die Umsetzung stammt, ist nicht angegeben.\n\nMusik: Neil Brennan",
+  "texts": {
+    "de": "Karate-Zweikampf vor wechselnden Kulissen: Zwei Kämpfer messen sich mit rund 18 Tritten, Schlägen und Sprüngen, die über Joystickrichtungen mit und ohne Feuerknopf ausgelöst werden. Ein Richter vergibt halbe und ganze Punkte, wer zuerst zwei ganze erzielt, gewinnt die Runde und steigt im Dan-Grad auf. Zu zweit wird gegeneinander gespielt. Das Spiel prägte die Kampfspiele auf Heimcomputern und war 1985 ein großer Verkaufserfolg.\n\nDiese Datei ist eine Modulfassung (CRT); woher die Umsetzung stammt, ist nicht angegeben.\n\nMusik: Neil Brennan",
+    "en": "Karate duel against changing backdrops: two fighters compete using around 18 kicks, punches and jumps, triggered by joystick directions with and without the fire button. A referee awards half and full points; whoever scores two full points first wins the round and advances a dan grade. Two players fight against each other. The game shaped fighting games on home computers and was a big commercial success in 1985.\n\nThis file is a cartridge version (CRT); where the conversion comes from is not stated.\n\nMusic: Neil Brennan"
+  },
+  "images": {
+    "ss": "images/5e/5e1a0ff3a6e3c5a5a8db218284f95d3b8bfd1af8.png",
+    "sstitle": "images/68/689a09793520c9daf812046246079af4f4a4ef23.png"
+  }
+}

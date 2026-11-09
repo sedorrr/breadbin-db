@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Autorennen im Stil von 1983 aus der Verfolgerperspektive: Als Fahrer „Paul Pitstop“ tritt man über vier Runden gegen Computergegner an. Drei Strecken von kurz und einfach bis lang und schwer; Schäden durch Kollisionen und Ausflüge neben die Strecke, Ölflecken, Tankanzeige und Boxenstopps zum Reparieren und Tanken.\n\nPRG-Fassung (es gibt auch eine TAP-Fassung). Läuft auf PAL und NTSC, die Musik ist aber für PAL geschrieben (auf NTSC besser nur Soundeffekte). Steuerung per Joystick: Lenken und Bremsen, Feuer gibt Gas, nach vorn Tempomat. Ohne Speichererweiterung.\n\nCode: Youki (Jean-Philippe Méola) · Grafik: Jeff Pino · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Autorennen im Stil von 1983 aus der Verfolgerperspektive: Als Fahrer „Paul Pitstop“ tritt man über vier Runden gegen Computergegner an. Drei Strecken von kurz und einfach bis lang und schwer; Schäden durch Kollisionen und Ausflüge neben die Strecke, Ölflecken, Tankanzeige und Boxenstopps zum Reparieren und Tanken.\n\nPRG-Fassung (es gibt auch eine TAP-Fassung). Läuft auf PAL und NTSC, die Musik ist aber für PAL geschrieben (auf NTSC besser nur Soundeffekte). Steuerung per Joystick: Lenken und Bremsen, Feuer gibt Gas, nach vorn Tempomat. Ohne Speichererweiterung.\n\nCode: Youki (Jean-Philippe Méola) · Grafik: Jeff Pino · Musik: Jeroen Tel",
+    "en": "Car racing in the style of 1983 from a chase-camera view: as driver \"Paul Pitstop\" you compete against computer opponents over four laps. Three tracks ranging from short and easy to long and difficult; damage from collisions and trips off the track, oil slicks, a fuel gauge and pit stops for repairs and refuelling.\n\nPRG version (a TAP version also exists). Runs on PAL and NTSC, but the music is written for PAL (on NTSC, sound effects only is the better choice). Joystick control: steering and braking, fire accelerates, forward engages cruise control. No memory expansion required.\n\nCode: Youki (Jean-Philippe Méola) · Graphics: Jeff Pino · Music: Jeroen Tel"
+  },
   "images": {
     "sstitle": "images/2e/2e9d7ec5176535c3075621b248edc2f52f486d15.png"
   }

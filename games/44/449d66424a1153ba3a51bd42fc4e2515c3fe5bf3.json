@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "449d66424a1153ba3a51bd42fc4e2515c3fe5bf3",
+  "md5": "3630cd3111af6b50c932d36540f3844c",
+  "crc32": "3aacbb21",
+  "size": 300138,
+  "format": "TAP",
+  "files": [
+    "Zaxxon (Synsoft).tap"
+  ],
+  "screenscraper_id": "36001",
+  "title": "Zaxxon",
+  "year": "1984",
+  "publisher": "Synsoft (U.S. Gold)",
+  "developer": "Peter Adams",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Raumgleiter fliegt über eine schräg dargestellte, gescrollte Festung und muss dabei Höhe und Seite zugleich beherrschen. Geschütze, Treibstofftanks und Kraftfelder liegen im Weg; ein Höhenmesser und der Schatten des Gleiters helfen beim Einschätzen der Flughöhe. Zwischen den Festungen folgt ein Abschnitt im Weltraum, am Ende wartet der Roboter Zaxxon. Segas Automat von 1982 fiel vor allem durch die räumliche Perspektive auf.\n\nDiese C64-Fassung programmierte Peter Adams für Synapse Software; in Europa vertrieb U.S. Gold sie unter dem Label Synsoft auf Diskette und Kassette. Daneben gab es eine weitere, eigenständige Umsetzung bei U.S. Gold/Sega. Gesteuert wird mit dem Joystick.\n\nCode: Peter Adams · Grafik: Peter Adams",
+  "texts": {
+    "de": "Ein Raumgleiter fliegt über eine schräg dargestellte, gescrollte Festung und muss dabei Höhe und Seite zugleich beherrschen. Geschütze, Treibstofftanks und Kraftfelder liegen im Weg; ein Höhenmesser und der Schatten des Gleiters helfen beim Einschätzen der Flughöhe. Zwischen den Festungen folgt ein Abschnitt im Weltraum, am Ende wartet der Roboter Zaxxon. Segas Automat von 1982 fiel vor allem durch die räumliche Perspektive auf.\n\nDiese C64-Fassung programmierte Peter Adams für Synapse Software; in Europa vertrieb U.S. Gold sie unter dem Label Synsoft auf Diskette und Kassette. Daneben gab es eine weitere, eigenständige Umsetzung bei U.S. Gold/Sega. Gesteuert wird mit dem Joystick.\n\nCode: Peter Adams · Grafik: Peter Adams",
+    "en": "A space glider flies over an obliquely displayed, scrolling fortress and has to control both altitude and lateral position at the same time. Gun emplacements, fuel tanks and force fields lie in the way; an altimeter and the glider's shadow help in judging the flying height. Between fortresses comes a section in space, and at the end the robot Zaxxon awaits. Sega's 1982 arcade game stood out above all for its three-dimensional perspective.\n\nThis C64 version was programmed by Peter Adams for Synapse Software; in Europe U.S. Gold distributed it under the Synsoft label on disk and tape. There was also another, separate conversion by U.S. Gold/Sega. Controlled with the joystick.\n\nCode: Peter Adams · Graphics: Peter Adams"
+  }
+}

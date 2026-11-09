@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "58e71b3705f1aeec54d62c449a006d2f67010375",
+  "md5": "346179caa486cf0b56b5afdf74995cc0",
+  "crc32": "facda3b4",
+  "size": 106768,
+  "format": "CRT",
+  "files": [
+    "Koronis Rift [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36371",
+  "title": "Koronis Rift",
+  "year": "1985",
+  "publisher": "Epyx",
+  "developer": "Lucasfilm Games (Noah Falstein)",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Auf dem Planeten Koronis liegen die Wracks der Kriegsmaschinen einer untergegangenen Kultur, und der Spieler durchsucht sie als Schrotthändler mit einem Geländefahrzeug. In den Tälern einer fraktal berechneten Landschaft kämpft er gegen die Flugscheiben der noch aktiven Wächter und birgt Bauteile aus den Wracks. Ein Begleitroboter untersucht die Fundstücke, die dann in das eigene Fahrzeug eingebaut oder verkauft werden können, sodass Waffen, Schilde und Antrieb nach und nach besser werden. Das Spiel verband die Landschaftstechnik von Rescue on Fractalus! mit Handel und Ausbau und gilt als eines der ehrgeizigsten frühen Lucasfilm-Spiele.\n\nErschienen ist das Spiel für C64 und Atari-8-Bit-Rechner, in den USA bei Epyx auf Diskette, in Europa bei Activision. Gesteuert wird per Joystick und mit einigen Tasten. Es gibt eine Umsetzung als EasyFlash-Modul.\n\nEntwurf: Noah Falstein · Code: u. a. Aric Wilmunder, Ron Gilbert, Charlie Kellner (fassungsübergreifend genannt)",
+  "texts": {
+    "de": "Auf dem Planeten Koronis liegen die Wracks der Kriegsmaschinen einer untergegangenen Kultur, und der Spieler durchsucht sie als Schrotthändler mit einem Geländefahrzeug. In den Tälern einer fraktal berechneten Landschaft kämpft er gegen die Flugscheiben der noch aktiven Wächter und birgt Bauteile aus den Wracks. Ein Begleitroboter untersucht die Fundstücke, die dann in das eigene Fahrzeug eingebaut oder verkauft werden können, sodass Waffen, Schilde und Antrieb nach und nach besser werden. Das Spiel verband die Landschaftstechnik von Rescue on Fractalus! mit Handel und Ausbau und gilt als eines der ehrgeizigsten frühen Lucasfilm-Spiele.\n\nErschienen ist das Spiel für C64 und Atari-8-Bit-Rechner, in den USA bei Epyx auf Diskette, in Europa bei Activision. Gesteuert wird per Joystick und mit einigen Tasten. Es gibt eine Umsetzung als EasyFlash-Modul.\n\nEntwurf: Noah Falstein · Code: u. a. Aric Wilmunder, Ron Gilbert, Charlie Kellner (fassungsübergreifend genannt)",
+    "en": "On the planet Koronis lie the wrecks of the war machines of a vanished civilisation, and the player searches them as a scavenger with an all-terrain vehicle. In the valleys of a fractally generated landscape, he fights the flying saucers of the still active guardians and salvages components from the wrecks. A companion robot analyses the finds, which can then be fitted to the player's own vehicle or sold, so that weapons, shields and drive gradually improve. The game combined the landscape technology of Rescue on Fractalus! with trading and upgrading and is regarded as one of the most ambitious early Lucasfilm games.\n\nThe game was released for the C64 and Atari 8-bit computers, in the USA by Epyx on disk, in Europe by Activision. Controlled via joystick and a few keys. There is a conversion as an EasyFlash cartridge.\n\nDesign: Noah Falstein · Code: Aric Wilmunder, Ron Gilbert, Charlie Kellner and others (credited across versions)"
+  }
+}

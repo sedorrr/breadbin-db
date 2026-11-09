@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "33fc5e7c5215721bf0847f8e6e8080807331e480",
+  "md5": "53533d90eaf0f25931ffd34b8cafbb16",
+  "crc32": "ba5fdfdd",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ZAK-E0.D64"
+  ],
+  "screenscraper_id": "35828",
+  "title": "Zak McKracken and the Alien Mindbenders",
+  "year": "1988",
+  "publisher": "Lucasfilm Games",
+  "developer": "Lucasfilm Games (David Fox, Matthew Kane)",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Der Boulevardreporter Zak McKracken kommt einer Verschwörung auf die Spur: Außerirdische wollen die Menschheit mit einem Brummton verdummen. Gesteuert wird über die SCUMM-Verboberfläche, wobei der Spieler im Lauf der Geschichte zwischen vier Figuren wechselt, die an verschiedenen Orten der Welt und sogar auf dem Mars handeln. Das Spiel lebt von seinem schrägen Humor, den weltweiten Schauplätzen und Rätseln, die das Zusammenspiel der Figuren verlangen. Nach Maniac Mansion war es das zweite SCUMM-Abenteuer von Lucasfilm und gilt besonders im deutschsprachigen Raum als Kultspiel.\n\nDiese Fassung stammt aus einer Diskettensammlung und besteht aus drei Diskettenabbildern (ZAK-E0 bis ZAK-E2); laut Dateinamen handelt es sich vermutlich um die englische Fassung.\n\nCode: Matthew Kane, David Fox · Grafik: Martin Cameron, Gary Winnick · Musik: Matthew Kane, Christopher Grigg, Dave Warhol",
+  "texts": {
+    "de": "Der Boulevardreporter Zak McKracken kommt einer Verschwörung auf die Spur: Außerirdische wollen die Menschheit mit einem Brummton verdummen. Gesteuert wird über die SCUMM-Verboberfläche, wobei der Spieler im Lauf der Geschichte zwischen vier Figuren wechselt, die an verschiedenen Orten der Welt und sogar auf dem Mars handeln. Das Spiel lebt von seinem schrägen Humor, den weltweiten Schauplätzen und Rätseln, die das Zusammenspiel der Figuren verlangen. Nach Maniac Mansion war es das zweite SCUMM-Abenteuer von Lucasfilm und gilt besonders im deutschsprachigen Raum als Kultspiel.\n\nDiese Fassung stammt aus einer Diskettensammlung und besteht aus drei Diskettenabbildern (ZAK-E0 bis ZAK-E2); laut Dateinamen handelt es sich vermutlich um die englische Fassung.\n\nCode: Matthew Kane, David Fox · Grafik: Martin Cameron, Gary Winnick · Musik: Matthew Kane, Christopher Grigg, Dave Warhol",
+    "en": "The tabloid reporter Zak McKracken uncovers a conspiracy: aliens want to make humanity stupid with a humming tone. The game is controlled via the SCUMM verb interface, and over the course of the story the player switches between four characters who act in different places around the world and even on Mars. The game thrives on its quirky humour, its worldwide locations and puzzles that require the characters to work together. After Maniac Mansion it was Lucasfilm's second SCUMM adventure and is regarded as a cult game, especially in German-speaking countries.\n\nThis version comes from a disk collection and consists of three disk images (ZAK-E0 to ZAK-E2); judging by the file names it is presumably the English version.\n\nCode: Matthew Kane, David Fox · Graphics: Martin Cameron, Gary Winnick · Music: Matthew Kane, Christopher Grigg, Dave Warhol"
+  }
+}

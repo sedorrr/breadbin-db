@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Fallende-Blöcke-Puzzle in isometrischer Ansicht: Die Teile fallen auf eine 4×4-Fläche und werden zu einem Turm gestapelt. Den ganzen Turm kann man drehen, um Lücken zu finden; das fallende Teil lässt sich im letzten Moment noch drehen oder verschieben. Volle Ebenen verschwinden und bringen Punkte, mehrere hintereinander geben Kombo-Boni.\n\nEine einzelne, kleine PRG-Datei (ca. 6 KB), auf itch.io zum selbst gewählten Preis. Musik: SID-Fassung von „L'amour est bleu“. Crack-Fassung „TetrISO +2D“ von Excess und Hokuto Force (23.08.2026).\n\nCode: Roman Werner",
+  "texts": {
+    "de": "Fallende-Blöcke-Puzzle in isometrischer Ansicht: Die Teile fallen auf eine 4×4-Fläche und werden zu einem Turm gestapelt. Den ganzen Turm kann man drehen, um Lücken zu finden; das fallende Teil lässt sich im letzten Moment noch drehen oder verschieben. Volle Ebenen verschwinden und bringen Punkte, mehrere hintereinander geben Kombo-Boni.\n\nEine einzelne, kleine PRG-Datei (ca. 6 KB), auf itch.io zum selbst gewählten Preis. Musik: SID-Fassung von „L'amour est bleu“. Crack-Fassung „TetrISO +2D“ von Excess und Hokuto Force (23.08.2026).\n\nCode: Roman Werner",
+    "en": "Falling-block puzzle in an isometric view: the pieces drop onto a 4×4 area and are stacked into a tower. The whole tower can be rotated to find gaps; the falling piece can still be rotated or moved at the last moment. Complete layers disappear and score points, several in a row give combo bonuses.\n\nA single small PRG file (approx. 6 KB), pay-what-you-want on itch.io. Music: SID version of \"L'amour est bleu\". Cracked version \"TetrISO +2D\" by Excess and Hokuto Force (23.08.2026).\n\nCode: Roman Werner"
+  },
   "images": {
     "sstitle": "images/9a/9acf0ea89acab28df511237a4075e12e685255ec.png"
   }

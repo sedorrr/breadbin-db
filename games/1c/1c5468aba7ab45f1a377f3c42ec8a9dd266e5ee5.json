@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "1c5468aba7ab45f1a377f3c42ec8a9dd266e5ee5",
+  "md5": "ffce8e40f9a8a07a431119b0e94f6271",
+  "crc32": "76e89934",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Elite.crt"
+  ],
+  "screenscraper_id": "35823",
+  "title": "Elite",
+  "year": "1985",
+  "publisher": "Firebird",
+  "developer": "Ian Bell, David Braben",
+  "genres": [
+    "Simulation",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Mit einem kleinen Raumschiff und hundert Credits beginnt der Spieler als Händler in einer Galaxie aus acht Teilen mit je 256 Planeten. Durch Handel, Kopfgeldjagd, Bergbau oder Schmuggel verdient er Geld für bessere Ausrüstung und steigt in der Rangliste vom Harmless bis zum Elite auf. Die Raumkämpfe und das Andocken an Raumstationen werden in 3D-Drahtgittergrafik dargestellt. Elite gilt als Urvater der offenen Weltraum-Handelsspiele.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Ian Bell, David Braben · Titelbild: Simon Jay · Musik: David Dunn, Aidan Bell (nach Johann Strauss)",
+  "texts": {
+    "de": "Mit einem kleinen Raumschiff und hundert Credits beginnt der Spieler als Händler in einer Galaxie aus acht Teilen mit je 256 Planeten. Durch Handel, Kopfgeldjagd, Bergbau oder Schmuggel verdient er Geld für bessere Ausrüstung und steigt in der Rangliste vom Harmless bis zum Elite auf. Die Raumkämpfe und das Andocken an Raumstationen werden in 3D-Drahtgittergrafik dargestellt. Elite gilt als Urvater der offenen Weltraum-Handelsspiele.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Ian Bell, David Braben · Titelbild: Simon Jay · Musik: David Dunn, Aidan Bell (nach Johann Strauss)",
+    "en": "With a small spaceship and a hundred credits, the player starts out as a trader in a galaxy of eight parts with 256 planets each. Through trading, bounty hunting, mining or smuggling, he earns money for better equipment and rises in the ranking from Harmless to Elite. Space combat and docking with space stations are shown in 3D wireframe graphics. Elite is regarded as the forefather of open space trading games.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without additional loading.\n\nCode: Ian Bell, David Braben · Title screen: Simon Jay · Music: David Dunn, Aidan Bell (after Johann Strauss)"
+  },
+  "images": {
+    "ss": "images/01/01841a5e812e1daffe67de5d55e144a39fe3d7c1.png",
+    "sstitle": "images/0b/0bb4ceccf09a2da7b308e4879bf3686e7fe3ada1.png"
+  }
+}

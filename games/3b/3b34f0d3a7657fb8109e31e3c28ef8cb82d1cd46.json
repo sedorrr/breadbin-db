@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3b34f0d3a7657fb8109e31e3c28ef8cb82d1cd46",
+  "md5": "ba0fd90144da026ca89a6542f8d59d3d",
+  "crc32": "b426dc8d",
+  "size": 665848,
+  "format": "TAP",
+  "files": [
+    "Raid on Bungeling Bay.tap"
+  ],
+  "screenscraper_id": "36222",
+  "title": "Raid on Bungeling Bay",
+  "year": "1984",
+  "publisher": "Brøderbund",
+  "developer": "Will Wright",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Mit einem Hubschrauber, der von einem Flugzeugträger startet, soll man die Fabriken des Bungeling-Reiches auf einer Inselgruppe zerstören. Die Spielwelt scrollt in alle Richtungen; Flugabwehr, Jäger und Kriegsschiffe reagieren auf die Angriffe, und ein im Bau befindliches Schlachtschiff wird mit der Zeit zur Gefahr. Bomben und Schäden lassen sich nur auf dem Träger auffrischen, der selbst angegriffen wird. Es war das erste Spiel von Will Wright, der später SimCity schuf.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Will Wright",
+  "texts": {
+    "de": "Mit einem Hubschrauber, der von einem Flugzeugträger startet, soll man die Fabriken des Bungeling-Reiches auf einer Inselgruppe zerstören. Die Spielwelt scrollt in alle Richtungen; Flugabwehr, Jäger und Kriegsschiffe reagieren auf die Angriffe, und ein im Bau befindliches Schlachtschiff wird mit der Zeit zur Gefahr. Bomben und Schäden lassen sich nur auf dem Träger auffrischen, der selbst angegriffen wird. Es war das erste Spiel von Will Wright, der später SimCity schuf.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Will Wright",
+    "en": "With a helicopter launched from an aircraft carrier, the player is to destroy the factories of the Bungeling Empire on a group of islands. The game world scrolls in all directions; anti-aircraft guns, fighters and warships react to the attacks, and a battleship under construction becomes a threat over time. Bombs and damage can only be replenished on the carrier, which is itself attacked. It was the first game by Will Wright, who later created SimCity.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: Will Wright"
+  },
+  "images": {
+    "ss": "images/3b/3b154642d00adb38334a7bd5ee1129056d6f7528.png",
+    "sstitle": "images/0b/0bafddef08d6475ad6c260aa1e740ff302297593.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "5b02fea718170ea124c94de24f0f61d75434fe84",
+  "md5": "09d901d3a9dfd2f35e5be9ef2e10d4e8",
+  "crc32": "db01fcab",
+  "size": 8272,
+  "format": "CRT",
+  "files": [
+    "Wizard of Wor (MAX v01).crt"
+  ],
+  "screenscraper_id": "492323",
+  "title": "Wizard of Wor",
+  "year": "1983",
+  "publisher": "Commodore",
+  "developer": "Jeff Bruette (C64); Original: Midway / Dave Nutting Associates",
+  "genres": [
+    "Action / Labyrinth",
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Midway-Automaten von 1980: Ein oder zwei Krieger jagen in verwinkelten Kerkern Monster, die sich teils unsichtbar machen. Wer genug Gegner erlegt, ruft stärkere Kreaturen und schließlich den Zauberer von Wor selbst herbei. Zu zweit wird gleichzeitig gespielt, wobei man sich gegenseitig abschießen kann – Zusammenarbeit und Konkurrenz liegen dicht beieinander. Die Sprachausgabe des Automaten fehlt, das schnelle Labyrinth-Spiel blieb erhalten.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode (C64): Jeff Bruette",
+  "texts": {
+    "de": "Umsetzung des Midway-Automaten von 1980: Ein oder zwei Krieger jagen in verwinkelten Kerkern Monster, die sich teils unsichtbar machen. Wer genug Gegner erlegt, ruft stärkere Kreaturen und schließlich den Zauberer von Wor selbst herbei. Zu zweit wird gleichzeitig gespielt, wobei man sich gegenseitig abschießen kann – Zusammenarbeit und Konkurrenz liegen dicht beieinander. Die Sprachausgabe des Automaten fehlt, das schnelle Labyrinth-Spiel blieb erhalten.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode (C64): Jeff Bruette",
+    "en": "Conversion of Midway's 1980 arcade game: one or two warriors hunt monsters, some of which can turn invisible, in winding dungeons. Killing enough enemies summons stronger creatures and finally the Wizard of Wor himself. Two players play simultaneously and can shoot each other – cooperation and competition lie close together. The arcade machine's speech output is missing, but the fast maze gameplay has been preserved.\n\nThis file contains the game as a cartridge (CRT); there are several versions (original, conversions, cracks).\n\nCode (C64): Jeff Bruette"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "0cb6c0239e0ab50831c4a1b2075910f11ee0d916",
+  "md5": "6f183b6e268ae5c69d5ded042bb00fd9",
+  "crc32": "809f3899",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Paradroid.crt"
+  ],
+  "screenscraper_id": "36288",
+  "title": "Paradroid",
+  "year": "1985",
+  "publisher": "Hewson",
+  "developer": "Andrew Braybrook (Graftgold)",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Auf einem Raumschiffverband sind die Roboter außer Kontrolle geraten, und der Spieler steuert eine kleine Influence Unit, die das Deck für Deck bereinigen soll. Neben Schießen kann die Einheit andere Roboter übernehmen: Dazu wird ein kurzes Schaltkreis-Duell gegen die Zeit gewonnen, danach stehen die Fähigkeiten des übernommenen Roboters zur Verfügung. Die Draufsicht und das Übernahmeprinzip machen Paradroid zu einem der eigenständigsten C64-Spiele.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode, Grafik, Sound: Andrew Braybrook",
+  "texts": {
+    "de": "Auf einem Raumschiffverband sind die Roboter außer Kontrolle geraten, und der Spieler steuert eine kleine Influence Unit, die das Deck für Deck bereinigen soll. Neben Schießen kann die Einheit andere Roboter übernehmen: Dazu wird ein kurzes Schaltkreis-Duell gegen die Zeit gewonnen, danach stehen die Fähigkeiten des übernommenen Roboters zur Verfügung. Die Draufsicht und das Übernahmeprinzip machen Paradroid zu einem der eigenständigsten C64-Spiele.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode, Grafik, Sound: Andrew Braybrook",
+    "en": "On a fleet of spaceships the robots have gone out of control, and the player controls a small Influence Unit that is to clear them deck by deck. Besides shooting, the unit can take over other robots: to do so, a short circuit duel against the clock has to be won, after which the abilities of the captured robot become available. The top-down view and the takeover principle make Paradroid one of the most original C64 games.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without multi-loading.\n\nCode, graphics, sound: Andrew Braybrook"
+  },
+  "images": {
+    "ss": "images/f4/f44acb473b232edd2b48d42a83103074281bd96b.png",
+    "sstitle": "images/50/50a39a64478766d2cce7dd3d5a305b2833c39ab2.png"
+  }
+}

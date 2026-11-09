@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "14e14913d1952528f7801917d2627d15ae0c751a",
+  "md5": "cb42ab7faad650a78356078c37684ae1",
+  "crc32": "5ad389ae",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Puzznic.crt"
+  ],
+  "screenscraper_id": "36564",
+  "title": "Puzznic",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Software Creations",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Taito-Automaten von 1989: Auf einem Spielfeld liegen Steine mit Symbolen, die der Spieler nach links oder rechts schiebt. Fallen sie dabei herunter und berühren sich zwei oder mehr gleiche Steine, lösen sie sich auf. Ziel ist, in jedem Level alle Steine innerhalb der Zeit zu beseitigen, ohne dass ein einzelner Stein übrig bleibt. Das einfache Prinzip mit vorgegebenen Aufgaben statt Zufall verlangt vorausschauendes Denken und machte Puzznic zu einem der beliebtesten Denkspiele seiner Zeit.\n\nGesteuert wird per Joystick; zwei Spieler wechseln sich ab. Neben den Originalen auf Diskette und Kassette gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Martin Howarth · Musik: Geoff Follin",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten von 1989: Auf einem Spielfeld liegen Steine mit Symbolen, die der Spieler nach links oder rechts schiebt. Fallen sie dabei herunter und berühren sich zwei oder mehr gleiche Steine, lösen sie sich auf. Ziel ist, in jedem Level alle Steine innerhalb der Zeit zu beseitigen, ohne dass ein einzelner Stein übrig bleibt. Das einfache Prinzip mit vorgegebenen Aufgaben statt Zufall verlangt vorausschauendes Denken und machte Puzznic zu einem der beliebtesten Denkspiele seiner Zeit.\n\nGesteuert wird per Joystick; zwei Spieler wechseln sich ab. Neben den Originalen auf Diskette und Kassette gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Martin Howarth · Musik: Geoff Follin",
+    "en": "Conversion of Taito's 1989 arcade game: blocks with symbols lie on a playing field and are pushed left or right by the player. If they fall and two or more identical blocks touch, they disappear. The aim on each level is to clear all blocks within the time limit without leaving a single block behind. The simple concept, with set puzzles rather than randomness, demands forward thinking and made Puzznic one of the most popular puzzle games of its time.\n\nControlled with a joystick; two players take turns. Besides the originals on disk and cassette there is a OneLoad64 conversion as an EasyFlash cartridge that needs no further loading.\n\nCode: Martin Howarth · Music: Geoff Follin"
+  }
+}

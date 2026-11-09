@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "1642a00599e6598d866a303dab2385dfdfda876c",
+  "md5": "5859b1252a3788616fe9f1ff0f9db411",
+  "crc32": "5ef21389",
+  "size": 673018,
+  "format": "TAP",
+  "files": [
+    "Renegade (Version 2).tap"
+  ],
+  "screenscraper_id": "36150",
+  "title": "Renegade",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Imagine",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Einzelkämpfer prügelt sich durch Straßenbanden, die ihn an U-Bahnhof, Hafen und in dunklen Gassen erwarten, bis er dem Anführer gegenübersteht. Schläge und Tritte nach links und rechts, ein Knie in den Magen und das Zubodenwerfen gestürzter Gegner gehören zum Repertoire. Gegen Motorradfahrer hilft ein Sprungtritt. Der Automat von Technōs/Taito (1986) gilt als Vorläufer von Double Dragon.\n\nImagine veröffentlichte die C64-Fassung auf Kassette und Diskette. Zwei Spieler spielen abwechselnd, gesteuert wird mit dem Joystick in Verbindung mit dem Feuerknopf.",
+  "texts": {
+    "de": "Ein Einzelkämpfer prügelt sich durch Straßenbanden, die ihn an U-Bahnhof, Hafen und in dunklen Gassen erwarten, bis er dem Anführer gegenübersteht. Schläge und Tritte nach links und rechts, ein Knie in den Magen und das Zubodenwerfen gestürzter Gegner gehören zum Repertoire. Gegen Motorradfahrer hilft ein Sprungtritt. Der Automat von Technōs/Taito (1986) gilt als Vorläufer von Double Dragon.\n\nImagine veröffentlichte die C64-Fassung auf Kassette und Diskette. Zwei Spieler spielen abwechselnd, gesteuert wird mit dem Joystick in Verbindung mit dem Feuerknopf.",
+    "en": "A lone fighter brawls his way through street gangs waiting for him at the underground station, the harbour and in dark alleys until he faces their leader. Punches and kicks to the left and right, a knee to the stomach and pinning down fallen opponents are part of the repertoire. A flying kick helps against motorcyclists. The arcade game by Technōs/Taito (1986) is regarded as the forerunner of Double Dragon.\n\nImagine released the C64 version on tape and disk. Two players take turns; controlled with the joystick in combination with the fire button."
+  }
+}

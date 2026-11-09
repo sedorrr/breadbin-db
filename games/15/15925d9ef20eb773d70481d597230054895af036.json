@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "15925d9ef20eb773d70481d597230054895af036",
+  "md5": "eac1087608ec1efef947e054d8968328",
+  "crc32": "f043bf9d",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Boulder Dash (J1).crt"
+  ],
+  "screenscraper_id": "35836",
+  "title": "Boulder Dash",
+  "year": "1984",
+  "publisher": "First Star Software",
+  "developer": "Peter Liepa, Chris Gray",
+  "genres": [
+    "Action / Labyrinth",
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Rockford gräbt sich durch Höhlen voller Erde, Felsbrocken und Diamanten und muss in begrenzter Zeit genug Edelsteine einsammeln, um den Ausgang zu öffnen. Fallende Felsen gehorchen einer einfachen Physik und können Rockford erschlagen, aber auch Gegner wie Glühwürmchen und Schmetterlinge zerquetschen, die dabei zu Diamanten werden. 16 Höhlen und vier Zwischenstufen verlangen schnelle Reaktion und Planung zugleich. Das Spielprinzip wurde unzählige Male fortgesetzt und nachgeahmt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode, Grafik, Musik: Peter Liepa (Design mit Chris Gray)",
+  "texts": {
+    "de": "Rockford gräbt sich durch Höhlen voller Erde, Felsbrocken und Diamanten und muss in begrenzter Zeit genug Edelsteine einsammeln, um den Ausgang zu öffnen. Fallende Felsen gehorchen einer einfachen Physik und können Rockford erschlagen, aber auch Gegner wie Glühwürmchen und Schmetterlinge zerquetschen, die dabei zu Diamanten werden. 16 Höhlen und vier Zwischenstufen verlangen schnelle Reaktion und Planung zugleich. Das Spielprinzip wurde unzählige Male fortgesetzt und nachgeahmt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode, Grafik, Musik: Peter Liepa (Design mit Chris Gray)",
+    "en": "Rockford digs his way through caves full of earth, boulders and diamonds and has to collect enough gems within a time limit to open the exit. Falling boulders obey simple physics and can crush Rockford, but can also crush enemies such as fireflies and butterflies, which then turn into diamonds. 16 caves and four intermissions demand quick reactions and planning at the same time. The game concept has been continued and imitated countless times.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading. Controlled with the joystick in port 1.\n\nCode, graphics, music: Peter Liepa (design with Chris Gray)"
+  },
+  "images": {
+    "ss": "images/00/00d11fc9b69e1baf7001ffe09a10d16bede47fd8.png",
+    "sstitle": "images/65/65c6b1c512d72158dc3eaff41cd08a790a13f4ee.png"
+  }
+}

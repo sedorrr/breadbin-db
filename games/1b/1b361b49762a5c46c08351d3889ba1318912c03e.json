@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "1b361b49762a5c46c08351d3889ba1318912c03e",
+  "md5": "f37386eef0293e2630c392aa8ecd319f",
+  "crc32": "063d8db9",
+  "size": 187650,
+  "format": "TAP",
+  "files": [
+    "Crazy Comets (Version 1).tap"
+  ],
+  "screenscraper_id": "111310",
+  "title": "Crazy Comets",
+  "year": "1985",
+  "publisher": "Martech",
+  "developer": "Simon Nicol",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Weltraum-Ballerspiel, in dem farbige, wirbelnde Kometen auf das Raumschiff des Spielers zukommen und abgeschossen werden müssen. Nach mehreren Wellen erscheinen größere Gegner. Das schnelle Spielprinzip ist einfach gehalten; bekannt wurde das Spiel vor allem durch die Titelmusik von Rob Hubbard, die zu seinen beliebtesten Stücken zählt.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Simon Nicol · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Weltraum-Ballerspiel, in dem farbige, wirbelnde Kometen auf das Raumschiff des Spielers zukommen und abgeschossen werden müssen. Nach mehreren Wellen erscheinen größere Gegner. Das schnelle Spielprinzip ist einfach gehalten; bekannt wurde das Spiel vor allem durch die Titelmusik von Rob Hubbard, die zu seinen beliebtesten Stücken zählt.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Simon Nicol · Musik: Rob Hubbard",
+    "en": "Space shoot 'em up in which coloured, swirling comets head towards the player's spaceship and must be shot down. After several waves, larger enemies appear. The fast gameplay principle is kept simple; the game became known above all for Rob Hubbard's title music, which is among his most popular pieces.\n\nReleased on cassette and disk; there is also a OneLoad64 cartridge conversion. Controlled with a joystick; two players take turns.\n\nCode and graphics: Simon Nicol · Music: Rob Hubbard"
+  }
+}

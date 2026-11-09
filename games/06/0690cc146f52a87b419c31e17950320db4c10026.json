@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "0690cc146f52a87b419c31e17950320db4c10026",
+  "md5": "a379734dccb68a83b37ced6e4c2e3a68",
+  "crc32": "944bde0c",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Ping Pong (J1).crt"
+  ],
+  "screenscraper_id": "36033",
+  "title": "Ping Pong",
+  "year": "1986",
+  "publisher": "Imagine",
+  "developer": "Imagine",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Konami-Automaten von 1985: Tischtennis in der Seitenansicht, bei der nur die Hände der Spieler mit den Schlägern zu sehen sind. Der Schlag – Schmetterball, Topspin oder Unterschnitt – ergibt sich aus der Haltung des Schlägers und dem Zeitpunkt, die Bewegung zum Ball übernimmt das Spiel weitgehend. Gespielt wird bis 11 Punkte gegen den Rechner oder zu zweit gleichzeitig.\n\nErschien auf Kassette und Diskette. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nMusik: Martin Galway",
+  "texts": {
+    "de": "Umsetzung des Konami-Automaten von 1985: Tischtennis in der Seitenansicht, bei der nur die Hände der Spieler mit den Schlägern zu sehen sind. Der Schlag – Schmetterball, Topspin oder Unterschnitt – ergibt sich aus der Haltung des Schlägers und dem Zeitpunkt, die Bewegung zum Ball übernimmt das Spiel weitgehend. Gespielt wird bis 11 Punkte gegen den Rechner oder zu zweit gleichzeitig.\n\nErschien auf Kassette und Diskette. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nMusik: Martin Galway",
+    "en": "Conversion of the 1985 Konami arcade machine: table tennis in side view, with only the players' hands holding the bats visible. The stroke – smash, topspin or backspin – results from the position of the bat and the timing, while the game largely handles the movement towards the ball. Matches are played to 11 points against the computer or with two players simultaneously.\n\nReleased on cassette and disk. It is controlled by joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no multi-loading.\n\nMusic: Martin Galway"
+  }
+}

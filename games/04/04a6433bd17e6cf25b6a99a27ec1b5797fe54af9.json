@@ -17,5 +17,13 @@
     "Rennen"
   ],
   "players": "1",
-  "synopsis": "Erster Teil der Test-Drive-Reihe: Man wählt einen von fünf Sportwagen – Lamborghini Countach, Ferrari Testarossa, Porsche 911 Turbo, Lotus Esprit Turbo oder Chevrolet Corvette – und fährt aus der Cockpitsicht eine kurvige zweispurige Bergstraße entlang. Dabei muss man Gegenverkehr und langsameren Autos ausweichen und Radarfallen der Polizei entkommen; zwischen den fünf Abschnitten liegen Tankstellen.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“) und Anleitungsdatei. Steuerung mit Joystick."
+  "synopsis": "Erster Teil der Test-Drive-Reihe: Man wählt einen von fünf Sportwagen – Lamborghini Countach, Ferrari Testarossa, Porsche 911 Turbo, Lotus Esprit Turbo oder Chevrolet Corvette – und fährt aus der Cockpitsicht eine kurvige zweispurige Bergstraße entlang. Dabei muss man Gegenverkehr und langsameren Autos ausweichen und Radarfallen der Polizei entkommen; zwischen den fünf Abschnitten liegen Tankstellen.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“) und Anleitungsdatei. Steuerung mit Joystick.",
+  "texts": {
+    "de": "Erster Teil der Test-Drive-Reihe: Man wählt einen von fünf Sportwagen – Lamborghini Countach, Ferrari Testarossa, Porsche 911 Turbo, Lotus Esprit Turbo oder Chevrolet Corvette – und fährt aus der Cockpitsicht eine kurvige zweispurige Bergstraße entlang. Dabei muss man Gegenverkehr und langsameren Autos ausweichen und Radarfallen der Polizei entkommen; zwischen den fünf Abschnitten liegen Tankstellen.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“) und Anleitungsdatei. Steuerung mit Joystick.",
+    "en": "First part of the Test Drive series: the player chooses one of five sports cars – Lamborghini Countach, Ferrari Testarossa, Porsche 911 Turbo, Lotus Esprit Turbo or Chevrolet Corvette – and drives along a winding two-lane mountain road from the cockpit view. Oncoming traffic and slower cars have to be avoided and police speed traps escaped; petrol stations lie between the five sections.\n\nDisk version (header \"ASS presents\") with trainer (\"+\") and a manual file. Controlled with a joystick."
+  },
+  "images": {
+    "ss": "images/36/36b3d83bdaaf4277536bb17de591230249bd6335.png",
+    "sstitle": "images/a8/a8fb2617f04ca82bfd8cae69dd1bea52f6983864.png"
+  }
 }

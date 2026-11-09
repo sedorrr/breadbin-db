@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Seitlich scrollendes Shoot'em Up: Mit einem Raumschiff werden Wellen feindlicher Schiffe abgeschossen, am Ende warten Endgegner, deren Angriffen man ausweichen muss. Die „Reloaded“-Fassung behebt technische Fehler einer früheren Version und läuft schneller.\n\nZwei PRG-Fassungen: normal und „DX“; worin sich die DX-Fassung unterscheidet, ist nicht bekannt.\n\nCode: cristiancubillos",
+  "texts": {
+    "de": "Seitlich scrollendes Shoot'em Up: Mit einem Raumschiff werden Wellen feindlicher Schiffe abgeschossen, am Ende warten Endgegner, deren Angriffen man ausweichen muss. Die „Reloaded“-Fassung behebt technische Fehler einer früheren Version und läuft schneller.\n\nZwei PRG-Fassungen: normal und „DX“; worin sich die DX-Fassung unterscheidet, ist nicht bekannt.\n\nCode: cristiancubillos",
+    "en": "Horizontally scrolling shoot'em up: waves of enemy ships are shot down with a spaceship, and at the end bosses await whose attacks have to be dodged. The “Reloaded” version fixes technical bugs of an earlier version and runs faster.\n\nTwo PRG versions: normal and “DX”; how the DX version differs is not known.\n\nCode: cristiancubillos"
+  },
   "images": {
     "sstitle": "images/cc/ccfdc2610d69ea9f2f03eb3b372042ee3affbaf8.png"
   }

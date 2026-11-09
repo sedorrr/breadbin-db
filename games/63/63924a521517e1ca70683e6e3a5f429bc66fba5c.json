@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "63924a521517e1ca70683e6e3a5f429bc66fba5c",
+  "md5": "67a17377da7f9d5fdf98347fcf7050ec",
+  "crc32": "97b29a2a",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "International Soccer.crt"
+  ],
+  "screenscraper_id": "113211",
+  "title": "International Soccer",
+  "year": "1983",
+  "publisher": "Commodore",
+  "developer": "Andrew Spencer",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Fußballspiel mit je sieben Spielern pro Mannschaft auf einem schräg dargestellten, mitscrollenden Spielfeld. Gesteuert wird immer der Spieler, der dem Ball am nächsten ist; der Torwart lässt sich zum Parieren selbst bewegen. Gegen den Computer gibt es neun Schwierigkeitsstufen, alternativ spielen zwei Personen gegeneinander. Fouls und Elfmeter gibt es nicht; für die frühe Zeit wirkte das flüssige Spiel sehr modern und blieb lange beliebt.\n\nDiese Datei ist das originale Commodore-Steckmodul; es startet sofort nach dem Einschalten.\n\nCode: Andrew Spencer",
+  "texts": {
+    "de": "Fußballspiel mit je sieben Spielern pro Mannschaft auf einem schräg dargestellten, mitscrollenden Spielfeld. Gesteuert wird immer der Spieler, der dem Ball am nächsten ist; der Torwart lässt sich zum Parieren selbst bewegen. Gegen den Computer gibt es neun Schwierigkeitsstufen, alternativ spielen zwei Personen gegeneinander. Fouls und Elfmeter gibt es nicht; für die frühe Zeit wirkte das flüssige Spiel sehr modern und blieb lange beliebt.\n\nDiese Datei ist das originale Commodore-Steckmodul; es startet sofort nach dem Einschalten.\n\nCode: Andrew Spencer",
+    "en": "Football game with seven players per team on an obliquely viewed, scrolling pitch. The player nearest the ball is always the one under control; the goalkeeper can be moved manually to make saves. Against the computer there are nine difficulty levels, or alternatively two people play against each other. There are no fouls or penalties; for such an early game the fluid play seemed very modern, and it remained popular for a long time.\n\nThis file is the original Commodore cartridge; it starts immediately after switching on.\n\nCode: Andrew Spencer"
+  },
+  "images": {
+    "ss": "images/4b/4bd1276889103eed96c2cd5fe728bb6243f923fb.png",
+    "sstitle": "images/dd/dd9e9da3fc3d545f2b5b18f1f9b797940170cf31.png"
+  }
+}

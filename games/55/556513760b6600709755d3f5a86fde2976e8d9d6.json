@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "556513760b6600709755d3f5a86fde2976e8d9d6",
+  "md5": "c5217b9e4bfae26725d7734971d6d75c",
+  "crc32": "cfaab97f",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Emlyn Hughes International Soccer.crt"
+  ],
+  "screenscraper_id": "111862",
+  "title": "Emlyn Hughes International Soccer",
+  "year": "1988",
+  "publisher": "Audiogenic",
+  "developer": "Graham Blighe",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "Emlyn Hughes International Soccer zeigt das Spielfeld von der Seite und bietet viel Kontrolle: Schussstärke und Höhe lassen sich dosieren, Spieler haben eigene Werte, und Mannschaften und Aufstellungen sind bearbeitbar. Neben Freundschaftsspielen gibt es Ligen und Pokalwettbewerbe für bis zu acht Mitspieler, zwei können gleichzeitig spielen. Das Spiel gilt als eines der besten Fußballspiele für den C64.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Graham Blighe · Musik: Barry Leitch",
+  "texts": {
+    "de": "Emlyn Hughes International Soccer zeigt das Spielfeld von der Seite und bietet viel Kontrolle: Schussstärke und Höhe lassen sich dosieren, Spieler haben eigene Werte, und Mannschaften und Aufstellungen sind bearbeitbar. Neben Freundschaftsspielen gibt es Ligen und Pokalwettbewerbe für bis zu acht Mitspieler, zwei können gleichzeitig spielen. Das Spiel gilt als eines der besten Fußballspiele für den C64.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Graham Blighe · Musik: Barry Leitch",
+    "en": "Emlyn Hughes International Soccer shows the pitch from the side and offers a lot of control: shot power and height can be adjusted, players have individual attributes, and teams and line-ups can be edited. Besides friendlies there are leagues and cup competitions for up to eight participants, and two can play simultaneously. The game is regarded as one of the best football games for the C64.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: Graham Blighe · Music: Barry Leitch"
+  },
+  "images": {
+    "sstitle": "images/ee/eef5b7b3b2e22c3edbbd5f21a0fb0c8506088281.png"
+  }
+}

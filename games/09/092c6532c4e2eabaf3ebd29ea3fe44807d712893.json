@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "092c6532c4e2eabaf3ebd29ea3fe44807d712893",
+  "md5": "958404356aaf406ef2ea5babbcb917bb",
+  "crc32": "37c6e79d",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Thrust (J1).crt"
+  ],
+  "screenscraper_id": "36761",
+  "title": "Thrust",
+  "year": "1986",
+  "publisher": "Firebird",
+  "developer": "Jeremy C. Smith",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Angelehnt an den Automaten Gravitar: Ein kleines Schiff muss in verwinkelten Höhlen eine Energiekugel an einem Seil aufnehmen und an die Oberfläche bringen. Schwerkraft, Trägheit und die schwingende Last machen die Steuerung schwer, Geschütze feuern auf das Schiff und der Treibstoff ist knapp. Die bewusst schlichte Grafik erinnert an Vektorgrafik. Das Billigspiel gilt wegen seiner Physik als Klassiker.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Jeremy C. Smith · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Angelehnt an den Automaten Gravitar: Ein kleines Schiff muss in verwinkelten Höhlen eine Energiekugel an einem Seil aufnehmen und an die Oberfläche bringen. Schwerkraft, Trägheit und die schwingende Last machen die Steuerung schwer, Geschütze feuern auf das Schiff und der Treibstoff ist knapp. Die bewusst schlichte Grafik erinnert an Vektorgrafik. Das Billigspiel gilt wegen seiner Physik als Klassiker.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Jeremy C. Smith · Musik: Rob Hubbard",
+    "en": "Inspired by the arcade machine Gravitar: a small ship has to pick up an energy pod on a tether in winding caverns and bring it to the surface. Gravity, inertia and the swinging load make it hard to control, gun emplacements fire at the ship and fuel is scarce. The deliberately simple graphics are reminiscent of vector graphics. The budget game is regarded as a classic because of its physics.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without multi-loading. It is controlled with the joystick in port 1.\n\nCode: Jeremy C. Smith · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/24/245ba0dc3f8b0e7c818fe848eb133035ed281672.png",
+    "sstitle": "images/99/99cea94020ce32d46a21817a16a86b92daf9da4b.png"
+  }
+}

@@ -19,6 +19,10 @@
   ],
   "players": "1",
   "synopsis": "Im Kampfanzug Turrican durchstreift man fünf Welten mit großen, frei erkundbaren Leveln, die in alle Richtungen scrollen. Neben dem aufrüstbaren Hauptschuss stehen ein schwenkbarer Blitzstrahl, Granaten und Minen sowie die Verwandlung in ein unverwundbares Rad zur Verfügung; versteckte Extras, Zeitlimit und große Endgegner prägen das Spiel.\n\nVier D64 (Kopf „ASS presents“): Disk 0 und 1 sind die PAL-Fassung mit Trainer („+“) und Intro, Disk 2 und 3 die NTSC-Fassung. Joystick in Port 2.\n\nIdee, Code, Grafik: Manfred Trenz · Musik: Ramiro Vaca u. a.",
+  "texts": {
+    "de": "Im Kampfanzug Turrican durchstreift man fünf Welten mit großen, frei erkundbaren Leveln, die in alle Richtungen scrollen. Neben dem aufrüstbaren Hauptschuss stehen ein schwenkbarer Blitzstrahl, Granaten und Minen sowie die Verwandlung in ein unverwundbares Rad zur Verfügung; versteckte Extras, Zeitlimit und große Endgegner prägen das Spiel.\n\nVier D64 (Kopf „ASS presents“): Disk 0 und 1 sind die PAL-Fassung mit Trainer („+“) und Intro, Disk 2 und 3 die NTSC-Fassung. Joystick in Port 2.\n\nIdee, Code, Grafik: Manfred Trenz · Musik: Ramiro Vaca u. a.",
+    "en": "In the Turrican battle suit you roam five worlds with large, freely explorable levels that scroll in all directions. Besides the upgradable main weapon, there is a sweeping lightning beam, grenades and mines, as well as transformation into an invulnerable wheel; hidden extras, a time limit and large bosses characterise the game.\n\nFour D64s (header \"ASS presents\"): disks 0 and 1 are the PAL version with trainer (\"+\") and intro, disks 2 and 3 the NTSC version. Joystick in port 2.\n\nIdea, code, graphics: Manfred Trenz · Music: Ramiro Vaca and others"
+  },
   "images": {
     "sstitle": "images/f5/f559916472beb5acf08b61d7274c1a03ff06e718.png"
   }

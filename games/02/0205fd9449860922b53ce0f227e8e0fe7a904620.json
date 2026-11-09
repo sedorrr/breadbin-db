@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "0205fd9449860922b53ce0f227e8e0fe7a904620",
+  "md5": "3a7cd5bad6d112249436029930719b34",
+  "crc32": "8be99d4d",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Leaderboard Executive (Side 1).crt"
+  ],
+  "screenscraper_id": "114682",
+  "title": "Leader Board Executive Edition",
+  "year": "1987",
+  "publisher": "Access Software",
+  "developer": "Bruce Carver, Roger Carver",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-4",
+  "synopsis": "Die Executive Edition erweitert die Golfsimulation Leader Board um neue Plätze mit Bäumen, Sandbunkern und rauerem Gelände. Wie im Vorgänger werden Schläger, Schlagkraft und Schnitt über eine Leiste festgelegt, und Wind beeinflusst den Ball. Bis zu vier Spieler treten nacheinander an, auf mehreren Schwierigkeitsstufen. Die Leader-Board-Reihe zählte zu den beliebtesten Golfspielen der 8-Bit-Zeit.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Diese Datei enthält nur die erste Diskettenseite des Originals.\n\nDesign: Bruce Carver, Roger Carver",
+  "texts": {
+    "de": "Die Executive Edition erweitert die Golfsimulation Leader Board um neue Plätze mit Bäumen, Sandbunkern und rauerem Gelände. Wie im Vorgänger werden Schläger, Schlagkraft und Schnitt über eine Leiste festgelegt, und Wind beeinflusst den Ball. Bis zu vier Spieler treten nacheinander an, auf mehreren Schwierigkeitsstufen. Die Leader-Board-Reihe zählte zu den beliebtesten Golfspielen der 8-Bit-Zeit.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Diese Datei enthält nur die erste Diskettenseite des Originals.\n\nDesign: Bruce Carver, Roger Carver",
+    "en": "The Executive Edition extends the golf simulation Leader Board with new courses featuring trees, sand bunkers and rougher terrain. As in its predecessor, club, power and spin are set via a bar, and wind affects the ball. Up to four players take turns, on several difficulty levels. The Leader Board series was among the most popular golf games of the 8-bit era.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading. This file contains only the first disk side of the original.\n\nDesign: Bruce Carver, Roger Carver"
+  },
+  "images": {
+    "sstitle": "images/7c/7cb4f6225e94fadd2703d2cc6f85a71007e2dc16.png"
+  }
+}

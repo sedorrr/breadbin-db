@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5637363320cefb4091548f451817a2b290cde549",
+  "md5": "0a833f8c48f1646bc1bf3ac2c249f9f0",
+  "crc32": "c6df1a34",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Great Giana Sisters, The.crt"
+  ],
+  "screenscraper_id": "35895",
+  "title": "The Great Giana Sisters",
+  "year": "1987",
+  "publisher": "Rainbow Arts",
+  "developer": "Time Warp Productions",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1-2",
+  "synopsis": "Giana springt durch 32 Level einer Traumwelt, sammelt Diamanten und verwandelt sich durch ein Extra in eine Punkerin, die Hindernisse mit dem Kopf zerschlagen kann. Weitere Extras erlauben Schüsse und andere Fähigkeiten. Zwei Spieler sind abwechselnd dran. Das Spiel wurde wegen seiner großen Nähe zu Super Mario Bros. bald vom Markt genommen, was es zur gesuchten Rarität machte; Musik und Steuerung gelten bis heute als herausragend.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Armin Gessert · Grafik: Manfred Trenz · Musik: Chris Hülsbeck",
+  "texts": {
+    "de": "Giana springt durch 32 Level einer Traumwelt, sammelt Diamanten und verwandelt sich durch ein Extra in eine Punkerin, die Hindernisse mit dem Kopf zerschlagen kann. Weitere Extras erlauben Schüsse und andere Fähigkeiten. Zwei Spieler sind abwechselnd dran. Das Spiel wurde wegen seiner großen Nähe zu Super Mario Bros. bald vom Markt genommen, was es zur gesuchten Rarität machte; Musik und Steuerung gelten bis heute als herausragend.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Armin Gessert · Grafik: Manfred Trenz · Musik: Chris Hülsbeck",
+    "en": "Giana jumps through 32 levels of a dream world, collects diamonds and, thanks to a power-up, turns into a punk who can smash obstacles with her head. Further power-ups allow shooting and other abilities. Two players take turns. Because of its close resemblance to Super Mario Bros., the game was soon withdrawn from the market, which made it a sought-after rarity; its music and controls are still considered outstanding today.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading.\n\nCode: Armin Gessert · Graphics: Manfred Trenz · Music: Chris Hülsbeck"
+  },
+  "images": {
+    "ss": "images/12/12e86cf9b5e4048b4421fe58efd0beaeeac23a43.png",
+    "sstitle": "images/07/075ed5327de2a9ddadabe9b18de15d9c59991fcd.png"
+  }
+}

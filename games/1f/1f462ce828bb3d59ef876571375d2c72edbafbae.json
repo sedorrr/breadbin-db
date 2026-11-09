@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "1f462ce828bb3d59ef876571375d2c72edbafbae",
+  "md5": "8613327f67c617772c730e03cd2f4bf1",
+  "crc32": "d3965734",
+  "size": 303760,
+  "format": "CRT",
+  "files": [
+    "First Samurai (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36005",
+  "title": "First Samurai",
+  "year": "1992",
+  "publisher": "Image Works",
+  "developer": "Vivid Image",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein Samurai verfolgt einen Dämonenkönig, der durch die Zeit bis in die Gegenwart flieht. In großen Plattformlevels kämpft er mit Fäusten, Tritten und später einem magischen Schwert, sammelt Gegenstände und ruft an Glocken einen Zauberer zu Hilfe, der Hindernisse beseitigt. Geht die Energie zur Neige, verliert er sein Schwert. Die C64-Umsetzung erschien spät im Leben des Rechners und wurde für ihre Grafik gelobt.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: John Twiddy, Jon Williams, Mat Sneap",
+  "texts": {
+    "de": "Ein Samurai verfolgt einen Dämonenkönig, der durch die Zeit bis in die Gegenwart flieht. In großen Plattformlevels kämpft er mit Fäusten, Tritten und später einem magischen Schwert, sammelt Gegenstände und ruft an Glocken einen Zauberer zu Hilfe, der Hindernisse beseitigt. Geht die Energie zur Neige, verliert er sein Schwert. Die C64-Umsetzung erschien spät im Leben des Rechners und wurde für ihre Grafik gelobt.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: John Twiddy, Jon Williams, Mat Sneap",
+    "en": "A samurai pursues a demon king who flees through time into the present. In large platform levels he fights with fists, kicks and later a magic sword, collects items and rings bells to summon a wizard who removes obstacles. If his energy runs low, he loses his sword. The C64 conversion appeared late in the computer's life and was praised for its graphics.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the original's multi-load parts come from the cartridge instead of from disk.\n\nCode: John Twiddy, Jon Williams, Mat Sneap"
+  }
+}

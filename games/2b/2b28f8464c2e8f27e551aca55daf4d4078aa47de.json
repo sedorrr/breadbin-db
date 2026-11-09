@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "2b28f8464c2e8f27e551aca55daf4d4078aa47de",
+  "md5": "25ae495d1aae386ef1fc5812e1af9631",
+  "crc32": "92e07962",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FIST2.D64"
+  ],
+  "screenscraper_id": "112110",
+  "title": "Fist II: The Legend Continues",
+  "year": "1986",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software",
+  "genres": [
+    "Beat'em Up",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von The Way of the Exploding Fist: Der Kämpfer zieht durch eine scrollende Landschaft mit Höhlen und Tempeln, um einen Tyrannen zu besiegen. Unterwegs stellen sich ihm Krieger in Zweikämpfen, außerdem sind Schriftrollen zu finden, die neue Kraft verleihen. Statt reiner Turnierkämpfe wie im Vorgänger mischt das Spiel Prügelei mit Erkundung.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nEntwicklung: Beam Software",
+  "texts": {
+    "de": "Fortsetzung von The Way of the Exploding Fist: Der Kämpfer zieht durch eine scrollende Landschaft mit Höhlen und Tempeln, um einen Tyrannen zu besiegen. Unterwegs stellen sich ihm Krieger in Zweikämpfen, außerdem sind Schriftrollen zu finden, die neue Kraft verleihen. Statt reiner Turnierkämpfe wie im Vorgänger mischt das Spiel Prügelei mit Erkundung.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nEntwicklung: Beam Software",
+    "en": "Sequel to The Way of the Exploding Fist: the fighter travels through a scrolling landscape with caves and temples to defeat a tyrant. Along the way warriors confront him in duels, and there are scrolls to find that give new strength. Instead of pure tournament fights as in the predecessor, the game mixes beat'em up with exploration.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nDevelopment: Beam Software"
+  },
+  "images": {
+    "ss": "images/6f/6f634e92ad5fba07fac302baf616c7d596dad964.png",
+    "sstitle": "images/dd/dd1c0a39912ef71fd63d647d24425d2fe088541a.png"
+  }
+}

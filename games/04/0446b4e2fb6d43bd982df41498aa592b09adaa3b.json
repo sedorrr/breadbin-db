@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "0446b4e2fb6d43bd982df41498aa592b09adaa3b",
+  "md5": "cd5e64208cce0a3831356cc914529f0c",
+  "crc32": "dd976f72",
+  "size": 68870,
+  "format": "T64",
+  "files": [
+    "CYBERNO1.T64"
+  ],
+  "screenscraper_id": "36447",
+  "title": "Cybernoid",
+  "year": "1988",
+  "publisher": "Hewson",
+  "developer": "Raffaele Cecco; C64-Umsetzung: Nick Jones",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Piraten haben Frachter der Föderation ausgeraubt, und der Spieler holt die Beute mit dem Kampfschiff Cybernoid aus ihrer Festung zurück. Die Festung besteht aus einzelnen Bildschirmräumen voller Geschütze, beweglicher Hindernisse und Gegner, die jeweils in einem Zeitlimit durchquert werden müssen. Neben der Bordkanone gibt es begrenzte Sonderwaffen wie Bomben, Abpraller, Suchraketen und einen Schutzschild, deren geschickter Einsatz über Erfolg und Scheitern entscheidet. Das Spiel ist schwer, aber fair aufgebaut und war einer der erfolgreichsten Titel von Raffaele Cecco.\n\nUrsprünglich für den ZX Spectrum geschrieben; die C64-Umsetzung erschien bei Hewson auf Kassette und Diskette und hat eine eigene Titelmusik, die zu den bekanntesten SID-Stücken gehört. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Raffaele Cecco · Code (C64): Nick Jones · Musik (C64): Jeroen Tel",
+  "texts": {
+    "de": "Piraten haben Frachter der Föderation ausgeraubt, und der Spieler holt die Beute mit dem Kampfschiff Cybernoid aus ihrer Festung zurück. Die Festung besteht aus einzelnen Bildschirmräumen voller Geschütze, beweglicher Hindernisse und Gegner, die jeweils in einem Zeitlimit durchquert werden müssen. Neben der Bordkanone gibt es begrenzte Sonderwaffen wie Bomben, Abpraller, Suchraketen und einen Schutzschild, deren geschickter Einsatz über Erfolg und Scheitern entscheidet. Das Spiel ist schwer, aber fair aufgebaut und war einer der erfolgreichsten Titel von Raffaele Cecco.\n\nUrsprünglich für den ZX Spectrum geschrieben; die C64-Umsetzung erschien bei Hewson auf Kassette und Diskette und hat eine eigene Titelmusik, die zu den bekanntesten SID-Stücken gehört. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Raffaele Cecco · Code (C64): Nick Jones · Musik (C64): Jeroen Tel",
+    "en": "Pirates have robbed Federation freighters, and the player recovers the loot from their fortress in the fighter ship Cybernoid. The fortress consists of individual screen-sized rooms full of gun emplacements, moving obstacles and enemies, each of which has to be crossed within a time limit. In addition to the ship's cannon there are limited special weapons such as bombs, bouncers, seeker missiles and a shield, whose skilful use decides between success and failure. The game is hard but fairly designed and was one of Raffaele Cecco's most successful titles.\n\nOriginally written for the ZX Spectrum; the C64 conversion was released by Hewson on cassette and disk and has its own title music, which is among the best-known SID tunes. It is controlled by joystick. In addition to the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without multi-loading.\n\nDesign: Raffaele Cecco · Code (C64): Nick Jones · Music (C64): Jeroen Tel"
+  }
+}

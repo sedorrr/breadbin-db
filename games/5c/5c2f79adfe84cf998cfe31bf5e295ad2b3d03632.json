@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5c2f79adfe84cf998cfe31bf5e295ad2b3d03632",
+  "md5": "53e2d63a4e0260f3c9fbe0327a9b52e1",
+  "crc32": "de3585f6",
+  "size": 671522,
+  "format": "TAP",
+  "files": [
+    "Head Over Heels.tap"
+  ],
+  "screenscraper_id": "36020",
+  "title": "Head Over Heels",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Jon Ritman, Bernie Drummond; C64-Umsetzung: Colin Porch",
+  "genres": [
+    "Action / Abenteuer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Zwei Spione, Head und Heels, werden getrennt im Reich Blacktooth gefangen gehalten und müssen sich zunächst allein, dann gemeinsam durch Hunderte isometrischer Räume schlagen. Head springt weit und gleitet, Heels läuft schnell und trägt Gegenstände; aufeinander gesetzt vereinen sie ihre Fähigkeiten. Ziel ist es, die Kronen von fünf Planeten zu befreien. Das Rätseldesign mit zwei unterschiedlichen Figuren gilt als Höhepunkt der isometrischen 3D-Spiele.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Jon Ritman (Original), Colin Porch (Umsetzung) · Grafik: Bernie Drummond · Musik: Peter Clarke",
+  "texts": {
+    "de": "Zwei Spione, Head und Heels, werden getrennt im Reich Blacktooth gefangen gehalten und müssen sich zunächst allein, dann gemeinsam durch Hunderte isometrischer Räume schlagen. Head springt weit und gleitet, Heels läuft schnell und trägt Gegenstände; aufeinander gesetzt vereinen sie ihre Fähigkeiten. Ziel ist es, die Kronen von fünf Planeten zu befreien. Das Rätseldesign mit zwei unterschiedlichen Figuren gilt als Höhepunkt der isometrischen 3D-Spiele.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Jon Ritman (Original), Colin Porch (Umsetzung) · Grafik: Bernie Drummond · Musik: Peter Clarke",
+    "en": "Two spies, Head and Heels, are held captive separately in the realm of Blacktooth and must make their way through hundreds of isometric rooms, first alone and then together. Head jumps far and glides, Heels runs fast and carries items; stacked on top of each other they combine their abilities. The goal is to free the crowns of five planets. The puzzle design with two different characters is regarded as a high point of isometric 3D games.\n\nThis file contains the game as a tape image (TAP); several versions exist (original, conversions, cracks).\n\nCode: Jon Ritman (original), Colin Porch (conversion) · Graphics: Bernie Drummond · Music: Peter Clarke"
+  },
+  "images": {
+    "sstitle": "images/18/183b824085b328a116d72ac1f77ab61ab1758a29.png"
+  }
+}

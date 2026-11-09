@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1b2f8594b6a0f4cadbcfd88709481b02bcba8c3c",
+  "md5": "3687e44369a80722a62dff7eca60faf9",
+  "crc32": "08646251",
+  "size": 502450,
+  "format": "TAP",
+  "files": [
+    "Dropzone (US Gold).tap"
+  ],
+  "screenscraper_id": "36452",
+  "title": "Dropzone",
+  "year": "1985",
+  "publisher": "U.S. Gold",
+  "developer": "Archer Maclean",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Spiel nach dem Vorbild von Defender: Auf dem Jupitermond Io rettet ein Raumfahrer mit Raketenrucksack Menschen und bringt sie zur Landeplattform, der Dropzone. Gegner werfen Androiden ab und greifen in hohem Tempo an. Ein Tarnschild macht kurz unverwundbar, Smartbombs räumen den Bildschirm. Das sehr schnelle, flüssige Spiel war Archer Macleans Durchbruch.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Archer Maclean · keine Musik, nur Geräusche",
+  "texts": {
+    "de": "Spiel nach dem Vorbild von Defender: Auf dem Jupitermond Io rettet ein Raumfahrer mit Raketenrucksack Menschen und bringt sie zur Landeplattform, der Dropzone. Gegner werfen Androiden ab und greifen in hohem Tempo an. Ein Tarnschild macht kurz unverwundbar, Smartbombs räumen den Bildschirm. Das sehr schnelle, flüssige Spiel war Archer Macleans Durchbruch.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Archer Maclean · keine Musik, nur Geräusche",
+    "en": "Game modelled on Defender: on Jupiter's moon Io, an astronaut with a jetpack rescues people and brings them to the landing platform, the Dropzone. Enemies drop androids and attack at high speed. A cloaking shield gives brief invulnerability, and smart bombs clear the screen. The very fast, smooth game was Archer Maclean's breakthrough.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: Archer Maclean · no music, sound effects only"
+  },
+  "images": {
+    "ss": "images/db/db4514336312c902c9f593fbf443a81c74d3977e.png",
+    "sstitle": "images/c0/c09aba7f162757b9a011b383b22d7b763134af30.png"
+  }
+}

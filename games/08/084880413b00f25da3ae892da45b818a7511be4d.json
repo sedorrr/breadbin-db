@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "084880413b00f25da3ae892da45b818a7511be4d",
+  "md5": "75c6f8d7279a0ff1507d5345c741221b",
+  "crc32": "e88ebb7a",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Mutants.crt"
+  ],
+  "screenscraper_id": "36678",
+  "title": "Mutants",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Denton Designs",
+  "genres": [
+    "Shoot'em Up",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler soll in 15 Zonen eines Forschungskomplexes gefährliche Mutantenkulturen vernichten. Jede Zone hat eigene Gegner mit eigenem Verhalten, die erst durchschaut werden müssen. Aus den Zonen werden zudem Teile einer Selbstzerstörungsanlage gesammelt. Die Mischung aus Ballerspiel und Planung sowie die abstrakte Grafik hoben es von üblichen Shoot-'em-Ups ab.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nMusik: Fred Gray",
+  "texts": {
+    "de": "Der Spieler soll in 15 Zonen eines Forschungskomplexes gefährliche Mutantenkulturen vernichten. Jede Zone hat eigene Gegner mit eigenem Verhalten, die erst durchschaut werden müssen. Aus den Zonen werden zudem Teile einer Selbstzerstörungsanlage gesammelt. Die Mischung aus Ballerspiel und Planung sowie die abstrakte Grafik hoben es von üblichen Shoot-'em-Ups ab.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nMusik: Fred Gray",
+    "en": "The player is to destroy dangerous mutant cultures in 15 zones of a research complex. Each zone has its own enemies with their own behaviour, which first have to be figured out. Parts of a self-destruct mechanism are also collected from the zones. The mix of shoot'em up and planning and the abstract graphics set it apart from ordinary shoot'em ups.\n\nReleased on tape and disk; there is also a OneLoad64 cartridge conversion. Controlled with the joystick.\n\nMusic: Fred Gray"
+  }
+}

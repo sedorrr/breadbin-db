@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "28942483e026c32028344d0c96f37e7f97401135",
+  "md5": "48ace4d8ed1d4ffa8e5095197c92b1ca",
+  "crc32": "e962062a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "NEBULUS.D64"
+  ],
+  "screenscraper_id": "36117",
+  "title": "Nebulus",
+  "year": "1987",
+  "publisher": "Hewson",
+  "developer": "John M. Phillips",
+  "genres": [
+    "Plattform",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Der kleine Pogo soll acht Türme sprengen, die aus dem Meer ragen. Er läuft auf Simsen um den Turm herum, der sich dabei als rotierender Zylinder dreht – ein für 1987 verblüffender Effekt. Aufzüge, Tunnel, zerbröckelnde Stufen und abprallende Bälle stehen dem Aufstieg im Weg, während eine Zeitgrenze drängt. Zwischen den Türmen fängt Pogo in einem U-Boot Fische für Bonuspunkte.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: John M. Phillips · Musik: John M. Phillips",
+  "texts": {
+    "de": "Der kleine Pogo soll acht Türme sprengen, die aus dem Meer ragen. Er läuft auf Simsen um den Turm herum, der sich dabei als rotierender Zylinder dreht – ein für 1987 verblüffender Effekt. Aufzüge, Tunnel, zerbröckelnde Stufen und abprallende Bälle stehen dem Aufstieg im Weg, während eine Zeitgrenze drängt. Zwischen den Türmen fängt Pogo in einem U-Boot Fische für Bonuspunkte.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: John M. Phillips · Musik: John M. Phillips",
+    "en": "Little Pogo is to blow up eight towers rising out of the sea. He walks round the tower on ledges while it turns as a rotating cylinder – an astonishing effect for 1987. Lifts, tunnels, crumbling steps and bouncing balls stand in the way of the ascent while a time limit presses. Between the towers Pogo catches fish in a submarine for bonus points.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: John M. Phillips · Music: John M. Phillips"
+  },
+  "images": {
+    "ss": "images/03/03e8563609c828a312275a34e24c5c62cf7256fd.png",
+    "sstitle": "images/c9/c92ccba0b42dc5c8f779a2ddfca7e3fdb6174cca.png"
+  }
+}

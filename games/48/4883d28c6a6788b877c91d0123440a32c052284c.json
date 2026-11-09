@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "4883d28c6a6788b877c91d0123440a32c052284c",
+  "md5": "fffedcad7e7655af4222bea3efc94dba",
+  "crc32": "f7c5b109",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Total Eclipse.crt"
+  ],
+  "screenscraper_id": "36769",
+  "title": "Total Eclipse",
+  "year": "1988",
+  "publisher": "Incentive Software",
+  "developer": "Incentive Software",
+  "genres": [
+    "Action / Abenteuer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Drittes Freescape-Spiel: Im Jahr 1930 soll ein Archäologe in Ägypten einen Fluch brechen, bevor eine Sonnenfinsternis den Mond zerstört. Er durchsucht eine große Pyramide, findet Schätze und Schlüssel, löst Rätsel und muss dabei auf Wasser, Gesundheit und die ablaufende Uhr achten. Statt Kampf steht das Erkunden der Räume aus der Ich-Sicht im Vordergrund.\n\nErschien auf Diskette und Kassette, in den USA bei Spotlight Software. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nMusik: Wally Beben",
+  "texts": {
+    "de": "Drittes Freescape-Spiel: Im Jahr 1930 soll ein Archäologe in Ägypten einen Fluch brechen, bevor eine Sonnenfinsternis den Mond zerstört. Er durchsucht eine große Pyramide, findet Schätze und Schlüssel, löst Rätsel und muss dabei auf Wasser, Gesundheit und die ablaufende Uhr achten. Statt Kampf steht das Erkunden der Räume aus der Ich-Sicht im Vordergrund.\n\nErschien auf Diskette und Kassette, in den USA bei Spotlight Software. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nMusik: Wally Beben",
+    "en": "Third Freescape game: in 1930 an archaeologist in Egypt has to break a curse before a solar eclipse destroys the moon. He searches a large pyramid, finds treasures and keys, solves puzzles and has to keep an eye on water, health and the ticking clock. Instead of combat, the focus is on exploring the rooms from a first-person view.\n\nReleased on disk and cassette, in the USA by Spotlight Software. Controlled with joystick and keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no further loading.\n\nMusic: Wally Beben"
+  }
+}

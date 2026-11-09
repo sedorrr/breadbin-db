@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "080bec90c3538efc78d59174ed9b004d86ca8025",
+  "md5": "308566c5e663992fd5e8fa228d8eac3a",
+  "crc32": "aab8257f",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Alleykat (J1).crt"
+  ],
+  "screenscraper_id": "109586",
+  "title": "Alleykat",
+  "year": "1986",
+  "publisher": "Hewson",
+  "developer": "Andrew Braybrook (Graftgold)",
+  "genres": [
+    "Rennen",
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "In einem futuristischen Wettbewerb lenkt der Spieler einen schwebenden Renngleiter über senkrecht scrollende Strecken voller Gebäude und Hindernisse. Je nach Rennart geht es darum, möglichst schnell ins Ziel zu kommen oder unterwegs möglichst viele Gegner abzuschießen. Über Hindernisse wird hinweggesprungen, und zwischen den Rennen wählt der Spieler die nächsten Wettbewerbe aus einem Kalender. Die Mischung aus Rennspiel und Ballerspiel war für Graftgold typisch eigenwillig.\n\nEin reines C64-Spiel, erschienen bei Hewson auf Kassette und Diskette. Gesteuert wird per Joystick, bei den Modulfassungen in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Andrew Braybrook · Musik: Steve Turner",
+  "texts": {
+    "de": "In einem futuristischen Wettbewerb lenkt der Spieler einen schwebenden Renngleiter über senkrecht scrollende Strecken voller Gebäude und Hindernisse. Je nach Rennart geht es darum, möglichst schnell ins Ziel zu kommen oder unterwegs möglichst viele Gegner abzuschießen. Über Hindernisse wird hinweggesprungen, und zwischen den Rennen wählt der Spieler die nächsten Wettbewerbe aus einem Kalender. Die Mischung aus Rennspiel und Ballerspiel war für Graftgold typisch eigenwillig.\n\nEin reines C64-Spiel, erschienen bei Hewson auf Kassette und Diskette. Gesteuert wird per Joystick, bei den Modulfassungen in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Andrew Braybrook · Musik: Steve Turner",
+    "en": "In a futuristic competition, the player steers a hovering racing glider along vertically scrolling courses full of buildings and obstacles. Depending on the type of race, the aim is to reach the finish as quickly as possible or to shoot down as many opponents as possible along the way. Obstacles are jumped over, and between races the player chooses the next events from a calendar. The mix of racing game and shoot 'em up was typically idiosyncratic for Graftgold.\n\nA C64-only game, released by Hewson on cassette and disk. Controlled with a joystick, in port 1 for the cartridge versions. Besides the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without loading.\n\nCode: Andrew Braybrook · Music: Steve Turner"
+  }
+}

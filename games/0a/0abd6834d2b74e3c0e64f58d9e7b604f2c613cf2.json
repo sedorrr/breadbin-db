@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0abd6834d2b74e3c0e64f58d9e7b604f2c613cf2",
+  "md5": "4b942619848532195e7e5ad05ad52962",
+  "crc32": "c0c26ea3",
+  "size": 489458,
+  "format": "TAP",
+  "files": [
+    "Ghostbusters (Activision) [no1541].tap"
+  ],
+  "screenscraper_id": "35950",
+  "title": "Ghostbusters",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Activision (David Crane)",
+  "genres": [
+    "Action",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum Film: Man gründet eine Geisterjäger-Firma, kauft Wagen und Ausrüstung und fährt durch die Stadt zu Spukmeldungen. Geister werden mit zwei Strahlen in eine Falle gelenkt, wobei sich die Strahlen nicht kreuzen dürfen; zwischendurch droht der Marshmallow-Mann. Ziel ist, mehr Geld als das Startkapital zu verdienen, bevor die Energie in der Stadt zu hoch steigt, und dann den Tempel von Zuul zu erreichen. Bekannt wurde das Spiel auch durch die Sprachausgabe und die Titelmelodie.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David Crane, Adam Bellin · Grafik: David Crane, Hilary Mills · Musik: Russell Lieblich",
+  "texts": {
+    "de": "Spiel zum Film: Man gründet eine Geisterjäger-Firma, kauft Wagen und Ausrüstung und fährt durch die Stadt zu Spukmeldungen. Geister werden mit zwei Strahlen in eine Falle gelenkt, wobei sich die Strahlen nicht kreuzen dürfen; zwischendurch droht der Marshmallow-Mann. Ziel ist, mehr Geld als das Startkapital zu verdienen, bevor die Energie in der Stadt zu hoch steigt, und dann den Tempel von Zuul zu erreichen. Bekannt wurde das Spiel auch durch die Sprachausgabe und die Titelmelodie.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David Crane, Adam Bellin · Grafik: David Crane, Hilary Mills · Musik: Russell Lieblich",
+    "en": "Game of the film: the player founds a ghost-hunting company, buys a car and equipment and drives through the city to reports of hauntings. Ghosts are steered into a trap with two beams, which must not cross; in between, the Marshmallow Man is a threat. The aim is to earn more money than the starting capital before the city's energy level rises too high, and then to reach the Temple of Zuul. The game also became known for its speech output and theme tune.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: David Crane, Adam Bellin · Graphics: David Crane, Hilary Mills · Music: Russell Lieblich"
+  },
+  "images": {
+    "sstitle": "images/72/7257184d7236536262e32a85223397e236f5f767.png"
+  }
+}

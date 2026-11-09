@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "5eeaf5d77414dcb2f0f5ab7373e542122f44ce8a",
+  "md5": "3c16196cffc80a0bb1896b652dc3c69a",
+  "crc32": "501d7650",
+  "size": 164224,
+  "format": "CRT",
+  "files": [
+    "Rodland (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36470",
+  "title": "Rodland",
+  "year": "1991",
+  "publisher": "Storm",
+  "developer": "Steve Snake",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Jaleco-Automaten: Die Feen Tam und Rit wollen ihre Mutter aus einem Turm befreien. Mit Zauberstäben packen sie Gegner und schleudern sie hin und her, bis sie besiegt sind; mit Regenbogenleitern bauen sie sich eigene Wege zwischen den Plattformen. Wer alle Blumen eines Bildes einsammelt, erhält Bonusbuchstaben. Zu zweit wird gleichzeitig gespielt.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Steve Snake · Musik: Martin Walker",
+  "texts": {
+    "de": "Umsetzung des Jaleco-Automaten: Die Feen Tam und Rit wollen ihre Mutter aus einem Turm befreien. Mit Zauberstäben packen sie Gegner und schleudern sie hin und her, bis sie besiegt sind; mit Regenbogenleitern bauen sie sich eigene Wege zwischen den Plattformen. Wer alle Blumen eines Bildes einsammelt, erhält Bonusbuchstaben. Zu zweit wird gleichzeitig gespielt.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Steve Snake · Musik: Martin Walker",
+    "en": "Conversion of the Jaleco arcade machine: the fairies Tam and Rit want to free their mother from a tower. With magic rods they grab enemies and fling them back and forth until they are defeated; with rainbow ladders they build their own paths between the platforms. Collecting all the flowers on a screen earns bonus letters. Two players play simultaneously.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the multi-load parts of the original come from the cartridge instead of from disk.\n\nCode: Steve Snake · Music: Martin Walker"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "64011b5de8ebe229d6e79f8ca547b87c061f740d",
+  "md5": "1b12a49261efe74b5d4276149a28d599",
+  "crc32": "bcb1ec7c",
+  "size": 15034,
+  "format": "T64",
+  "files": [
+    "ALTEREGO.T64"
+  ],
+  "screenscraper_id": "36012",
+  "title": "Alter Ego (RetroSouls)",
+  "publisher": "RetroSouls",
+  "developer": "Denis Grachev (Original)",
+  "genres": [
+    "Puzzle",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Geschicklichkeits- und Denkspiel: Der Held hat einen Doppelgänger, sein Alter Ego, der jede Bewegung gespiegelt mitmacht – je nach Level waagerecht oder senkrecht. Ziel ist, in jedem der 26 Level alle verstreuten Kapseln einzusammeln und dabei Totenköpfen und Fallen auszuweichen. Wie oft man zwischen Held und Alter Ego wechseln darf, ist je Level begrenzt; darin liegt der Kniff der meisten Rätsel.\n\nUrsprünglich ein Spiel von RetroSouls (Denis Grachev) für den ZX Spectrum; die C64-Fassung liegt hier als T64-Datei mit Vorspann von Hackersoft vor. Steuerung: Joystick in Port 2.\n\nHinweis: Nicht zu verwechseln mit der gleichnamigen Lebenssimulation von Activision (1986).",
+  "texts": {
+    "de": "Geschicklichkeits- und Denkspiel: Der Held hat einen Doppelgänger, sein Alter Ego, der jede Bewegung gespiegelt mitmacht – je nach Level waagerecht oder senkrecht. Ziel ist, in jedem der 26 Level alle verstreuten Kapseln einzusammeln und dabei Totenköpfen und Fallen auszuweichen. Wie oft man zwischen Held und Alter Ego wechseln darf, ist je Level begrenzt; darin liegt der Kniff der meisten Rätsel.\n\nUrsprünglich ein Spiel von RetroSouls (Denis Grachev) für den ZX Spectrum; die C64-Fassung liegt hier als T64-Datei mit Vorspann von Hackersoft vor. Steuerung: Joystick in Port 2.\n\nHinweis: Nicht zu verwechseln mit der gleichnamigen Lebenssimulation von Activision (1986).",
+    "en": "Skill and puzzle game: the hero has a double, his alter ego, who mirrors every movement – horizontally or vertically depending on the level. The goal in each of the 26 levels is to collect all the scattered capsules while avoiding skulls and traps. How often the player may switch between the hero and the alter ego is limited per level; that is the trick behind most of the puzzles.\n\nOriginally a game by RetroSouls (Denis Grachev) for the ZX Spectrum; the C64 version is provided here as a T64 file with an intro by Hackersoft. Controls: joystick in port 2.\n\nNote: not to be confused with the life simulation of the same name by Activision (1986)."
+  }
+}

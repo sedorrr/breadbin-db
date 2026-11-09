@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "09dc773d1cd86c447aef839a3c1b39d00c4ba1c3",
+  "md5": "f37f751ab3ab4222e022c696bf47fee5",
+  "crc32": "650c13a6",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Cauldron.crt"
+  ],
+  "screenscraper_id": "36116",
+  "title": "Cauldron",
+  "year": "1985",
+  "publisher": "Palace Software",
+  "developer": "Palace Software",
+  "genres": [
+    "Plattform",
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Eine Hexe will den Kürbiskönig besiegen und braucht dafür einen Zaubertrank aus sechs Zutaten. Über der Erde fliegt sie auf dem Besen durch eine seitlich scrollende Landschaft und wehrt Gegner mit Zauberschüssen ab, in Höhlen und Gewölben wird daraus ein Plattformspiel über viele Bildschirme. Ihre Zauberkraft nimmt mit der Zeit und bei Treffern ab. Die Verbindung zweier Spielarten und die düstere Halloween-Stimmung machten Cauldron bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Stanley Schembri, Richard Leinfellner · Grafik: Steve Brown · Musik: Keith Miller",
+  "texts": {
+    "de": "Eine Hexe will den Kürbiskönig besiegen und braucht dafür einen Zaubertrank aus sechs Zutaten. Über der Erde fliegt sie auf dem Besen durch eine seitlich scrollende Landschaft und wehrt Gegner mit Zauberschüssen ab, in Höhlen und Gewölben wird daraus ein Plattformspiel über viele Bildschirme. Ihre Zauberkraft nimmt mit der Zeit und bei Treffern ab. Die Verbindung zweier Spielarten und die düstere Halloween-Stimmung machten Cauldron bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Stanley Schembri, Richard Leinfellner · Grafik: Steve Brown · Musik: Keith Miller",
+    "en": "A witch wants to defeat the Pumpkin King and needs a magic potion made from six ingredients to do so. Above ground she flies on her broomstick through a side-scrolling landscape, fending off enemies with magic shots; in caves and vaults this becomes a platform game spanning many screens. Her magic power decreases over time and when she is hit. The combination of two game styles and the dark Halloween atmosphere made Cauldron well known.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: Stanley Schembri, Richard Leinfellner · Graphics: Steve Brown · Music: Keith Miller"
+  },
+  "images": {
+    "ss": "images/7e/7e274dff9567490580bde955d6d14c0205fd9568.png",
+    "sstitle": "images/13/1363f71ba6bafc52d09009e8a43b011e63313655.png"
+  }
+}

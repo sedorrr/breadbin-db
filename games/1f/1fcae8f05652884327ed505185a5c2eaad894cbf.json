@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "1fcae8f05652884327ed505185a5c2eaad894cbf",
+  "md5": "9b6abd4fc3d29b67d1fdefddaad74f12",
+  "crc32": "1a551dc1",
+  "size": 79288,
+  "format": "T64",
+  "files": [
+    "BRUCELEE.T64"
+  ],
+  "screenscraper_id": "36061",
+  "title": "Bruce Lee",
+  "year": "1984",
+  "publisher": "Datasoft",
+  "developer": "Datasoft (Ron J. Fortier)",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Bruce Lee dringt in die Festung eines bösen Zauberers ein und muss in 20 Kammern Laternen einsammeln, um Durchgänge zu öffnen. Ihm stellen sich ein Ninja mit Stock und der grüne Riese Yamo entgegen, die er mit Tritten und Schlägen niederstreckt. Im Zweispielermodus kann der zweite Spieler Yamo selbst steuern. Die flüssigen Bewegungen und die Mischung aus Klettern und Kampf machten das Spiel zu einem frühen C64-Klassiker.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Ron J. Fortier · Grafik: Kelly Day · Musik: John A. Fitzpatrick",
+  "texts": {
+    "de": "Bruce Lee dringt in die Festung eines bösen Zauberers ein und muss in 20 Kammern Laternen einsammeln, um Durchgänge zu öffnen. Ihm stellen sich ein Ninja mit Stock und der grüne Riese Yamo entgegen, die er mit Tritten und Schlägen niederstreckt. Im Zweispielermodus kann der zweite Spieler Yamo selbst steuern. Die flüssigen Bewegungen und die Mischung aus Klettern und Kampf machten das Spiel zu einem frühen C64-Klassiker.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Ron J. Fortier · Grafik: Kelly Day · Musik: John A. Fitzpatrick",
+    "en": "Bruce Lee breaks into the fortress of an evil wizard and has to collect lanterns in 20 chambers to open passages. He is opposed by a stick-wielding ninja and the green giant Yamo, whom he knocks down with kicks and punches. In two-player mode the second player can control Yamo. The fluid movement and the mix of climbing and fighting made the game an early C64 classic.\n\nThis file contains the game as a tape archive (T64); there are several versions (original, conversions, cracks).\n\nCode: Ron J. Fortier · Graphics: Kelly Day · Music: John A. Fitzpatrick"
+  },
+  "images": {
+    "ss": "images/3e/3e8bf77937080f85af7ef42bdfacf78b77754763.png",
+    "sstitle": "images/5e/5ef433d448e353061a063257fbbf29173c97d193.png"
+  }
+}

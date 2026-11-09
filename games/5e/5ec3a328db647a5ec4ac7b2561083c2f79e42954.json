@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "5ec3a328db647a5ec4ac7b2561083c2f79e42954",
+  "md5": "285f054b1bf97f4d0f6c923f0005c2d8",
+  "crc32": "9692e5ba",
+  "size": 666804,
+  "format": "G64",
+  "files": [
+    "F15STRIK.G64"
+  ],
+  "screenscraper_id": "35999",
+  "title": "F-15 Strike Eagle",
+  "year": "1985",
+  "publisher": "MicroProse",
+  "developer": "Sid Meier",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Kampfflugsimulation, in der der Spieler mit einer F-15 Einsätze über Krisengebieten wie Libyen, dem Persischen Golf oder Vietnam fliegt. Er muss Primär- und Sekundärziele zerstören, Luftabwehrraketen und Jäger ausmanövrieren und mit genug Treibstoff zurückkehren. Die Einsätze werden mit höherem Schwierigkeitsgrad länger und gefährlicher. Das Spiel war einer der großen frühen Erfolge von MicroProse und begründete eine lange Reihe.\n\nDie Erstfassung erschien 1984 für Atari-8-Bit-Rechner, die C64-Fassung danach auf Diskette und Kassette, auch als „International Edition“. Gesteuert wird per Joystick und Tastatur.\n\nDesign: Sid Meier · Code (C64): Grant Irani",
+  "texts": {
+    "de": "Kampfflugsimulation, in der der Spieler mit einer F-15 Einsätze über Krisengebieten wie Libyen, dem Persischen Golf oder Vietnam fliegt. Er muss Primär- und Sekundärziele zerstören, Luftabwehrraketen und Jäger ausmanövrieren und mit genug Treibstoff zurückkehren. Die Einsätze werden mit höherem Schwierigkeitsgrad länger und gefährlicher. Das Spiel war einer der großen frühen Erfolge von MicroProse und begründete eine lange Reihe.\n\nDie Erstfassung erschien 1984 für Atari-8-Bit-Rechner, die C64-Fassung danach auf Diskette und Kassette, auch als „International Edition“. Gesteuert wird per Joystick und Tastatur.\n\nDesign: Sid Meier · Code (C64): Grant Irani",
+    "en": "Combat flight simulation in which the player flies an F-15 on missions over crisis regions such as Libya, the Persian Gulf or Vietnam. Primary and secondary targets have to be destroyed, surface-to-air missiles and fighters outmanoeuvred, and the base reached again with enough fuel. The missions get longer and more dangerous at higher difficulty levels. The game was one of MicroProse's great early successes and founded a long series.\n\nThe first version was released in 1984 for Atari 8-bit computers, the C64 version afterwards on disk and cassette, also as the \"International Edition\". Controlled with joystick and keyboard.\n\nDesign: Sid Meier · Code (C64): Grant Irani"
+  }
+}

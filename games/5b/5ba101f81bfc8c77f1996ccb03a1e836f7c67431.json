@@ -17,5 +17,13 @@
     "Rennen"
   ],
   "players": "1",
-  "synopsis": "Formel-1-Rennsimulation aus der Cockpitsicht in 3D: Drei verschiedene Rennwagen, acht Strecken und Felder aus zehn Fahrzeugen, deren neun Gegner eigenständig fahren. Man wählt zwischen Trainingsfahrt, Einzelrennen und Weltmeisterschaft sowie fünf Schwierigkeitsstufen; für jede Strecke wird eine Rundenrekordliste gespeichert.\n\nZwei Fassungen: Drive (PAL/NTSC-angepasste Einzeldatei; zu Beginn P für PAL oder N für NTSC wählen, lange Ladezeit) und Nostalgia #208 (mit Anleitung und PAL-Fix; läuft laut Infodatei auch auf 1570/1571, 1581, CMD-Laufwerken, IDE64 und mit REU). Joystick in Port 2, englisch.\n\nCode: Frank Barchard, Kevin Pickell · Musik: Kris Hatlelid"
+  "synopsis": "Formel-1-Rennsimulation aus der Cockpitsicht in 3D: Drei verschiedene Rennwagen, acht Strecken und Felder aus zehn Fahrzeugen, deren neun Gegner eigenständig fahren. Man wählt zwischen Trainingsfahrt, Einzelrennen und Weltmeisterschaft sowie fünf Schwierigkeitsstufen; für jede Strecke wird eine Rundenrekordliste gespeichert.\n\nZwei Fassungen: Drive (PAL/NTSC-angepasste Einzeldatei; zu Beginn P für PAL oder N für NTSC wählen, lange Ladezeit) und Nostalgia #208 (mit Anleitung und PAL-Fix; läuft laut Infodatei auch auf 1570/1571, 1581, CMD-Laufwerken, IDE64 und mit REU). Joystick in Port 2, englisch.\n\nCode: Frank Barchard, Kevin Pickell · Musik: Kris Hatlelid",
+  "texts": {
+    "de": "Formel-1-Rennsimulation aus der Cockpitsicht in 3D: Drei verschiedene Rennwagen, acht Strecken und Felder aus zehn Fahrzeugen, deren neun Gegner eigenständig fahren. Man wählt zwischen Trainingsfahrt, Einzelrennen und Weltmeisterschaft sowie fünf Schwierigkeitsstufen; für jede Strecke wird eine Rundenrekordliste gespeichert.\n\nZwei Fassungen: Drive (PAL/NTSC-angepasste Einzeldatei; zu Beginn P für PAL oder N für NTSC wählen, lange Ladezeit) und Nostalgia #208 (mit Anleitung und PAL-Fix; läuft laut Infodatei auch auf 1570/1571, 1581, CMD-Laufwerken, IDE64 und mit REU). Joystick in Port 2, englisch.\n\nCode: Frank Barchard, Kevin Pickell · Musik: Kris Hatlelid",
+    "en": "Formula 1 racing simulation from the cockpit view in 3D: three different racing cars, eight tracks and fields of ten cars, whose nine opponents drive independently. The player chooses between practice, single race and world championship as well as five difficulty levels; a lap record table is saved for each track.\n\nTwo versions: Drive (PAL/NTSC-adapted single file; at the start choose P for PAL or N for NTSC, long loading time) and Nostalgia #208 (with instructions and PAL fix; according to the info file it also runs on 1570/1571, 1581, CMD drives, IDE64 and with a REU). Joystick in port 2, English.\n\nCode: Frank Barchard, Kevin Pickell · Music: Kris Hatlelid"
+  },
+  "images": {
+    "ss": "images/ba/bac00a137bc2aabea695c5c65fef367a3b671877.png",
+    "sstitle": "images/0f/0f19f2b38ebdeb071b41b5afe61ef0575cde4c12.png"
+  }
 }

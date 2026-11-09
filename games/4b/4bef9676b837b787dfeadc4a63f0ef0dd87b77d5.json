@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "4bef9676b837b787dfeadc4a63f0ef0dd87b77d5",
+  "md5": "8847b7a1ce944b0e2e47afe1326be210",
+  "crc32": "fe9abe92",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Lode Runner.crt"
+  ],
+  "screenscraper_id": "35922",
+  "title": "Lode Runner",
+  "year": "1983",
+  "publisher": "Brøderbund",
+  "developer": "Doug Smith (Design)",
+  "genres": [
+    "Plattform",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler sammelt in 150 Bildern aus Leitern, Seilen und Ziegelböden alle Goldstücke ein, während Wächter ihn verfolgen. Eine Waffe gibt es nicht; stattdessen gräbt er links oder rechts Löcher in den Boden, in die Wächter fallen und kurz festsitzen. Ist alles Gold eingesammelt, erscheint eine Leiter zum Ausgang. Ein eingebauter Editor erlaubte eigene Bilder – eine damals neue Idee, die viel zum Erfolg beitrug.\n\nDiese Datei ist das Abbild des originalen Steckmoduls (aus der OneLoad64-Sammlung, Ordner „OfficialCRTs“); sie startet sofort nach dem Einschalten.",
+  "texts": {
+    "de": "Der Spieler sammelt in 150 Bildern aus Leitern, Seilen und Ziegelböden alle Goldstücke ein, während Wächter ihn verfolgen. Eine Waffe gibt es nicht; stattdessen gräbt er links oder rechts Löcher in den Boden, in die Wächter fallen und kurz festsitzen. Ist alles Gold eingesammelt, erscheint eine Leiter zum Ausgang. Ein eingebauter Editor erlaubte eigene Bilder – eine damals neue Idee, die viel zum Erfolg beitrug.\n\nDiese Datei ist das Abbild des originalen Steckmoduls (aus der OneLoad64-Sammlung, Ordner „OfficialCRTs“); sie startet sofort nach dem Einschalten.",
+    "en": "Across 150 screens made of ladders, ropes and brick floors, the player collects all the gold while guards chase him. There is no weapon; instead he digs holes in the floor to the left or right, into which guards fall and are briefly trapped. Once all the gold has been collected, a ladder to the exit appears. A built-in editor allowed players to create their own screens – a new idea at the time that contributed greatly to its success.\n\nThis file is the image of the original cartridge (from the OneLoad64 collection, folder \"OfficialCRTs\"); it starts immediately after switching on."
+  },
+  "images": {
+    "ss": "images/96/961fe8dec1af99234b1d4b136d6da1b6fff312fb.png",
+    "sstitle": "images/16/166d57a76cbbb2e75484f6dfca281818d2c56f72.png"
+  }
+}

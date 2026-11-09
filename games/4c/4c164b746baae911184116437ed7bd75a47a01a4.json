@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "4c164b746baae911184116437ed7bd75a47a01a4",
+  "md5": "8744394e55c56ea463dde82bcdc6e654",
+  "crc32": "cb504542",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ZYNAPS.D64"
+  ],
+  "screenscraper_id": "109445",
+  "title": "Zynaps",
+  "year": "1987",
+  "publisher": "Hewson",
+  "developer": "Dominic Robinson, John Cumming",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein waagerecht scrollendes Ballerspiel: Der Spieler flieht mit einem Raumjäger aus einer feindlichen Raumstation und kämpft sich danach durch Asteroidenfelder und Planetenoberflächen. Abgeschossene Gegner hinterlassen Treibstoffkapseln; wer sie bei gedrücktem Feuerknopf aufnimmt, wählt damit Verbesserungen wie schnellere Bewegung, stärkere Laser, Plasmabomben oder Suchraketen. Dieses Auswahlsystem und die dichten Gegnerwellen machten Zynaps zu einem der besseren Genrevertreter seiner Zeit.\n\nErschienen für ZX Spectrum, Amstrad CPC, C64 und weitere Rechner, auf dem C64 bei Hewson auf Kassette und Diskette. Gesteuert wird per Joystick (Port 1 oder 2); zwei Spieler spielen abwechselnd. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode (C64): John Cumming · Musik (C64): Nigel Grieve",
+  "texts": {
+    "de": "Ein waagerecht scrollendes Ballerspiel: Der Spieler flieht mit einem Raumjäger aus einer feindlichen Raumstation und kämpft sich danach durch Asteroidenfelder und Planetenoberflächen. Abgeschossene Gegner hinterlassen Treibstoffkapseln; wer sie bei gedrücktem Feuerknopf aufnimmt, wählt damit Verbesserungen wie schnellere Bewegung, stärkere Laser, Plasmabomben oder Suchraketen. Dieses Auswahlsystem und die dichten Gegnerwellen machten Zynaps zu einem der besseren Genrevertreter seiner Zeit.\n\nErschienen für ZX Spectrum, Amstrad CPC, C64 und weitere Rechner, auf dem C64 bei Hewson auf Kassette und Diskette. Gesteuert wird per Joystick (Port 1 oder 2); zwei Spieler spielen abwechselnd. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode (C64): John Cumming · Musik (C64): Nigel Grieve",
+    "en": "A horizontally scrolling shoot'em up: the player escapes from an enemy space station in a space fighter and then fights through asteroid fields and planetary surfaces. Destroyed enemies leave behind fuel pods; collecting them with the fire button held down selects upgrades such as faster movement, stronger lasers, plasma bombs or homing missiles. This selection system and the dense enemy waves made Zynaps one of the better examples of the genre in its day.\n\nReleased for the ZX Spectrum, Amstrad CPC, C64 and other computers, on the C64 by Hewson on tape and disk. Controlled by joystick (port 1 or 2); two players take turns. Alongside the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nCode (C64): John Cumming · Music (C64): Nigel Grieve"
+  }
+}

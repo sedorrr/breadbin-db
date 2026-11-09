@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "49be4a7f9955af1774bb289e22a1112ebfb58ec3",
+  "md5": "e9c722bd2c90491cdd83b019d67e1591",
+  "crc32": "74e26390",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Crazy Comets.crt"
+  ],
+  "screenscraper_id": "111310",
+  "title": "Crazy Comets",
+  "year": "1985",
+  "publisher": "Martech",
+  "developer": "Simon Nicol",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Weltraum-Ballerspiel, in dem farbige, wirbelnde Kometen auf das Raumschiff des Spielers zukommen und abgeschossen werden müssen. Nach mehreren Wellen erscheinen größere Gegner. Das schnelle Spielprinzip ist einfach gehalten; bekannt wurde das Spiel vor allem durch die Titelmusik von Rob Hubbard, die zu seinen beliebtesten Stücken zählt.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Simon Nicol · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Weltraum-Ballerspiel, in dem farbige, wirbelnde Kometen auf das Raumschiff des Spielers zukommen und abgeschossen werden müssen. Nach mehreren Wellen erscheinen größere Gegner. Das schnelle Spielprinzip ist einfach gehalten; bekannt wurde das Spiel vor allem durch die Titelmusik von Rob Hubbard, die zu seinen beliebtesten Stücken zählt.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Simon Nicol · Musik: Rob Hubbard",
+    "en": "Space shoot 'em up in which coloured, swirling comets head towards the player's spaceship and must be shot down. After several waves, larger enemies appear. The fast gameplay principle is kept simple; the game became known above all for Rob Hubbard's title music, which is among his most popular pieces.\n\nReleased on cassette and disk; there is also a OneLoad64 cartridge conversion. Controlled with a joystick; two players take turns.\n\nCode and graphics: Simon Nicol · Music: Rob Hubbard"
+  }
+}

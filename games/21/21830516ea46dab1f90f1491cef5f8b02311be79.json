@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "21830516ea46dab1f90f1491cef5f8b02311be79",
+  "md5": "e5b6365ed9b462a19637c93a58183d75",
+  "crc32": "f54c239a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SOLOFLI3.D64"
+  ],
+  "screenscraper_id": "113356",
+  "title": "Solo Flight",
+  "year": "1984",
+  "publisher": "MicroProse",
+  "developer": "Sid Meier, Grant Irani",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Eine der ersten Flugsimulationen von MicroProse: Der Spieler fliegt eine einmotorige Sportmaschine über verschiedene Landschaften der USA, startet, navigiert per Funkfeuer und landet. Neben freiem Fliegen gibt es einen Postflug-Modus, in dem Säcke unter Zeitdruck zu anderen Flughäfen gebracht werden, auch bei schlechtem Wetter oder mit Instrumentenausfall. Die Außensicht von hinten auf das Flugzeug machte die Steuerung zugänglicher als bei vielen Konkurrenten.\n\nErschien auf Diskette und Kassette, später auch als überarbeitete Fassung. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nDesign: Sid Meier · Code und Grafik: Grant Irani",
+  "texts": {
+    "de": "Eine der ersten Flugsimulationen von MicroProse: Der Spieler fliegt eine einmotorige Sportmaschine über verschiedene Landschaften der USA, startet, navigiert per Funkfeuer und landet. Neben freiem Fliegen gibt es einen Postflug-Modus, in dem Säcke unter Zeitdruck zu anderen Flughäfen gebracht werden, auch bei schlechtem Wetter oder mit Instrumentenausfall. Die Außensicht von hinten auf das Flugzeug machte die Steuerung zugänglicher als bei vielen Konkurrenten.\n\nErschien auf Diskette und Kassette, später auch als überarbeitete Fassung. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nDesign: Sid Meier · Code und Grafik: Grant Irani",
+    "en": "One of MicroProse's first flight simulations: the player flies a single-engine light aircraft over various US landscapes, takes off, navigates by radio beacon and lands. Besides free flight there is a mail-run mode in which sacks have to be delivered to other airports under time pressure, also in bad weather or with instrument failures. The external view of the aircraft from behind made the controls more accessible than in many competitors.\n\nReleased on disk and tape, later also as a revised version. Controlled by joystick and keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge, which needs no further loading.\n\nDesign: Sid Meier · Code and graphics: Grant Irani"
+  }
+}

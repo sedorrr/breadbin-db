@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "30d0ff79f3280b05f3ccc8a938473800a0d78ac4",
+  "md5": "5d3f11963e02cb08562888ab91000bce",
+  "crc32": "b2632580",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Hyper Sports.crt"
+  ],
+  "screenscraper_id": "36674",
+  "title": "Hyper Sports",
+  "year": "1985",
+  "publisher": "Imagine",
+  "developer": "David A. Collier",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1",
+  "synopsis": "Nachfolger von Track & Field auf Grundlage des Konami-Automaten: Sechs Disziplinen – Freistilschwimmen, Tontaubenschießen, Pferdsprung, Bogenschießen, Dreisprung und Gewichtheben – werden nacheinander bestritten. Wie beim Vorbild entscheiden schnelles Rütteln am Joystick und Feuerdruck im richtigen Moment. Wer die Qualifikationsmarke einer Disziplin verfehlt, verliert ein Leben. Die Titelmusik von Martin Galway greift das Thema aus „Die Stunde des Siegers“ auf.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: David A. Collier · Musik: Martin Galway",
+  "texts": {
+    "de": "Nachfolger von Track & Field auf Grundlage des Konami-Automaten: Sechs Disziplinen – Freistilschwimmen, Tontaubenschießen, Pferdsprung, Bogenschießen, Dreisprung und Gewichtheben – werden nacheinander bestritten. Wie beim Vorbild entscheiden schnelles Rütteln am Joystick und Feuerdruck im richtigen Moment. Wer die Qualifikationsmarke einer Disziplin verfehlt, verliert ein Leben. Die Titelmusik von Martin Galway greift das Thema aus „Die Stunde des Siegers“ auf.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: David A. Collier · Musik: Martin Galway",
+    "en": "Successor to Track & Field based on the Konami arcade game: six events – freestyle swimming, clay pigeon shooting, vaulting, archery, triple jump and weightlifting – are contested one after the other. As in the original, rapid joystick waggling and pressing fire at the right moment are decisive. Failing to reach an event's qualifying mark costs a life. Martin Galway's title music takes up the theme from “Chariots of Fire”.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: David A. Collier · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/a2/a2987c8fe498273a8a1893998cdb1b3550dacba4.png",
+    "sstitle": "images/12/12fc61cfee918d3355b92e19958add19b019eb0e.png"
+  }
+}

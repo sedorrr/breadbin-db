@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "2c704f66a1a9e8ce2583a959a7f04c1f2f2679ad",
+  "md5": "4645c446bf81b572b28967078699e9e1",
+  "crc32": "f4fd8ec9",
+  "size": 431110,
+  "format": "TAP",
+  "files": [
+    "Thrust.tap"
+  ],
+  "screenscraper_id": "36761",
+  "title": "Thrust",
+  "year": "1986",
+  "publisher": "Firebird",
+  "developer": "Jeremy C. Smith",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Angelehnt an den Automaten Gravitar: Ein kleines Schiff muss in verwinkelten Höhlen eine Energiekugel an einem Seil aufnehmen und an die Oberfläche bringen. Schwerkraft, Trägheit und die schwingende Last machen die Steuerung schwer, Geschütze feuern auf das Schiff und der Treibstoff ist knapp. Die bewusst schlichte Grafik erinnert an Vektorgrafik. Das Billigspiel gilt wegen seiner Physik als Klassiker.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Jeremy C. Smith · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Angelehnt an den Automaten Gravitar: Ein kleines Schiff muss in verwinkelten Höhlen eine Energiekugel an einem Seil aufnehmen und an die Oberfläche bringen. Schwerkraft, Trägheit und die schwingende Last machen die Steuerung schwer, Geschütze feuern auf das Schiff und der Treibstoff ist knapp. Die bewusst schlichte Grafik erinnert an Vektorgrafik. Das Billigspiel gilt wegen seiner Physik als Klassiker.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Jeremy C. Smith · Musik: Rob Hubbard",
+    "en": "Inspired by the arcade machine Gravitar: a small ship has to pick up an energy pod on a tether in winding caves and carry it to the surface. Gravity, inertia and the swinging load make control difficult, gun emplacements fire at the ship and fuel is scarce. The deliberately simple graphics are reminiscent of vector graphics. The budget game is regarded as a classic because of its physics.\n\nThis file contains the game as a tape image (TAP); several versions exist (original, conversions, cracks).\n\nCode: Jeremy C. Smith · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/24/245ba0dc3f8b0e7c818fe848eb133035ed281672.png",
+    "sstitle": "images/99/99cea94020ce32d46a21817a16a86b92daf9da4b.png"
+  }
+}

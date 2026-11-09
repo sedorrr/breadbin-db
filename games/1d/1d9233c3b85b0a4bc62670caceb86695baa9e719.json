@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1d9233c3b85b0a4bc62670caceb86695baa9e719",
+  "md5": "d865dd8f23dce04c8caa43e8ceb81e0c",
+  "crc32": "d5ea0222",
+  "size": 556838,
+  "format": "TAP",
+  "files": [
+    "Exile (Version 1).tap"
+  ],
+  "screenscraper_id": "111978",
+  "title": "Exile",
+  "year": "1991",
+  "publisher": "Audiogenic",
+  "developer": "Peter Irvin, Jeremy Smith",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Mike Finn erkundet nach einer Bruchlandung mit einem Rucksacktriebwerk die Höhlen des Planeten Phoebus. Das Spiel beruht auf einer für die Zeit ungewöhnlich genauen Physik: Schwerkraft, Trägheit, Wind, Wasser und Explosionen wirken auf alle Gegenstände und Lebewesen. Viele Rätsel lassen sich auf mehreren Wegen lösen, und Gegenstände können getragen, geworfen oder als Werkzeug genutzt werden. Ursprünglich 1988 für BBC Micro und Acorn Electron erschienen, gilt es als eines der ehrgeizigsten Spiele der 8-Bit-Zeit.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Peter Irvin, Jeremy Smith · Grafik: Paul Docherty",
+  "texts": {
+    "de": "Mike Finn erkundet nach einer Bruchlandung mit einem Rucksacktriebwerk die Höhlen des Planeten Phoebus. Das Spiel beruht auf einer für die Zeit ungewöhnlich genauen Physik: Schwerkraft, Trägheit, Wind, Wasser und Explosionen wirken auf alle Gegenstände und Lebewesen. Viele Rätsel lassen sich auf mehreren Wegen lösen, und Gegenstände können getragen, geworfen oder als Werkzeug genutzt werden. Ursprünglich 1988 für BBC Micro und Acorn Electron erschienen, gilt es als eines der ehrgeizigsten Spiele der 8-Bit-Zeit.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Peter Irvin, Jeremy Smith · Grafik: Paul Docherty",
+    "en": "After a crash landing, Mike Finn explores the caves of the planet Phoebus with a jetpack. The game is based on physics of a precision unusual for the time: gravity, inertia, wind, water and explosions act on all objects and creatures. Many puzzles can be solved in several ways, and items can be carried, thrown or used as tools. Originally released in 1988 for the BBC Micro and Acorn Electron, it is regarded as one of the most ambitious games of the 8-bit era.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: Peter Irvin, Jeremy Smith · Graphics: Paul Docherty"
+  },
+  "images": {
+    "ss": "images/89/89fc321d6c2e0e07881ab1a59929b194de45599d.png",
+    "sstitle": "images/21/21932c33b453ac8e76b2d4100ce16c64db214cbc.png"
+  }
+}

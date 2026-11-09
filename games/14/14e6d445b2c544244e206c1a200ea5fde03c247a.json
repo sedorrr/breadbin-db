@@ -18,6 +18,10 @@
   ],
   "players": "1-2",
   "synopsis": "Weihnachtliches SEUCK-Spiel: Als Weihnachtsmann und Elf verkleidet ziehen zwei Helfer durch das neblige Dorf Mezzani am Po und verteilen Süßigkeiten an möglichst viele Kinder, während sie Hindernissen ausweichen. Ziel ist der Dorfplatz, auf dem sonst die Krippenausstellung stattfindet. Ursprünglich für diese Ausstellung gedacht, die dann ausfiel.\n\nBeitrag zur C64 SEUCK Compo 2025 (13. Platz), mit Sideways SEUCK (links nach rechts) erstellt. Spieler 1 ist der Weihnachtsmann, Spieler 2 der Elf.\n\nSpiel: Recycled Music · Musik: Richard/TND.",
+  "texts": {
+    "de": "Weihnachtliches SEUCK-Spiel: Als Weihnachtsmann und Elf verkleidet ziehen zwei Helfer durch das neblige Dorf Mezzani am Po und verteilen Süßigkeiten an möglichst viele Kinder, während sie Hindernissen ausweichen. Ziel ist der Dorfplatz, auf dem sonst die Krippenausstellung stattfindet. Ursprünglich für diese Ausstellung gedacht, die dann ausfiel.\n\nBeitrag zur C64 SEUCK Compo 2025 (13. Platz), mit Sideways SEUCK (links nach rechts) erstellt. Spieler 1 ist der Weihnachtsmann, Spieler 2 der Elf.\n\nSpiel: Recycled Music · Musik: Richard/TND.",
+    "en": "Christmas SEUCK game: dressed as Father Christmas and an elf, two helpers make their way through the foggy village of Mezzani on the Po and hand out sweets to as many children as possible while avoiding obstacles. The goal is the village square where the nativity scene exhibition is normally held. Originally intended for this exhibition, which was then cancelled.\n\nEntry for the C64 SEUCK Compo 2025 (13th place), created with Sideways SEUCK (left to right). Player 1 is Father Christmas, player 2 the elf.\n\nGame: Recycled Music · Music: Richard/TND."
+  },
   "images": {
     "ss": "images/0c/0cb54b62f98ee478ee95394202460665a4927a56.png"
   }

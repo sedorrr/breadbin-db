@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "02863c944d95b4724cc0e741b9d2ae1d02d75e7d",
+  "md5": "4e7ea083f29c84dcb798a75b2ce7a71d",
+  "crc32": "4d1c1ac9",
+  "size": 525376,
+  "format": "CRT",
+  "files": [
+    "Myth - History in the Making.crt"
+  ],
+  "screenscraper_id": "115423",
+  "title": "Myth: History in the Making",
+  "year": "1989",
+  "publisher": "System 3",
+  "developer": "System 3",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein Jugendlicher wird durch die Zeit geschickt und muss in Welten aus griechischer, nordischer und ägyptischer Sage sowie einer Zukunftswelt gegen Dämonen, Skelette und Götterwesen antreten. Neben Kämpfen mit Schwert und Feuerbällen gilt es, Gegenstände an der richtigen Stelle einzusetzen, um weiterzukommen. Große, detailreiche Grafiken und die Musik von Jeroen Tel machten das Spiel zu einem der technisch eindrucksvollsten C64-Titel seiner Zeit.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Peter Baron · Grafik: Bob Stevenson · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Ein Jugendlicher wird durch die Zeit geschickt und muss in Welten aus griechischer, nordischer und ägyptischer Sage sowie einer Zukunftswelt gegen Dämonen, Skelette und Götterwesen antreten. Neben Kämpfen mit Schwert und Feuerbällen gilt es, Gegenstände an der richtigen Stelle einzusetzen, um weiterzukommen. Große, detailreiche Grafiken und die Musik von Jeroen Tel machten das Spiel zu einem der technisch eindrucksvollsten C64-Titel seiner Zeit.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Peter Baron · Grafik: Bob Stevenson · Musik: Jeroen Tel",
+    "en": "A teenager is sent through time and has to face demons, skeletons and divine beings in worlds drawn from Greek, Norse and Egyptian legend as well as a future world. Besides fighting with sword and fireballs, objects have to be used in the right place to progress. Large, detailed graphics and Jeroen Tel's music made the game one of the most technically impressive C64 titles of its time.\n\nThis file contains the game as a cartridge (CRT); several versions exist (original, conversions, cracks).\n\nCode: Peter Baron · Graphics: Bob Stevenson · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/40/40ac4e3089eb5b040978e6ec5fad8bda4fb51087.png",
+    "sstitle": "images/92/92f3240d784bf67a99b3a6ef58ace1d62dd38d8a.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "323c17f6f9fb5eb976688ee8f53e7666b63d10a9",
+  "md5": "f021f56eb225f5dbd39a623606b31be6",
+  "crc32": "d52de178",
+  "size": 725538,
+  "format": "TAP",
+  "files": [
+    "Wizball (Ocean).tap"
+  ],
+  "screenscraper_id": "35970",
+  "title": "Wizball",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Sensible Software",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein ungewöhnlicher Shoot'em Up: Der Zauberer Wiz soll seiner grau gewordenen Welt die Farben zurückgeben. In seiner hüpfenden Kugel muss er erst lernen, sie zu steuern, dann mit Hilfe der Katze Catellite Farbtropfen sammeln, die in einem Kessel zu den Farben der Landschaft gemischt werden. Extras werden über ein Auswahlsystem gekauft. Eigenwillige Spielidee, Humor und die Musik von Martin Galway machten Wizball zu einem der bekanntesten C64-Spiele.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Chris Yates · Grafik: Jon Hare · Musik: Martin Galway",
+  "texts": {
+    "de": "Ein ungewöhnlicher Shoot'em Up: Der Zauberer Wiz soll seiner grau gewordenen Welt die Farben zurückgeben. In seiner hüpfenden Kugel muss er erst lernen, sie zu steuern, dann mit Hilfe der Katze Catellite Farbtropfen sammeln, die in einem Kessel zu den Farben der Landschaft gemischt werden. Extras werden über ein Auswahlsystem gekauft. Eigenwillige Spielidee, Humor und die Musik von Martin Galway machten Wizball zu einem der bekanntesten C64-Spiele.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Chris Yates · Grafik: Jon Hare · Musik: Martin Galway",
+    "en": "An unusual shoot'em up: the wizard Wiz has to restore the colours to his world, which has turned grey. In his bouncing ball he first has to learn how to steer it, then, with the help of the cat Catellite, collect droplets of colour that are mixed in a cauldron into the colours of the landscape. Power-ups are bought via a selection system. The idiosyncratic game idea, humour and Martin Galway's music made Wizball one of the best-known C64 games.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: Chris Yates · Graphics: Jon Hare · Music: Martin Galway"
+  },
+  "images": {
+    "sstitle": "images/a9/a9c19529f47d69d1f2db5848c4249e8e6168f373.png"
+  }
+}

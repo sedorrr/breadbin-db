@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Pachinko-artiges Punktespiel: Kugeln fallen durch ein Feld aus Stiften, zerstörte Stifte werden kurz zu Sternen und lösen Kettenreaktionen aus. Zwischen den Runden wählt man Verbesserungen, die Kugeln verdoppeln oder Werte und Bonusmultiplikatoren erhöhen. Drei Spielarten: endlos, Bestenliste mit begrenzter Zeit oder Kugelzahl sowie ein Modus mit über 100 Erfolgen, die Bonuskugeln bringen. Das Spiel kann auch unbeaufsichtigt laufen.\n\nAls D64 und PRG. Für PAL entwickelt, auf NTSC getestet. Feuerknopf oder Leertaste lässt eine Kugel fallen, links/rechts ändert die Richtung des Zuführers, Verbesserungen mit den Cursortasten.\n\nCode: drmortalwombat · Musik: Crisps",
+  "texts": {
+    "de": "Pachinko-artiges Punktespiel: Kugeln fallen durch ein Feld aus Stiften, zerstörte Stifte werden kurz zu Sternen und lösen Kettenreaktionen aus. Zwischen den Runden wählt man Verbesserungen, die Kugeln verdoppeln oder Werte und Bonusmultiplikatoren erhöhen. Drei Spielarten: endlos, Bestenliste mit begrenzter Zeit oder Kugelzahl sowie ein Modus mit über 100 Erfolgen, die Bonuskugeln bringen. Das Spiel kann auch unbeaufsichtigt laufen.\n\nAls D64 und PRG. Für PAL entwickelt, auf NTSC getestet. Feuerknopf oder Leertaste lässt eine Kugel fallen, links/rechts ändert die Richtung des Zuführers, Verbesserungen mit den Cursortasten.\n\nCode: drmortalwombat · Musik: Crisps",
+    "en": "Pachinko-style score game: balls fall through a field of pins; destroyed pins briefly turn into stars and set off chain reactions. Between rounds you choose upgrades that double the balls or raise values and bonus multipliers. Three modes: endless, a high-score mode with limited time or number of balls, and a mode with over 100 achievements that award bonus balls. The game can also run unattended.\n\nAs D64 and PRG. Developed for PAL, tested on NTSC. The fire button or space bar drops a ball, left/right changes the direction of the feeder, upgrades with the cursor keys.\n\nCode: drmortalwombat · Music: Crisps"
+  },
   "images": {
     "ss": "images/94/946daae85942c4b659956be9d9c20f1daca958a9.png"
   }

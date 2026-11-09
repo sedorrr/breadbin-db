@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "0394269861738eaea1c3f0622e56cf65e6a50163",
+  "md5": "1a914898dbd6dde3ab07b9d82ff0fc34",
+  "crc32": "4a7be256",
+  "size": 328384,
+  "format": "CRT",
+  "files": [
+    "Marble Madness (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35923",
+  "title": "Marble Madness",
+  "year": "1986",
+  "publisher": "Electronic Arts",
+  "developer": "Will Harvey (Umsetzung); Original: Atari Games",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Eine Murmel muss gegen die Uhr über schräge, isometrisch dargestellte Bahnen ins Ziel gerollt werden. Schmale Grate, Abgründe, Rampen und Gegner wie schwarze Stahlkugeln und murmelfressende Wesen erschweren den Weg. Die verbleibende Zeit wird in die nächste Bahn mitgenommen, sodass jeder Fehler nachwirkt. Das Automatenspiel von Atari Games aus dem Jahr 1984 war für seine ungewöhnliche Perspektive und Physik bekannt.\n\nDie C64-Umsetzung des Automaten schrieb Will Harvey; sie erschien bei Electronic Arts auf Diskette, in Europa auch über Ariolasoft. Gesteuert wird per Joystick in Port 2. Es gibt mehrere Fassungen (Original und Cracks).\n\nCode (C64): Will Harvey",
+  "texts": {
+    "de": "Eine Murmel muss gegen die Uhr über schräge, isometrisch dargestellte Bahnen ins Ziel gerollt werden. Schmale Grate, Abgründe, Rampen und Gegner wie schwarze Stahlkugeln und murmelfressende Wesen erschweren den Weg. Die verbleibende Zeit wird in die nächste Bahn mitgenommen, sodass jeder Fehler nachwirkt. Das Automatenspiel von Atari Games aus dem Jahr 1984 war für seine ungewöhnliche Perspektive und Physik bekannt.\n\nDie C64-Umsetzung des Automaten schrieb Will Harvey; sie erschien bei Electronic Arts auf Diskette, in Europa auch über Ariolasoft. Gesteuert wird per Joystick in Port 2. Es gibt mehrere Fassungen (Original und Cracks).\n\nCode (C64): Will Harvey",
+    "en": "A marble has to be rolled against the clock along sloping, isometrically depicted courses to the finish. Narrow ridges, chasms, ramps and enemies such as black steel balls and marble-eating creatures make the way harder. The remaining time is carried over to the next course, so every mistake has lasting consequences. The 1984 arcade game from Atari Games was known for its unusual perspective and physics.\n\nThe C64 conversion of the arcade machine was written by Will Harvey; it was released by Electronic Arts on disk, and in Europe also via Ariolasoft. It is controlled by joystick in port 2. There are several versions (original and cracks).\n\nCode (C64): Will Harvey"
+  }
+}

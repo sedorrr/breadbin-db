@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "47115bc1948b0573b4dd67d4a5f4fced8cd58286",
+  "md5": "8803a55c2016b36622d542f837bba6fb",
+  "crc32": "0adb13d2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "KENNEDY.D64"
+  ],
+  "screenscraper_id": "114049",
+  "title": "Kennedy Approach",
+  "year": "1985",
+  "publisher": "MicroProse",
+  "developer": "Andy Hollis",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Eine Fluglotsen-Simulation: Der Spieler leitet als Lotse den Verkehr an großen amerikanischen Flughäfen und erteilt Anflug-, Abflug- und Höhenanweisungen, ohne dass Maschinen sich zu nahe kommen oder der Treibstoff ausgeht. Mit steigendem Rang nimmt der Verkehr zu, und wechselnde Wetterlagen erschweren die Arbeit. Besonders war die Sprachausgabe, mit der Piloten und Lotse ihre Funksprüche aussprechen.\n\nErschien auf Diskette. Gesteuert wird per Joystick. Die Sprachausgabe stammt von Electronic Speech Systems.\n\nCode und Grafik: Andy Hollis",
+  "texts": {
+    "de": "Eine Fluglotsen-Simulation: Der Spieler leitet als Lotse den Verkehr an großen amerikanischen Flughäfen und erteilt Anflug-, Abflug- und Höhenanweisungen, ohne dass Maschinen sich zu nahe kommen oder der Treibstoff ausgeht. Mit steigendem Rang nimmt der Verkehr zu, und wechselnde Wetterlagen erschweren die Arbeit. Besonders war die Sprachausgabe, mit der Piloten und Lotse ihre Funksprüche aussprechen.\n\nErschien auf Diskette. Gesteuert wird per Joystick. Die Sprachausgabe stammt von Electronic Speech Systems.\n\nCode und Grafik: Andy Hollis",
+    "en": "An air traffic control simulation: as a controller, the player directs traffic at major American airports and issues approach, departure and altitude instructions without aircraft getting too close to each other or running out of fuel. As the player rises in rank, traffic increases, and changing weather makes the work harder. A special feature was the speech output, with which pilots and controller speak their radio messages.\n\nReleased on disk. Controlled via joystick. The speech output is by Electronic Speech Systems.\n\nCode and graphics: Andy Hollis"
+  }
+}

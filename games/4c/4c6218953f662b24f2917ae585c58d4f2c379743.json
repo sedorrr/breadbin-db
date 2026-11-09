@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Schlichtes Motorradrennen im Arcade-Stil: Von der Stadt aus fährt man gegen die Uhr zu einem von fünf Zielen. An den Kontrollpunkten entscheidet ein Schwenk nach links oder rechts, welche Strecke man nimmt. Drei Schwierigkeitsstufen bestimmen, wie dicht der Gegenverkehr kommt; auf Mittel und Schwer gibt es einen Zielbonus.\n\nEine einzelne PRG-Datei, läuft auf jedem C64. Für PAL gebaut, läuft auch auf NTSC (dort etwas schneller). Nur mit Joystick spielbar. Erschien auch auf der Heftdiskette der ZZAP! 64 Nr. 29 (Dezember 2025).\n\nSpiel: AJ Layden.",
+  "texts": {
+    "de": "Schlichtes Motorradrennen im Arcade-Stil: Von der Stadt aus fährt man gegen die Uhr zu einem von fünf Zielen. An den Kontrollpunkten entscheidet ein Schwenk nach links oder rechts, welche Strecke man nimmt. Drei Schwierigkeitsstufen bestimmen, wie dicht der Gegenverkehr kommt; auf Mittel und Schwer gibt es einen Zielbonus.\n\nEine einzelne PRG-Datei, läuft auf jedem C64. Für PAL gebaut, läuft auch auf NTSC (dort etwas schneller). Nur mit Joystick spielbar. Erschien auch auf der Heftdiskette der ZZAP! 64 Nr. 29 (Dezember 2025).\n\nSpiel: AJ Layden.",
+    "en": "Simple arcade-style motorbike race: starting from the city, you ride against the clock to one of five destinations. At the checkpoints, a swerve to the left or right decides which route you take. Three difficulty levels determine how dense the oncoming traffic is; on Medium and Hard there is a finishing bonus.\n\nA single PRG file that runs on any C64. Built for PAL, also runs on NTSC (slightly faster there). Playable with a joystick only. Also appeared on the covermount disk of ZZAP! 64 issue 29 (December 2025).\n\nGame: AJ Layden."
+  },
   "images": {
     "sstitle": "images/61/61a37c7d920263e9bce7d9fc7acce2ac7f6fbd62.png"
   }

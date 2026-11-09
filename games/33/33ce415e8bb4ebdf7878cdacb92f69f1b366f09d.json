@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "33ce415e8bb4ebdf7878cdacb92f69f1b366f09d",
+  "md5": "9c9dff7aa9f948aab00d6e18dddebe97",
+  "crc32": "76beb728",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BARBAR2B.D64"
+  ],
+  "screenscraper_id": "36527",
+  "title": "Barbarian II: The Dungeon of Drax",
+  "year": "1988",
+  "publisher": "Palace Software",
+  "developer": "Palace Software",
+  "genres": [
+    "Beat'em Up",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Barbarian: Der Barbar oder die Prinzessin Mariana zieht in das Reich des Zauberers Drax, um ihn endgültig zu besiegen. Anders als im Vorgänger kämpft der Spieler allein gegen Monster, durch Wildnis, Höhlen und Verliese in umschaltenden Bildschirmen, und sucht dabei magische Gegenstände. Die Kämpfe sind brutal, mit abgeschlagenen Köpfen. In Nordamerika hieß das Spiel „Axe of Rage“.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick. Daneben gibt es eine MultiLoad64-Umsetzung als EasyFlash-Modul von $olo1870.\n\nDesign: Steve Brown · Code: Rob Stevens · Grafik: Jo Walker, Steve Brown, Lorne Campbell · Musik: Richard Joseph",
+  "texts": {
+    "de": "Fortsetzung von Barbarian: Der Barbar oder die Prinzessin Mariana zieht in das Reich des Zauberers Drax, um ihn endgültig zu besiegen. Anders als im Vorgänger kämpft der Spieler allein gegen Monster, durch Wildnis, Höhlen und Verliese in umschaltenden Bildschirmen, und sucht dabei magische Gegenstände. Die Kämpfe sind brutal, mit abgeschlagenen Köpfen. In Nordamerika hieß das Spiel „Axe of Rage“.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick. Daneben gibt es eine MultiLoad64-Umsetzung als EasyFlash-Modul von $olo1870.\n\nDesign: Steve Brown · Code: Rob Stevens · Grafik: Jo Walker, Steve Brown, Lorne Campbell · Musik: Richard Joseph",
+    "en": "Sequel to Barbarian: the barbarian or Princess Mariana ventures into the realm of the sorcerer Drax to defeat him once and for all. Unlike in the predecessor, the player fights alone against monsters, through wilderness, caves and dungeons on flip screens, searching for magical items along the way. The fights are brutal, with heads being chopped off. In North America the game was called \"Axe of Rage\".\n\nReleased on disk and cassette. Controlled with a joystick. There is also a MultiLoad64 conversion as an EasyFlash cartridge by $olo1870.\n\nDesign: Steve Brown · Code: Rob Stevens · Graphics: Jo Walker, Steve Brown, Lorne Campbell · Music: Richard Joseph"
+  }
+}

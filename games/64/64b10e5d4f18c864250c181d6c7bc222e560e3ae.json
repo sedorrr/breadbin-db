@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "64b10e5d4f18c864250c181d6c7bc222e560e3ae",
+  "md5": "f0e6f8f1e2dc138d4f28d4c4ede9263c",
+  "crc32": "b8d0b9ce",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "Batman The Movie.crt"
+  ],
+  "screenscraper_id": "35935",
+  "title": "Batman: The Movie",
+  "year": "1989",
+  "publisher": "Ocean",
+  "developer": "Ocean Software",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum Batman-Film von 1989 in fünf unterschiedlichen Abschnitten: Batman schwingt sich mit dem Seil durch die Chemiefabrik, verfolgt im Batmobil Gegner, löst ein Kombinationsrätsel um die vergifteten Produkte des Jokers, fliegt mit dem Batwing und stellt den Joker schließlich in der Kathedrale. Der Wechsel der Spielarten und die gelungene Technik machten es zu einem der erfolgreichsten Lizenzspiele von Ocean.\n\nDiese Datei ist eine Modulfassung im Ocean-Format (Typ 1); sie startet direkt vom Modul ohne Nachladen.\n\nCode: Zach Townsend · Grafik: Andrew Sleigh · Musik: Matthew Cannon",
+  "texts": {
+    "de": "Spiel zum Batman-Film von 1989 in fünf unterschiedlichen Abschnitten: Batman schwingt sich mit dem Seil durch die Chemiefabrik, verfolgt im Batmobil Gegner, löst ein Kombinationsrätsel um die vergifteten Produkte des Jokers, fliegt mit dem Batwing und stellt den Joker schließlich in der Kathedrale. Der Wechsel der Spielarten und die gelungene Technik machten es zu einem der erfolgreichsten Lizenzspiele von Ocean.\n\nDiese Datei ist eine Modulfassung im Ocean-Format (Typ 1); sie startet direkt vom Modul ohne Nachladen.\n\nCode: Zach Townsend · Grafik: Andrew Sleigh · Musik: Matthew Cannon",
+    "en": "Game of the 1989 Batman film in five different sections: Batman swings on his rope through the chemical factory, chases enemies in the Batmobile, solves a combination puzzle about the Joker's poisoned products, flies the Batwing and finally confronts the Joker in the cathedral. The variety of game styles and the accomplished technology made it one of Ocean's most successful licensed games.\n\nThis file is a cartridge version in Ocean format (type 1); it starts directly from the cartridge without further loading.\n\nCode: Zach Townsend · Graphics: Andrew Sleigh · Music: Matthew Cannon"
+  },
+  "images": {
+    "ss": "images/d9/d9d0ad49348066436053995ccd427c9bee6919bf.png",
+    "sstitle": "images/f5/f516ba2497a1f7227e8f7133f3303327626881e3.png"
+  }
+}

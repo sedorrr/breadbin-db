@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "146ea62e8cfbf9cd5d894d92bc3999b5836655fb",
+  "md5": "deda11fd76e3d57fd532e1b25b399eac",
+  "crc32": "6a0588e0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "RETROGR1.D64"
+  ],
+  "screenscraper_id": "114713",
+  "title": "Retrograde",
+  "year": "1989",
+  "publisher": "Thalamus",
+  "developer": "Apex Computer Productions, Transmission Software",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Ein Söldner im Raumanzug fliegt über die Oberflächen mehrerer Planeten und zerstört die Anlagen eines feindlichen Imperiums. Das Spielfeld scrollt in beide Richtungen; Gegnerwellen, Bodenstellungen und am Ende jedes Planeten ein großer Wächter stellen sich in den Weg. Mit erbeuteten Geldern kauft der Spieler in Läden neue Waffen und Ausrüstung. Retrograde gilt als einer der technisch aufwendigsten späten Thalamus-Shooter.\n\nErschien auf Diskette (zwei Diskettenseiten) und Kassette. Gesteuert wird per Joystick. Daneben gibt es eine MultiLoad64-Umsetzung als EasyFlash-Modul von $olo1870.\n\nCode: John Rowlands, Rob Ellis · Grafik und Musik: Steve Rowlands",
+  "texts": {
+    "de": "Ein Söldner im Raumanzug fliegt über die Oberflächen mehrerer Planeten und zerstört die Anlagen eines feindlichen Imperiums. Das Spielfeld scrollt in beide Richtungen; Gegnerwellen, Bodenstellungen und am Ende jedes Planeten ein großer Wächter stellen sich in den Weg. Mit erbeuteten Geldern kauft der Spieler in Läden neue Waffen und Ausrüstung. Retrograde gilt als einer der technisch aufwendigsten späten Thalamus-Shooter.\n\nErschien auf Diskette (zwei Diskettenseiten) und Kassette. Gesteuert wird per Joystick. Daneben gibt es eine MultiLoad64-Umsetzung als EasyFlash-Modul von $olo1870.\n\nCode: John Rowlands, Rob Ellis · Grafik und Musik: Steve Rowlands",
+    "en": "A mercenary in a spacesuit flies over the surfaces of several planets and destroys the installations of a hostile empire. The playfield scrolls in both directions; waves of enemies, ground emplacements and a large guardian at the end of each planet stand in the way. With captured money the player buys new weapons and equipment in shops. Retrograde is regarded as one of the most technically elaborate late Thalamus shooters.\n\nReleased on disk (two disk sides) and cassette. Controlled with a joystick. There is also a MultiLoad64 conversion as an EasyFlash cartridge by $olo1870.\n\nCode: John Rowlands, Rob Ellis · Graphics and music: Steve Rowlands"
+  }
+}

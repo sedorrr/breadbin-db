@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3a43181a08ebe1678af48bcd2683672f9794dc55",
+  "md5": "7fdc27a830946de7bc367d09cdc1ef73",
+  "crc32": "16fea393",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ARMALYTE.D64"
+  ],
+  "screenscraper_id": "109679",
+  "title": "Armalyte",
+  "year": "1988",
+  "publisher": "Thalamus",
+  "developer": "Cyberdyne Systems",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein horizontal scrollender Shoot'em Up, oft als inoffizieller Nachfolger von Delta bezeichnet. Allein wird das eigene Schiff von einer unzerstörbaren Drohne begleitet, die die Schüsse mitfeuert; im Zweispielermodus tritt an ihre Stelle ein zweites, vom Mitspieler gesteuertes Schiff. Waffen werden durch Einsammeln von Extras aufgerüstet, dazu kommt eine aufladbare Spezialwaffe. Große, detailreiche Gegner, hoher Schwierigkeitsgrad und saubere Technik machen Armalyte zu einem Höhepunkt des Genres auf dem C64.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Dan Phillips · Musik: Martin Walker",
+  "texts": {
+    "de": "Ein horizontal scrollender Shoot'em Up, oft als inoffizieller Nachfolger von Delta bezeichnet. Allein wird das eigene Schiff von einer unzerstörbaren Drohne begleitet, die die Schüsse mitfeuert; im Zweispielermodus tritt an ihre Stelle ein zweites, vom Mitspieler gesteuertes Schiff. Waffen werden durch Einsammeln von Extras aufgerüstet, dazu kommt eine aufladbare Spezialwaffe. Große, detailreiche Gegner, hoher Schwierigkeitsgrad und saubere Technik machen Armalyte zu einem Höhepunkt des Genres auf dem C64.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Dan Phillips · Musik: Martin Walker",
+    "en": "A horizontally scrolling shoot 'em up, often described as the unofficial successor to Delta. In single-player mode the player's ship is accompanied by an indestructible drone that fires along with it; in two-player mode it is replaced by a second ship controlled by the other player. Weapons are upgraded by collecting power-ups, and there is also a chargeable special weapon. Large, detailed enemies, a high difficulty level and clean technical execution make Armalyte a highlight of the genre on the C64.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: Dan Phillips · Music: Martin Walker"
+  },
+  "images": {
+    "ss": "images/06/0633bcaa4f617d3ad4fd6974f04d6ab53eb8bd4f.png",
+    "sstitle": "images/ac/ac8fd85a8ac696c5ec3db27b6a6d7ce532307cc1.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "13d85e08530ba1cb47b2dd5c6dcfd329c671e708",
+  "md5": "24c50ce858d69484cb7e2dbf736b37b2",
+  "crc32": "f1eef880",
+  "size": 498322,
+  "format": "TAP",
+  "files": [
+    "Mercenary - Escape from Targ.tap"
+  ],
+  "screenscraper_id": "115145",
+  "title": "Mercenary: Escape from Targ",
+  "year": "1985",
+  "publisher": "Novagen",
+  "developer": "Novagen (Paul Woakes)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Nach einer Bruchlandung auf dem Planeten Targ muss ein Söldner einen Weg finden, den Planeten wieder zu verlassen. Die Stadt und die unterirdischen Anlagen sind in schneller 3D-Vektorgrafik dargestellt und lassen sich zu Fuß oder mit Fahrzeugen frei erkunden. Zwei verfeindete Parteien bieten Aufträge an; wem man hilft, bleibt dem Spieler überlassen. Die offene Spielwelt und die flüssige 3D-Darstellung waren 1985 ungewöhnlich.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Paul Woakes",
+  "texts": {
+    "de": "Nach einer Bruchlandung auf dem Planeten Targ muss ein Söldner einen Weg finden, den Planeten wieder zu verlassen. Die Stadt und die unterirdischen Anlagen sind in schneller 3D-Vektorgrafik dargestellt und lassen sich zu Fuß oder mit Fahrzeugen frei erkunden. Zwei verfeindete Parteien bieten Aufträge an; wem man hilft, bleibt dem Spieler überlassen. Die offene Spielwelt und die flüssige 3D-Darstellung waren 1985 ungewöhnlich.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Paul Woakes",
+    "en": "After a crash landing on the planet Targ, a mercenary has to find a way to leave the planet again. The city and the underground complexes are shown in fast 3D vector graphics and can be freely explored on foot or with vehicles. Two hostile factions offer missions; whom to help is left to the player. The open game world and the smooth 3D display were unusual in 1985.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: Paul Woakes"
+  },
+  "images": {
+    "ss": "images/18/1842dd307a2fafac824c02854681ed1cd383734c.png",
+    "sstitle": "images/b4/b4c3adaa8df74b2a5e336881b7868ff6f968e02e.png"
+  }
+}

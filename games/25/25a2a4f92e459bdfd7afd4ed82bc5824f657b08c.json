@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "25a2a4f92e459bdfd7afd4ed82bc5824f657b08c",
+  "md5": "f0ae7dda349ca4870ba802e829b3fb82",
+  "crc32": "9bad54e1",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "The Train (by hellboy73).crt"
+  ],
+  "screenscraper_id": "36395",
+  "title": "The Train: Escape to Normandy",
+  "year": "1987",
+  "publisher": "Accolade",
+  "developer": "Artech (J. Stuart Easterbrook, Lise Mendoza)",
+  "genres": [
+    "Action",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "1944 übernehmen französische Widerstandskämpfer einen deutschen Zug voller Kunstschätze und wollen ihn zu den Alliierten in die Normandie bringen. Im Führerstand werden Kessel, Dampfdruck und Bremse bedient, vom Geschützstand aus wehrt man Flugzeuge, Boote und Brückenstellungen ab. An Bahnhöfen lassen sich Weichen stellen und Funksprüche absetzen. Die Mischung aus Lokomotivsimulation, Ballerei und Streckenplanung war ungewöhnlich.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von hellboy73 als Modul; die Nachladeteile kommen aus dem Modul statt von Diskette.\n\nMusik: Paul Butler",
+  "texts": {
+    "de": "1944 übernehmen französische Widerstandskämpfer einen deutschen Zug voller Kunstschätze und wollen ihn zu den Alliierten in die Normandie bringen. Im Führerstand werden Kessel, Dampfdruck und Bremse bedient, vom Geschützstand aus wehrt man Flugzeuge, Boote und Brückenstellungen ab. An Bahnhöfen lassen sich Weichen stellen und Funksprüche absetzen. Die Mischung aus Lokomotivsimulation, Ballerei und Streckenplanung war ungewöhnlich.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von hellboy73 als Modul; die Nachladeteile kommen aus dem Modul statt von Diskette.\n\nMusik: Paul Butler",
+    "en": "In 1944, French resistance fighters take over a German train full of art treasures and try to bring it to the Allies in Normandy. In the driver's cab the boiler, steam pressure and brake are operated, while from the gun position aircraft, boats and bridge positions are fended off. At stations, points can be switched and radio messages sent. The mix of locomotive simulation, shooting and route planning was unusual.\n\nThis version is a MultiLoad64 conversion by hellboy73 as a cartridge; the load parts come from the cartridge instead of from disk.\n\nMusic: Paul Butler"
+  },
+  "images": {
+    "ss": "images/a8/a80365a194fb96255cf2bedc0381251a36858d2b.png",
+    "sstitle": "images/a3/a37ab7f23851a9e5fed250d78692518ef564d24f.png"
+  }
+}

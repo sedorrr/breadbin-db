@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "4ed15306328d0399852671464c2cfd27fa48d6a1",
+  "md5": "86fea5dce8f32b71b42934e35606de99",
+  "crc32": "a3d25692",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SUPERHO2.D64"
+  ],
+  "screenscraper_id": "35957",
+  "title": "Super Hang-On",
+  "year": "1988",
+  "publisher": "Electric Dreams",
+  "developer": "Software Studios",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Auf einem Rennmotorrad fährt man Etappenrennen auf vier Kontinenten mit unterschiedlich vielen Abschnitten, jeweils gegen die Uhr. In Kurven muss man sich in die Schräglage legen und dabei anderen Fahrern und Hindernissen am Rand ausweichen. Ab einer bestimmten Geschwindigkeit lässt sich ein Turbo zuschalten. Segas Automat von 1987 ist der Nachfolger von Hang-On.\n\nElectric Dreams veröffentlichte die C64-Umsetzung von Software Studios auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2. Die Szene setzte das Spiel auch als EasyFlash-Modul um.\n\nCode: Paul Freeman, Darrell Etherington · Musik: Steve Barrett",
+  "texts": {
+    "de": "Auf einem Rennmotorrad fährt man Etappenrennen auf vier Kontinenten mit unterschiedlich vielen Abschnitten, jeweils gegen die Uhr. In Kurven muss man sich in die Schräglage legen und dabei anderen Fahrern und Hindernissen am Rand ausweichen. Ab einer bestimmten Geschwindigkeit lässt sich ein Turbo zuschalten. Segas Automat von 1987 ist der Nachfolger von Hang-On.\n\nElectric Dreams veröffentlichte die C64-Umsetzung von Software Studios auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2. Die Szene setzte das Spiel auch als EasyFlash-Modul um.\n\nCode: Paul Freeman, Darrell Etherington · Musik: Steve Barrett",
+    "en": "On a racing motorbike you ride stage races on four continents with differing numbers of sections, each against the clock. In bends you have to lean into the curve while avoiding other riders and obstacles at the roadside. Above a certain speed, a turbo can be engaged. Sega's 1987 arcade machine is the successor to Hang-On.\n\nElectric Dreams published Software Studios' C64 conversion on cassette and disk. Controlled with a joystick in port 2. The scene also converted the game to an EasyFlash cartridge.\n\nCode: Paul Freeman, Darrell Etherington · Music: Steve Barrett"
+  }
+}

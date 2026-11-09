@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "4bc4ad6a4b6b2a8f31ac5a756aedf69ae3a96de3",
+  "md5": "39c4f3452301447b79944d242044a441",
+  "crc32": "b5ee604f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "KRAKOUT.D64"
+  ],
+  "screenscraper_id": "36659",
+  "title": "Krakout",
+  "year": "1987",
+  "publisher": "Gremlin Graphics",
+  "developer": "Andy Green",
+  "genres": [
+    "Action / Breakout Spiele"
+  ],
+  "players": "1",
+  "synopsis": "Breakout-Variante mit gedrehtem Spielfeld: Der Schläger steht senkrecht am linken oder rechten Rand, der Ball fliegt waagerecht gegen die Steine. Sonderfelder bringen Klebeschläger, Mehrfachbälle, Bomben oder Extraleben, umherfliegende Gegner lenken den Ball ab oder verschlucken ihn. Vor dem Spiel lassen sich Seite, Geschwindigkeit und Musik einstellen. Die treibende Musik von Ben Daglish ist vielen besonders im Gedächtnis.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Andy Green · Grafik: Terry Lloyd · Musik: Ben Daglish",
+  "texts": {
+    "de": "Breakout-Variante mit gedrehtem Spielfeld: Der Schläger steht senkrecht am linken oder rechten Rand, der Ball fliegt waagerecht gegen die Steine. Sonderfelder bringen Klebeschläger, Mehrfachbälle, Bomben oder Extraleben, umherfliegende Gegner lenken den Ball ab oder verschlucken ihn. Vor dem Spiel lassen sich Seite, Geschwindigkeit und Musik einstellen. Die treibende Musik von Ben Daglish ist vielen besonders im Gedächtnis.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Andy Green · Grafik: Terry Lloyd · Musik: Ben Daglish",
+    "en": "Breakout variant with a rotated playfield: the bat stands vertically at the left or right edge, and the ball flies horizontally at the bricks. Special bricks give a sticky bat, multiple balls, bombs or extra lives; flying enemies deflect or swallow the ball. Before the game, side, speed and music can be set. Ben Daglish's driving music is particularly memorable for many.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: Andy Green · Graphics: Terry Lloyd · Music: Ben Daglish"
+  },
+  "images": {
+    "sstitle": "images/51/51989b436d4e03c0f5a455196f8de6a448527c8e.png"
+  }
+}

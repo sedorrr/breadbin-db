@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Roguelike im Stil der Achtzigerjahre-Klassiker wie Rogue: Auf einer bei jedem Spiel neu erzeugten Oberwelt und in zufällig erzeugten Verliesen sucht man die Bruchstücke einer zerbrochenen Krone, um eine drohende Gefahr abzuwenden. Gekämpft und erkundet wird rundenweise auf einem Raster.\n\nZwei Fassungen auf je einer D64: bcvi.d64 mit vi-Tasten (HJKL samt Diagonalen), bcwad.d64 mit WADX-Belegung samt Diagonalen bzw. Joystick. Daneben gibt es eine PRG- und eine Browser-Fassung; auf itch.io zum selbst gewählten Preis. Eine Fehlerkorrektur vom 24.05.2026 behebt ein seltenes Einfrieren beim Tod während bestimmter Kampfeffekte.\n\nCode: Nathan Degenhart",
+  "texts": {
+    "de": "Roguelike im Stil der Achtzigerjahre-Klassiker wie Rogue: Auf einer bei jedem Spiel neu erzeugten Oberwelt und in zufällig erzeugten Verliesen sucht man die Bruchstücke einer zerbrochenen Krone, um eine drohende Gefahr abzuwenden. Gekämpft und erkundet wird rundenweise auf einem Raster.\n\nZwei Fassungen auf je einer D64: bcvi.d64 mit vi-Tasten (HJKL samt Diagonalen), bcwad.d64 mit WADX-Belegung samt Diagonalen bzw. Joystick. Daneben gibt es eine PRG- und eine Browser-Fassung; auf itch.io zum selbst gewählten Preis. Eine Fehlerkorrektur vom 24.05.2026 behebt ein seltenes Einfrieren beim Tod während bestimmter Kampfeffekte.\n\nCode: Nathan Degenhart",
+    "en": "Roguelike in the style of 1980s classics such as Rogue: on an overworld generated anew for every game and in randomly generated dungeons, the player searches for the fragments of a broken crown to avert an impending threat. Combat and exploration are turn-based on a grid.\n\nTwo versions, each on its own D64: bcvi.d64 with vi keys (HJKL plus diagonals), bcwad.d64 with WADX layout plus diagonals or joystick. There is also a PRG and a browser version; pay-what-you-want on itch.io. A bug fix from 24.05.2026 resolves a rare freeze when dying during certain combat effects.\n\nCode: Nathan Degenhart"
+  },
   "images": {
     "ss": "images/79/79b7b3f0d412b17e0f1e2619d1a28b3c0a89ad69.png",
     "sstitle": "images/28/28499cca23585f6ad4aef21418680afa4f5392d3.png"

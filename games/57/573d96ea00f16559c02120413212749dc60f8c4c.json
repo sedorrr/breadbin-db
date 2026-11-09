@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Herbst 1893 in London: Ein Vampir hat Lucy Westenra entführt, und Van Helsing nimmt die Verfolgung auf. Jump-'n'-Run-Actionspiel über acht Level – laufen, springen, Leitern klettern und Gegner mit wechselnden Waffen bekämpfen.\n\nComplete Edition (Modul, auch als Disk-Umsetzung) mit Karte und Zwischensequenzen; Arcade Edition (Band, PRG, Disk) ohne beides, lädt in einem Stück. Steuerung mit Joystick in Port 2.\n\nCode: Ola Zandelin · Musik und Soundeffekte: Saul Cross · Grafik: Dennis Gustafsson · Modul und Disk-Fassung: Mike Robertson.",
+  "texts": {
+    "de": "Herbst 1893 in London: Ein Vampir hat Lucy Westenra entführt, und Van Helsing nimmt die Verfolgung auf. Jump-'n'-Run-Actionspiel über acht Level – laufen, springen, Leitern klettern und Gegner mit wechselnden Waffen bekämpfen.\n\nComplete Edition (Modul, auch als Disk-Umsetzung) mit Karte und Zwischensequenzen; Arcade Edition (Band, PRG, Disk) ohne beides, lädt in einem Stück. Steuerung mit Joystick in Port 2.\n\nCode: Ola Zandelin · Musik und Soundeffekte: Saul Cross · Grafik: Dennis Gustafsson · Modul und Disk-Fassung: Mike Robertson.",
+    "en": "Autumn 1893 in London: a vampire has abducted Lucy Westenra, and Van Helsing sets off in pursuit. A platform action game across eight levels – running, jumping, climbing ladders and fighting enemies with a range of weapons.\n\nComplete Edition (cartridge, also as a disk conversion) with map and cutscenes; Arcade Edition (tape, PRG, disk) without either, loads in one go. Controlled with a joystick in port 2.\n\nCode: Ola Zandelin · Music and sound effects: Saul Cross · Graphics: Dennis Gustafsson · Cartridge and disk version: Mike Robertson."
+  },
   "images": {
     "ss": "images/0c/0c7b4db642404f5404928f936b52f25864eb7b8d.png",
     "sstitle": "images/c4/c4c237c30a3932ed1d6b193dbc699cc78c728275.png"

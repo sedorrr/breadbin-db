@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "1b8f8d3f98170acc77c4f800114737cbcffa1067",
+  "md5": "6d0461af6864c92f2223ebb3bb8317bf",
+  "crc32": "cffbbb86",
+  "size": 607456,
+  "format": "CRT",
+  "files": [
+    "Pool of Radiance [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36299",
+  "title": "Pool of Radiance",
+  "year": "1988",
+  "publisher": "SSI",
+  "developer": "SSI (Keith Brors, Brad Myers)",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Das erste Rollenspiel der „Gold Box“-Reihe von SSI nach den offiziellen Regeln von Advanced Dungeons & Dragons. Eine Gruppe von bis zu sechs Abenteurern soll die von Ungeheuern besetzte Stadt Phlan in den Vergessenen Reichen zurückerobern. Erkundet wird in einer kleinen Ansicht aus der Ich-Perspektive, Kämpfe laufen rundenweise auf einer taktischen Karte ab. Die getreue Umsetzung des Regelwerks und die Verbindung aus Erkundung, Aufträgen und taktischem Kampf machten das Spiel zum Vorbild vieler späterer Rollenspiele.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul; das Original belegte acht Diskettenseiten, das Modul kommt ohne Diskettenwechsel aus.\n\nCode: Keith Brors, Brad Myers · Musik: David Warhol",
+  "texts": {
+    "de": "Das erste Rollenspiel der „Gold Box“-Reihe von SSI nach den offiziellen Regeln von Advanced Dungeons & Dragons. Eine Gruppe von bis zu sechs Abenteurern soll die von Ungeheuern besetzte Stadt Phlan in den Vergessenen Reichen zurückerobern. Erkundet wird in einer kleinen Ansicht aus der Ich-Perspektive, Kämpfe laufen rundenweise auf einer taktischen Karte ab. Die getreue Umsetzung des Regelwerks und die Verbindung aus Erkundung, Aufträgen und taktischem Kampf machten das Spiel zum Vorbild vieler späterer Rollenspiele.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul; das Original belegte acht Diskettenseiten, das Modul kommt ohne Diskettenwechsel aus.\n\nCode: Keith Brors, Brad Myers · Musik: David Warhol",
+    "en": "The first role-playing game in SSI's \"Gold Box\" series based on the official Advanced Dungeons & Dragons rules. A party of up to six adventurers has to reclaim the monster-occupied city of Phlan in the Forgotten Realms. Exploration takes place in a small first-person view, while combat is turn-based on a tactical map. The faithful implementation of the rule system and the combination of exploration, quests and tactical combat made the game a model for many later role-playing games.\n\nThis version is a conversion to an EasyFlash cartridge; the original took up eight disk sides, the cartridge needs no disk swapping.\n\nCode: Keith Brors, Brad Myers · Music: David Warhol"
+  },
+  "images": {
+    "sstitle": "images/07/0719a62a641ce4bf10eb1a55dc0049e7ee74c7b2.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "2c40aa8fe1e15a9030900c5bd0d14907f13d0491",
+  "md5": "dae59a430b3d7e55819ab3bcc0aafcf1",
+  "crc32": "53678711",
+  "size": 238096,
+  "format": "CRT",
+  "files": [
+    "Winter Games (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35942",
+  "title": "Winter Games",
+  "year": "1985",
+  "publisher": "Epyx",
+  "developer": "Epyx",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "Winter Games bietet sieben Wintersportarten: Hot Dog (Trickskispringen), Biathlon, Pflicht- und Kürlauf im Eiskunstlauf, Skispringen, Eisschnelllauf und Bob. Bis zu acht Spieler treten für Länder ihrer Wahl nacheinander an, in einzelnen Disziplinen auch zwei gleichzeitig. Jede Disziplin verlangt eine eigene Steuerung, vom rhythmischen Rütteln bis zum genauen Timing. Das Spiel gehört zu den bekanntesten Teilen der Epyx-Sportreihe.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile kommen aus dem Modul statt von Diskette.\n\nMusik: David Thiel",
+  "texts": {
+    "de": "Winter Games bietet sieben Wintersportarten: Hot Dog (Trickskispringen), Biathlon, Pflicht- und Kürlauf im Eiskunstlauf, Skispringen, Eisschnelllauf und Bob. Bis zu acht Spieler treten für Länder ihrer Wahl nacheinander an, in einzelnen Disziplinen auch zwei gleichzeitig. Jede Disziplin verlangt eine eigene Steuerung, vom rhythmischen Rütteln bis zum genauen Timing. Das Spiel gehört zu den bekanntesten Teilen der Epyx-Sportreihe.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile kommen aus dem Modul statt von Diskette.\n\nMusik: David Thiel",
+    "en": "Winter Games offers seven winter sports: hot dog (freestyle aerials), biathlon, compulsory and free figure skating, ski jumping, speed skating and bobsleigh. Up to eight players compete one after the other for countries of their choice, in some events also two at once. Each event requires its own controls, from rhythmic waggling to precise timing. The game is one of the best-known instalments of the Epyx sports series.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the parts loaded during play come from the cartridge instead of from disk.\n\nMusic: David Thiel"
+  },
+  "images": {
+    "ss": "images/0d/0d403ce7304dca2651ec3e0a2dc9a3e108fa2d36.png",
+    "sstitle": "images/82/82e3983d57f0f517bcc363a25c24d32ae266c2be.png"
+  }
+}

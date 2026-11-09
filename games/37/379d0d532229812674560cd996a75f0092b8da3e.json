@@ -18,5 +18,13 @@
     "Action"
   ],
   "players": "1",
-  "synopsis": "Fortsetzung von Turrican: Wieder kämpft man sich im Kampfanzug durch weitläufige, frei erkundbare Level mit vielen Geheimnissen und mächtigen Endgegnern. Die Waffen – Mehrfachschuss, Laser, Rückprallschuss, schwenkbarer Blitzstrahl und die Verwandlung in ein Rad – lassen sich durch Extras aufrüsten; zwischendurch gibt es Abschnitte, in denen man als Raumschiff fliegt.\n\nZwei Disketten (Kopf „ASS presents“), Startdatei mit Trainer („+“). Joystick in Port 2.\n\nDesign, Code, Grafik: Manfred Trenz"
+  "synopsis": "Fortsetzung von Turrican: Wieder kämpft man sich im Kampfanzug durch weitläufige, frei erkundbare Level mit vielen Geheimnissen und mächtigen Endgegnern. Die Waffen – Mehrfachschuss, Laser, Rückprallschuss, schwenkbarer Blitzstrahl und die Verwandlung in ein Rad – lassen sich durch Extras aufrüsten; zwischendurch gibt es Abschnitte, in denen man als Raumschiff fliegt.\n\nZwei Disketten (Kopf „ASS presents“), Startdatei mit Trainer („+“). Joystick in Port 2.\n\nDesign, Code, Grafik: Manfred Trenz",
+  "texts": {
+    "de": "Fortsetzung von Turrican: Wieder kämpft man sich im Kampfanzug durch weitläufige, frei erkundbare Level mit vielen Geheimnissen und mächtigen Endgegnern. Die Waffen – Mehrfachschuss, Laser, Rückprallschuss, schwenkbarer Blitzstrahl und die Verwandlung in ein Rad – lassen sich durch Extras aufrüsten; zwischendurch gibt es Abschnitte, in denen man als Raumschiff fliegt.\n\nZwei Disketten (Kopf „ASS presents“), Startdatei mit Trainer („+“). Joystick in Port 2.\n\nDesign, Code, Grafik: Manfred Trenz",
+    "en": "Sequel to Turrican: once again the player fights through extensive, freely explorable levels in a battle suit, with many secrets and powerful end bosses. The weapons – multiple shot, laser, rebound shot, swivelling lightning beam and transformation into a wheel – can be upgraded with power-ups; in between there are sections flown as a spaceship.\n\nTwo disks (header \"ASS presents\"), start file with trainer (\"+\"). Joystick in port 2.\n\nDesign, code, graphics: Manfred Trenz"
+  },
+  "images": {
+    "ss": "images/cc/cc1fddbc29fe455cafcd3ec93ca45c574bb5052f.png",
+    "sstitle": "images/ce/ce8a35c0819ec08eba551c16bcc3cb4b1b3467fd.png"
+  }
 }

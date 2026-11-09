@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "631f24d7449722042f713e50ba5a0e4ea5d93a8b",
+  "md5": "ba4c2796f4b7594c55a04c23fe05a0a1",
+  "crc32": "76a850db",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PROFIRE1.D64"
+  ],
+  "screenscraper_id": "116298",
+  "title": "Project Firestart",
+  "year": "1989",
+  "publisher": "Electronic Arts",
+  "developer": "Dynamix (Darek Lukaszuk, Paul Bowman, Rich Rayl)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Agent Jon Hawking soll klären, warum die Forschungsstation Prometheus im Saturnorbit verstummt ist. An Bord findet er eine verlassene Station, in der genetische Experimente außer Kontrolle geraten sind. Das Spiel setzt auf Erkundung, knappe Munition, Tagebucheinträge und filmartige Zwischenszenen und baut so eine bedrückende Stimmung auf. Es gilt als eines der frühesten Survival-Horror-Spiele und als technischer Höhepunkt auf dem C64.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Alan McKean",
+  "texts": {
+    "de": "Der Agent Jon Hawking soll klären, warum die Forschungsstation Prometheus im Saturnorbit verstummt ist. An Bord findet er eine verlassene Station, in der genetische Experimente außer Kontrolle geraten sind. Das Spiel setzt auf Erkundung, knappe Munition, Tagebucheinträge und filmartige Zwischenszenen und baut so eine bedrückende Stimmung auf. Es gilt als eines der frühesten Survival-Horror-Spiele und als technischer Höhepunkt auf dem C64.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Alan McKean",
+    "en": "Agent Jon Hawking is to find out why the research station Prometheus in orbit around Saturn has fallen silent. On board he finds an abandoned station where genetic experiments have got out of control. The game relies on exploration, scarce ammunition, diary entries and cinematic cutscenes, thereby building an oppressive atmosphere. It is regarded as one of the earliest survival horror games and as a technical high point on the C64.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nMusic: Alan McKean"
+  },
+  "images": {
+    "ss": "images/1e/1ea98e4394f498277b46508d587d7eb1b6e07107.png",
+    "sstitle": "images/3e/3ee6fb1d1eda1eb8c1b01fd2f3f6d617cf90af4f.png"
+  }
+}

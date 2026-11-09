@@ -18,6 +18,10 @@
   ],
   "players": "1-2",
   "synopsis": "Nachbau des Midway-Automaten Wizard of Wor von 1980, vollständig aus PETSCII-Zeichen gebaut: In Labyrinthen jagt man als Worrior Monster wie Burwor, Garwor und Thorwor und bekommt es schließlich mit dem Zauberer selbst zu tun. Spielablauf und Klänge folgen eng dem Original; neu ist ein Koop-Modus für zwei Spieler, in dem man sich nicht gegenseitig abschießen kann.\n\nEinzelne PRG, Steuerung nur mit Joystick. Zweiter Platz im Mixed-Game-Wettbewerb der Arok Party 2024; das Titelbild nennt Pleasurebytes (2024). Vom selben Autor gibt es Fassungen für Plus/4 und PET.\n\nCode, Grafik: Ko-Ko",
+  "texts": {
+    "de": "Nachbau des Midway-Automaten Wizard of Wor von 1980, vollständig aus PETSCII-Zeichen gebaut: In Labyrinthen jagt man als Worrior Monster wie Burwor, Garwor und Thorwor und bekommt es schließlich mit dem Zauberer selbst zu tun. Spielablauf und Klänge folgen eng dem Original; neu ist ein Koop-Modus für zwei Spieler, in dem man sich nicht gegenseitig abschießen kann.\n\nEinzelne PRG, Steuerung nur mit Joystick. Zweiter Platz im Mixed-Game-Wettbewerb der Arok Party 2024; das Titelbild nennt Pleasurebytes (2024). Vom selben Autor gibt es Fassungen für Plus/4 und PET.\n\nCode, Grafik: Ko-Ko",
+    "en": "Remake of Midway's 1980 arcade game Wizard of Wor, built entirely from PETSCII characters: in mazes the player, as a Worrior, hunts monsters such as Burwor, Garwor and Thorwor and finally has to deal with the wizard himself. Gameplay and sounds closely follow the original; new is a co-op mode for two players in which they cannot shoot each other.\n\nSingle PRG, joystick control only. Second place in the mixed game competition at Arok Party 2024; the title screen names Pleasurebytes (2024). The same author has also made versions for Plus/4 and PET.\n\nCode, graphics: Ko-Ko"
+  },
   "images": {
     "ss": "images/f3/f3dcbd8b7e9972bc5e247ec81612aa0416cebfb5.png",
     "sstitle": "images/da/dad92f351aec22916ddb3c599fea8aba624711f2.png"

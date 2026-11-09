@@ -18,6 +18,10 @@
   ],
   "players": "1-2",
   "synopsis": "Abstrakter Arcade-Shooter in 30 Leveln: Eine Schlange aus Buchstaben windet sich über den Bildschirm und muss Buchstabe für Buchstabe abgeschossen werden. Dazu kommen weitere Gegnertypen, Hindernisse, Endgegner, freischaltbare Waffen (z. B. Streuschuss, Granate, Bumerang, Geschütz) und Verbesserungen nach jedem Level. Entstanden aus einem Scherz um einen doppelt geposteten Forenbeitrag mit dem Titel „Delete me“ auf AtariAge.\n\nPRG-Fassung; das Spiel gibt es auch für Atari XL/XE und NES. In Assembler geschrieben, für ein oder zwei Spieler. Laut CSDb läuft es auf PAL und NTSC.\n\nCode: ilmenit",
+  "texts": {
+    "de": "Abstrakter Arcade-Shooter in 30 Leveln: Eine Schlange aus Buchstaben windet sich über den Bildschirm und muss Buchstabe für Buchstabe abgeschossen werden. Dazu kommen weitere Gegnertypen, Hindernisse, Endgegner, freischaltbare Waffen (z. B. Streuschuss, Granate, Bumerang, Geschütz) und Verbesserungen nach jedem Level. Entstanden aus einem Scherz um einen doppelt geposteten Forenbeitrag mit dem Titel „Delete me“ auf AtariAge.\n\nPRG-Fassung; das Spiel gibt es auch für Atari XL/XE und NES. In Assembler geschrieben, für ein oder zwei Spieler. Laut CSDb läuft es auf PAL und NTSC.\n\nCode: ilmenit",
+    "en": "Abstract arcade shooter across 30 levels: a snake made of letters winds its way across the screen and has to be shot down letter by letter. In addition there are other enemy types, obstacles, bosses, unlockable weapons (e.g. spread shot, grenade, boomerang, turret) and upgrades after each level. It grew out of a joke about a double-posted forum thread titled \"Delete me\" on AtariAge.\n\nPRG version; the game is also available for Atari XL/XE and NES. Written in assembler, for one or two players. According to CSDb it runs on PAL and NTSC.\n\nCode: ilmenit"
+  },
   "images": {
     "sstitle": "images/ab/abf6c35f1077126610356f9d389ce92ea4166790.png"
   }

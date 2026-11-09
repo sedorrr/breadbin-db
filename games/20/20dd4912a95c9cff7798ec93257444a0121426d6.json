@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "20dd4912a95c9cff7798ec93257444a0121426d6",
+  "md5": "2ac6de2e6de337935154a1f0557b49fb",
+  "crc32": "79d1a911",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Bruce Lee II (v1.9) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "110600",
+  "title": "Bruce Lee II",
+  "year": "2015",
+  "publisher": "Hultén Brothers",
+  "developer": "Jonas Hultén, Bruno R. Marcos",
+  "genres": [
+    "Plattform",
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle Fortsetzung des Klassikers Bruce Lee von 1984: Bruce muss seine Schwester aus der Festung des Zauberers Tao-Bao befreien. Wie im Vorbild sammelt er auf vielen verbundenen Bildschirmen Laternen ein, öffnet mit Schaltern Türen und kämpft gegen Gegner mit Schlägen und Tritten. Fallen sind sofort tödlich, Gegnertreffer nicht. Grafik und Klang orientieren sich eng am Original.\n\nDie C64-Fassung ist eine Umsetzung des PC-Spiels von Bruno R. Marcos (2013) und erschien als Disketten-Abbild sowie als EasyFlash- und Magic-Desk-Modul. Steuerung per Joystick in Port 1 oder 2 oder per Tastatur.\n\nCode (C64): Jonas Hultén · Grafik: Carl Mason · Musik: Jonas Hultén",
+  "texts": {
+    "de": "Inoffizielle Fortsetzung des Klassikers Bruce Lee von 1984: Bruce muss seine Schwester aus der Festung des Zauberers Tao-Bao befreien. Wie im Vorbild sammelt er auf vielen verbundenen Bildschirmen Laternen ein, öffnet mit Schaltern Türen und kämpft gegen Gegner mit Schlägen und Tritten. Fallen sind sofort tödlich, Gegnertreffer nicht. Grafik und Klang orientieren sich eng am Original.\n\nDie C64-Fassung ist eine Umsetzung des PC-Spiels von Bruno R. Marcos (2013) und erschien als Disketten-Abbild sowie als EasyFlash- und Magic-Desk-Modul. Steuerung per Joystick in Port 1 oder 2 oder per Tastatur.\n\nCode (C64): Jonas Hultén · Grafik: Carl Mason · Musik: Jonas Hultén",
+    "en": "Unofficial sequel to the 1984 classic Bruce Lee: Bruce has to free his sister from the fortress of the wizard Tao-Bao. As in the original, he collects lanterns across many connected screens, opens doors with switches and fights enemies with punches and kicks. Traps are instantly fatal, enemy hits are not. Graphics and sound closely follow the original.\n\nThe C64 version is a conversion of the PC game by Bruno R. Marcos (2013) and was released as a disk image and as EasyFlash and Magic Desk cartridges. Controlled with a joystick in port 1 or 2 or via the keyboard.\n\nCode (C64): Jonas Hultén · Graphics: Carl Mason · Music: Jonas Hultén"
+  }
+}

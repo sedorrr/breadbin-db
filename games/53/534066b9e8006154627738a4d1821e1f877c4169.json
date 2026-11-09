@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "534066b9e8006154627738a4d1821e1f877c4169",
+  "md5": "aa39f7b3b709bf78605dff7c01028df5",
+  "crc32": "bb22bfbc",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Kick Off (J1).crt"
+  ],
+  "screenscraper_id": "36164",
+  "title": "Kick Off",
+  "year": "1989",
+  "publisher": "Anco",
+  "developer": "Anco",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Fußballspiel in der Draufsicht nach dem Amiga-Original von Dino Dini: Der Ball klebt nicht am Fuß, sondern muss beim Dribbeln mitgeführt werden, was Übung verlangt, aber schnelles, flüssiges Spiel ermöglicht. Das Feld scrollt mit dem Ball, Pässe und Schüsse hängen von Laufrichtung und Timing ab. Zu zweit wird gleichzeitig gegeneinander gespielt. Kick Off begründete eine erfolgreiche Reihe.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick, zu zweit mit zwei Joysticks. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode (C64): John Mitchell",
+  "texts": {
+    "de": "Fußballspiel in der Draufsicht nach dem Amiga-Original von Dino Dini: Der Ball klebt nicht am Fuß, sondern muss beim Dribbeln mitgeführt werden, was Übung verlangt, aber schnelles, flüssiges Spiel ermöglicht. Das Feld scrollt mit dem Ball, Pässe und Schüsse hängen von Laufrichtung und Timing ab. Zu zweit wird gleichzeitig gegeneinander gespielt. Kick Off begründete eine erfolgreiche Reihe.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick, zu zweit mit zwei Joysticks. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode (C64): John Mitchell",
+    "en": "Top-down football game based on the Amiga original by Dino Dini: the ball does not stick to the player's foot but has to be carried along when dribbling, which takes practice but allows fast, fluid play. The pitch scrolls with the ball, and passes and shots depend on running direction and timing. Two players play simultaneously against each other. Kick Off founded a successful series.\n\nReleased on disk and tape. Controlled via joystick, with two joysticks for two players. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no additional loading.\n\nCode (C64): John Mitchell"
+  }
+}

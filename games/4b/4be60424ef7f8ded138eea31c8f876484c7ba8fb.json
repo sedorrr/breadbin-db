@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4be60424ef7f8ded138eea31c8f876484c7ba8fb",
+  "md5": "4f60fefef0e0f906ef3f79849e9c8c22",
+  "crc32": "e71970a8",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Out Run (Route A) (J1).crt"
+  ],
+  "screenscraper_id": "35982",
+  "title": "Out Run",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "developer": "Amazing Products",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Sega-Automaten: Mit einem roten Cabrio und Beifahrerin fährt man gegen die Zeit über Landstraßen, durch Städte und Wüsten. An jedem Kontrollpunkt gibt es Zusatzzeit, Zusammenstöße mit Verkehr und Hindernissen kosten Sekunden. Anders als am Automaten wählt man auf dem C64 vor dem Start eine von fünf festen Strecken (A bis E). Der Name des Automaten machte das Spiel zum Bestseller, die Umsetzung selbst galt als schwach.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nEntwicklung: Amazing Products (Martin Webb, Dennis Webb, Chris Oberth, Lou Haehn) · Musik: Jason C. Brooke",
+  "texts": {
+    "de": "Umsetzung des Sega-Automaten: Mit einem roten Cabrio und Beifahrerin fährt man gegen die Zeit über Landstraßen, durch Städte und Wüsten. An jedem Kontrollpunkt gibt es Zusatzzeit, Zusammenstöße mit Verkehr und Hindernissen kosten Sekunden. Anders als am Automaten wählt man auf dem C64 vor dem Start eine von fünf festen Strecken (A bis E). Der Name des Automaten machte das Spiel zum Bestseller, die Umsetzung selbst galt als schwach.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nEntwicklung: Amazing Products (Martin Webb, Dennis Webb, Chris Oberth, Lou Haehn) · Musik: Jason C. Brooke",
+    "en": "Conversion of the Sega arcade machine: in a red convertible with a female passenger, the player races against the clock along country roads, through towns and deserts. Each checkpoint gives extra time, and collisions with traffic and obstacles cost seconds. Unlike the arcade machine, on the C64 one of five fixed routes (A to E) is chosen before the start. The name of the arcade machine made the game a bestseller, but the conversion itself was considered weak.\n\nThis file contains the game as a cartridge (CRT); there are several versions (original, conversions, cracks).\n\nDevelopment: Amazing Products (Martin Webb, Dennis Webb, Chris Oberth, Lou Haehn) · Music: Jason C. Brooke"
+  },
+  "images": {
+    "ss": "images/0c/0c1e42d7d50149c4a6a4ce585b8b1250caac37a1.png",
+    "sstitle": "images/f8/f8f35cee8e08ffa768209ee2619b55fc75a9d220.png"
+  }
+}

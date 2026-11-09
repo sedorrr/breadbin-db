@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "3cf5c5d458e34e3fe14f421821623b5be7010294",
+  "md5": "64413cba7a56063b3b06884bc0240bbc",
+  "crc32": "ec4eb7af",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FIRSTSAM.D64"
+  ],
+  "screenscraper_id": "36005",
+  "title": "First Samurai",
+  "year": "1992",
+  "publisher": "Image Works",
+  "developer": "Vivid Image",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein Samurai verfolgt einen Dämonenkönig, der durch die Zeit bis in die Gegenwart flieht. In großen Plattformlevels kämpft er mit Fäusten, Tritten und später einem magischen Schwert, sammelt Gegenstände und ruft an Glocken einen Zauberer zu Hilfe, der Hindernisse beseitigt. Geht die Energie zur Neige, verliert er sein Schwert. Die C64-Umsetzung erschien spät im Leben des Rechners und wurde für ihre Grafik gelobt.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: John Twiddy, Jon Williams, Mat Sneap",
+  "texts": {
+    "de": "Ein Samurai verfolgt einen Dämonenkönig, der durch die Zeit bis in die Gegenwart flieht. In großen Plattformlevels kämpft er mit Fäusten, Tritten und später einem magischen Schwert, sammelt Gegenstände und ruft an Glocken einen Zauberer zu Hilfe, der Hindernisse beseitigt. Geht die Energie zur Neige, verliert er sein Schwert. Die C64-Umsetzung erschien spät im Leben des Rechners und wurde für ihre Grafik gelobt.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: John Twiddy, Jon Williams, Mat Sneap",
+    "en": "A samurai pursues a demon king who flees through time into the present. In large platform levels he fights with fists, kicks and later a magic sword, collects items and rings bells to summon a wizard who removes obstacles. If his energy runs low, he loses his sword. The C64 conversion appeared late in the computer's life and was praised for its graphics.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: John Twiddy, Jon Williams, Mat Sneap"
+  }
+}

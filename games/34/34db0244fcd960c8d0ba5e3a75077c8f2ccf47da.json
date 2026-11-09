@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Frühe Vorabfassung von „Warlock: Der Ketzer“: ein Actionspiel in Draufsicht, angelehnt an Fantasy-Shooter wie Heretic. Die Vorschau enthält sechs spielbare Level und ist laut Autor noch fehlerbehaftet.\n\nEinzelne PRG-Datei. Das fertige Spiel erschien im Oktober 2026 mit 25 handgebauten Leveln, fünf Waffen, acht Gegnerarten und einem Aufstiegssystem.\n\nCode, Grafik und Design: Haplo",
+  "texts": {
+    "de": "Frühe Vorabfassung von „Warlock: Der Ketzer“: ein Actionspiel in Draufsicht, angelehnt an Fantasy-Shooter wie Heretic. Die Vorschau enthält sechs spielbare Level und ist laut Autor noch fehlerbehaftet.\n\nEinzelne PRG-Datei. Das fertige Spiel erschien im Oktober 2026 mit 25 handgebauten Leveln, fünf Waffen, acht Gegnerarten und einem Aufstiegssystem.\n\nCode, Grafik und Design: Haplo",
+    "en": "Early preview version of \"Warlock: Der Ketzer\": a top-down action game inspired by fantasy shooters such as Heretic. The preview contains six playable levels and, according to the author, is still buggy.\n\nSingle PRG file. The finished game was released in October 2026 with 25 handcrafted levels, five weapons, eight enemy types and a levelling system.\n\nCode, graphics and design: Haplo"
+  },
   "images": {
     "sstitle": "images/fc/fc6bbb4ea478eccd3b9047a24a5008e93f0103b6.png"
   }

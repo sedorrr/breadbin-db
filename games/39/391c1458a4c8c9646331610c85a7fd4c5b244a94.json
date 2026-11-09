@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "391c1458a4c8c9646331610c85a7fd4c5b244a94",
+  "md5": "fedaeee75044f791b466e2b9df9068cd",
+  "crc32": "62c0f040",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SILENTSE.D64"
+  ],
+  "screenscraper_id": "36407",
+  "title": "Silent Service",
+  "year": "1985",
+  "publisher": "MicroProse",
+  "developer": "Sid Meier",
+  "genres": [
+    "Simulation",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "U-Boot-Simulation aus dem Pazifikkrieg: Der Spieler befehligt ein amerikanisches U-Boot der Gato-Klasse gegen japanische Geleitzüge. Zwischen Brücke, Sehrohr, Karte und Instrumenten wird gewechselt; Angriffe verlangen das Abschätzen von Kurs, Geschwindigkeit und Torpedolauf, während Zerstörer mit Wasserbomben antworten. Neben Übungsfahrten gibt es Einzelangriffe nach historischen Vorlagen und ganze Feindfahrten. Das Spiel machte Sid Meier und MicroProse über Flugsimulationen hinaus bekannt.\n\nDiese Datei ist eine Diskettenfassung aus einer Sammlung (gecrackte Fassung, eine Diskettenseite, Joystick in Port 2). In Deutschland erschien das Spiel auch als „Das U-Boot“.\n\nCode: Sid Meier · Grafik: Sid Meier, Michael Haire",
+  "texts": {
+    "de": "U-Boot-Simulation aus dem Pazifikkrieg: Der Spieler befehligt ein amerikanisches U-Boot der Gato-Klasse gegen japanische Geleitzüge. Zwischen Brücke, Sehrohr, Karte und Instrumenten wird gewechselt; Angriffe verlangen das Abschätzen von Kurs, Geschwindigkeit und Torpedolauf, während Zerstörer mit Wasserbomben antworten. Neben Übungsfahrten gibt es Einzelangriffe nach historischen Vorlagen und ganze Feindfahrten. Das Spiel machte Sid Meier und MicroProse über Flugsimulationen hinaus bekannt.\n\nDiese Datei ist eine Diskettenfassung aus einer Sammlung (gecrackte Fassung, eine Diskettenseite, Joystick in Port 2). In Deutschland erschien das Spiel auch als „Das U-Boot“.\n\nCode: Sid Meier · Grafik: Sid Meier, Michael Haire",
+    "en": "Submarine simulation set in the Pacific War: the player commands an American Gato-class submarine against Japanese convoys. You switch between bridge, periscope, map and instruments; attacks require estimating course, speed and torpedo run, while destroyers respond with depth charges. Besides training runs, there are single attacks based on historical scenarios and full war patrols. The game made Sid Meier and MicroProse known beyond flight simulations.\n\nThis file is a disk version from a collection (cracked version, one disk side, joystick in port 2). In Germany the game was also released as \"Das U-Boot\".\n\nCode: Sid Meier · Graphics: Sid Meier, Michael Haire"
+  },
+  "images": {
+    "sstitle": "images/be/be42157b988ba5adf1faba34990224e3e97cfa26.png"
+  }
+}

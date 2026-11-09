@@ -18,5 +18,13 @@
     "Action"
   ],
   "players": "1",
-  "synopsis": "Inoffizielle C64-Fortsetzung der Turrican-Reihe, nach mehreren Vorschauen ab 1998 im August 2004 auf der Evoke als Version 1.1 erschienen. Wie in den Vorgängern kämpft man sich im Kampfanzug mit verschiedenen Waffen durch große, verzweigte Level voller Gegner. Gelobt wurden Leveldesign und Musik; bemängelt wurden Fehler wie Ruckeln, Sprite-Flackern und Stellen, an denen man im Gelände hängen bleibt.\n\nDrei D64 (Seiten 1–3, Kopf „ASS presents“), Startdatei mit Trainer („+“). Joystick.\n\nCode, Grafik, Design: AEG · Musik: Jeff, kb, SoNiC"
+  "synopsis": "Inoffizielle C64-Fortsetzung der Turrican-Reihe, nach mehreren Vorschauen ab 1998 im August 2004 auf der Evoke als Version 1.1 erschienen. Wie in den Vorgängern kämpft man sich im Kampfanzug mit verschiedenen Waffen durch große, verzweigte Level voller Gegner. Gelobt wurden Leveldesign und Musik; bemängelt wurden Fehler wie Ruckeln, Sprite-Flackern und Stellen, an denen man im Gelände hängen bleibt.\n\nDrei D64 (Seiten 1–3, Kopf „ASS presents“), Startdatei mit Trainer („+“). Joystick.\n\nCode, Grafik, Design: AEG · Musik: Jeff, kb, SoNiC",
+  "texts": {
+    "de": "Inoffizielle C64-Fortsetzung der Turrican-Reihe, nach mehreren Vorschauen ab 1998 im August 2004 auf der Evoke als Version 1.1 erschienen. Wie in den Vorgängern kämpft man sich im Kampfanzug mit verschiedenen Waffen durch große, verzweigte Level voller Gegner. Gelobt wurden Leveldesign und Musik; bemängelt wurden Fehler wie Ruckeln, Sprite-Flackern und Stellen, an denen man im Gelände hängen bleibt.\n\nDrei D64 (Seiten 1–3, Kopf „ASS presents“), Startdatei mit Trainer („+“). Joystick.\n\nCode, Grafik, Design: AEG · Musik: Jeff, kb, SoNiC",
+    "en": "Unofficial C64 sequel in the Turrican series, released as version 1.1 at Evoke in August 2004 after several previews from 1998 onwards. As in its predecessors, the player fights through large, branching levels full of enemies in a battle suit with various weapons. The level design and music were praised; criticism was directed at faults such as judder, sprite flicker and places where the player gets stuck in the terrain.\n\nThree D64s (sides 1–3, header “ASS presents”), start file with trainer (“+”). Joystick.\n\nCode, graphics, design: AEG · Music: Jeff, kb, SoNiC"
+  },
+  "images": {
+    "ss": "images/38/3870a4277235d8647e30659f8da0fbff9a7d1ffd.png",
+    "sstitle": "images/2d/2d3304bb7426637ee4505e29ba5a49de5f599591.png"
+  }
 }

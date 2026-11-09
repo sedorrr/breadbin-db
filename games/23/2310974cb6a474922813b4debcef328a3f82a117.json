@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "2310974cb6a474922813b4debcef328a3f82a117",
+  "md5": "4255c6e2bd6ebe048dfef457a920d565",
+  "crc32": "1016191e",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Uridium.crt"
+  ],
+  "screenscraper_id": "35933",
+  "title": "Uridium",
+  "year": "1986",
+  "publisher": "Hewson",
+  "developer": "Graftgold (Andrew Braybrook)",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Mit dem Raumjäger Manta fliegt man im Tiefflug über die Oberfläche von 15 riesigen Trägerschiffen, die in beide Richtungen schnell vorbeiscrollen. Geschütze und Gegnerwellen werden abgeschossen, Hindernissen weicht man mit Rollen und Seitenkippen aus. Sind die Abwehranlagen vernichtet, muss der Jäger auf der Landebahn des Trägers aufsetzen; danach folgt ein kurzes Bonusspiel. Das sehr schnelle, weiche Scrolling und die metallische Grafik machten Uridium zu einem Vorzeigespiel des C64.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode und Grafik: Andrew Braybrook · Musik: Steve Turner",
+  "texts": {
+    "de": "Mit dem Raumjäger Manta fliegt man im Tiefflug über die Oberfläche von 15 riesigen Trägerschiffen, die in beide Richtungen schnell vorbeiscrollen. Geschütze und Gegnerwellen werden abgeschossen, Hindernissen weicht man mit Rollen und Seitenkippen aus. Sind die Abwehranlagen vernichtet, muss der Jäger auf der Landebahn des Trägers aufsetzen; danach folgt ein kurzes Bonusspiel. Das sehr schnelle, weiche Scrolling und die metallische Grafik machten Uridium zu einem Vorzeigespiel des C64.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode und Grafik: Andrew Braybrook · Musik: Steve Turner",
+    "en": "In the Manta space fighter you fly low over the surface of 15 huge carrier ships that scroll rapidly past in both directions. Gun emplacements and waves of enemies are shot down, obstacles avoided with rolls and banking. Once the defences are destroyed, the fighter must touch down on the carrier's landing strip, after which a short bonus game follows. The very fast, smooth scrolling and metallic graphics made Uridium a showcase game for the C64.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading.\n\nCode and graphics: Andrew Braybrook · Music: Steve Turner"
+  },
+  "images": {
+    "ss": "images/73/7398a54153ce2965ea47d644aac0bd6ed568778d.png",
+    "sstitle": "images/02/02950ad22c06e1a2d95235d82a65e760a45b6024.png"
+  }
+}

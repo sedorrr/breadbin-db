@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1e62075aac8bbb2289ed8874137d9769dbd714bf",
+  "md5": "6be3738b8519a23cae7d50aea8d908e1",
+  "crc32": "d4e16a83",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Frankie Goes to Hollywood.crt"
+  ],
+  "screenscraper_id": "112205",
+  "title": "Frankie Goes to Hollywood",
+  "year": "1985",
+  "publisher": "Ocean",
+  "developer": "Denton Designs",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Zum Lied der gleichnamigen Band gestaltetes Abenteuer: Eine Figur verlässt die graue Vorstadt Mundanesville, um „ein echter Mensch“ zu werden und den Pleasuredome zu erreichen. In Häusern und Straßen werden Gegenstände gefunden und eingesetzt, eingestreut sind kleine Geschicklichkeitsspiele und ein Mordfall, der aufzuklären ist. Vier Werte – Liebe, Krieg, Glaube und Sex – zeigen den Fortschritt. Das Spiel gilt als eines der eigenwilligsten Lizenzspiele der Zeit.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nMusik: Fred Gray",
+  "texts": {
+    "de": "Zum Lied der gleichnamigen Band gestaltetes Abenteuer: Eine Figur verlässt die graue Vorstadt Mundanesville, um „ein echter Mensch“ zu werden und den Pleasuredome zu erreichen. In Häusern und Straßen werden Gegenstände gefunden und eingesetzt, eingestreut sind kleine Geschicklichkeitsspiele und ein Mordfall, der aufzuklären ist. Vier Werte – Liebe, Krieg, Glaube und Sex – zeigen den Fortschritt. Das Spiel gilt als eines der eigenwilligsten Lizenzspiele der Zeit.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nMusik: Fred Gray",
+    "en": "Adventure designed around the song by the band of the same name: a character leaves the grey suburb of Mundanesville to become “a real person” and reach the Pleasuredome. Objects are found and used in houses and streets, interspersed with small skill games and a murder case to be solved. Four values – love, war, faith and sex – show progress. The game is regarded as one of the most idiosyncratic licensed games of its time.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nMusic: Fred Gray"
+  },
+  "images": {
+    "ss": "images/0d/0dc86f107504e1f5b95ceb70e355685b600f393f.png",
+    "sstitle": "images/38/38cba3de6460cfead0d63484e88bd7157ec935bc.png"
+  }
+}

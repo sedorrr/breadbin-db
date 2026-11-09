@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5fa321f25792a6fc842c3c2f2ab28742e9387da7",
+  "md5": "2bb950d3cac1d194f6f6046af98414e7",
+  "crc32": "36fa3cb4",
+  "size": 48061,
+  "format": "T64",
+  "files": [
+    "URIDIUM4.T64"
+  ],
+  "screenscraper_id": "35933",
+  "title": "Uridium",
+  "year": "1986",
+  "publisher": "Hewson",
+  "developer": "Graftgold (Andrew Braybrook)",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Mit dem Raumjäger Manta fliegt man im Tiefflug über die Oberfläche von 15 riesigen Trägerschiffen, die in beide Richtungen schnell vorbeiscrollen. Geschütze und Gegnerwellen werden abgeschossen, Hindernissen weicht man mit Rollen und Seitenkippen aus. Sind die Abwehranlagen vernichtet, muss der Jäger auf der Landebahn des Trägers aufsetzen; danach folgt ein kurzes Bonusspiel. Das sehr schnelle, weiche Scrolling und die metallische Grafik machten Uridium zu einem Vorzeigespiel des C64.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode und Grafik: Andrew Braybrook · Musik: Steve Turner",
+  "texts": {
+    "de": "Mit dem Raumjäger Manta fliegt man im Tiefflug über die Oberfläche von 15 riesigen Trägerschiffen, die in beide Richtungen schnell vorbeiscrollen. Geschütze und Gegnerwellen werden abgeschossen, Hindernissen weicht man mit Rollen und Seitenkippen aus. Sind die Abwehranlagen vernichtet, muss der Jäger auf der Landebahn des Trägers aufsetzen; danach folgt ein kurzes Bonusspiel. Das sehr schnelle, weiche Scrolling und die metallische Grafik machten Uridium zu einem Vorzeigespiel des C64.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode und Grafik: Andrew Braybrook · Musik: Steve Turner",
+    "en": "In the Manta space fighter the player flies low over the surface of 15 huge dreadnoughts, which scroll past quickly in both directions. Gun emplacements and enemy waves are shot down, and obstacles are avoided by rolling and tilting sideways. Once the defences are destroyed, the fighter has to land on the dreadnought's runway; a short bonus game follows. The very fast, smooth scrolling and the metallic graphics made Uridium a showcase game for the C64.\n\nThis file contains the game as a tape archive (T64); there are several versions (original, conversions, cracks).\n\nCode and graphics: Andrew Braybrook · Music: Steve Turner"
+  },
+  "images": {
+    "ss": "images/73/7398a54153ce2965ea47d644aac0bd6ed568778d.png",
+    "sstitle": "images/02/02950ad22c06e1a2d95235d82a65e760a45b6024.png"
+  }
+}

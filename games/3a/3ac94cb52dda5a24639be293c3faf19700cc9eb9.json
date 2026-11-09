@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "3ac94cb52dda5a24639be293c3faf19700cc9eb9",
+  "md5": "d2d83737f06b838f6c071cb93a65fe4b",
+  "crc32": "bc454bca",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Nodes of Yesod (Slow Version).crt"
+  ],
+  "screenscraper_id": "115698",
+  "title": "Nodes of Yesod",
+  "year": "1985",
+  "publisher": "Odin Computer Graphics",
+  "developer": "Odin Computer Graphics",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Astronaut Charlie erkundet ein riesiges Höhlensystem unter der Mondoberfläche und sucht acht Alchiems, um den geheimnisvollen Monolithen zu erreichen. Er springt mit Salti über Plattformen, fällt durch Schächte und begegnet seltsamen Höhlenbewohnern. Ein zahmer Maulwurf frisst sich durch bestimmte Wände und öffnet neue Wege. Das Spiel gehörte zu den bekanntesten Erkundungsspielen seiner Zeit.\n\nErschien auf Kassette und Diskette; als OneLoad64-Modul gibt es eine schnelle und eine langsame Fassung. Steuerung per Joystick in Port 2. Ursprünglich für den Spectrum entwickelt.\n\nCode (C64): Keith Robinson · Musik: Fred Gray",
+  "texts": {
+    "de": "Der Astronaut Charlie erkundet ein riesiges Höhlensystem unter der Mondoberfläche und sucht acht Alchiems, um den geheimnisvollen Monolithen zu erreichen. Er springt mit Salti über Plattformen, fällt durch Schächte und begegnet seltsamen Höhlenbewohnern. Ein zahmer Maulwurf frisst sich durch bestimmte Wände und öffnet neue Wege. Das Spiel gehörte zu den bekanntesten Erkundungsspielen seiner Zeit.\n\nErschien auf Kassette und Diskette; als OneLoad64-Modul gibt es eine schnelle und eine langsame Fassung. Steuerung per Joystick in Port 2. Ursprünglich für den Spectrum entwickelt.\n\nCode (C64): Keith Robinson · Musik: Fred Gray",
+    "en": "The astronaut Charlie explores a huge cave system beneath the lunar surface, searching for eight alchiems in order to reach the mysterious monolith. He somersaults over platforms, falls down shafts and encounters strange cave dwellers. A tame mole eats its way through certain walls and opens new paths. The game was one of the best-known exploration games of its time.\n\nReleased on tape and disk; as a OneLoad64 cartridge there is a fast and a slow version. Controlled via joystick in port 2. Originally developed for the Spectrum.\n\nCode (C64): Keith Robinson · Music: Fred Gray"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "514ba275aa78674d023796e06bf831f3d42f1a54",
+  "md5": "7ad8d1f37299470df7d36e3b5f91e2a1",
+  "crc32": "3532ccd8",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SKYFOX1.D64"
+  ],
+  "screenscraper_id": "36719",
+  "title": "Skyfox",
+  "year": "1985",
+  "publisher": "Electronic Arts",
+  "developer": "Ray Tobey",
+  "genres": [
+    "Simulation",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler verteidigt in einem futuristischen Kampfjet seine Stützpunkte gegen angreifende Panzer, Flugzeuge und Mutterschiffe. Aus dem Cockpit wird in einer schnellen 3D-Ansicht gekämpft, eine taktische Karte zeigt die Lage der Gegner. Verschiedene Szenarien und Schwierigkeitsstufen bestimmen Zahl und Stärke der Angreifer. Skyfox stand für flüssige Action-Grafik statt nüchterner Simulation.\n\nErschien auf Diskette. Gesteuert wird per Joystick.\n\nCode: Ray Tobey · Musik: Douglas Fulton",
+  "texts": {
+    "de": "Der Spieler verteidigt in einem futuristischen Kampfjet seine Stützpunkte gegen angreifende Panzer, Flugzeuge und Mutterschiffe. Aus dem Cockpit wird in einer schnellen 3D-Ansicht gekämpft, eine taktische Karte zeigt die Lage der Gegner. Verschiedene Szenarien und Schwierigkeitsstufen bestimmen Zahl und Stärke der Angreifer. Skyfox stand für flüssige Action-Grafik statt nüchterner Simulation.\n\nErschien auf Diskette. Gesteuert wird per Joystick.\n\nCode: Ray Tobey · Musik: Douglas Fulton",
+    "en": "In a futuristic fighter jet, the player defends his bases against attacking tanks, aircraft and motherships. Combat takes place from the cockpit in a fast 3D view, and a tactical map shows the enemies' positions. Various scenarios and difficulty levels determine the number and strength of the attackers. Skyfox stood for smooth action graphics rather than sober simulation.\n\nReleased on disk. Controlled with a joystick.\n\nCode: Ray Tobey · Music: Douglas Fulton"
+  }
+}

@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Ein springendes Auto hüpft von Plattform zu Plattform und sammelt Farbpunkte in Rot, Grün, Blau, Gelb und Lila. Je mehr auf einer Plattform eingesammelt wird, desto mehr Punkte gibt es; sind alle fünf Farben beisammen, steigt der Multiplikator. Graue Plattformen sind brüchig, ein Sturz auf den Boden lässt das Auto explodieren. Ein Anhalter bringt Bonuspunkte, wenn man ihn aufnimmt statt auf ihm zu landen.\n\nEin-Knopf-Spiel: Feuer springt, ein zweiter Druck in der Luft löst einen Doppelsprung aus. RUN/STOP führt zum Titelbild, F7 öffnet ein Schummelmenü (dann wird kein Highscore gespeichert). Disk-Fassung.\n\nIdee und Code: Docster · Grafik und Musik: Rotteroy · Linking: Six",
+  "texts": {
+    "de": "Ein springendes Auto hüpft von Plattform zu Plattform und sammelt Farbpunkte in Rot, Grün, Blau, Gelb und Lila. Je mehr auf einer Plattform eingesammelt wird, desto mehr Punkte gibt es; sind alle fünf Farben beisammen, steigt der Multiplikator. Graue Plattformen sind brüchig, ein Sturz auf den Boden lässt das Auto explodieren. Ein Anhalter bringt Bonuspunkte, wenn man ihn aufnimmt statt auf ihm zu landen.\n\nEin-Knopf-Spiel: Feuer springt, ein zweiter Druck in der Luft löst einen Doppelsprung aus. RUN/STOP führt zum Titelbild, F7 öffnet ein Schummelmenü (dann wird kein Highscore gespeichert). Disk-Fassung.\n\nIdee und Code: Docster · Grafik und Musik: Rotteroy · Linking: Six",
+    "en": "A jumping car hops from platform to platform, collecting coloured dots in red, green, blue, yellow and purple. The more collected on one platform, the more points; once all five colours are together, the multiplier increases. Grey platforms are fragile, and a fall to the ground makes the car explode. A hitchhiker gives bonus points if picked up instead of landed on.\n\nOne-button game: fire jumps, a second press in the air triggers a double jump. RUN/STOP leads to the title screen, F7 opens a cheat menu (no high score is then saved). Disk version.\n\nIdea and code: Docster · Graphics and music: Rotteroy · Linking: Six"
+  },
   "images": {
     "sstitle": "images/74/74235ef0e28259c822026f86ef263adc3d935381.png"
   }

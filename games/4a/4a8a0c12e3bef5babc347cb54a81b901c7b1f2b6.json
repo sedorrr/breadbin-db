@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Kleines Ausweichspiel: In einer senkrechten Röhre in der Bildmitte fallen Blöcke herab, denen man ausweichen muss. Eingesammelte „S“ geben zusätzliche Schilde, die Treffer abfangen. Das Tempo steigt im Lauf des Spiels, Ziel ist eine möglichst hohe Punktzahl.\n\nSteuerung mit Joystick in Port 2. Diese Datei ist der Crack von Hokuto Force (16.06.2024) mit Vorspann und einem Trainer (+1, unbegrenzte Schilde); das Original erschien am 15.06.2024.\n\nCode: Charles Grey (Iceout) · Trainer: TheFatman · Original Supply, Linking, Test: E$G",
+  "texts": {
+    "de": "Kleines Ausweichspiel: In einer senkrechten Röhre in der Bildmitte fallen Blöcke herab, denen man ausweichen muss. Eingesammelte „S“ geben zusätzliche Schilde, die Treffer abfangen. Das Tempo steigt im Lauf des Spiels, Ziel ist eine möglichst hohe Punktzahl.\n\nSteuerung mit Joystick in Port 2. Diese Datei ist der Crack von Hokuto Force (16.06.2024) mit Vorspann und einem Trainer (+1, unbegrenzte Schilde); das Original erschien am 15.06.2024.\n\nCode: Charles Grey (Iceout) · Trainer: TheFatman · Original Supply, Linking, Test: E$G",
+    "en": "Small dodging game: blocks fall down a vertical tube in the middle of the screen and have to be avoided. Collected \"S\" icons give additional shields that absorb hits. The pace increases as the game goes on; the aim is the highest possible score.\n\nControlled with a joystick in port 2. This file is the Hokuto Force crack (16.06.2024) with an intro and a trainer (+1, unlimited shields); the original was released on 15.06.2024.\n\nCode: Charles Grey (Iceout) · Trainer: TheFatman · Original supply, linking, testing: E$G"
+  },
   "images": {
     "ss": "images/ee/eeab43ae13593ed14136759d05404b35b5cdfc4a.png"
   }

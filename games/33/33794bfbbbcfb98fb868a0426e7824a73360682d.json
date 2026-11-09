@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Ein schnauzbärtiger Koch mit hitzigem Gemüt muss in jeder Küche alle Mehlsäcke und Zaubereier einsammeln, bevor der Kuchen verbrennt. Ratten, Mücken und von der Decke fallende Messer sind ihm im Weg, am Boden lauern Spieße; zwischen heißen Pfannen und kochenden Töpfen läuft die Uhr. Jedes Level führt in eine neue, gefährlichere Küche.\n\nGetrennte Dateien für PAL und NTSC (hier die PAL-Fassung). Vollversion nach einer Demo im November 2025.\n\nSpiel und Grafik: Adrián Bonnette · Musik: Richard Bayliss · Betatest: Juan Castiñeira, José Miguel González, KabutoCoder.",
+  "texts": {
+    "de": "Ein schnauzbärtiger Koch mit hitzigem Gemüt muss in jeder Küche alle Mehlsäcke und Zaubereier einsammeln, bevor der Kuchen verbrennt. Ratten, Mücken und von der Decke fallende Messer sind ihm im Weg, am Boden lauern Spieße; zwischen heißen Pfannen und kochenden Töpfen läuft die Uhr. Jedes Level führt in eine neue, gefährlichere Küche.\n\nGetrennte Dateien für PAL und NTSC (hier die PAL-Fassung). Vollversion nach einer Demo im November 2025.\n\nSpiel und Grafik: Adrián Bonnette · Musik: Richard Bayliss · Betatest: Juan Castiñeira, José Miguel González, KabutoCoder.",
+    "en": "A moustachioed chef with a fiery temper has to collect all the flour sacks and magic eggs in each kitchen before the cake burns. Rats, mosquitoes and knives falling from the ceiling get in his way, and spikes lurk on the floor; between hot pans and boiling pots the clock is ticking. Each level leads into a new, more dangerous kitchen.\n\nSeparate files for PAL and NTSC (this is the PAL version). Full version following a demo in November 2025.\n\nGame and graphics: Adrián Bonnette · Music: Richard Bayliss · Beta testing: Juan Castiñeira, José Miguel González, KabutoCoder."
+  },
   "images": {
     "ss": "images/66/66a67a793dc0d2fbd28df814b492508a8bcc86c7.png",
     "sstitle": "images/65/65f240eff0a3f894a69d254ed0561658cfb02e39.png"

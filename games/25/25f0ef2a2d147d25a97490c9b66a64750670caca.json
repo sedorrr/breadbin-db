@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "25f0ef2a2d147d25a97490c9b66a64750670caca",
+  "md5": "53bdf7611b2f409adb86539e0e041056",
+  "crc32": "caebec95",
+  "size": 76032,
+  "format": "T64",
+  "files": [
+    "ARKANOI1.T64"
+  ],
+  "screenscraper_id": "35867",
+  "title": "Arkanoid",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "David A. Collier (Umsetzung)",
+  "genres": [
+    "Action / Breakout Spiele",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Taito-Automaten: Das Raumschiff Vaus lenkt einen Ball gegen Mauern aus farbigen Steinen. Aus zerstörten Steinen fallen Kapseln mit Verbreiterung, Laser, Fangfunktion, Ball-Teilung, Verlangsamung oder Extraleben. Nach 32 Wänden wartet der Endgegner DOH. Arkanoid belebte das alte Breakout-Prinzip neu und war auf dem C64 sehr erfolgreich.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David A. Collier · Grafik: Mark K. Jones · Musik (SID): Martin Galway",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten: Das Raumschiff Vaus lenkt einen Ball gegen Mauern aus farbigen Steinen. Aus zerstörten Steinen fallen Kapseln mit Verbreiterung, Laser, Fangfunktion, Ball-Teilung, Verlangsamung oder Extraleben. Nach 32 Wänden wartet der Endgegner DOH. Arkanoid belebte das alte Breakout-Prinzip neu und war auf dem C64 sehr erfolgreich.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David A. Collier · Grafik: Mark K. Jones · Musik (SID): Martin Galway",
+    "en": "Conversion of the Taito arcade machine: the spaceship Vaus deflects a ball against walls of coloured bricks. Destroyed bricks release capsules with enlargement, laser, catch, ball splitting, slow-down or extra lives. After 32 walls the final boss DOH awaits. Arkanoid revived the old Breakout principle and was very successful on the C64.\n\nThis file contains the game as a tape archive (T64); there are several versions (original, conversions, cracks).\n\nCode: David A. Collier · Graphics: Mark K. Jones · Music (SID): Martin Galway"
+  },
+  "images": {
+    "ss": "images/f9/f972e33c437b4757468d18cf1aa2ecd63d9edd4f.png",
+    "sstitle": "images/c3/c3a7ef4ebebba4c5977d58bd2e06ed4855aab182.png"
+  }
+}

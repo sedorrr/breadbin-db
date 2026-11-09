@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "605d2f1d35f9dd73a7c964cf8a95b7a6fe6eec0b",
+  "md5": "bf1ed6c8ba168f54959875049259946a",
+  "crc32": "47f565e6",
+  "size": 156016,
+  "format": "CRT",
+  "files": [
+    "Super Cycle (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36734",
+  "title": "Super Cycle",
+  "year": "1986",
+  "publisher": "Epyx",
+  "developer": "Epyx",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Motorradrennen aus der Fahrerperspektive hinter der Maschine. Auf mehreren Strecken mit Kurven, Hügeln und Gegenverkehr anderer Fahrer gilt es, innerhalb der Zeit das Ziel zu erreichen, um zur nächsten Strecke zu gelangen. Geschaltet wird über mehrere Gänge, Stürze kosten wertvolle Sekunden. Die schnelle, flüssige Pseudo-3D-Darstellung galt 1986 als besonders gelungen.\n\nErschien auf Diskette und Kassette; außerdem gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Steuerung per Joystick in Port 2.\n\nCode: Stephen H. Landrum · Grafik: Michael Kosaka · Musik: Bob Vieira",
+  "texts": {
+    "de": "Motorradrennen aus der Fahrerperspektive hinter der Maschine. Auf mehreren Strecken mit Kurven, Hügeln und Gegenverkehr anderer Fahrer gilt es, innerhalb der Zeit das Ziel zu erreichen, um zur nächsten Strecke zu gelangen. Geschaltet wird über mehrere Gänge, Stürze kosten wertvolle Sekunden. Die schnelle, flüssige Pseudo-3D-Darstellung galt 1986 als besonders gelungen.\n\nErschien auf Diskette und Kassette; außerdem gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Steuerung per Joystick in Port 2.\n\nCode: Stephen H. Landrum · Grafik: Michael Kosaka · Musik: Bob Vieira",
+    "en": "Motorcycle racing from the rider's perspective behind the machine. On several tracks with curves, hills and oncoming traffic from other riders, the goal is to reach the finish within the time limit to get to the next track. Gears are shifted through several speeds, and crashes cost valuable seconds. The fast, smooth pseudo-3D display was considered particularly accomplished in 1986.\n\nReleased on disk and tape; there is also a MultiLoad64 EasyFlash conversion by $olo1870. Controlled via joystick in port 2.\n\nCode: Stephen H. Landrum · Graphics: Michael Kosaka · Music: Bob Vieira"
+  }
+}

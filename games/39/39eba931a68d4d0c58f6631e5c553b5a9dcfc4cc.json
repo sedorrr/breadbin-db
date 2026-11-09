@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "39eba931a68d4d0c58f6631e5c553b5a9dcfc4cc",
+  "md5": "b791e636a85acfa27e3bb32839e54fb2",
+  "crc32": "f5f7ea2f",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Mario Bros (Atari) (J1).crt"
+  ],
+  "screenscraper_id": "35827",
+  "title": "Mario Bros.",
+  "year": "1984",
+  "publisher": "Atarisoft",
+  "developer": "Gregg A. Tavares",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "Die Klempner Mario und Luigi säubern eine Kanalisation, die aus mehreren Ebenen besteht. Gegner wie Schildkröten, Krabben und Fliegen kommen aus den Röhren; man stößt sie von unten durch die Plattform an, bis sie auf dem Rücken liegen, und kickt sie dann weg. Zwei Spieler können gleichzeitig antreten und sich gegenseitig helfen oder behindern. Das Spielprinzip nach Nintendos Automaten von 1983 legte den Grundstein für die späteren Mario-Spiele.\n\nDiese Umsetzung entstand 1984 bei Atarisoft für den US-Markt, wurde aber nie regulär verkauft; sie kursiert als Vorabfassung. Die bekanntere offizielle C64-Fassung stammt dagegen von Ocean (1986/87) und ist ein eigenständiges Programm. Gesteuert wird mit dem Joystick.\n\nCode: Gregg A. Tavares · Grafik: Gregg A. Tavares · Musik: Gregg A. Tavares",
+  "texts": {
+    "de": "Die Klempner Mario und Luigi säubern eine Kanalisation, die aus mehreren Ebenen besteht. Gegner wie Schildkröten, Krabben und Fliegen kommen aus den Röhren; man stößt sie von unten durch die Plattform an, bis sie auf dem Rücken liegen, und kickt sie dann weg. Zwei Spieler können gleichzeitig antreten und sich gegenseitig helfen oder behindern. Das Spielprinzip nach Nintendos Automaten von 1983 legte den Grundstein für die späteren Mario-Spiele.\n\nDiese Umsetzung entstand 1984 bei Atarisoft für den US-Markt, wurde aber nie regulär verkauft; sie kursiert als Vorabfassung. Die bekanntere offizielle C64-Fassung stammt dagegen von Ocean (1986/87) und ist ein eigenständiges Programm. Gesteuert wird mit dem Joystick.\n\nCode: Gregg A. Tavares · Grafik: Gregg A. Tavares · Musik: Gregg A. Tavares",
+    "en": "The plumbers Mario and Luigi clean out a sewer consisting of several levels. Enemies such as turtles, crabs and flies come out of the pipes; they are bumped from below through the platform until they lie on their backs and are then kicked away. Two players can play simultaneously and help or hinder each other. The gameplay, based on Nintendo's 1983 arcade game, laid the foundation for the later Mario games.\n\nThis conversion was made in 1984 by Atarisoft for the US market but was never sold commercially; it circulates as a pre-release version. The better-known official C64 version, by contrast, is by Ocean (1986/87) and is a separate program. Controlled with the joystick.\n\nCode: Gregg A. Tavares · Graphics: Gregg A. Tavares · Music: Gregg A. Tavares"
+  }
+}

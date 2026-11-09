@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Mike Finn erkundet mit Raumanzug und Rucksack-Düse einen riesigen Höhlenplaneten. Eine eigene Physik mit Schwerkraft, Trägheit, Wind und Wasser bestimmt Flug und Gegenstände; viele Rätsel lassen sich auf mehreren Wegen lösen.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im Februar 2023. Der zweite Feuerknopf wechselt zwischen den Symbolgruppen der Steuerung. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "texts": {
+    "de": "Mike Finn erkundet mit Raumanzug und Rucksack-Düse einen riesigen Höhlenplaneten. Eine eigene Physik mit Schwerkraft, Trägheit, Wind und Wasser bestimmt Flug und Gegenstände; viele Rätsel lassen sich auf mehreren Wegen lösen.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im Februar 2023. Der zweite Feuerknopf wechselt zwischen den Symbolgruppen der Steuerung. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+    "en": "Mike Finn explores a huge cave planet with a spacesuit and jetpack. Its own physics with gravity, inertia, wind and water govern flight and objects; many puzzles can be solved in several ways.\n\nModification by CrystalCT, published on GitHub in February 2023. The second fire button switches between the icon groups of the controls. A joystick with a second fire button in the C64GS style is required (second button on POTX, third on POTY, e.g. Cheetah Annihilator, a suitably modified stick or CrystalCT's 5+1-button joystick); VICE can emulate the second button."
+  },
   "images": {
     "ss": "images/27/2787cdda4e0a8af8703763796b7725a27b4584b0.png",
     "sstitle": "images/98/9828cf6101c53bad327c6cb699e9a5c86a44c5e6.png"
