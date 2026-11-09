@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "a56c8334316e676e9aa499a4482a13b9a3b57611",
+  "md5": "06a80865f5d8fbc4da5166cb30f2404d",
+  "crc32": "0d3a273a",
+  "size": 47228,
+  "format": "PRG",
+  "files": [
+    "deathflood2.prg"
+  ],
+  "screenscraper_id": "574392",
+  "title": "Deathflood: Curse of Oak Island",
+  "year": "2025",
+  "publisher": "Windigo Productions",
+  "developer": "Windigo Productions",
+  "genres": [
+    "Plattform",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Deathflood: Dungeon of Doom. Im sagenumwobenen Schacht auf Oak Island soll ein Piratenschatz liegen, gesichert durch eine tödliche Flutfalle. Man steigt durch Räume voller Schätze, Rätsel, Fallen und Gegner hinab und muss vor dem steigenden Wasser fliehen; je mehr Gold man einsammelt, desto besser das Ende. Ein Übungslevel ist dabei, Speicher- oder Passwortsystem gibt es bewusst nicht.\n\nEine einzelne PRG-Datei, Joystick in Port 2, Ein-Knopf-Steuerung, Texte auf Englisch. Für PAL entwickelt; läuft auch auf NTSC mit kleinen Grafikfehlern. Kostenlos als Download, als Box-Fassung bei Komoda & Amiga plus erschienen.\n\nSpiel: Windigo Productions.",
+  "images": {
+    "sstitle": "images/7f/7f19ea0e3543c36005ac9e3954802a6a10c258d1.png"
+  }
+}

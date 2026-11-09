@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "1b5e20037da66ea67daafb6110f8a45c37076b50",
+  "md5": "2bcea2c15f383fa51103d572dc6bef52",
+  "crc32": "1d28da4a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Lyoberon_Mecha_1_Disk.d64"
+  ],
+  "title": "Lyoberon Mecha 1",
+  "year": "2025",
+  "publisher": "Voxvideogame&Co",
+  "developer": "Pinov Vox",
+  "genres": [
+    "Shoot'em Up / Vertikal",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Im Jahr 2243 landet das Lyoberon-Team auf dem Planeten Dherdon, wo der künstliche Rechenknoten „Nexus“ außer Kontrolle geraten ist und die Erde bedroht. Mit einem Kampfroboter kämpft man sich durch vertikal scrollende Level gegen feindliche Roboter und Flugschiffe bis zum Endgegner; der Mech bewegt sich in acht Richtungen und feuert stets nach vorn. Bei 10 000 Punkten gibt es ein Extraleben, dazu eine Bestenliste mit Namenseingabe. Erster Teil einer geplanten Reihe.\n\nMit dem Shoot-’Em-Up Construction Kit (SEUCK) erstellt und um Assembler-Kniffe ergänzt. Joystick in Port 2 (Port 1 geht auch, die Namenseingabe in der Bestenliste aber nur über Port 2); RUN/STOP hält an. Diskette und Band (zwei Teile) enthalten je eine normale und eine verbesserte DLX-Fassung; die DLX-Diskette bringt zusätzlich ein Ladebild mit Musik. Musik und Effekte im Spiel wählbar.\n\nSpiel, Grafik und Animation: Pinov Vox · Musik: Vg Vox · Titelbild-Werkzeug und Bandlader: Richard Bayliss (TND64).",
+  "images": {
+    "sstitle": "images/08/0822d825f82cf9a32869cdf69ee6f036c3993044.png"
+  }
+}

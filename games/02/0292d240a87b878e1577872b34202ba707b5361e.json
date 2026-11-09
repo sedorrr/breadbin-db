@@ -1,24 +1,24 @@
 {
-    "version": 1,
-    "sha1": "0292d240a87b878e1577872b34202ba707b5361e",
-    "md5": "375a51d01c97d9a1ed037db530890e73",
-    "crc32": "668ea93f",
-    "size": 23024,
-    "format": "PRG",
-    "files": [
-        "doubleshift.prg"
-    ],
-    "title": "Doppelschicht",
-    "year": "2026",
-    "publisher": "Emwee",
-    "developer": "Sedor",
-    "genres": [
-        "Puzzle",
-        "Überlegung"
-    ],
-    "players": "1",
-    "images": {
-        "ss": "images/c5/c57722cdec8fcfaef120a3857925a5a3db42c9b4.png"
-    },
-    "synopsis": "In der Frachthalle einer Raumstation programmiert man zwei Wartungsroboter, die ihre Befehlskacheln gleichzeitig Takt für Takt abarbeiten und gemeinsam Kisten auf alle Zielfelder bringen müssen. Neben Fahren, Drehen, Greifen und Warten gibt es Unterprogramme samt Schleifen; Kisten lassen sich zwischen den Robotern übergeben. 30 Level in fünf Abschnitten bringen Druckplatten und Türen, Theken, Förderbänder und Teleporter. Scheitert ein Versuch, nennt das Spiel den Grund und markiert den schuldigen Befehl; je Level gibt es bis zu drei Sterne, Levelcodes und einen Profi-Modus ohne Hinweise.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein einzelnes, selbstentpackendes PRG für jeden PAL-C64 ohne Erweiterungen, deutsche Fassung „Doppelschicht“ und englische Fassung „Double Shift“; die D64 enthält beide. Steuerung mit Joystick in Port 2 (auch Port 1) oder Tastatur. Eigener SID-Player mit Titelmusik und fünf Spielmelodien. Getestet in VICE und auf der C64 Ultimate.\n\nSpiel: Sedor · Code, Musik, Level, Texte: Claude (Anthropic)"
+  "version": 1,
+  "sha1": "0292d240a87b878e1577872b34202ba707b5361e",
+  "md5": "375a51d01c97d9a1ed037db530890e73",
+  "crc32": "668ea93f",
+  "size": 23024,
+  "format": "PRG",
+  "files": [
+    "doubleshift.prg"
+  ],
+  "title": "Doppelschicht",
+  "year": "2026",
+  "publisher": "Emwee",
+  "developer": "Sedor",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "In der Frachthalle einer Raumstation programmiert man zwei Wartungsroboter, die ihre Befehlskacheln gleichzeitig Takt für Takt abarbeiten und gemeinsam Kisten auf alle Zielfelder bringen müssen. Neben Fahren, Drehen, Greifen und Warten gibt es Unterprogramme samt Schleifen; Kisten lassen sich zwischen den Robotern übergeben. 30 Level in fünf Abschnitten bringen Druckplatten und Türen, Theken, Förderbänder und Teleporter. Scheitert ein Versuch, nennt das Spiel den Grund und markiert den schuldigen Befehl; je Level gibt es bis zu drei Sterne, Levelcodes und einen Profi-Modus ohne Hinweise.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein einzelnes, selbstentpackendes PRG für jeden PAL-C64 ohne Erweiterungen, deutsche Fassung „Doppelschicht“ und englische Fassung „Double Shift“; die D64 enthält beide. Steuerung mit Joystick in Port 2 (auch Port 1) oder Tastatur. Eigener SID-Player mit Titelmusik und fünf Spielmelodien. Getestet in VICE und auf der C64 Ultimate.\n\nSpiel: Sedor · Code, Musik, Level, Texte: Claude (Anthropic) · Vorlagen für Titelbild und Logo: Pollo.ai.",
+  "images": {
+    "ss": "images/c5/c57722cdec8fcfaef120a3857925a5a3db42c9b4.png"
+  }
 }

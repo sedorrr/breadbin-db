@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "6dfb49f2c519c8ac4c8a5559c5aa0061091a93fa",
+  "md5": "87370767962db0436befa85df175e59b",
+  "crc32": "ce7f15fa",
+  "size": 29552,
+  "format": "PRG",
+  "files": [
+    "musketeer.prg"
+  ],
+  "screenscraper_id": "498809",
+  "title": "Musketeer",
+  "year": "2025",
+  "publisher": "Psytronik Software",
+  "developer": "Griffonsoft (Ola Zandelin & Dennis Gustafsson)",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Frankreich im 17. Jahrhundert: Kardinal Richelieu hat die Diamantknöpfe von Königin Anna rauben und in Paris verstecken lassen. Als letzter freier Musketier befreit man drei gefangene Kameraden, sucht die Diamanten in den Straßen und Kellern der Stadt und stellt am Ende den Kardinal. Arcade-Abenteuer mit Degenkämpfen, präzisen Sprüngen, beweglicher Kulisse und kleinen Rätseln über viele Einzelbildschirme, angelehnt an The Goonies, Bruce Lee und Zorro.\n\nPAL und NTSC, auch auf TheC64 Mini/Maxi. Erschienen als Band, Diskette und PRG, später auch als Modul (dort nur schnelleres Laden). Die Diskette startet ein Menü mit Ladebild oder Spiel; ihr Lader verweigert ein Laufwerk mit JiffyDOS-ROM (dann die PRG-Fassung nehmen).\n\nCode, Musik und Effekte: Ola Zandelin · Grafik und Verpackungsbild: Dennis Gustafsson · Lademusik und Bandmaster: Richard Bayliss · Modul: Mike Robertson · Verpackung: Jason „Kenz“ Mackenzie.",
+  "images": {
+    "sstitle": "images/f6/f6cf6a2a997ecd110538a89e20db925d5538f10c.png"
+  }
+}

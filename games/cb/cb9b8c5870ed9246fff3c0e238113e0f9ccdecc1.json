@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "cb9b8c5870ed9246fff3c0e238113e0f9ccdecc1",
+  "md5": "a7019f1d1a64fbcb1ce4add5edd8ca8c",
+  "crc32": "ef840c59",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "EVIL DUNGEON III.d64"
+  ],
+  "title": "Evil Dungeon III: Curse of the Sorcerer",
+  "year": "2025",
+  "publisher": "RetroArts",
+  "developer": "Gregor Schillinger",
+  "genres": [
+    "Rollenspiele",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Dritter Teil der Evil-Dungeon-Reihe: Die Akademie der Magischen Künste liegt unter dem Fluch eines Totenbeschwörers, und diesmal zieht die junge Zauberin Valeria allein los. Rundenbasierter Dungeon-Crawler mit Textbeschreibungen und schematischer Raumkarte: Räume untersuchen, Truhen mit Dietrichen öffnen, Tränke und Weihwasser sammeln, Gegner im Würfelkampf besiegen oder fliehen. Neu in diesem Teil sind Zaubersprüche wie Geisterpfeil, heilende Hände und Lebensentzug; eine Partie dauert etwa 60 bis 90 Minuten.\n\nNur Tastatur. Deutsche und englische Fassung auf einer Diskette; PAL und NTSC. Das Spiel speichert Spielstand (ein Platz, F5) und Ruhmeshalle auf der Diskette – das Abbild darf nicht schreibgeschützt sein; Schnelllader und Erweiterungsmodule meiden. Die auf itch.io später angebotene Fassung 1.2 unterstützt zusätzlich EAX (Sprachausgabe und Musik über ein MP3-Userport-Modul oder VICE 3.10). Das Diskverzeichnis enthält Directory-Art.\n\nSpiel: Gregor Schillinger · Musik: Nordischsound (Benjamin Dibbert) · Directory-Art: GuNKeN.",
+  "images": {
+    "sstitle": "images/94/94c69e05c4ae5e7a9bbab0cc8dc6ac9a73247db0.png"
+  }
+}

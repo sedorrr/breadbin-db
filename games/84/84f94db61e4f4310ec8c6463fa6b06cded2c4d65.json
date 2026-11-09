@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "84f94db61e4f4310ec8c6463fa6b06cded2c4d65",
+  "md5": "d46d9e3be7b45111b76a728975c76ed0",
+  "crc32": "61a02a29",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "The Catacombs of Cherubim.d64"
+  ],
+  "screenscraper_id": "122274",
+  "title": "The Catacombs of Cherubim",
+  "year": "2004",
+  "publisher": "natthrafn",
+  "developer": "Marcus Wagner",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Von Spelunker angeregtes Plattformspiel: Der Held durchsucht vier große Höhlensysteme und muss in jeder Höhle alle Diamanten, Kelche und Perlen einsammeln, um weiterzukommen. Schatztruhen bringen zufällig ein Extraleben, einen Unsichtbarkeitszauber, einen verfolgenden Geist oder einen Pfeil; ein Geist verschwindet, sobald man den Bildschirm wechselt.\n\nUnveränderte Originalfassung von 2004, 2025 auf itch.io neu veröffentlicht. Springen: erst Feuer, dann links oder rechts; Taste I wirkt einen Unsichtbarkeitszauber (unverwundbar). Der Autor empfiehlt im Emulator eine Tastaturbelegung für den Joystick. Kein Speichern. Nachfolger: Vault of Seraphim mit acht Höhlen und Höhleneditor.\n\nCode: Marcus Wagner",
+  "images": {
+    "ss": "images/cb/cb431c2064d9d9c803d5d212145feb46c8237c87.png",
+    "sstitle": "images/fc/fc44d9674b0e1c60e3fb90ecc4e9a99da061b131.png"
+  }
+}

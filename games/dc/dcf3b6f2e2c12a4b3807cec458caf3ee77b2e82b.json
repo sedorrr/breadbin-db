@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "dcf3b6f2e2c12a4b3807cec458caf3ee77b2e82b",
+  "md5": "729fca539096a685e0bb40ecc26e7e5a",
+  "crc32": "fec2c42d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "mikemech2.d64"
+  ],
+  "screenscraper_id": "532469",
+  "title": "Mike Mech 2",
+  "year": "2025",
+  "publisher": "LC-Games",
+  "developer": "Luca Carminati",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Mike Mech (2022): Aliens haben einen Frachtraumer befallen, und Bordmechaniker Mike muss in vier Laderäumen alle Hebel umlegen, damit ein Mikrowellenstrahl die Eindringlinge vernichtet. Er kann sich nicht wehren und weicht Aliens und Kühlventilatoren aus; er springt, klettert Leitern, fährt Aufzüge, nutzt Teleporter und sammelt Schlüsselkarten und Kristalle. Terminals zeigen, in welchen Räumen noch Hebel fehlen; ein Übungsmodus erlaubt zehn Minuten in einem einzelnen Laderaum.\n\nLäuft auf PAL und NTSC. Joystick in Port 2 (Feuer = Springen), F7 Pause, F1 zurück zum Titel. Fassung 1.1 behebt einen Fehler mit unendlich vielen Leben auf PAL. Besprochen in Zzap!64 Nr. 25.\n\nSpiel: Luca Carminati (LC-Games).",
+  "images": {
+    "sstitle": "images/a5/a53aac38fd8c24e1f8af598bfc77678273a0c09b.png"
+  }
+}

@@ -1,21 +1,24 @@
 {
-    "version": 1,
-    "sha1": "44df8c0f9e45fb60bc0b15c26356d3dcc34d612d",
-    "md5": "0d4607517908481669e98ab5b4dacf5b",
-    "crc32": "aa21940a",
-    "size": 43609,
-    "format": "PRG",
-    "files": [
-        "robo_courier.prg"
-    ],
-    "title": "Robo Courier",
-    "year": "2026",
-    "publisher": "DrTHO",
-    "developer": "DrTHO",
-    "genres": [
-        "Puzzle",
-        "Überlegung"
-    ],
-    "players": "1",
-    "synopsis": "Programmierrätsel: Ein Kurierroboter soll in jedem Raum einen Diamanten zum Ziel bringen und dort ablegen. Vor dem Start stellt man mit dem Mauszeiger eine Auftragsliste aus fünf Aktionen zusammen (Fahren, Aufnehmen, Ablegen, Schieben, Schalten); danach arbeitet der Roboter sie selbstständig ab. Im Weg liegen Tore mit UND/ODER-Bedingungen, Druckplatten für bestimmte Gewichte oder Kisten, Einwegfelder, Drehschalter und einbrechender Boden; in manchen Räumen teilen sich zwei Roboter eine Liste. Kein Zeitlimit, nach dem letzten Raum erscheint „WINNER“.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein einzelnes PRG ohne Nachladen, dazu als D64. Bedienung per Zeiger mit Joystick in Port 2 oder 1351-Maus in Port 1 (Mausbetrieb laut Autor nur in VICE getestet). Bildschirmtexte und Anleitung (PDF) auf Deutsch. Intro mit Bild aus Zeichensatzgrafik, Laufschrift und Logo aus Sprites im Rahmen.\n\nIdee, Grafik und Musik teils: DrTHO · Code: ChatGPT (GPT-6.1 „Sol“), ohne eine eigene Codezeile des Autors."
+  "version": 1,
+  "sha1": "44df8c0f9e45fb60bc0b15c26356d3dcc34d612d",
+  "md5": "0d4607517908481669e98ab5b4dacf5b",
+  "crc32": "aa21940a",
+  "size": 43609,
+  "format": "PRG",
+  "files": [
+    "robo_courier.prg"
+  ],
+  "title": "Robo Courier",
+  "year": "2026",
+  "publisher": "DrTHO",
+  "developer": "DrTHO",
+  "genres": [
+    "Puzzle",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Programmierrätsel: Ein Kurierroboter soll in jedem Raum einen Diamanten zum Ziel bringen und dort ablegen. Vor dem Start stellt man mit dem Mauszeiger eine Auftragsliste aus fünf Aktionen zusammen (Fahren, Aufnehmen, Ablegen, Schieben, Schalten); danach arbeitet der Roboter sie selbstständig ab. Im Weg liegen Tore mit UND/ODER-Bedingungen, Druckplatten für bestimmte Gewichte oder Kisten, Einwegfelder, Drehschalter und einbrechender Boden; in manchen Räumen teilen sich zwei Roboter eine Liste. Kein Zeitlimit, nach dem letzten Raum erscheint „WINNER“.\n\nBeitrag zur Forum64-KI-Compo 2026 (Oktober 2026, Aufgabe „Programmiere deinen Roboter!“, mit KI-Hilfe entstanden). Ein einzelnes PRG ohne Nachladen, dazu als D64. Bedienung per Zeiger mit Joystick in Port 2 oder 1351-Maus in Port 1 (Mausbetrieb laut Autor nur in VICE getestet). Bildschirmtexte und Anleitung (PDF) auf Deutsch. Intro mit Bild aus Zeichensatzgrafik, Laufschrift und Logo aus Sprites im Rahmen.\n\nIdee, Grafik und Musik teils: DrTHO · Code: ChatGPT (GPT-6.1 „Sol“), ohne eine eigene Codezeile des Autors.",
+  "images": {
+    "sstitle": "images/92/92d5185991ca16db0f925b206b55c421f2cf351a.png"
+  }
 }

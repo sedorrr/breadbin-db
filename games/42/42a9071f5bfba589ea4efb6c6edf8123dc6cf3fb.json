@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "42a9071f5bfba589ea4efb6c6edf8123dc6cf3fb",
+  "md5": "cec7f5eb309f62979d720c41c11652de",
+  "crc32": "350bc3d8",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ABYSSAL1.D64"
+  ],
+  "title": "Abyssal Karma – Part 1",
+  "year": "2025",
+  "publisher": "Rodrigo Yeowtch",
+  "developer": "Rodrigo Yeowtch, Richard Bayliss (The New Dimension)",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Mit dem Shoot 'Em Up Construction Kit gebautes Ballerspiel: Ein außerirdischer schwarzer Riesenspinnen-Alien bedroht die Erde, der Spieler fliegt mit seinem Jäger über die Landschaften, kämpft gegen Abwehranlagen und zwei Zwischenbosse und stellt sich am Ende der Spinne. Extras vergrößern schrittweise die Reichweite der Schüsse und bleiben auch nach einem Verlust erhalten; wer die Kanonenbein-Aliens abschießt, löst eine Smartbomb aus.\n\nErweiterte Fassung der ersten Ausgabe von 2024, mit neuem Titelbild, eigener Musik, eigenen Effekten, sichtbarem Endgegner und Highscore-Liste. Feuer auf Joystick Port 1 startet mit Soundeffekten, Feuer auf Port 2 mit Musik. Diese Disk ist die Szene-Fassung „+2H“ von S.E.U.C.K. Trainers United (Januar 2025, mit Highscore-Speicherung); nur PAL.\n\nDesign und Grafik: Rodrigo Yeowtch · Titelbild-Code, Erweiterungen, Effekte, Musik und Story: Richard Bayliss (TND)",
+  "images": {
+    "ss": "images/9f/9f3ba039dd7315cd615c5254ef5d9e3b3dc375a0.png",
+    "sstitle": "images/f3/f3d079446b5201deed5febc8a15bd32255d2a8cb.png"
+  }
+}

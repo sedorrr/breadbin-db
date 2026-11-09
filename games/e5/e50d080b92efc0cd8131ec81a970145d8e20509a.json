@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "e50d080b92efc0cd8131ec81a970145d8e20509a",
+  "md5": "b03334632019b437e3f7978398a561f1",
+  "crc32": "eff1a2c3",
+  "size": 377632,
+  "format": "CRT",
+  "files": [
+    "RandomAncientStones_v2_1.crt"
+  ],
+  "screenscraper_id": "531677",
+  "title": "Randoom Ancient Stones",
+  "year": "2025",
+  "publisher": "Pícaro Games",
+  "developer": "Dozznar",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Randoom (2021): Ein Abenteurer durchquert zehn heilige Tempel, um deren unbesiegbare Wächter, die Sentinels, zu Staub zu verwandeln und die zehn Lebensschlüssel zu erringen. Jeder Tempel hat drei Bildschirme mit gleicher Kulisse, aber anders angeordneten Plattformen. Die Wächter haben je eine eigene Farbe und müssen in fester Reihenfolge berührt werden – die Farbe der Spielfigur zeigt, wer als Nächstes dran ist; der falsche kostet ein Leben. Danach öffnet sich ein Sternentor zum nächsten Level.\n\nEasyFlash-Modul (mit Oscar64 in C geschrieben), Fassung 2.1; eine Diskettenfassung erschien später. Joystick in Port 2 (links, rechts, springen), Leertaste pausiert. Zwei Schwierigkeitsgrade, drei Continues. PAL, in NTSC getestet. Handbuch und Seite auf Spanisch und Englisch.\n\nProgrammierung und Effekte: Dozznar · Spielmechanik: Dozznar & Errazking · Grafik: Errazking · Musik: Narcisound · Bitmap- und Sample-Routine: Darro · Epilog: Netfmll · Cover: David Oroz.",
+  "images": {
+    "sstitle": "images/91/91fa6309d8b97e1fc8f0ec068684634954dc7870.png"
+  }
+}

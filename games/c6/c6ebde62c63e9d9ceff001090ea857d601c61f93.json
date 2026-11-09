@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "c6ebde62c63e9d9ceff001090ea857d601c61f93",
+  "md5": "67e9d21ec0e2a20b82450475b05c37da",
+  "crc32": "5c02388b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "quarx.d64"
+  ],
+  "title": "Quarx",
+  "year": "2025",
+  "publisher": "The 8-Bit Guy",
+  "developer": "David Murray (The 8-Bit Guy) und Team",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Schnelles Fallstein-Puzzlespiel ähnlich Columns: Von oben fallende Steine werden so gesetzt, dass waagerechte, senkrechte oder diagonale Reihen ohne Lücke entstehen. Vollständige Reihen verschwinden, die Steine darüber rutschen nach, und mit den Punkten steigt der Level. Erreicht der Stapel den oberen Rand, ist das Spiel vorbei.\n\nKommerzielles Spiel; die Disk enthält drei Fassungen: C64/C128 (64QUARX), VIC-20 mit 32-KB-Speichererweiterung (VICQUARX) und PET mit 32 KB (PETQUARX). Verkauft als Disk, VIC-20-Modul und Download, erschienen im Dezember 2025.\n\nMusik (C64): Noelle · weitere Mitwirkende: Piotr Radecki",
+  "images": {
+    "ss": "images/1e/1e9f870eddfe6ae14e6904d1f7fe321a60e94692.png",
+    "sstitle": "images/88/8852f38532dff424b1d7a737c5b614e2fc65a7f2.png"
+  }
+}

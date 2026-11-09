@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "4f3f6b7816747eb55c6a5207356cc140d7ff4a5d",
+  "md5": "f2f0c724c7cea08181580116a29960fe",
+  "crc32": "aa4e81b4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "zezitogcaves.d64"
+  ],
+  "screenscraper_id": "575997",
+  "title": "Zezito in the Glittering Caves",
+  "year": "2025",
+  "publisher": "Iapetus",
+  "developer": "Iapetus (Sandro)",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Giftige Stachelschnecken haben mit ihrem Schleim den Boden der Glitzerhöhlen verfärbt. Zezito holt sich Eimer und Farbroller und streicht den Boden jedes Levels wieder in seinen ursprünglichen Farben, ohne den Schnecken zu nahe zu kommen. Die Grafik ist bewusst schlicht gehalten (Hires-Zeichensatz und Hires-Sprites).\n\nGeschrieben in Forth (durexforth) als Lernprojekt; nur IRQ, Musikplayer und Punkteberechnung sind Maschinensprache, daher wird das Spiel in Levels mit vielen Sprites langsamer. Joystick in Port 2. Erschienen als D64 und als TAP (mit und ohne Vorspann); es gibt auch Fassungen für Thomson MO5, Acorn Electron und ZX Spectrum. Erste Veröffentlichung des Autors für die Gruppe Cosine.\n\nCode/Grafik: Iapetus · Musik und Soundeffekte: Odie (Cosine)",
+  "images": {
+    "sstitle": "images/15/15ccef508d58c131db0ca04d74b5baf0d5e4bfed.png"
+  }
+}

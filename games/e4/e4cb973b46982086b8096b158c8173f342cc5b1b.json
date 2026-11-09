@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "e4cb973b46982086b8096b158c8173f342cc5b1b",
+  "md5": "cd772378f0678b7cda17d33fe952d0e3",
+  "crc32": "ff11cf82",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SpaceInvaders.d64"
+  ],
+  "screenscraper_id": "501329",
+  "title": "Space Invaders",
+  "year": "2025",
+  "publisher": "LC-Games",
+  "developer": "LC-Games (Luca)",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung von Tomohiro Nishikados Automaten von 1978: Eine Laserkanone am unteren Rand schießt auf fünf Reihen zu je elf Aliens, die sich hin und her schiebend nähern; Schutzbunker zerbröseln nach und nach, ab und zu überquert ein Mystery-Schiff den oberen Rand. Je weniger Aliens übrig sind, desto schneller werden sie und die Musik. Punkte und Leben stehen im oberen und unteren Rahmen, damit das hohe Bildformat des Automaten erhalten bleibt.\n\nLäuft auf PAL und NTSC (an manchen NTSC-Bildschirmen ist der Rahmen eventuell nicht sichtbar). Joystick in Port 2, F7 Pause, F1 zurück zum Titel. Optionen: drei Schwierigkeitsstufen (Novice, Medium, Arcade), Dauerfeuer, drei Farbsätze, neun Schussgeräusche.",
+  "images": {
+    "ss": "images/82/82a5f2895f53fbd18b03ae83c717e13fdc0e812f.png",
+    "sstitle": "images/38/389460c0586508dba841545dedfcf517817b41f8.png"
+  }
+}

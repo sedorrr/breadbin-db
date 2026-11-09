@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "8bd575dbf3ae6bdafb90ec69c0df7652519abb7c",
+  "md5": "d0d286199b7572f7314f553ad29dee95",
+  "crc32": "26ec24a7",
+  "size": 21713,
+  "format": "PRG",
+  "files": [
+    "Umi Colors PAL.prg"
+  ],
+  "screenscraper_id": "576168",
+  "title": "Umi Colors",
+  "year": "2025",
+  "publisher": "KabutoCoder",
+  "developer": "KabutoCoder",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Aliens in vier Farben wollen die Stadt Umi zerstören. Umi nimmt per Joystick-Richtung plus Feuer die passende Farbe an (oben blau, unten grün, rechts rot, links gelb) und besiegt so jeden Gegner, indem er ihn in gleicher Farbe berührt. Jeder Bildschirm muss in 60 Sekunden geschafft werden, danach wird der Geldsack eingesammelt; acht Level, die sich wiederholen.\n\nGetrennte Fassungen für PAL und NTSC (hier PAL). Joystick, auch diagonal. Entwickelt mit der AGPX Game Maker Engine 2.2.1 (BASIC nach C) und kompiliert mit Oscar64. Erschienen im Dezember 2025.\n\nCode und Sprites: KabutoCoder · Bildschirmgrafik: Adrián Bonnette · Musik: Richard Bayliss · Test: Pedro Urán · Titelbild (itch.io): Retrovulcano",
+  "images": {
+    "sstitle": "images/48/4852e19df5e1c5fab607fffd13321e3726a79af9.png"
+  }
+}

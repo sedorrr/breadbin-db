@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "fcade215d36e756ff5e8b69e43bd008f090ff5c8",
+  "md5": "42433147ec439e6ccecae0e325a5a3f3",
+  "crc32": "ae9496ef",
+  "size": 394048,
+  "format": "CRT",
+  "files": [
+    "jupiter_fracture_(PAL).crt"
+  ],
+  "screenscraper_id": "510766",
+  "title": "Jupiter Fracture",
+  "year": "2025",
+  "publisher": "Commodore International",
+  "developer": "Jani Parviainen",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Jupiter Lander: Jupiter ist in Bruchstücke zerfallen, und der letzte überlebende Landerpilot erkundet die Trümmer, um die Ursache zu finden. In neun Stufen aus mehreren Bildschirmen steuert man durch enge Gänge zu Landeplattformen; jedes Bruchstück hat eine andere Schwerkraft, dazu kommen Lasertore, Kraftfelder, Minen und Wind. Treibstoff ist knapp, sanfte und genaue Landungen bringen mehr Punkte und Treibstoff; eine Minikarte zeigt die Lage, nach jeder Stufe gibt es einen Code.\n\nSteuerung wie beim Automaten Lunar Lander (Drehen und Schub), mit Joystick oder Tastatur. Unterstützt zwei SID-Chips. Erstes Spiel der neuen Commodore, als kostenloser Download (CommoServe) für Besitzer des Commodore 64 Ultimate; als EasyFlash-Modul (CRT), diese Datei PAL.\n\nCode: Jani Parviainen",
+  "images": {
+    "ss": "images/f9/f93d0abaed1730d8ac9ae2bb939b71a095ec2668.png",
+    "sstitle": "images/a5/a5e72e7b874b40c3519668411dcd82a91a640c08.png"
+  }
+}

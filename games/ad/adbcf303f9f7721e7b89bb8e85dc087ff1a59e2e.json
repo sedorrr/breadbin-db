@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "adbcf303f9f7721e7b89bb8e85dc087ff1a59e2e",
+  "md5": "c3f8c2abf1fdb56322e8e9a42f1a3bcd",
+  "crc32": "27ecf354",
+  "size": 525376,
+  "format": "CRT",
+  "files": [
+    "Sherwood64.crt"
+  ],
+  "screenscraper_id": "505117",
+  "title": "Sherwood",
+  "year": "2025",
+  "publisher": "Psytronik Software",
+  "developer": "Griffonsoft (Ola Zandelin & Dennis Gustafsson)",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Robin Hood hat das Bogenturnier auf Nottingham Castle gewonnen, doch dabei ist der Zauber gebrochen, der seine Identität verbarg. Nun muss er vor Prinz John und dessen Wachen in den Sherwood Forest fliehen, den Menschen dort helfen und die Pläne des Prinzen durchkreuzen. Zweites Spiel des Musketeer-Teams: Arcade-Abenteuer mit Pfeil und Bogen, Sprüngen und Rätseln über mehr als 30 Bildschirme; wer alle 45 Münzen sammelt, bekommt den Ring für Marian.\n\nPAL und NTSC, auch auf TheC64 Mini/Maxi. Erschienen als Band, Diskette, PRG und Modul (Ocean- und EasyFlash-Format; am 15.12.2025 korrigierte Modulfassung). Kein Speichern. Eine kostenlose Weihnachts-Demo gibt es gesondert.\n\nCode, Musik und Effekte: Ola Zandelin · Grafik und Verpackungsbild: Dennis Gustafsson · Bandmaster: Richard Bayliss · Bandlader: Paul Hughes · Lademusik: David Whittaker · Modul: Mike Robertson · Verpackung: Jason „Kenz“ Mackenzie.",
+  "images": {
+    "sstitle": "images/9a/9a41abaf6d92a30430261c71c028e4eae44782f1.png"
+  }
+}

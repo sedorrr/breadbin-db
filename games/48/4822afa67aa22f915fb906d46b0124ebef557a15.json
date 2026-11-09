@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "4822afa67aa22f915fb906d46b0124ebef557a15",
+  "md5": "37faa98b558baa9220d35845e6393fa5",
+  "crc32": "39058d7e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Spy_Komb_Game_Disk.d64"
+  ],
+  "title": "Spy Kombat II: Mr. X Return",
+  "year": "2025",
+  "publisher": "Voxvideogame&Co",
+  "developer": "Pinov Vox",
+  "genres": [
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Agent Shancky verfolgt den Schurken Mr. X, der die Daten eines gefährlichen Computervirus gestohlen hat. Zusammen mit seiner Partnerin Susan dringt er in dessen geheimes Labor ein, sammelt Daten aus Rechnern und weicht Laserschranken, Drohnen und Wachen aus, bis er Mr. X in den letzten Ebenen stellt und die Virendiskette sichert.\n\nMit einer von Martin Piper 2024 erweiterten Fassung des Sideways-SEUCK erstellt. Die Diskette bietet zwei Spielsätze: Satz 1 mit Shancky allein oder zu zweit mit Susan gleichzeitig (Joysticks in Port 1 und 2), Satz 2 mit Susan allein. Die Bandfassung verteilt die Sätze auf zwei Bänder; ein Modul gab es nur auf Anfrage beim Autor.\n\nSpiel: Pinov Vox · Musik: Vg Vox.",
+  "images": {
+    "sstitle": "images/9f/9feb7f8bf279fef238443ca67d9ea7b6dc8b5034.png"
+  }
+}

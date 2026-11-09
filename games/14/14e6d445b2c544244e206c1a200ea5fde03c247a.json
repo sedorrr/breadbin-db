@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "14e6d445b2c544244e206c1a200ea5fde03c247a",
+  "md5": "f65665bce0671af09d48c3d7ae0ee73f",
+  "crc32": "3aecf064",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "presepinellanebbia.d64"
+  ],
+  "title": "Presepi nella Nebbia",
+  "year": "2025",
+  "publisher": "Recycled Music",
+  "developer": "Recycled Music",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Weihnachtliches SEUCK-Spiel: Als Weihnachtsmann und Elf verkleidet ziehen zwei Helfer durch das neblige Dorf Mezzani am Po und verteilen Süßigkeiten an möglichst viele Kinder, während sie Hindernissen ausweichen. Ziel ist der Dorfplatz, auf dem sonst die Krippenausstellung stattfindet. Ursprünglich für diese Ausstellung gedacht, die dann ausfiel.\n\nBeitrag zur C64 SEUCK Compo 2025 (13. Platz), mit Sideways SEUCK (links nach rechts) erstellt. Spieler 1 ist der Weihnachtsmann, Spieler 2 der Elf.\n\nSpiel: Recycled Music · Musik: Richard/TND.",
+  "images": {
+    "ss": "images/0c/0cb54b62f98ee478ee95394202460665a4927a56.png"
+  }
+}

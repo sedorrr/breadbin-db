@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "bf51b12cccefe4489533871f40ffb3a62ac1ef67",
+  "md5": "77c70e693e6b8cb28adccb4b40936316",
+  "crc32": "6f18810d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tyrian towers_v2.d64"
+  ],
+  "screenscraper_id": "492983",
+  "title": "Tyrian's Towers",
+  "year": "2025",
+  "publisher": "Psytronik Software",
+  "developer": "ICON64",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Die Eier von Königin Mumph sind aus den königlichen Gemächern verschwunden, und ihr Leibwächter Tyrian soll so viele wie möglich zurückholen. Auf 50 isometrischen Bildschirmen sammelt er Eier, weicht Gegnern auf den Laufwegen aus oder betäubt bzw. erledigt sie mit seinem Hammer; Extra-Hämmer und tragbare Schildgeneratoren helfen. Erinnert an Crystal Castles.\n\nFassung 2 (Juni 2025) mit verbesserter, diagonaler Steuerung. PAL und NTSC, auch auf TheC64 Mini/Maxi. Erschienen als Band, Diskette und PRG, physisch auch als Modul; Teil der Psytronik Collection.\n\nCode: Stuart Collier · Grafik und Design: Trevor Storey · Musik: Saul Cross · Zusätzlicher Code und Modul: Mike Robertson.",
+  "images": {
+    "sstitle": "images/34/3401745a0d4e3aab4551f36bddb9ee765af99870.png"
+  }
+}

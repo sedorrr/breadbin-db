@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "a19220a77a4f095e380008382ef190b063d9d715",
+  "md5": "4c0103afc3b6b961e4dc143719d3cf31",
+  "crc32": "745fcfb6",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "carcer.d64"
+  ],
+  "screenscraper_id": "532193",
+  "title": "Carcer",
+  "year": "2025",
+  "publisher": "Haplo",
+  "developer": "Haplo",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Denkspiel im Kerker („carcer“ ist Latein für Kerker): Für jeden Schritt muss eine Münze hinter sich abgelegt werden, ohne Münzen geht es nicht weiter, abgelegte Münzen lassen sich aber wieder aufsammeln. Aus jedem Verlies müssen drei Schlüsselteile geholt werden, um das Ausgangstor zu öffnen, und die letzte Münze bleibt im Tor zurück. 32 Level mit steigender Schwierigkeit, inspiriert von Dungeon Escape; Levelcodes, kein Zeitlimit, keine Leben.\n\nPAL (empfohlen) und NTSC. Die Commodore-Taste oder der Feuerknopf setzt das Level zurück, die Leertaste schaltet die Musik um. Fassungen auch für Plus/4 und Atari 8-Bit.\n\nSpiel: Haplo.",
+  "images": {
+    "ss": "images/db/dbb01f91637890a4c2663985d5634dcfd050215f.png",
+    "sstitle": "images/6c/6cf32ad14a112a63e28cd4ecbf09815f1ab478e9.png"
+  }
+}

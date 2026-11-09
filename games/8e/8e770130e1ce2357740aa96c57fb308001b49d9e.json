@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "8e770130e1ce2357740aa96c57fb308001b49d9e",
+  "md5": "4c33d37a81d6c5a41073cd3e0c372d8b",
+  "crc32": "11c72572",
+  "size": 23412,
+  "format": "PRG",
+  "files": [
+    "Umi Bombs PAL.prg"
+  ],
+  "screenscraper_id": "576174",
+  "title": "Umi Bombs",
+  "year": "2025",
+  "publisher": "KabutoCoder",
+  "developer": "KabutoCoder (José Rafael Marcano Santelli)",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Der „Herrscher der Finsternis“ erpresst eine Stadt und hat Bomben auf ihren Hochhäusern versteckt. Umi fliegt mit ihrem Raketenrucksack umher, sammelt die Bomben einzeln ein und entschärft sie im Sprengstoffbehälter auf dem Dach – acht Bomben pro Gebäude in 60 Sekunden. Flugzeuge, Hubschrauber, Ballons und Ufos kosten bei Berührung das Spiel. Zwölf Level mit Endgegner, danach beginnt die Runde von vorn.\n\nGetrennte Dateien für PAL und NTSC. Mit der AGPX Game Maker Engine 2.2.1 geschrieben (BASIC wird nach C übersetzt und mit Oscar64 kompiliert). Bestenliste.\n\nSpiel: KabutoCoder · Grafik im Spiel: Adrián Bonnette · Musik: Esteban Trujillo · Programmierhilfe und Bestenliste: Dirk Roosen · Test: Pedro Urán.",
+  "images": {
+    "sstitle": "images/b2/b26b508f59d7a6a93dc08f6086f8d0b57720135c.png"
+  }
+}

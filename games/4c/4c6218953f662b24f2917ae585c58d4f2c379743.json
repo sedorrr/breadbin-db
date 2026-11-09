@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "4c6218953f662b24f2917ae585c58d4f2c379743",
+  "md5": "555994a06da2a2fa735e6767578a89a0",
+  "crc32": "ed7db6d4",
+  "size": 49540,
+  "format": "PRG",
+  "files": [
+    "tt64.prg"
+  ],
+  "screenscraper_id": "576291",
+  "title": "TT-64",
+  "year": "2025",
+  "publisher": "AJ Layden",
+  "developer": "AJ Layden",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Schlichtes Motorradrennen im Arcade-Stil: Von der Stadt aus fährt man gegen die Uhr zu einem von fünf Zielen. An den Kontrollpunkten entscheidet ein Schwenk nach links oder rechts, welche Strecke man nimmt. Drei Schwierigkeitsstufen bestimmen, wie dicht der Gegenverkehr kommt; auf Mittel und Schwer gibt es einen Zielbonus.\n\nEine einzelne PRG-Datei, läuft auf jedem C64. Für PAL gebaut, läuft auch auf NTSC (dort etwas schneller). Nur mit Joystick spielbar. Erschien auch auf der Heftdiskette der ZZAP! 64 Nr. 29 (Dezember 2025).\n\nSpiel: AJ Layden.",
+  "images": {
+    "sstitle": "images/61/61a37c7d920263e9bce7d9fc7acce2ac7f6fbd62.png"
+  }
+}

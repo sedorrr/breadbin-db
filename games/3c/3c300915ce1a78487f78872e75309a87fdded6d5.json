@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "3c300915ce1a78487f78872e75309a87fdded6d5",
+  "md5": "7f3b17dc013ee49782a82e6a43128abd",
+  "crc32": "d7743ed8",
+  "size": 21296,
+  "format": "PRG",
+  "files": [
+    "eggfeud.prg"
+  ],
+  "screenscraper_id": "531446",
+  "title": "Egg Feud",
+  "year": "2025",
+  "publisher": "Donut80",
+  "developer": "Ola Zandelin",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Plattformspiel in der Art früher Klassiker wie Jumpman Junior, Bounty Bob Strikes Back und Lode Runner: Auf kompakten Leveln mit Leitern müssen alle Eier eingesammelt werden, während Füchse umherstreifen. Jedes Ei bringt 10 Punkte, schnelles Abschließen einen Zeitbonus; eine Bestenliste lädt zur Punktejagd ein.\n\nJoystick: links/rechts laufen, hoch/runter klettern, Feuer springt. PAL und NTSC; als PRG kostenlos vom Entwickler. C64-Umsetzung des gleichnamigen Webspiels von donut80.com, mit einer eigenen Skript-Engine erstellt. Cracks erschienen von Triad (+2H) und Quantum (+1D, +5HD).\n\nC64-Fassung: Ola Zandelin · Vorlage: Donut80 (Webspiel).",
+  "images": {
+    "ss": "images/52/529c19f294da04eb102dca443c66a7b268f778a1.png",
+    "sstitle": "images/b4/b48fc06e7efc83439296d10fbc861e5ccbf81756.png"
+  }
+}

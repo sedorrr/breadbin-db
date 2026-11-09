@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "8321617a0ac9cacf0ad9b1608169320a5b9f35e9",
+  "md5": "e60e5b2239a68f9fcf7089120719c2b3",
+  "crc32": "a320c20a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Dominion+2HD-GP.d64"
+  ],
+  "screenscraper_id": "532451",
+  "title": "Dominion",
+  "year": "1988",
+  "publisher": "Micro Media",
+  "developer": "Mark Hughes, James Doyle",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Seitlich scrollendes Ballerspiel im Stil von Delta, 1988 von dem Team hinter Master Blaster und Black Tiger entwickelt. Micro Media (gegründet von Dave Baxter) fand keinen Verleger, das Spiel geriet in Vergessenheit; bekannt war nur die Musik aus einer Demo von Mark Tait. 2025 tauchte es auf einer alten Diskette auf, Mark Hughes bestätigte die Herkunft. Nach dem letzten Level beginnt das Spiel wieder von vorn; mit dem gleichnamigen Zzap!-64-Kassettenspiel hat es nichts zu tun.\n\nDiese Fassung ist der Crack „+2HD“ von Genesis Project (26. Juni 2025) mit zwei Trainern, Highscore-Speicherung auf Disk und Begleittext zur Geschichte; das Trainermenü erscheint beim Titelbild (Leertaste statt Feuer drücken, sonst wird es übersprungen). Joystick.\n\nCode: Mark Hughes, James Doyle · Grafik: Stephen Chandler, Peter Wolfe · Musik: Mark Tait · Fund und Docs: hedning · Trainer und Linking: Zyron (Genesis Project) · Test: Paladin",
+  "images": {
+    "sstitle": "images/64/6456f49359d9cda5c81df721fb157edc91ae01cc.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "fe6638b38824d2fba38ba092b191265d05bf0348",
+  "md5": "d1bfd9237df2860ada197b54195c3c96",
+  "crc32": "3ea86831",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "nikolavdemo.d64"
+  ],
+  "title": "Nikolav the Vampire (Demo)",
+  "year": "2025",
+  "publisher": "Patagonia",
+  "developer": "Juan Castiñeira",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Spielbare Demo eines Jump 'n' Runs: Frankenstein hat Lunara, die Geliebte des Vampirs Nikolav, in seine Festung entführt. Nikolav zieht durch Spukwälder, verfluchte Sümpfe und Katakomben und trifft dabei auf Zombiefrösche, Werwölfe, Mumien und andere Kreaturen.\n\nLäuft auf PAL, PAL-N und NTSC. Vorgestellt auf der Flashparty 2025 (Argentinien) am 18.10.2025 im Wettbewerb Videospiel, dort zweiter Platz. Die Vollversion ist noch in Arbeit.\n\nCode: Juan Castiñeira · Grafik: Adrian Bonnette · Musik: Narcisound.",
+  "images": {
+    "sstitle": "images/06/06735125802e2bf6c615cd2884564e43abf955a4.png"
+  }
+}

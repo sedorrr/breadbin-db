@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "33794bfbbbcfb98fb868a0426e7824a73360682d",
+  "md5": "b989955d7eecdc647bea3c7319c08019",
+  "crc32": "361b7031",
+  "size": 27122,
+  "format": "PRG",
+  "files": [
+    "elchef-pal-c.prg"
+  ],
+  "title": "El Chef",
+  "year": "2025",
+  "publisher": "Bonnette2020",
+  "developer": "Adrián Bonnette",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein schnauzbärtiger Koch mit hitzigem Gemüt muss in jeder Küche alle Mehlsäcke und Zaubereier einsammeln, bevor der Kuchen verbrennt. Ratten, Mücken und von der Decke fallende Messer sind ihm im Weg, am Boden lauern Spieße; zwischen heißen Pfannen und kochenden Töpfen läuft die Uhr. Jedes Level führt in eine neue, gefährlichere Küche.\n\nGetrennte Dateien für PAL und NTSC (hier die PAL-Fassung). Vollversion nach einer Demo im November 2025.\n\nSpiel und Grafik: Adrián Bonnette · Musik: Richard Bayliss · Betatest: Juan Castiñeira, José Miguel González, KabutoCoder.",
+  "images": {
+    "ss": "images/66/66a67a793dc0d2fbd28df814b492508a8bcc86c7.png",
+    "sstitle": "images/65/65f240eff0a3f894a69d254ed0561658cfb02e39.png"
+  }
+}

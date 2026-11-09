@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c00392ec27f1de5d51ea8689d30dc9900828d500",
+  "md5": "6a22034bea4689fedb0a5d44b34b37c6",
+  "crc32": "18424969",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Star Skimmer.d64"
+  ],
+  "screenscraper_id": "576360",
+  "title": "Star Skimmer (SEUCK-Compo-Fassung)",
+  "year": "2025",
+  "publisher": "Alf Yngve",
+  "developer": "Alf Yngve",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Vertikal scrollendes Weltraum-Ballerspiel, Vorgeschichte zu Captain Ishtar: Der halb pensionierte Captain Cole Skimmer soll den Brückenkopf des Nitwup-Imperiums im Asteroidengürtel zerstören und dabei gefangene Astronauten einsammeln. Man fliegt dicht über Asteroiden und Bauwerken; Bossschiffe passiert man, nachdem ihre Geschütze zerstört sind, mit Joystick nach oben.\n\nDiese Diskette enthält den ursprünglichen Beitrag zur C64 SEUCK Compo 2025, die das Spiel gewann (1. Platz), mit Parallax-Sternenfeld und zielenden Gegnern; die SEUCK-Arbeitsdatei liegt bei. Später erschien bei The New Dimension eine erweiterte SEUCK-Redux-Fassung mit Ladebild, Titelbild, Highscore-Liste und vier Levels. Nur PAL (50 Hz).\n\nSpiel: Alf Yngve · Mithilfe: Martin Piper · Musik: Richard Bayliss.",
+  "images": {
+    "ss": "images/27/27c5a80a13b6f0a30d8f57830565c25723618a85.png",
+    "sstitle": "images/22/227910cc0bd40dd3399b433dc0b3af08c98066b1.png"
+  }
+}

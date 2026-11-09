@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "5604125eb5c314bddde4e4083559c208a5c52404",
+  "md5": "385d5d83f73b1698b93af91ff9ab464e",
+  "crc32": "042bd87c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LUCIFIS.d64"
+  ],
+  "title": "Lucifis",
+  "year": "2025",
+  "publisher": "Raul Gubert",
+  "developer": "Raul Gubert",
+  "genres": [
+    "Shoot'em Up / Vertikal",
+    "Action"
+  ],
+  "synopsis": "Düsteres SEUCK-Spiel in zwei Akten (Warschau 1975 und Rom 2015): Ein seltsames Licht namens „Lucifis“ treibt die Menschen zu Gewalt, und man jagt als immuner Polizist im Streifenwagen die „Omega“-Mörder durch nächtliche Straßen. Unbeteiligte und Lebensmüde, die sich vor das Auto werfen, sollen verschont werden. Der Autor weist ausdrücklich auf die sehr gewalttätigen Themen hin; zwei weitere geplante Akte hat er anderen überlassen.\n\nBeitrag zur C64 SEUCK Compo 2025 (14. Platz), mit dem ursprünglichen Shoot 'Em Up Construction Kit erstellt. Die beiden Akte liegen als getrennte Programme auf der Diskette (LUCIFIS.ACT1/ACT2). Anleitung auf Englisch und Italienisch liegt bei.\n\nSpiel: Raul Gubert · Musik: Richard/TND.",
+  "images": {
+    "ss": "images/fb/fb2435696791bed222afb830dc5d6c6ca94876cc.png"
+  }
+}

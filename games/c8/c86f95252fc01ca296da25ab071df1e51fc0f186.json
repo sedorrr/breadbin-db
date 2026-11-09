@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c86f95252fc01ca296da25ab071df1e51fc0f186",
+  "md5": "25cee900c51535cf1e881d022d55e458",
+  "crc32": "b733da94",
+  "size": 38552,
+  "format": "PRG",
+  "files": [
+    "overload.prg"
+  ],
+  "screenscraper_id": "532445",
+  "title": "Overload",
+  "year": "2025",
+  "publisher": "drmortalwombat",
+  "developer": "Dr. Mortal Wombat",
+  "genres": [
+    "Gelegenheitsspiel",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Ruhiges Aufbau- und Klickspiel ohne Gegner: Ein Reaktor lässt Brennstoffkügelchen mit einem Laser zerplatzen und erzeugt so Energie. Ziel ist, in begrenzter Zeit eine Milliarde Energieeinheiten zu erzeugen. Mit den verdienten Credits kauft man im Laden Verbesserungen für das kleine Kraftwerk (Laser, Kühlgebläse, Kettenreaktion, Zündzellen, Abfallentsorgung u. a.); wer dauerhaft viel Energie liefert, steigt in der Technikstufe auf.\n\nEinzelnes Programm (PRG), Fassung V1.1, erschienen im Dezember 2025.\n\nCode: Dr. Mortal Wombat",
+  "images": {
+    "ss": "images/a1/a18541ae86bf03c3c0a98476cc57503c08e51fb6.png"
+  }
+}

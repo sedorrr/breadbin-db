@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "5c503123620213d8324ccdb29333712038be9189",
+  "md5": "3ceffa02e498dc4b9aa98091cf2a3a19",
+  "crc32": "5bd0de43",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Lunadia - Full Disk.d64"
+  ],
+  "title": "Lunadia",
+  "year": "2025",
+  "publisher": "Commodore Spain",
+  "developer": "Commodore Spain",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Der Mond Lunadia ist nach einem Asteroideneinschlag zerbrochen, und eine Mondforscherin sammelt die herabfallenden Trümmer ihrer Forschung ein, bevor die Zeit abläuft. Die Spielfigur kann nur nach links und rechts laufen; der Feuerknopf wirkt als Schubkraft nach oben, die Schwerkraft zieht sie wieder herunter. Sechs Wellen mit je 65 Sekunden und steigender Punktegrenze, wobei die Trümmer immer schneller fallen; sechs Leben.\n\nMit Garry Kitchens GameMaker (Activision, 1985) erstellt. Joystick in Port 2. Die „Full Disk“ startet ein Menü mit Spiel und Abspann; daneben gibt es eine Basic-Diskette und eine Bandfassung mit Ladebild und Musik. Läuft auch mit Kung Fu Flash, Tapuino und SD2IEC.\n\nIdee, Programmierung, Grafik und Musik im Spiel: Commodore Spain · Musik Ladebild: Narcisound.",
+  "images": {
+    "ss": "images/02/02a47d7dc7eee4dd3b9cc4b62701c3598563ec0b.png",
+    "sstitle": "images/64/64b87d7ac831099283f3372f56f6c58138771291.png"
+  }
+}

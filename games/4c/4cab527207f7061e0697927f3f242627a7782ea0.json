@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "4cab527207f7061e0697927f3f242627a7782ea0",
+  "md5": "0d32583b35482005bde9978d8b8f8c4e",
+  "crc32": "95002531",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Puppix_TheCabbageForest_Disk.d64"
+  ],
+  "title": "Puppix – The Cabbage Forest",
+  "year": "2025",
+  "publisher": "Pinov Vox",
+  "developer": "Pinov Vox",
+  "genres": [
+    "Action",
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Halloween-Abenteuer mit dem Seemann Puppix: Das Haus seiner Freundin Olga liegt unter violettem Nebel, und auf der Suche nach ihr kämpft er sich mit Fausthieben durch böse Geister, den verrückten Seemann Butch und die Hexe Evilia. Vier Abschnitte führen von Olgas Haus durch den Kohlwald; Dosen mit grünem Kohl und rote Herzen bringen Vorteile und Bonuspunkte.\n\nBeitrag zum zweiten Teil der C64 SEUCK Compo 2025 (8. Platz), mit Sideways SEUCK (Fassung „Left“) erstellt, mit Ladebild, Menü und Musik. Joystick in beliebigem Port. Auf der Diskette liegen ein Vorspann und das Spiel in zwei Teilen.\n\nSpiel: Pinov Vox · Ladebild: Fabs · Musik: Richard/TND.",
+  "images": {
+    "ss": "images/e6/e6f4d882c8df981f41ef0c7ab3479485085518fc.png",
+    "sstitle": "images/14/14283f3a74bc69f504f968eb5df4773492b68236.png"
+  }
+}

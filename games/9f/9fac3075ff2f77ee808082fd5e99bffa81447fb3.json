@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "9fac3075ff2f77ee808082fd5e99bffa81447fb3",
+  "md5": "f610ab66fd58324ac3aaa0a283ce0207",
+  "crc32": "b7a05d31",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Slither Pro.d64"
+  ],
+  "screenscraper_id": "576303",
+  "title": "Slither Pro",
+  "year": "2025",
+  "publisher": "Milasoft",
+  "developer": "Milasoft",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Spiel nach dem Vorbild von Centipede: Der Tausendfüßler ruckelt Zeichen für Zeichen über den Bildschirm und wird von unten abgeschossen. Die Pro-Fassung stellt dem Hauptspiel einen Trainingsteil voran, einen Kampf gegen einen Riesenkäfer. Entstanden aus Resten eines anderen Projekts.\n\nSteuerung wahlweise mit Joystick oder Tastatur (Auswahl im Menü), Schild auf der Commodore-Taste, Musik und Effekte über F-Tasten umschaltbar. Disk-Fassung. Der Autor verkauft das Spiel auf itch.io zusammen mit dem Quellcode und einer Fassung mit Trainer.\n\nCode: Milasoft · Musik: Richard Bayliss · Sprites: Hend",
+  "images": {
+    "ss": "images/08/08609e4b620a70c0c5d545d9930ff827728a2fe2.png"
+  }
+}

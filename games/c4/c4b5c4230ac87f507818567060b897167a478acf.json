@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c4b5c4230ac87f507818567060b897167a478acf",
+  "md5": "0fb21ca7d27293fb386e69fd6ffec009",
+  "crc32": "3d417a42",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Thunder Bird.d64"
+  ],
+  "title": "Thunder Bird (SEUCK-Compo-Fassung)",
+  "year": "2025",
+  "publisher": "Annwn Games",
+  "developer": "Eleanor Burns",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Western-Abenteuer mit Horror-Einschlag: Die Lakota Zintkala, seit dem Überfall auf ihren Stamm eine Gesetzlose, soll 1885 den Schlangendämon Unk Cekula besiegen, den Goldsucher in den Black Hills geweckt haben. In drei Abschnitten (Bergbaustadt, Badlands-Express, Black Hills) schießt und springt sie sich nach rechts durch Banditen, Wendigos und fliegende Köpfe. Fässer enthalten zufällige Extras (Waffenstufe, Dynamit, Leben, Schild); wer unschuldige Tiere tötet, verliert eine Waffenstufe.\n\nMit Sideways SEUCK von Martin Piper erstellt und per Maschinensprache stark erweitert (Sprung, Schussrichtungen, Parallax-Effekte). Joystick in Port 1 oder 2, Taste S zündet Dynamit. Beitrag zur C64 SEUCK Compo 2025 (dritter Platz laut offizieller Ergebnisliste); The New Dimension brachte später eine Fassung mit neuem Titelbild heraus. Englische Anleitung liegt bei.\n\nSpiel, Grafik und Erweiterungen: Eleanor Burns · Musik: Richard Bayliss · Sideways SEUCK: Martin Piper.",
+  "images": {
+    "ss": "images/ba/baec9ea19bc0ec71d2b7d907d5a69165636ad553.png",
+    "sstitle": "images/5f/5f66df509784a98eaf67f70bc9959056666e520f.png"
+  }
+}
