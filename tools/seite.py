@@ -30,10 +30,17 @@ def main():
             files += 1
             k = key(g.get("title") or g["sha1"])
             e = groups.setdefault(k, {"t": g.get("title") or "?", "v": []})
-            for src, dst in (("year", "y"), ("publisher", "p"), ("developer", "d"), ("players", "pl"),
-                             ("synopsis", "s")):
+            for src, dst in (("year", "y"), ("publisher", "p"), ("developer", "d"), ("players", "pl")):
                 if g.get(src) and not e.get(dst):
                     e[dst] = g[src]
+            # Beschreibungen wie in der App: `texts` vor `synopsis` (Einträge vor 0.8.0 haben nur `synopsis`).
+            texts = g.get("texts") or {}
+            en = (texts.get("en") or "").strip()
+            de = (texts.get("de") or "").strip() or ((g.get("synopsis") or "").strip() if (g.get("synopsis") or "").strip() != en else "")
+            if en and not e.get("se"):
+                e["se"] = en
+            if de and not e.get("s"):
+                e["s"] = de
             if g.get("genres") and not e.get("g"):
                 e["g"] = g["genres"]
             imgs = g.get("images") or {}

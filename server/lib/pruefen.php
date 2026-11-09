@@ -138,6 +138,15 @@ function pruefe_spiel(string $rel, array $g, string $sha1Pfad): array
             $p[] = "$rel: $f muss Text sein / must be a string";
         }
     }
+    if (isset($g['texts'])) {
+        $ok = is_array($g['texts']);
+        foreach ($ok ? $g['texts'] : [] as $k => $v) {
+            $ok = $ok && in_array($k, ['de', 'en'], true) && is_string($v) && mb_strlen($v) <= 20000;
+        }
+        if (!$ok) {
+            $p[] = "$rel: texts: nur de/en mit Text (höchstens 20 000 Zeichen) / only de/en with text (max. 20,000 characters)";
+        }
+    }
     if (isset($g['genres']) && (!is_array($g['genres']) || array_filter($g['genres'], fn($x) => !is_string($x)))) {
         $p[] = "$rel: genres muss eine Liste von Texten sein / must be a list of strings";
     }

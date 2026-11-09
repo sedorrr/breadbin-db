@@ -6,7 +6,8 @@ declare(strict_types=1);
 // Felder, die verglichen werden (Dateinamen und Prüfsummen außer SHA-1 nicht: sie beschreiben dieselbe Datei).
 const VG_FELDER = [
     'title' => 'Titel', 'year' => 'Jahr', 'publisher' => 'Herausgeber', 'developer' => 'Entwickler',
-    'genres' => 'Genres', 'players' => 'Spieler', 'synopsis' => 'Beschreibung', 'screenscraper_id' => 'ScreenScraper-Nr.',
+    'genres' => 'Genres', 'players' => 'Spieler', 'text_de' => 'Beschreibung (DE)', 'text_en' => 'Beschreibung (EN)',
+    'screenscraper_id' => 'ScreenScraper-Nr.',
 ];
 const VG_BILDARTEN = ['sstitle' => 'Titelbild', 'ss' => 'Spielszene', 'box-2D' => 'Verpackung'];
 
@@ -59,8 +60,37 @@ function stand_spiele(array $c): ?array
 }
 
 /** Wert eines Feldes zum Vergleichen und Anzeigen (Genres als Text, fehlend = ''). */
+/** Deutsche und englische Beschreibung wie in der App: `texts` vor `synopsis` (Einträge vor 0.8.0 haben nur `synopsis`). */
+function texte(array $g): array
+{
+    $t = is_array($g['texts'] ?? null) ? $g['texts'] : [];
+    $en = trim((string)($t['en'] ?? ''));
+    $de = trim((string)($t['de'] ?? ''));
+    if ($de === '') {
+        $s = trim((string)($g['synopsis'] ?? ''));
+        $de = $s !== $en ? $s : '';
+    }
+    return [$de, $en];
+}
+
+/** Schreibt beide Beschreibungen zurück wie die App: `texts` nur mit Englisch, `synopsis` = Deutsch bzw. Englisch. */
+function setze_texte(array $g, string $de, string $en): array
+{
+    unset($g['texts'], $g['synopsis']);
+    if ($en === '') {
+        if ($de !== '') { $g['synopsis'] = $de; }
+        return $g;
+    }
+    $g['texts'] = $de !== '' ? ['de' => $de, 'en' => $en] : ['en' => $en];
+    $g['synopsis'] = $de !== '' ? $de : $en;
+    return $g;
+}
+
 function vg_wert(array $g, string $feld): string
 {
+    if ($feld === 'text_de' || $feld === 'text_en') {
+        return str_replace("\r", '', texte($g)[$feld === 'text_de' ? 0 : 1]);
+    }
     $v = $g[$feld] ?? '';
     if (is_array($v)) {
         $v = implode(', ', $v);

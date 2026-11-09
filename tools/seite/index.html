@@ -121,6 +121,12 @@ const EN = {
   n: (a, b) => b === undefined ? `${a} games` : `${a} of ${b} games`,
   dev: "Developer", players: "Players", noimg: "no picture",
 };
+const GENRE_EN = { "Plattform": "Platform", "Jump 'n' Run": "Run & Jump", "Vertikal": "Vertical", "Labyrinth": "Maze",
+  "Abenteuer": "Adventure", "Breakout Spiele": "Breakout games", "Grafik": "Graphics", "Strategie": "Strategy", "Fallen": "Falling blocks",
+  "Überlegung": "Thinking", "Rollenspiele": "Role-playing", "Rennen": "Racing", "Fahren": "Driving", "Sport": "Sports",
+  "Kartenspiele": "Card games", "Brettspiele": "Board games", "Flipper": "Pinball", "Gelegenheitsspiel": "Casual",
+  "Geschicklichkeit": "Skill", "Sammlung": "Compilation", "Lernspiel": "Educational" };
+const tg = (g) => (lang === "en" ? g.split(" / ").map((p) => GENRE_EN[p] ?? p).join(" / ") : g);
 const DE = { n: (a, b) => b === undefined ? `${a} Spiele` : `${a} von ${b} Spielen`, unknown: "unbekannt",
   dev: "Entwicklung", players: "Spieler", noimg: "kein Bild" };
 let lang = (navigator.language || "de").slice(0, 2) === "de" ? "de" : "en";
@@ -177,7 +183,7 @@ function fillFormats() {
   sel.insertAdjacentHTML("beforeend", fmts.map((f) => `<option>${esc(f)}</option>`).join(""));
 }
 
-const hay = (e) => (e._h ??= [e.t, e.p, e.d, e.y, ...(e.g || []), ...e.v.map((v) => v.n)].join(" ").toLowerCase());
+const hay = (e) => (e._h ??= [e.t, e.p, e.d, e.y, ...(e.g || []), ...(e.g || []).map((g) => g.split(" / ").map((p) => GENRE_EN[p] ?? p).join(" / ")), ...e.v.map((v) => v.n)].join(" ").toLowerCase());
 
 function search() {
   const words = $("#q").value.toLowerCase().split(/\s+/).filter(Boolean);
@@ -191,6 +197,14 @@ function search() {
   try { history.replaceState(null, "", $("#q").value ? `#${encodeURIComponent($("#q").value)}` : location.pathname); } catch { /* egal */ }
 }
 
+// Beschreibung in der gewählten Sprache, sonst die andere mit Hinweis.
+function text(e) {
+  const want = lang === "en" ? e.se : e.s, other = lang === "en" ? e.s : e.se;
+  if (want) return `<p lang="${lang}">${esc(want)}</p>`;
+  if (!other) return "";
+  return `<p lang="${lang === "en" ? "de" : "en"}">${esc(other)}</p><p class="sub">${lang === "en" ? "Description only available in German." : "Beschreibung nur auf Englisch vorhanden."}</p>`;
+}
+
 function card(e) {
   const img = e.sstitle || e.ss;
   const sub = [e.y, e.p].filter(Boolean).map(esc).join(" · ");
@@ -200,11 +214,11 @@ function card(e) {
     <div class="info">
       <div class="title">${esc(e.t)}</div>
       <div class="sub">${sub}</div>
-      <div class="chips">${fmts.map((f) => `<span class="chip f">${esc(f)}</span>`).join("")}${(e.g || []).map((g) => `<span class="chip">${esc(g)}</span>`).join("")}</div>
+      <div class="chips">${fmts.map((f) => `<span class="chip f">${esc(f)}</span>`).join("")}${(e.g || []).map((g) => `<span class="chip">${esc(tg(g))}</span>`).join("")}</div>
     </div>
     <div class="more">
       ${e.sstitle && e.ss ? `<div class="shots2"><img loading="lazy" alt="" src="${esc(e.sstitle)}"><img loading="lazy" alt="" src="${esc(e.ss)}"></div>` : ""}
-      ${e.s ? `<p>${esc(e.s)}</p>` : ""}
+      ${text(e)}
       <div class="sub">${[e.d && `${T("dev")}: ${esc(e.d)}`, e.pl && `${T("players")}: ${esc(e.pl)}`].filter(Boolean).join(" · ")}</div>
       <div class="files">${e.v.map((v) => `${esc(v.n)} · ${esc(v.f)} · ${nf(v.z)} B · SHA-1 ${esc(v.h)}`).join("<br>")}</div>
     </div>

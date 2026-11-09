@@ -53,7 +53,8 @@ function auswahl(array $c, array $b): ?array
 }
 
 // Bearbeitungen der Prüfenden neben der ZIP-Datei: [sha1 => Felder]. Die eingegangene Datei bleibt unverändert.
-const EDIT_FELDER = ['title' => 200, 'year' => 20, 'publisher' => 200, 'developer' => 200, 'players' => 50, 'synopsis' => 20000];
+const EDIT_FELDER = ['title' => 200, 'year' => 20, 'publisher' => 200, 'developer' => 200, 'players' => 50, 'synopsis' => 20000,
+    'synopsis_en' => 20000];
 
 function edits_pfad(array $c, array $b): string
 {
@@ -73,7 +74,13 @@ function mit_edits(array $g, ?array $e): array
     if (!$e) {
         return $g;
     }
-    foreach (array_keys(EDIT_FELDER) as $f) {
+    // Beschreibungen: „synopsis“ = Deutsch, „synopsis_en“ = Englisch; zurück ins Format über setze_texte().
+    if (array_key_exists('synopsis', $e) || array_key_exists('synopsis_en', $e)) {
+        [$de, $en] = texte($g);
+        $g = setze_texte($g, array_key_exists('synopsis', $e) ? (string)$e['synopsis'] : $de,
+            array_key_exists('synopsis_en', $e) ? (string)$e['synopsis_en'] : $en);
+    }
+    foreach (array_diff(array_keys(EDIT_FELDER), ['synopsis', 'synopsis_en']) as $f) {
         if (array_key_exists($f, $e)) {
             if ($e[$f] === '') {
                 unset($g[$f]);
@@ -421,7 +428,9 @@ if ($admin) {
               <?php endforeach ?>
             </table></details>
           <?php endif ?>
-          <?php if (!empty($g['synopsis'])): ?><div><?= nl2br(h($g['synopsis'])) ?></div><?php endif ?>
+          <?php [$tde, $ten] = texte($g); ?>
+          <?php if ($tde !== ''): ?><div><span class="chip">DE</span> <?= nl2br(h($tde)) ?></div><?php endif ?>
+          <?php if ($ten !== ''): ?><div lang="en"><span class="chip">EN</span> <?= nl2br(h($ten)) ?></div><?php endif ?>
           <div class="bilder"><?php foreach (($g['images'] ?? []) as $art => $bild): ?>
             <img src="?id=<?= (int)$b['id'] ?>&amp;bild=<?= h(rawurlencode($bild)) ?>" alt="<?= h($art) ?>" title="<?= h($art) ?>">
           <?php endforeach ?></div>
@@ -440,7 +449,8 @@ if ($admin) {
                 <label>Herausgeber <input name="publisher" value="<?= h($g['publisher'] ?? '') ?>" maxlength="200"></label>
                 <label>Entwickler <input name="developer" value="<?= h($g['developer'] ?? '') ?>" maxlength="200"></label>
                 <label>Genres (mit Komma getrennt) <input name="genres" value="<?= h(implode(', ', $g['genres'] ?? [])) ?>"></label>
-                <label>Beschreibung <textarea name="synopsis" rows="5" maxlength="20000"><?= h($g['synopsis'] ?? '') ?></textarea></label>
+                <label>Beschreibung (Deutsch) <textarea name="synopsis" rows="5" maxlength="20000"><?= h($tde) ?></textarea></label>
+                <label>Beschreibung (Englisch) <textarea name="synopsis_en" rows="5" maxlength="20000" lang="en"><?= h($ten) ?></textarea></label>
                 <?php if (!empty($orig['images'])): ?>
                   <div class="meta">Bilder weglassen:
                     <?php foreach ($orig['images'] as $art => $bild): ?>

@@ -84,6 +84,10 @@ def check_games():
             for f in TEXT_FIELDS:
                 if f in g and not isinstance(g[f], str):
                     bad(rel, f"{f} muss Text sein / must be a string")
+            texts = g.get("texts", {})
+            if not isinstance(texts, dict) or not all(k in ("de", "en") and isinstance(v, str) and len(v) <= 20000
+                                                      for k, v in texts.items()):
+                bad(rel, "texts: nur de/en mit Text (höchstens 20 000 Zeichen) / only de/en with text (max. 20,000 characters)")
             if not isinstance(g.get("genres", []), list) or not all(isinstance(x, str) for x in g.get("genres", [])):
                 bad(rel, "genres muss eine Liste von Texten sein / must be a list of strings")
             if not isinstance(g.get("files", []), list):
