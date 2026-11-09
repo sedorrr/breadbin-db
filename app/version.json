@@ -1,6 +1,6 @@
 {
-  "version": "0.6.3",
+  "version": "0.7.0",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Diskettenspiele mit Autostart-Lader starten jetzt",
-  "notes_en": "Disk games with an autostart loader now start"
+  "notes_de": "Titelbild automatisch, Zufallsspiel (Taste Z), Gemeinschaftsdaten im Web",
+  "notes_en": "Automatic title picture, random game (key Z), community data on the web"
 }
