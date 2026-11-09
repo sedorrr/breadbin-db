@@ -88,6 +88,7 @@ def einspielen(daten):
             neu += 1
         elif json.loads(alt) == json.loads(inhalt):
             gleich += 1
+            continue  # nur andere Schreibweise (Einrückung, Reihenfolge): Datei im Repository lassen
         else:
             geaendert += 1
         if alt != inhalt:
