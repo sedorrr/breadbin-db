@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "C64-Umsetzung des 2014 erschienenen interaktiven Teasers zum eingestellten Silent Hills, angelehnt an die Game-Boy-Color-Fassung. Man erwacht in einem Raum, der in einen sich ständig wiederholenden und verändernden Flur führt, und setzt nach und nach die düstere Vergangenheit des Ortes zusammen. Kurzes Horror-Abenteuer in Draufsicht.\n\nLäuft auf PAL (empfohlen) und NTSC. Zu Halloween 2025 erschienen, kleines Update im November 2025.\n\nSpiel: Haplo.",
+  "texts": {
+    "de": "C64-Umsetzung des 2014 erschienenen interaktiven Teasers zum eingestellten Silent Hills, angelehnt an die Game-Boy-Color-Fassung. Man erwacht in einem Raum, der in einen sich ständig wiederholenden und verändernden Flur führt, und setzt nach und nach die düstere Vergangenheit des Ortes zusammen. Kurzes Horror-Abenteuer in Draufsicht.\n\nLäuft auf PAL (empfohlen) und NTSC. Zu Halloween 2025 erschienen, kleines Update im November 2025.\n\nSpiel: Haplo.",
+    "en": "C64 conversion of the 2014 interactive teaser for the cancelled Silent Hills, modelled on the Game Boy Color version. You wake up in a room that leads into a constantly repeating and changing corridor, and gradually piece together the dark past of the place. A short top-down horror adventure.\n\nRuns on PAL (recommended) and NTSC. Released for Halloween 2025, small update in November 2025.\n\nGame: Haplo."
+  },
   "images": {
     "sstitle": "images/ab/ab2eb187b185e6c203353793a683a0365c4aa339.png"
   }

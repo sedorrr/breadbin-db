@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "dc4f489616d687cd23945841f58f5741658a6a69",
+  "md5": "0c6f327555faa70a730709cbbb1eec52",
+  "crc32": "170aec8b",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Spelunker.crt",
+    "Spelunker [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35952",
+  "title": "Spelunker",
+  "year": "1984",
+  "publisher": "Brøderbund",
+  "developer": "Tim Martin",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein Höhlenforscher steigt mit einem Aufzug in ein weit verzweigtes Höhlensystem hinab und sucht Schätze. Unterwegs braucht er Schlüssel für Türen, Dynamit gegen Geröll, Leuchtfackeln gegen Fledermäuse und einen Geisterstrahler, dessen Batterien nachgeladen werden müssen. Schon kleine Stürze, Dampf oder Vulkanspalten sind tödlich, deshalb kommt es auf genaue Sprünge an. Das Spiel gilt als frühes Beispiel für ein großes, zusammenhängendes Plattform-Abenteuer.\n\nDiese Fassung ist eine Disk2EasyFlash-Umsetzung: das Spiel liegt auf einem EasyFlash-Modul und lädt von dort schnell, ohne Diskette.\n\nCode: Tim Martin · Musik: Tim Martin",
+  "texts": {
+    "de": "Ein Höhlenforscher steigt mit einem Aufzug in ein weit verzweigtes Höhlensystem hinab und sucht Schätze. Unterwegs braucht er Schlüssel für Türen, Dynamit gegen Geröll, Leuchtfackeln gegen Fledermäuse und einen Geisterstrahler, dessen Batterien nachgeladen werden müssen. Schon kleine Stürze, Dampf oder Vulkanspalten sind tödlich, deshalb kommt es auf genaue Sprünge an. Das Spiel gilt als frühes Beispiel für ein großes, zusammenhängendes Plattform-Abenteuer.\n\nDiese Fassung ist eine Disk2EasyFlash-Umsetzung: das Spiel liegt auf einem EasyFlash-Modul und lädt von dort schnell, ohne Diskette.\n\nCode: Tim Martin · Musik: Tim Martin",
+    "en": "A cave explorer descends in a lift into a vast, branching cave system in search of treasure. Along the way he needs keys for doors, dynamite against rubble, flares against bats and a ghost blaster whose batteries have to be recharged. Even small falls, steam or volcanic fissures are fatal, so precise jumps are essential. The game is regarded as an early example of a large, interconnected platform adventure.\n\nThis version is a Disk2EasyFlash conversion: the game sits on an EasyFlash cartridge and loads quickly from there, without a disk.\n\nCode: Tim Martin · Music: Tim Martin"
+  },
+  "images": {
+    "ss": "images/39/398c51eb74b98281ff8a61b38ccb1a09f920b976.png",
+    "sstitle": "images/64/6480d22907433500ea9d76b3c42cb950be14f2fc.png"
+  }
+}

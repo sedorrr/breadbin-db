@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Drohnenrennen in einer großen Höhle: Als rote Drohne tritt man gegen eine grüne und eine blaue an, wobei die Startpositionen jedes Mal ausgelost werden. Zwei blinkende Kontrollpunkte müssen durchflogen werden, sonst folgt die Disqualifikation; wer nicht innerhalb von zwei Minuten ins Ziel kommt, scheidet aus. Die Drohnen überstehen Wandberührungen und fliegen nebeneinander her, statt zusammenzustoßen.\n\nBeitrag zum Reset64 4KB Craptastic Game Competition 2024. Crack-Fassung von Blazon mit Anleitung. Joystick in Port 2, für PAL entwickelt (vom Autor gibt es eine eigene NTSC-Fassung).\n\nDesign, Code: Geir Straume",
+  "texts": {
+    "de": "Drohnenrennen in einer großen Höhle: Als rote Drohne tritt man gegen eine grüne und eine blaue an, wobei die Startpositionen jedes Mal ausgelost werden. Zwei blinkende Kontrollpunkte müssen durchflogen werden, sonst folgt die Disqualifikation; wer nicht innerhalb von zwei Minuten ins Ziel kommt, scheidet aus. Die Drohnen überstehen Wandberührungen und fliegen nebeneinander her, statt zusammenzustoßen.\n\nBeitrag zum Reset64 4KB Craptastic Game Competition 2024. Crack-Fassung von Blazon mit Anleitung. Joystick in Port 2, für PAL entwickelt (vom Autor gibt es eine eigene NTSC-Fassung).\n\nDesign, Code: Geir Straume",
+    "en": "Drone race in a large cavern: as the red drone the player competes against a green and a blue one, with the starting positions drawn at random each time. Two flashing checkpoints have to be flown through, otherwise disqualification follows; anyone who does not reach the finish within two minutes is out. The drones survive touching the walls and fly alongside each other instead of colliding.\n\nEntry for the Reset64 4KB Craptastic Game Competition 2024. Cracked version by Blazon with instructions. Joystick in port 2, developed for PAL (the author has released a separate NTSC version).\n\nDesign, code: Geir Straume"
+  },
   "images": {
     "ss": "images/22/227e22aac9d54c67250500fc6a3885ae29c46aba.png",
     "sstitle": "images/c6/c6d987f7b5b85177937c27d4ea486b3c924e04af.png"

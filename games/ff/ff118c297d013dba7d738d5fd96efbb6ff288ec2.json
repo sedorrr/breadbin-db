@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "ff118c297d013dba7d738d5fd96efbb6ff288ec2",
+  "md5": "60581852db3916de83aacd6dd45237dc",
+  "crc32": "2db6453d",
+  "size": 10148,
+  "format": "T64",
+  "files": [
+    "GALAXIAN.T64"
+  ],
+  "screenscraper_id": "35998",
+  "title": "Galaxian",
+  "year": "1984",
+  "publisher": "Atarisoft",
+  "developer": "Atarisoft",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Namco-Automaten von 1979: Eine Formation außerirdischer Schiffe schwebt am oberen Bildrand, aus der sich einzelne Gegner und Gruppen mit ihrem Flaggschiff im Sturzflug lösen. Das Schiff des Spielers bewegt sich am unteren Rand und darf nur einen Schuss gleichzeitig abgeben. Galaxian brachte farbige Gegner und Angriffe im Sturzflug in das Space-Invaders-Prinzip.\n\nErschien als Modul von Atarisoft. Steuerung per Joystick in Port 2, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Alan Pavlish",
+  "texts": {
+    "de": "Umsetzung des Namco-Automaten von 1979: Eine Formation außerirdischer Schiffe schwebt am oberen Bildrand, aus der sich einzelne Gegner und Gruppen mit ihrem Flaggschiff im Sturzflug lösen. Das Schiff des Spielers bewegt sich am unteren Rand und darf nur einen Schuss gleichzeitig abgeben. Galaxian brachte farbige Gegner und Angriffe im Sturzflug in das Space-Invaders-Prinzip.\n\nErschien als Modul von Atarisoft. Steuerung per Joystick in Port 2, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Alan Pavlish",
+    "en": "Conversion of Namco's 1979 arcade game: a formation of alien ships hovers at the top of the screen, from which individual enemies and groups with their flagship break away in dive attacks. The player's ship moves along the bottom edge and may only fire one shot at a time. Galaxian brought coloured enemies and dive attacks to the Space Invaders concept.\n\nReleased as a cartridge by Atarisoft. Controlled with a joystick in port 2; two players take turns.\n\nCode and graphics: Alan Pavlish"
+  }
+}

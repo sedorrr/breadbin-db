@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d506139cf45771ed0f00e2d3868c5044efe0f39a",
+  "md5": "6acbd2af24fcaaa510b0ab317458480d",
+  "crc32": "a3d2547c",
+  "size": 500752,
+  "format": "CRT",
+  "files": [
+    "Curse Of The Azure Bonds.crt",
+    "Curse of the Azure Bonds [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35890",
+  "title": "Curse of the Azure Bonds",
+  "year": "1989",
+  "publisher": "SSI",
+  "developer": "SSI",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Die Heldengruppe erwacht mit fünf blauen Zeichen auf den Armen, die sie an fremde Mächte binden. Um sich zu befreien, muss sie die Urheber der einzelnen Zeichen in den Vergessenen Reichen aufspüren. Wie Pool of Radiance setzt das Spiel die AD&D-Regeln mit rundenbasierten Kämpfen auf einem Raster um; Figuren aus dem Vorgänger lassen sich übernehmen. Die Handlung beruht auf dem gleichnamigen Roman.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul; das Spiel lädt aus dem Modul statt von Diskette und kommt deshalb ohne Diskettenwechsel aus.\n\nCode: Paul Murray, Keith Brors, Jim Jennings · Grafik: Tom Wahl, Fred Butts, Mark Johnson · Musik: Dave Warhol",
+  "texts": {
+    "de": "Die Heldengruppe erwacht mit fünf blauen Zeichen auf den Armen, die sie an fremde Mächte binden. Um sich zu befreien, muss sie die Urheber der einzelnen Zeichen in den Vergessenen Reichen aufspüren. Wie Pool of Radiance setzt das Spiel die AD&D-Regeln mit rundenbasierten Kämpfen auf einem Raster um; Figuren aus dem Vorgänger lassen sich übernehmen. Die Handlung beruht auf dem gleichnamigen Roman.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul; das Spiel lädt aus dem Modul statt von Diskette und kommt deshalb ohne Diskettenwechsel aus.\n\nCode: Paul Murray, Keith Brors, Jim Jennings · Grafik: Tom Wahl, Fred Butts, Mark Johnson · Musik: Dave Warhol",
+    "en": "The party of heroes wakes up with five blue marks on their arms that bind them to unknown powers. To free themselves, they must track down the originators of each mark in the Forgotten Realms. Like Pool of Radiance, the game implements the AD&D rules with turn-based combat on a grid; characters from the predecessor can be imported. The story is based on the novel of the same name.\n\nThis version is a conversion to an EasyFlash cartridge; the game loads from the cartridge instead of from disk and therefore needs no disk swapping.\n\nCode: Paul Murray, Keith Brors, Jim Jennings · Graphics: Tom Wahl, Fred Butts, Mark Johnson · Music: Dave Warhol"
+  },
+  "images": {
+    "sstitle": "images/09/09bc10d1e92cf814640066affaaa59dc0c6d404c.png"
+  }
+}

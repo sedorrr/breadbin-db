@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "dbe51882fadb885c44d2b0798443eb093032e428",
+  "md5": "e5906dd42a00621eba7c6f633fdd92f8",
+  "crc32": "4139aee6",
+  "size": 205264,
+  "format": "CRT",
+  "files": [
+    "Mayhem in Monsterland.crt",
+    "Mayhem In Monsterland [EasyFlash].crt"
+  ],
+  "screenscraper_id": "114564",
+  "title": "Mayhem in Monsterland",
+  "year": "1993",
+  "publisher": "Apex Computer Productions",
+  "developer": "Apex Computer Productions",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Ein schnelles Jump 'n' Run mit dem kleinen Dinosaurier Mayhem, der Monsterland aus Trübsinn und Farblosigkeit befreien soll. Jede Welt muss zweimal bewältigt werden: zuerst in tristen Farben, bis genug Magie gesammelt ist, dann farbenfroh und mit neuen Aufgaben. Flüssiges Scrolling in hohem Tempo, kräftige Farben und viele Geheimnisse ließen das Spiel als eines der technisch besten auf dem C64 gelten – erschienen, als der Markt für den Rechner bereits zu Ende ging.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nDesign: John Rowlands, Steve Rowlands, Andy Roberts",
+  "texts": {
+    "de": "Ein schnelles Jump 'n' Run mit dem kleinen Dinosaurier Mayhem, der Monsterland aus Trübsinn und Farblosigkeit befreien soll. Jede Welt muss zweimal bewältigt werden: zuerst in tristen Farben, bis genug Magie gesammelt ist, dann farbenfroh und mit neuen Aufgaben. Flüssiges Scrolling in hohem Tempo, kräftige Farben und viele Geheimnisse ließen das Spiel als eines der technisch besten auf dem C64 gelten – erschienen, als der Markt für den Rechner bereits zu Ende ging.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nDesign: John Rowlands, Steve Rowlands, Andy Roberts",
+    "en": "A fast platform game starring the little dinosaur Mayhem, who has to free Monsterland from gloom and colourlessness. Each world has to be completed twice: first in drab colours until enough magic has been collected, then in bright colours and with new tasks. Smooth high-speed scrolling, vivid colours and many secrets led to the game being regarded as one of the technically best on the C64 – released when the market for the computer was already coming to an end.\n\nThis version is a conversion to an EasyFlash cartridge and runs without a disk.\n\nDesign: John Rowlands, Steve Rowlands, Andy Roberts"
+  }
+}

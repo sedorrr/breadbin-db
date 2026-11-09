@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "fc3f9f9d18400bb4f509166e3e5f76a2a94450ac",
+  "md5": "32877e2582b25386c02a95f10d48e4ef",
+  "crc32": "60798119",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "IMPMIS1.D64"
+  ],
+  "screenscraper_id": "36062",
+  "title": "Impossible Mission",
+  "year": "1984",
+  "publisher": "Epyx",
+  "developer": "Epyx (Dennis Caswell)",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Der Geheimagent Agent 4125 muss in der unterirdischen Anlage des Wissenschaftlers Elvin Atombender die Teile eines Passworts finden, bevor die Zeit abläuft. Dazu durchsucht er Möbel in vielen Räumen, weicht Robotern mit Saltosprüngen aus und setzt am Ende gefundene Kartenteile wie ein Puzzle zusammen. Die geschmeidigen Animationen und die digitalisierte Sprachausgabe waren 1984 eine Sensation.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Dennis Caswell · Grafik: Michael Kosaka · Sprache: Electronic Speech Systems",
+  "texts": {
+    "de": "Der Geheimagent Agent 4125 muss in der unterirdischen Anlage des Wissenschaftlers Elvin Atombender die Teile eines Passworts finden, bevor die Zeit abläuft. Dazu durchsucht er Möbel in vielen Räumen, weicht Robotern mit Saltosprüngen aus und setzt am Ende gefundene Kartenteile wie ein Puzzle zusammen. Die geschmeidigen Animationen und die digitalisierte Sprachausgabe waren 1984 eine Sensation.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Dennis Caswell · Grafik: Michael Kosaka · Sprache: Electronic Speech Systems",
+    "en": "Secret Agent 4125 has to find the pieces of a password in the underground complex of the scientist Elvin Atombender before time runs out. To do so, he searches furniture in many rooms, avoids robots with somersault jumps and finally assembles the card pieces he has found like a jigsaw puzzle. The smooth animations and digitised speech were a sensation in 1984.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: Dennis Caswell · Graphics: Michael Kosaka · Speech: Electronic Speech Systems"
+  },
+  "images": {
+    "ss": "images/8b/8bee862840fbcd3195a5ac90500974ed84529422.png",
+    "sstitle": "images/8b/8b62558a7c3d9a8fd8b2917f046db44cc7527bb7.png"
+  }
+}

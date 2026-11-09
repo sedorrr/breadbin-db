@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "f8f60087f161245739b471527fdd2be63fe1b0ce",
+  "md5": "407ff0a33fb82b98f9321ec45dbc3bca",
+  "crc32": "779790c6",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "THRUST1.D64"
+  ],
+  "screenscraper_id": "36761",
+  "title": "Thrust",
+  "year": "1986",
+  "publisher": "Firebird",
+  "developer": "Jeremy C. Smith",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Angelehnt an den Automaten Gravitar: Ein kleines Schiff muss in verwinkelten Höhlen eine Energiekugel an einem Seil aufnehmen und an die Oberfläche bringen. Schwerkraft, Trägheit und die schwingende Last machen die Steuerung schwer, Geschütze feuern auf das Schiff und der Treibstoff ist knapp. Die bewusst schlichte Grafik erinnert an Vektorgrafik. Das Billigspiel gilt wegen seiner Physik als Klassiker.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Jeremy C. Smith · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Angelehnt an den Automaten Gravitar: Ein kleines Schiff muss in verwinkelten Höhlen eine Energiekugel an einem Seil aufnehmen und an die Oberfläche bringen. Schwerkraft, Trägheit und die schwingende Last machen die Steuerung schwer, Geschütze feuern auf das Schiff und der Treibstoff ist knapp. Die bewusst schlichte Grafik erinnert an Vektorgrafik. Das Billigspiel gilt wegen seiner Physik als Klassiker.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Jeremy C. Smith · Musik: Rob Hubbard",
+    "en": "Inspired by the arcade machine Gravitar: a small ship has to pick up an energy pod on a tether in winding caverns and bring it to the surface. Gravity, inertia and the swinging load make it hard to control, gun emplacements fire at the ship and fuel is scarce. The deliberately simple graphics are reminiscent of vector graphics. The budget game is regarded as a classic because of its physics.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: Jeremy C. Smith · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/24/245ba0dc3f8b0e7c818fe848eb133035ed281672.png",
+    "sstitle": "images/99/99cea94020ce32d46a21817a16a86b92daf9da4b.png"
+  }
+}

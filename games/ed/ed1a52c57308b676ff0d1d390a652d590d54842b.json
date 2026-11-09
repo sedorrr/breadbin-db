@@ -18,6 +18,10 @@
   ],
   "players": "1-2",
   "synopsis": "Knobel-Plattformspiel mit 40 Einzel- und 30 Koop-Levels. Die Spielfigur kann über Schwerkraftkapseln die Schwerkraft in alle vier Richtungen umlegen und mit Laserportalen springen; Spiegel lenken Laser um. Die ersten Level dienen als Einführung, die Koop-Level lassen sich auch allein spielen. Wer feststeckt, startet den Level mit DEL neu.\n\nDiskettenfassung 1.0.0 (Erstveröffentlichung 01.09.2023) mit Krill-Schnelllader; spätere Fassungen bis 1.0.5 beheben Fehler, eine Modulfassung und ein Level-Editor für den PC kamen dazu. Joystick, Englisch. Geschrieben mit Turbo Rascal Syntax Error (TRSE).\n\nCode, Grafik, Leveldesign: Andy Daumann · Musik: picrard",
+  "texts": {
+    "de": "Knobel-Plattformspiel mit 40 Einzel- und 30 Koop-Levels. Die Spielfigur kann über Schwerkraftkapseln die Schwerkraft in alle vier Richtungen umlegen und mit Laserportalen springen; Spiegel lenken Laser um. Die ersten Level dienen als Einführung, die Koop-Level lassen sich auch allein spielen. Wer feststeckt, startet den Level mit DEL neu.\n\nDiskettenfassung 1.0.0 (Erstveröffentlichung 01.09.2023) mit Krill-Schnelllader; spätere Fassungen bis 1.0.5 beheben Fehler, eine Modulfassung und ein Level-Editor für den PC kamen dazu. Joystick, Englisch. Geschrieben mit Turbo Rascal Syntax Error (TRSE).\n\nCode, Grafik, Leveldesign: Andy Daumann · Musik: picrard",
+    "en": "Puzzle platformer with 40 single-player and 30 co-op levels. Using gravity capsules, the character can switch gravity in all four directions and jump through laser portals; mirrors redirect lasers. The first levels serve as an introduction, and the co-op levels can also be played alone. Anyone stuck can restart the level with DEL.\n\nDisk version 1.0.0 (first release 01.09.2023) with Krill's fast loader; later versions up to 1.0.5 fix bugs, and a cartridge version and a level editor for the PC were added. Joystick, English. Written with Turbo Rascal Syntax Error (TRSE).\n\nCode, graphics, level design: Andy Daumann · Music: picrard"
+  },
   "images": {
     "sstitle": "images/2b/2b084b58560d780f2b078c65b5e2b8ba71d26c7f.png"
   }

@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Spielbare Demo eines Jump 'n' Runs: Frankenstein hat Lunara, die Geliebte des Vampirs Nikolav, in seine Festung entführt. Nikolav zieht durch Spukwälder, verfluchte Sümpfe und Katakomben und trifft dabei auf Zombiefrösche, Werwölfe, Mumien und andere Kreaturen.\n\nLäuft auf PAL, PAL-N und NTSC. Vorgestellt auf der Flashparty 2025 (Argentinien) am 18.10.2025 im Wettbewerb Videospiel, dort zweiter Platz. Die Vollversion ist noch in Arbeit.\n\nCode: Juan Castiñeira · Grafik: Adrian Bonnette · Musik: Narcisound.",
+  "texts": {
+    "de": "Spielbare Demo eines Jump 'n' Runs: Frankenstein hat Lunara, die Geliebte des Vampirs Nikolav, in seine Festung entführt. Nikolav zieht durch Spukwälder, verfluchte Sümpfe und Katakomben und trifft dabei auf Zombiefrösche, Werwölfe, Mumien und andere Kreaturen.\n\nLäuft auf PAL, PAL-N und NTSC. Vorgestellt auf der Flashparty 2025 (Argentinien) am 18.10.2025 im Wettbewerb Videospiel, dort zweiter Platz. Die Vollversion ist noch in Arbeit.\n\nCode: Juan Castiñeira · Grafik: Adrian Bonnette · Musik: Narcisound.",
+    "en": "Playable demo of a platform game: Frankenstein has abducted Lunara, the beloved of the vampire Nikolav, to his fortress. Nikolav travels through haunted forests, cursed swamps and catacombs, encountering zombie frogs, werewolves, mummies and other creatures along the way.\n\nRuns on PAL, PAL-N and NTSC. Presented at Flashparty 2025 (Argentina) on 18.10.2025 in the video game competition, where it took second place. The full version is still in progress.\n\nCode: Juan Castiñeira · Graphics: Adrian Bonnette · Music: Narcisound."
+  },
   "images": {
     "sstitle": "images/06/06735125802e2bf6c615cd2884564e43abf955a4.png"
   }

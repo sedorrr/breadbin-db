@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "fdea37e489adaee8668b685369f023480643549a",
+  "md5": "4631accd0aba2bb58139626da1a91185",
+  "crc32": "fa5cd8dc",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BUGGYBOY.D64"
+  ],
+  "screenscraper_id": "36721",
+  "title": "Buggy Boy",
+  "year": "1987",
+  "publisher": "Elite",
+  "developer": "Dave Thomas",
+  "genres": [
+    "Rennen",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Tatsumi-Automaten: Mit einem Strandbuggy geht es über fünf Strecken durch Wald, Wüste und Küste gegen die Uhr. Durch Tore fahren bringt Punkte und Zeit, über Baumstämme und Felsen springt der Buggy, und auf zwei Rädern lassen sich enge Stellen passieren. Fahnen in bestimmter Reihenfolge ergeben Sonderpunkte. Die C64-Fassung wurde für ihre flüssige Darstellung gelobt.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Dave Thomas",
+  "texts": {
+    "de": "Umsetzung des Tatsumi-Automaten: Mit einem Strandbuggy geht es über fünf Strecken durch Wald, Wüste und Küste gegen die Uhr. Durch Tore fahren bringt Punkte und Zeit, über Baumstämme und Felsen springt der Buggy, und auf zwei Rädern lassen sich enge Stellen passieren. Fahnen in bestimmter Reihenfolge ergeben Sonderpunkte. Die C64-Fassung wurde für ihre flüssige Darstellung gelobt.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Dave Thomas",
+    "en": "Conversion of the Tatsumi arcade game: a beach buggy races against the clock over five courses through forest, desert and coast. Driving through gates gives points and time, the buggy jumps over logs and rocks, and narrow spots can be passed on two wheels. Flags collected in a certain order give bonus points. The C64 version was praised for its smooth graphics.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: Dave Thomas"
+  },
+  "images": {
+    "ss": "images/55/551707894616fdcd44dd6c118b61ef8bc20e9290.png",
+    "sstitle": "images/eb/eb5263192f4190e0353f6837123e5b5e46c5e515.png"
+  }
+}

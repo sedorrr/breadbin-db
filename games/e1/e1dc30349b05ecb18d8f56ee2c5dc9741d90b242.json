@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "e1dc30349b05ecb18d8f56ee2c5dc9741d90b242",
+  "md5": "b93a186dcfc02f07a633d534ae110247",
+  "crc32": "32d7c081",
+  "size": 33812,
+  "format": "T64",
+  "files": [
+    "HEXENKUE.T64"
+  ],
+  "screenscraper_id": "36116",
+  "title": "Cauldron",
+  "year": "1985",
+  "publisher": "Palace Software",
+  "developer": "Palace Software",
+  "genres": [
+    "Plattform",
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Eine Hexe will den Kürbiskönig besiegen und braucht dafür einen Zaubertrank aus sechs Zutaten. Über der Erde fliegt sie auf dem Besen durch eine seitlich scrollende Landschaft und wehrt Gegner mit Zauberschüssen ab, in Höhlen und Gewölben wird daraus ein Plattformspiel über viele Bildschirme. Ihre Zauberkraft nimmt mit der Zeit und bei Treffern ab. Die Verbindung zweier Spielarten und die düstere Halloween-Stimmung machten Cauldron bekannt.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Stanley Schembri, Richard Leinfellner · Grafik: Steve Brown · Musik: Keith Miller",
+  "texts": {
+    "de": "Eine Hexe will den Kürbiskönig besiegen und braucht dafür einen Zaubertrank aus sechs Zutaten. Über der Erde fliegt sie auf dem Besen durch eine seitlich scrollende Landschaft und wehrt Gegner mit Zauberschüssen ab, in Höhlen und Gewölben wird daraus ein Plattformspiel über viele Bildschirme. Ihre Zauberkraft nimmt mit der Zeit und bei Treffern ab. Die Verbindung zweier Spielarten und die düstere Halloween-Stimmung machten Cauldron bekannt.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Stanley Schembri, Richard Leinfellner · Grafik: Steve Brown · Musik: Keith Miller",
+    "en": "A witch wants to defeat the Pumpkin King and needs a magic potion made from six ingredients for this. Above ground she flies on her broomstick through a horizontally scrolling landscape and fends off enemies with magic shots; in caves and vaults it becomes a platform game spanning many screens. Her magic power decreases over time and when hit. The combination of two game styles and the gloomy Halloween atmosphere made Cauldron well known.\n\nThis file contains the game as a tape archive (T64); several versions exist (original, conversions, cracks).\n\nCode: Stanley Schembri, Richard Leinfellner · Graphics: Steve Brown · Music: Keith Miller"
+  },
+  "images": {
+    "ss": "images/7e/7e274dff9567490580bde955d6d14c0205fd9568.png",
+    "sstitle": "images/13/1363f71ba6bafc52d09009e8a43b011e63313655.png"
+  }
+}

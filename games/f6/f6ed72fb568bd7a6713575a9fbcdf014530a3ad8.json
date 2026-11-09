@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "f6ed72fb568bd7a6713575a9fbcdf014530a3ad8",
+  "md5": "f92f7c7c77e88e6f7a5378f43c0e5d82",
+  "crc32": "0f014b28",
+  "size": 15830,
+  "format": "T64",
+  "files": [
+    "BLUEMAX.T64"
+  ],
+  "screenscraper_id": "36279",
+  "title": "Blue Max",
+  "year": "1983",
+  "publisher": "Synapse Software",
+  "developer": "Peter Adams",
+  "genres": [
+    "Shoot'em Up",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Ein Doppeldecker des Ersten Weltkriegs fliegt in schräger Draufsicht über eine scrollende Landschaft. Der Spieler bekämpft feindliche Flugzeuge in der Luft, bombardiert Brücken, Schiffe, Fahrzeuge und Gebäude und muss dabei Höhe, Treibstoff und Bomben im Blick behalten. Gelandet wird auf eigenen Flugfeldern zum Auftanken und Reparieren. Am Ende wartet eine Stadt mit Sonderzielen.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Peter Adams · Design: Bob Polin · Musik (SID): Stephen C. Biggs",
+  "texts": {
+    "de": "Ein Doppeldecker des Ersten Weltkriegs fliegt in schräger Draufsicht über eine scrollende Landschaft. Der Spieler bekämpft feindliche Flugzeuge in der Luft, bombardiert Brücken, Schiffe, Fahrzeuge und Gebäude und muss dabei Höhe, Treibstoff und Bomben im Blick behalten. Gelandet wird auf eigenen Flugfeldern zum Auftanken und Reparieren. Am Ende wartet eine Stadt mit Sonderzielen.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Peter Adams · Design: Bob Polin · Musik (SID): Stephen C. Biggs",
+    "en": "A First World War biplane flies over a scrolling landscape in an oblique top-down view. The player fights enemy aircraft in the air and bombs bridges, ships, vehicles and buildings, while keeping an eye on altitude, fuel and bombs. Landings are made on friendly airfields to refuel and repair. At the end a city with special targets awaits.\n\nThis file contains the game as a tape archive (T64); there are several versions (original, conversions, cracks).\n\nCode: Peter Adams · Design: Bob Polin · Music (SID): Stephen C. Biggs"
+  },
+  "images": {
+    "ss": "images/1b/1b8242084693d599ef637108bb762736a5752fd0.png",
+    "sstitle": "images/28/28cf46f9620d10ae82b1f9d3341ef2acbed80769.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "dd5c476f6ed51a2c01093fa8b2656fa64363c007",
+  "md5": "446e0d308870837fc285bcf1ba709b29",
+  "crc32": "4be2089f",
+  "size": 188848,
+  "format": "CRT",
+  "files": [
+    "Newzealand Story (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36064",
+  "title": "The New Zealand Story",
+  "year": "1989",
+  "publisher": "Ocean",
+  "developer": "Ocean (Richard Palmer, Steve Wahid)",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Taito-Automaten von 1988: Ein Seeleopard hat die Freunde des Kiwis Tiki aus dem Zoo entführt, und Tiki macht sich auf den Weg durch Neuseeland, um sie zu befreien. Mit Pfeil und Bogen kämpft er sich durch verwinkelte, in alle Richtungen scrollende Labyrinthe, sammelt Waffen und erobert Ballons und andere Fluggeräte von Gegnern. Am Ende jedes Abschnitts wartet ein eingesperrter Kiwi, nach mehreren Abschnitten ein großer Endgegner. Das niedliche Aussehen täuscht über einen recht hohen Schwierigkeitsgrad hinweg.\n\nGesteuert wird per Joystick. Neben den Originalen auf Diskette und Kassette gibt es eine MultiLoad64-Umsetzung als EasyFlash-Modul von $olo1870.\n\nCode: Richard Palmer · Grafik: Steve Wahid · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten von 1988: Ein Seeleopard hat die Freunde des Kiwis Tiki aus dem Zoo entführt, und Tiki macht sich auf den Weg durch Neuseeland, um sie zu befreien. Mit Pfeil und Bogen kämpft er sich durch verwinkelte, in alle Richtungen scrollende Labyrinthe, sammelt Waffen und erobert Ballons und andere Fluggeräte von Gegnern. Am Ende jedes Abschnitts wartet ein eingesperrter Kiwi, nach mehreren Abschnitten ein großer Endgegner. Das niedliche Aussehen täuscht über einen recht hohen Schwierigkeitsgrad hinweg.\n\nGesteuert wird per Joystick. Neben den Originalen auf Diskette und Kassette gibt es eine MultiLoad64-Umsetzung als EasyFlash-Modul von $olo1870.\n\nCode: Richard Palmer · Grafik: Steve Wahid · Musik: Jonathan Dunn",
+    "en": "Conversion of the 1988 Taito arcade machine: a leopard seal has kidnapped the friends of Tiki the kiwi from the zoo, and Tiki sets off across New Zealand to rescue them. With bow and arrow he fights his way through winding mazes that scroll in all directions, collects weapons and captures balloons and other flying craft from enemies. At the end of each section a caged kiwi awaits, and after several sections a large boss. The cute look belies a fairly high level of difficulty.\n\nControlled with a joystick. Besides the originals on disk and cassette, there is a MultiLoad64 conversion as an EasyFlash cartridge by $olo1870.\n\nCode: Richard Palmer · Graphics: Steve Wahid · Music: Jonathan Dunn"
+  }
+}

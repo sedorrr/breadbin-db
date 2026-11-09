@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Horizontal scrollendes Shoot'em Up im Stil von R-Type mit Waffen-Extras und Endgegnern in vier Leveln. Ab Fassung 1.1 ist jedes Level in vier Abschnitte mit Rücksetzpunkten geteilt und die Karten sind länger; Satellit und aufladbarer Strahl wurden dabei entfernt. Geschrieben in C mit dem Compiler Oscar64, mit Parallax-Scrolling und Sprite-Multiplexing.\n\nAls Modul (CRT); Scrolling laut Entwickler mit 50/60 Bildern pro Sekunde. Vorher gab es eine Demo (Build 0.9.2) als PRG.",
+  "texts": {
+    "de": "Horizontal scrollendes Shoot'em Up im Stil von R-Type mit Waffen-Extras und Endgegnern in vier Leveln. Ab Fassung 1.1 ist jedes Level in vier Abschnitte mit Rücksetzpunkten geteilt und die Karten sind länger; Satellit und aufladbarer Strahl wurden dabei entfernt. Geschrieben in C mit dem Compiler Oscar64, mit Parallax-Scrolling und Sprite-Multiplexing.\n\nAls Modul (CRT); Scrolling laut Entwickler mit 50/60 Bildern pro Sekunde. Vorher gab es eine Demo (Build 0.9.2) als PRG.",
+    "en": "Horizontally scrolling shoot 'em up in the style of R-Type with weapon power-ups and bosses across four levels. From version 1.1 onwards each level is split into four sections with checkpoints and the maps are longer; the satellite and the chargeable beam were removed in the process. Written in C with the Oscar64 compiler, with parallax scrolling and sprite multiplexing.\n\nAs a cartridge (CRT); according to the developer, scrolling runs at 50/60 frames per second. A demo (build 0.9.2) was previously available as a PRG."
+  },
   "images": {
     "sstitle": "images/45/450abac00e1447ce810a982ce1194c9a0ea4096c.png"
   }

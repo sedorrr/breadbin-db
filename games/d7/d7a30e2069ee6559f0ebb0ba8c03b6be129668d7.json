@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "d7a30e2069ee6559f0ebb0ba8c03b6be129668d7",
+  "md5": "f72aa5d0187b74d95c055f51bb819413",
+  "crc32": "9cc03f6c",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Miner 2049'er.crt"
+  ],
+  "screenscraper_id": "36462",
+  "title": "Miner 2049er",
+  "year": "1983",
+  "publisher": "Reston Software",
+  "developer": "Big Five Software (Bill Hogue)",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Bergmann Bounty Bob durchsucht ein verlassenes Uranbergwerk nach dem Verbrecher Yukon Yohan. In jeder Station muss er alle Abschnitte des Bodens ablaufen, um sie zu markieren, während radioaktive Mutanten umherziehen. Herumliegende Gegenstände machen die Mutanten kurzzeitig harmlos. Mit seinen zehn sehr unterschiedlichen Stationen und Hilfsmitteln wie Kanone, Aufzug und Transporter war das Spiel eines der ersten großen Plattformspiele auf Heimcomputern.\n\nUrsprünglich für Atari-8-Bit-Rechner geschrieben; die C64-Fassung erschien als Modul bei Reston. Gesteuert wird per Joystick, bei der Modulfassung in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Bill Hogue",
+  "texts": {
+    "de": "Bergmann Bounty Bob durchsucht ein verlassenes Uranbergwerk nach dem Verbrecher Yukon Yohan. In jeder Station muss er alle Abschnitte des Bodens ablaufen, um sie zu markieren, während radioaktive Mutanten umherziehen. Herumliegende Gegenstände machen die Mutanten kurzzeitig harmlos. Mit seinen zehn sehr unterschiedlichen Stationen und Hilfsmitteln wie Kanone, Aufzug und Transporter war das Spiel eines der ersten großen Plattformspiele auf Heimcomputern.\n\nUrsprünglich für Atari-8-Bit-Rechner geschrieben; die C64-Fassung erschien als Modul bei Reston. Gesteuert wird per Joystick, bei der Modulfassung in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Bill Hogue",
+    "en": "Miner Bounty Bob searches an abandoned uranium mine for the criminal Yukon Yohan. At each station he has to walk over all sections of the floor to mark them while radioactive mutants roam about. Items lying around briefly render the mutants harmless. With its ten very different stations and aids such as a cannon, lift and transporter, the game was one of the first big platform games on home computers.\n\nOriginally written for Atari 8-bit computers; the C64 version was released as a cartridge by Reston. Controlled with a joystick, in port 1 for the cartridge version. Besides the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without loading.\n\nCode: Bill Hogue"
+  }
+}

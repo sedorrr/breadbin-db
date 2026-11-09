@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e315c37c31e9937a8e07196732b7e3c97d4538f2",
+  "md5": "b5b5369892d9db078017505b005d2175",
+  "crc32": "dbd85dbc",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Mr Robot and his Robot Factory (J1).crt"
+  ],
+  "screenscraper_id": "115373",
+  "title": "Mr. Robot and His Robot Factory",
+  "year": "1984",
+  "publisher": "Datamost",
+  "developer": "Ron Rosen",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein Roboter im Schutzanzug sammelt auf 22 Bildschirmen Energiepillen auf Gerüsten ein, während wandernde Flammen ihn jagen. Magnete, Trampoline, Teleporter, Aufzüge, Förderbänder und Bomben machen jeden Bildschirm zu einer eigenen Aufgabe; ein Hitzeschild löscht kurzzeitig die Flammen. Besonders war der eingebaute Baukasten, mit dem eigene Bildschirme entworfen und gespeichert werden können.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Ron Rosen",
+  "texts": {
+    "de": "Ein Roboter im Schutzanzug sammelt auf 22 Bildschirmen Energiepillen auf Gerüsten ein, während wandernde Flammen ihn jagen. Magnete, Trampoline, Teleporter, Aufzüge, Förderbänder und Bomben machen jeden Bildschirm zu einer eigenen Aufgabe; ein Hitzeschild löscht kurzzeitig die Flammen. Besonders war der eingebaute Baukasten, mit dem eigene Bildschirme entworfen und gespeichert werden können.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Ron Rosen",
+    "en": "A robot in a protective suit collects power pills on scaffolding across 22 screens while wandering flames chase him. Magnets, trampolines, teleporters, lifts, conveyor belts and bombs make each screen a task of its own; a heat shield briefly extinguishes the flames. A special feature was the built-in construction kit, with which custom screens can be designed and saved.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading. Controlled with the joystick in port 1.\n\nCode: Ron Rosen"
+  },
+  "images": {
+    "sstitle": "images/7e/7eb5d0f0541dd17928bb8cb9320158cdb66bb72f.png"
+  }
+}

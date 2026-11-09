@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "e46454c939fdc7129853bf2f7e13dac538e5d43c",
+  "md5": "4c062894b49b62cfd33970151e076f4d",
+  "crc32": "0ce0a6d8",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Defender.crt"
+  ],
+  "screenscraper_id": "36522",
+  "title": "Defender",
+  "year": "1983",
+  "publisher": "Atarisoft",
+  "developer": "Joe Simko",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Ein Raumschiff verteidigt die Bewohner eines Planeten gegen außerirdische Lander, die sie entführen wollen. Gelingt das, verwandeln sich Entführte und Lander in schnelle Mutanten; sind alle Menschen verloren, explodiert der Planet. Das Schiff fliegt in beide Richtungen über eine waagerecht scrollende Landschaft, ein Radar zeigt die gesamte Umgebung. Williams' Automat von 1981 gilt als einer der schwierigsten und einflussreichsten Klassiker.\n\nAtarisoft setzte das Spiel für den C64 um; es erschien auf Modul und auf Diskette. Die Fassung hat keine Musik. Gesteuert wird mit dem Joystick, einige Funktionen liegen auf der Tastatur.\n\nCode: Joe Simko",
+  "texts": {
+    "de": "Ein Raumschiff verteidigt die Bewohner eines Planeten gegen außerirdische Lander, die sie entführen wollen. Gelingt das, verwandeln sich Entführte und Lander in schnelle Mutanten; sind alle Menschen verloren, explodiert der Planet. Das Schiff fliegt in beide Richtungen über eine waagerecht scrollende Landschaft, ein Radar zeigt die gesamte Umgebung. Williams' Automat von 1981 gilt als einer der schwierigsten und einflussreichsten Klassiker.\n\nAtarisoft setzte das Spiel für den C64 um; es erschien auf Modul und auf Diskette. Die Fassung hat keine Musik. Gesteuert wird mit dem Joystick, einige Funktionen liegen auf der Tastatur.\n\nCode: Joe Simko",
+    "en": "A spaceship defends the inhabitants of a planet against alien landers trying to abduct them. If they succeed, the abductee and lander turn into fast mutants; if all the humans are lost, the planet explodes. The ship flies in both directions over a horizontally scrolling landscape, and a radar shows the entire surroundings. Williams' 1981 arcade machine is regarded as one of the most difficult and influential classics.\n\nAtarisoft converted the game for the C64; it was released on cartridge and on disk. This version has no music. It is controlled with the joystick, with some functions on the keyboard.\n\nCode: Joe Simko"
+  }
+}

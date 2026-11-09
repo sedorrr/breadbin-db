@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f29c1a0f67bb4ee5db587eccc6470f115e4eba34",
+  "md5": "9bb7905207d10094d3f3fda527d0d1ac",
+  "crc32": "5559a5a6",
+  "size": 394048,
+  "format": "CRT",
+  "files": [
+    "Defender of the Crown [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35902",
+  "title": "Defender of the Crown",
+  "year": "1987",
+  "publisher": "Cinemaware",
+  "developer": "Cinemaware (Kellyn Beeck, R. J. Mical)",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Im England nach dem Tod des Königs kämpft ein sächsischer Ritter gegen normannische Fürsten und rivalisierende Sachsen um die Krone. Auf einer Landkarte werden Heere ausgehoben, Burgen belagert und Gebiete erobert; dazwischen stehen Actionszenen wie Turniere, Schwertkämpfe bei Raubzügen und der Beschuss von Burgmauern mit dem Katapult. Das Spiel setzte auf aufwendige Bilder und filmische Präsentation und war das erste Spiel von Cinemaware.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul; das Spiel lädt aus dem Modul statt von Diskette und kommt deshalb ohne Diskettenwechsel aus.\n\nMusik: Richard Joseph",
+  "texts": {
+    "de": "Im England nach dem Tod des Königs kämpft ein sächsischer Ritter gegen normannische Fürsten und rivalisierende Sachsen um die Krone. Auf einer Landkarte werden Heere ausgehoben, Burgen belagert und Gebiete erobert; dazwischen stehen Actionszenen wie Turniere, Schwertkämpfe bei Raubzügen und der Beschuss von Burgmauern mit dem Katapult. Das Spiel setzte auf aufwendige Bilder und filmische Präsentation und war das erste Spiel von Cinemaware.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul; das Spiel lädt aus dem Modul statt von Diskette und kommt deshalb ohne Diskettenwechsel aus.\n\nMusik: Richard Joseph",
+    "en": "In England after the death of the king, a Saxon knight fights Norman lords and rival Saxons for the crown. On a map, armies are raised, castles besieged and territories conquered; in between come action scenes such as tournaments, sword fights during raids and bombarding castle walls with a catapult. The game relied on elaborate images and cinematic presentation and was Cinemaware's first game.\n\nThis version is a conversion as an EasyFlash cartridge; the game loads from the cartridge instead of from disk and therefore needs no disk swapping.\n\nMusic: Richard Joseph"
+  },
+  "images": {
+    "ss": "images/d4/d4451b0c244e617748bc802b324bb07ac3a7dd08.png",
+    "sstitle": "images/03/031374cd7b6282a7aee37b4f37b9ced8a46295a1.png"
+  }
+}

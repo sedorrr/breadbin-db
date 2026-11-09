@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "ed4e9116e9ad6284ef2222a0e06a1b57332bdbc9",
+  "md5": "5fa127d6b4b224a509cc29ad382a4ac6",
+  "crc32": "9dc432a2",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Gribbly's Day Out.crt"
+  ],
+  "screenscraper_id": "112692",
+  "title": "Gribbly's Day Out",
+  "year": "1985",
+  "publisher": "Hewson",
+  "developer": "Andrew Braybrook (Graftgold)",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Das hüpfende Wesen Gribbly Grobbly soll seine verirrten Jungen, die Gribblets, einsammeln und in seine Höhle zurückbringen. Dabei springt und schwebt es durch Landschaften auf der Welt Blabgor, in denen Monster lauern und Energiesperren den Weg versperren, die sich ein- und ausschalten lassen. Die Steuerung unterscheidet zwischen Hüpfen am Boden und freiem Schweben, was Geschick verlangt. Es war Andrew Braybrooks erstes großes C64-Spiel und fiel durch Witz und flüssige Bewegungen auf.\n\nEin reines C64-Spiel, erschienen bei Hewson auf Kassette und Diskette und später als Billigfassung (Rack It). Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Andrew Braybrook · Grafik: Stephen Robertson · Musik: Steve Turner",
+  "texts": {
+    "de": "Das hüpfende Wesen Gribbly Grobbly soll seine verirrten Jungen, die Gribblets, einsammeln und in seine Höhle zurückbringen. Dabei springt und schwebt es durch Landschaften auf der Welt Blabgor, in denen Monster lauern und Energiesperren den Weg versperren, die sich ein- und ausschalten lassen. Die Steuerung unterscheidet zwischen Hüpfen am Boden und freiem Schweben, was Geschick verlangt. Es war Andrew Braybrooks erstes großes C64-Spiel und fiel durch Witz und flüssige Bewegungen auf.\n\nEin reines C64-Spiel, erschienen bei Hewson auf Kassette und Diskette und später als Billigfassung (Rack It). Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Andrew Braybrook · Grafik: Stephen Robertson · Musik: Steve Turner",
+    "en": "The bouncing creature Gribbly Grobbly is to gather up its lost young, the Gribblets, and bring them back to its cave. In doing so it jumps and floats through landscapes on the world of Blabgor, where monsters lurk and energy barriers, which can be switched on and off, block the way. The controls distinguish between hopping on the ground and floating freely, which requires skill. It was Andrew Braybrook's first major C64 game and stood out for its wit and smooth movement.\n\nA C64-only game, released by Hewson on tape and disk and later as a budget version (Rack It). Controlled by joystick or keyboard. Alongside the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nCode: Andrew Braybrook · Graphics: Stephen Robertson · Music: Steve Turner"
+  }
+}

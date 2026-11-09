@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d11b448588a70a80373a8e19de7c413c25aaae39",
+  "md5": "e32bba2b731e2a36ae30a51f6f6e91d7",
+  "crc32": "e67114ae",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Sanxion.crt"
+  ],
+  "screenscraper_id": "36471",
+  "title": "Sanxion",
+  "year": "1986",
+  "publisher": "Thalamus",
+  "developer": "Stavros Fasoulas",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Erstes Spiel von Thalamus: ein sehr schnelles horizontal scrollendes Ballerspiel über zehn Abschnitte. Oben zeigt ein Radar die anrückenden Formationen von oben, darunter läuft die eigentliche Seitenansicht. Das Schiff sinkt ohne Gegensteuern langsam ab, nach jedem Abschnitt folgt eine Bonusrunde. Die hohe Geschwindigkeit und Rob Hubbards Musik, darunter eine Bearbeitung von Prokofjews „Tanz der Ritter“, machten Sanxion bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Stavros Fasoulas · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Erstes Spiel von Thalamus: ein sehr schnelles horizontal scrollendes Ballerspiel über zehn Abschnitte. Oben zeigt ein Radar die anrückenden Formationen von oben, darunter läuft die eigentliche Seitenansicht. Das Schiff sinkt ohne Gegensteuern langsam ab, nach jedem Abschnitt folgt eine Bonusrunde. Die hohe Geschwindigkeit und Rob Hubbards Musik, darunter eine Bearbeitung von Prokofjews „Tanz der Ritter“, machten Sanxion bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Stavros Fasoulas · Musik: Rob Hubbard",
+    "en": "Thalamus's first game: a very fast horizontally scrolling shoot'em up over ten sections. At the top, a radar shows the approaching formations from above; below it runs the actual side view. Without counter-steering, the ship slowly sinks; each section is followed by a bonus round. The high speed and Rob Hubbard's music, including an arrangement of Prokofiev's \"Dance of the Knights\", made Sanxion famous.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without additional loading.\n\nCode: Stavros Fasoulas · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/11/11aa415e28b25d6e32631729391c0ee20e7af7c8.png",
+    "sstitle": "images/7a/7a9c3f7c2e162892903df5c03548aa17cd6dd166.png"
+  }
+}

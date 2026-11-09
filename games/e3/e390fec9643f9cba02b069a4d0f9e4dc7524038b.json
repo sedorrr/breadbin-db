@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "e390fec9643f9cba02b069a4d0f9e4dc7524038b",
+  "md5": "16a33ed04fc290a1cff6fdebcc70bf4b",
+  "crc32": "5697b93f",
+  "size": 270928,
+  "format": "CRT",
+  "files": [
+    "Hawkeye (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "112789",
+  "title": "Hawkeye",
+  "year": "1988",
+  "publisher": "Thalamus",
+  "developer": "Boys Without Brains (Mario van Zeist, Paul Cooper)",
+  "genres": [
+    "Plattform",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Ein Android läuft und springt durch zwölf seitlich scrollende Welten und schießt mit wechselbaren Waffen auf die Gegner. In jedem Level müssen Puzzleteile eingesammelt werden, bevor der Ausgang erreichbar ist. Mehrere Ebenen Parallaxe-Scrolling und große Hintergründe zeigten, was der C64 grafisch leisten konnte. Die Musik von Jeroen Tel trug zum Ruf des Spiels bei.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode/Grafik: Mario van Zeist, Paul Cooper · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Ein Android läuft und springt durch zwölf seitlich scrollende Welten und schießt mit wechselbaren Waffen auf die Gegner. In jedem Level müssen Puzzleteile eingesammelt werden, bevor der Ausgang erreichbar ist. Mehrere Ebenen Parallaxe-Scrolling und große Hintergründe zeigten, was der C64 grafisch leisten konnte. Die Musik von Jeroen Tel trug zum Ruf des Spiels bei.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode/Grafik: Mario van Zeist, Paul Cooper · Musik: Jeroen Tel",
+    "en": "An android runs and jumps through twelve horizontally scrolling worlds and shoots at enemies with interchangeable weapons. In each level, puzzle pieces have to be collected before the exit can be reached. Several layers of parallax scrolling and large backgrounds showed what the C64 was capable of graphically. Jeroen Tel's music contributed to the game's reputation.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the parts of the original loaded during play come from the cartridge instead of from disk.\n\nCode/graphics: Mario van Zeist, Paul Cooper · Music: Jeroen Tel"
+  }
+}

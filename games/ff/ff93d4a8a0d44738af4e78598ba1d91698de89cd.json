@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "ff93d4a8a0d44738af4e78598ba1d91698de89cd",
+  "md5": "610b443fe8e34ae199fb9bb09ead6eae",
+  "crc32": "e571315e",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Iridis Alpha.crt"
+  ],
+  "screenscraper_id": "113239",
+  "title": "Iridis Alpha",
+  "year": "1986",
+  "publisher": "Hewson",
+  "developer": "Jeff Minter",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Auf dem Bildschirm sind zwei Planetenoberflächen übereinander zu sehen, und das Raumschiff Gilby kann zwischen beiden wechseln. Gegnerwellen werden abgeschossen, während zugleich der Energiehaushalt des Schiffs im Blick behalten werden muss. Bonusphasen und ein eigenes Minispiel für Pausen ergänzen das Ganze. Das Spiel ist sehr schnell, eigenwillig und schwer zugänglich, gilt aber als eines der technisch beeindruckendsten Werke von Jeff Minter.\n\nEin reines C64-Spiel, erschienen bei Hewson auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode und Musik: Jeff Minter",
+  "texts": {
+    "de": "Auf dem Bildschirm sind zwei Planetenoberflächen übereinander zu sehen, und das Raumschiff Gilby kann zwischen beiden wechseln. Gegnerwellen werden abgeschossen, während zugleich der Energiehaushalt des Schiffs im Blick behalten werden muss. Bonusphasen und ein eigenes Minispiel für Pausen ergänzen das Ganze. Das Spiel ist sehr schnell, eigenwillig und schwer zugänglich, gilt aber als eines der technisch beeindruckendsten Werke von Jeff Minter.\n\nEin reines C64-Spiel, erschienen bei Hewson auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode und Musik: Jeff Minter",
+    "en": "Two planetary surfaces are shown one above the other on the screen, and the spaceship Gilby can switch between them. Waves of enemies are shot down while the ship's energy balance has to be kept in view at the same time. Bonus phases and a separate mini-game for pauses round it off. The game is very fast, idiosyncratic and hard to get into, but is regarded as one of Jeff Minter's most technically impressive works.\n\nA C64-exclusive game, released by Hewson on cassette and disk. It is controlled by joystick. In addition to the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without multi-loading.\n\nCode and music: Jeff Minter"
+  }
+}

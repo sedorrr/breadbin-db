@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "cb913d57db81fbf224ab66a8984e5a83e82ee5d1",
+  "md5": "4f01fffed3e0d581f8e5a0b2821cd57e",
+  "crc32": "b046ba9b",
+  "size": 8272,
+  "format": "CRT",
+  "files": [
+    "Wizard of Wor (MAX v02).crt"
+  ],
+  "screenscraper_id": "492323",
+  "title": "Wizard of Wor",
+  "year": "1983",
+  "publisher": "Commodore",
+  "developer": "Jeff Bruette (C64); Original: Midway / Dave Nutting Associates",
+  "genres": [
+    "Action / Labyrinth",
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Midway-Automaten von 1980: Ein oder zwei Krieger jagen in verwinkelten Kerkern Monster, die sich teils unsichtbar machen. Wer genug Gegner erlegt, ruft stärkere Kreaturen und schließlich den Zauberer von Wor selbst herbei. Zu zweit wird gleichzeitig gespielt, wobei man sich gegenseitig abschießen kann – Zusammenarbeit und Konkurrenz liegen dicht beieinander. Die Sprachausgabe des Automaten fehlt, das schnelle Labyrinth-Spiel blieb erhalten.\n\nDiese Datei ist das Abbild eines originalen Moduls in der Fassung für die Commodore MAX Machine (Ultimax-Modus, „MAX v02“), die auch auf dem C64 läuft; sie stammt aus der OneLoad64-Sammlung (Ordner „OfficialCRTs“).\n\nCode (C64): Jeff Bruette",
+  "texts": {
+    "de": "Umsetzung des Midway-Automaten von 1980: Ein oder zwei Krieger jagen in verwinkelten Kerkern Monster, die sich teils unsichtbar machen. Wer genug Gegner erlegt, ruft stärkere Kreaturen und schließlich den Zauberer von Wor selbst herbei. Zu zweit wird gleichzeitig gespielt, wobei man sich gegenseitig abschießen kann – Zusammenarbeit und Konkurrenz liegen dicht beieinander. Die Sprachausgabe des Automaten fehlt, das schnelle Labyrinth-Spiel blieb erhalten.\n\nDiese Datei ist das Abbild eines originalen Moduls in der Fassung für die Commodore MAX Machine (Ultimax-Modus, „MAX v02“), die auch auf dem C64 läuft; sie stammt aus der OneLoad64-Sammlung (Ordner „OfficialCRTs“).\n\nCode (C64): Jeff Bruette",
+    "en": "Conversion of Midway's 1980 arcade game: one or two warriors hunt monsters, some of which can turn invisible, in winding dungeons. Killing enough enemies summons stronger creatures and finally the Wizard of Wor himself. Two players play simultaneously and can shoot each other – cooperation and competition lie close together. The arcade machine's speech output is missing, but the fast maze gameplay has been preserved.\n\nThis file is an image of an original cartridge in the version for the Commodore MAX Machine (Ultimax mode, \"MAX v02\"), which also runs on the C64; it comes from the OneLoad64 collection (folder \"OfficialCRTs\").\n\nCode (C64): Jeff Bruette"
+  }
+}

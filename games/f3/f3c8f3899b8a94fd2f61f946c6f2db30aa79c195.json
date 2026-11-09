@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "f3c8f3899b8a94fd2f61f946c6f2db30aa79c195",
+  "md5": "029d0780ff1e0568ed0ee96646a49eab",
+  "crc32": "7b099aa6",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Firelord.crt"
+  ],
+  "screenscraper_id": "112080",
+  "title": "Firelord",
+  "year": "1986",
+  "publisher": "Hewson",
+  "developer": "Stephen Crow, John Cumming",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Eine böse Königin hat den Feuerstein gestohlen, der das Land Torot schützt, und der Ritter Sir Galaheart soll ihn zurückholen. Dazu muss er vier Zauber der ewigen Jugend auftreiben, die die Königin im Tausch verlangt. Er erkundet ein großes, aus vielen Bildschirmen bestehendes Königreich, wehrt Geister und Wesen mit Feuerbällen ab und handelt in Häusern mit den Bewohnern um Gegenstände. Die Mischung aus Actionspiel und einfachem Tauschhandel sowie die detaillierte Grafik von Steve Crow machten das Spiel bekannt.\n\nErschienen bei Hewson für ZX Spectrum, Amstrad CPC und C64, auf dem C64 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf und Grafik: Stephen Crow · Code: Stephen Crow, John Cumming · Musik (C64): Ben Daglish",
+  "texts": {
+    "de": "Eine böse Königin hat den Feuerstein gestohlen, der das Land Torot schützt, und der Ritter Sir Galaheart soll ihn zurückholen. Dazu muss er vier Zauber der ewigen Jugend auftreiben, die die Königin im Tausch verlangt. Er erkundet ein großes, aus vielen Bildschirmen bestehendes Königreich, wehrt Geister und Wesen mit Feuerbällen ab und handelt in Häusern mit den Bewohnern um Gegenstände. Die Mischung aus Actionspiel und einfachem Tauschhandel sowie die detaillierte Grafik von Steve Crow machten das Spiel bekannt.\n\nErschienen bei Hewson für ZX Spectrum, Amstrad CPC und C64, auf dem C64 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf und Grafik: Stephen Crow · Code: Stephen Crow, John Cumming · Musik (C64): Ben Daglish",
+    "en": "An evil queen has stolen the Firestone that protects the land of Torot, and the knight Sir Galaheart is to retrieve it. To do so, he has to find four spells of eternal youth, which the queen demands in exchange. He explores a large kingdom made up of many screens, fends off ghosts and creatures with fireballs and trades items with the inhabitants in their houses. The mix of action game and simple bartering, together with Steve Crow's detailed graphics, made the game well known.\n\nReleased by Hewson for the ZX Spectrum, Amstrad CPC and C64, on the C64 on cassette and disk. Controlled with a joystick in port 2. Besides the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nDesign and graphics: Stephen Crow · Code: Stephen Crow, John Cumming · Music (C64): Ben Daglish"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f65563b542580f6f820c50296995c4604648accb",
+  "md5": "8f7ab4669097f4193d74933483e71892",
+  "crc32": "14f877de",
+  "size": 213472,
+  "format": "CRT",
+  "files": [
+    "Armalyte (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "109679",
+  "title": "Armalyte",
+  "year": "1988",
+  "publisher": "Thalamus",
+  "developer": "Cyberdyne Systems",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein horizontal scrollender Shoot'em Up, oft als inoffizieller Nachfolger von Delta bezeichnet. Allein wird das eigene Schiff von einer unzerstörbaren Drohne begleitet, die die Schüsse mitfeuert; im Zweispielermodus tritt an ihre Stelle ein zweites, vom Mitspieler gesteuertes Schiff. Waffen werden durch Einsammeln von Extras aufgerüstet, dazu kommt eine aufladbare Spezialwaffe. Große, detailreiche Gegner, hoher Schwierigkeitsgrad und saubere Technik machen Armalyte zu einem Höhepunkt des Genres auf dem C64.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Level werden aus dem Modul statt von Diskette geladen.\n\nCode: Dan Phillips · Musik: Martin Walker",
+  "texts": {
+    "de": "Ein horizontal scrollender Shoot'em Up, oft als inoffizieller Nachfolger von Delta bezeichnet. Allein wird das eigene Schiff von einer unzerstörbaren Drohne begleitet, die die Schüsse mitfeuert; im Zweispielermodus tritt an ihre Stelle ein zweites, vom Mitspieler gesteuertes Schiff. Waffen werden durch Einsammeln von Extras aufgerüstet, dazu kommt eine aufladbare Spezialwaffe. Große, detailreiche Gegner, hoher Schwierigkeitsgrad und saubere Technik machen Armalyte zu einem Höhepunkt des Genres auf dem C64.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Level werden aus dem Modul statt von Diskette geladen.\n\nCode: Dan Phillips · Musik: Martin Walker",
+    "en": "A horizontally scrolling shoot 'em up, often described as the unofficial successor to Delta. In single-player mode, your ship is accompanied by an indestructible drone that fires along with you; in two-player mode, its place is taken by a second ship controlled by the other player. Weapons are upgraded by collecting power-ups, plus there is a chargeable special weapon. Large, detailed enemies, a high level of difficulty and clean technology make Armalyte a high point of the genre on the C64.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the levels are loaded from the cartridge instead of from disk.\n\nCode: Dan Phillips · Music: Martin Walker"
+  },
+  "images": {
+    "ss": "images/06/0633bcaa4f617d3ad4fd6974f04d6ab53eb8bd4f.png",
+    "sstitle": "images/ac/ac8fd85a8ac696c5ec3db27b6a6d7ce532307cc1.png"
+  }
+}

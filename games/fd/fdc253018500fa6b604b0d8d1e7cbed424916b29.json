@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "fdc253018500fa6b604b0d8d1e7cbed424916b29",
+  "md5": "cf98fb7aaede6c88e76c1264ba8e6eb3",
+  "crc32": "3ce06d55",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Sentinel, The.crt"
+  ],
+  "screenscraper_id": "36482",
+  "title": "The Sentinel",
+  "year": "1986",
+  "publisher": "Firebird",
+  "developer": "Geoff Crammond",
+  "genres": [
+    "Strategie",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Auf 10 000 Landschaften aus gefüllten Vektorflächen steht der Sentinel auf dem höchsten Punkt und dreht sich langsam. Der Spieler ist ein Roboter, der sich nicht bewegen kann, sondern Energie aus Bäumen und Felsen aufnimmt, neue Hüllen erschafft und sein Bewusstsein in sie überträgt, um höher zu gelangen. Wer in das Blickfeld des Sentinels gerät, verliert Energie. Das ungewöhnliche, ruhige Prinzip machte das Spiel zu einem Unikat.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Geoff Crammond",
+  "texts": {
+    "de": "Auf 10 000 Landschaften aus gefüllten Vektorflächen steht der Sentinel auf dem höchsten Punkt und dreht sich langsam. Der Spieler ist ein Roboter, der sich nicht bewegen kann, sondern Energie aus Bäumen und Felsen aufnimmt, neue Hüllen erschafft und sein Bewusstsein in sie überträgt, um höher zu gelangen. Wer in das Blickfeld des Sentinels gerät, verliert Energie. Das ungewöhnliche, ruhige Prinzip machte das Spiel zu einem Unikat.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Geoff Crammond",
+    "en": "On 10,000 landscapes made of filled vector surfaces, the Sentinel stands on the highest point and slowly rotates. The player is a robot that cannot move, but instead absorbs energy from trees and boulders, creates new shells and transfers its consciousness into them in order to get higher. Anyone who comes into the Sentinel's field of view loses energy. The unusual, calm concept made the game one of a kind.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: Geoff Crammond"
+  },
+  "images": {
+    "ss": "images/39/399b453cd26ed3e6be4fbe34d12ece36953b7693.png",
+    "sstitle": "images/62/627e41e2a58dbbf941da16237892dc544307731c.png"
+  }
+}

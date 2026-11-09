@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "e7a2649b9903cb3f147b3445bbdc2bb61d8e2fd0",
+  "md5": "be54c1fadbe78989487d9de59ae8d592",
+  "crc32": "3e99728e",
+  "size": 98560,
+  "format": "CRT",
+  "files": [
+    "Jumpman.crt",
+    "Jumpman [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36491",
+  "title": "Jumpman",
+  "year": "1983",
+  "publisher": "Epyx",
+  "developer": "Randy Glover",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1-4",
+  "synopsis": "Jumpman muss auf einer Raumstation Bomben entschärfen, die über Plattformen, Leitern und Seile verteilt sind. In 30 Bildschirmen warten unterschiedliche Gefahren: herabstürzende Geschosse, verschwindende Böden oder Gegner, die sich bewegen, sobald eine Bombe eingesammelt wird. Die Spielgeschwindigkeit lässt sich einstellen, bis zu vier Spieler treten abwechselnd an. Jumpman gehört zu den frühen Plattformspielen, die den Ruf von Epyx begründeten.\n\nDiese Fassung ist eine Disk2EasyFlash-Umsetzung als EasyFlash-Modul (schnell ladend) und läuft ohne Diskette.\n\nCode: Randy Glover · Musik: Randy Glover",
+  "texts": {
+    "de": "Jumpman muss auf einer Raumstation Bomben entschärfen, die über Plattformen, Leitern und Seile verteilt sind. In 30 Bildschirmen warten unterschiedliche Gefahren: herabstürzende Geschosse, verschwindende Böden oder Gegner, die sich bewegen, sobald eine Bombe eingesammelt wird. Die Spielgeschwindigkeit lässt sich einstellen, bis zu vier Spieler treten abwechselnd an. Jumpman gehört zu den frühen Plattformspielen, die den Ruf von Epyx begründeten.\n\nDiese Fassung ist eine Disk2EasyFlash-Umsetzung als EasyFlash-Modul (schnell ladend) und läuft ohne Diskette.\n\nCode: Randy Glover · Musik: Randy Glover",
+    "en": "Jumpman has to defuse bombs on a space station, spread across platforms, ladders and ropes. Different dangers await in 30 screens: falling projectiles, disappearing floors or enemies that move as soon as a bomb is collected. The game speed is adjustable, and up to four players take turns. Jumpman is one of the early platform games that established Epyx's reputation.\n\nThis version is a Disk2EasyFlash conversion as an EasyFlash cartridge (fast loading) and runs without a disk.\n\nCode: Randy Glover · Music: Randy Glover"
+  },
+  "images": {
+    "ss": "images/a7/a77315149c68d15d15293cc9c8dc5d620d52fedd.png",
+    "sstitle": "images/aa/aa298b61948b00247f54b33150e09d5429902e7c.png"
+  }
+}

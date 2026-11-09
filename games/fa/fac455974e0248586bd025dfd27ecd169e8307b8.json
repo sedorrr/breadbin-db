@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "fac455974e0248586bd025dfd27ecd169e8307b8",
+  "md5": "d59283d142588ce8b93e27311b6507ba",
+  "crc32": "fe86b579",
+  "size": 361216,
+  "format": "CRT",
+  "files": [
+    "X-Out (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36784",
+  "title": "X-Out",
+  "year": "1989",
+  "publisher": "Rainbow Arts",
+  "developer": "Jörg Prenzing, Andreas Escher",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Horizontal scrollendes Unterwasser-Shoot'em-up: Vor jedem Einsatz stellt der Spieler in einem Laden aus mehreren Schiffstypen, Waffen und Satelliten seine Flotte zusammen. Danach geht es durch acht Abschnitte mit Meeresgegnern, Stationen und großen Endgegnern. Das freie Zusammenstellen der Ausrüstung hebt das Spiel von vielen Genrekollegen ab.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Jörg Prenzing · Grafik: Andreas Escher · Musik: Michael Hendriks, Adam Bulka",
+  "texts": {
+    "de": "Horizontal scrollendes Unterwasser-Shoot'em-up: Vor jedem Einsatz stellt der Spieler in einem Laden aus mehreren Schiffstypen, Waffen und Satelliten seine Flotte zusammen. Danach geht es durch acht Abschnitte mit Meeresgegnern, Stationen und großen Endgegnern. Das freie Zusammenstellen der Ausrüstung hebt das Spiel von vielen Genrekollegen ab.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Jörg Prenzing · Grafik: Andreas Escher · Musik: Michael Hendriks, Adam Bulka",
+    "en": "Horizontally scrolling underwater shoot 'em up: before each mission the player assembles a fleet in a shop from several ship types, weapons and satellites. Then it is on through eight sections with sea creatures, stations and large bosses. The free choice of equipment sets the game apart from many others in the genre.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the multi-load parts of the original come from the cartridge instead of from disk.\n\nCode: Jörg Prenzing · Graphics: Andreas Escher · Music: Michael Hendriks, Adam Bulka"
+  }
+}

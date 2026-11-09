@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "d992eb8ef5e3e079db946bd90342457cadb464c7",
+  "md5": "d84a1df914a9b09cd6a4ffe293e9f9f6",
+  "crc32": "6e71ebff",
+  "size": 584750,
+  "format": "TAP",
+  "files": [
+    "Thing on a Spring.tap"
+  ],
+  "screenscraper_id": "110223",
+  "title": "Thing on a Spring",
+  "year": "1985",
+  "publisher": "Gremlin Graphics",
+  "developer": "Micro Projects (Jason Perkins, Anthony Clarke)",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein federndes Wesen namens Thing hüpft durch die Spielzeugfabrik eines bösen Kobolds, um dessen Pläne zu vereiteln. Auf den Ebenen der Fabrik sammelt es die Teile eines Puzzles, während Spielzeuge und andere Gegner ihm zusetzen. Weil Thing ständig federt, ist die Steuerung eigenwillig und verlangt Gefühl. Das Spiel ist auch als erstes Spiel mit Musik von Rob Hubbard bekannt.\n\nErschienen bei Gremlin Graphics für C64 und Amstrad CPC, auf dem C64 auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jason Perkins, Anthony Clarke · Grafik: Mark Rogers · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Ein federndes Wesen namens Thing hüpft durch die Spielzeugfabrik eines bösen Kobolds, um dessen Pläne zu vereiteln. Auf den Ebenen der Fabrik sammelt es die Teile eines Puzzles, während Spielzeuge und andere Gegner ihm zusetzen. Weil Thing ständig federt, ist die Steuerung eigenwillig und verlangt Gefühl. Das Spiel ist auch als erstes Spiel mit Musik von Rob Hubbard bekannt.\n\nErschienen bei Gremlin Graphics für C64 und Amstrad CPC, auf dem C64 auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jason Perkins, Anthony Clarke · Grafik: Mark Rogers · Musik: Rob Hubbard",
+    "en": "A springy creature called Thing bounces through the toy factory of an evil goblin to foil his plans. On the factory's levels it collects the pieces of a puzzle while toys and other enemies harass it. Because Thing is constantly bouncing, the controls are idiosyncratic and require a feel for them. The game is also known as the first game with music by Rob Hubbard.\n\nReleased by Gremlin Graphics for the C64 and Amstrad CPC, on the C64 on tape and disk. Controlled by joystick. Alongside the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nCode: Jason Perkins, Anthony Clarke · Graphics: Mark Rogers · Music: Rob Hubbard"
+  }
+}

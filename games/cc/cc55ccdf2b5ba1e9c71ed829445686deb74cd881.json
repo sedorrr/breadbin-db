@@ -19,6 +19,10 @@
   ],
   "players": "1",
   "synopsis": "Spiel zum Film von 1985: Man steuert abwechselnd zwei der Goonies und muss auf jedem Bildschirm durch geschicktes Zusammenspiel – Schalter, Hebel, Fallen – den Weg weiter durch die Höhlen zum Piratenschiff von One-Eyed Willy freimachen, verfolgt von den Fratellis.\n\nZwei Crack-Fassungen: Mr Z (europäische Fassung, 324 Blöcke, ohne Trainer, mit nachgerüstetem Ladebild nach dem Schlussbild aus einem 5211-Crack) und Remember (Diskettenfassung, 226 Blöcke, 6 Trainer, Anleitung). Beide haben eine unterschiedliche Titelmusik (Kassetten- bzw. Diskettenfassung). Joystick in Port 1, englisch.\n\nCode: Scott Spanburg · Grafik: Kelly Day · Musik: John A. Fitzpatrick",
+  "texts": {
+    "de": "Spiel zum Film von 1985: Man steuert abwechselnd zwei der Goonies und muss auf jedem Bildschirm durch geschicktes Zusammenspiel – Schalter, Hebel, Fallen – den Weg weiter durch die Höhlen zum Piratenschiff von One-Eyed Willy freimachen, verfolgt von den Fratellis.\n\nZwei Crack-Fassungen: Mr Z (europäische Fassung, 324 Blöcke, ohne Trainer, mit nachgerüstetem Ladebild nach dem Schlussbild aus einem 5211-Crack) und Remember (Diskettenfassung, 226 Blöcke, 6 Trainer, Anleitung). Beide haben eine unterschiedliche Titelmusik (Kassetten- bzw. Diskettenfassung). Joystick in Port 1, englisch.\n\nCode: Scott Spanburg · Grafik: Kelly Day · Musik: John A. Fitzpatrick",
+    "en": "Game of the 1985 film: you control two of the Goonies alternately and on each screen must clear the way onward through the caves to One-Eyed Willy's pirate ship through clever teamwork – switches, levers, traps – while pursued by the Fratellis.\n\nTwo crack versions: Mr Z (European version, 324 blocks, no trainer, with a loading screen added afterwards based on the end picture from a 5211 crack) and Remember (disk version, 226 blocks, 6 trainers, instructions). The two have different title music (cassette and disk version respectively). Joystick in port 1, English.\n\nCode: Scott Spanburg · Graphics: Kelly Day · Music: John A. Fitzpatrick"
+  },
   "images": {
     "sstitle": "images/71/71ab162dfcccfb725ca621b51a9e2966efafe0cf.png"
   }

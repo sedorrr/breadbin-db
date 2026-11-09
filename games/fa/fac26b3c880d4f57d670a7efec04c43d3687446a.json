@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "In this dark and intense psychological horror text adventure, you navigate a bleak narrative centered on mystery, crime, and violence. Driven by heavy atmospheric storytelling and a focused topic-based interaction system, the game guides you through a tense and unforgiving journey into the darker depths of human nature.",
+  "texts": {
+    "de": "In this dark and intense psychological horror text adventure, you navigate a bleak narrative centered on mystery, crime, and violence. Driven by heavy atmospheric storytelling and a focused topic-based interaction system, the game guides you through a tense and unforgiving journey into the darker depths of human nature.",
+    "en": "In this dark and intense psychological horror text adventure, you navigate a bleak narrative centered on mystery, crime, and violence. Driven by heavy atmospheric storytelling and a focused topic-based interaction system, the game guides you through a tense and unforgiving journey into the darker depths of human nature."
+  },
   "images": {
     "ss": "images/e4/e44b6df4c55096b8df93d8b8dcbd531c2f72fe5e.png"
   }

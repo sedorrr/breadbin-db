@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "d055813d64f9567bce9fc0c1c052d6f812058d4d",
+  "md5": "3345c9e7375865f8208d06fcaad125ee",
+  "crc32": "c2b4c0d8",
+  "size": 779824,
+  "format": "CRT",
+  "files": [
+    "Epyx Games Series Collection [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35907",
+  "title": "Epyx Games Series Collection",
+  "year": "2012",
+  "publisher": "John64 (Fan-Zusammenstellung)",
+  "developer": "Epyx",
+  "genres": [
+    "Sport",
+    "Sammlung"
+  ],
+  "players": "1-8",
+  "synopsis": "Eine Zusammenstellung der Sportspiele von Epyx auf einem Modul: Summer Games, Summer Games II, Winter Games, World Games und California Games. Die Reihe begründete mit Wettkämpfen für bis zu acht Spieler, Länderwahl, Hymnen und Siegerehrung ein eigenes Genre auf dem C64. California Games, der Titel aus der Bestenliste, tauscht olympische Disziplinen gegen Freizeitsport an der US-Westküste: Halfpipe, Footbag, Surfen, Rollschuhlaufen, BMX und Frisbee.\n\nDiese Datei ist eine EasyFlash-Sammlung; die Spiele werden aus dem Modul geladen statt von mehreren Disketten.\n\nCalifornia Games: Code Jon Leupp, Chuck Sommerville · Musik: Chris Grigg, Gil Freeman",
+  "texts": {
+    "de": "Eine Zusammenstellung der Sportspiele von Epyx auf einem Modul: Summer Games, Summer Games II, Winter Games, World Games und California Games. Die Reihe begründete mit Wettkämpfen für bis zu acht Spieler, Länderwahl, Hymnen und Siegerehrung ein eigenes Genre auf dem C64. California Games, der Titel aus der Bestenliste, tauscht olympische Disziplinen gegen Freizeitsport an der US-Westküste: Halfpipe, Footbag, Surfen, Rollschuhlaufen, BMX und Frisbee.\n\nDiese Datei ist eine EasyFlash-Sammlung; die Spiele werden aus dem Modul geladen statt von mehreren Disketten.\n\nCalifornia Games: Code Jon Leupp, Chuck Sommerville · Musik: Chris Grigg, Gil Freeman",
+    "en": "A compilation of Epyx's sports games on one cartridge: Summer Games, Summer Games II, Winter Games, World Games and California Games. With competitions for up to eight players, choice of country, anthems and award ceremonies, the series founded a genre of its own on the C64. California Games, the title from the top list, swaps Olympic disciplines for leisure sports on the US West Coast: half-pipe, footbag, surfing, roller skating, BMX and frisbee.\n\nThis file is an EasyFlash collection; the games are loaded from the cartridge instead of from several disks.\n\nCalifornia Games: code Jon Leupp, Chuck Sommerville · Music: Chris Grigg, Gil Freeman"
+  }
+}

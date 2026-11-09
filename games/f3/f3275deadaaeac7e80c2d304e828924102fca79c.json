@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "f3275deadaaeac7e80c2d304e828924102fca79c",
+  "md5": "822df715969c64e21298e665bfc633d8",
+  "crc32": "9f37cada",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Tapper.crt"
+  ],
+  "screenscraper_id": "36755",
+  "title": "Tapper",
+  "year": "1984",
+  "publisher": "Sega",
+  "genres": [
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Barkeeper bedient an vier Tresen gleichzeitig und schiebt den durstigen Gästen volle Gläser zu. Jeder Gast, der bis zum Tresenende vordringt, und jedes Glas, das ins Leere rutscht oder leer zurückkommt und herunterfällt, kostet ein Leben. Mit steigender Stufe kommen mehr und schnellere Gäste; zwischen den Runden gibt es ein Hütchenspiel mit geschüttelten Dosen. Der Automat von Bally Midway (1983) wurde als Werbung für eine Biermarke entwickelt.\n\nDie C64-Fassung erschien in den USA bei Sega, in Europa bei U.S. Gold, auf Modul, Diskette und Kassette. Zwei Spieler spielen abwechselnd, gesteuert wird mit dem Joystick.\n\nMusik: Henry Spragens",
+  "texts": {
+    "de": "Ein Barkeeper bedient an vier Tresen gleichzeitig und schiebt den durstigen Gästen volle Gläser zu. Jeder Gast, der bis zum Tresenende vordringt, und jedes Glas, das ins Leere rutscht oder leer zurückkommt und herunterfällt, kostet ein Leben. Mit steigender Stufe kommen mehr und schnellere Gäste; zwischen den Runden gibt es ein Hütchenspiel mit geschüttelten Dosen. Der Automat von Bally Midway (1983) wurde als Werbung für eine Biermarke entwickelt.\n\nDie C64-Fassung erschien in den USA bei Sega, in Europa bei U.S. Gold, auf Modul, Diskette und Kassette. Zwei Spieler spielen abwechselnd, gesteuert wird mit dem Joystick.\n\nMusik: Henry Spragens",
+    "en": "A bartender serves at four bars simultaneously, sliding full glasses to thirsty customers. Every customer who reaches the end of the bar, and every glass that slides off into nothing or comes back empty and falls, costs a life. As the levels rise, more and faster customers arrive; between rounds there is a shell game with shaken cans. The Bally Midway arcade machine (1983) was developed as an advertisement for a beer brand.\n\nThe C64 version was released in the USA by Sega and in Europe by U.S. Gold, on cartridge, disk and cassette. Two players take turns; controlled with a joystick.\n\nMusic: Henry Spragens"
+  }
+}

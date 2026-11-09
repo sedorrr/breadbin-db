@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d3c6424a35cccc9f516c1dac4491ca8a62dae531",
+  "md5": "a4c7a84bbd8c62ee0a0fa10f629dede8",
+  "crc32": "e6710de3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BUBBLEBO.D64"
+  ],
+  "screenscraper_id": "35833",
+  "title": "Bubble Bobble",
+  "year": "1987",
+  "publisher": "Firebird",
+  "developer": "Software Creations",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Die Drachen Bub und Bob kämpfen sich durch 100 Bildschirme, um ihre Freundinnen zu retten. Gegner werden in Blasen eingeschlossen und durch Zerplatzen in Früchte und Punkte verwandelt; dabei tauchen immer wieder Sonderblasen und Extras auf. Am stärksten ist das Spiel zu zweit gleichzeitig, und nur wer zu zweit durchhält, sieht das richtige Ende. Die C64-Umsetzung des Taito-Automaten gilt als sehr gelungen.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Stephen Ruddy · Grafik: Andrew R. Threlfall · Musik: Peter Clarke (Komposition: Tadashi Kimijima)",
+  "texts": {
+    "de": "Die Drachen Bub und Bob kämpfen sich durch 100 Bildschirme, um ihre Freundinnen zu retten. Gegner werden in Blasen eingeschlossen und durch Zerplatzen in Früchte und Punkte verwandelt; dabei tauchen immer wieder Sonderblasen und Extras auf. Am stärksten ist das Spiel zu zweit gleichzeitig, und nur wer zu zweit durchhält, sieht das richtige Ende. Die C64-Umsetzung des Taito-Automaten gilt als sehr gelungen.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Stephen Ruddy · Grafik: Andrew R. Threlfall · Musik: Peter Clarke (Komposition: Tadashi Kimijima)",
+    "en": "The dragons Bub and Bob fight their way through 100 screens to rescue their girlfriends. Enemies are trapped in bubbles and, when burst, turned into fruit and points; special bubbles and power-ups keep appearing. The game is at its best with two players simultaneously, and only those who make it through as a pair see the true ending. The C64 conversion of the Taito arcade game is regarded as highly successful.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Stephen Ruddy · Graphics: Andrew R. Threlfall · Music: Peter Clarke (composition: Tadashi Kimijima)"
+  },
+  "images": {
+    "sstitle": "images/7f/7f82399298e294d96ee7c0e1ca5f3fe924f007ff.png"
+  }
+}

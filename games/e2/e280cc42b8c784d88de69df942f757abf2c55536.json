@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e280cc42b8c784d88de69df942f757abf2c55536",
+  "md5": "b9daf0520ea6fa96a13dcc5675a8ddff",
+  "crc32": "c4590b86",
+  "size": 295552,
+  "format": "CRT",
+  "files": [
+    "Skate or Die [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36063",
+  "title": "Skate or Die!",
+  "year": "1987",
+  "publisher": "Electronic Arts",
+  "developer": "Electronic Arts (Michael Kosaka, Stephen Landrum, David Bunch)",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "Ein Skateboardspiel mit fünf Disziplinen: Freestyle und Hochsprung in der Halfpipe, ein Abfahrtsrennen, die Straßenrangelei „Jam“ und das Tjosten im leeren Schwimmbecken. Man kann jede Disziplin einzeln üben oder alle nacheinander bestreiten; bis zu acht Spieler treten abwechselnd an, in einigen Disziplinen zwei gleichzeitig. Lockere Aufmachung und die Titelmusik von Rob Hubbard trugen zum Erfolg bei.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nCode: Michael Kosaka, Stephen Landrum, David Bunch · Musik: Rob Hubbard (Titel), David Warhol",
+  "texts": {
+    "de": "Ein Skateboardspiel mit fünf Disziplinen: Freestyle und Hochsprung in der Halfpipe, ein Abfahrtsrennen, die Straßenrangelei „Jam“ und das Tjosten im leeren Schwimmbecken. Man kann jede Disziplin einzeln üben oder alle nacheinander bestreiten; bis zu acht Spieler treten abwechselnd an, in einigen Disziplinen zwei gleichzeitig. Lockere Aufmachung und die Titelmusik von Rob Hubbard trugen zum Erfolg bei.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nCode: Michael Kosaka, Stephen Landrum, David Bunch · Musik: Rob Hubbard (Titel), David Warhol",
+    "en": "A skateboarding game with five events: freestyle and high jump on the half-pipe, a downhill race, the street brawl \"Jam\" and jousting in an empty swimming pool. Each event can be practised individually or all can be tackled in sequence; up to eight players take turns, with two at once in some events. The laid-back presentation and Rob Hubbard's title music contributed to its success.\n\nThis version is a conversion as an EasyFlash cartridge and runs without a disk.\n\nCode: Michael Kosaka, Stephen Landrum, David Bunch · Music: Rob Hubbard (title), David Warhol"
+  },
+  "images": {
+    "ss": "images/59/59e20174d94a01ffc6b24fd0b251fc9dc1706f13.png",
+    "sstitle": "images/b5/b53e15d3946d2122aec71eb419958e905b889787.png"
+  }
+}

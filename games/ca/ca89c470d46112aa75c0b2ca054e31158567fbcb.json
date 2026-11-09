@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ca89c470d46112aa75c0b2ca054e31158567fbcb",
+  "md5": "d702ac2c99347b93e782e9182a15c35d",
+  "crc32": "9a1a8dbf",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Choplifter! (J1).crt"
+  ],
+  "screenscraper_id": "111109",
+  "title": "Choplifter",
+  "year": "1983",
+  "publisher": "Brøderbund",
+  "developer": "Dan Gorlin",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rettungshubschrauber fliegt hinter die feindlichen Linien, öffnet Baracken und nimmt die herausrennenden Geiseln auf, höchstens 16 auf einmal. Panzer, Düsenjäger und Drohnen greifen an, während der Hubschrauber zum Stützpunkt zurückkehrt. Ziel ist, möglichst viele der 64 Gefangenen zu retten, bevor drei Hubschrauber verloren sind. Das Spiel verbindet Action mit Rettungsaufgaben und war eines der ersten erfolgreichen Spiele von Brøderbund.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nDesign: Dan Gorlin · C64-Umsetzung laut C64-Wiki mit Dane Bigham · Anpassung: Rh70",
+  "texts": {
+    "de": "Ein Rettungshubschrauber fliegt hinter die feindlichen Linien, öffnet Baracken und nimmt die herausrennenden Geiseln auf, höchstens 16 auf einmal. Panzer, Düsenjäger und Drohnen greifen an, während der Hubschrauber zum Stützpunkt zurückkehrt. Ziel ist, möglichst viele der 64 Gefangenen zu retten, bevor drei Hubschrauber verloren sind. Das Spiel verbindet Action mit Rettungsaufgaben und war eines der ersten erfolgreichen Spiele von Brøderbund.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nDesign: Dan Gorlin · C64-Umsetzung laut C64-Wiki mit Dane Bigham · Anpassung: Rh70",
+    "en": "A rescue helicopter flies behind enemy lines, opens barracks and picks up the hostages running out, at most 16 at a time. Tanks, jet fighters and drones attack while the helicopter returns to base. The aim is to rescue as many of the 64 prisoners as possible before three helicopters are lost. The game combines action with rescue missions and was one of Brøderbund's first successful games.\n\nThis file contains the game as a cartridge (CRT); there are several versions (original, conversions, cracks).\n\nDesign: Dan Gorlin · C64 conversion according to C64-Wiki with Dane Bigham · Adaptation: Rh70"
+  },
+  "images": {
+    "ss": "images/5d/5d0471ad1fe5d69256e1414e25ffa16d62cb2117.png",
+    "sstitle": "images/6f/6f133c18da8b4b2b86cabadfc184b7d42d1b4b43.png"
+  }
+}

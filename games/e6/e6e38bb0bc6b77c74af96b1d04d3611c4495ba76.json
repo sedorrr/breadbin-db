@@ -19,6 +19,10 @@
   ],
   "players": "1",
   "synopsis": "Ein kostenloses Halloween-Spiel: Die Spielfigur folgt einem schmalen Pfad durch einen finsteren Wald, in dem Dämonen und Monster angreifen. Zum Ausweichen bleibt kaum Platz, deshalb muss fast jeder Gegner abgeschossen werden. Gebaut mit einem erweiterten Shoot'Em-Up Construction Kit (SEUCK).\n\nSteuerung mit Joystick in Port 2; im Vorspann wählt man mit dem Joystick zwischen Musik- und Effekteinstellungen und dem Spielstart. Vorhanden als Disk-Image und als einzelne PRG; der Herausgeber bietet zusätzlich eine Bandfassung an.\n\nSpielidee, Grafik und Effekte: Alf Yngve · Musik: Richard Bayliss · Vorspann: Milasoft",
+  "texts": {
+    "de": "Ein kostenloses Halloween-Spiel: Die Spielfigur folgt einem schmalen Pfad durch einen finsteren Wald, in dem Dämonen und Monster angreifen. Zum Ausweichen bleibt kaum Platz, deshalb muss fast jeder Gegner abgeschossen werden. Gebaut mit einem erweiterten Shoot'Em-Up Construction Kit (SEUCK).\n\nSteuerung mit Joystick in Port 2; im Vorspann wählt man mit dem Joystick zwischen Musik- und Effekteinstellungen und dem Spielstart. Vorhanden als Disk-Image und als einzelne PRG; der Herausgeber bietet zusätzlich eine Bandfassung an.\n\nSpielidee, Grafik und Effekte: Alf Yngve · Musik: Richard Bayliss · Vorspann: Milasoft",
+    "en": "A free Halloween game: the player character follows a narrow path through a dark forest where demons and monsters attack. There is hardly any room to dodge, so almost every enemy has to be shot. Built with an enhanced Shoot'Em-Up Construction Kit (SEUCK).\n\nControlled with a joystick in port 2; in the intro, the joystick selects between music and effects settings and starting the game. Available as a disk image and as a single PRG; the publisher also offers a tape version.\n\nGame concept, graphics and effects: Alf Yngve · Music: Richard Bayliss · Intro: Milasoft"
+  },
   "images": {
     "sstitle": "images/b5/b5a054edbf2efa7b8ef2b8623e4183d4e099585e.png"
   }

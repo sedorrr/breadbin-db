@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "f113c21edc84945ca0ab417422fa8ee8f77eb504",
+  "md5": "995d6da4729430cc6ae1eacedcce0fd7",
+  "crc32": "c8ea5b79",
+  "size": 32933,
+  "format": "T64",
+  "files": [
+    "AIRBORNE.T64"
+  ],
+  "screenscraper_id": "36024",
+  "title": "Airborne Ranger",
+  "year": "1987",
+  "publisher": "MicroProse",
+  "developer": "MicroProse (Scott Spanburg)",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ein Fallschirmjäger springt allein hinter den feindlichen Linien ab und erledigt Aufträge wie Geiselbefreiung, Sprengung oder Aufklärung. Vor dem Einsatz werden Versorgungsbehälter abgeworfen, deren Inhalt unterwegs gebraucht wird; danach geht es in Draufsicht durch Gelände mit Gräben, Minen und Wachen bis zum Abholpunkt. Das Spiel verbindet Action mit planerischen Elementen und einer Laufbahn, über die der Soldat aufsteigt.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Scott Spanburg · Grafik: Iris Leigh Idokogi · Musik: Ken Lagace",
+  "texts": {
+    "de": "Ein Fallschirmjäger springt allein hinter den feindlichen Linien ab und erledigt Aufträge wie Geiselbefreiung, Sprengung oder Aufklärung. Vor dem Einsatz werden Versorgungsbehälter abgeworfen, deren Inhalt unterwegs gebraucht wird; danach geht es in Draufsicht durch Gelände mit Gräben, Minen und Wachen bis zum Abholpunkt. Das Spiel verbindet Action mit planerischen Elementen und einer Laufbahn, über die der Soldat aufsteigt.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Scott Spanburg · Grafik: Iris Leigh Idokogi · Musik: Ken Lagace",
+    "en": "A paratrooper jumps alone behind enemy lines and carries out missions such as freeing hostages, demolition or reconnaissance. Before the mission, supply pods are dropped whose contents will be needed along the way; then it is on through terrain with trenches, mines and guards, seen from above, to the pick-up point. The game combines action with planning elements and a career through which the soldier rises in rank.\n\nThis file contains the game as a tape archive (T64); several versions exist (original, conversions, cracks).\n\nCode: Scott Spanburg · Graphics: Iris Leigh Idokogi · Music: Ken Lagace"
+  },
+  "images": {
+    "sstitle": "images/79/79d072f7bd7ebc0c704159730715a1521ea27f03.png"
+  }
+}

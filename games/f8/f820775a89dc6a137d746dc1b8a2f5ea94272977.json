@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Überarbeitete Neufassung des Plattformspiels Rust'n'Steel von 2009: In jedem Level müssen alle Stahlträger eines Gerüsts angestrichen oder die Bolzen herausgezogen werden, bis die Konstruktion einstürzt. Grüner Schleim stört dabei; wer ihn wegwischt, bekommt Extrapunkte. 31 Level, davon 9 neue, und ein neuer Endgegner.\n\nDisk-Fassung (D64). Schnelleres, flüssigeres Spiel als das Original; Highscores und Spielfortschritt werden auf Diskette gespeichert, nach dem Tod geht es im selben Level weiter. Mit H oder X im Titelbild lassen sich Highscores und Fortschritt zurücksetzen; ein Trainermodus ist eingebaut.",
+  "texts": {
+    "de": "Überarbeitete Neufassung des Plattformspiels Rust'n'Steel von 2009: In jedem Level müssen alle Stahlträger eines Gerüsts angestrichen oder die Bolzen herausgezogen werden, bis die Konstruktion einstürzt. Grüner Schleim stört dabei; wer ihn wegwischt, bekommt Extrapunkte. 31 Level, davon 9 neue, und ein neuer Endgegner.\n\nDisk-Fassung (D64). Schnelleres, flüssigeres Spiel als das Original; Highscores und Spielfortschritt werden auf Diskette gespeichert, nach dem Tod geht es im selben Level weiter. Mit H oder X im Titelbild lassen sich Highscores und Fortschritt zurücksetzen; ein Trainermodus ist eingebaut.",
+    "en": "Revised remake of the 2009 platform game Rust'n'Steel: in each level all the steel girders of a scaffold have to be painted or the bolts pulled out until the structure collapses. Green slime gets in the way; wiping it off earns extra points. 31 levels, 9 of them new, and a new end boss.\n\nDisk version (D64). Faster, smoother gameplay than the original; high scores and game progress are saved to disk, and after dying play continues in the same level. Pressing H or X on the title screen resets high scores and progress; a trainer mode is built in."
+  },
   "images": {
     "sstitle": "images/ca/ca3e16e0d08cfae077fa7826a9390ac2bfdcdb4a.png"
   }

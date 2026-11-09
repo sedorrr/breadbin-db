@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "effce654819b508194840aee07dc9c81bcef530f",
+  "md5": "82b99fa6d895ca4cdd5c9995f1301971",
+  "crc32": "2ac984be",
+  "size": 444717,
+  "format": "TAP",
+  "files": [
+    "Citadel.tap"
+  ],
+  "screenscraper_id": "111089",
+  "title": "Citadel",
+  "year": "1989",
+  "publisher": "Electric Dreams",
+  "developer": "Martin Walker",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Ein Roboter erkundet acht unterirdische Städte auf einem verlassenen Planeten. Die scrollenden Labyrinthe umfassen zusammen 128 Bildschirme; der Spieler muss Gegner bekämpfen oder ihnen ausweichen und sich den Weg durch die Anlagen suchen. Das Spiel verbindet Erkundung, Schleichen und Schießen und wurde in der Presse mit Paradroid verglichen.\n\nElectric Dreams veröffentlichte das Spiel auf Kassette und Diskette; es war das dritte C64-Spiel von Martin Walker nach Chameleon und Hunter's Moon. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Martin Walker, Dan Phillips, John Kemp · Grafik: Martin Walker, Robin Levy · Musik: Martin Walker",
+  "texts": {
+    "de": "Ein Roboter erkundet acht unterirdische Städte auf einem verlassenen Planeten. Die scrollenden Labyrinthe umfassen zusammen 128 Bildschirme; der Spieler muss Gegner bekämpfen oder ihnen ausweichen und sich den Weg durch die Anlagen suchen. Das Spiel verbindet Erkundung, Schleichen und Schießen und wurde in der Presse mit Paradroid verglichen.\n\nElectric Dreams veröffentlichte das Spiel auf Kassette und Diskette; es war das dritte C64-Spiel von Martin Walker nach Chameleon und Hunter's Moon. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Martin Walker, Dan Phillips, John Kemp · Grafik: Martin Walker, Robin Levy · Musik: Martin Walker",
+    "en": "A robot explores eight underground cities on an abandoned planet. The scrolling mazes comprise 128 screens in total; the player has to fight or avoid enemies and find a way through the complexes. The game combines exploration, sneaking and shooting and was compared with Paradroid in the press.\n\nElectric Dreams released the game on cassette and disk; it was Martin Walker's third C64 game after Chameleon and Hunter's Moon. It is controlled with the joystick in port 2.\n\nCode: Martin Walker, Dan Phillips, John Kemp · Graphics: Martin Walker, Robin Levy · Music: Martin Walker"
+  }
+}

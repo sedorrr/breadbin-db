@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "e246a0231e23f789cbb49d7f5996529d3dcd5bab",
+  "md5": "926c637a34ce7c99174983190dc34fb5",
+  "crc32": "14925d07",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LOTA1.D64"
+  ],
+  "screenscraper_id": "114210",
+  "title": "Legacy of the Ancients",
+  "year": "1987",
+  "publisher": "Electronic Arts",
+  "developer": "Quest Software",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rollenspiel, in dem der Held über ein rätselhaftes Museum mit Ausstellungsstücken aus fremden Welten in das Land Tarmalon gelangt. Dort gilt es, eine Reihe magischer Schriftrollen zu finden, um eine uralte Bedrohung abzuwenden. Das Spiel verbindet eine Oberwelt in Draufsicht mit Städten, Burgen und dreidimensional dargestellten Verliesen und bietet Glücksspiele und Geschicklichkeitseinlagen als Abwechslung. Es baut auf der Technik der Questron-Spiele derselben Entwickler auf, ist aber eine eigenständige Geschichte.\n\nDiese Fassung besteht aus zwei Diskettenabbildern (zwei Seiten bzw. zwei Disketten).",
+  "texts": {
+    "de": "Ein Rollenspiel, in dem der Held über ein rätselhaftes Museum mit Ausstellungsstücken aus fremden Welten in das Land Tarmalon gelangt. Dort gilt es, eine Reihe magischer Schriftrollen zu finden, um eine uralte Bedrohung abzuwenden. Das Spiel verbindet eine Oberwelt in Draufsicht mit Städten, Burgen und dreidimensional dargestellten Verliesen und bietet Glücksspiele und Geschicklichkeitseinlagen als Abwechslung. Es baut auf der Technik der Questron-Spiele derselben Entwickler auf, ist aber eine eigenständige Geschichte.\n\nDiese Fassung besteht aus zwei Diskettenabbildern (zwei Seiten bzw. zwei Disketten).",
+    "en": "A role-playing game in which the hero reaches the land of Tarmalon through a mysterious museum with exhibits from other worlds. There, a series of magical scrolls must be found to avert an ancient threat. The game combines a top-down overworld with towns, castles and dungeons shown in 3D, and offers gambling and action interludes for variety. It builds on the technology of the Questron games by the same developers, but is a self-contained story.\n\nThis version consists of two disk images (two sides or two disks)."
+  }
+}

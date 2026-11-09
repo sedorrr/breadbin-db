@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "fbcbef9665d805687775bfaafc3d0dd32797e232",
+  "md5": "9c30ed134ed4f7951bfaf3afb0d4986f",
+  "crc32": "a27c639e",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Nebulus.crt"
+  ],
+  "screenscraper_id": "36117",
+  "title": "Nebulus",
+  "year": "1987",
+  "publisher": "Hewson",
+  "developer": "John M. Phillips",
+  "genres": [
+    "Plattform",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Der kleine Pogo soll acht Türme sprengen, die aus dem Meer ragen. Er läuft auf Simsen um den Turm herum, der sich dabei als rotierender Zylinder dreht – ein für 1987 verblüffender Effekt. Aufzüge, Tunnel, zerbröckelnde Stufen und abprallende Bälle stehen dem Aufstieg im Weg, während eine Zeitgrenze drängt. Zwischen den Türmen fängt Pogo in einem U-Boot Fische für Bonuspunkte.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: John M. Phillips · Musik: John M. Phillips",
+  "texts": {
+    "de": "Der kleine Pogo soll acht Türme sprengen, die aus dem Meer ragen. Er läuft auf Simsen um den Turm herum, der sich dabei als rotierender Zylinder dreht – ein für 1987 verblüffender Effekt. Aufzüge, Tunnel, zerbröckelnde Stufen und abprallende Bälle stehen dem Aufstieg im Weg, während eine Zeitgrenze drängt. Zwischen den Türmen fängt Pogo in einem U-Boot Fische für Bonuspunkte.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: John M. Phillips · Musik: John M. Phillips",
+    "en": "Little Pogo is to blow up eight towers rising out of the sea. He walks round the tower on ledges while it turns as a rotating cylinder – an astonishing effect for 1987. Lifts, tunnels, crumbling steps and bouncing balls stand in the way of the ascent while a time limit presses. Between the towers Pogo catches fish in a submarine for bonus points.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without additional loading.\n\nCode: John M. Phillips · Music: John M. Phillips"
+  },
+  "images": {
+    "ss": "images/03/03e8563609c828a312275a34e24c5c62cf7256fd.png",
+    "sstitle": "images/c9/c92ccba0b42dc5c8f779a2ddfca7e3fdb6174cca.png"
+  }
+}

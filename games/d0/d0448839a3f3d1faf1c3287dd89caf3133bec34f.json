@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "d0448839a3f3d1faf1c3287dd89caf3133bec34f",
+  "md5": "1146a1374a2716ffd309d1b53d88ee3b",
+  "crc32": "9d99e428",
+  "size": 197056,
+  "format": "CRT",
+  "files": [
+    "Ghouls 'N Ghosts (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35881",
+  "title": "Ghouls 'n Ghosts",
+  "year": "1989",
+  "publisher": "U.S. Gold",
+  "developer": "Software Creations",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Capcom-Automaten von 1988 und Fortsetzung von Ghosts 'n Goblins: Ritter Arthur kämpft sich durch Friedhöfe, Dörfer und Höhlen, um Prinzessin Guinevere zu retten. Ein Treffer kostet die Rüstung, der zweite das Leben; Truhen enthalten andere Waffen und eine goldene Rüstung. Die C64-Fassung ist vor allem für ihre Musik bekannt.\n\nErschien auf Kassette und Diskette; außerdem gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870, die das Nachladen erspart. Steuerung per Joystick in Port 2.\n\nCode: Stephen Ruddy · Grafik: Andrew Threlfall · Musik: Tim Follin",
+  "texts": {
+    "de": "Umsetzung des Capcom-Automaten von 1988 und Fortsetzung von Ghosts 'n Goblins: Ritter Arthur kämpft sich durch Friedhöfe, Dörfer und Höhlen, um Prinzessin Guinevere zu retten. Ein Treffer kostet die Rüstung, der zweite das Leben; Truhen enthalten andere Waffen und eine goldene Rüstung. Die C64-Fassung ist vor allem für ihre Musik bekannt.\n\nErschien auf Kassette und Diskette; außerdem gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870, die das Nachladen erspart. Steuerung per Joystick in Port 2.\n\nCode: Stephen Ruddy · Grafik: Andrew Threlfall · Musik: Tim Follin",
+    "en": "Conversion of the 1988 Capcom arcade machine and sequel to Ghosts 'n Goblins: the knight Arthur fights his way through graveyards, villages and caves to rescue Princess Guinevere. One hit costs his armour, the second his life; chests contain other weapons and a golden armour. The C64 version is known above all for its music.\n\nReleased on cassette and disk; there is also a MultiLoad64 EasyFlash conversion by $olo1870 that avoids multi-loading from disk. Controlled by joystick in port 2.\n\nCode: Stephen Ruddy · Graphics: Andrew Threlfall · Music: Tim Follin"
+  }
+}

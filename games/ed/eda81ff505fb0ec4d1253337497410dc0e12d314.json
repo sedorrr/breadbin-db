@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "eda81ff505fb0ec4d1253337497410dc0e12d314",
+  "md5": "55be2dd5596855c145b13ef57fe7db91",
+  "crc32": "581a649e",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Barry McGuigan World Championship Boxing (J1).crt"
+  ],
+  "screenscraper_id": "115042",
+  "title": "Barry McGuigan World Championship Boxing",
+  "year": "1985",
+  "publisher": "Activision",
+  "developer": "Sportsware Productions (Troy Lyndon, Doug Barnett, Chris Harvey)",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Eine Boxsimulation, benannt nach dem irischen Weltmeister Barry McGuigan. Man stellt einen eigenen Boxer zusammen, trainiert ihn und arbeitet sich in der Rangliste nach oben, bis zum Titelkampf. Im Ring werden Schläge und Deckung mit dem Joystick gesteuert, Ausdauer und Taktik spielen eine große Rolle. Zwei Spieler können auch gegeneinander antreten.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Der Joystick gehört in Port 1.\n\nCode: Troy Lyndon, Doug Barnett, Chris Harvey · Musik: John A. Fitzpatrick",
+  "texts": {
+    "de": "Eine Boxsimulation, benannt nach dem irischen Weltmeister Barry McGuigan. Man stellt einen eigenen Boxer zusammen, trainiert ihn und arbeitet sich in der Rangliste nach oben, bis zum Titelkampf. Im Ring werden Schläge und Deckung mit dem Joystick gesteuert, Ausdauer und Taktik spielen eine große Rolle. Zwei Spieler können auch gegeneinander antreten.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Der Joystick gehört in Port 1.\n\nCode: Troy Lyndon, Doug Barnett, Chris Harvey · Musik: John A. Fitzpatrick",
+    "en": "A boxing simulation named after the Irish world champion Barry McGuigan. The player creates their own boxer, trains him and works their way up the rankings to the title fight. In the ring, punches and guard are controlled with the joystick, and stamina and tactics play a major role. Two players can also compete against each other.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without multi-loading. The joystick goes in port 1.\n\nCode: Troy Lyndon, Doug Barnett, Chris Harvey · Music: John A. Fitzpatrick"
+  },
+  "images": {
+    "sstitle": "images/e4/e4121fe35b9a0c3daf6d7d8c46e0bb93ab9a3da9.png"
+  }
+}

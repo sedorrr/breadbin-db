@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "e84a2f061b88564e57758c50934f1ba4976c44ef",
+  "md5": "aa83598b468141b1fc3e77a84ced6f58",
+  "crc32": "4e47a870",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "HITCHH2B.D64"
+  ],
+  "screenscraper_id": "35871",
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "year": "1984",
+  "publisher": "Infocom",
+  "developer": "Infocom (Douglas Adams, Steve Meretzky)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Textadventure nach Douglas Adams' Romanreihe, von ihm selbst mitgestaltet: Arthur Dent erlebt die Zerstörung der Erde, reist per Anhalter mit Ford Prefect durch die Galaxis und landet unter anderem auf dem Raumschiff Herz aus Gold. Das Spiel ist voller Humor, spielt mit den Erwartungen des Spielers und ist für unfaire Rätsel bekannt, allen voran den Babelfisch. Es wurde eines der meistverkauften Infocom-Spiele.\n\nErschien auf Diskette, später auch als „Solid Gold“-Ausgabe mit eingebauten Hilfen. Gesteuert wird per Tastatur (englisch).\n\nAutoren: Douglas Adams, Steve Meretzky",
+  "texts": {
+    "de": "Textadventure nach Douglas Adams' Romanreihe, von ihm selbst mitgestaltet: Arthur Dent erlebt die Zerstörung der Erde, reist per Anhalter mit Ford Prefect durch die Galaxis und landet unter anderem auf dem Raumschiff Herz aus Gold. Das Spiel ist voller Humor, spielt mit den Erwartungen des Spielers und ist für unfaire Rätsel bekannt, allen voran den Babelfisch. Es wurde eines der meistverkauften Infocom-Spiele.\n\nErschien auf Diskette, später auch als „Solid Gold“-Ausgabe mit eingebauten Hilfen. Gesteuert wird per Tastatur (englisch).\n\nAutoren: Douglas Adams, Steve Meretzky",
+    "en": "Text adventure based on Douglas Adams' series of novels, co-designed by Adams himself: Arthur Dent experiences the destruction of the Earth, hitchhikes through the galaxy with Ford Prefect and ends up, among other places, on the spaceship Heart of Gold. The game is full of humour, plays with the player's expectations and is known for unfair puzzles, above all the Babel fish. It became one of Infocom's best-selling games.\n\nReleased on disk, later also as a \"Solid Gold\" edition with built-in hints. Controlled via the keyboard (English).\n\nAuthors: Douglas Adams, Steve Meretzky"
+  }
+}

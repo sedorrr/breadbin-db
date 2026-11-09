@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "e4233a38553b046bb9b4dcf610e5024cc9ef689c",
+  "md5": "737e943af2235eb6bf229972219653aa",
+  "crc32": "207fbeaa",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Jet Set Willy.crt"
+  ],
+  "screenscraper_id": "36374",
+  "title": "Jet Set Willy",
+  "year": "1984",
+  "publisher": "Software Projects",
+  "developer": "Matthew Smith (Original)",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Nach einer wilden Feier in seiner Villa muss Miner Willy alle herumliegenden Gegenstände einsammeln, bevor ihn seine Haushälterin ins Bett lässt. Anders als im Vorgänger Manic Miner gibt es keine Abfolge von Höhlen, sondern ein großes, frei begehbares Haus mit Dachboden, Kellern, Garten und Strand. Jeder Raum hat eigene Gegner und Sprungpassagen. Die offene Spielwelt war 1984 bahnbrechend für Plattformspiele.\n\nUrsprünglich für den ZX Spectrum; die C64-Umsetzung erschien bei Software Projects auf Kassette und Diskette. In ihr sind nicht alle Gegenstände im Weinkeller erreichbar. Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Matthew Smith · Code (C64): Shahid Kamal Ahmad",
+  "texts": {
+    "de": "Nach einer wilden Feier in seiner Villa muss Miner Willy alle herumliegenden Gegenstände einsammeln, bevor ihn seine Haushälterin ins Bett lässt. Anders als im Vorgänger Manic Miner gibt es keine Abfolge von Höhlen, sondern ein großes, frei begehbares Haus mit Dachboden, Kellern, Garten und Strand. Jeder Raum hat eigene Gegner und Sprungpassagen. Die offene Spielwelt war 1984 bahnbrechend für Plattformspiele.\n\nUrsprünglich für den ZX Spectrum; die C64-Umsetzung erschien bei Software Projects auf Kassette und Diskette. In ihr sind nicht alle Gegenstände im Weinkeller erreichbar. Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Matthew Smith · Code (C64): Shahid Kamal Ahmad",
+    "en": "After a wild party in his mansion, Miner Willy has to collect all the items lying around before his housekeeper lets him go to bed. Unlike in the predecessor Manic Miner, there is no sequence of caverns, but a large, freely explorable house with attic, cellars, garden and beach. Each room has its own enemies and jumping sections. The open game world was groundbreaking for platform games in 1984.\n\nOriginally for the ZX Spectrum; the C64 conversion was released by Software Projects on tape and disk. In it, not all items in the wine cellar can be reached. Controlled via joystick or keyboard. Besides the originals, there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without additional loading.\n\nDesign: Matthew Smith · Code (C64): Shahid Kamal Ahmad"
+  }
+}

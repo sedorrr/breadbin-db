@@ -19,6 +19,10 @@
   ],
   "players": "2-4",
   "synopsis": "Partyspiel für zwei bis vier Spieler: Frösche treten an einem Teich in kleinen Wettbewerben gegeneinander an. Mit der Zunge stößt man die Mitspieler ins Wasser oder schnappt ihnen die vorbeifliegenden Insekten weg, bevor sie selbst zugreifen.\n\nFür den dritten und vierten Spieler ist der 4-Spieler-Adapter am Userport („Classical Games 4-Player Interface“, auch von Protovision) nötig; VICE bildet ihn nach. Läuft auf C64 und C128 (die erste Fassung vom 30.03.2017 hatte einen C128-Fehler, behoben am 06.04.2017). Als PRG und D64.\n\nCode, Grafik, Musik: ZeHa",
+  "texts": {
+    "de": "Partyspiel für zwei bis vier Spieler: Frösche treten an einem Teich in kleinen Wettbewerben gegeneinander an. Mit der Zunge stößt man die Mitspieler ins Wasser oder schnappt ihnen die vorbeifliegenden Insekten weg, bevor sie selbst zugreifen.\n\nFür den dritten und vierten Spieler ist der 4-Spieler-Adapter am Userport („Classical Games 4-Player Interface“, auch von Protovision) nötig; VICE bildet ihn nach. Läuft auf C64 und C128 (die erste Fassung vom 30.03.2017 hatte einen C128-Fehler, behoben am 06.04.2017). Als PRG und D64.\n\nCode, Grafik, Musik: ZeHa",
+    "en": "Party game for two to four players: frogs compete against each other in small contests at a pond. With their tongues they knock the other players into the water or snatch the passing insects away before the others can grab them.\n\nThe third and fourth players require the 4-player adapter on the user port (“Classical Games 4-Player Interface”, also from Protovision); VICE emulates it. Runs on the C64 and C128 (the first version from 30.03.2017 had a C128 bug, fixed on 06.04.2017). As PRG and D64.\n\nCode, graphics, music: ZeHa"
+  },
   "images": {
     "ss": "images/06/0691731d56fb9be9a14e28336453dd2912c42f66.png",
     "sstitle": "images/8d/8d11a387564ad5528f0f8c134de1ad61f6ad25b8.png"

@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Actionspiel im Stil der 80er Jahre: Ein Forscher dringt in ein verfluchtes ägyptisches Grab vor, weicht Fallen aus, kämpft gegen Kreaturen und muss am Ende den Wächter des Grabes besiegen, um den Fluch zu brechen. Zehn Level, ein eigener Endgegner-Level und fünf Arten von Monstern und Fallen; vollständig in Assembler geschrieben.\n\nD64 mit Fassung 1.3 (März 2026). Kostenlos (Name your own price) bei itch.io.\n\nCode: Odin Strabo Jensen · Musik: Rambones",
+  "texts": {
+    "de": "Actionspiel im Stil der 80er Jahre: Ein Forscher dringt in ein verfluchtes ägyptisches Grab vor, weicht Fallen aus, kämpft gegen Kreaturen und muss am Ende den Wächter des Grabes besiegen, um den Fluch zu brechen. Zehn Level, ein eigener Endgegner-Level und fünf Arten von Monstern und Fallen; vollständig in Assembler geschrieben.\n\nD64 mit Fassung 1.3 (März 2026). Kostenlos (Name your own price) bei itch.io.\n\nCode: Odin Strabo Jensen · Musik: Rambones",
+    "en": "Action game in the style of the 1980s: an explorer ventures into a cursed Egyptian tomb, avoids traps, fights creatures and finally has to defeat the guardian of the tomb to break the curse. Ten levels, a separate end boss level and five kinds of monsters and traps; written entirely in assembler.\n\nD64 with version 1.3 (March 2026). Free (name your own price) on itch.io.\n\nCode: Odin Strabo Jensen · Music: Rambones"
+  },
   "images": {
     "sstitle": "images/49/499286e5a168f4701a6bb571a59778d06f1d4bfb.png"
   }

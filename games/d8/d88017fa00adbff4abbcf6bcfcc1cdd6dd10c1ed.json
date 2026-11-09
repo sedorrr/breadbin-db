@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Direkte Fortsetzung des Rätselspiels Tenebra im Stil der Rogue-likes. Die Spielfigur hat Angst vor der Dunkelheit und betritt nur beleuchtete Felder; die Aufgabe ist, ihr einen beleuchteten Weg zum Ausgang zu verschaffen. Neu sind unter anderem eine Portalkanone und weitere Spielelemente. 35 Level.\n\nPAL und NTSC, Joystick. Nach einem Level überspringt gedrückt gehaltenes Feuer die Erklärungen, R führt zum Infobildschirm zurück. Als PRG und D64; Haplo hat das Spiel später auch für Plus/4, Amiga, Atari, Spectrum, CPC, MSX und NES umgesetzt.\n\nCode: Haplo",
+  "texts": {
+    "de": "Direkte Fortsetzung des Rätselspiels Tenebra im Stil der Rogue-likes. Die Spielfigur hat Angst vor der Dunkelheit und betritt nur beleuchtete Felder; die Aufgabe ist, ihr einen beleuchteten Weg zum Ausgang zu verschaffen. Neu sind unter anderem eine Portalkanone und weitere Spielelemente. 35 Level.\n\nPAL und NTSC, Joystick. Nach einem Level überspringt gedrückt gehaltenes Feuer die Erklärungen, R führt zum Infobildschirm zurück. Als PRG und D64; Haplo hat das Spiel später auch für Plus/4, Amiga, Atari, Spectrum, CPC, MSX und NES umgesetzt.\n\nCode: Haplo",
+    "en": "Direct sequel to the roguelike-style puzzle game Tenebra. The character is afraid of the dark and only steps onto lit squares; the task is to give them a lit path to the exit. New features include a portal gun and other game elements. 35 levels.\n\nPAL and NTSC, joystick. After a level, holding fire skips the explanations, and R returns to the info screen. As PRG and D64; Haplo later also converted the game for Plus/4, Amiga, Atari, Spectrum, CPC, MSX and NES.\n\nCode: Haplo"
+  },
   "images": {
     "ss": "images/9b/9b436d45a7fefb959eebdd83388e1209be4d8a39.png"
   }

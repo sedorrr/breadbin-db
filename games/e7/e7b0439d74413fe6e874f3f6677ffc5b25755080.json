@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e7b0439d74413fe6e874f3f6677ffc5b25755080",
+  "md5": "5891d41b5aa9b3cddc1cb2f493d75bf1",
+  "crc32": "80222416",
+  "size": 221680,
+  "format": "CRT",
+  "files": [
+    "Creatures [EasyFlash].crt"
+  ],
+  "screenscraper_id": "111325",
+  "title": "Creatures",
+  "year": "1990",
+  "publisher": "Thalamus",
+  "developer": "Apex Computer Productions",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Clyde Radcliffe, ein kleines feuerspeiendes Wesen, muss seine Freunde, die Fuzzy Wuzzies, vor Dämonen retten, die sie in Folterkammern quälen. Das Spiel wechselt zwischen Plattformabschnitten mit Gegnern und Geheimnissen und kniffligen Folterkammer-Szenen, in denen man unter Zeitdruck den Weg zur Rettung finden muss. Liebevolle, detailreiche Grafik, schwarzer Humor und eine durchdachte Steuerung machten Creatures zu einem der gelobtesten Jump 'n' Runs auf dem C64.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nCode: John Rowlands · Grafik: Steve Rowlands · Musik: Steve Rowlands",
+  "texts": {
+    "de": "Clyde Radcliffe, ein kleines feuerspeiendes Wesen, muss seine Freunde, die Fuzzy Wuzzies, vor Dämonen retten, die sie in Folterkammern quälen. Das Spiel wechselt zwischen Plattformabschnitten mit Gegnern und Geheimnissen und kniffligen Folterkammer-Szenen, in denen man unter Zeitdruck den Weg zur Rettung finden muss. Liebevolle, detailreiche Grafik, schwarzer Humor und eine durchdachte Steuerung machten Creatures zu einem der gelobtesten Jump 'n' Runs auf dem C64.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nCode: John Rowlands · Grafik: Steve Rowlands · Musik: Steve Rowlands",
+    "en": "Clyde Radcliffe, a small fire-breathing creature, has to rescue his friends, the Fuzzy Wuzzies, from demons who are tormenting them in torture chambers. The game alternates between platform sections with enemies and secrets and tricky torture-chamber scenes in which the way to a rescue has to be found under time pressure. Lovingly detailed graphics, black humour and well-thought-out controls made Creatures one of the most highly praised platform games on the C64.\n\nThis version is a conversion to an EasyFlash cartridge and runs without a disk.\n\nCode: John Rowlands · Graphics: Steve Rowlands · Music: Steve Rowlands"
+  },
+  "images": {
+    "sstitle": "images/9c/9ccd3912b8cefd07e343577d26b8115f4c5fa8c3.png"
+  }
+}

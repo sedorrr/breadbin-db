@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f8903c1930f4ebf21c5182db3b398ec08138eab4",
+  "md5": "7e770cae5b424da0bb4399db82e06bad",
+  "crc32": "a9b2acbe",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Mercenary - Escape from Targ.crt"
+  ],
+  "screenscraper_id": "115145",
+  "title": "Mercenary: Escape from Targ",
+  "year": "1985",
+  "publisher": "Novagen",
+  "developer": "Novagen (Paul Woakes)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Nach einer Bruchlandung auf dem Planeten Targ muss ein Söldner einen Weg finden, den Planeten wieder zu verlassen. Die Stadt und die unterirdischen Anlagen sind in schneller 3D-Vektorgrafik dargestellt und lassen sich zu Fuß oder mit Fahrzeugen frei erkunden. Zwei verfeindete Parteien bieten Aufträge an; wem man hilft, bleibt dem Spieler überlassen. Die offene Spielwelt und die flüssige 3D-Darstellung waren 1985 ungewöhnlich.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Paul Woakes",
+  "texts": {
+    "de": "Nach einer Bruchlandung auf dem Planeten Targ muss ein Söldner einen Weg finden, den Planeten wieder zu verlassen. Die Stadt und die unterirdischen Anlagen sind in schneller 3D-Vektorgrafik dargestellt und lassen sich zu Fuß oder mit Fahrzeugen frei erkunden. Zwei verfeindete Parteien bieten Aufträge an; wem man hilft, bleibt dem Spieler überlassen. Die offene Spielwelt und die flüssige 3D-Darstellung waren 1985 ungewöhnlich.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Paul Woakes",
+    "en": "After a crash landing on the planet Targ, a mercenary has to find a way to leave the planet again. The city and the underground complexes are depicted in fast 3D vector graphics and can be freely explored on foot or in vehicles. Two hostile factions offer missions; whom to help is left to the player. The open game world and the smooth 3D display were unusual in 1985.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: Paul Woakes"
+  },
+  "images": {
+    "ss": "images/18/1842dd307a2fafac824c02854681ed1cd383734c.png",
+    "sstitle": "images/b4/b4c3adaa8df74b2a5e336881b7868ff6f968e02e.png"
+  }
+}

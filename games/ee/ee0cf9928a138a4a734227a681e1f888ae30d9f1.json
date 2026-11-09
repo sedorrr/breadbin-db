@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "ee0cf9928a138a4a734227a681e1f888ae30d9f1",
+  "md5": "9e6db649f3938ba9cc19f98a75320449",
+  "crc32": "5ec3e280",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Arkanoid (J1).crt"
+  ],
+  "screenscraper_id": "35867",
+  "title": "Arkanoid",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "David A. Collier (Umsetzung)",
+  "genres": [
+    "Action / Breakout Spiele",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Taito-Automaten: Das Raumschiff Vaus lenkt einen Ball gegen Mauern aus farbigen Steinen. Aus zerstörten Steinen fallen Kapseln mit Verbreiterung, Laser, Fangfunktion, Ball-Teilung, Verlangsamung oder Extraleben. Nach 32 Wänden wartet der Endgegner DOH. Arkanoid belebte das alte Breakout-Prinzip neu und war auf dem C64 sehr erfolgreich.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: David A. Collier · Grafik: Mark K. Jones · Musik (SID): Martin Galway",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten: Das Raumschiff Vaus lenkt einen Ball gegen Mauern aus farbigen Steinen. Aus zerstörten Steinen fallen Kapseln mit Verbreiterung, Laser, Fangfunktion, Ball-Teilung, Verlangsamung oder Extraleben. Nach 32 Wänden wartet der Endgegner DOH. Arkanoid belebte das alte Breakout-Prinzip neu und war auf dem C64 sehr erfolgreich.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: David A. Collier · Grafik: Mark K. Jones · Musik (SID): Martin Galway",
+    "en": "Conversion of the Taito arcade game: the Vaus spacecraft deflects a ball against walls of coloured bricks. Destroyed bricks release capsules giving enlargement, laser, catch function, ball split, slow-down or extra lives. After 32 walls the final boss DOH awaits. Arkanoid revived the old Breakout concept and was very successful on the C64.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading. Controlled with the joystick in port 1.\n\nCode: David A. Collier · Graphics: Mark K. Jones · Music (SID): Martin Galway"
+  },
+  "images": {
+    "ss": "images/f9/f972e33c437b4757468d18cf1aa2ecd63d9edd4f.png",
+    "sstitle": "images/c3/c3a7ef4ebebba4c5977d58bd2e06ed4855aab182.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "df2415b8f2a7d138b767561e9b0d0ce545088fe9",
+  "md5": "ba39543b08a9fc9c5ee8239d30949d23",
+  "crc32": "67ac1f9e",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Missile Command.crt"
+  ],
+  "screenscraper_id": "36166",
+  "title": "Missile Command",
+  "year": "1983",
+  "publisher": "Interceptor Micros",
+  "developer": "Interceptor Micros",
+  "genres": [
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Nicht lizenzierte Umsetzung des Atari-Automaten von 1980: Feindliche Raketen regnen auf sechs Städte herab, und der Spieler fängt sie mit Abwehrraketen aus drei Stellungen ab, deren Explosionen am Zielpunkt die Angreifer vernichten. Dazu kommen Flugzeuge und Satelliten als Bonusziele. Mit jeder Welle werden die Angriffe schneller.\n\nErschien 1983 auf Kassette bei Interceptor; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Andrew Challis",
+  "texts": {
+    "de": "Nicht lizenzierte Umsetzung des Atari-Automaten von 1980: Feindliche Raketen regnen auf sechs Städte herab, und der Spieler fängt sie mit Abwehrraketen aus drei Stellungen ab, deren Explosionen am Zielpunkt die Angreifer vernichten. Dazu kommen Flugzeuge und Satelliten als Bonusziele. Mit jeder Welle werden die Angriffe schneller.\n\nErschien 1983 auf Kassette bei Interceptor; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Andrew Challis",
+    "en": "Unlicensed conversion of Atari's 1980 arcade machine: enemy missiles rain down on six cities, and the player intercepts them with defensive missiles from three bases, whose explosions at the target point destroy the attackers. In addition there are aircraft and satellites as bonus targets. The attacks get faster with each wave.\n\nReleased in 1983 on cassette by Interceptor; there is also a OneLoad64 cartridge conversion. It is controlled with the joystick.\n\nCode: Andrew Challis"
+  }
+}

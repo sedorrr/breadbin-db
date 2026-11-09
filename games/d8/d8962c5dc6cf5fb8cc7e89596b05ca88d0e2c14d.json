@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "d8962c5dc6cf5fb8cc7e89596b05ca88d0e2c14d",
+  "md5": "6d4cb9effcee6455dc7621b0fc63cec3",
+  "crc32": "dc903fd6",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Druid (J1).crt"
+  ],
+  "screenscraper_id": "36634",
+  "title": "Druid",
+  "year": "1986",
+  "publisher": "Firebird",
+  "developer": "Firebird",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1-2",
+  "synopsis": "Der Druide Hasrinaxx zieht durch acht Ebenen voller Dämonen und Gegner, um den Prinzen der Finsternis zu besiegen. Er setzt Wasser-, Feuer- und Blitzzauber ein, die er in Truhen nachfüllt, und kann einen Golem beschwören, der ihm hilft. Ein zweiter Spieler übernimmt den Golem und spielt gleichzeitig mit. Das Spiel greift das Gauntlet-Prinzip auf und erweitert es um Zauber und Rätsel.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Gesteuert wird mit dem Joystick.\n\nCode: Andrew E. Bailey · Grafik: Dene T. Carter, Bob Stevenson · Musik: David M. Hanlon",
+  "texts": {
+    "de": "Der Druide Hasrinaxx zieht durch acht Ebenen voller Dämonen und Gegner, um den Prinzen der Finsternis zu besiegen. Er setzt Wasser-, Feuer- und Blitzzauber ein, die er in Truhen nachfüllt, und kann einen Golem beschwören, der ihm hilft. Ein zweiter Spieler übernimmt den Golem und spielt gleichzeitig mit. Das Spiel greift das Gauntlet-Prinzip auf und erweitert es um Zauber und Rätsel.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Gesteuert wird mit dem Joystick.\n\nCode: Andrew E. Bailey · Grafik: Dene T. Carter, Bob Stevenson · Musik: David M. Hanlon",
+    "en": "The druid Hasrinaxx travels through eight levels full of demons and enemies to defeat the Prince of Darkness. He uses water, fire and lightning spells, which he replenishes from chests, and can summon a golem to help him. A second player takes over the golem and plays simultaneously. The game takes up the Gauntlet principle and extends it with spells and puzzles.\n\nReleased on cassette and disk; there is also a OneLoad64 cartridge conversion (joystick in port 1). Controlled with a joystick.\n\nCode: Andrew E. Bailey · Graphics: Dene T. Carter, Bob Stevenson · Music: David M. Hanlon"
+  }
+}

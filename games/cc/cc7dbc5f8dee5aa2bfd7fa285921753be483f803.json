@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "cc7dbc5f8dee5aa2bfd7fa285921753be483f803",
+  "md5": "5c4803a7a3e600968781a9422a59f60e",
+  "crc32": "7aa2a3f8",
+  "size": 17153,
+  "format": "PRG",
+  "files": [
+    "choplifter-2butt.prg"
+  ],
+  "screenscraper_id": "111109",
+  "title": "Choplifter",
+  "year": "1983",
+  "publisher": "Brøderbund",
+  "developer": "Dan Gorlin",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rettungshubschrauber fliegt hinter die feindlichen Linien, öffnet Baracken und nimmt die herausrennenden Geiseln auf, höchstens 16 auf einmal. Panzer, Düsenjäger und Drohnen greifen an, während der Hubschrauber zum Stützpunkt zurückkehrt. Ziel ist, möglichst viele der 64 Gefangenen zu retten, bevor drei Hubschrauber verloren sind. Das Spiel verbindet Action mit Rettungsaufgaben und war eines der ersten erfolgreichen Spiele von Brøderbund.\n\nDiese Datei ist eine einzelne PRG-Datei von Rh70 (2023), in der der zweite Feuerknopf eines Zwei-Knopf-Joysticks den Hubschrauber wendet. Im Original wird mit dem Joystick in Port 1 gesteuert.\n\nDesign: Dan Gorlin · C64-Umsetzung laut C64-Wiki mit Dane Bigham · Anpassung: Rh70",
+  "texts": {
+    "de": "Ein Rettungshubschrauber fliegt hinter die feindlichen Linien, öffnet Baracken und nimmt die herausrennenden Geiseln auf, höchstens 16 auf einmal. Panzer, Düsenjäger und Drohnen greifen an, während der Hubschrauber zum Stützpunkt zurückkehrt. Ziel ist, möglichst viele der 64 Gefangenen zu retten, bevor drei Hubschrauber verloren sind. Das Spiel verbindet Action mit Rettungsaufgaben und war eines der ersten erfolgreichen Spiele von Brøderbund.\n\nDiese Datei ist eine einzelne PRG-Datei von Rh70 (2023), in der der zweite Feuerknopf eines Zwei-Knopf-Joysticks den Hubschrauber wendet. Im Original wird mit dem Joystick in Port 1 gesteuert.\n\nDesign: Dan Gorlin · C64-Umsetzung laut C64-Wiki mit Dane Bigham · Anpassung: Rh70",
+    "en": "A rescue helicopter flies behind enemy lines, opens barracks and picks up the hostages running out, at most 16 at a time. Tanks, jet fighters and drones attack while the helicopter returns to base. The goal is to rescue as many of the 64 prisoners as possible before three helicopters are lost. The game combines action with rescue missions and was one of Brøderbund's first successful games.\n\nThis file is a single PRG file by Rh70 (2023) in which the second fire button of a two-button joystick turns the helicopter around. In the original, the game is controlled with the joystick in port 1.\n\nDesign: Dan Gorlin · C64 conversion according to C64-Wiki with Dane Bigham · Adaptation: Rh70"
+  },
+  "images": {
+    "ss": "images/5d/5d0471ad1fe5d69256e1414e25ffa16d62cb2117.png",
+    "sstitle": "images/6f/6f133c18da8b4b2b86cabadfc184b7d42d1b4b43.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "e8081459a83288e9ed4ca9cd8811ea23d4a14b1e",
+  "md5": "c41c2984ff4e5b357c73aef2e3ea976c",
+  "crc32": "9c65dc3b",
+  "size": 33673,
+  "format": "T64",
+  "files": [
+    "ENFORCE1.T64"
+  ],
+  "screenscraper_id": "111886",
+  "title": "Enforcer",
+  "year": "1992",
+  "publisher": "CP Verlag",
+  "developer": "Manfred Trenz",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Ein horizontal scrollender Shoot'em Up von Manfred Trenz, dem Entwickler von Katakis und Turrican. Ein kleines Raumschiff kämpft sich durch Level mit großen Endgegnern und lässt sich mit eingesammelten Extras bis zu bildschirmfüllender Feuerkraft ausbauen. Die Grafik nutzt den C64 bis an seine Grenzen. Das Spiel erschien nicht im Handel, sondern auf der Diskette einer Zeitschrift des CP Verlags (Golden Disk 64).\n\nDiese Fassung liegt als T64-Datei aus einer Sammlung vor.\n\nCode: Manfred Trenz · Musik: Markus Siebold",
+  "texts": {
+    "de": "Ein horizontal scrollender Shoot'em Up von Manfred Trenz, dem Entwickler von Katakis und Turrican. Ein kleines Raumschiff kämpft sich durch Level mit großen Endgegnern und lässt sich mit eingesammelten Extras bis zu bildschirmfüllender Feuerkraft ausbauen. Die Grafik nutzt den C64 bis an seine Grenzen. Das Spiel erschien nicht im Handel, sondern auf der Diskette einer Zeitschrift des CP Verlags (Golden Disk 64).\n\nDiese Fassung liegt als T64-Datei aus einer Sammlung vor.\n\nCode: Manfred Trenz · Musik: Markus Siebold",
+    "en": "A horizontally scrolling shoot 'em up by Manfred Trenz, the developer of Katakis and Turrican. A small spaceship fights its way through levels with large bosses and can be upgraded with collected power-ups to screen-filling firepower. The graphics push the C64 to its limits. The game was not sold in shops, but appeared on the disk of a magazine from CP Verlag (Golden Disk 64).\n\nThis version is a T64 file from a collection.\n\nCode: Manfred Trenz · Music: Markus Siebold"
+  }
+}

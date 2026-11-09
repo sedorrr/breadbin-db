@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "dde53997eb9f880e77ccf3f0f9d611f73079b249",
+  "md5": "0fcd3bc9f220c2061a7a942804d0100d",
+  "crc32": "8c7e370c",
+  "size": 805452,
+  "format": "TAP",
+  "files": [
+    "Power Drift.tap"
+  ],
+  "screenscraper_id": "36467",
+  "title": "Power Drift",
+  "year": "1989",
+  "publisher": "Activision",
+  "developer": "Chris Butler",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "In kleinen Buggys fährt man Rennen auf Achterbahn-ähnlichen Strecken mit steilen Kuppen, Sprüngen und Steilkurven. Jede Strecke umfasst mehrere Runden, und nur wer unter den Ersten ins Ziel kommt, darf weiterfahren. Es gibt mehrere Rennserien mit je eigenen Strecken. Segas Automat von 1988 beeindruckte durch seine schnell skalierten Grafiken.\n\nActivision brachte die C64-Fassung auf Kassette und Diskette heraus. Chris Butler setzte das Spiel nahezu allein um. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chris Butler · Grafik: Chris Butler · Musik: Dave Lowe",
+  "texts": {
+    "de": "In kleinen Buggys fährt man Rennen auf Achterbahn-ähnlichen Strecken mit steilen Kuppen, Sprüngen und Steilkurven. Jede Strecke umfasst mehrere Runden, und nur wer unter den Ersten ins Ziel kommt, darf weiterfahren. Es gibt mehrere Rennserien mit je eigenen Strecken. Segas Automat von 1988 beeindruckte durch seine schnell skalierten Grafiken.\n\nActivision brachte die C64-Fassung auf Kassette und Diskette heraus. Chris Butler setzte das Spiel nahezu allein um. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chris Butler · Grafik: Chris Butler · Musik: Dave Lowe",
+    "en": "In small buggies, the player races on rollercoaster-like tracks with steep crests, jumps and banked curves. Each track comprises several laps, and only those who finish among the leaders may continue. There are several race series, each with its own tracks. Sega's 1988 arcade machine impressed with its fast-scaling graphics.\n\nActivision released the C64 version on cassette and disk. Chris Butler converted the game almost single-handedly. It is controlled with the joystick in port 2.\n\nCode: Chris Butler · Graphics: Chris Butler · Music: Dave Lowe"
+  }
+}

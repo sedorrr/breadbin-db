@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "f203e5424e0cb6d1e97df17ef3ab69dbc3696783",
+  "md5": "e284fd32bf9481c9ae4a698a5fc7ec06",
+  "crc32": "c7617bb0",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Monty Mole.crt"
+  ],
+  "screenscraper_id": "115306",
+  "title": "Monty Mole",
+  "year": "1984",
+  "publisher": "Gremlin Graphics",
+  "developer": "Peter Harrap (Original); C64: Antony Crowther",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Während des britischen Bergarbeiterstreiks friert der Maulwurf Monty in seinem Bau und stiehlt deshalb Kohle. Sein Weg führt ihn durch Minen und Gänge voller Gegner bis zur Festung des Gewerkschaftsführers. Auf Plattformen muss er Kohlestücke einsammeln und Fallen ausweichen. Das Spiel machte mit seiner politischen Satire Schlagzeilen und begründete eine ganze Reihe um Monty Mole.\n\nUrsprünglich für den ZX Spectrum geschrieben (dort im Wechsel der Bildschirme), die C64-Fassung von Antony Crowther scrollt dagegen. Erschienen bei Gremlin Graphics auf Kassette und Diskette, auch unter dem Titel „Wanted: Monty Mole“. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode und Musik (C64): Antony Crowther",
+  "texts": {
+    "de": "Während des britischen Bergarbeiterstreiks friert der Maulwurf Monty in seinem Bau und stiehlt deshalb Kohle. Sein Weg führt ihn durch Minen und Gänge voller Gegner bis zur Festung des Gewerkschaftsführers. Auf Plattformen muss er Kohlestücke einsammeln und Fallen ausweichen. Das Spiel machte mit seiner politischen Satire Schlagzeilen und begründete eine ganze Reihe um Monty Mole.\n\nUrsprünglich für den ZX Spectrum geschrieben (dort im Wechsel der Bildschirme), die C64-Fassung von Antony Crowther scrollt dagegen. Erschienen bei Gremlin Graphics auf Kassette und Diskette, auch unter dem Titel „Wanted: Monty Mole“. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode und Musik (C64): Antony Crowther",
+    "en": "During the British miners' strike, Monty the mole is freezing in his burrow and therefore steals coal. His path leads him through mines and tunnels full of enemies to the fortress of the union leader. On platforms he has to collect lumps of coal and avoid traps. The game made headlines with its political satire and founded a whole series around Monty Mole.\n\nOriginally written for the ZX Spectrum (with flick screens there), whereas Antony Crowther's C64 version scrolls. Released by Gremlin Graphics on cassette and disk, also under the title \"Wanted: Monty Mole\". Controlled with a joystick. Besides the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without loading.\n\nCode and music (C64): Antony Crowther"
+  }
+}

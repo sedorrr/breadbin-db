@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d937a591f1f4a1334f6290c0a1e8b69f0f6bf445",
+  "md5": "f0a023aa086382bd3382052220a000f7",
+  "crc32": "63748073",
+  "size": 254512,
+  "format": "CRT",
+  "files": [
+    "Airborne Ranger.crt",
+    "Airborne Ranger [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36024",
+  "title": "Airborne Ranger",
+  "year": "1987",
+  "publisher": "MicroProse",
+  "developer": "MicroProse (Scott Spanburg)",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ein Fallschirmjäger springt allein hinter den feindlichen Linien ab und erledigt Aufträge wie Geiselbefreiung, Sprengung oder Aufklärung. Vor dem Einsatz werden Versorgungsbehälter abgeworfen, deren Inhalt unterwegs gebraucht wird; danach geht es in Draufsicht durch Gelände mit Gräben, Minen und Wachen bis zum Abholpunkt. Das Spiel verbindet Action mit planerischen Elementen und einer Laufbahn, über die der Soldat aufsteigt.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul; das Spiel lädt aus dem Modul statt von Diskette und kommt deshalb ohne Diskettenwechsel aus.\n\nCode: Scott Spanburg · Grafik: Iris Leigh Idokogi · Musik: Ken Lagace",
+  "texts": {
+    "de": "Ein Fallschirmjäger springt allein hinter den feindlichen Linien ab und erledigt Aufträge wie Geiselbefreiung, Sprengung oder Aufklärung. Vor dem Einsatz werden Versorgungsbehälter abgeworfen, deren Inhalt unterwegs gebraucht wird; danach geht es in Draufsicht durch Gelände mit Gräben, Minen und Wachen bis zum Abholpunkt. Das Spiel verbindet Action mit planerischen Elementen und einer Laufbahn, über die der Soldat aufsteigt.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul; das Spiel lädt aus dem Modul statt von Diskette und kommt deshalb ohne Diskettenwechsel aus.\n\nCode: Scott Spanburg · Grafik: Iris Leigh Idokogi · Musik: Ken Lagace",
+    "en": "A paratrooper jumps alone behind enemy lines and carries out missions such as freeing hostages, demolition or reconnaissance. Before the mission, supply pods are dropped whose contents are needed along the way; then it is on through terrain with trenches, mines and guards, seen from above, to the pick-up point. The game combines action with planning elements and a career through which the soldier rises.\n\nThis version is a conversion as an EasyFlash cartridge; the game loads from the cartridge instead of from disk and therefore needs no disk swapping.\n\nCode: Scott Spanburg · Graphics: Iris Leigh Idokogi · Music: Ken Lagace"
+  },
+  "images": {
+    "sstitle": "images/79/79d072f7bd7ebc0c704159730715a1521ea27f03.png"
+  }
+}

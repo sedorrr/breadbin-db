@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "e01a8966e7d233c7a156f7ff021640f6febbef8b",
+  "md5": "a22e0d9a662decd797777820829acb76",
+  "crc32": "17fde95e",
+  "size": 648405,
+  "format": "TAP",
+  "files": [
+    "Cybernoid II.tap"
+  ],
+  "screenscraper_id": "111417",
+  "title": "Cybernoid II: The Revenge",
+  "year": "1988",
+  "publisher": "Hewson",
+  "developer": "Raffaele Cecco; C64-Umsetzung: Nick Jones",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Die Fortsetzung schickt den Spieler erneut mit dem Kampfschiff in die Anlagen der Piraten, die nach ihrer Niederlage Rache nehmen wollen. Wie im Vorgänger wird Raum für Raum gegen die Uhr durch Geschützstellungen und Fallen gekämpft. Das Waffenarsenal ist größer geworden, und zusätzliche Ausbaustufen verstärken die Bordkanone. Der Schwierigkeitsgrad bleibt hoch, das Spielgefühl knüpft eng an den ersten Teil an.\n\nUrsprünglich für den ZX Spectrum entstanden; die C64-Umsetzung erschien noch 1988 bei Hewson auf Kassette und Diskette, wieder mit eigener Musik. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Raffaele Cecco · Code (C64): Nick Jones · Musik (C64): Jeroen Tel",
+  "texts": {
+    "de": "Die Fortsetzung schickt den Spieler erneut mit dem Kampfschiff in die Anlagen der Piraten, die nach ihrer Niederlage Rache nehmen wollen. Wie im Vorgänger wird Raum für Raum gegen die Uhr durch Geschützstellungen und Fallen gekämpft. Das Waffenarsenal ist größer geworden, und zusätzliche Ausbaustufen verstärken die Bordkanone. Der Schwierigkeitsgrad bleibt hoch, das Spielgefühl knüpft eng an den ersten Teil an.\n\nUrsprünglich für den ZX Spectrum entstanden; die C64-Umsetzung erschien noch 1988 bei Hewson auf Kassette und Diskette, wieder mit eigener Musik. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Raffaele Cecco · Code (C64): Nick Jones · Musik (C64): Jeroen Tel",
+    "en": "The sequel once again sends the player in the fighting ship into the installations of the pirates, who are out for revenge after their defeat. As in the predecessor, you fight room by room against the clock through gun emplacements and traps. The arsenal has grown, and additional upgrade levels strengthen the on-board cannon. The difficulty remains high, and the feel of the game closely follows the first instalment.\n\nOriginally created for the ZX Spectrum; the C64 conversion was released by Hewson on cassette and disk in 1988, again with its own music. Controlled with a joystick. Besides the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without loading.\n\nDesign: Raffaele Cecco · Code (C64): Nick Jones · Music (C64): Jeroen Tel"
+  }
+}

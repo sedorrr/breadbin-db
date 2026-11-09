@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "d54779bbc66e8b4b93ca2f095cd505bb1c9c6786",
+  "md5": "2cf353f3dc368d77fa22b007dc2440a3",
+  "crc32": "ca82175e",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Bomb Uzal.crt"
+  ],
+  "screenscraper_id": "36311",
+  "title": "Bombuzal",
+  "year": "1988",
+  "publisher": "Image Works",
+  "developer": "Antony Crowther",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Denkspiel mit über 100 Ebenen: Die Figur Bombuzal muss auf jeder Plattform alle Bomben zünden, ohne selbst in die Explosion zu geraten. Bomben unterschiedlicher Größe lösen Kettenreaktionen aus und zerstören angrenzende Felder, manche Bodenplatten lösen sich auf oder wirken als Schalter. Es kommt auf die richtige Reihenfolge und genaues Vorausdenken an.\n\nErschien auf Kassette und Diskette, auf dem Programm selbst teils als „Bomb Uzal“ geschrieben; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode, Grafik und Musik (C64): Antony Crowther",
+  "texts": {
+    "de": "Denkspiel mit über 100 Ebenen: Die Figur Bombuzal muss auf jeder Plattform alle Bomben zünden, ohne selbst in die Explosion zu geraten. Bomben unterschiedlicher Größe lösen Kettenreaktionen aus und zerstören angrenzende Felder, manche Bodenplatten lösen sich auf oder wirken als Schalter. Es kommt auf die richtige Reihenfolge und genaues Vorausdenken an.\n\nErschien auf Kassette und Diskette, auf dem Programm selbst teils als „Bomb Uzal“ geschrieben; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode, Grafik und Musik (C64): Antony Crowther",
+    "en": "Puzzle game with over 100 levels: the character Bombuzal has to detonate all the bombs on each platform without getting caught in the explosion. Bombs of different sizes trigger chain reactions and destroy adjacent squares; some floor tiles dissolve or act as switches. The right order and careful forward planning are what matter.\n\nReleased on tape and disk, on the program itself partly spelled “Bomb Uzal”; there is also a OneLoad64 cartridge conversion. Controlled with the joystick.\n\nCode, graphics and music (C64): Antony Crowther"
+  }
+}

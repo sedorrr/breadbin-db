@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "e3efb9a7d8602ba64ffe027613697103146c3295",
+  "md5": "8a5cac13db064c573ea8f554c4382cd5",
+  "crc32": "c8af0e33",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Fist II - The Legend Continues.crt"
+  ],
+  "screenscraper_id": "112110",
+  "title": "Fist II: The Legend Continues",
+  "year": "1986",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software",
+  "genres": [
+    "Beat'em Up",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von The Way of the Exploding Fist: Der Kämpfer zieht durch eine scrollende Landschaft mit Höhlen und Tempeln, um einen Tyrannen zu besiegen. Unterwegs stellen sich ihm Krieger in Zweikämpfen, außerdem sind Schriftrollen zu finden, die neue Kraft verleihen. Statt reiner Turnierkämpfe wie im Vorgänger mischt das Spiel Prügelei mit Erkundung.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nEntwicklung: Beam Software",
+  "texts": {
+    "de": "Fortsetzung von The Way of the Exploding Fist: Der Kämpfer zieht durch eine scrollende Landschaft mit Höhlen und Tempeln, um einen Tyrannen zu besiegen. Unterwegs stellen sich ihm Krieger in Zweikämpfen, außerdem sind Schriftrollen zu finden, die neue Kraft verleihen. Statt reiner Turnierkämpfe wie im Vorgänger mischt das Spiel Prügelei mit Erkundung.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nEntwicklung: Beam Software",
+    "en": "Sequel to The Way of the Exploding Fist: the fighter travels through a scrolling landscape with caves and temples to defeat a tyrant. Along the way warriors confront him in one-on-one fights, and there are also scrolls to be found that grant new strength. Instead of pure tournament bouts as in its predecessor, the game mixes fighting with exploration.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without multi-loading.\n\nDevelopment: Beam Software"
+  },
+  "images": {
+    "ss": "images/6f/6f634e92ad5fba07fac302baf616c7d596dad964.png",
+    "sstitle": "images/dd/dd1c0a39912ef71fd63d647d24425d2fe088541a.png"
+  }
+}

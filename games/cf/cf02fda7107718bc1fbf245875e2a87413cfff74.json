@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Arcade-Autorennen von oben gesehen, angelehnt an das Commodore-Spiel Lemans (HAL, 1982). Seit Fassung 1.1 gibt es eine Top-10-Bestenliste mit Initialen, die auf Diskette gespeichert und beim Start geladen wird; dazu wurden Titelbild und Streckenrand überarbeitet.\n\nV1.0 erschien im September 2026 zunächst als „Beta“, V1.2 als kommerzielle Endfassung mit überarbeiteter Grafik und Spielablauf. Vorliegend Fassung 1.3c auf Diskette (D64). Cracks gibt es von Excess/Hokuto Force und Shadow.\n\nCode und Design: Alessandro Bulgarelli",
+  "texts": {
+    "de": "Arcade-Autorennen von oben gesehen, angelehnt an das Commodore-Spiel Lemans (HAL, 1982). Seit Fassung 1.1 gibt es eine Top-10-Bestenliste mit Initialen, die auf Diskette gespeichert und beim Start geladen wird; dazu wurden Titelbild und Streckenrand überarbeitet.\n\nV1.0 erschien im September 2026 zunächst als „Beta“, V1.2 als kommerzielle Endfassung mit überarbeiteter Grafik und Spielablauf. Vorliegend Fassung 1.3c auf Diskette (D64). Cracks gibt es von Excess/Hokuto Force und Shadow.\n\nCode und Design: Alessandro Bulgarelli",
+    "en": "Top-down arcade car racing, based on the Commodore game Lemans (HAL, 1982). Since version 1.1 there has been a top-10 high-score table with initials, saved to disk and loaded at start-up; the title screen and the track edges were also reworked.\n\nV1.0 first appeared in September 2026 as a \"beta\", V1.2 as the commercial final release with revised graphics and gameplay. This is version 1.3c on disk (D64). Cracks exist from Excess/Hokuto Force and Shadow.\n\nCode and design: Alessandro Bulgarelli"
+  },
   "images": {
     "sstitle": "images/10/10f89bd481c52be0f5d696f182f3985457d0d4bb.png"
   }

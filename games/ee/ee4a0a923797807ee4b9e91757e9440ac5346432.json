@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ee4a0a923797807ee4b9e91757e9440ac5346432",
+  "md5": "c5ea4f74b914712f098fc57b3bbefb02",
+  "crc32": "7088de30",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Exile.crt"
+  ],
+  "screenscraper_id": "111978",
+  "title": "Exile",
+  "year": "1991",
+  "publisher": "Audiogenic",
+  "developer": "Peter Irvin, Jeremy Smith",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Mike Finn erkundet nach einer Bruchlandung mit einem Rucksacktriebwerk die Höhlen des Planeten Phoebus. Das Spiel beruht auf einer für die Zeit ungewöhnlich genauen Physik: Schwerkraft, Trägheit, Wind, Wasser und Explosionen wirken auf alle Gegenstände und Lebewesen. Viele Rätsel lassen sich auf mehreren Wegen lösen, und Gegenstände können getragen, geworfen oder als Werkzeug genutzt werden. Ursprünglich 1988 für BBC Micro und Acorn Electron erschienen, gilt es als eines der ehrgeizigsten Spiele der 8-Bit-Zeit.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Peter Irvin, Jeremy Smith · Grafik: Paul Docherty",
+  "texts": {
+    "de": "Mike Finn erkundet nach einer Bruchlandung mit einem Rucksacktriebwerk die Höhlen des Planeten Phoebus. Das Spiel beruht auf einer für die Zeit ungewöhnlich genauen Physik: Schwerkraft, Trägheit, Wind, Wasser und Explosionen wirken auf alle Gegenstände und Lebewesen. Viele Rätsel lassen sich auf mehreren Wegen lösen, und Gegenstände können getragen, geworfen oder als Werkzeug genutzt werden. Ursprünglich 1988 für BBC Micro und Acorn Electron erschienen, gilt es als eines der ehrgeizigsten Spiele der 8-Bit-Zeit.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Peter Irvin, Jeremy Smith · Grafik: Paul Docherty",
+    "en": "After a crash landing, Mike Finn explores the caves of the planet Phoebus with a jetpack. The game is based on physics that were unusually accurate for the time: gravity, inertia, wind, water and explosions affect all objects and creatures. Many puzzles can be solved in more than one way, and objects can be carried, thrown or used as tools. Originally released in 1988 for the BBC Micro and Acorn Electron, it is regarded as one of the most ambitious games of the 8-bit era.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without multi-loading.\n\nCode: Peter Irvin, Jeremy Smith · Graphics: Paul Docherty"
+  },
+  "images": {
+    "ss": "images/89/89fc321d6c2e0e07881ab1a59929b194de45599d.png",
+    "sstitle": "images/21/21932c33b453ac8e76b2d4100ce16c64db214cbc.png"
+  }
+}
