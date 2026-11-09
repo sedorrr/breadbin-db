@@ -294,6 +294,13 @@ if ($admin) {
   .vergleich del { color: var(--bad); text-decoration: none; } .vergleich ins { color: var(--ok); text-decoration: none; }
   .vergleich img { max-width: 160px; image-rendering: pixelated; border: 1px solid var(--line); }
   .zusammen { font-size: 13px; }
+  .zahlen { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; }
+  .zahl { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; }
+  .zahl b { display: block; font-size: 22px; color: var(--accent); font-variant-numeric: tabular-nums; }
+  .zahl span { font-size: 12px; color: var(--muted); }
+  .balken { display: grid; grid-template-columns: 60px 1fr 50px; gap: 6px; align-items: center; font-size: 13px; }
+  .balken i { display: block; height: 8px; border-radius: 3px; background: var(--accent); min-width: 2px; }
+  .statistik summary { cursor: pointer; font-weight: 600; }
 </style>
 </head>
 <body><main>
@@ -318,6 +325,49 @@ if ($admin) {
     <a href="?status=neu">Neu</a> · <a href="?status=angenommen">Angenommen</a> · <a href="?status=abgelehnt">Abgelehnt</a>
     · <a href="?abmelden=1">Abmelden</a>
   </p>
+  <?php
+    // Statistik: Eingang und veröffentlichter Stand.
+    $z = db()->query("SELECT status, COUNT(*) n, COALESCE(SUM(spiele),0) s FROM beitraege GROUP BY status")->fetchAll();
+    $nach = ['neu' => [0, 0], 'angenommen' => [0, 0], 'abgelehnt' => [0, 0]];
+    foreach ($z as $r) { $nach[$r['status']] = [(int)$r['n'], (int)$r['s']]; }
+    $info = db()->query("SELECT COUNT(DISTINCT ip_hash) leute, MAX(eingang) zuletzt,
+        SUM(eingang >= NOW() - INTERVAL 30 DAY) monat FROM beitraege")->fetch();
+    $fmt = []; $mitbild = 0; $titel = [];
+    foreach ($stand ?? [] as $sp) {
+        $f = (string)($sp['format'] ?? '?'); $fmt[$f] = ($fmt[$f] ?? 0) + 1;
+        if (!empty($sp['images'])) { $mitbild++; }
+        $titel[mb_strtolower(preg_replace('/\s*\[[^\]]*\]/u', '', (string)($sp['title'] ?? '')))] = true;
+    }
+    arsort($fmt);
+    $max = $fmt ? max($fmt) : 1;
+    $standzeit = is_file(stand_pfad($c)) ? date('d.m.Y H:i', (int)filemtime(stand_pfad($c))) : '–';
+  ?>
+  <details class="karte statistik" open>
+    <summary>Statistik</summary>
+    <p class="meta">Eingang</p>
+    <div class="zahlen">
+      <div class="zahl"><b><?= $nach['neu'][0] ?></b><span>neu (<?= $nach['neu'][1] ?> Spiele)</span></div>
+      <div class="zahl"><b><?= $nach['angenommen'][0] ?></b><span>angenommen (<?= $nach['angenommen'][1] ?> Spiele)</span></div>
+      <div class="zahl"><b><?= $nach['abgelehnt'][0] ?></b><span>abgelehnt</span></div>
+      <div class="zahl"><b><?= (int)$info['monat'] ?></b><span>Beiträge in 30 Tagen</span></div>
+      <div class="zahl"><b><?= (int)$info['leute'] ?></b><span>verschiedene Einsender</span></div>
+      <div class="zahl"><b><?= $info['zuletzt'] ? h(date('d.m.', strtotime((string)$info['zuletzt']))) : '–' ?></b><span>letzter Eingang</span></div>
+    </div>
+    <?php if ($stand !== null): ?>
+    <p class="meta">Veröffentlichter Stand vom <?= h($standzeit) ?></p>
+    <div class="zahlen">
+      <div class="zahl"><b><?= count($titel) ?></b><span>Spiele</span></div>
+      <div class="zahl"><b><?= count($stand) ?></b><span>Dateien</span></div>
+      <div class="zahl"><b><?= $mitbild ?></b><span>Dateien mit Bild</span></div>
+    </div>
+    <div style="margin-top:8px; display:grid; gap:4px">
+      <?php foreach ($fmt as $f => $n): ?>
+        <div class="balken"><span><?= h($f) ?></span><i style="width:<?= round($n / $max * 100) ?>%"></i><span><?= $n ?></span></div>
+      <?php endforeach ?>
+    </div>
+    <?php endif ?>
+    <p class="meta">Öffentliche Übersicht mit Suche: <a href="https://breadbindb.8bitcavern.de/">breadbindb.8bitcavern.de</a></p>
+  </details>
   <?php if (!$liste): ?><p class="meta">Keine Beiträge mit Status „<?= h($zeige) ?>“.</p><?php endif ?>
   <?php foreach ($liste as $b):
       $pfad = $c['daten_dir'] . '/' . $b['datei'];
