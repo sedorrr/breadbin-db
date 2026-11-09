@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "e7ca794a641c89f6c390040d7ff41cc704a86ef4",
+  "md5": "511a8db9d0cd124fbeb49b002c6ba136",
+  "crc32": "067b61ac",
+  "size": 164224,
+  "format": "CRT",
+  "files": [
+    "orbix.crt"
+  ],
+  "title": "Orbix",
+  "year": "2024",
+  "publisher": "fleischgemuese",
+  "developer": "Andy Daumann (fleischgemuese)",
+  "genres": [
+    "Geschicklichkeit",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Kugelschießspiel: Von oben wird eine Kugel ins Spielfeld geschossen, die abprallend die orangefarbenen Orbz treffen soll; sind alle beseitigt, ist der Level geschafft. Kanonen, Portale, Laser, Schalter, Bomben, Schwerkraftwechsel und Bumper verändern den Weg der Kugel, eine Auffangschale rettet Kugeln. Die Zahl der Kugeln ist begrenzt; mehrere getroffene Orbz erhöhen einen Punktmultiplikator, übrige Kugeln bringen am Levelende Bonuspunkte.\n\nNur als EasyFlash-Modul (CRT), eine Diskettenfassung gibt es nicht. PAL und NTSC, läuft auch auf TheC64. Steuerung mit Joystick in Port 2: links/rechts zielen, Feuer schießt, Feuer + unten zerstört die Kugel. Zwei Fassungen: „orbix_V1.0.0.crt“ ist die Erstveröffentlichung vom 26.10.2024; „orbix.crt“ unterscheidet sich vor allem im Modul-Kopf (als EasyFlash mit Flash-Bausteinen gekennzeichnet) und ist vermutlich die von der Gemeinschaft angepasste Fassung für Ultimate 64 vom 29.10.2024. Version 1.0.1 (November 2024, C128-Turbomodus) liegt nicht vor. Geschrieben in C mit dem Oscar64-Compiler, Quelltext auf GitHub.\n\nCode, Grafik und Levels: Andy Daumann (fleischgemuese) · Musik: picrard",
+  "images": {
+    "sstitle": "images/ee/ee50e48aa33eda267b8ba5fd221dfb1cf2729103.png"
+  }
+}

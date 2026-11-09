@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "907c3b40087c19d09cf7d804a41532c86a95f139",
+  "md5": "fbaf19c6c8968acb44d7849a59808582",
+  "crc32": "7b988dc5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Quest for the knight ger.d64"
+  ],
+  "title": "Quest for the Knight",
+  "year": "2024",
+  "publisher": "RetroSoft",
+  "developer": "Patrickpatul (RetroSoft)",
+  "genres": [
+    "Rollenspiele",
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Ein kleines textbasiertes Rollenspiel, das laut Autor eher ein Adventure ist: Ein Brief aus einer Erbschaft verrät, dass man von Rittern abstammt, und schickt einen ins Dorf Bärenfelde, wo der Dorfälteste eine Prüfung stellt. Unterwegs kämpft man gegen Ratten, Wölfe, Bären und einen Yeti, sammelt Erfahrung, übernachtet im Hotel und kauft im Laden ein; am Ende wartet ein Endgegner. Kämpfen kann man auch ausweichen, dann gibt es aber keine Erfahrung.\n\nBedienung über die Tastatur: Die möglichen Eingaben stehen in Klammern (z. B. Himmelsrichtungen, Menüziffern), das Inventar öffnet die Taste I. Deutsche Fassung (Disk vom 06.10.2024); eine englische Fassung gibt es als eigene Diskette.\n\nSpiel: Patrickpatul · Titelbild und Starter: Tuxer · Test: Blackfairy80, Hawk78",
+  "images": {
+    "ss": "images/76/76027975d826892362d2292a82c899029ea695d4.png",
+    "sstitle": "images/53/53ad1aac3b1cdaef70242d6703f9cbc62c1bab2c.png"
+  }
+}

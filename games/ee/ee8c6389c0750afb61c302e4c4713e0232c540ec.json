@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "ee8c6389c0750afb61c302e4c4713e0232c540ec",
+  "md5": "b060bd1c27a548819d30249031827334",
+  "crc32": "c2ae302c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "black-hole-v1.d64"
+  ],
+  "title": "Black Hole",
+  "year": "2024",
+  "publisher": "Blueguard",
+  "developer": "Peter Otto",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Weltraum-Shooter nach dem Vorbild von „Solaris“ für das Atari 2600. Man will aus einem Sternsystem entkommen und dazu das Schwarze Loch als Wurmloch nutzen. Dafür muss erst ein Gravitationsschild gefunden werden, der auf einem der feindlichen Planeten versteckt ist; Punkte zum Aktivieren des Schilds gibt es für gerettete Astronauten sowie für abgeschossene Schlachtschiffe und Jäger. Auf neutralen Planeten lassen sich Energiebehälter einsammeln, Wirbel sperren den Weg.\n\nPerspektivische Weltraumansicht über einer Planetenlandschaft, oben Anzeige von Energie und Punkten; die Karte öffnet sich mit gehaltenem Feuerknopf, wenn kein Gegner in der Nähe ist. Diese Datei ist Version 1 (2024); der Autor hat später verbesserte Fassungen veröffentlicht (bis 1.4).\n\nCode: Peter Otto",
+  "images": {
+    "ss": "images/a0/a0113d71573427367336c1e87760c61b7af33ec4.png"
+  }
+}

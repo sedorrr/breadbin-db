@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "1e0abfb867a7997699bb0707111509756d8ca04b",
+  "md5": "162919d7bdd93ac9db95a4b12e70e8c4",
+  "crc32": "08e0137a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "herra47.d64"
+  ],
+  "title": "Herra47 - Zooparty",
+  "year": "2024",
+  "publisher": "Vector5 Games",
+  "developer": "Vector5 Games",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Ein kleines Grafikadventure mit nur sieben Räumen, eher eine Machbarkeitsstudie: Man lenkt die Figur Herra47 mit dem Joystick durch die Räume und gibt zusätzlich Befehle über einen Textparser ein. Wer die richtigen Gegenstände findet und einsetzt, bringt den Abend für Herra47 zu einem erfolgreichen Ende. Das Spiel gewann den Spiele-Wettbewerb der Demoparty Zoo 2024.\n\nJoystick in Port 2 plus Tastatur für die Texteingabe, englischsprachig. Läuft auf PAL und NTSC, ist aber für PAL abgestimmt. Als Disk-Image und als einzelne PRG vorhanden.\n\nMitwirkende laut Abspann: Jani Parviainen, Ville Jokela, Mika Penttinen, Volker Meitz",
+  "images": {
+    "ss": "images/eb/eb71d75a83e4c2192759304be6df68b3addae7b2.png",
+    "sstitle": "images/0d/0ddda9e776bce498e6392bcec435e4d87f684b72.png"
+  }
+}

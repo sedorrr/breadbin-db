@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "11d10d8744fd59c089758ae04f73c7877e7d0e2a",
+  "md5": "3ada5c328115a1753c4840be8b6926e7",
+  "crc32": "ba6f9e85",
+  "size": 51033,
+  "format": "PRG",
+  "files": [
+    "soiledmatch.prg"
+  ],
+  "screenscraper_id": "574014",
+  "title": "Soiled Iron",
+  "year": "2024",
+  "publisher": "drmortalwombat",
+  "developer": "drmortalwombat",
+  "genres": [
+    "Beat'em Up",
+    "Action / Abenteuer"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Schwertkampfspiel mit Barbaren in der Tradition der 80er-Jahre, mit augenzwinkernder Geschichte. Es gibt zwei Spielteile: Im Quest-Modus kämpft man sich allein als entthronter Thronerbe von den Burgmauern bis in die Verliese, öffnet Truhen, findet bessere Schwerter und Heiltränke und stellt am Ende den Zauberer; Leitern dienen als Speicherpunkte, Leben sind unbegrenzt. Im Duell-Modus treten zwei Kämpfer gegeneinander an – Spieler gegen Spieler, Training, Herausforderung mit immer stärkeren Computergegnern oder frei wählbare Stufen 1 bis 9.\n\nGekämpft wird mit dem Joystick: ohne Feuerknopf Abwehr in drei Höhen und Bewegung, mit Feuerknopf Hiebe, Tritt, Drehangriff und Rolle. Tastatur: M Musik, F1–F7 Farben, P Karte, Leertaste Heiltrank. PAL und NTSC. Die Diskette enthält Vorspann und Schnelllader, braucht aber eine echte 1541 bzw. echte Laufwerksemulation und kann mit veränderten ROMs (z. B. JiffyDOS) scheitern; dafür liegen beide Spielteile auch als einzelne PRG bei (soiledquest, soiledmatch).\n\nSpiel: drmortalwombat · Musik: Crisps",
+  "images": {
+    "ss": "images/6f/6f5f52fa6bffb9da9a6f628e2ba4898ba2091c38.png"
+  }
+}

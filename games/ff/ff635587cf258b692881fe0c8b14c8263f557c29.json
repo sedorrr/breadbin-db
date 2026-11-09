@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "ff635587cf258b692881fe0c8b14c8263f557c29",
+  "md5": "e2857d25d7dfb08a7c6c11d19007832c",
+  "crc32": "2c74a1d1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tony-disk-A.d64"
+  ],
+  "title": "Tony - Montezuma's Gold",
+  "year": "2024",
+  "publisher": "Monochrome Productions",
+  "developer": "Maciej Małecki, Rafał Dudek",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Ein Plattform-Abenteuer in hochauflösender Grafik, angelehnt an den polnischen Forschungsreisenden und Filmemacher Tony Halik: In Montezumas Burg sucht man in fünf Leveln mit 145 Räumen nach Masken, Schlüsseln, Juwelen und Tränken, weicht Fallen aus und besiegt Gegner mit Tränken. Das Inventar fasst nur vier Gegenstände; versteckte Räume und Abkürzungen in höhere Level gehören zum Spiel. Kein Speichern.\n\nJoystick in Port 2 oder Tastatur (A/D, W/S, Leertaste); F1 wechselt das Farbschema. PAL und beide NTSC-Varianten. Vorhanden als Modul-Image im Magic-Desk-Format (läuft z. B. auf Ultimate-Geräten und Kung-Fu Flash, nicht auf EasyFlash) und als Diskette mit zwei Seiten. Diese Dateien sind die klassische Monochrom-Fassung V2.0.1; die Farbfassung (2.1) erschien im Dezember 2024.\n\nIdee und Grafik: Rafał Dudek · Programmierung und Effekte: Maciej Małecki · Musik: Adam Gilmore, Sami „Mutetus“ Juntunen",
+  "images": {
+    "ss": "images/99/99fa3ca5660c3d49d820a45490bdc4ce77c9017a.png",
+    "sstitle": "images/99/99b8ee4fa997da85f1b72991e8779a9ac894ea51.png"
+  }
+}

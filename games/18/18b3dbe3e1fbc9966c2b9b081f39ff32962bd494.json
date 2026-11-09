@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "18b3dbe3e1fbc9966c2b9b081f39ff32962bd494",
+  "md5": "8eab2d56da782d0d44d9a20d9c3352e9",
+  "crc32": "ab659948",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Pupu V49.d64"
+  ],
+  "title": "Pupu",
+  "year": "2024",
+  "publisher": "Omega Productions",
+  "developer": "Christian Nennewitz (Omega)",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Ein Denkspiel ähnlich wie Puzznic mit 100 Leveln: Gleiche Steine müssen neben- oder übereinander gebracht werden, damit sie verschwinden. Steine lassen sich nur seitwärts schieben und fallen, sobald nichts mehr darunter ist; in späteren Leveln müssen auch Gruppen aus mehr als zwei Steinen gleichzeitig aufgelöst werden, dazu kommen unzerstörbare Metallsteine. Die Rahmenhandlung spielt im verfluchten Land Arcanis; nach je zehn Leveln erscheint als Belohnung ein Bild einer „Pupu“-Wächterin, teils oben ohne.\n\nJoystick in Port 2, Tastatur für Passwörter (vier Buchstaben) und zum Neustart eines Levels (R). Geschrieben in TSB (Tuned Simons' Basic) mit Assembler-Ergänzungen; startet auch von anderen Laufwerksnummern als 8. Fassung V49, Freeware. Anleitung deutsch und englisch.\n\nProgrammierung und Spielgrafik: Omega · Assembler-Routinen: Godot · Map-Routine: 1570 · Bonusbilder: Lynx · Musik: Volkslieder",
+  "images": {
+    "ss": "images/d1/d1ac817d0e03cba5307c3d88dd71095c1892478f.png",
+    "sstitle": "images/42/424115f5b56c8798095a4d7ee8a606b11c579e35.png"
+  }
+}

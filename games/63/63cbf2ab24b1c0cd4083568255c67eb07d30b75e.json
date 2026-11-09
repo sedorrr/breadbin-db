@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "63cbf2ab24b1c0cd4083568255c67eb07d30b75e",
+  "md5": "db78dab9b2b9c482f874d5f01853ce76",
+  "crc32": "918f0b86",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TwintrisDX+3DG[TREX].d64"
+  ],
+  "title": "Twintris Deluxe",
+  "year": "2024",
+  "publisher": "TREX",
+  "developer": "TheEnemy (TREX)",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Überarbeitete und erweiterte Fassung von Twintris, dem Fallblock-Puzzle, das Megastyle 2001 nach dem gleichnamigen Amiga-Spiel von Donkey Soft für den C64 umgesetzt hatte. Wie im Vorbild werden fallende Steine gedreht und verschoben, bis volle Reihen verschwinden; mehrere Reihen auf einmal bringen mehr Punkte, mit der Zahl der Reihen steigt das Tempo. Die Deluxe-Fassung bringt drei neue Spielarten (Battle, Versus, Deluxe mit 19 neu gestalteten Levels), auf Wunsch gleiche Steinfolge für beide Spieler, Sprite-Einblendungen für Sieger und Bestenliste sowie eine überarbeitete Zufallsroutine.\n\nEin oder zwei Spieler. Die Bestenliste mit Initialen wird auf Diskette gespeichert (Datei „highscoretw“ auf der Disk). Läuft auf PAL und NTSC (NTSC-Anpassung von Knight Rider). Veröffentlicht als TREX-Release mit Vorspann, Trainer (+3) und Anleitung; dazu alternative Schrift und alternative SID-Musik.\n\nCode: TheEnemy · Grafik: Almighty God · Idee: Ebster · Anleitung: Sentinel · Verzeichnisgrafik: Logiker · Original (2001): Scroll (Code), Shokray und Sparkler (Grafik), Rage und Reyn Ouwehand (Musik)",
+  "images": {
+    "sstitle": "images/f1/f1c6564af8afd1c3bd6883bcc01d01c4b525b821.png"
+  }
+}

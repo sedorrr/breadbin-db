@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sha1": "12a72c9e225f8b886296874f98c4758922b328e3",
+  "md5": "08d062e7873046db74daf245c300f0b8",
+  "crc32": "ad52b85c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Abyssal_Karma_Disk01.d64"
+  ],
+  "title": "Abyssal Karma",
+  "year": "2024",
+  "publisher": "Rodrigo Yeowtch",
+  "developer": "Rodrigo Yeowtch",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "synopsis": "Ein Ballerspiel mit dem Shoot'Em-Up Construction Kit (SEUCK), das bewusst sehr schwer ausgelegt ist: Gegnerische Geschosse füllen den Bildschirm fast wie in einem Bullet-Hell-Spiel, Fortschritt hängt vom Auswendiglernen der Angriffswellen ab. Diese überarbeitete Fassung bringt neue Gegner, einen Endgegner und einen Schlussbildschirm; Gegner gehen leichter zu Bruch als zuvor.\n\nEine Diskette (D64). Musik, Titelbild und Punkteliste fehlen in dieser Fassung – sie waren geplant, kamen aber nicht mehr hinein. Eine spätere, erweiterte Ausgabe mit Musik und Titelbild erschien 2025 als „Abyssal Karma – Part 1“ und ist ein eigener Eintrag.\n\nKarte, Sprites und Grafik: Rodrigo Yeowtch"
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "5b10ff7c72561c21d51200914c76e66a9cdd4e9e",
+  "md5": "f01a4f33ba549267a7e9557e6f3593a4",
+  "crc32": "8df79aaf",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "spelunky64.d64"
+  ],
+  "screenscraper_id": "506089",
+  "title": "Spelunky64",
+  "year": "2024",
+  "publisher": "PaulKo64",
+  "developer": "Paul Koller",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Offizielle C64-Umsetzung des Höhlenforscher-Spiels Spelunky von Derek Yu: Man steigt durch zufällig erzeugte Höhlen immer tiefer hinab, sammelt Schätze, kauft Ausrüstung und setzt Peitsche, Bomben und Seile ein, um Fallen und Gegner zu überstehen. Jeder Durchgang hat einen neuen Höhlenaufbau. Einige Elemente des Originals fehlen aus Platzgründen (z. B. Schiebeblöcke, Funktion der Kali-Altäre).\n\nPasst als einzelne Datei in 64 KB; läuft auf PAL (empfohlen) und NTSC. Vollständig mit einem Ein-Knopf-Joystick in Port 2 spielbar – Kurz- und Langdruck des Feuerknopfs sowie Joystickrichtungen wählen Aktionen; Tastatur und Mehrknopf-Joysticks werden nicht unterstützt. Als Disk-Image und als PRG vorhanden.\n\nOriginal: Derek Yu · Code und Grafik: Paul Koller · Musik und Effekte: Mikkel Hastrup",
+  "images": {
+    "sstitle": "images/0c/0cd314e496e04a96a2be6fcfa686d469bec6a89b.png"
+  }
+}

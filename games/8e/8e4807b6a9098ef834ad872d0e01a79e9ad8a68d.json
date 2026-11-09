@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "8e4807b6a9098ef834ad872d0e01a79e9ad8a68d",
+  "md5": "ace9b9e94476d795e8ab1d3bc6626ce9",
+  "crc32": "ffb556a0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ff2.d64"
+  ],
+  "screenscraper_id": "507238",
+  "title": "Forgotten Forest 2",
+  "year": "2024",
+  "publisher": "Psytronik Software",
+  "developer": "Alf Yngve",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ein kostenloses Halloween-Spiel: Die Spielfigur folgt einem schmalen Pfad durch einen finsteren Wald, in dem Dämonen und Monster angreifen. Zum Ausweichen bleibt kaum Platz, deshalb muss fast jeder Gegner abgeschossen werden. Gebaut mit einem erweiterten Shoot'Em-Up Construction Kit (SEUCK).\n\nSteuerung mit Joystick in Port 2; im Vorspann wählt man mit dem Joystick zwischen Musik- und Effekteinstellungen und dem Spielstart. Vorhanden als Disk-Image und als einzelne PRG; der Herausgeber bietet zusätzlich eine Bandfassung an.\n\nSpielidee, Grafik und Effekte: Alf Yngve · Musik: Richard Bayliss · Vorspann: Milasoft",
+  "images": {
+    "sstitle": "images/b5/b5a054edbf2efa7b8ef2b8623e4183d4e099585e.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "4a8a0c12e3bef5babc347cb54a81b901c7b1f2b6",
+  "md5": "3d35d571a35f27521258b1552134daa3",
+  "crc32": "ff36135d",
+  "size": 13401,
+  "format": "PRG",
+  "files": [
+    "big_tube-hf.prg"
+  ],
+  "title": "Big Tube!",
+  "year": "2024",
+  "publisher": "Iceout",
+  "developer": "Charles Grey (Iceout)",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Ausweichspiel: In einer senkrechten Röhre in der Bildmitte fallen Blöcke herab, denen man ausweichen muss. Eingesammelte „S“ geben zusätzliche Schilde, die Treffer abfangen. Das Tempo steigt im Lauf des Spiels, Ziel ist eine möglichst hohe Punktzahl.\n\nSteuerung mit Joystick in Port 2. Diese Datei ist der Crack von Hokuto Force (16.06.2024) mit Vorspann und einem Trainer (+1, unbegrenzte Schilde); das Original erschien am 15.06.2024.\n\nCode: Charles Grey (Iceout) · Trainer: TheFatman · Original Supply, Linking, Test: E$G",
+  "images": {
+    "ss": "images/ee/eeab43ae13593ed14136759d05404b35b5cdfc4a.png"
+  }
+}

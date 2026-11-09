@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "5c342f445f598d13208269384a7c92b12f81d370",
+  "md5": "ef037d2681e93e75ff1536a27638a90d",
+  "crc32": "509feb6b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tiburoncy.d64"
+  ],
+  "title": "Tiburoncy",
+  "year": "2024",
+  "publisher": "Patagonia",
+  "developer": "Juan Castiñeira",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Unterwasserspiel: Der kleine Hai Tiburoncy befreit seine Freunde, die von Fischerbooten gefangen wurden. Gegner werden durch Berühren von oben beseitigt und bringen Extrapunkte, den Adler muss man von unten treffen. Ein Schlüssel öffnet den Käfig des Delfins, ein Hebel die Tore zu den übrigen Gefangenen; am Ende wartet Vater Hai auf seine Befreiung. Das Spiel soll auf den Schutz der Meere aufmerksam machen und auch für Kinder spielbar sein.\n\nNur PAL (auch PAL-N), keine NTSC-Fassung. Beitrag zur Flashparty 2024 (Wettbewerb Videospiele, 05.10.2024), dort und bei den Premios Commodore manía 2024 jeweils auf Platz 1. Version 1.1 (Januar 2025) brachte unter anderem steigende Schwierigkeit, Meeresmüll als Bonus und Herzen für Extraleben.\n\nCode: Juan Castiñeira · Grafik: Adrian Bonnette · Musik: Esteban Trujillo (et1999cc)",
+  "images": {
+    "ss": "images/6f/6f863d1ac60a06c41585c574a4f3036838b133d6.png",
+    "sstitle": "images/95/95081838c884ee75faf2cbb77e34039115a2b44d.png"
+  }
+}

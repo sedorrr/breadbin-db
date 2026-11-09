@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "b98636b200e188cdea1b92a2c4726f444a30abd2",
+  "md5": "10d86b85a9e7a9a7ee3ba68ded8fbb87",
+  "crc32": "4e9af67f",
+  "size": 48668,
+  "format": "PRG",
+  "files": [
+    "mushrooms.prg"
+  ],
+  "title": "Mushrooms That Grow in the Woods",
+  "year": "2024",
+  "publisher": "NemanjaV",
+  "developer": "NemanjaV",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Labyrinthspiel nach dem Vorbild von Pac-Man und seinen Nachfolgern, mit Anleihen bei Denk- und Spielhallenspielen: In jedem Level müssen alle Pilze im Wald eingesammelt werden, während Wächter – selbst Pilze – und Fallen das verhindern. Es gibt 32 aufeinander aufbauende Levels mit Türen und Schlüsseln, Bomben, Teleportern und zwei Arten von Pfeilen, mit denen sich Gegner abschießen lassen; die Gegner unterscheiden sich in Aussehen und Verhalten. Ein Code je Level hält den Fortschritt fest, zusätzlich gibt es zufällig erzeugte Einzellevels und eine Bestenliste.\n\nLäuft auf jedem normalen C64; auf echtem PAL-C64 und in Emulatoren getestet. Steuerung mit Joystick in Port 2 oder Tastatur (Q/A/O/P, CTRL = Feuer); Feuer nur zum Schießen, F1 Pause, F4 gibt ein Leben ab (falls man feststeckt). Diese Datei ist die englische Fassung als einzelnes PRG; die Bestenliste lässt sich nur mit Diskette bzw. Disk-Image speichern. Es gibt auch eine serbische Fassung („pecurke“).\n\nCode, Grafik und Soundeffekte: NemanjaV · Musik: SID-Fassung von J. S. Bachs Invention Nr. 1",
+  "images": {
+    "ss": "images/08/08681acdc1cedb2646ee79989dd2bb908d013e2f.png",
+    "sstitle": "images/c6/c6342778517755749105cd2ebc498b0a78b8585a.png"
+  }
+}

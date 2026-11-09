@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "8b76f2e1ce5533a54f8d1e27125c93a21fa33926",
+  "md5": "7f613a8af3efaa6731b56d43f4365012",
+  "crc32": "68877199",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PartySpeedwayExtd.d64"
+  ],
+  "title": "Party Speedway Extended",
+  "year": "2024",
+  "publisher": "K&A+",
+  "developer": "tmx",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-4",
+  "synopsis": "Ein schnelles Rennspiel in Draufsicht nach dem Vorbild des Speedways: Auf einer ovalen Bahn kommt es auf einen guten Start, saubere Kurvenlinien und das Vermeiden des Bahnrands an. Vorbild war das polnische DOS-Spiel „zuzel.exe“ aus den 1990er-Jahren; entsprechend schlicht ist die Aufmachung, der Schwerpunkt liegt auf schnellen Runden für mehrere Spieler. Fünf Strecken und ein Zeitfahrmodus.\n\nBis zu vier Personen mit vier Joysticks über einen Vier-Spieler-Adapter (z. B. CGA oder Protovision) oder gemeinsam an der Tastatur; allein gegen Computergegner in vier Schwierigkeitsstufen. Für PAL entwickelt; unter NTSC läuft es ohne Rennmusik. Auch als Diskette in der Box bei K&A+ erschienen.\n\nSpiel: tmx",
+  "images": {
+    "ss": "images/20/2022054476b8aace43b0420041fdb0215adeedb1.png",
+    "sstitle": "images/48/48c19e3447e0cf55be41fdd4261343b54073be2d.png"
+  }
+}

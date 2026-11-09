@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "6e7a926dd843830cd8ee34d5a8ea5cebda89259a",
+  "md5": "c44491b5e7201a2ce11b95d4050440fe",
+  "crc32": "52750c51",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "mars_patrol.d64"
+  ],
+  "screenscraper_id": "181601",
+  "title": "Mars Patrol",
+  "year": "2024",
+  "publisher": "Muli-Soft",
+  "developer": "Jörg Karwath",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "C64-Umsetzung des Spielhallenspiels Moon Patrol, die Jörg Karwath und sein Freund Helmut „Muli“ Müller 1985 begonnen und nicht fertiggestellt hatten; aus Sorge um Namensrechte hieß sie schon damals Mars Patrol. 2024 hat Karwath das Programm aus dem alten Stand zurückgewonnen, überarbeitet und vollendet. Man steuert ein Mondfahrzeug über die Oberfläche, springt über Krater, Felsen und Minen und schießt nach vorn und nach oben auf Hindernisse, Ufos, Panzer und einen Verfolger; Zeit- und Fortschrittsanzeige wie im Original.\n\nAuf PAL in VICE entwickelt und getestet; keine eigene Musik, nur Soundeffekte. Rollende Felsbrocken aus dem Original fehlen. Frei verfügbar (CSDb, GitHub).\n\nCode: Jörg Karwath · Grafik: Helmut Müller, Jörg Karwath",
+  "images": {
+    "ss": "images/a8/a86dccb59078426ff2dad3b153999a8bd14cac17.png",
+    "sstitle": "images/6b/6bf15a21e4637123c9da5c8b4937fb23feeca697.png"
+  }
+}
