@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
+  "version": "0.8.1",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Beschreibungen auf Deutsch und Englisch, Genres übersetzt",
-  "notes_en": "Descriptions in German and English, translated genres"
+  "notes_de": "Große Einsendungen werden in mehrere Beiträge aufgeteilt",
+  "notes_en": "Large submissions are split into several contributions"
 }
