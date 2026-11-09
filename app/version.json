@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
+  "version": "0.8.0",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Titelbild automatisch, Zufallsspiel (Taste Z), Gemeinschaftsdaten im Web",
-  "notes_en": "Automatic title picture, random game (key Z), community data on the web"
+  "notes_de": "Beschreibungen auf Deutsch und Englisch, Genres übersetzt",
+  "notes_en": "Descriptions in German and English, translated genres"
 }
