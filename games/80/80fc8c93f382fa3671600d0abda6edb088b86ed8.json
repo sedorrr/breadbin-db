@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "80fc8c93f382fa3671600d0abda6edb088b86ed8",
+  "md5": "7271f59111dd5677baa9ea0348154ac2",
+  "crc32": "a7d37767",
+  "size": 100348,
+  "format": "T64",
+  "files": [
+    "IO.T64"
+  ],
+  "screenscraper_id": "113238",
+  "title": "IO – Into Oblivion",
+  "year": "1988",
+  "publisher": "Firebird",
+  "developer": "Douglas Hare",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein waagerecht scrollender Shooter, in dem der Spieler mit einem Raumschiff gegen Gegnerwellen und stark bewaffnete Endgegner antritt. Das Schiff lässt sich durch Extras aufrüsten, darunter Satelliten, die zusätzliche Schüsse abgeben. Bekannt ist IO vor allem für seine detaillierte, organisch wirkende Grafik, die zu den schönsten auf dem C64 gezählt wird, sowie für den hohen Schwierigkeitsgrad.\n\nErschien auf Diskette und Kassette, später auch als Beilage einer Zeitschrift. Gesteuert wird per Joystick; zwei Spieler wechseln sich ab. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Douglas Hare · Grafik: Bob Stevenson · Musik: David Whittaker",
+  "texts": {
+    "de": "Ein waagerecht scrollender Shooter, in dem der Spieler mit einem Raumschiff gegen Gegnerwellen und stark bewaffnete Endgegner antritt. Das Schiff lässt sich durch Extras aufrüsten, darunter Satelliten, die zusätzliche Schüsse abgeben. Bekannt ist IO vor allem für seine detaillierte, organisch wirkende Grafik, die zu den schönsten auf dem C64 gezählt wird, sowie für den hohen Schwierigkeitsgrad.\n\nErschien auf Diskette und Kassette, später auch als Beilage einer Zeitschrift. Gesteuert wird per Joystick; zwei Spieler wechseln sich ab. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Douglas Hare · Grafik: Bob Stevenson · Musik: David Whittaker",
+    "en": "A horizontally scrolling shooter in which the player takes on waves of enemies and heavily armed bosses in a spaceship. The ship can be upgraded with power-ups, including satellites that fire additional shots. IO is known above all for its detailed, organic-looking graphics, which are counted among the most beautiful on the C64, and for its high difficulty level.\n\nReleased on disk and cassette, later also as a magazine covermount. It is controlled by joystick; two players take turns. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no multi-loading.\n\nCode: Douglas Hare · Graphics: Bob Stevenson · Music: David Whittaker"
+  }
+}

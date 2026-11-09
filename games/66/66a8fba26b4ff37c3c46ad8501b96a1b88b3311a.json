@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "66a8fba26b4ff37c3c46ad8501b96a1b88b3311a",
+  "md5": "c286c57236b4f10118609228e067a38b",
+  "crc32": "00c338b3",
+  "size": 28416,
+  "format": "T64",
+  "files": [
+    "WHODARE2.T64"
+  ],
+  "screenscraper_id": "36404",
+  "title": "Who Dares Wins II",
+  "year": "1985",
+  "publisher": "Alligata",
+  "developer": "Steve Evans",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Ein einzelner Soldat mit Gewehr und wenigen Granaten kämpft sich durch feindliches Gebiet und muss acht Außenposten einnehmen. Unterwegs lassen sich Fahrzeuge zerstören und Gefangene befreien, die bei zu langem Zögern hingerichtet werden. Das Spiel ist eine überarbeitete Fassung von Who Dares Wins, das wegen seiner Nähe zu Commando zurückgezogen werden musste.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode, Grafik und Musik: Steve Evans",
+  "texts": {
+    "de": "Ein einzelner Soldat mit Gewehr und wenigen Granaten kämpft sich durch feindliches Gebiet und muss acht Außenposten einnehmen. Unterwegs lassen sich Fahrzeuge zerstören und Gefangene befreien, die bei zu langem Zögern hingerichtet werden. Das Spiel ist eine überarbeitete Fassung von Who Dares Wins, das wegen seiner Nähe zu Commando zurückgezogen werden musste.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode, Grafik und Musik: Steve Evans",
+    "en": "A lone soldier with a rifle and a few grenades fights his way through enemy territory and has to capture eight outposts. Along the way, vehicles can be destroyed and prisoners freed, who are executed if the player hesitates too long. The game is a revised version of Who Dares Wins, which had to be withdrawn because of its close similarity to Commando.\n\nThis file contains the game as a tape archive (T64); there are several versions (original, conversions, cracks).\n\nCode, graphics and music: Steve Evans"
+  },
+  "images": {
+    "ss": "images/f1/f1e87c7dfa3b79009c878c00024444278a987512.png",
+    "sstitle": "images/83/83bb88c684876fd22aa64048022a72ce19832dfd.png"
+  }
+}

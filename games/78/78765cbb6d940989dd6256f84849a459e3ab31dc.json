@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "78765cbb6d940989dd6256f84849a459e3ab31dc",
+  "md5": "504708239b910d8dd5c75e29e3dc346f",
+  "crc32": "08936f3e",
+  "size": 295552,
+  "format": "CRT",
+  "files": [
+    "Last Ninja, The (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36437",
+  "title": "The Last Ninja",
+  "year": "1987",
+  "publisher": "System 3",
+  "developer": "System 3 (Mark Cale, Tim Best, John Twiddy)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Ninja Armakuni sucht auf einer Insel die heiligen Schriftrollen und rächt seinen ausgelöschten Orden am Shogun Kunitoki. Die Welt wird in schräger Draufsicht dargestellt; neben Kämpfen mit Schwert, Nunchaku und Wurfsternen müssen Gegenstände gefunden und an der richtigen Stelle eingesetzt werden. Grafik und Musik setzten 1987 Maßstäbe, und das Spiel wurde einer der bekanntesten C64-Titel überhaupt.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile kommen aus dem Modul statt von Diskette.\n\nCode: John Twiddy · Grafik: Hugh Riley · Musik: Ben Daglish, Anthony Lees",
+  "texts": {
+    "de": "Der Ninja Armakuni sucht auf einer Insel die heiligen Schriftrollen und rächt seinen ausgelöschten Orden am Shogun Kunitoki. Die Welt wird in schräger Draufsicht dargestellt; neben Kämpfen mit Schwert, Nunchaku und Wurfsternen müssen Gegenstände gefunden und an der richtigen Stelle eingesetzt werden. Grafik und Musik setzten 1987 Maßstäbe, und das Spiel wurde einer der bekanntesten C64-Titel überhaupt.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile kommen aus dem Modul statt von Diskette.\n\nCode: John Twiddy · Grafik: Hugh Riley · Musik: Ben Daglish, Anthony Lees",
+    "en": "The ninja Armakuni searches an island for the sacred scrolls and avenges his wiped-out order on the shogun Kunitoki. The world is shown in an oblique top-down view; in addition to fighting with sword, nunchaku and throwing stars, items have to be found and used in the right place. Graphics and music set new standards in 1987, and the game became one of the best-known C64 titles of all.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the multi-load parts come from the cartridge instead of from disk.\n\nCode: John Twiddy · Graphics: Hugh Riley · Music: Ben Daglish, Anthony Lees"
+  }
+}

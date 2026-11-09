@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b4d8b2f61337c8092e2154e755b208a7f3d61e1e",
+  "md5": "7f97347c66029b342db9bf3e245126c9",
+  "crc32": "5abe85aa",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Montezuma's Revenge.crt"
+  ],
+  "screenscraper_id": "36165",
+  "title": "Montezuma's Revenge",
+  "year": "1984",
+  "publisher": "Parker Brothers",
+  "developer": "Robert Jaeger (Design)",
+  "genres": [
+    "Plattform",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Panama Joe durchsucht eine aztekische Pyramide aus vielen miteinander verbundenen Räumen nach dem Schatz Montezumas. Schlüssel öffnen farbige Türen, Fackeln erhellen dunkle Kammern, Schwerter und Amulette helfen gegen rollende Schädel, Schlangen und Spinnen. Laserschranken, verschwindende Böden und Feuergruben verlangen genaues Timing. Das Spiel gilt als frühes Beispiel für ein zusammenhängendes, frei erkundbares Plattform-Labyrinth.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.",
+  "texts": {
+    "de": "Panama Joe durchsucht eine aztekische Pyramide aus vielen miteinander verbundenen Räumen nach dem Schatz Montezumas. Schlüssel öffnen farbige Türen, Fackeln erhellen dunkle Kammern, Schwerter und Amulette helfen gegen rollende Schädel, Schlangen und Spinnen. Laserschranken, verschwindende Böden und Feuergruben verlangen genaues Timing. Das Spiel gilt als frühes Beispiel für ein zusammenhängendes, frei erkundbares Plattform-Labyrinth.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.",
+    "en": "Panama Joe searches an Aztec pyramid made up of many interconnected rooms for Montezuma's treasure. Keys open coloured doors, torches light up dark chambers, and swords and amulets help against rolling skulls, snakes and spiders. Laser barriers, disappearing floors and fire pits demand precise timing. The game is regarded as an early example of a contiguous, freely explorable platform maze.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading."
+  },
+  "images": {
+    "sstitle": "images/ed/ed450dacec9cc76da2f295c6f2ddfa5321f8f167.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "716fc001e5b020e08cf9cb9936fd66b4ea977e82",
+  "md5": "4c0c6aa69415d1b135851e3069030497",
+  "crc32": "89efed8c",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Spy Hunter.crt"
+  ],
+  "screenscraper_id": "35891",
+  "title": "Spy Hunter",
+  "year": "1983",
+  "publisher": "Sega",
+  "developer": "R. B. Stuart",
+  "genres": [
+    "Shoot'em Up / Vertikal",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Ein Agent rast in einem bewaffneten Sportwagen über eine senkrecht scrollende Straße und muss feindliche Fahrzeuge von der Fahrbahn drängen oder abschießen, ohne Zivilfahrzeuge zu treffen. Aus einem Versorgungslaster gibt es Zusatzwaffen wie Ölspur, Nebelwand und Raketen. Streckenweise verwandelt sich der Wagen in ein Boot und fährt auf dem Fluss weiter. Bally Midways Automat von 1983 ist auch für die Peter-Gunn-Melodie bekannt.\n\nDie C64-Fassung erschien in den USA bei Sega, in Europa ab 1984 bei U.S. Gold auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: R. B. Stuart",
+  "texts": {
+    "de": "Ein Agent rast in einem bewaffneten Sportwagen über eine senkrecht scrollende Straße und muss feindliche Fahrzeuge von der Fahrbahn drängen oder abschießen, ohne Zivilfahrzeuge zu treffen. Aus einem Versorgungslaster gibt es Zusatzwaffen wie Ölspur, Nebelwand und Raketen. Streckenweise verwandelt sich der Wagen in ein Boot und fährt auf dem Fluss weiter. Bally Midways Automat von 1983 ist auch für die Peter-Gunn-Melodie bekannt.\n\nDie C64-Fassung erschien in den USA bei Sega, in Europa ab 1984 bei U.S. Gold auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: R. B. Stuart",
+    "en": "An agent races along a vertically scrolling road in an armed sports car and has to force enemy vehicles off the road or shoot them without hitting civilian vehicles. A supply truck provides additional weapons such as an oil slick, smoke screen and missiles. On some stretches the car turns into a boat and continues on the river. Bally Midway's 1983 arcade machine is also known for the Peter Gunn theme.\n\nThe C64 version was released in the USA by Sega, and in Europe from 1984 by U.S. Gold on cassette and disk. It is controlled with the joystick in port 2.\n\nCode: R. B. Stuart"
+  }
+}

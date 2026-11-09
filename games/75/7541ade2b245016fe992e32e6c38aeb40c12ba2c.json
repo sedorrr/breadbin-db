@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "7541ade2b245016fe992e32e6c38aeb40c12ba2c",
+  "md5": "817d9b648ed37c91ee12e82e5f676d25",
+  "crc32": "5fefc8f4",
+  "size": 188848,
+  "format": "CRT",
+  "files": [
+    "Flimbo's Quest.crt",
+    "Flimbo's Quest [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36541",
+  "title": "Flimbo's Quest",
+  "year": "1990",
+  "publisher": "System 3",
+  "developer": "Boys Without Brains",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Der Junge Flimbo will seine Freundin Pearly aus den Fängen des Wissenschaftlers Fransz Dandruff befreien. In sieben seitlich scrollenden Abschnitten muss er dazu jeweils bestimmte Gegner besiegen, die auf einer Anzeige gesucht werden, und so Teile einer Schriftrolle sammeln. Besiegte Gegner hinterlassen Münzen, mit denen sich in Läden Extras und Zeit kaufen lassen. Bunte Grafik, sanftes Scrolling und die Musik machen das Spiel zu einem bekannten Spätwerk der C64-Zeit.\n\nSystem 3 veröffentlichte das Spiel auf Kassette und Diskette; entwickelt wurde es von der niederländischen Gruppe Boys Without Brains. Die Szene hat es als EasyFlash-Modul umgesetzt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Laurens van der Donk, Dave Hogendorf, Patrick Witteman · Grafik: Arthur van Jole, Jacco van 't Riet · Musik: Reyn Ouwehand, Johannes Bjerregaard",
+  "texts": {
+    "de": "Der Junge Flimbo will seine Freundin Pearly aus den Fängen des Wissenschaftlers Fransz Dandruff befreien. In sieben seitlich scrollenden Abschnitten muss er dazu jeweils bestimmte Gegner besiegen, die auf einer Anzeige gesucht werden, und so Teile einer Schriftrolle sammeln. Besiegte Gegner hinterlassen Münzen, mit denen sich in Läden Extras und Zeit kaufen lassen. Bunte Grafik, sanftes Scrolling und die Musik machen das Spiel zu einem bekannten Spätwerk der C64-Zeit.\n\nSystem 3 veröffentlichte das Spiel auf Kassette und Diskette; entwickelt wurde es von der niederländischen Gruppe Boys Without Brains. Die Szene hat es als EasyFlash-Modul umgesetzt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Laurens van der Donk, Dave Hogendorf, Patrick Witteman · Grafik: Arthur van Jole, Jacco van 't Riet · Musik: Reyn Ouwehand, Johannes Bjerregaard",
+    "en": "The boy Flimbo wants to free his girlfriend Pearly from the clutches of the scientist Fransz Dandruff. In each of seven side-scrolling sections he has to defeat specific enemies, shown on a display as wanted, and thereby collect pieces of a scroll. Defeated enemies leave coins behind, which can be used to buy extras and time in shops. Colourful graphics, smooth scrolling and the music make the game a well-known late work of the C64 era.\n\nSystem 3 released the game on cassette and disk; it was developed by the Dutch group Boys Without Brains. The scene has converted it into an EasyFlash cartridge. Controlled with the joystick in port 2.\n\nCode: Laurens van der Donk, Dave Hogendorf, Patrick Witteman · Graphics: Arthur van Jole, Jacco van 't Riet · Music: Reyn Ouwehand, Johannes Bjerregaard"
+  }
+}

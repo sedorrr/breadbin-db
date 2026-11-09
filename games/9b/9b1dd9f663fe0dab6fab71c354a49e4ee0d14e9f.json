@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "9b1dd9f663fe0dab6fab71c354a49e4ee0d14e9f",
+  "md5": "4ee5b1f50fd55e4ff378f05820ad58a1",
+  "crc32": "39e4a5c1",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Fort Apocalypse.crt"
+  ],
+  "screenscraper_id": "112181",
+  "title": "Fort Apocalypse",
+  "year": "1982",
+  "publisher": "Synapse Software",
+  "developer": "Steve Hales (C64: Joe Vierra)",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Mit einem Rettungshubschrauber dringt man in eine unterirdische Festung ein, um Gefangene zu befreien und den Kern der Anlage zu zerstören. Die verschachtelten Höhlen scrollen in alle Richtungen; Panzer, Raketen, Kraftfelder und knapper Treibstoff machen jeden Flug gefährlich. Zuerst für die Atari-Heimcomputer entstanden, gehörte das Spiel zu den bekannten frühen Actiontiteln von Synapse.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Steve Hales (Original), Joe Vierra (C64-Umsetzung)",
+  "texts": {
+    "de": "Mit einem Rettungshubschrauber dringt man in eine unterirdische Festung ein, um Gefangene zu befreien und den Kern der Anlage zu zerstören. Die verschachtelten Höhlen scrollen in alle Richtungen; Panzer, Raketen, Kraftfelder und knapper Treibstoff machen jeden Flug gefährlich. Zuerst für die Atari-Heimcomputer entstanden, gehörte das Spiel zu den bekannten frühen Actiontiteln von Synapse.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Steve Hales (Original), Joe Vierra (C64-Umsetzung)",
+    "en": "With a rescue helicopter the player penetrates an underground fortress to free prisoners and destroy the core of the complex. The intricate caves scroll in all directions; tanks, missiles, force fields and scarce fuel make every flight dangerous. Originally created for the Atari home computers, the game was one of Synapse's well-known early action titles.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without additional loading.\n\nCode: Steve Hales (original), Joe Vierra (C64 conversion)"
+  },
+  "images": {
+    "ss": "images/ef/eff6d468ed7dfdfab0e6973468a75e4694c23c31.png",
+    "sstitle": "images/f7/f7e9cac29bb4dc2ff6b1ed1e06a4bbaa45b07fc8.png"
+  }
+}

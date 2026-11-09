@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "a93543e460718d1c98587ac9ce9092c289e9174e",
+  "md5": "22632eba070e8fbb1435d589c58ec929",
+  "crc32": "5c54f97b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SHADOWB1.D64"
+  ],
+  "screenscraper_id": "36000",
+  "title": "Shadow of the Beast",
+  "year": "1990",
+  "publisher": "Psygnosis / Ocean",
+  "developer": "DMA Design",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Amiga-Spiels von Reflections: Aarbron wurde vom Herrn der Bestien in ein Monster verwandelt und sinnt auf Rache. In einer seitlich scrollenden Welt aus Ebenen, Bäumen, Höhlen und einer Burg kämpft er mit Faustschlägen gegen Kreaturen und Endgegner und sucht Schlüssel und Waffen. Bekannt war schon das Original für seine Grafik mit vielen Bildebenen; die C64-Fassung versucht diesen Eindruck nachzubilden.\n\nDie C64-Fassung erschien als Steckmodul bei Ocean sowie auf Diskette. Gesteuert wird per Joystick.\n\nCode: Richard Swinfen · Grafik: Steve Hammond · Musik: Fredrik Segerfalk",
+  "texts": {
+    "de": "Umsetzung des Amiga-Spiels von Reflections: Aarbron wurde vom Herrn der Bestien in ein Monster verwandelt und sinnt auf Rache. In einer seitlich scrollenden Welt aus Ebenen, Bäumen, Höhlen und einer Burg kämpft er mit Faustschlägen gegen Kreaturen und Endgegner und sucht Schlüssel und Waffen. Bekannt war schon das Original für seine Grafik mit vielen Bildebenen; die C64-Fassung versucht diesen Eindruck nachzubilden.\n\nDie C64-Fassung erschien als Steckmodul bei Ocean sowie auf Diskette. Gesteuert wird per Joystick.\n\nCode: Richard Swinfen · Grafik: Steve Hammond · Musik: Fredrik Segerfalk",
+    "en": "Conversion of the Amiga game by Reflections: Aarbron has been transformed into a monster by the Beast Lord and seeks revenge. In a side-scrolling world of plains, trees, caves and a castle, he fights creatures and bosses with punches and searches for keys and weapons. The original was already known for its graphics with many layers; the C64 version tries to recreate this impression.\n\nThe C64 version was released as a cartridge by Ocean and also on disk. It is controlled by joystick.\n\nCode: Richard Swinfen · Graphics: Steve Hammond · Music: Fredrik Segerfalk"
+  }
+}

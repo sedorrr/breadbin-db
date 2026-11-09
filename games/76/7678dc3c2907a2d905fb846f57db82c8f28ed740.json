@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "7678dc3c2907a2d905fb846f57db82c8f28ed740",
+  "md5": "607975b3f3f36463358208c040326e53",
+  "crc32": "8df45d6c",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Microprose Soccer (Outdoor).crt"
+  ],
+  "screenscraper_id": "36358",
+  "title": "MicroProse Soccer",
+  "year": "1988",
+  "publisher": "MicroProse",
+  "developer": "Sensible Software",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "MicroProse Soccer zeigt das Spielfeld von oben und setzt auf schnelles, direktes Spiel mit Bananenflanken, Fallrückziehern und Wiederholungen besonderer Tore. Es gibt Weltmeisterschaft, internationale Spiele und Wetterwechsel, die den Ball auf nassem Rasen anders laufen lassen. In der Halle wird mit sechs Spielern pro Mannschaft gespielt, der Ball prallt von den Banden ab, und es gibt kein Unentschieden. Das Spiel von Sensible Software gilt als Vorläufer von Sensible Soccer.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Chris Yates · Grafik: Jon Hare · Musik: Martin Galway",
+  "texts": {
+    "de": "MicroProse Soccer zeigt das Spielfeld von oben und setzt auf schnelles, direktes Spiel mit Bananenflanken, Fallrückziehern und Wiederholungen besonderer Tore. Es gibt Weltmeisterschaft, internationale Spiele und Wetterwechsel, die den Ball auf nassem Rasen anders laufen lassen. In der Halle wird mit sechs Spielern pro Mannschaft gespielt, der Ball prallt von den Banden ab, und es gibt kein Unentschieden. Das Spiel von Sensible Software gilt als Vorläufer von Sensible Soccer.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Chris Yates · Grafik: Jon Hare · Musik: Martin Galway",
+    "en": "MicroProse Soccer shows the pitch from above and focuses on fast, direct play with banana crosses, overhead kicks and replays of special goals. There is a World Cup, international matches and changes in the weather that make the ball behave differently on wet grass. Indoors, teams play with six players each, the ball rebounds off the boards and there are no draws. The game by Sensible Software is regarded as a forerunner of Sensible Soccer.\n\nThis file contains the game as a cartridge (CRT); there are several versions (original, conversions, cracks).\n\nCode: Chris Yates · Graphics: Jon Hare · Music: Martin Galway"
+  },
+  "images": {
+    "sstitle": "images/90/908b2bcdcbc7798ce3bc7898acccf7dac420183c.png"
+  }
+}

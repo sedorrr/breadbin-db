@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c1576189c4dd8f0c82a2293866e2bc316f5448ec",
+  "md5": "0e48a053d37b882a9c07b7ba3e9520ac",
+  "crc32": "252dd4ca",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Pitfall (J1).crt"
+  ],
+  "screenscraper_id": "111411",
+  "title": "Pitfall!",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Activision",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Pitfall Harry durchquert einen Dschungel aus 255 nebeneinanderliegenden Bildschirmen und sucht in 20 Minuten 32 Schätze. Unterwegs springt er über rollende Baumstämme, Teergruben und Krokodilköpfe, schwingt an Lianen über Treibsand und weicht Skorpionen in unterirdischen Gängen aus, die schneller vorankommen, aber Abschnitte überspringen. Das Atari-2600-Spiel von 1982 gilt als einer der Wegbereiter der Jump-'n'-Run-Spiele.\n\nDie C64-Fassung erschien 1984 bei Activision als Modul, später auch auf Kassette und Diskette; dazu kommen eine OneLoad64-Modulumsetzung (Joystick in Port 1) und eine mit Garry Kitchen's GameMaker nachgebaute Fassung, die dem Baukasten als Beispiel beilag. Grafik und Ablauf folgen eng der Atari-Vorlage.\n\nEntwurf: David Crane",
+  "texts": {
+    "de": "Pitfall Harry durchquert einen Dschungel aus 255 nebeneinanderliegenden Bildschirmen und sucht in 20 Minuten 32 Schätze. Unterwegs springt er über rollende Baumstämme, Teergruben und Krokodilköpfe, schwingt an Lianen über Treibsand und weicht Skorpionen in unterirdischen Gängen aus, die schneller vorankommen, aber Abschnitte überspringen. Das Atari-2600-Spiel von 1982 gilt als einer der Wegbereiter der Jump-'n'-Run-Spiele.\n\nDie C64-Fassung erschien 1984 bei Activision als Modul, später auch auf Kassette und Diskette; dazu kommen eine OneLoad64-Modulumsetzung (Joystick in Port 1) und eine mit Garry Kitchen's GameMaker nachgebaute Fassung, die dem Baukasten als Beispiel beilag. Grafik und Ablauf folgen eng der Atari-Vorlage.\n\nEntwurf: David Crane",
+    "en": "Pitfall Harry crosses a jungle of 255 adjoining screens, searching for 32 treasures within 20 minutes. Along the way he jumps over rolling logs, tar pits and crocodile heads, swings on vines over quicksand and avoids scorpions in underground tunnels, which allow faster progress but skip sections. The 1982 Atari 2600 game is regarded as one of the pioneers of jump'n'run games.\n\nThe C64 version was released in 1984 by Activision as a cartridge, later also on tape and disk; in addition there is a OneLoad64 cartridge conversion (joystick in port 1) and a version recreated with Garry Kitchen's GameMaker, which was included with the construction kit as an example. Graphics and gameplay closely follow the Atari original.\n\nDesign: David Crane"
+  }
+}

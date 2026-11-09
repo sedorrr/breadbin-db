@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "816dc0e6e38ebf51d133f62bd8a109cca6376613",
+  "md5": "b98bd1f7f08fd05f0d77b7af0cdc425d",
+  "crc32": "f25e31a8",
+  "size": 989504,
+  "format": "TAP",
+  "files": [
+    "Pitfall II (Activision).tap"
+  ],
+  "screenscraper_id": "116172",
+  "title": "Pitfall II: Lost Caverns",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Activision",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Pitfall!: Harry sucht in den Höhlen unter Machu Picchu den Raj-Diamanten, seine Nichte Rhonda und die Katze Quickclaw. Statt nebeneinanderliegender Bildschirme gibt es nun ein weit verzweigtes, senkrecht und waagerecht verbundenes Höhlensystem mit Leitern, Wasserläufen und einem Ballonflug. Leben verliert Harry nicht – Treffer durch Fledermäuse, Skorpione oder Aale kosten Punkte und schicken ihn zum letzten Rotkreuz-Kontrollpunkt zurück. Ein Zeitlimit gibt es nicht.\n\nErschien auf Modul, Diskette und Kassette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Die C64-Fassung wurde neu programmiert und hat eine durchgehende Begleitmelodie, die nur beim Ballonflug wechselt.\n\nEntwurf: David Crane · Code und Musik (C64): Tim Shotter",
+  "texts": {
+    "de": "Fortsetzung von Pitfall!: Harry sucht in den Höhlen unter Machu Picchu den Raj-Diamanten, seine Nichte Rhonda und die Katze Quickclaw. Statt nebeneinanderliegender Bildschirme gibt es nun ein weit verzweigtes, senkrecht und waagerecht verbundenes Höhlensystem mit Leitern, Wasserläufen und einem Ballonflug. Leben verliert Harry nicht – Treffer durch Fledermäuse, Skorpione oder Aale kosten Punkte und schicken ihn zum letzten Rotkreuz-Kontrollpunkt zurück. Ein Zeitlimit gibt es nicht.\n\nErschien auf Modul, Diskette und Kassette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Die C64-Fassung wurde neu programmiert und hat eine durchgehende Begleitmelodie, die nur beim Ballonflug wechselt.\n\nEntwurf: David Crane · Code und Musik (C64): Tim Shotter",
+    "en": "Sequel to Pitfall!: in the caverns beneath Machu Picchu, Harry searches for the Raj diamond, his niece Rhonda and the cat Quickclaw. Instead of screens laid out side by side, there is now an extensively branching cave system connected vertically and horizontally, with ladders, watercourses and a balloon flight. Harry does not lose lives – hits from bats, scorpions or eels cost points and send him back to the last Red Cross checkpoint. There is no time limit.\n\nReleased on cartridge, disk and cassette; there is also a OneLoad64 cartridge conversion (joystick in port 1). The C64 version was reprogrammed from scratch and has continuous background music that only changes during the balloon flight.\n\nDesign: David Crane · Code and music (C64): Tim Shotter"
+  }
+}

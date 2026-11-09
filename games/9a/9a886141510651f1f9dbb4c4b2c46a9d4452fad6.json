@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "9a886141510651f1f9dbb4c4b2c46a9d4452fad6",
+  "md5": "8bb648b209c75c6ee49ed518f0a000a3",
+  "crc32": "30fbb111",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Raid over Moscow.crt"
+  ],
+  "screenscraper_id": "36696",
+  "title": "Raid over Moscow",
+  "year": "1984",
+  "publisher": "Access Software",
+  "developer": "Bruce Carver",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Im Kalten Krieg startet ein Geschwader von Tarnkappenjägern, um sowjetische Raketen zu stoppen. Die Abschnitte wechseln: Start aus dem Hangar einer Raumstation, Tiefflug über feindliches Gebiet, Angriff auf Raketensilos, Kampf vor dem Kreml und schließlich ein Duell mit einem Roboter im Reaktor. Die Vielfalt der Spielteile und die gute Technik machten es erfolgreich; wegen des Themas war es in manchen Ländern umstritten.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Bruce Carver · Musik: Bruce Carver",
+  "texts": {
+    "de": "Im Kalten Krieg startet ein Geschwader von Tarnkappenjägern, um sowjetische Raketen zu stoppen. Die Abschnitte wechseln: Start aus dem Hangar einer Raumstation, Tiefflug über feindliches Gebiet, Angriff auf Raketensilos, Kampf vor dem Kreml und schließlich ein Duell mit einem Roboter im Reaktor. Die Vielfalt der Spielteile und die gute Technik machten es erfolgreich; wegen des Themas war es in manchen Ländern umstritten.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Bruce Carver · Musik: Bruce Carver",
+    "en": "During the Cold War a squadron of stealth fighters takes off to stop Soviet missiles. The sections vary: take-off from the hangar of a space station, low-level flight over enemy territory, attack on missile silos, battle in front of the Kremlin and finally a duel with a robot in the reactor. The variety of game sections and the good technology made it a success; because of its subject it was controversial in some countries.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without additional loading.\n\nCode: Bruce Carver · Music: Bruce Carver"
+  },
+  "images": {
+    "sstitle": "images/03/03a548216255f31987bf6eeff60c136ea0d8bff1.png"
+  }
+}

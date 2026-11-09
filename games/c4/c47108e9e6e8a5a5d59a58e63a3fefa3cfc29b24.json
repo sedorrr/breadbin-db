@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c47108e9e6e8a5a5d59a58e63a3fefa3cfc29b24",
+  "md5": "f2056bc55e1b4b092a6fe43794b25b4d",
+  "crc32": "6f843e11",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Ghosts'n Goblins.crt"
+  ],
+  "screenscraper_id": "35822",
+  "title": "Ghosts 'n Goblins",
+  "year": "1986",
+  "publisher": "Elite",
+  "developer": "Elite Systems (Chris Butler)",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Capcom-Automaten: Der Ritter Arthur zieht los, um seine von einem Dämon entführte Freundin zu befreien. Durch Friedhöfe, Wälder und Burgen kämpft er sich mit Lanze, Fackel, Schwert oder Axt gegen Zombies, Teufel und andere Wesen; ein Treffer kostet die Rüstung, der zweite das Leben. Jeder Abschnitt hat ein Zeitlimit. Die C64-Fassung hat vier statt sieben Level, ist aber vor allem für ihre Musik bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode und Grafik: Chris Butler · Titelbild: Ste Pickford · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Umsetzung des Capcom-Automaten: Der Ritter Arthur zieht los, um seine von einem Dämon entführte Freundin zu befreien. Durch Friedhöfe, Wälder und Burgen kämpft er sich mit Lanze, Fackel, Schwert oder Axt gegen Zombies, Teufel und andere Wesen; ein Treffer kostet die Rüstung, der zweite das Leben. Jeder Abschnitt hat ein Zeitlimit. Die C64-Fassung hat vier statt sieben Level, ist aber vor allem für ihre Musik bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode und Grafik: Chris Butler · Titelbild: Ste Pickford · Musik: Mark Cooksey",
+    "en": "Conversion of the Capcom arcade game: the knight Arthur sets out to rescue his girlfriend, who has been kidnapped by a demon. Through graveyards, forests and castles he fights zombies, devils and other creatures with lance, torch, sword or axe; one hit costs his armour, the second his life. Each section has a time limit. The C64 version has four levels instead of seven, but is known above all for its music.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without additional loading.\n\nCode and graphics: Chris Butler · Title screen: Ste Pickford · Music: Mark Cooksey"
+  },
+  "images": {
+    "ss": "images/ff/ffd218e0c0e979b273e92cff5a165267dd18952f.png",
+    "sstitle": "images/8d/8dcad44802acb8c6d8c80f9b890b8d0a57c6bd2d.png"
+  }
+}

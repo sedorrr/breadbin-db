@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "b1a1cccf582c3a3433515bb353ebb94a46257a14",
+  "md5": "ba47c0ec98b721ab982585a7e9daf95d",
+  "crc32": "17254aef",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WORLDCL0.D64"
+  ],
+  "screenscraper_id": "36666",
+  "title": "World Class Leader Board",
+  "year": "1987",
+  "publisher": "Access Software",
+  "developer": "Bruce Carver, Roger Carver",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-4",
+  "synopsis": "Der dritte Teil der Leader-Board-Reihe bringt berühmte Golfplätze auf den C64: St Andrews, Doral Country Club und Cypress Creek, dazu den erfundenen und besonders schweren Gauntlet Country Club. Schlagkraft und Richtung werden über eine Leiste festgelegt, Wind, Bäume, Bunker und Wasser verlangen sorgfältige Schläge. Bis zu vier Spieler treten nacheinander an. Später erschienen Zusatzdisketten mit weiteren Plätzen.\n\nDiese Fassung stammt aus einer Diskettensammlung und besteht aus zwei Diskettenabbildern (WORLDCL0 und WORLDCL1).\n\nDesign: Bruce Carver, Roger Carver",
+  "texts": {
+    "de": "Der dritte Teil der Leader-Board-Reihe bringt berühmte Golfplätze auf den C64: St Andrews, Doral Country Club und Cypress Creek, dazu den erfundenen und besonders schweren Gauntlet Country Club. Schlagkraft und Richtung werden über eine Leiste festgelegt, Wind, Bäume, Bunker und Wasser verlangen sorgfältige Schläge. Bis zu vier Spieler treten nacheinander an. Später erschienen Zusatzdisketten mit weiteren Plätzen.\n\nDiese Fassung stammt aus einer Diskettensammlung und besteht aus zwei Diskettenabbildern (WORLDCL0 und WORLDCL1).\n\nDesign: Bruce Carver, Roger Carver",
+    "en": "The third part of the Leader Board series brings famous golf courses to the C64: St Andrews, Doral Country Club and Cypress Creek, plus the fictional and particularly difficult Gauntlet Country Club. Power and direction of the stroke are set using a bar; wind, trees, bunkers and water call for careful shots. Up to four players take turns. Add-on disks with further courses were released later.\n\nThis version comes from a disk collection and consists of two disk images (WORLDCL0 and WORLDCL1).\n\nDesign: Bruce Carver, Roger Carver"
+  },
+  "images": {
+    "sstitle": "images/aa/aaa82e78070c87bf36eb9d22c47fc08dbe8b3250.png"
+  }
+}

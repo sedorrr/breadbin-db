@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "99bc5c506fd910ef776e75fcaeb553eb44eac489",
+  "md5": "5887acc41b9a1998e971900b171433af",
+  "crc32": "2b0e8b93",
+  "size": 35336,
+  "format": "T64",
+  "files": [
+    "BDASH01.T64"
+  ],
+  "screenscraper_id": "35836",
+  "title": "Boulder Dash",
+  "year": "1984",
+  "publisher": "First Star Software",
+  "developer": "Peter Liepa, Chris Gray",
+  "genres": [
+    "Action / Labyrinth",
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Rockford gräbt sich durch Höhlen voller Erde, Felsbrocken und Diamanten und muss in begrenzter Zeit genug Edelsteine einsammeln, um den Ausgang zu öffnen. Fallende Felsen gehorchen einer einfachen Physik und können Rockford erschlagen, aber auch Gegner wie Glühwürmchen und Schmetterlinge zerquetschen, die dabei zu Diamanten werden. 16 Höhlen und vier Zwischenstufen verlangen schnelle Reaktion und Planung zugleich. Das Spielprinzip wurde unzählige Male fortgesetzt und nachgeahmt.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode, Grafik, Musik: Peter Liepa (Design mit Chris Gray)",
+  "texts": {
+    "de": "Rockford gräbt sich durch Höhlen voller Erde, Felsbrocken und Diamanten und muss in begrenzter Zeit genug Edelsteine einsammeln, um den Ausgang zu öffnen. Fallende Felsen gehorchen einer einfachen Physik und können Rockford erschlagen, aber auch Gegner wie Glühwürmchen und Schmetterlinge zerquetschen, die dabei zu Diamanten werden. 16 Höhlen und vier Zwischenstufen verlangen schnelle Reaktion und Planung zugleich. Das Spielprinzip wurde unzählige Male fortgesetzt und nachgeahmt.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode, Grafik, Musik: Peter Liepa (Design mit Chris Gray)",
+    "en": "Rockford digs his way through caves full of earth, boulders and diamonds and has to collect enough gems within a limited time to open the exit. Falling rocks obey simple physics and can crush Rockford, but can also squash enemies such as fireflies and butterflies, which turn into diamonds in the process. 16 caves and four intermission stages demand both quick reactions and planning. The game concept has been continued and imitated countless times.\n\nThis file contains the game as a tape archive (T64); there are several versions (original, conversions, cracks).\n\nCode, graphics, music: Peter Liepa (design with Chris Gray)"
+  },
+  "images": {
+    "ss": "images/00/00d11fc9b69e1baf7001ffe09a10d16bede47fd8.png",
+    "sstitle": "images/65/65c6b1c512d72158dc3eaff41cd08a790a13f4ee.png"
+  }
+}

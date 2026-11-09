@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "b20d390f2f9cc7c8beafc4ce061918ddbecedb2d",
+  "md5": "012f1365a1f56b856f2f795b3fbb593d",
+  "crc32": "3b2e4a4a",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Bounty Bob Strikes Back (J1).crt"
+  ],
+  "screenscraper_id": "110346",
+  "title": "Bounty Bob Strikes Back!",
+  "year": "1985",
+  "publisher": "U.S. Gold",
+  "developer": "Big Five Software (Bill Hogue)",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "In der Fortsetzung von Miner 2049er durchsucht Bergmann Bounty Bob ein Bergwerk mit 25 Stationen. In jeder muss er alle Bodenabschnitte ablaufen und damit für sich beanspruchen, während mutierte Wesen umherwandern. Hilfsmittel wie Aufzüge, Saugrohre, Transporter und hydraulische Plattformen gehören zu den Aufgaben jeder Station. Aufgesammelte Gegenstände verwandeln die Mutanten kurzzeitig in harmlose Beute.\n\nUrsprünglich für Atari-8-Bit-Rechner geschrieben; die C64-Fassung erschien in den USA bei Big Five Software, in Europa bei U.S. Gold, auf Diskette und Kassette. Gesteuert wird per Joystick, bei der Modulfassung in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Bill Hogue · Grafik: Bill Hogue, Curtis Mikolyski",
+  "texts": {
+    "de": "In der Fortsetzung von Miner 2049er durchsucht Bergmann Bounty Bob ein Bergwerk mit 25 Stationen. In jeder muss er alle Bodenabschnitte ablaufen und damit für sich beanspruchen, während mutierte Wesen umherwandern. Hilfsmittel wie Aufzüge, Saugrohre, Transporter und hydraulische Plattformen gehören zu den Aufgaben jeder Station. Aufgesammelte Gegenstände verwandeln die Mutanten kurzzeitig in harmlose Beute.\n\nUrsprünglich für Atari-8-Bit-Rechner geschrieben; die C64-Fassung erschien in den USA bei Big Five Software, in Europa bei U.S. Gold, auf Diskette und Kassette. Gesteuert wird per Joystick, bei der Modulfassung in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Bill Hogue · Grafik: Bill Hogue, Curtis Mikolyski",
+    "en": "In the sequel to Miner 2049er, miner Bounty Bob searches a mine with 25 stations. In each one he has to walk over all the floor sections and thereby claim them, while mutant creatures wander about. Aids such as lifts, suction tubes, transporters and hydraulic platforms are part of the challenges of each station. Collected items briefly turn the mutants into harmless prey.\n\nOriginally written for Atari 8-bit computers; the C64 version was released in the USA by Big Five Software and in Europe by U.S. Gold, on disk and cassette. It is controlled by joystick, in port 1 for the cartridge version. In addition to the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without multi-loading.\n\nCode: Bill Hogue · Graphics: Bill Hogue, Curtis Mikolyski"
+  }
+}

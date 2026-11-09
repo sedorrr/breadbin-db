@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "bc265d12e126d0cac5649b4a4db34fe20e48fbd3",
+  "md5": "6ec63545df4bf498bd667394a124b1ae",
+  "crc32": "cf18418c",
+  "size": 275370,
+  "format": "TAP",
+  "files": [
+    "Blue Max (Version 2).tap"
+  ],
+  "screenscraper_id": "36279",
+  "title": "Blue Max",
+  "year": "1983",
+  "publisher": "Synapse Software",
+  "developer": "Peter Adams",
+  "genres": [
+    "Shoot'em Up",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Ein Doppeldecker des Ersten Weltkriegs fliegt in schräger Draufsicht über eine scrollende Landschaft. Der Spieler bekämpft feindliche Flugzeuge in der Luft, bombardiert Brücken, Schiffe, Fahrzeuge und Gebäude und muss dabei Höhe, Treibstoff und Bomben im Blick behalten. Gelandet wird auf eigenen Flugfeldern zum Auftanken und Reparieren. Am Ende wartet eine Stadt mit Sonderzielen.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Peter Adams · Design: Bob Polin · Musik (SID): Stephen C. Biggs",
+  "texts": {
+    "de": "Ein Doppeldecker des Ersten Weltkriegs fliegt in schräger Draufsicht über eine scrollende Landschaft. Der Spieler bekämpft feindliche Flugzeuge in der Luft, bombardiert Brücken, Schiffe, Fahrzeuge und Gebäude und muss dabei Höhe, Treibstoff und Bomben im Blick behalten. Gelandet wird auf eigenen Flugfeldern zum Auftanken und Reparieren. Am Ende wartet eine Stadt mit Sonderzielen.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Peter Adams · Design: Bob Polin · Musik (SID): Stephen C. Biggs",
+    "en": "A First World War biplane flies over a scrolling landscape in an oblique top-down view. The player fights enemy aircraft in the air, bombs bridges, ships, vehicles and buildings and has to keep an eye on altitude, fuel and bombs. Landing on friendly airfields allows refuelling and repairs. At the end, a city with special targets awaits.\n\nThis file contains the game as a tape image (TAP); several versions exist (original, conversions, cracks).\n\nCode: Peter Adams · Design: Bob Polin · Music (SID): Stephen C. Biggs"
+  },
+  "images": {
+    "ss": "images/1b/1b8242084693d599ef637108bb762736a5752fd0.png",
+    "sstitle": "images/28/28cf46f9620d10ae82b1f9d3341ef2acbed80769.png"
+  }
+}

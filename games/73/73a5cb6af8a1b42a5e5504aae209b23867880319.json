@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "73a5cb6af8a1b42a5e5504aae209b23867880319",
+  "md5": "1a4c11da8269e6b98091be1d0eb24182",
+  "crc32": "22467c3f",
+  "size": 379182,
+  "format": "TAP",
+  "files": [
+    "Stix (Version 1).tap"
+  ],
+  "screenscraper_id": "113131",
+  "title": "Stix",
+  "year": "1983",
+  "publisher": "Supersoft",
+  "developer": "Andrew Trott",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Automatenprinzips Qix: Der Spieler zieht mit seinem Marker Linien über das Spielfeld und schließt damit Flächen ab, bis ein vorgegebener Anteil gefüllt ist. Währenddessen wandert der „Stix“, ein zappelndes Linienbündel, über die freie Fläche und darf die halb fertige Linie nicht berühren. Funken laufen am Rand entlang und verfolgen den Marker. Langsam gezogene Flächen bringen mehr Punkte, sind aber riskanter.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Andrew Trott",
+  "texts": {
+    "de": "Umsetzung des Automatenprinzips Qix: Der Spieler zieht mit seinem Marker Linien über das Spielfeld und schließt damit Flächen ab, bis ein vorgegebener Anteil gefüllt ist. Währenddessen wandert der „Stix“, ein zappelndes Linienbündel, über die freie Fläche und darf die halb fertige Linie nicht berühren. Funken laufen am Rand entlang und verfolgen den Marker. Langsam gezogene Flächen bringen mehr Punkte, sind aber riskanter.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Andrew Trott",
+    "en": "Conversion of the arcade concept Qix: with a marker the player draws lines across the playfield, enclosing areas until a set proportion is filled. Meanwhile the \"Stix\", a twitching bundle of lines, roams the free area and must not touch the half-finished line. Sparks run along the edge and chase the marker. Areas drawn slowly give more points but are riskier.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: Andrew Trott"
+  },
+  "images": {
+    "ss": "images/ff/ff50137a4989e814bde648a10a5601af395eb539.png"
+  }
+}

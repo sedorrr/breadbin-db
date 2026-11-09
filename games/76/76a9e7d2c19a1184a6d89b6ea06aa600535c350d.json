@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "76a9e7d2c19a1184a6d89b6ea06aa600535c350d",
+  "md5": "b683e89592ad8d65fdab53a35f05acf5",
+  "crc32": "5196086b",
+  "size": 139600,
+  "format": "CRT",
+  "files": [
+    "Summer Games (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36304",
+  "title": "Summer Games",
+  "year": "1984",
+  "publisher": "Epyx",
+  "developer": "Epyx",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "Der erste Teil der Sportreihe von Epyx, zu den Olympischen Spielen 1984 erschienen. Acht Disziplinen stehen zur Wahl: Stabhochsprung, Turmspringen, 4×400-m-Staffel, 100-m-Lauf, Turnen, Freistilstaffel, 100 m Freistil und Tontaubenschießen. Bis zu acht Spieler wählen ein Land, hören dessen Hymne und kämpfen um Medaillen und Rekorde. Die Reihe prägte die Sportspiele auf dem C64 über Jahre.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Disziplinen werden aus dem Modul statt von Diskette geladen.\n\nCode: Stephen H. Landrum · Musik: Randy Glover",
+  "texts": {
+    "de": "Der erste Teil der Sportreihe von Epyx, zu den Olympischen Spielen 1984 erschienen. Acht Disziplinen stehen zur Wahl: Stabhochsprung, Turmspringen, 4×400-m-Staffel, 100-m-Lauf, Turnen, Freistilstaffel, 100 m Freistil und Tontaubenschießen. Bis zu acht Spieler wählen ein Land, hören dessen Hymne und kämpfen um Medaillen und Rekorde. Die Reihe prägte die Sportspiele auf dem C64 über Jahre.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Disziplinen werden aus dem Modul statt von Diskette geladen.\n\nCode: Stephen H. Landrum · Musik: Randy Glover",
+    "en": "The first part of Epyx's sports series, released for the 1984 Olympic Games. Eight events are available: pole vault, platform diving, 4×400 m relay, 100 m sprint, gymnastics, freestyle relay, 100 m freestyle and skeet shooting. Up to eight players choose a country, hear its anthem and compete for medals and records. The series shaped sports games on the C64 for years.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the events are loaded from the cartridge instead of from disk.\n\nCode: Stephen H. Landrum · Music: Randy Glover"
+  },
+  "images": {
+    "ss": "images/04/04bc19a1b628e919d77e323812616c4bd7ac02d9.png",
+    "sstitle": "images/9b/9b10d696dd50c9e86d92537e31bd6d0ddf146cc9.png"
+  }
+}

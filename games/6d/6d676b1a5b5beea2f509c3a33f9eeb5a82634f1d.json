@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "6d676b1a5b5beea2f509c3a33f9eeb5a82634f1d",
+  "md5": "0e8129510de9dbfb7cf2cc209624b37f",
+  "crc32": "48b27bf6",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Krakout.crt"
+  ],
+  "screenscraper_id": "36659",
+  "title": "Krakout",
+  "year": "1987",
+  "publisher": "Gremlin Graphics",
+  "developer": "Andy Green",
+  "genres": [
+    "Action / Breakout Spiele"
+  ],
+  "players": "1",
+  "synopsis": "Breakout-Variante mit gedrehtem Spielfeld: Der Schläger steht senkrecht am linken oder rechten Rand, der Ball fliegt waagerecht gegen die Steine. Sonderfelder bringen Klebeschläger, Mehrfachbälle, Bomben oder Extraleben, umherfliegende Gegner lenken den Ball ab oder verschlucken ihn. Vor dem Spiel lassen sich Seite, Geschwindigkeit und Musik einstellen. Die treibende Musik von Ben Daglish ist vielen besonders im Gedächtnis.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Andy Green · Grafik: Terry Lloyd · Musik: Ben Daglish",
+  "texts": {
+    "de": "Breakout-Variante mit gedrehtem Spielfeld: Der Schläger steht senkrecht am linken oder rechten Rand, der Ball fliegt waagerecht gegen die Steine. Sonderfelder bringen Klebeschläger, Mehrfachbälle, Bomben oder Extraleben, umherfliegende Gegner lenken den Ball ab oder verschlucken ihn. Vor dem Spiel lassen sich Seite, Geschwindigkeit und Musik einstellen. Die treibende Musik von Ben Daglish ist vielen besonders im Gedächtnis.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Andy Green · Grafik: Terry Lloyd · Musik: Ben Daglish",
+    "en": "Breakout variant with a rotated playfield: the bat stands vertically at the left or right edge, and the ball flies horizontally against the bricks. Special bricks provide a sticky bat, multiple balls, bombs or extra lives, and flying enemies deflect the ball or swallow it. Side, speed and music can be set before the game. Ben Daglish's driving music is particularly memorable for many.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without multi-loading.\n\nCode: Andy Green · Graphics: Terry Lloyd · Music: Ben Daglish"
+  },
+  "images": {
+    "sstitle": "images/51/51989b436d4e03c0f5a455196f8de6a448527c8e.png"
+  }
+}

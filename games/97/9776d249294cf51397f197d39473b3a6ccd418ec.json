@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "9776d249294cf51397f197d39473b3a6ccd418ec",
+  "md5": "cc7ba914a67e5129168f7307b572d1ff",
+  "crc32": "4ad474c1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "RMC.D64"
+  ],
+  "screenscraper_id": "114720",
+  "title": "Revenge of the Mutant Camels",
+  "year": "1984",
+  "publisher": "Llamasoft",
+  "developer": "Jeff Minter",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "In der Fortsetzung von Attack of the Mutant Camels steuert der Spieler selbst ein riesiges, laserspuckendes Kamel durch waagerecht scrollende Landschaften. Die Gegner sind absichtlich absurd – Alltagsgegenstände, Tiere und andere skurrile Erscheinungen fliegen in Wellen heran. Das Kamel kann springen und schießt in Laufrichtung. Typisch Minter ist das Spiel voller Humor, britischer Anspielungen und schneller Action.\n\nErschienen bei Llamasoft für den C64 auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jeff Minter",
+  "texts": {
+    "de": "In der Fortsetzung von Attack of the Mutant Camels steuert der Spieler selbst ein riesiges, laserspuckendes Kamel durch waagerecht scrollende Landschaften. Die Gegner sind absichtlich absurd – Alltagsgegenstände, Tiere und andere skurrile Erscheinungen fliegen in Wellen heran. Das Kamel kann springen und schießt in Laufrichtung. Typisch Minter ist das Spiel voller Humor, britischer Anspielungen und schneller Action.\n\nErschienen bei Llamasoft für den C64 auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jeff Minter",
+    "en": "In the sequel to Attack of the Mutant Camels, the player controls a giant, laser-spitting camel through horizontally scrolling landscapes. The enemies are deliberately absurd – everyday objects, animals and other bizarre apparitions fly in in waves. The camel can jump and shoots in the direction it is walking. Typical of Minter, the game is full of humour, British references and fast action.\n\nReleased by Llamasoft for the C64 on cassette and disk. Controlled with a joystick. Besides the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nCode: Jeff Minter"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c426cd4d4984d5a5a3f651f388442685195f8613",
+  "md5": "ce73f7594f34fd75f3594ad959d9200c",
+  "crc32": "cd8215c4",
+  "size": 8272,
+  "format": "CRT",
+  "files": [
+    "Centipede.crt"
+  ],
+  "screenscraper_id": "36162",
+  "title": "Centipede",
+  "year": "1983",
+  "publisher": "Atarisoft",
+  "developer": "Atarisoft",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Atari-Automaten von 1981: Ein Tausendfüßler schlängelt sich durch ein Pilzfeld nach unten, bei jedem Treffer zerfällt er in Teile, die eigenständig weiterkriechen. Spinnen, Flöhe und Skorpione erschweren das Spiel, die Pilze dienen als Hindernisse und Deckung. Centipede gehörte zu den erfolgreichsten Automaten der frühen 1980er.\n\nErschien als Modul von Atarisoft. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nEntwurf (Automat): Ed Logg, Dona Bailey",
+  "texts": {
+    "de": "Umsetzung des Atari-Automaten von 1981: Ein Tausendfüßler schlängelt sich durch ein Pilzfeld nach unten, bei jedem Treffer zerfällt er in Teile, die eigenständig weiterkriechen. Spinnen, Flöhe und Skorpione erschweren das Spiel, die Pilze dienen als Hindernisse und Deckung. Centipede gehörte zu den erfolgreichsten Automaten der frühen 1980er.\n\nErschien als Modul von Atarisoft. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nEntwurf (Automat): Ed Logg, Dona Bailey",
+    "en": "Conversion of the 1981 Atari arcade game: a centipede snakes its way down through a mushroom field; with every hit it breaks into segments that crawl on independently. Spiders, fleas and scorpions make the game harder, and the mushrooms serve as obstacles and cover. Centipede was one of the most successful arcade games of the early 1980s.\n\nReleased as a cartridge by Atarisoft. Controlled with the joystick; two players take turns.\n\nDesign (arcade): Ed Logg, Dona Bailey"
+  }
+}

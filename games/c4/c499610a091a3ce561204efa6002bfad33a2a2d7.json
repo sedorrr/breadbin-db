@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Umsetzung des Sega-Automaten: Mit einem Enduro-Motorrad fährt man aus der Sicht hinter dem Fahrer über holprige Geländestrecken, nimmt Hügel als Sprungschanzen, weicht Hindernissen und anderen Fahrern aus und muss jeden Abschnitt vor Ablauf der Zeit schaffen.\n\nCrack von The Lightforce (TLF) mit einem Trainer, Highscore-Speicher und Ladebild; die Anleitung liegt in zwei Dateien auf der Diskette. Joystick in Port 2, englisch, PAL.\n\nCode: Nick Pelling · Musik: David Whittaker",
+  "texts": {
+    "de": "Umsetzung des Sega-Automaten: Mit einem Enduro-Motorrad fährt man aus der Sicht hinter dem Fahrer über holprige Geländestrecken, nimmt Hügel als Sprungschanzen, weicht Hindernissen und anderen Fahrern aus und muss jeden Abschnitt vor Ablauf der Zeit schaffen.\n\nCrack von The Lightforce (TLF) mit einem Trainer, Highscore-Speicher und Ladebild; die Anleitung liegt in zwei Dateien auf der Diskette. Joystick in Port 2, englisch, PAL.\n\nCode: Nick Pelling · Musik: David Whittaker",
+    "en": "Conversion of the Sega arcade game: riding an enduro motorbike, seen from behind the rider, the player races over bumpy off-road tracks, uses hills as ramps, avoids obstacles and other riders and has to complete each section before time runs out.\n\nCrack by The Lightforce (TLF) with one trainer, high-score saving and loading picture; the instructions are in two files on the disk. Joystick in port 2, English, PAL.\n\nCode: Nick Pelling · Music: David Whittaker"
+  },
   "images": {
     "ss": "images/b4/b4f878c3b2c2ea966b2282cd2a25feb02abca654.png"
   }

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "a58f9de877c027fda72cdbc90b4e5387f2f4290e",
+  "md5": "c48ffe723f8d6cfaff8ec1dd66e12436",
+  "crc32": "7ed4097a",
+  "size": 772712,
+  "format": "TAP",
+  "files": [
+    "Samurai Warrior - The Battles of Usagi Yojimbo.tap"
+  ],
+  "screenscraper_id": "110615",
+  "title": "Samurai Warrior: The Battles of Usagi Yojimbo",
+  "year": "1988",
+  "publisher": "Firebird",
+  "developer": "Beam Software",
+  "genres": [
+    "Action / Abenteuer",
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Ein Actionspiel nach den Comics von Stan Sakai: Der Hasen-Samurai Usagi Yojimbo zieht durch das feudale Japan, um seinen entführten Herrn zu befreien. Unterwegs trifft er auf Bauern, Händler und Gegner und muss entscheiden, ob er sich verbeugt, Almosen gibt oder das Schwert zieht. Unnötige Gewalt kostet Ansehen (Karma), Feigheit ebenso – diese Verbindung aus Kampf und Verhaltensregeln hebt das Spiel von üblichen Prügelspielen ab.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Doug Palmer, Paul Kidd, Russel Comte · Musik: Neil Brennan",
+  "texts": {
+    "de": "Ein Actionspiel nach den Comics von Stan Sakai: Der Hasen-Samurai Usagi Yojimbo zieht durch das feudale Japan, um seinen entführten Herrn zu befreien. Unterwegs trifft er auf Bauern, Händler und Gegner und muss entscheiden, ob er sich verbeugt, Almosen gibt oder das Schwert zieht. Unnötige Gewalt kostet Ansehen (Karma), Feigheit ebenso – diese Verbindung aus Kampf und Verhaltensregeln hebt das Spiel von üblichen Prügelspielen ab.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Doug Palmer, Paul Kidd, Russel Comte · Musik: Neil Brennan",
+    "en": "An action game based on Stan Sakai's comics: the rabbit samurai Usagi Yojimbo travels through feudal Japan to free his kidnapped lord. Along the way he meets peasants, merchants and enemies and has to decide whether to bow, give alms or draw his sword. Unnecessary violence costs standing (karma), and so does cowardice – this combination of combat and rules of conduct sets the game apart from typical beat 'em ups.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: Doug Palmer, Paul Kidd, Russel Comte · Music: Neil Brennan"
+  },
+  "images": {
+    "ss": "images/77/770b86d04a4fbcca038042ed0bf0bd7ec76d4c48.png",
+    "sstitle": "images/67/67b5c57427cad4e2c291e627f6da44c28584247a.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "8ef52bfb0d52d13074abdd9df93730ca23ceafe1",
+  "md5": "036909ac2dbedc273a2b2cb0474e3dda",
+  "crc32": "5e241107",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "H.E.R.O.crt"
+  ],
+  "screenscraper_id": "36113",
+  "title": "H.E.R.O.",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "John Van Ryzin (C64: The Softworks)",
+  "genres": [
+    "Action / Labyrinth",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Als Retter Roderick Hero steigt man mit Propellerrucksack und Helmlaser in ein Bergwerk hinab, um eingeschlossene Bergleute zu befreien. Wände lassen sich mit Dynamit sprengen, Fledermäuse, Spinnen und andere Gefahren mit dem Laser abwehren; Lava und ein knapper Energievorrat setzen unter Druck. Klare Regeln und gut durchdachte Schächte machten das ursprünglich für das Atari 2600 entworfene Spiel zu einem Klassiker von Activision.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nDesign: John Van Ryzin",
+  "texts": {
+    "de": "Als Retter Roderick Hero steigt man mit Propellerrucksack und Helmlaser in ein Bergwerk hinab, um eingeschlossene Bergleute zu befreien. Wände lassen sich mit Dynamit sprengen, Fledermäuse, Spinnen und andere Gefahren mit dem Laser abwehren; Lava und ein knapper Energievorrat setzen unter Druck. Klare Regeln und gut durchdachte Schächte machten das ursprünglich für das Atari 2600 entworfene Spiel zu einem Klassiker von Activision.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nDesign: John Van Ryzin",
+    "en": "As rescuer Roderick Hero, you descend into a mine with a propeller backpack and helmet laser to free trapped miners. Walls can be blasted with dynamite, bats, spiders and other dangers fended off with the laser; lava and a scarce energy supply keep up the pressure. Clear rules and well-designed shafts made this game, originally designed for the Atari 2600, an Activision classic.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading.\n\nDesign: John Van Ryzin"
+  },
+  "images": {
+    "ss": "images/05/050e4539c6cd7eef73ce92d8582644f37caa5ae6.png",
+    "sstitle": "images/b6/b6bef4873fc0dae78c6d9e9bc1b83a3af08f9aae.png"
+  }
+}

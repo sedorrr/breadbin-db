@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "67e5f745702eecbb13a29b307cf1206811dea2e4",
+  "md5": "3b0196ca780a5ed9a3808df8ba8ba60e",
+  "crc32": "6105bbcc",
+  "size": 403280,
+  "format": "TAP",
+  "files": [
+    "Paradroid (Version 1).tap"
+  ],
+  "screenscraper_id": "36288",
+  "title": "Paradroid",
+  "year": "1985",
+  "publisher": "Hewson",
+  "developer": "Andrew Braybrook (Graftgold)",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Auf einem Raumschiffverband sind die Roboter außer Kontrolle geraten, und der Spieler steuert eine kleine Influence Unit, die das Deck für Deck bereinigen soll. Neben Schießen kann die Einheit andere Roboter übernehmen: Dazu wird ein kurzes Schaltkreis-Duell gegen die Zeit gewonnen, danach stehen die Fähigkeiten des übernommenen Roboters zur Verfügung. Die Draufsicht und das Übernahmeprinzip machen Paradroid zu einem der eigenständigsten C64-Spiele.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode, Grafik, Sound: Andrew Braybrook",
+  "texts": {
+    "de": "Auf einem Raumschiffverband sind die Roboter außer Kontrolle geraten, und der Spieler steuert eine kleine Influence Unit, die das Deck für Deck bereinigen soll. Neben Schießen kann die Einheit andere Roboter übernehmen: Dazu wird ein kurzes Schaltkreis-Duell gegen die Zeit gewonnen, danach stehen die Fähigkeiten des übernommenen Roboters zur Verfügung. Die Draufsicht und das Übernahmeprinzip machen Paradroid zu einem der eigenständigsten C64-Spiele.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode, Grafik, Sound: Andrew Braybrook",
+    "en": "On a fleet of spaceships the robots have run out of control, and the player steers a small Influence Unit that is to clear them deck by deck. Besides shooting, the unit can take over other robots: this requires winning a short circuit duel against the clock, after which the abilities of the captured robot become available. The top-down view and the takeover concept make Paradroid one of the most original C64 games.\n\nThis file contains the game as a tape image (TAP); several versions exist (original, conversions, cracks).\n\nCode, graphics, sound: Andrew Braybrook"
+  },
+  "images": {
+    "ss": "images/f4/f44acb473b232edd2b48d42a83103074281bd96b.png",
+    "sstitle": "images/50/50a39a64478766d2cce7dd3d5a305b2833c39ab2.png"
+  }
+}

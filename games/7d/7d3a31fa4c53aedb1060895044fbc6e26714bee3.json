@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "7d3a31fa4c53aedb1060895044fbc6e26714bee3",
+  "md5": "e3be2b02f269c65f795f81cb9414f277",
+  "crc32": "c1f734cd",
+  "size": 719393,
+  "format": "TAP",
+  "files": [
+    "Bomb Jack II.tap"
+  ],
+  "screenscraper_id": "36441",
+  "title": "Bomb Jack II",
+  "year": "1987",
+  "publisher": "Elite",
+  "developer": "Elite Systems",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "Eigenständige Fortsetzung des Automaten Bomb Jack, die nicht auf einem Automatenspiel beruht. Jack bewegt sich sprunghaft von Plattform zu Plattform und sammelt auf jedem Bildschirm Schätze ein, während Gegner patrouillieren. Das Prinzip unterscheidet sich deutlich vom frei fliegenden Vorgänger.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Mike Hutchinson · Grafik: Karen Trueman · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Eigenständige Fortsetzung des Automaten Bomb Jack, die nicht auf einem Automatenspiel beruht. Jack bewegt sich sprunghaft von Plattform zu Plattform und sammelt auf jedem Bildschirm Schätze ein, während Gegner patrouillieren. Das Prinzip unterscheidet sich deutlich vom frei fliegenden Vorgänger.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Mike Hutchinson · Grafik: Karen Trueman · Musik: Mark Cooksey",
+    "en": "Independent sequel to the arcade game Bomb Jack, not based on an arcade game itself. Jack moves in leaps from platform to platform and collects treasure on each screen while enemies patrol. The concept differs markedly from the free-flying predecessor.\n\nReleased on tape and disk; there is also a OneLoad64 cartridge conversion. Controlled with the joystick.\n\nCode: Mike Hutchinson · Graphics: Karen Trueman · Music: Mark Cooksey"
+  }
+}

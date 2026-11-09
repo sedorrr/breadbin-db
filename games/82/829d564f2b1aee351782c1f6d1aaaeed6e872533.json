@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "829d564f2b1aee351782c1f6d1aaaeed6e872533",
+  "md5": "213ccaa2d93803ef62b4162ee7492606",
+  "crc32": "b20c8f67",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LEMMING2.D64"
+  ],
+  "screenscraper_id": "35832",
+  "title": "Lemmings",
+  "year": "1993",
+  "publisher": "Psygnosis",
+  "developer": "E&E Software; Original: DMA Design",
+  "genres": [
+    "Puzzle",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Eine Schar Lemminge marschiert stur geradeaus, und der Spieler muss einen vorgegebenen Anteil sicher zum Ausgang bringen. Dazu verteilt er begrenzte Fähigkeiten an einzelne Tiere: Blocker halten andere auf, Bauer legen Treppen, Gräber und Bohrer schaffen Durchgänge, Kletterer und Schirmflieger überwinden Höhen. Vier Schwierigkeitsstufen mit Passwörtern führen durch zunehmend knifflige Level. Die späte C64-Umsetzung des Amiga-Erfolgs von 1991 wurde damals hoch bewertet.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Thomas Mittelmeyer · Grafik: Leon van Rooy, Alain Jansen · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Eine Schar Lemminge marschiert stur geradeaus, und der Spieler muss einen vorgegebenen Anteil sicher zum Ausgang bringen. Dazu verteilt er begrenzte Fähigkeiten an einzelne Tiere: Blocker halten andere auf, Bauer legen Treppen, Gräber und Bohrer schaffen Durchgänge, Kletterer und Schirmflieger überwinden Höhen. Vier Schwierigkeitsstufen mit Passwörtern führen durch zunehmend knifflige Level. Die späte C64-Umsetzung des Amiga-Erfolgs von 1991 wurde damals hoch bewertet.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Thomas Mittelmeyer · Grafik: Leon van Rooy, Alain Jansen · Musik: Jeroen Tel",
+    "en": "A horde of lemmings marches stubbornly straight ahead, and the player has to bring a set proportion of them safely to the exit. To do so, he assigns limited skills to individual animals: blockers stop others, builders lay stairs, diggers and miners create passages, climbers and floaters overcome heights. Four difficulty levels with passwords lead through increasingly tricky levels. The late C64 conversion of the 1991 Amiga hit was highly rated at the time.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Thomas Mittelmeyer · Graphics: Leon van Rooy, Alain Jansen · Music: Jeroen Tel"
+  },
+  "images": {
+    "sstitle": "images/d4/d4f1127365f6edcebee419da918b62300b440d12.png"
+  }
+}

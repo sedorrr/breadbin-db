@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "733acac3d5cf9eff7ff5303618f237c770b01d33",
+  "md5": "a1982a439ae2e2c858dfea4712f17327",
+  "crc32": "beadc43c",
+  "size": 172432,
+  "format": "CRT",
+  "files": [
+    "Target Renegade (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36224",
+  "title": "Target: Renegade",
+  "year": "1988",
+  "publisher": "Imagine",
+  "developer": "Imagine",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Der Nachfolger von Renegade ist eine eigene Entwicklung ohne Automatenvorlage: Der Held will seinen Bruder rächen und kämpft sich durch mehrere Abschnitte, beginnend in einem Parkhaus, durch die Stadt bis zum Versteck des Gangsterbosses. Unterwegs lassen sich Waffen der Gegner aufheben. Die Kämpfe sind schneller und abwechslungsreicher als im ersten Teil.\n\nImagine brachte die C64-Fassung auf Kassette und Diskette heraus; die Szene machte daraus auch eine Modulfassung. Am C64 spielt man allein, gesteuert wird mit dem Joystick in Port 1.\n\nCode: David A. Collier · Grafik: John Palmer, Martin McDonald · Musik: Gary Biasillo",
+  "texts": {
+    "de": "Der Nachfolger von Renegade ist eine eigene Entwicklung ohne Automatenvorlage: Der Held will seinen Bruder rächen und kämpft sich durch mehrere Abschnitte, beginnend in einem Parkhaus, durch die Stadt bis zum Versteck des Gangsterbosses. Unterwegs lassen sich Waffen der Gegner aufheben. Die Kämpfe sind schneller und abwechslungsreicher als im ersten Teil.\n\nImagine brachte die C64-Fassung auf Kassette und Diskette heraus; die Szene machte daraus auch eine Modulfassung. Am C64 spielt man allein, gesteuert wird mit dem Joystick in Port 1.\n\nCode: David A. Collier · Grafik: John Palmer, Martin McDonald · Musik: Gary Biasillo",
+    "en": "The successor to Renegade is an original development without an arcade basis: the hero wants to avenge his brother and fights through several sections, starting in a multi-storey car park, through the city to the gang boss's hideout. Enemies' weapons can be picked up along the way. The fights are faster and more varied than in the first instalment.\n\nImagine released the C64 version on tape and disk; the scene also turned it into a cartridge version. On the C64 the game is single-player, controlled with the joystick in port 1.\n\nCode: David A. Collier · Graphics: John Palmer, Martin McDonald · Music: Gary Biasillo"
+  }
+}

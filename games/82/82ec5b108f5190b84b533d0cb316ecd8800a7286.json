@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "82ec5b108f5190b84b533d0cb316ecd8800a7286",
+  "md5": "144828b2686b9c3875f31ea5054345c6",
+  "crc32": "21838b18",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Bounder on the Rebound.crt"
+  ],
+  "screenscraper_id": "134471",
+  "title": "Bounder on the Rebound",
+  "year": "1986",
+  "publisher": "Gremlin Graphics",
+  "developer": "Christian P. Shrigley, Andrew Green",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Man steuert einen hüpfenden Tennisball, von oben gesehen, über Strecken aus Platten hoch über dem Boden. Wände, Gegner und Abstürze kosten Leben; Sprungfelder ermöglichen weite Sätze, Fragezeichenfelder bringen Extras oder Gefahren. Nach jeder Strecke folgt ein Bonusbildschirm. Bounder war 1985 eines der ersten großen Spiele von Gremlin und verlangt Übersicht und genaues Timing.\n\nDie Datei enthält „Bounder on the Rebound“, eine überarbeitete Fassung von Bounder mit einigen behobenen Fehlern. Diese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nEntwicklung: Christian P. Shrigley, Andrew Green",
+  "texts": {
+    "de": "Man steuert einen hüpfenden Tennisball, von oben gesehen, über Strecken aus Platten hoch über dem Boden. Wände, Gegner und Abstürze kosten Leben; Sprungfelder ermöglichen weite Sätze, Fragezeichenfelder bringen Extras oder Gefahren. Nach jeder Strecke folgt ein Bonusbildschirm. Bounder war 1985 eines der ersten großen Spiele von Gremlin und verlangt Übersicht und genaues Timing.\n\nDie Datei enthält „Bounder on the Rebound“, eine überarbeitete Fassung von Bounder mit einigen behobenen Fehlern. Diese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nEntwicklung: Christian P. Shrigley, Andrew Green",
+    "en": "The player controls a bouncing tennis ball, seen from above, across courses made of slabs high above the ground. Walls, enemies and falls cost lives; jump pads allow long leaps, and question-mark tiles bring power-ups or hazards. Each course is followed by a bonus screen. In 1985 Bounder was one of Gremlin's first big games and demands overview and precise timing.\n\nThe file contains \"Bounder on the Rebound\", a revised version of Bounder with a number of bugs fixed. This version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without multi-loading.\n\nDevelopment: Christian P. Shrigley, Andrew Green"
+  },
+  "images": {
+    "ss": "images/c9/c9609cf18b7bb14a720130bb042962db76c2edc5.png",
+    "sstitle": "images/78/780c978d84187bd472fd309045449ffbb1be465c.png"
+  }
+}

@@ -18,6 +18,10 @@
   ],
   "players": "1-2",
   "synopsis": "Umsetzung des Atari-Automaten: Krieger, Walküre, Zauberer und Elf kämpfen sich durch Verliese voller Geister, Dämonen und Generatoren, sammeln Schätze, Schlüssel und Essen und suchen den Ausgang zur nächsten Ebene. Zu zweit gleichzeitig.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im Juli 2023. Der zweite Feuerknopf löst die Magie (Zaubertrank) aus, die im Original auf der Tastatur liegt. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "texts": {
+    "de": "Umsetzung des Atari-Automaten: Krieger, Walküre, Zauberer und Elf kämpfen sich durch Verliese voller Geister, Dämonen und Generatoren, sammeln Schätze, Schlüssel und Essen und suchen den Ausgang zur nächsten Ebene. Zu zweit gleichzeitig.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im Juli 2023. Der zweite Feuerknopf löst die Magie (Zaubertrank) aus, die im Original auf der Tastatur liegt. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+    "en": "Conversion of the Atari arcade machine: Warrior, Valkyrie, Wizard and Elf fight their way through dungeons full of ghosts, demons and generators, collect treasure, keys and food and look for the exit to the next level. Two players simultaneously.\n\nConversion by CrystalCT, published on GitHub in July 2023. The second fire button triggers magic (potion), which in the original is on the keyboard. A joystick with a second fire button in the style of the C64GS is required (second button on POTX, third on POTY, e.g. Cheetah Annihilator, a suitably modified stick or CrystalCT's 5+1-button joystick); VICE can emulate the second button."
+  },
   "images": {
     "sstitle": "images/cd/cd2f4c9c0eacb0502ff4baee5e0dff0724f42346.png"
   }

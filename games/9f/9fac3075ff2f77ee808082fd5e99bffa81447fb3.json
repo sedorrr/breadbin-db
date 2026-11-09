@@ -19,6 +19,10 @@
   ],
   "players": "1",
   "synopsis": "Spiel nach dem Vorbild von Centipede: Der Tausendfüßler ruckelt Zeichen für Zeichen über den Bildschirm und wird von unten abgeschossen. Die Pro-Fassung stellt dem Hauptspiel einen Trainingsteil voran, einen Kampf gegen einen Riesenkäfer. Entstanden aus Resten eines anderen Projekts.\n\nSteuerung wahlweise mit Joystick oder Tastatur (Auswahl im Menü), Schild auf der Commodore-Taste, Musik und Effekte über F-Tasten umschaltbar. Disk-Fassung. Der Autor verkauft das Spiel auf itch.io zusammen mit dem Quellcode und einer Fassung mit Trainer.\n\nCode: Milasoft · Musik: Richard Bayliss · Sprites: Hend",
+  "texts": {
+    "de": "Spiel nach dem Vorbild von Centipede: Der Tausendfüßler ruckelt Zeichen für Zeichen über den Bildschirm und wird von unten abgeschossen. Die Pro-Fassung stellt dem Hauptspiel einen Trainingsteil voran, einen Kampf gegen einen Riesenkäfer. Entstanden aus Resten eines anderen Projekts.\n\nSteuerung wahlweise mit Joystick oder Tastatur (Auswahl im Menü), Schild auf der Commodore-Taste, Musik und Effekte über F-Tasten umschaltbar. Disk-Fassung. Der Autor verkauft das Spiel auf itch.io zusammen mit dem Quellcode und einer Fassung mit Trainer.\n\nCode: Milasoft · Musik: Richard Bayliss · Sprites: Hend",
+    "en": "Game modelled on Centipede: the centipede jerks across the screen one character at a time and is shot from below. The Pro version precedes the main game with a training section, a fight against a giant beetle. Created from leftovers of another project.\n\nControlled with either joystick or keyboard (selected in the menu), shield on the Commodore key, music and effects switchable via the function keys. Disk version. The author sells the game on itch.io together with the source code and a version with a trainer.\n\nCode: Milasoft · Music: Richard Bayliss · Sprites: Hend"
+  },
   "images": {
     "ss": "images/08/08609e4b620a70c0c5d545d9930ff827728a2fe2.png"
   }

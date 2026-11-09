@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "9b3ad8c49f4e9f7feee4c4196785fcf4081adf7b",
+  "md5": "4a590e79bd10a2405936afeee20f9623",
+  "crc32": "8a7b6087",
+  "size": 788032,
+  "format": "CRT",
+  "files": [
+    "Lemmings (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35832",
+  "title": "Lemmings",
+  "year": "1993",
+  "publisher": "Psygnosis",
+  "developer": "E&E Software; Original: DMA Design",
+  "genres": [
+    "Puzzle",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Eine Schar Lemminge marschiert stur geradeaus, und der Spieler muss einen vorgegebenen Anteil sicher zum Ausgang bringen. Dazu verteilt er begrenzte Fähigkeiten an einzelne Tiere: Blocker halten andere auf, Bauer legen Treppen, Gräber und Bohrer schaffen Durchgänge, Kletterer und Schirmflieger überwinden Höhen. Vier Schwierigkeitsstufen mit Passwörtern führen durch zunehmend knifflige Level. Die späte C64-Umsetzung des Amiga-Erfolgs von 1991 wurde damals hoch bewertet.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Thomas Mittelmeyer · Grafik: Leon van Rooy, Alain Jansen · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Eine Schar Lemminge marschiert stur geradeaus, und der Spieler muss einen vorgegebenen Anteil sicher zum Ausgang bringen. Dazu verteilt er begrenzte Fähigkeiten an einzelne Tiere: Blocker halten andere auf, Bauer legen Treppen, Gräber und Bohrer schaffen Durchgänge, Kletterer und Schirmflieger überwinden Höhen. Vier Schwierigkeitsstufen mit Passwörtern führen durch zunehmend knifflige Level. Die späte C64-Umsetzung des Amiga-Erfolgs von 1991 wurde damals hoch bewertet.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Thomas Mittelmeyer · Grafik: Leon van Rooy, Alain Jansen · Musik: Jeroen Tel",
+    "en": "A crowd of lemmings marches stubbornly straight ahead, and the player has to bring a specified proportion of them safely to the exit. To do so, limited skills are assigned to individual lemmings: blockers stop others, builders lay stairs, diggers and miners create passages, climbers and floaters overcome heights. Four difficulty levels with passwords lead through increasingly tricky levels. The late C64 conversion of the 1991 Amiga hit was highly rated at the time.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the multi-load parts of the original come from the cartridge instead of from disk.\n\nCode: Thomas Mittelmeyer · Graphics: Leon van Rooy, Alain Jansen · Music: Jeroen Tel"
+  },
+  "images": {
+    "sstitle": "images/d4/d4f1127365f6edcebee419da918b62300b440d12.png"
+  }
+}

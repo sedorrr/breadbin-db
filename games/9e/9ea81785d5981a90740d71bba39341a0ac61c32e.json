@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "9ea81785d5981a90740d71bba39341a0ac61c32e",
+  "md5": "875187d818ce21f28a15ba0bb1b5ed87",
+  "crc32": "d6945721",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Rick Dangerous.crt"
+  ],
+  "screenscraper_id": "35866",
+  "title": "Rick Dangerous",
+  "year": "1989",
+  "publisher": "Firebird",
+  "developer": "Core Design (Stuart Gregg)",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Der Abenteurer Rick Dangerous kämpft sich durch vier Abschnitte mit zusammen rund 80 Räumen, vom Dschungeltempel bis zur feindlichen Festung. Das Spiel lebt von zahllosen versteckten Fallen, die man meist erst durch Scheitern kennenlernt, und verlangt genaues Springen und gutes Timing. Gegen Gegner helfen eine Pistole und Dynamit mit knappem Vorrat sowie ein Stock zum Betäuben. Der schwarze Humor und der hohe Schwierigkeitsgrad machten es zu einem viel gespielten Spiel der späten 80er.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Stuart Gregg · Musik: Dave Pridmore",
+  "texts": {
+    "de": "Der Abenteurer Rick Dangerous kämpft sich durch vier Abschnitte mit zusammen rund 80 Räumen, vom Dschungeltempel bis zur feindlichen Festung. Das Spiel lebt von zahllosen versteckten Fallen, die man meist erst durch Scheitern kennenlernt, und verlangt genaues Springen und gutes Timing. Gegen Gegner helfen eine Pistole und Dynamit mit knappem Vorrat sowie ein Stock zum Betäuben. Der schwarze Humor und der hohe Schwierigkeitsgrad machten es zu einem viel gespielten Spiel der späten 80er.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Stuart Gregg · Musik: Dave Pridmore",
+    "en": "The adventurer Rick Dangerous fights his way through four sections with around 80 rooms in total, from a jungle temple to an enemy fortress. The game thrives on countless hidden traps, which are usually only discovered by failing, and demands precise jumping and good timing. A pistol and dynamite in short supply, as well as a stick for stunning, help against enemies. Its black humour and high difficulty made it a much-played game of the late 80s.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: Stuart Gregg · Music: Dave Pridmore"
+  },
+  "images": {
+    "sstitle": "images/2a/2a4fbbb1149ac1a44c8e6a8557b2c29c589010c5.png"
+  }
+}

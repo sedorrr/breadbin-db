@@ -14,6 +14,10 @@
   ],
   "players": "1",
   "synopsis": "Kleines Weltraum-Ballerspiel nach dem Vorbild des Konami-Automaten Scramble, laut Crack-Intro ein Spiel aus den 1980er Jahren, das in GameBase64 noch fehlt. Ein zusätzliches Schiff gibt es bei 2000 Punkten und danach alle 4000 Punkte.\n\nNur 16 Blöcke groß. Im Original wird mit F1 (hoch) und SHIFT (Feuer) gespielt; die Gruppe Swimmers (September 2026, Original: Radd Maxx) hat einen Trainer für unbegrenzte Leben und eine Joystick-Option für Port 2 (oben/Knopf) ergänzt (Dumpster Diver).",
+  "texts": {
+    "de": "Kleines Weltraum-Ballerspiel nach dem Vorbild des Konami-Automaten Scramble, laut Crack-Intro ein Spiel aus den 1980er Jahren, das in GameBase64 noch fehlt. Ein zusätzliches Schiff gibt es bei 2000 Punkten und danach alle 4000 Punkte.\n\nNur 16 Blöcke groß. Im Original wird mit F1 (hoch) und SHIFT (Feuer) gespielt; die Gruppe Swimmers (September 2026, Original: Radd Maxx) hat einen Trainer für unbegrenzte Leben und eine Joystick-Option für Port 2 (oben/Knopf) ergänzt (Dumpster Diver).",
+    "en": "Small space shooter modelled on the Konami arcade game Scramble; according to the crack intro, a game from the 1980s that is still missing from GameBase64. An extra ship is awarded at 2000 points and every 4000 points thereafter.\n\nOnly 16 blocks in size. In the original the game is played with F1 (up) and SHIFT (fire); the group Swimmers (September 2026, original: Radd Maxx) added a trainer for unlimited lives and a joystick option for port 2 (up/button) (Dumpster Diver)."
+  },
   "images": {
     "sstitle": "images/be/be2692249996a0cb06bc7e061d6fc904f91833db.png"
   }

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a6721cdca81d07a3b03d69bec06521ce091089de",
+  "md5": "d9c339ecdf8c4ac823bd5b828c58c864",
+  "crc32": "7bfd6812",
+  "size": 582832,
+  "format": "CRT",
+  "files": [
+    "Neuromancer.crt",
+    "Neuromancer (Interplay 1988) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35937",
+  "title": "Neuromancer",
+  "year": "1988",
+  "publisher": "Electronic Arts",
+  "developer": "Interplay Productions",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Ein Grafikabenteuer nach dem gleichnamigen Roman von William Gibson. Der Spieler ist ein mittelloser Datenhändler in Chiba City, der herausfinden muss, warum Hacker spurlos verschwinden. Er sammelt Informationen in der realen Welt, kauft Software und Ausrüstung und dringt schließlich in den Cyberspace ein, wo er gegen die Sicherungen der Datenbanken und künstliche Intelligenzen antritt. Viel Humor, eine offene Spielwelt und die Titelmusik nach einem Devo-Stück machen es zu einem besonderen Titel von Interplay.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nDesign: Bruce Balfour, Brian Fargo, Troy A. Miles, Michael A. Stackpole · Musik: David Warhol, Kurt Heiden (nach Devo, „Some Things Never Change“)",
+  "texts": {
+    "de": "Ein Grafikabenteuer nach dem gleichnamigen Roman von William Gibson. Der Spieler ist ein mittelloser Datenhändler in Chiba City, der herausfinden muss, warum Hacker spurlos verschwinden. Er sammelt Informationen in der realen Welt, kauft Software und Ausrüstung und dringt schließlich in den Cyberspace ein, wo er gegen die Sicherungen der Datenbanken und künstliche Intelligenzen antritt. Viel Humor, eine offene Spielwelt und die Titelmusik nach einem Devo-Stück machen es zu einem besonderen Titel von Interplay.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nDesign: Bruce Balfour, Brian Fargo, Troy A. Miles, Michael A. Stackpole · Musik: David Warhol, Kurt Heiden (nach Devo, „Some Things Never Change“)",
+    "en": "A graphic adventure based on William Gibson's novel of the same name. The player is a penniless data dealer in Chiba City who has to find out why hackers are disappearing without trace. He gathers information in the real world, buys software and equipment and finally enters cyberspace, where he takes on the databases' security systems and artificial intelligences. Plenty of humour, an open game world and title music based on a Devo song make it a special title from Interplay.\n\nThis version is a conversion as an EasyFlash cartridge and runs without a disk.\n\nDesign: Bruce Balfour, Brian Fargo, Troy A. Miles, Michael A. Stackpole · Music: David Warhol, Kurt Heiden (after Devo, \"Some Things Never Change\")"
+  },
+  "images": {
+    "sstitle": "images/1b/1bf268931a289e4b1b8741191f242551f77b0d5c.png"
+  }
+}

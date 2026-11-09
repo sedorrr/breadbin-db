@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Der Ritter Randolph durchsucht in seiner Rüstung ein abgestürztes Raumschiff und einen Planeten nach der entführten Prinzessin Amelia, kämpft gegen Roboter und Wachen und braucht bestimmte Gegenstände, um weiterzukommen.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im August 2023. Der zweite Feuerknopf wechselt den getragenen Gegenstand. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+  "texts": {
+    "de": "Der Ritter Randolph durchsucht in seiner Rüstung ein abgestürztes Raumschiff und einen Planeten nach der entführten Prinzessin Amelia, kämpft gegen Roboter und Wachen und braucht bestimmte Gegenstände, um weiterzukommen.\n\nUmbau von CrystalCT, auf GitHub veröffentlicht im August 2023. Der zweite Feuerknopf wechselt den getragenen Gegenstand. Nötig ist ein Joystick mit zweitem Feuerknopf nach Art des C64GS (zweiter Knopf an POTX, dritter an POTY, z. B. Cheetah Annihilator, ein entsprechend umgebauter Stick oder CrystalCTs 5+1-Knopf-Joystick); VICE kann den zweiten Knopf nachbilden.",
+    "en": "The knight Randolph, in his armour, searches a crashed spaceship and a planet for the kidnapped Princess Amelia, fights robots and guards and needs certain items to progress.\n\nModification by CrystalCT, published on GitHub in August 2023. The second fire button switches the item being carried. A joystick with a second fire button in the style of the C64GS is required (second button on POTX, third on POTY, e.g. Cheetah Annihilator, a suitably modified stick or CrystalCT's 5+1-button joystick); VICE can emulate the second button."
+  },
   "images": {
     "ss": "images/24/24ffbf33dac48b2c3495df50454c81920c0ba025.png",
     "sstitle": "images/2e/2eb71ca89c028d4a196f461a1edefde0524ca462.png"

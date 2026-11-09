@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "abc49a4edd9b47b6319b60bdbeff8cd902906ff1",
+  "md5": "21bb808f6e458677d0df9bac6f614529",
+  "crc32": "9f082c53",
+  "size": 303760,
+  "format": "CRT",
+  "files": [
+    "Platoon (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36170",
+  "title": "Platoon",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Das Spiel nach dem Vietnamkriegsfilm von Oliver Stone besteht aus mehreren sehr unterschiedlichen Abschnitten. Zuerst führt man einen Trupp durch den Dschungel und sucht Sprengstoff, dann ein Dorf; das anschließende Tunnelsystem wird aus der Ich-Perspektive erkundet. Es folgen eine nächtliche Verteidigung aus dem Unterstand und schließlich die Flucht durch den Dschungel. Für Abwechslung sorgt der häufige Wechsel von Ansicht und Spielweise.\n\nOcean brachte die C64-Fassung auf Kassette und Diskette heraus, in den USA erschien sie bei Data East. Gesteuert wird mit dem Joystick. Die Szene hat das Spiel auch als EasyFlash-Modul umgesetzt.\n\nCode: Zach Townsend · Grafik: Andrew Sleigh, Martin McDonald · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Das Spiel nach dem Vietnamkriegsfilm von Oliver Stone besteht aus mehreren sehr unterschiedlichen Abschnitten. Zuerst führt man einen Trupp durch den Dschungel und sucht Sprengstoff, dann ein Dorf; das anschließende Tunnelsystem wird aus der Ich-Perspektive erkundet. Es folgen eine nächtliche Verteidigung aus dem Unterstand und schließlich die Flucht durch den Dschungel. Für Abwechslung sorgt der häufige Wechsel von Ansicht und Spielweise.\n\nOcean brachte die C64-Fassung auf Kassette und Diskette heraus, in den USA erschien sie bei Data East. Gesteuert wird mit dem Joystick. Die Szene hat das Spiel auch als EasyFlash-Modul umgesetzt.\n\nCode: Zach Townsend · Grafik: Andrew Sleigh, Martin McDonald · Musik: Jonathan Dunn",
+    "en": "The game based on Oliver Stone's Vietnam War film consists of several very different sections. First you lead a squad through the jungle searching for explosives, then a village; the subsequent tunnel system is explored from a first-person perspective. This is followed by a night-time defence from a bunker and finally the escape through the jungle. The frequent changes of view and gameplay provide variety.\n\nOcean released the C64 version on cassette and disk; in the USA it was released by Data East. Controlled with a joystick. The scene has also converted the game to an EasyFlash cartridge.\n\nCode: Zach Townsend · Graphics: Andrew Sleigh, Martin McDonald · Music: Jonathan Dunn"
+  }
+}

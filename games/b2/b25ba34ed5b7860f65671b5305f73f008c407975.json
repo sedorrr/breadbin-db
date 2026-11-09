@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Spiel zum Film: Abwechselnd kämpft der T-800 gegen den T-1000, flieht auf dem Motorrad vor dem Lastwagen und repariert zwischendurch sein Gesicht bzw. seinen Arm in einem Schiebepuzzle.\n\nÜberarbeitung der Ocean-Modulfassung durch CrystalCT (Oktober 2022, im Spiel als „C64 GS fixed by CrystalCT“ bezeichnet), damit sie auf dem C64GS bzw. mit Pad ohne Tastatur läuft. Ocean-Modul (512 KB). Bildschirmtexte deutsch und englisch.\n\nOriginal: Dementia (Ocean, 1991) · Bearbeitung: CrystalCT",
+  "texts": {
+    "de": "Spiel zum Film: Abwechselnd kämpft der T-800 gegen den T-1000, flieht auf dem Motorrad vor dem Lastwagen und repariert zwischendurch sein Gesicht bzw. seinen Arm in einem Schiebepuzzle.\n\nÜberarbeitung der Ocean-Modulfassung durch CrystalCT (Oktober 2022, im Spiel als „C64 GS fixed by CrystalCT“ bezeichnet), damit sie auf dem C64GS bzw. mit Pad ohne Tastatur läuft. Ocean-Modul (512 KB). Bildschirmtexte deutsch und englisch.\n\nOriginal: Dementia (Ocean, 1991) · Bearbeitung: CrystalCT",
+    "en": "Game of the film: in alternating stages the T-800 fights the T-1000, flees on a motorbike from the lorry, and in between repairs his face or arm in a sliding puzzle.\n\nRework of the Ocean cartridge version by CrystalCT (October 2022, labelled in the game as “C64 GS fixed by CrystalCT”) so that it runs on the C64GS or with a pad without a keyboard. Ocean cartridge (512 KB). On-screen text in German and English.\n\nOriginal: Dementia (Ocean, 1991) · Rework: CrystalCT"
+  },
   "images": {
     "ss": "images/32/32c537a129fadb7994d6de043b0d57ba12facf0c.png",
     "sstitle": "images/b9/b9aaed7aa8336b70d0c3d991d82eecf99c9fd1fc.png"

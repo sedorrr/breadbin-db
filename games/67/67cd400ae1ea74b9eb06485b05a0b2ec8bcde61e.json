@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "67cd400ae1ea74b9eb06485b05a0b2ec8bcde61e",
+  "md5": "9a8964bd0efdd9efb404d0ab943d65ff",
+  "crc32": "bf960f0f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GHOSTNG1.D64"
+  ],
+  "screenscraper_id": "35822",
+  "title": "Ghosts 'n Goblins",
+  "year": "1986",
+  "publisher": "Elite",
+  "developer": "Elite Systems (Chris Butler)",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Capcom-Automaten: Der Ritter Arthur zieht los, um seine von einem Dämon entführte Freundin zu befreien. Durch Friedhöfe, Wälder und Burgen kämpft er sich mit Lanze, Fackel, Schwert oder Axt gegen Zombies, Teufel und andere Wesen; ein Treffer kostet die Rüstung, der zweite das Leben. Jeder Abschnitt hat ein Zeitlimit. Die C64-Fassung hat vier statt sieben Level, ist aber vor allem für ihre Musik bekannt.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode und Grafik: Chris Butler · Titelbild: Ste Pickford · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Umsetzung des Capcom-Automaten: Der Ritter Arthur zieht los, um seine von einem Dämon entführte Freundin zu befreien. Durch Friedhöfe, Wälder und Burgen kämpft er sich mit Lanze, Fackel, Schwert oder Axt gegen Zombies, Teufel und andere Wesen; ein Treffer kostet die Rüstung, der zweite das Leben. Jeder Abschnitt hat ein Zeitlimit. Die C64-Fassung hat vier statt sieben Level, ist aber vor allem für ihre Musik bekannt.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode und Grafik: Chris Butler · Titelbild: Ste Pickford · Musik: Mark Cooksey",
+    "en": "Conversion of the Capcom arcade game: the knight Arthur sets out to free his girlfriend, who has been abducted by a demon. Through graveyards, forests and castles he fights zombies, devils and other creatures with lance, torch, sword or axe; one hit costs his armour, the second his life. Each section has a time limit. The C64 version has four levels instead of seven, but is known above all for its music.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode and graphics: Chris Butler · Title screen: Ste Pickford · Music: Mark Cooksey"
+  },
+  "images": {
+    "ss": "images/ff/ffd218e0c0e979b273e92cff5a165267dd18952f.png",
+    "sstitle": "images/8d/8dcad44802acb8c6d8c80f9b890b8d0a57c6bd2d.png"
+  }
+}

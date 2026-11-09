@@ -19,6 +19,10 @@
   ],
   "players": "1-4",
   "synopsis": "Vier Gemüsefiguren – Tomate, Zwiebel, Salat und Aubergine – springen von Plattform zu Plattform so hoch hinauf wie möglich. Im Gegeneinander-Modus gewinnt, wer am schnellsten oben ist; im Miteinander-Modus sammelt die Gruppe einen gemeinsamen Höchststand, allein geht es auch.\n\nFür den dritten und vierten Spieler ist der 4-Spieler-Adapter am Userport („Classical Games 4-Player Interface“) nötig; VICE bildet ihn nach. Erschienen zur DoReCo Party 2021 (02.10.2021). Als PRG und D64.\n\nCode, Grafik, Musik: ZeHa",
+  "texts": {
+    "de": "Vier Gemüsefiguren – Tomate, Zwiebel, Salat und Aubergine – springen von Plattform zu Plattform so hoch hinauf wie möglich. Im Gegeneinander-Modus gewinnt, wer am schnellsten oben ist; im Miteinander-Modus sammelt die Gruppe einen gemeinsamen Höchststand, allein geht es auch.\n\nFür den dritten und vierten Spieler ist der 4-Spieler-Adapter am Userport („Classical Games 4-Player Interface“) nötig; VICE bildet ihn nach. Erschienen zur DoReCo Party 2021 (02.10.2021). Als PRG und D64.\n\nCode, Grafik, Musik: ZeHa",
+    "en": "Four vegetable characters – tomato, onion, lettuce and aubergine – jump from platform to platform as high as possible. In competitive mode, whoever reaches the top fastest wins; in co-operative mode the group builds up a shared high score, and playing alone is also possible.\n\nThe third and fourth players require the 4-player adapter on the user port (\"Classical Games 4-Player Interface\"); VICE emulates it. Released at the DoReCo Party 2021 (02.10.2021). As PRG and D64.\n\nCode, graphics, music: ZeHa"
+  },
   "images": {
     "ss": "images/c7/c7af4deedcf23c78ebe6e7721be0888fe9b15a56.png",
     "sstitle": "images/79/79731e38530485947fdc007c4736b0a354dba348.png"

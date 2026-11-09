@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "C64-Fassung von Terry Cavanaghs Super Hexagon. Ein kleines Dreieck kreist um die Mitte des Bildschirms, während von außen Wände in Sechseckform heranrücken; man muss sich durch die Lücken drehen und so lange wie möglich überleben. Das Spielfeld dreht und pulsiert dabei ständig. Entstanden als Beitrag zum RGCD-16-KB-Modul-Wettbewerb 2013 (2. Platz).\n\nDiese Datei ist die Disk-Fassung der Gruppe Excess vom Oktober 2019 mit Highscore-Speicherung und Anleitung (Crack: Faayd), nur PAL. Joystick. Achtung: starke Flacker- und Stroboskopeffekte.\n\nSpiel: Paul Koller · Musik: Mikkel Hastrup",
+  "texts": {
+    "de": "C64-Fassung von Terry Cavanaghs Super Hexagon. Ein kleines Dreieck kreist um die Mitte des Bildschirms, während von außen Wände in Sechseckform heranrücken; man muss sich durch die Lücken drehen und so lange wie möglich überleben. Das Spielfeld dreht und pulsiert dabei ständig. Entstanden als Beitrag zum RGCD-16-KB-Modul-Wettbewerb 2013 (2. Platz).\n\nDiese Datei ist die Disk-Fassung der Gruppe Excess vom Oktober 2019 mit Highscore-Speicherung und Anleitung (Crack: Faayd), nur PAL. Joystick. Achtung: starke Flacker- und Stroboskopeffekte.\n\nSpiel: Paul Koller · Musik: Mikkel Hastrup",
+    "en": "C64 version of Terry Cavanagh's Super Hexagon. A small triangle circles the centre of the screen while hexagonal walls close in from the outside; the player has to rotate through the gaps and survive as long as possible. The playfield constantly rotates and pulses. Created as an entry for the RGCD 16KB cartridge competition 2013 (2nd place).\n\nThis file is the disk version by the group Excess from October 2019 with high-score saving and instructions (crack: Faayd), PAL only. Joystick. Warning: strong flickering and strobe effects.\n\nGame: Paul Koller · Music: Mikkel Hastrup"
+  },
   "images": {
     "sstitle": "images/5d/5d41b862b14346cdc9f488101ac8b352503381af.png"
   }

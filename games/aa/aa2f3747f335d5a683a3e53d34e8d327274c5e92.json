@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "aa2f3747f335d5a683a3e53d34e8d327274c5e92",
+  "md5": "2714acf5eb3dec122f9fb86f6bc163b8",
+  "crc32": "97eb215b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "JUMPMAN1.D64"
+  ],
+  "screenscraper_id": "36491",
+  "title": "Jumpman",
+  "year": "1983",
+  "publisher": "Epyx",
+  "developer": "Randy Glover",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1-4",
+  "synopsis": "Jumpman muss auf einer Raumstation Bomben entschärfen, die über Plattformen, Leitern und Seile verteilt sind. In 30 Bildschirmen warten unterschiedliche Gefahren: herabstürzende Geschosse, verschwindende Böden oder Gegner, die sich bewegen, sobald eine Bombe eingesammelt wird. Die Spielgeschwindigkeit lässt sich einstellen, bis zu vier Spieler treten abwechselnd an. Jumpman gehört zu den frühen Plattformspielen, die den Ruf von Epyx begründeten.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Randy Glover · Musik: Randy Glover",
+  "texts": {
+    "de": "Jumpman muss auf einer Raumstation Bomben entschärfen, die über Plattformen, Leitern und Seile verteilt sind. In 30 Bildschirmen warten unterschiedliche Gefahren: herabstürzende Geschosse, verschwindende Böden oder Gegner, die sich bewegen, sobald eine Bombe eingesammelt wird. Die Spielgeschwindigkeit lässt sich einstellen, bis zu vier Spieler treten abwechselnd an. Jumpman gehört zu den frühen Plattformspielen, die den Ruf von Epyx begründeten.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Randy Glover · Musik: Randy Glover",
+    "en": "Jumpman has to defuse bombs on a space station that are scattered across platforms, ladders and ropes. Across 30 screens different hazards await: falling projectiles, disappearing floors or enemies that move as soon as a bomb is collected. The game speed can be adjusted, and up to four players take turns. Jumpman is one of the early platform games that established Epyx's reputation.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: Randy Glover · Music: Randy Glover"
+  },
+  "images": {
+    "ss": "images/a7/a77315149c68d15d15293cc9c8dc5d620d52fedd.png",
+    "sstitle": "images/aa/aa298b61948b00247f54b33150e09d5429902e7c.png"
+  }
+}

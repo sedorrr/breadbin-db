@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "7f8d3c45ba2b0ad8e20c92e55a94d12d32d094c7",
+  "md5": "f8b325fb98798bd429ff85ed04f2ccda",
+  "crc32": "33f8d8b5",
+  "size": 976064,
+  "format": "TAP",
+  "files": [
+    "HERO (Activision).tap"
+  ],
+  "screenscraper_id": "36113",
+  "title": "H.E.R.O.",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "John Van Ryzin (C64: The Softworks)",
+  "genres": [
+    "Action / Labyrinth",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Als Retter Roderick Hero steigt man mit Propellerrucksack und Helmlaser in ein Bergwerk hinab, um eingeschlossene Bergleute zu befreien. Wände lassen sich mit Dynamit sprengen, Fledermäuse, Spinnen und andere Gefahren mit dem Laser abwehren; Lava und ein knapper Energievorrat setzen unter Druck. Klare Regeln und gut durchdachte Schächte machten das ursprünglich für das Atari 2600 entworfene Spiel zu einem Klassiker von Activision.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nDesign: John Van Ryzin",
+  "texts": {
+    "de": "Als Retter Roderick Hero steigt man mit Propellerrucksack und Helmlaser in ein Bergwerk hinab, um eingeschlossene Bergleute zu befreien. Wände lassen sich mit Dynamit sprengen, Fledermäuse, Spinnen und andere Gefahren mit dem Laser abwehren; Lava und ein knapper Energievorrat setzen unter Druck. Klare Regeln und gut durchdachte Schächte machten das ursprünglich für das Atari 2600 entworfene Spiel zu einem Klassiker von Activision.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nDesign: John Van Ryzin",
+    "en": "As the rescuer Roderick Hero, the player descends into a mine with a propeller backpack and helmet laser to free trapped miners. Walls can be blown up with dynamite, and bats, spiders and other hazards fended off with the laser; lava and a scarce energy supply keep up the pressure. Clear rules and well-designed shafts made the game, originally designed for the Atari 2600, an Activision classic.\n\nThis file contains the game as a tape image (TAP); several versions exist (original, conversions, cracks).\n\nDesign: John Van Ryzin"
+  },
+  "images": {
+    "ss": "images/05/050e4539c6cd7eef73ce92d8582644f37caa5ae6.png",
+    "sstitle": "images/b6/b6bef4873fc0dae78c6d9e9bc1b83a3af08f9aae.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c6c56e088f66e979e84374be967a5fce4f3afb98",
+  "md5": "1e3a8954b7d87e2d374ec746b1bb1c8d",
+  "crc32": "b5c130bf",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CHASEHQ1.D64"
+  ],
+  "screenscraper_id": "36003",
+  "title": "Chase H.Q.",
+  "year": "1989",
+  "publisher": "Ocean",
+  "developer": "Teque Software",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Als Polizist in einem schwarzen Sportwagen verfolgt man Verbrecher auf der Flucht. Zuerst muss man das Fluchtfahrzeug innerhalb der Zeit einholen, dann durch wiederholtes Rammen zum Anhalten zwingen. Begrenzte Turbo-Schübe helfen beim Aufholen, an Abzweigungen muss man der Spur des Flüchtigen folgen. Taitos Automat von 1988 verband das Rennspiel mit Verfolgungsjagden wie aus dem Fernsehen.\n\nOcean veröffentlichte die C64-Umsetzung von Teque Software auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Bill Caunt, Pete Hickinson · Musik: Matt Furniss",
+  "texts": {
+    "de": "Als Polizist in einem schwarzen Sportwagen verfolgt man Verbrecher auf der Flucht. Zuerst muss man das Fluchtfahrzeug innerhalb der Zeit einholen, dann durch wiederholtes Rammen zum Anhalten zwingen. Begrenzte Turbo-Schübe helfen beim Aufholen, an Abzweigungen muss man der Spur des Flüchtigen folgen. Taitos Automat von 1988 verband das Rennspiel mit Verfolgungsjagden wie aus dem Fernsehen.\n\nOcean veröffentlichte die C64-Umsetzung von Teque Software auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Bill Caunt, Pete Hickinson · Musik: Matt Furniss",
+    "en": "As a police officer in a black sports car, the player pursues criminals on the run. First the getaway vehicle has to be caught within the time limit, then forced to stop by ramming it repeatedly. A limited number of turbo boosts help in catching up, and at junctions the player has to follow the fugitive's trail. Taito's 1988 arcade game combined racing with car chases like those on television.\n\nOcean released the C64 conversion by Teque Software on cassette and disk. Controlled with the joystick in port 2.\n\nCode: Bill Caunt, Pete Hickinson · Music: Matt Furniss"
+  }
+}

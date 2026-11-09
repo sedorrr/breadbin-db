@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Denkspiel im Kerker („carcer“ ist Latein für Kerker): Für jeden Schritt muss eine Münze hinter sich abgelegt werden, ohne Münzen geht es nicht weiter, abgelegte Münzen lassen sich aber wieder aufsammeln. Aus jedem Verlies müssen drei Schlüsselteile geholt werden, um das Ausgangstor zu öffnen, und die letzte Münze bleibt im Tor zurück. 32 Level mit steigender Schwierigkeit, inspiriert von Dungeon Escape; Levelcodes, kein Zeitlimit, keine Leben.\n\nPAL (empfohlen) und NTSC. Die Commodore-Taste oder der Feuerknopf setzt das Level zurück, die Leertaste schaltet die Musik um. Fassungen auch für Plus/4 und Atari 8-Bit.\n\nSpiel: Haplo.",
+  "texts": {
+    "de": "Denkspiel im Kerker („carcer“ ist Latein für Kerker): Für jeden Schritt muss eine Münze hinter sich abgelegt werden, ohne Münzen geht es nicht weiter, abgelegte Münzen lassen sich aber wieder aufsammeln. Aus jedem Verlies müssen drei Schlüsselteile geholt werden, um das Ausgangstor zu öffnen, und die letzte Münze bleibt im Tor zurück. 32 Level mit steigender Schwierigkeit, inspiriert von Dungeon Escape; Levelcodes, kein Zeitlimit, keine Leben.\n\nPAL (empfohlen) und NTSC. Die Commodore-Taste oder der Feuerknopf setzt das Level zurück, die Leertaste schaltet die Musik um. Fassungen auch für Plus/4 und Atari 8-Bit.\n\nSpiel: Haplo.",
+    "en": "Puzzle game in a dungeon (\"carcer\" is Latin for dungeon): for every step a coin has to be left behind; without coins there is no moving on, but coins that have been put down can be picked up again. Three key parts have to be retrieved from each dungeon to open the exit gate, and the last coin stays behind in the gate. 32 levels of increasing difficulty, inspired by Dungeon Escape; level codes, no time limit, no lives.\n\nPAL (recommended) and NTSC. The Commodore key or the fire button resets the level, the space bar toggles the music. Versions also for Plus/4 and Atari 8-bit.\n\nGame: Haplo."
+  },
   "images": {
     "ss": "images/db/dbb01f91637890a4c2663985d5634dcfd050215f.png",
     "sstitle": "images/6c/6cf32ad14a112a63e28cd4ecbf09815f1ab478e9.png"

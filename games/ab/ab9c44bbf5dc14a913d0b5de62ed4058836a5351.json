@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ab9c44bbf5dc14a913d0b5de62ed4058836a5351",
+  "md5": "5f5f6027bc0fdfb1a51fe984c46729e9",
+  "crc32": "5c0c9180",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LCP0.D64"
+  ],
+  "screenscraper_id": "36430",
+  "title": "Little Computer People",
+  "year": "1985",
+  "publisher": "Activision",
+  "developer": "David Crane",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Im Rechner wohnt ein kleiner Mensch in einem dreistöckigen Haus, das im Querschnitt zu sehen ist. Er kocht, liest, spielt Klavier, sieht fern und schreibt gelegentlich Briefe an den Spieler. Über einfache Texteingaben lässt sich mit ihm sprechen, man kann ihm Futter, Wasser und Geschenke schicken oder ihn zu einem Kartenspiel einladen. Ein Ziel im üblichen Sinn gibt es nicht; das Spiel gilt als Vorläufer der Lebenssimulationen.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David Crane · Musik: Russell Lieblich",
+  "texts": {
+    "de": "Im Rechner wohnt ein kleiner Mensch in einem dreistöckigen Haus, das im Querschnitt zu sehen ist. Er kocht, liest, spielt Klavier, sieht fern und schreibt gelegentlich Briefe an den Spieler. Über einfache Texteingaben lässt sich mit ihm sprechen, man kann ihm Futter, Wasser und Geschenke schicken oder ihn zu einem Kartenspiel einladen. Ein Ziel im üblichen Sinn gibt es nicht; das Spiel gilt als Vorläufer der Lebenssimulationen.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David Crane · Musik: Russell Lieblich",
+    "en": "A little person lives inside the computer in a three-storey house shown in cross-section. He cooks, reads, plays the piano, watches television and occasionally writes letters to the player. Simple text input allows the player to talk to him, send him food, water and presents or invite him to a game of cards. There is no goal in the usual sense; the game is regarded as a forerunner of life simulations.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: David Crane · Music: Russell Lieblich"
+  },
+  "images": {
+    "ss": "images/92/92cba2d1135e11b22b09360eaddd2ef6e6db8990.png",
+    "sstitle": "images/7e/7ebf11942e5f0fd152b27a683ac49e1282d5c9a3.png"
+  }
+}

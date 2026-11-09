@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Unfertige spielbare Vorschau eines Autobahnspiels: Man steuert ein Auto in Rückansicht über die Autobahn und weicht dem Verkehr aus. Auffällig ist die Technik, etwa ein Sonnenuntergang bzw. -aufgang als Animation und übereinandergelegte Sprites; die Bilder entstehen aus vorab berechneten Zeichensatz-Animationen.\n\nModul im EasyFlash-Format (CRT). Auf CSDb als Spielvorschau vom 11.12.2025; eine fertige Fassung ist bisher nicht erschienen.\n\nCode, Grafik, Musik und Idee: cobbpg.",
+  "texts": {
+    "de": "Unfertige spielbare Vorschau eines Autobahnspiels: Man steuert ein Auto in Rückansicht über die Autobahn und weicht dem Verkehr aus. Auffällig ist die Technik, etwa ein Sonnenuntergang bzw. -aufgang als Animation und übereinandergelegte Sprites; die Bilder entstehen aus vorab berechneten Zeichensatz-Animationen.\n\nModul im EasyFlash-Format (CRT). Auf CSDb als Spielvorschau vom 11.12.2025; eine fertige Fassung ist bisher nicht erschienen.\n\nCode, Grafik, Musik und Idee: cobbpg.",
+    "en": "Unfinished playable preview of a motorway game: the player drives a car, seen from behind, along the motorway and avoids the traffic. The technology stands out, for example an animated sunset or sunrise and overlaid sprites; the images are produced from pre-calculated character set animations.\n\nCartridge in EasyFlash format (CRT). Listed on CSDb as a game preview from 11.12.2025; a finished version has not yet been released.\n\nCode, graphics, music and idea: cobbpg."
+  },
   "images": {
     "ss": "images/69/69a2217d94dd1dcd41c3e3ab629b989151463d74.png",
     "sstitle": "images/86/86dea6244a9d9919dc37d010231be9f3cea34f8d.png"

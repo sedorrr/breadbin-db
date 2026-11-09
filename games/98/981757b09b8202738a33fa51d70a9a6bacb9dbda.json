@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "981757b09b8202738a33fa51d70a9a6bacb9dbda",
+  "md5": "4eb1e1e556cd1bf8bca882f11668881d",
+  "crc32": "e23bf622",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Spy vs Spy.crt"
+  ],
+  "screenscraper_id": "36069",
+  "title": "Spy vs Spy",
+  "year": "1984",
+  "publisher": "First Star Software",
+  "developer": "Michael Riedel",
+  "genres": [
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Nach den Comicfiguren aus dem MAD-Magazin: Ein weißer und ein schwarzer Spion durchsuchen gleichzeitig eine Botschaft nach geheimen Gegenständen und einem Koffer, um damit zum Flugzeug zu gelangen. Mit geteiltem Bildschirm sieht jeder Spieler nur seinen Teil; in Möbeln und Türen lassen sich Fallen wie Bomben oder Eimer verstecken, Begegnungen enden im Handgemenge. Die Mischung aus Suche, Fallenstellen und Schadenfreude machte das Spiel zu einem Zweispielerklassiker.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Michael Riedel · Musik: Nick Scarim",
+  "texts": {
+    "de": "Nach den Comicfiguren aus dem MAD-Magazin: Ein weißer und ein schwarzer Spion durchsuchen gleichzeitig eine Botschaft nach geheimen Gegenständen und einem Koffer, um damit zum Flugzeug zu gelangen. Mit geteiltem Bildschirm sieht jeder Spieler nur seinen Teil; in Möbeln und Türen lassen sich Fallen wie Bomben oder Eimer verstecken, Begegnungen enden im Handgemenge. Die Mischung aus Suche, Fallenstellen und Schadenfreude machte das Spiel zu einem Zweispielerklassiker.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Michael Riedel · Musik: Nick Scarim",
+    "en": "Based on the comic characters from MAD magazine: a white and a black spy simultaneously search an embassy for secret items and a briefcase in order to reach the aeroplane with them. With a split screen, each player sees only their own part; traps such as bombs or buckets can be hidden in furniture and doors, and encounters end in a scuffle. The mix of searching, trap-setting and schadenfreude made the game a two-player classic.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading.\n\nCode: Michael Riedel · Music: Nick Scarim"
+  },
+  "images": {
+    "ss": "images/a3/a311ab66b84c44ad4899c4940536b4efde98874e.png",
+    "sstitle": "images/34/34ac99580019f501806e91e74881c321f85772ab.png"
+  }
+}

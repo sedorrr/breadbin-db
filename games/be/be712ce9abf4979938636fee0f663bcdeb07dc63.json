@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "be712ce9abf4979938636fee0f663bcdeb07dc63",
+  "md5": "91d85347d193517e6aafde16cee042e9",
+  "crc32": "dd40570b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SIMCITY0.D64"
+  ],
+  "screenscraper_id": "35841",
+  "title": "Sim City",
+  "year": "1989",
+  "publisher": "Infogrames",
+  "developer": "Maxis (Will Wright)",
+  "genres": [
+    "Simulation",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler plant als Bürgermeister eine Stadt: Er weist Wohn-, Gewerbe- und Industriegebiete aus, baut Straßen, Bahnen, Kraftwerke, Polizei und Feuerwehr und legt die Steuern fest. Die Bürger ziehen zu oder wandern ab, je nachdem, wie gut die Stadt funktioniert; Verkehr, Verschmutzung und Kriminalität müssen im Gleichgewicht bleiben. Dazu kommen Katastrophen und vorgegebene Szenarien. Sim City begründete eine eigene Spielgattung ohne festes Spielende.\n\nDie C64-Fassung erschien auf Diskette, in Europa bei Infogrames, in den USA bei Maxis/Brøderbund. Gesteuert wird per Joystick.\n\nDesign und Code: Will Wright",
+  "texts": {
+    "de": "Der Spieler plant als Bürgermeister eine Stadt: Er weist Wohn-, Gewerbe- und Industriegebiete aus, baut Straßen, Bahnen, Kraftwerke, Polizei und Feuerwehr und legt die Steuern fest. Die Bürger ziehen zu oder wandern ab, je nachdem, wie gut die Stadt funktioniert; Verkehr, Verschmutzung und Kriminalität müssen im Gleichgewicht bleiben. Dazu kommen Katastrophen und vorgegebene Szenarien. Sim City begründete eine eigene Spielgattung ohne festes Spielende.\n\nDie C64-Fassung erschien auf Diskette, in Europa bei Infogrames, in den USA bei Maxis/Brøderbund. Gesteuert wird per Joystick.\n\nDesign und Code: Will Wright",
+    "en": "As mayor, the player plans a city: he zones residential, commercial and industrial areas, builds roads, railways, power stations, police and fire stations and sets taxes. Citizens move in or leave depending on how well the city works; traffic, pollution and crime have to be kept in balance. In addition there are disasters and predefined scenarios. Sim City founded a genre of its own with no fixed ending.\n\nThe C64 version was released on disk, in Europe by Infogrames and in the USA by Maxis/Brøderbund. It is controlled by joystick.\n\nDesign and code: Will Wright"
+  }
+}

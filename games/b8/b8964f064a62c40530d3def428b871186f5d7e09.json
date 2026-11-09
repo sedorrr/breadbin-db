@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "b8964f064a62c40530d3def428b871186f5d7e09",
+  "md5": "6dccef434d1000ad3e38b0bf9343ef63",
+  "crc32": "3b1f6dd0",
+  "size": 156016,
+  "format": "CRT",
+  "files": [
+    "R-Type.crt",
+    "R-Type [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36070",
+  "title": "R-Type",
+  "year": "1988",
+  "publisher": "Electric Dreams",
+  "developer": "Manfred Trenz",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Irem-Automaten: Das Raumschiff R-9 kämpft sich durch acht Abschnitte gegen das Bydo-Imperium. Kennzeichen ist der „Force“-Satellit, der vorn oder hinten angekoppelt oder losgeschickt werden kann und Schüsse abfängt; dazu kommt ein aufladbarer Strahlschuss. Riesige Endgegner und enge Passagen verlangen Auswendiglernen. Manfred Trenz schuf auf dem C64 eine eigenständige, sehr gelobte Fassung.\n\nDiese Fassung wurde mit Disk2EasyFlash von der Diskettenfassung auf ein EasyFlash-Modul übertragen (Variante mit Schnelllader); sie startet ohne Diskette.\n\nCode: Manfred Trenz · Grafik: Manfred Trenz, Andreas Escher · Musik: Chris Hülsbeck, Ramiro Vaca",
+  "texts": {
+    "de": "Umsetzung des Irem-Automaten: Das Raumschiff R-9 kämpft sich durch acht Abschnitte gegen das Bydo-Imperium. Kennzeichen ist der „Force“-Satellit, der vorn oder hinten angekoppelt oder losgeschickt werden kann und Schüsse abfängt; dazu kommt ein aufladbarer Strahlschuss. Riesige Endgegner und enge Passagen verlangen Auswendiglernen. Manfred Trenz schuf auf dem C64 eine eigenständige, sehr gelobte Fassung.\n\nDiese Fassung wurde mit Disk2EasyFlash von der Diskettenfassung auf ein EasyFlash-Modul übertragen (Variante mit Schnelllader); sie startet ohne Diskette.\n\nCode: Manfred Trenz · Grafik: Manfred Trenz, Andreas Escher · Musik: Chris Hülsbeck, Ramiro Vaca",
+    "en": "Conversion of the Irem arcade machine: the R-9 spaceship fights its way through eight stages against the Bydo Empire. Its hallmark is the \"Force\" satellite, which can be attached at the front or rear or sent off on its own and absorbs shots; in addition there is a chargeable beam shot. Huge bosses and narrow passages require learning by heart. Manfred Trenz created a distinctive, highly praised version on the C64.\n\nThis version was transferred from the disk version to an EasyFlash cartridge with Disk2EasyFlash (variant with fast loader); it starts without a disk.\n\nCode: Manfred Trenz · Graphics: Manfred Trenz, Andreas Escher · Music: Chris Hülsbeck, Ramiro Vaca"
+  },
+  "images": {
+    "ss": "images/26/26e08ffcd2bc95243efdc0608dd7e8d2791b29be.png",
+    "sstitle": "images/55/55354b9142ec64f583b5153223d12ec4c3848321.png"
+  }
+}

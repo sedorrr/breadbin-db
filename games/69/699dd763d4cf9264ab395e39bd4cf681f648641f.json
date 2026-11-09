@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "699dd763d4cf9264ab395e39bd4cf681f648641f",
+  "md5": "6cefa54b8a047d565680784fba4c71e6",
+  "crc32": "e165b0b2",
+  "size": 525376,
+  "format": "CRT",
+  "files": [
+    "Prince of Persia (v1.1) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "116271",
+  "title": "Prince of Persia",
+  "year": "2011",
+  "developer": "Andreas Varga (Mr. SID), Owen Crowley; Original: Jordan Mechner",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Ein Prinz muss binnen 60 Minuten aus den Kerkern des Großwesirs Jaffar entkommen und die Prinzessin retten. Die Figur bewegt sich mit fein abgestuften, rotoskopierten Animationen, klettert, hängt an Kanten und springt über Abgründe; Fallgitter, Stachelfallen und Schwertkämpfe mit Wachen fordern Geduld. Das Original von Jordan Mechner erschien 1989 für den Apple II; eine offizielle C64-Fassung gab es nie. Diese Umsetzung entstand 2011 als Fanprojekt und übernimmt Level und Ablauf des Originals.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Andreas Varga, Owen Crowley · Grafik: Mikael Backlund, Andreas Varga · Musik: Andreas Varga, Owen Crowley",
+  "texts": {
+    "de": "Ein Prinz muss binnen 60 Minuten aus den Kerkern des Großwesirs Jaffar entkommen und die Prinzessin retten. Die Figur bewegt sich mit fein abgestuften, rotoskopierten Animationen, klettert, hängt an Kanten und springt über Abgründe; Fallgitter, Stachelfallen und Schwertkämpfe mit Wachen fordern Geduld. Das Original von Jordan Mechner erschien 1989 für den Apple II; eine offizielle C64-Fassung gab es nie. Diese Umsetzung entstand 2011 als Fanprojekt und übernimmt Level und Ablauf des Originals.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Andreas Varga, Owen Crowley · Grafik: Mikael Backlund, Andreas Varga · Musik: Andreas Varga, Owen Crowley",
+    "en": "A prince has to escape from the dungeons of the Grand Vizier Jaffar within 60 minutes and rescue the princess. The character moves with finely graduated, rotoscoped animations, climbs, hangs from ledges and jumps over chasms; portcullises, spike traps and sword fights with guards demand patience. Jordan Mechner's original was released in 1989 for the Apple II; there was never an official C64 version. This conversion was created in 2011 as a fan project and adopts the levels and progression of the original.\n\nThis file contains the game as a cartridge (CRT); there are several versions (original, conversions, cracks).\n\nCode: Andreas Varga, Owen Crowley · Graphics: Mikael Backlund, Andreas Varga · Music: Andreas Varga, Owen Crowley"
+  }
+}

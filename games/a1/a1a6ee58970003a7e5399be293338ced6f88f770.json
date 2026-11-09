@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "a1a6ee58970003a7e5399be293338ced6f88f770",
+  "md5": "15b6737589590efa5c9e1c5e6e6c2906",
+  "crc32": "a85826d0",
+  "size": 49462,
+  "format": "T64",
+  "files": [
+    "ARCHON2.T64"
+  ],
+  "screenscraper_id": "36160",
+  "title": "Archon II: Adept",
+  "year": "1984",
+  "publisher": "Electronic Arts",
+  "developer": "Free Fall Associates",
+  "genres": [
+    "Strategie",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Fortsetzung von Archon: Ordnung und Chaos kämpfen auf einem Spielfeld, das in die vier Elemente Feuer, Wasser, Luft und Erde gegliedert ist. Jede Seite führt Adepten, die mit Magie Wesen herbeirufen, Gegner bannen oder Kräfte bündeln; die beschworenen Wesen tragen ihre Kämpfe in Echtzeit-Arenen aus. Wer die sechs Kraftpunkte besetzt oder alle gegnerischen Adepten ausschaltet, gewinnt. Die Verbindung von Brettspiel-Taktik und Actionkampf ist noch vielschichtiger als im ersten Teil.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick, zu zweit gleichzeitig mit zwei Joysticks. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode und Design: Anne Westfall, Jon Freeman, Paul Reiche III · Musik: Tommy V. Dunbar",
+  "texts": {
+    "de": "Fortsetzung von Archon: Ordnung und Chaos kämpfen auf einem Spielfeld, das in die vier Elemente Feuer, Wasser, Luft und Erde gegliedert ist. Jede Seite führt Adepten, die mit Magie Wesen herbeirufen, Gegner bannen oder Kräfte bündeln; die beschworenen Wesen tragen ihre Kämpfe in Echtzeit-Arenen aus. Wer die sechs Kraftpunkte besetzt oder alle gegnerischen Adepten ausschaltet, gewinnt. Die Verbindung von Brettspiel-Taktik und Actionkampf ist noch vielschichtiger als im ersten Teil.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick, zu zweit gleichzeitig mit zwei Joysticks. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode und Design: Anne Westfall, Jon Freeman, Paul Reiche III · Musik: Tommy V. Dunbar",
+    "en": "Sequel to Archon: Order and Chaos battle on a board divided into the four elements of fire, water, air and earth. Each side leads adepts who use magic to summon creatures, banish opponents or concentrate powers; the summoned creatures fight out their battles in real-time arenas. Whoever occupies the six power points or eliminates all opposing adepts wins. The combination of board-game tactics and action combat is even more multi-layered than in the first instalment.\n\nReleased on disk and cassette. Controlled with a joystick, two players simultaneously with two joysticks. There is also a OneLoad64 conversion as an EasyFlash cartridge that requires no loading.\n\nCode and design: Anne Westfall, Jon Freeman, Paul Reiche III · Music: Tommy V. Dunbar"
+  }
+}

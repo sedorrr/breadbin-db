@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "70a6e8772cea8d8994770e7856323c665b3fcbb2",
+  "md5": "2cab7cbdbf9fc1a0bd3dc64b5f66f2c4",
+  "crc32": "914d7899",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DELTA.D64"
+  ],
+  "screenscraper_id": "36292",
+  "title": "Delta",
+  "year": "1987",
+  "publisher": "Thalamus",
+  "developer": "Stavros Fasoulas",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Horizontal scrollendes Ballerspiel mit 32 Leveln; nach Sanxion das zweite Thalamus-Spiel von Stavros Fasoulas. Für abgeschossene Formationen gibt es Guthaben, das zwischen den Angriffswellen beim Überfliegen von Symbolen gegen Extras wie stärkere Waffen eingetauscht wird; die Extras halten nur eine Zeit lang. Graue Symbole sind tödlich. Die eingängige Musik von Rob Hubbard gehört zu den bekanntesten C64-Stücken.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Stavros Fasoulas · Titelbild: Lizard · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Horizontal scrollendes Ballerspiel mit 32 Leveln; nach Sanxion das zweite Thalamus-Spiel von Stavros Fasoulas. Für abgeschossene Formationen gibt es Guthaben, das zwischen den Angriffswellen beim Überfliegen von Symbolen gegen Extras wie stärkere Waffen eingetauscht wird; die Extras halten nur eine Zeit lang. Graue Symbole sind tödlich. Die eingängige Musik von Rob Hubbard gehört zu den bekanntesten C64-Stücken.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Stavros Fasoulas · Titelbild: Lizard · Musik: Rob Hubbard",
+    "en": "Horizontally scrolling shoot 'em up with 32 levels; Stavros Fasoulas's second Thalamus game after Sanxion. Destroyed formations earn credit, which can be exchanged between attack waves for extras such as stronger weapons by flying over symbols; the extras last only for a while. Grey symbols are deadly. Rob Hubbard's catchy music is among the best-known C64 pieces.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Stavros Fasoulas · Title screen: Lizard · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/f2/f272706039c7167dc805e66ee003b168a8b08e03.png",
+    "sstitle": "images/46/46a1eae9106d7981f6d20aa1219ccd9dce6605ad.png"
+  }
+}

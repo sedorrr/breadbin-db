@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "77ac26d47f2a3207e943ab30583cf3eb5851e24d",
+  "md5": "e0393fb3b02d6c59d53de0b93818451f",
+  "crc32": "bb34cc20",
+  "size": 676937,
+  "format": "TAP",
+  "files": [
+    "Driller (Incentive).tap"
+  ],
+  "screenscraper_id": "36349",
+  "title": "Driller",
+  "year": "1987",
+  "publisher": "Incentive Software",
+  "developer": "Incentive Software (Major Developments)",
+  "genres": [
+    "Action / Abenteuer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Der erste Titel mit der Freescape-Technik: Der Mond Mitral droht wegen sich stauender Gase zu explodieren, und der Spieler muss in jedem seiner 18 Sektoren eine Bohranlage an der richtigen Stelle aufstellen, um das Gas abzulassen. Er bewegt sich in einem Fahrzeug durch eine begehbare Welt aus ausgefüllten 3D-Körpern, löst Rätsel, öffnet Durchgänge und wehrt Verteidigungsanlagen ab. Die frei erkundbare 3D-Welt war 1987 auf 8-Bit-Rechnern eine Sensation.\n\nErschien auf Diskette und Kassette, in den USA unter dem Titel „Space Station Oblivion“ bei Epyx. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Chris Andrew, Stephen Northcott · Grafik: Ian Denny, Paul Gregory, Robin Chapman · Musik: Matt Gray",
+  "texts": {
+    "de": "Der erste Titel mit der Freescape-Technik: Der Mond Mitral droht wegen sich stauender Gase zu explodieren, und der Spieler muss in jedem seiner 18 Sektoren eine Bohranlage an der richtigen Stelle aufstellen, um das Gas abzulassen. Er bewegt sich in einem Fahrzeug durch eine begehbare Welt aus ausgefüllten 3D-Körpern, löst Rätsel, öffnet Durchgänge und wehrt Verteidigungsanlagen ab. Die frei erkundbare 3D-Welt war 1987 auf 8-Bit-Rechnern eine Sensation.\n\nErschien auf Diskette und Kassette, in den USA unter dem Titel „Space Station Oblivion“ bei Epyx. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Chris Andrew, Stephen Northcott · Grafik: Ian Denny, Paul Gregory, Robin Chapman · Musik: Matt Gray",
+    "en": "The first title using the Freescape technology: the moon Mitral is threatening to explode because of accumulating gases, and in each of its 18 sectors the player has to set up a drilling rig in the right place to release the gas. He moves in a vehicle through an explorable world of solid 3D objects, solves puzzles, opens passages and fends off defence systems. The freely explorable 3D world was a sensation on 8-bit computers in 1987.\n\nReleased on disk and tape, in the USA under the title \"Space Station Oblivion\" by Epyx. Controlled via joystick and keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no additional loading.\n\nCode: Chris Andrew, Stephen Northcott · Graphics: Ian Denny, Paul Gregory, Robin Chapman · Music: Matt Gray"
+  }
+}

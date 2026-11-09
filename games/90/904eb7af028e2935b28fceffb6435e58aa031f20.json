@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "904eb7af028e2935b28fceffb6435e58aa031f20",
+  "md5": "e0c412bf224e0e9155730e0282316403",
+  "crc32": "2fb75e53",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "RAINBOWI.D64"
+  ],
+  "screenscraper_id": "36302",
+  "title": "Rainbow Islands",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Graftgold (Gary J. Foreman)",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Taito-Automaten, der Fortsetzung von Bubble Bobble: Bub und Bob sind nun Menschen und klettern über sieben Inseln nach oben, während das Wasser steigt. Ihre Waffe sind Regenbögen, die Gegner treffen und zugleich als Brücke dienen. Wer die Inseln mit allen sieben großen Diamanten abschließt, sieht das wahre Ende. Die C64-Fassung von Graftgold gilt als eine der gelungensten Automatenumsetzungen auf dem Rechner.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Gary J. Foreman · Musik: Jason Page",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten, der Fortsetzung von Bubble Bobble: Bub und Bob sind nun Menschen und klettern über sieben Inseln nach oben, während das Wasser steigt. Ihre Waffe sind Regenbögen, die Gegner treffen und zugleich als Brücke dienen. Wer die Inseln mit allen sieben großen Diamanten abschließt, sieht das wahre Ende. Die C64-Fassung von Graftgold gilt als eine der gelungensten Automatenumsetzungen auf dem Rechner.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Gary J. Foreman · Musik: Jason Page",
+    "en": "Conversion of the Taito arcade machine, the sequel to Bubble Bobble: Bub and Bob are now human and climb upwards across seven islands while the water rises. Their weapon is rainbows, which hit enemies and at the same time serve as bridges. Anyone who completes the islands with all seven large diamonds sees the true ending. Graftgold's C64 version is regarded as one of the most successful arcade conversions on the machine.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Gary J. Foreman · Music: Jason Page"
+  },
+  "images": {
+    "sstitle": "images/7d/7d69a2045849b07467da7a279393f95f5d7c5dbd.png"
+  }
+}

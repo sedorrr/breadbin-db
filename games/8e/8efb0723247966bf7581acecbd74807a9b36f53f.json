@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8efb0723247966bf7581acecbd74807a9b36f53f",
+  "md5": "e0bf1242e30efc5a97072610a63a1826",
+  "crc32": "6b7aab85",
+  "size": 8272,
+  "format": "CRT",
+  "files": [
+    "Stix.crt"
+  ],
+  "screenscraper_id": "113131",
+  "title": "Stix",
+  "year": "1983",
+  "publisher": "Supersoft",
+  "developer": "Andrew Trott",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Automatenprinzips Qix: Der Spieler zieht mit seinem Marker Linien über das Spielfeld und schließt damit Flächen ab, bis ein vorgegebener Anteil gefüllt ist. Währenddessen wandert der „Stix“, ein zappelndes Linienbündel, über die freie Fläche und darf die halb fertige Linie nicht berühren. Funken laufen am Rand entlang und verfolgen den Marker. Langsam gezogene Flächen bringen mehr Punkte, sind aber riskanter.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Andrew Trott",
+  "texts": {
+    "de": "Umsetzung des Automatenprinzips Qix: Der Spieler zieht mit seinem Marker Linien über das Spielfeld und schließt damit Flächen ab, bis ein vorgegebener Anteil gefüllt ist. Währenddessen wandert der „Stix“, ein zappelndes Linienbündel, über die freie Fläche und darf die halb fertige Linie nicht berühren. Funken laufen am Rand entlang und verfolgen den Marker. Langsam gezogene Flächen bringen mehr Punkte, sind aber riskanter.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Andrew Trott",
+    "en": "Conversion of the Qix arcade concept: with a marker, the player draws lines across the playfield, enclosing areas until a set proportion has been filled. Meanwhile the “Stix”, a writhing bundle of lines, wanders across the open area and must not touch the half-finished line. Sparks run along the edge and chase the marker. Areas drawn slowly score more points but are riskier.\n\nThis file contains the game as a cartridge (CRT); several versions exist (original, conversions, cracks).\n\nCode: Andrew Trott"
+  },
+  "images": {
+    "ss": "images/ff/ff50137a4989e814bde648a10a5601af395eb539.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "9bc81e322fa225a0e5b36a700d7ab93fc5b65d2d",
+  "md5": "8c0142fdbd7fa6a2795d3bf9612a97b0",
+  "crc32": "0e1cc5dd",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "STUNTCAR.D64"
+  ],
+  "screenscraper_id": "36121",
+  "title": "Stunt Car Racer",
+  "year": "1989",
+  "publisher": "MicroStyle",
+  "developer": "Geoff Crammond",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rennspiel auf erhöhten Achterbahnstrecken: Mit einem aufgemotzten Wagen fährt man über Sprünge, Wellen und steile Kurven gegen jeweils einen Gegner. Schäden am Fahrzeug summieren sich, und wer von der Strecke stürzt, verliert Zeit. In einer Liga mit acht Strecken steigt man auf oder ab. Die flüssige 3D-Darstellung und das glaubwürdige Fahrverhalten waren auf dem C64 eine technische Leistung.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Geoff Crammond",
+  "texts": {
+    "de": "Ein Rennspiel auf erhöhten Achterbahnstrecken: Mit einem aufgemotzten Wagen fährt man über Sprünge, Wellen und steile Kurven gegen jeweils einen Gegner. Schäden am Fahrzeug summieren sich, und wer von der Strecke stürzt, verliert Zeit. In einer Liga mit acht Strecken steigt man auf oder ab. Die flüssige 3D-Darstellung und das glaubwürdige Fahrverhalten waren auf dem C64 eine technische Leistung.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Geoff Crammond",
+    "en": "A racing game on elevated roller-coaster tracks: in a souped-up car, the player races over jumps, undulations and steep bends against one opponent at a time. Damage to the car accumulates, and falling off the track costs time. In a league with eight tracks, the player is promoted or relegated. The smooth 3D display and the convincing handling were a technical achievement on the C64.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Geoff Crammond"
+  },
+  "images": {
+    "sstitle": "images/86/8675aa5d76e699f5f2c925f9677ff81611f33c20.png"
+  }
+}

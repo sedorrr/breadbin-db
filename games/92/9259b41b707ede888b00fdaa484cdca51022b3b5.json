@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "9259b41b707ede888b00fdaa484cdca51022b3b5",
+  "md5": "251e02c602d3b6bdf52ddc23e9c1ac6b",
+  "crc32": "e69a8732",
+  "size": 896104,
+  "format": "TAP",
+  "files": [
+    "Pooyan.tap"
+  ],
+  "screenscraper_id": "36466",
+  "title": "Pooyan",
+  "year": "1983",
+  "publisher": "Datasoft",
+  "developer": "Scott Spanburg",
+  "genres": [
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "Eine Schweinemutter hängt in einem Korb an einem Seilzug und verteidigt ihre Ferkel gegen Wölfe, die an Luftballons herabschweben. Mit Pfeil und Bogen schießt sie die Ballons ab, ehe die Wölfe unten ankommen und die Leiter hochklettern. In der zweiten Runde versuchen die Wölfe, nach oben auf einen Felsen zu steigen; dort kann man auch Fleischstücke werfen, die mehrere Ballons zugleich treffen. Das Spiel geht auf den Konami-Automaten von 1982 zurück.\n\nDatasoft brachte die C64-Fassung auf Diskette und Kassette heraus. Die Hintergrundmelodie ist eine Bearbeitung von Dvořáks Humoreske. Zwei Spieler spielen abwechselnd, gesteuert wird mit dem Joystick.\n\nCode: Scott Spanburg · Grafik: Kelly Day",
+  "texts": {
+    "de": "Eine Schweinemutter hängt in einem Korb an einem Seilzug und verteidigt ihre Ferkel gegen Wölfe, die an Luftballons herabschweben. Mit Pfeil und Bogen schießt sie die Ballons ab, ehe die Wölfe unten ankommen und die Leiter hochklettern. In der zweiten Runde versuchen die Wölfe, nach oben auf einen Felsen zu steigen; dort kann man auch Fleischstücke werfen, die mehrere Ballons zugleich treffen. Das Spiel geht auf den Konami-Automaten von 1982 zurück.\n\nDatasoft brachte die C64-Fassung auf Diskette und Kassette heraus. Die Hintergrundmelodie ist eine Bearbeitung von Dvořáks Humoreske. Zwei Spieler spielen abwechselnd, gesteuert wird mit dem Joystick.\n\nCode: Scott Spanburg · Grafik: Kelly Day",
+    "en": "A mother pig hangs in a basket on a pulley and defends her piglets against wolves floating down on balloons. With a bow and arrow she shoots down the balloons before the wolves reach the bottom and climb up the ladder. In the second round the wolves try to climb up onto a rock; there, pieces of meat can also be thrown, which hit several balloons at once. The game is based on the 1982 Konami arcade machine.\n\nDatasoft released the C64 version on disk and cassette. The background melody is an arrangement of Dvořák's Humoresque. Two players take turns, and it is controlled with the joystick.\n\nCode: Scott Spanburg · Graphics: Kelly Day"
+  }
+}

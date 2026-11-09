@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "6b7fab7a6c7ebb53fced8dd808dc4ad8794f83f5",
+  "md5": "06529231f705e8b83051b6b56e50eba5",
+  "crc32": "21bfbd29",
+  "size": 68939,
+  "format": "T64",
+  "files": [
+    "DARKSID1.T64"
+  ],
+  "screenscraper_id": "36283",
+  "title": "Dark Side",
+  "year": "1988",
+  "publisher": "Incentive Software",
+  "developer": "Incentive Software",
+  "genres": [
+    "Action / Abenteuer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Driller mit der Freescape-Technik: Auf dem Mond Tricuspid haben Gegner eine Strahlenwaffe errichtet, die den Planeten Evath bedroht. Der Spieler muss mit Raketenrucksack die Energiesammler zerstören, die die Waffe speisen, bevor sie feuert – dabei sind die Sammler untereinander vernetzt und laden sich gegenseitig wieder auf. Die Welt ist größer als im Vorgänger und wird unter Zeitdruck erkundet.\n\nErschien auf Diskette und Kassette, in den USA bei Spotlight Software. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Sean Ellis · Musik: Wally Beben",
+  "texts": {
+    "de": "Fortsetzung von Driller mit der Freescape-Technik: Auf dem Mond Tricuspid haben Gegner eine Strahlenwaffe errichtet, die den Planeten Evath bedroht. Der Spieler muss mit Raketenrucksack die Energiesammler zerstören, die die Waffe speisen, bevor sie feuert – dabei sind die Sammler untereinander vernetzt und laden sich gegenseitig wieder auf. Die Welt ist größer als im Vorgänger und wird unter Zeitdruck erkundet.\n\nErschien auf Diskette und Kassette, in den USA bei Spotlight Software. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Sean Ellis · Musik: Wally Beben",
+    "en": "Sequel to Driller using the Freescape technology: on the moon Tricuspid, enemies have built a beam weapon that threatens the planet Evath. With a jetpack, the player has to destroy the energy collectors that power the weapon before it fires – the collectors are networked and recharge one another. The world is larger than in the predecessor and is explored under time pressure.\n\nReleased on disk and tape, in the USA by Spotlight Software. Controlled by joystick and keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge, which needs no further loading.\n\nCode: Sean Ellis · Music: Wally Beben"
+  }
+}

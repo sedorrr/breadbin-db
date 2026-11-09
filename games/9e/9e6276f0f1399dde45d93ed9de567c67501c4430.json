@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "9e6276f0f1399dde45d93ed9de567c67501c4430",
+  "md5": "af25726356f2063052dec7007039cad7",
+  "crc32": "5c5419c6",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Beach-Head.crt"
+  ],
+  "screenscraper_id": "36818",
+  "title": "Beach-Head",
+  "year": "1983",
+  "publisher": "Access Software",
+  "developer": "Access Software (Bruce Carver, Kevin Homer)",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Kriegsspiel im Pazifik des Zweiten Weltkriegs in mehreren Abschnitten: Zuerst wird die Flotte durch eine verminte Bucht gelotst, dann wehrt man von Bord aus Flugzeuge und Kriegsschiffe ab, schließlich kämpfen sich Panzer über den Strand bis zu einer großen Festungskanone vor, die mehrere Treffer braucht. Die abwechselnden Spielabschnitte waren 1983 ungewöhnlich. In Europa wurde es zu einem frühen großen Erfolg von U.S. Gold.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nDesign: Bruce Carver, Kevin Homer",
+  "texts": {
+    "de": "Kriegsspiel im Pazifik des Zweiten Weltkriegs in mehreren Abschnitten: Zuerst wird die Flotte durch eine verminte Bucht gelotst, dann wehrt man von Bord aus Flugzeuge und Kriegsschiffe ab, schließlich kämpfen sich Panzer über den Strand bis zu einer großen Festungskanone vor, die mehrere Treffer braucht. Die abwechselnden Spielabschnitte waren 1983 ungewöhnlich. In Europa wurde es zu einem frühen großen Erfolg von U.S. Gold.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nDesign: Bruce Carver, Kevin Homer",
+    "en": "War game set in the Pacific during the Second World War, in several sections: first the fleet is guided through a mined bay, then you fend off aircraft and warships from on board, and finally tanks fight their way across the beach to a large fortress gun that needs several hits. The alternating game sections were unusual in 1983. In Europe it became an early big success for U.S. Gold.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading.\n\nDesign: Bruce Carver, Kevin Homer"
+  },
+  "images": {
+    "sstitle": "images/d4/d4121bc1ca1ad9037d721221048cc7e190a5b16f.png"
+  }
+}

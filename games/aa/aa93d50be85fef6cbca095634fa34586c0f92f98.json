@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "aa93d50be85fef6cbca095634fa34586c0f92f98",
+  "md5": "573b12aff026d6f647e6ebc18d7eff26",
+  "crc32": "c45c7984",
+  "size": 607456,
+  "format": "CRT",
+  "files": [
+    "Project Firestart [EasyFlash].crt"
+  ],
+  "screenscraper_id": "116298",
+  "title": "Project Firestart",
+  "year": "1989",
+  "publisher": "Electronic Arts",
+  "developer": "Dynamix (Darek Lukaszuk, Paul Bowman, Rich Rayl)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Agent Jon Hawking soll klären, warum die Forschungsstation Prometheus im Saturnorbit verstummt ist. An Bord findet er eine verlassene Station, in der genetische Experimente außer Kontrolle geraten sind. Das Spiel setzt auf Erkundung, knappe Munition, Tagebucheinträge und filmartige Zwischenszenen und baut so eine bedrückende Stimmung auf. Es gilt als eines der frühesten Survival-Horror-Spiele und als technischer Höhepunkt auf dem C64.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Alan McKean",
+  "texts": {
+    "de": "Der Agent Jon Hawking soll klären, warum die Forschungsstation Prometheus im Saturnorbit verstummt ist. An Bord findet er eine verlassene Station, in der genetische Experimente außer Kontrolle geraten sind. Das Spiel setzt auf Erkundung, knappe Munition, Tagebucheinträge und filmartige Zwischenszenen und baut so eine bedrückende Stimmung auf. Es gilt als eines der frühesten Survival-Horror-Spiele und als technischer Höhepunkt auf dem C64.\n\nDiese Datei enthält das Spiel als Modul (CRT); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Alan McKean",
+    "en": "Agent Jon Hawking is to find out why the research station Prometheus in orbit around Saturn has gone silent. On board he finds an abandoned station where genetic experiments have got out of control. The game relies on exploration, scarce ammunition, diary entries and cinematic cutscenes, building up an oppressive atmosphere. It is regarded as one of the earliest survival horror games and as a technical highlight on the C64.\n\nThis file contains the game as a cartridge (CRT); there are several versions (original, conversions, cracks).\n\nMusic: Alan McKean"
+  },
+  "images": {
+    "ss": "images/1e/1ea98e4394f498277b46508d587d7eb1b6e07107.png",
+    "sstitle": "images/3e/3ee6fb1d1eda1eb8c1b01fd2f3f6d617cf90af4f.png"
+  }
+}

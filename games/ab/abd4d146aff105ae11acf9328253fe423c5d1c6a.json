@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "abd4d146aff105ae11acf9328253fe423c5d1c6a",
+  "md5": "00f7f61f66e4bbaf90ee268e6ef9c514",
+  "crc32": "5f6bcf10",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Hover Bovver (J1).crt"
+  ],
+  "screenscraper_id": "112916",
+  "title": "Hover Bovver",
+  "year": "1984",
+  "publisher": "Llamasoft",
+  "developer": "Jeff Minter",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Gordon Bennet hat sich den Luftkissen-Rasenmäher seines Nachbarn ausgeliehen und muss damit Rasenflächen mähen, ohne die Blumenbeete zu zerstören. Der verärgerte Nachbar und weitere Verfolger sind ihm auf den Fersen, während sein Hund helfen, aber auch Ärger machen kann. Wer zu lange braucht oder Beete beschädigt, bekommt Probleme. Das Spiel lebt von seinem schrägen britischen Humor und war einer der frühen Erfolge von Llamasoft.\n\nErschienen bei Llamasoft für den C64 auf Kassette und Diskette. Gesteuert wird per Joystick, bei der Modulfassung in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jeff Minter",
+  "texts": {
+    "de": "Gordon Bennet hat sich den Luftkissen-Rasenmäher seines Nachbarn ausgeliehen und muss damit Rasenflächen mähen, ohne die Blumenbeete zu zerstören. Der verärgerte Nachbar und weitere Verfolger sind ihm auf den Fersen, während sein Hund helfen, aber auch Ärger machen kann. Wer zu lange braucht oder Beete beschädigt, bekommt Probleme. Das Spiel lebt von seinem schrägen britischen Humor und war einer der frühen Erfolge von Llamasoft.\n\nErschienen bei Llamasoft für den C64 auf Kassette und Diskette. Gesteuert wird per Joystick, bei der Modulfassung in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jeff Minter",
+    "en": "Gordon Bennet has borrowed his neighbour's hover lawnmower and has to mow lawns with it without destroying the flower beds. The angry neighbour and other pursuers are hot on his heels, while his dog can help but can also cause trouble. Taking too long or damaging beds leads to problems. The game thrives on its quirky British humour and was one of Llamasoft's early successes.\n\nReleased by Llamasoft for the C64 on tape and disk. Controlled via joystick, in port 1 for the cartridge version. Besides the originals, there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without additional loading.\n\nCode: Jeff Minter"
+  }
+}

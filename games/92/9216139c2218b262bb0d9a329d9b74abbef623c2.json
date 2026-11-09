@@ -18,6 +18,10 @@
   ],
   "players": "1-2",
   "synopsis": "Umsetzung des Leland-Automaten „Danny Sullivan's Indy Heat“: Von oben gesehen fahren IndyCar-Rennwagen über verschiedene Rundkurse. Zwischen den Rennen wird das Preisgeld in bessere Teile für den Wagen gesteckt. Zwei Spieler können gleichzeitig fahren.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“); die Strecken werden nachgeladen. Joystick in Port 2, englisch.\n\nCode, Musik: Simon Pick · Grafik: Robert Whitaker",
+  "texts": {
+    "de": "Umsetzung des Leland-Automaten „Danny Sullivan's Indy Heat“: Von oben gesehen fahren IndyCar-Rennwagen über verschiedene Rundkurse. Zwischen den Rennen wird das Preisgeld in bessere Teile für den Wagen gesteckt. Zwei Spieler können gleichzeitig fahren.\n\nDiskettenfassung (Kopf „ASS presents“) mit Trainer („+“); die Strecken werden nachgeladen. Joystick in Port 2, englisch.\n\nCode, Musik: Simon Pick · Grafik: Robert Whitaker",
+    "en": "Conversion of the Leland arcade game “Danny Sullivan's Indy Heat”: seen from above, IndyCar racing cars drive round various circuits. Between races, the prize money is invested in better parts for the car. Two players can race simultaneously.\n\nDisk version (header “ASS presents”) with trainer (“+”); the tracks are loaded as needed. Joystick in port 2, English.\n\nCode, music: Simon Pick · Graphics: Robert Whitaker"
+  },
   "images": {
     "sstitle": "images/11/113c490432dcee63f5780edb4c60887510396ae3.png"
   }

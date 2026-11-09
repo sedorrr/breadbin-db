@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Kleines Denk- und Geschicklichkeitsspiel in 20 Leveln. Die Spielfigur kann weder springen noch klettern; um auf andere Ebenen zu gelangen, nutzt sie flackernde Warp-Felder, die sie eine oder mehrere Etagen nach oben oder unten versetzen. In jedem Level sollen Goldstücke eingesammelt und der Ausgang erreicht werden, und das innerhalb von 250 Sekunden.\n\nJoystick in Port 2, Feuer benutzt ein Warp-Feld. Diese Datei ist der Crack der Gruppe Excess vom März 2024 mit zwei Trainern und Anleitung (Crack, Trainer, Docs: Sentinel; Grafik: Firelord, Logiker).\n\nSpiel: D. Rejment",
+  "texts": {
+    "de": "Kleines Denk- und Geschicklichkeitsspiel in 20 Leveln. Die Spielfigur kann weder springen noch klettern; um auf andere Ebenen zu gelangen, nutzt sie flackernde Warp-Felder, die sie eine oder mehrere Etagen nach oben oder unten versetzen. In jedem Level sollen Goldstücke eingesammelt und der Ausgang erreicht werden, und das innerhalb von 250 Sekunden.\n\nJoystick in Port 2, Feuer benutzt ein Warp-Feld. Diese Datei ist der Crack der Gruppe Excess vom März 2024 mit zwei Trainern und Anleitung (Crack, Trainer, Docs: Sentinel; Grafik: Firelord, Logiker).\n\nSpiel: D. Rejment",
+    "en": "Small puzzle and skill game in 20 levels. The player character can neither jump nor climb; to reach other levels it uses flickering warp fields that move it one or more floors up or down. In each level, gold pieces are to be collected and the exit reached, all within 250 seconds.\n\nJoystick in port 2, fire uses a warp field. This file is the crack by the group Excess from March 2024 with two trainers and instructions (crack, trainer, docs: Sentinel; graphics: Firelord, Logiker).\n\nGame: D. Rejment"
+  },
   "images": {
     "sstitle": "images/70/70cada7a13b60230017f0784c283c069d651cc66.png"
   }

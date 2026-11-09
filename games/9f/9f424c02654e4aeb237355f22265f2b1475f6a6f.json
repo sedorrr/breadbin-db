@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "9f424c02654e4aeb237355f22265f2b1475f6a6f",
+  "md5": "3f0d04a5fd9aacbf06e9212c0e418206",
+  "crc32": "2e6d0319",
+  "size": 238096,
+  "format": "CRT",
+  "files": [
+    "Project Stealth Fighter.crt",
+    "Project Stealth Fighter [EasyFlash].crt"
+  ],
+  "screenscraper_id": "116302",
+  "title": "Project Stealth Fighter",
+  "year": "1987",
+  "publisher": "MicroProse",
+  "developer": "MicroProse (u. a. Jim Synoski, Sid Meier, Arnold Hendrick)",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Project Stealth Fighter ist eine Flugsimulation mit einem damals noch geheimen Tarnkappenjäger. Die Einsätze führen in Krisengebiete wie Libyen, den Persischen Golf und Nordeuropa; wichtiger als der Luftkampf ist es, unentdeckt an Radarstellungen vorbeizukommen und das Ziel zu treffen. Ein Anzeigebalken zeigt, wie gut das Flugzeug gerade für den Gegner sichtbar ist. Das Spiel verbindet Simulation mit überschaubarer Bedienung und wurde später zu F-19 Stealth Fighter für 16-Bit-Rechner ausgebaut.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul (Disk2EasyFlash, Variante mit Schnelllader); das Spiel lädt aus dem Modul statt von Diskette.\n\nMusik: Ken Lagace",
+  "texts": {
+    "de": "Project Stealth Fighter ist eine Flugsimulation mit einem damals noch geheimen Tarnkappenjäger. Die Einsätze führen in Krisengebiete wie Libyen, den Persischen Golf und Nordeuropa; wichtiger als der Luftkampf ist es, unentdeckt an Radarstellungen vorbeizukommen und das Ziel zu treffen. Ein Anzeigebalken zeigt, wie gut das Flugzeug gerade für den Gegner sichtbar ist. Das Spiel verbindet Simulation mit überschaubarer Bedienung und wurde später zu F-19 Stealth Fighter für 16-Bit-Rechner ausgebaut.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul (Disk2EasyFlash, Variante mit Schnelllader); das Spiel lädt aus dem Modul statt von Diskette.\n\nMusik: Ken Lagace",
+    "en": "Project Stealth Fighter is a flight simulation featuring a stealth fighter that was still secret at the time. The missions lead to crisis regions such as Libya, the Persian Gulf and Northern Europe; more important than dogfighting is slipping past radar sites undetected and hitting the target. A gauge shows how visible the aircraft currently is to the enemy. The game combines simulation with manageable controls and was later expanded into F-19 Stealth Fighter for 16-bit computers.\n\nThis version is a conversion to an EasyFlash cartridge (Disk2EasyFlash, variant with fast loader); the game loads from the cartridge instead of from disk.\n\nMusic: Ken Lagace"
+  }
+}

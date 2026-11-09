@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "8147f5848883d5541b72ea892b76898d861e307a",
+  "md5": "025934e2f8ceb76b1c2ce51451c5eefb",
+  "crc32": "1bd330bb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "HOBBIT0.D64"
+  ],
+  "screenscraper_id": "35831",
+  "title": "The Hobbit",
+  "year": "1983",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software",
+  "genres": [
+    "Abenteuer / Text",
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Textadventure nach Tolkiens Roman: Der Spieler übernimmt Bilbo Beutlin und zieht mit Thorin, Gandalf und anderen zum Einsamen Berg, um den Schatz des Drachen Smaug zu holen. Der Parser versteht ganze Sätze, und die Begleiter handeln selbstständig, laufen weg, kämpfen oder gehen verloren, sodass jede Partie anders verläuft. Viele Orte zeigen ein Bild. Das Spiel war einer der größten Adventure-Erfolge der frühen Heimcomputerzeit.\n\nDie C64-Fassung erschien 1983 auf Kassette und Diskette, meist mit dem Buch; 1985 folgte eine überarbeitete Fassung mit verbesserten Bildern und Musik. Gesteuert wird per Tastatur (englisch). Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nDesign: Philip Mitchell, Veronika Megler · C64-Umsetzung: Philip Mitchell, Gregg Barnett · Musik (Fassung 1985): Neil Brennan",
+  "texts": {
+    "de": "Textadventure nach Tolkiens Roman: Der Spieler übernimmt Bilbo Beutlin und zieht mit Thorin, Gandalf und anderen zum Einsamen Berg, um den Schatz des Drachen Smaug zu holen. Der Parser versteht ganze Sätze, und die Begleiter handeln selbstständig, laufen weg, kämpfen oder gehen verloren, sodass jede Partie anders verläuft. Viele Orte zeigen ein Bild. Das Spiel war einer der größten Adventure-Erfolge der frühen Heimcomputerzeit.\n\nDie C64-Fassung erschien 1983 auf Kassette und Diskette, meist mit dem Buch; 1985 folgte eine überarbeitete Fassung mit verbesserten Bildern und Musik. Gesteuert wird per Tastatur (englisch). Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nDesign: Philip Mitchell, Veronika Megler · C64-Umsetzung: Philip Mitchell, Gregg Barnett · Musik (Fassung 1985): Neil Brennan",
+    "en": "Text adventure based on Tolkien's novel: the player takes on the role of Bilbo Baggins and sets out with Thorin, Gandalf and others for the Lonely Mountain to claim the treasure of the dragon Smaug. The parser understands whole sentences, and the companions act independently, run away, fight or get lost, so that every game plays out differently. Many locations show a picture. The game was one of the biggest adventure successes of the early home computer era.\n\nThe C64 version was released in 1983 on cassette and disk, usually with the book; a revised version with improved pictures and music followed in 1985. Controlled via the keyboard (English). There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no further loading.\n\nDesign: Philip Mitchell, Veronika Megler · C64 conversion: Philip Mitchell, Gregg Barnett · Music (1985 version): Neil Brennan"
+  }
+}

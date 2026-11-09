@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "77fb3b51218fa57ec0013f99dda50b926eb55b91",
+  "md5": "cea36bb2ee2ef8ff31d91d5850cbd6ab",
+  "crc32": "56366553",
+  "size": 520174,
+  "format": "TAP",
+  "files": [
+    "Thing Bounces Back (10 Great Games 2).tap"
+  ],
+  "screenscraper_id": "110224",
+  "title": "Thing Bounces Back",
+  "year": "1987",
+  "publisher": "Gremlin Graphics",
+  "developer": "Gremlin Graphics",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "In der Fortsetzung von Thing on a Spring kehrt das federnde Wesen in die Fabrik des Kobolds zurück, um dessen Computer und Pläne endgültig unschädlich zu machen. Die Fabrik ist größer und verwinkelter, mit Förderbändern, Rohren und zahlreichen Gegnern. Wieder muss Thing auf seinen Ölstand achten und das Hüpfen beherrschen. Das Spiel knüpft an den Vorgänger an, ist aber deutlich weitläufiger.\n\nErschienen bei Gremlin Graphics für C64 und andere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nMusik: Ben Daglish",
+  "texts": {
+    "de": "In der Fortsetzung von Thing on a Spring kehrt das federnde Wesen in die Fabrik des Kobolds zurück, um dessen Computer und Pläne endgültig unschädlich zu machen. Die Fabrik ist größer und verwinkelter, mit Förderbändern, Rohren und zahlreichen Gegnern. Wieder muss Thing auf seinen Ölstand achten und das Hüpfen beherrschen. Das Spiel knüpft an den Vorgänger an, ist aber deutlich weitläufiger.\n\nErschienen bei Gremlin Graphics für C64 und andere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nMusik: Ben Daglish",
+    "en": "In the sequel to Thing on a Spring, the bouncing creature returns to the goblin's factory to put his computer and plans out of action for good. The factory is larger and more convoluted, with conveyor belts, pipes and numerous enemies. Once again Thing has to keep an eye on his oil level and master the bouncing. The game follows on from its predecessor but is considerably more extensive.\n\nReleased by Gremlin Graphics for the C64 and other home computers, on the C64 on cassette and disk. Controlled with a joystick. Besides the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nMusic: Ben Daglish"
+  }
+}

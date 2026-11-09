@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "99b9b59e36532597a59928f4ec83e57ba9cbca5b",
+  "md5": "b89b4ecd902dd8d6899629fc5330f571",
+  "crc32": "6e411f2e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BATMAN.D64"
+  ],
+  "screenscraper_id": "35935",
+  "title": "Batman: The Movie",
+  "year": "1989",
+  "publisher": "Ocean",
+  "developer": "Ocean Software",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum Batman-Film von 1989 in fünf unterschiedlichen Abschnitten: Batman schwingt sich mit dem Seil durch die Chemiefabrik, verfolgt im Batmobil Gegner, löst ein Kombinationsrätsel um die vergifteten Produkte des Jokers, fliegt mit dem Batwing und stellt den Joker schließlich in der Kathedrale. Der Wechsel der Spielarten und die gelungene Technik machten es zu einem der erfolgreichsten Lizenzspiele von Ocean.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Zach Townsend · Grafik: Andrew Sleigh · Musik: Matthew Cannon",
+  "texts": {
+    "de": "Spiel zum Batman-Film von 1989 in fünf unterschiedlichen Abschnitten: Batman schwingt sich mit dem Seil durch die Chemiefabrik, verfolgt im Batmobil Gegner, löst ein Kombinationsrätsel um die vergifteten Produkte des Jokers, fliegt mit dem Batwing und stellt den Joker schließlich in der Kathedrale. Der Wechsel der Spielarten und die gelungene Technik machten es zu einem der erfolgreichsten Lizenzspiele von Ocean.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Zach Townsend · Grafik: Andrew Sleigh · Musik: Matthew Cannon",
+    "en": "Game of the 1989 Batman film in five different sections: Batman swings on his rope through the chemical plant, pursues enemies in the Batmobile, solves a combination puzzle about the Joker's poisoned products, flies the Batwing and finally confronts the Joker in the cathedral. The variety of game styles and the accomplished technology made it one of Ocean's most successful licensed games.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Zach Townsend · Graphics: Andrew Sleigh · Music: Matthew Cannon"
+  },
+  "images": {
+    "ss": "images/d9/d9d0ad49348066436053995ccd427c9bee6919bf.png",
+    "sstitle": "images/f5/f516ba2497a1f7227e8f7133f3303327626881e3.png"
+  }
+}

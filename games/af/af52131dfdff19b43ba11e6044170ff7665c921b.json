@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Umsetzung der klassischen Patience Klondike. Wahlweise wird eine oder werden drei Karten vom Stapel aufgedeckt; die Karten werden mit einem hardwaregestützten Zufallsgenerator gemischt. Die Grafik nutzt den Extended Color Mode mit einem Sprite als Zeiger.\n\nGedacht für die Bedienung mit Maus (1351, laut Autor auch über Adapter wie mouSTer), Joystick als Ausweichmöglichkeit. Version 1.0 vom 8. April 2026 auf Diskette, mit Anleitung auf der Diskette; vom Autor auf echtem C64, C64 Ultimate und in VICE getestet.\n\nCode und Grafik: HackZ0id · Musik: Gazza",
+  "texts": {
+    "de": "Umsetzung der klassischen Patience Klondike. Wahlweise wird eine oder werden drei Karten vom Stapel aufgedeckt; die Karten werden mit einem hardwaregestützten Zufallsgenerator gemischt. Die Grafik nutzt den Extended Color Mode mit einem Sprite als Zeiger.\n\nGedacht für die Bedienung mit Maus (1351, laut Autor auch über Adapter wie mouSTer), Joystick als Ausweichmöglichkeit. Version 1.0 vom 8. April 2026 auf Diskette, mit Anleitung auf der Diskette; vom Autor auf echtem C64, C64 Ultimate und in VICE getestet.\n\nCode und Grafik: HackZ0id · Musik: Gazza",
+    "en": "Conversion of the classic patience game Klondike. Either one or three cards are turned over from the stock; the cards are shuffled using a hardware-based random number generator. The graphics use Extended Color Mode with a sprite as the pointer.\n\nDesigned to be played with a mouse (1351, according to the author also via adapters such as mouSTer), with joystick as a fallback. Version 1.0 from 8 April 2026 on disk, with instructions on the disk; tested by the author on a real C64, C64 Ultimate and in VICE.\n\nCode and graphics: HackZ0id · Music: Gazza"
+  },
   "images": {
     "ss": "images/da/da122ce864d56fe83cce45cc44256b569d21172e.png"
   }

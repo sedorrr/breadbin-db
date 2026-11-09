@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "9244d61fd274d1da52dcffed6077f78317be3a48",
+  "md5": "79ca2f327b46343898a1d74d6becd835",
+  "crc32": "e94ffb19",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PINBCSET.D64"
+  ],
+  "screenscraper_id": "116160",
+  "title": "Pinball Construction Set",
+  "year": "1983",
+  "publisher": "Electronic Arts",
+  "developer": "Bill Budge",
+  "genres": [
+    "Flipper"
+  ],
+  "players": "1-4",
+  "synopsis": "Ein Baukasten für eigene Flippertische: Mit einem Zeiger werden Flipperarme, Bumper, Rampen, Ziele und Wände auf dem Tisch platziert, Formen gezeichnet und Punktwerte festgelegt. Auch Schwerkraft, Elastizität und Tempo lassen sich einstellen. Fertige Tische können sofort gespielt und als eigenständige Programme gespeichert werden. Das Programm gilt als Vorbild für viele spätere Editoren und Baukastenspiele.\n\nErschien auf Diskette. Gesteuert wird per Joystick, im Editor über einen Zeiger.\n\nDesign: Bill Budge · C64-Umsetzung: Olaf Lubeck",
+  "texts": {
+    "de": "Ein Baukasten für eigene Flippertische: Mit einem Zeiger werden Flipperarme, Bumper, Rampen, Ziele und Wände auf dem Tisch platziert, Formen gezeichnet und Punktwerte festgelegt. Auch Schwerkraft, Elastizität und Tempo lassen sich einstellen. Fertige Tische können sofort gespielt und als eigenständige Programme gespeichert werden. Das Programm gilt als Vorbild für viele spätere Editoren und Baukastenspiele.\n\nErschien auf Diskette. Gesteuert wird per Joystick, im Editor über einen Zeiger.\n\nDesign: Bill Budge · C64-Umsetzung: Olaf Lubeck",
+    "en": "A construction kit for custom pinball tables: with a pointer, flippers, bumpers, ramps, targets and walls are placed on the table, shapes are drawn and point values set. Gravity, elasticity and speed can also be adjusted. Finished tables can be played immediately and saved as stand-alone programs. The program is regarded as the model for many later editors and construction-kit games.\n\nReleased on disk. Controlled by joystick, in the editor via a pointer.\n\nDesign: Bill Budge · C64 conversion: Olaf Lubeck"
+  }
+}

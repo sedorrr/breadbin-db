@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "73c6c21a69f35afeb9f5e26634ceec2adf7869be",
+  "md5": "d81a36057d8c6b30fdce13fb8e2e2fe0",
+  "crc32": "7c2d0e56",
+  "size": 28185,
+  "format": "T64",
+  "files": [
+    "FORTAPOC.T64"
+  ],
+  "screenscraper_id": "112181",
+  "title": "Fort Apocalypse",
+  "year": "1982",
+  "publisher": "Synapse Software",
+  "developer": "Steve Hales (C64: Joe Vierra)",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Mit einem Rettungshubschrauber dringt man in eine unterirdische Festung ein, um Gefangene zu befreien und den Kern der Anlage zu zerstören. Die verschachtelten Höhlen scrollen in alle Richtungen; Panzer, Raketen, Kraftfelder und knapper Treibstoff machen jeden Flug gefährlich. Zuerst für die Atari-Heimcomputer entstanden, gehörte das Spiel zu den bekannten frühen Actiontiteln von Synapse.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Steve Hales (Original), Joe Vierra (C64-Umsetzung)",
+  "texts": {
+    "de": "Mit einem Rettungshubschrauber dringt man in eine unterirdische Festung ein, um Gefangene zu befreien und den Kern der Anlage zu zerstören. Die verschachtelten Höhlen scrollen in alle Richtungen; Panzer, Raketen, Kraftfelder und knapper Treibstoff machen jeden Flug gefährlich. Zuerst für die Atari-Heimcomputer entstanden, gehörte das Spiel zu den bekannten frühen Actiontiteln von Synapse.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Steve Hales (Original), Joe Vierra (C64-Umsetzung)",
+    "en": "In a rescue helicopter the player penetrates an underground fortress to free prisoners and destroy the core of the complex. The labyrinthine caves scroll in all directions; tanks, missiles, force fields and scarce fuel make every flight dangerous. Originally created for the Atari home computers, the game was one of Synapse's well-known early action titles.\n\nThis file contains the game as a tape archive (T64); there are several versions (original, conversions, cracks).\n\nCode: Steve Hales (original), Joe Vierra (C64 conversion)"
+  },
+  "images": {
+    "ss": "images/ef/eff6d468ed7dfdfab0e6973468a75e4694c23c31.png",
+    "sstitle": "images/f7/f7e9cac29bb4dc2ff6b1ed1e06a4bbaa45b07fc8.png"
+  }
+}

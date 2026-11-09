@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "80af77dd39bb95185d0ff61a838e630e0bb83646",
+  "md5": "b69e0fd4cb40ec8c0e16ef15c82437c5",
+  "crc32": "04f71453",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "The Way of the Exploding Fist.d64"
+  ],
+  "screenscraper_id": "36782",
+  "title": "The Way of the Exploding Fist",
+  "year": "1985",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software (Gregg Barnett, Bruce Bayley, David Johnston, Greg Holland)",
+  "genres": [
+    "Beat'em Up",
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Karate-Zweikampf vor wechselnden Kulissen: Zwei Kämpfer messen sich mit rund 18 Tritten, Schlägen und Sprüngen, die über Joystickrichtungen mit und ohne Feuerknopf ausgelöst werden. Ein Richter vergibt halbe und ganze Punkte, wer zuerst zwei ganze erzielt, gewinnt die Runde und steigt im Dan-Grad auf. Zu zweit wird gegeneinander gespielt. Das Spiel prägte die Kampfspiele auf Heimcomputern und war 1985 ein großer Verkaufserfolg.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Neil Brennan",
+  "texts": {
+    "de": "Karate-Zweikampf vor wechselnden Kulissen: Zwei Kämpfer messen sich mit rund 18 Tritten, Schlägen und Sprüngen, die über Joystickrichtungen mit und ohne Feuerknopf ausgelöst werden. Ein Richter vergibt halbe und ganze Punkte, wer zuerst zwei ganze erzielt, gewinnt die Runde und steigt im Dan-Grad auf. Zu zweit wird gegeneinander gespielt. Das Spiel prägte die Kampfspiele auf Heimcomputern und war 1985 ein großer Verkaufserfolg.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nMusik: Neil Brennan",
+    "en": "Karate duel against changing backdrops: two fighters face each other with around 18 kicks, punches and jumps, triggered by joystick directions with and without the fire button. A referee awards half and full points; whoever scores two full points first wins the round and rises in Dan grade. Two players play against each other. The game shaped fighting games on home computers and was a big commercial success in 1985.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nMusic: Neil Brennan"
+  },
+  "images": {
+    "ss": "images/5e/5e1a0ff3a6e3c5a5a8db218284f95d3b8bfd1af8.png",
+    "sstitle": "images/68/689a09793520c9daf812046246079af4f4a4ef23.png"
+  }
+}

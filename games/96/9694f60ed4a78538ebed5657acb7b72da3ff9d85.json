@@ -16,5 +16,9 @@
     "Sport"
   ],
   "players": "1",
-  "synopsis": "Golfspiel auf einem Wüstenplaneten, ursprünglich als Browserspiel auf itch.io und Newgrounds erschienen und hier in einer C64-Umsetzung. Spielinhalt und Steuerung sind in den beiliegenden Dateien nicht beschrieben.\n\nErste öffentliche Testfassung („Test 1“) vom Juli 2026 als ZIP mit D64, Bild und Liesmich-Datei; der Autor bittet um Rückmeldungen vom echten C64. Hokuto Force veröffentlichte dieselbe Vorschau am 17. Juli 2026."
+  "synopsis": "Golfspiel auf einem Wüstenplaneten, ursprünglich als Browserspiel auf itch.io und Newgrounds erschienen und hier in einer C64-Umsetzung. Spielinhalt und Steuerung sind in den beiliegenden Dateien nicht beschrieben.\n\nErste öffentliche Testfassung („Test 1“) vom Juli 2026 als ZIP mit D64, Bild und Liesmich-Datei; der Autor bittet um Rückmeldungen vom echten C64. Hokuto Force veröffentlichte dieselbe Vorschau am 17. Juli 2026.",
+  "texts": {
+    "de": "Golfspiel auf einem Wüstenplaneten, ursprünglich als Browserspiel auf itch.io und Newgrounds erschienen und hier in einer C64-Umsetzung. Spielinhalt und Steuerung sind in den beiliegenden Dateien nicht beschrieben.\n\nErste öffentliche Testfassung („Test 1“) vom Juli 2026 als ZIP mit D64, Bild und Liesmich-Datei; der Autor bittet um Rückmeldungen vom echten C64. Hokuto Force veröffentlichte dieselbe Vorschau am 17. Juli 2026.",
+    "en": "Golf game on a desert planet, originally released as a browser game on itch.io and Newgrounds and here in a C64 conversion. Gameplay and controls are not described in the accompanying files.\n\nFirst public test version (\"Test 1\") from July 2026 as a ZIP with D64, image and readme file; the author asks for feedback from real C64s. Hokuto Force released the same preview on 17 July 2026."
+  }
 }

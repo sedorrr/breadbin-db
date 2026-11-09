@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a467407c96b6a555feff97a66b13c252a66a33f8",
+  "md5": "19c3b801ad45c756085b080eea14cb3c",
+  "crc32": "4403ba7c",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Stix (J1).crt"
+  ],
+  "screenscraper_id": "113131",
+  "title": "Stix",
+  "year": "1983",
+  "publisher": "Supersoft",
+  "developer": "Andrew Trott",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Automatenprinzips Qix: Der Spieler zieht mit seinem Marker Linien über das Spielfeld und schließt damit Flächen ab, bis ein vorgegebener Anteil gefüllt ist. Währenddessen wandert der „Stix“, ein zappelndes Linienbündel, über die freie Fläche und darf die halb fertige Linie nicht berühren. Funken laufen am Rand entlang und verfolgen den Marker. Langsam gezogene Flächen bringen mehr Punkte, sind aber riskanter.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Andrew Trott",
+  "texts": {
+    "de": "Umsetzung des Automatenprinzips Qix: Der Spieler zieht mit seinem Marker Linien über das Spielfeld und schließt damit Flächen ab, bis ein vorgegebener Anteil gefüllt ist. Währenddessen wandert der „Stix“, ein zappelndes Linienbündel, über die freie Fläche und darf die halb fertige Linie nicht berühren. Funken laufen am Rand entlang und verfolgen den Marker. Langsam gezogene Flächen bringen mehr Punkte, sind aber riskanter.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Andrew Trott",
+    "en": "Conversion of the Qix arcade principle: the player draws lines across the playfield with a marker, closing off areas until a set proportion is filled. Meanwhile the \"Stix\", a writhing bundle of lines, wanders across the free area and must not touch the half-finished line. Sparks run along the edge and chase the marker. Areas drawn slowly earn more points but are riskier.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading. Controlled with a joystick in port 1.\n\nCode: Andrew Trott"
+  },
+  "images": {
+    "ss": "images/ff/ff50137a4989e814bde648a10a5601af395eb539.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "983857c2cbd4781446c6f67f6bcc58cb9957f2bb",
+  "md5": "326f900ced495b71b61dc7af518b65e1",
+  "crc32": "6b55f830",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Who Dares Wins II.crt"
+  ],
+  "screenscraper_id": "36404",
+  "title": "Who Dares Wins II",
+  "year": "1985",
+  "publisher": "Alligata",
+  "developer": "Steve Evans",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Ein einzelner Soldat mit Gewehr und wenigen Granaten kämpft sich durch feindliches Gebiet und muss acht Außenposten einnehmen. Unterwegs lassen sich Fahrzeuge zerstören und Gefangene befreien, die bei zu langem Zögern hingerichtet werden. Das Spiel ist eine überarbeitete Fassung von Who Dares Wins, das wegen seiner Nähe zu Commando zurückgezogen werden musste.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode, Grafik und Musik: Steve Evans",
+  "texts": {
+    "de": "Ein einzelner Soldat mit Gewehr und wenigen Granaten kämpft sich durch feindliches Gebiet und muss acht Außenposten einnehmen. Unterwegs lassen sich Fahrzeuge zerstören und Gefangene befreien, die bei zu langem Zögern hingerichtet werden. Das Spiel ist eine überarbeitete Fassung von Who Dares Wins, das wegen seiner Nähe zu Commando zurückgezogen werden musste.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode, Grafik und Musik: Steve Evans",
+    "en": "A lone soldier with a rifle and a few grenades fights his way through enemy territory and has to capture eight outposts. Along the way, vehicles can be destroyed and prisoners freed, who are executed if the player hesitates too long. The game is a revised version of Who Dares Wins, which had to be withdrawn because of its similarity to Commando.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without additional loading.\n\nCode, graphics and music: Steve Evans"
+  },
+  "images": {
+    "ss": "images/f1/f1e87c7dfa3b79009c878c00024444278a987512.png",
+    "sstitle": "images/83/83bb88c684876fd22aa64048022a72ce19832dfd.png"
+  }
+}

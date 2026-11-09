@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "b490d6ba46fd8ca187bf69680b39111d506bc26d",
+  "md5": "6548ba5fc4d39816758816eea68b9679",
+  "crc32": "44da1bef",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Pole Position (J1).crt"
+  ],
+  "screenscraper_id": "36171",
+  "title": "Pole Position",
+  "year": "1984",
+  "publisher": "Atarisoft",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Auf der Rennstrecke von Fuji fährt man zunächst eine Qualifikationsrunde gegen die Uhr; wer schnell genug ist, startet im Rennen und muss möglichst viele Gegner überholen. Die Strecke wird aus der Sicht hinter dem Wagen gezeigt, Kurven und Berührungen mit anderen Wagen oder Schildern kosten Zeit oder enden in einer Explosion. Namcos Automat von 1982 machte die Verfolgerperspektive im Rennspiel populär.\n\nAtarisoft veröffentlichte die C64-Fassung auf Modul und Diskette, in Europa vertrieb U.S. Gold sie auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 1.",
+  "texts": {
+    "de": "Auf der Rennstrecke von Fuji fährt man zunächst eine Qualifikationsrunde gegen die Uhr; wer schnell genug ist, startet im Rennen und muss möglichst viele Gegner überholen. Die Strecke wird aus der Sicht hinter dem Wagen gezeigt, Kurven und Berührungen mit anderen Wagen oder Schildern kosten Zeit oder enden in einer Explosion. Namcos Automat von 1982 machte die Verfolgerperspektive im Rennspiel populär.\n\nAtarisoft veröffentlichte die C64-Fassung auf Modul und Diskette, in Europa vertrieb U.S. Gold sie auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 1.",
+    "en": "On the Fuji race track, the player first drives a qualifying lap against the clock; anyone fast enough starts the race and has to overtake as many opponents as possible. The track is shown from behind the car; bends and contact with other cars or signs cost time or end in an explosion. Namco's 1982 arcade game popularised the chase-camera perspective in racing games.\n\nAtarisoft released the C64 version on cartridge and disk; in Europe U.S. Gold distributed it on cassette and disk. Controlled with the joystick in port 1."
+  }
+}

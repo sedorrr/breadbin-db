@@ -19,6 +19,10 @@
   ],
   "players": "1",
   "synopsis": "Ableger von Tenebra: Die Spielfigur steht inmitten einer immer größer werdenden Horde von Monstern. Sie schießt von selbst; man steuert Bewegung und Schussrichtung, sammelt Erfahrung, steigt im Level auf und erhält neue Fähigkeiten. Gedacht als kurzes Spiel für zwischendurch.\n\nPAL und NTSC. Joystick in Port 2 bewegt die Figur; Feuer halten und Richtung drücken ändert die Schussrichtung (waagerecht, senkrecht, diagonal), alternativ übernimmt ein zweiter Joystick in Port 1 das Zielen. Als PRG und D64.\n\nCode: Haplo · Musik: unbekannter Komponist",
+  "texts": {
+    "de": "Ableger von Tenebra: Die Spielfigur steht inmitten einer immer größer werdenden Horde von Monstern. Sie schießt von selbst; man steuert Bewegung und Schussrichtung, sammelt Erfahrung, steigt im Level auf und erhält neue Fähigkeiten. Gedacht als kurzes Spiel für zwischendurch.\n\nPAL und NTSC. Joystick in Port 2 bewegt die Figur; Feuer halten und Richtung drücken ändert die Schussrichtung (waagerecht, senkrecht, diagonal), alternativ übernimmt ein zweiter Joystick in Port 1 das Zielen. Als PRG und D64.\n\nCode: Haplo · Musik: unbekannter Komponist",
+    "en": "Spin-off of Tenebra: the character stands in the middle of an ever-growing horde of monsters. They shoot automatically; the player controls movement and firing direction, gains experience, levels up and acquires new abilities. Intended as a short game for in between.\n\nPAL and NTSC. A joystick in port 2 moves the character; holding fire and pressing a direction changes the firing direction (horizontal, vertical, diagonal), alternatively a second joystick in port 1 takes over aiming. As PRG and D64.\n\nCode: Haplo · Music: unknown composer"
+  },
   "images": {
     "sstitle": "images/4e/4e0164e446d0d37a2cf504bd43486f4f049dd380.png"
   }

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "b055119163fdca41e91ba5ffc244691eb9145184",
+  "md5": "759424cd13184ac8f48eb91372203135",
+  "crc32": "6bdef3e5",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Castle Master.crt"
+  ],
+  "screenscraper_id": "36149",
+  "title": "Castle Master",
+  "year": "1990",
+  "publisher": "Domark",
+  "developer": "Incentive Software",
+  "genres": [
+    "Action / Abenteuer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Freescape-Abenteuer, in dem der Spieler zu Beginn wählt, ob er als Prinz oder Prinzessin den entführten Zwilling aus einer Burg befreit. Die Burg mit Türmen, Kellern und Katakomben wird aus der Ich-Sicht erkundet; Schlüssel öffnen Türen, Geister greifen an, Rätsel versperren den Weg. Der Gegner ist der Geist Magister, der die Burg beherrscht. Castle Master gilt als ausgereiftestes Spiel der Freescape-Reihe.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Chris Andrew, Ian Andrew, Paul Gregory, Sean Ellis · Grafik: Mike Salmon · Musik: Matt Furniss",
+  "texts": {
+    "de": "Freescape-Abenteuer, in dem der Spieler zu Beginn wählt, ob er als Prinz oder Prinzessin den entführten Zwilling aus einer Burg befreit. Die Burg mit Türmen, Kellern und Katakomben wird aus der Ich-Sicht erkundet; Schlüssel öffnen Türen, Geister greifen an, Rätsel versperren den Weg. Der Gegner ist der Geist Magister, der die Burg beherrscht. Castle Master gilt als ausgereiftestes Spiel der Freescape-Reihe.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Chris Andrew, Ian Andrew, Paul Gregory, Sean Ellis · Grafik: Mike Salmon · Musik: Matt Furniss",
+    "en": "Freescape adventure in which the player chooses at the start whether to free the kidnapped twin from a castle as the prince or as the princess. The castle with towers, cellars and catacombs is explored from a first-person view; keys open doors, ghosts attack and puzzles block the way. The adversary is the spirit Magister, who rules the castle. Castle Master is regarded as the most polished game in the Freescape series.\n\nReleased on disk and cassette. It is controlled by joystick and keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no multi-loading.\n\nCode: Chris Andrew, Ian Andrew, Paul Gregory, Sean Ellis · Graphics: Mike Salmon · Music: Matt Furniss"
+  }
+}

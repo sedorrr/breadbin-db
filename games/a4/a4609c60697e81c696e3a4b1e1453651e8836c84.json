@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "a4609c60697e81c696e3a4b1e1453651e8836c84",
+  "md5": "1c41fd1dc6bcc27b6a1e0670c0bd302f",
+  "crc32": "3936c428",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Space Invaders (Mariano Kalafatovich - v1.1 - 2021).crt"
+  ],
+  "screenscraper_id": "501326",
+  "title": "Space Invaders (Mariano Kalafatovich)",
+  "year": "2021",
+  "publisher": "Mariano Kalafatovich",
+  "developer": "Mariano Kalafatovich",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Neue C64-Umsetzung des Taito-Automaten von 1978: Reihen von Außerirdischen wandern seitlich hin und her und rücken nach jedem Randkontakt tiefer, während die Kanone des Spielers am unteren Rand hinter Schutzbunkern Deckung sucht. Die Nähe zum Automaten in Ablauf und Aussehen steht im Vordergrund.\n\nSelbst entwickeltes Spiel aus dem Jahr 2021, vollständig in Assembler geschrieben; verbreitet als Programmdatei und als OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick. Belegte 2021 den zweiten Platz bei den Commodore Mania Awards.\n\nCode, Grafik und Ton: Mariano Kalafatovich",
+  "texts": {
+    "de": "Neue C64-Umsetzung des Taito-Automaten von 1978: Reihen von Außerirdischen wandern seitlich hin und her und rücken nach jedem Randkontakt tiefer, während die Kanone des Spielers am unteren Rand hinter Schutzbunkern Deckung sucht. Die Nähe zum Automaten in Ablauf und Aussehen steht im Vordergrund.\n\nSelbst entwickeltes Spiel aus dem Jahr 2021, vollständig in Assembler geschrieben; verbreitet als Programmdatei und als OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick. Belegte 2021 den zweiten Platz bei den Commodore Mania Awards.\n\nCode, Grafik und Ton: Mariano Kalafatovich",
+    "en": "New C64 conversion of the 1978 Taito arcade machine: rows of aliens move sideways back and forth and descend further after each contact with the edge, while the player's cannon at the bottom of the screen takes cover behind protective bunkers. The focus is on closeness to the arcade machine in gameplay and appearance.\n\nIndependently developed game from 2021, written entirely in assembler; distributed as a program file and as a OneLoad64 cartridge conversion. Controlled with a joystick. Took second place at the Commodore Mania Awards in 2021.\n\nCode, graphics and sound: Mariano Kalafatovich"
+  }
+}

@@ -17,5 +17,13 @@
     "Plattform / Jump 'n' Run"
   ],
   "players": "1-2",
-  "synopsis": "Szene-Bearbeitung von The Great Giana Sisters (1987) mit 16 neuen Leveln, die mit dem Giana Sisters Construction Kit gebaut wurden. Spielprinzip wie im Original: durch seitlich scrollende Welten laufen und springen, Diamanten sammeln, Gegner erledigen und mit Extras wie dem Ball-Schuss weiterkommen. Gegenüber den 33 Leveln des Originals ist der Durchgang etwa halb so lang.\n\nDisk-Fassung (Who Cares, September 2023) mit Trainer-Menü (laut CSDb +13) und Highscore-Datei. Joystick. Musik- und Level-Dateien werden nachgeladen."
+  "synopsis": "Szene-Bearbeitung von The Great Giana Sisters (1987) mit 16 neuen Leveln, die mit dem Giana Sisters Construction Kit gebaut wurden. Spielprinzip wie im Original: durch seitlich scrollende Welten laufen und springen, Diamanten sammeln, Gegner erledigen und mit Extras wie dem Ball-Schuss weiterkommen. Gegenüber den 33 Leveln des Originals ist der Durchgang etwa halb so lang.\n\nDisk-Fassung (Who Cares, September 2023) mit Trainer-Menü (laut CSDb +13) und Highscore-Datei. Joystick. Musik- und Level-Dateien werden nachgeladen.",
+  "texts": {
+    "de": "Szene-Bearbeitung von The Great Giana Sisters (1987) mit 16 neuen Leveln, die mit dem Giana Sisters Construction Kit gebaut wurden. Spielprinzip wie im Original: durch seitlich scrollende Welten laufen und springen, Diamanten sammeln, Gegner erledigen und mit Extras wie dem Ball-Schuss weiterkommen. Gegenüber den 33 Leveln des Originals ist der Durchgang etwa halb so lang.\n\nDisk-Fassung (Who Cares, September 2023) mit Trainer-Menü (laut CSDb +13) und Highscore-Datei. Joystick. Musik- und Level-Dateien werden nachgeladen.",
+    "en": "Scene modification of The Great Giana Sisters (1987) with 16 new levels built with the Giana Sisters Construction Kit. Gameplay as in the original: run and jump through horizontally scrolling worlds, collect diamonds, defeat enemies and progress with power-ups such as the ball shot. Compared with the 33 levels of the original, a playthrough is about half as long.\n\nDisk version (Who Cares, September 2023) with trainer menu (+13 according to CSDb) and high score file. Joystick. Music and level files are loaded separately."
+  },
+  "images": {
+    "ss": "images/ef/ef97468b96d6938ce2bf95cb49d5b41d5a773be0.png",
+    "sstitle": "images/b8/b822fe983b6e332ac01bd80f086c10831af8bcd2.png"
+  }
 }

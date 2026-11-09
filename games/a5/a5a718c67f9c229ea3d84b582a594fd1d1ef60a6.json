@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a5a718c67f9c229ea3d84b582a594fd1d1ef60a6",
+  "md5": "6792b36ecf0151f8a28f6b55dd69004d",
+  "crc32": "847e10b9",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Dropzone.crt"
+  ],
+  "screenscraper_id": "36452",
+  "title": "Dropzone",
+  "year": "1985",
+  "publisher": "U.S. Gold",
+  "developer": "Archer Maclean",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Spiel nach dem Vorbild von Defender: Auf dem Jupitermond Io rettet ein Raumfahrer mit Raketenrucksack Menschen und bringt sie zur Landeplattform, der Dropzone. Gegner werfen Androiden ab und greifen in hohem Tempo an. Ein Tarnschild macht kurz unverwundbar, Smartbombs räumen den Bildschirm. Das sehr schnelle, flüssige Spiel war Archer Macleans Durchbruch.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Archer Maclean · keine Musik, nur Geräusche",
+  "texts": {
+    "de": "Spiel nach dem Vorbild von Defender: Auf dem Jupitermond Io rettet ein Raumfahrer mit Raketenrucksack Menschen und bringt sie zur Landeplattform, der Dropzone. Gegner werfen Androiden ab und greifen in hohem Tempo an. Ein Tarnschild macht kurz unverwundbar, Smartbombs räumen den Bildschirm. Das sehr schnelle, flüssige Spiel war Archer Macleans Durchbruch.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Archer Maclean · keine Musik, nur Geräusche",
+    "en": "Game modelled on Defender: on Jupiter's moon Io, an astronaut with a jetpack rescues people and brings them to the landing platform, the Dropzone. Enemies drop androids and attack at high speed. A cloaking shield gives brief invulnerability, and smart bombs clear the screen. The very fast, smooth game was Archer Maclean's breakthrough.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: Archer Maclean · no music, sound effects only"
+  },
+  "images": {
+    "ss": "images/db/db4514336312c902c9f593fbf443a81c74d3977e.png",
+    "sstitle": "images/c0/c09aba7f162757b9a011b383b22d7b763134af30.png"
+  }
+}

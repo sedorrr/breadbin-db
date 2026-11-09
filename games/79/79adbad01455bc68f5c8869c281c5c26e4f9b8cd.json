@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "79adbad01455bc68f5c8869c281c5c26e4f9b8cd",
+  "md5": "15c634bbf19d9abb53031919f938d21f",
+  "crc32": "fcb7bfbd",
+  "size": 20767,
+  "format": "T64",
+  "files": [
+    "GALAGA1.T64"
+  ],
+  "screenscraper_id": "112502",
+  "title": "Galaga",
+  "year": "1982",
+  "developer": "Henrik Wening",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Inoffizielle Nachbildung des Namco-Automaten Galaga von 1981: Insektenartige Gegner fliegen in Formation ein, ordnen sich am oberen Bildrand und stürzen sich dann auf das Schiff des Spielers. Wie im Vorbild können Bossgegner das Schiff mit einem Traktorstrahl einfangen, das sich später zurückholen lässt. Eine offizielle C64-Fassung von Namco gab es nicht.\n\nVerbreitet als Datei bzw. auf Diskette, dazu als Modulumsetzung. Steuerung per Joystick in Port 2.\n\nCode und Grafik: Henrik Wening",
+  "texts": {
+    "de": "Inoffizielle Nachbildung des Namco-Automaten Galaga von 1981: Insektenartige Gegner fliegen in Formation ein, ordnen sich am oberen Bildrand und stürzen sich dann auf das Schiff des Spielers. Wie im Vorbild können Bossgegner das Schiff mit einem Traktorstrahl einfangen, das sich später zurückholen lässt. Eine offizielle C64-Fassung von Namco gab es nicht.\n\nVerbreitet als Datei bzw. auf Diskette, dazu als Modulumsetzung. Steuerung per Joystick in Port 2.\n\nCode und Grafik: Henrik Wening",
+    "en": "Unofficial recreation of Namco's 1981 arcade machine Galaga: insect-like enemies fly in in formation, line up at the top of the screen and then dive at the player's ship. As in the original, boss enemies can capture the ship with a tractor beam, and it can later be recovered. There was no official C64 version from Namco.\n\nDistributed as a file or on disk, and also as a cartridge conversion. Controlled by joystick in port 2.\n\nCode and graphics: Henrik Wening"
+  }
+}

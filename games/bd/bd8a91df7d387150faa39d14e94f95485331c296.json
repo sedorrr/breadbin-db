@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "bd8a91df7d387150faa39d14e94f95485331c296",
+  "md5": "3ac8304792fcb95d29215b6ca2161c97",
+  "crc32": "bc4d6ed9",
+  "size": 37890,
+  "format": "T64",
+  "files": [
+    "EXOLON.T64"
+  ],
+  "screenscraper_id": "36429",
+  "title": "Exolon",
+  "year": "1987",
+  "publisher": "Hewson",
+  "developer": "Raffaele Cecco; C64-Umsetzung: Nick Jones",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Ein Raumsoldat kämpft sich zu Fuß über einen feindlichen Planeten, Bildschirm für Bildschirm von links nach rechts. Ihm stehen ein Strahlengewehr und eine begrenzte Zahl Granaten zur Verfügung, mit denen er Geschütze, Raketenwerfer und angreifende Wesen ausschaltet. Unterwegs kann er einen Kampfanzug anlegen, der ihn widerstandsfähiger macht. Die großen, farbenfrohen Figuren und das genaue Timing machten Exolon zu einem der bekanntesten Hewson-Spiele.\n\nUrsprünglich für ZX Spectrum und Amstrad CPC geschrieben; die C64-Umsetzung erschien bei Hewson auf Kassette und Diskette. Musik gibt es dort nur im Titelbild, im Spiel sind Geräusche zu hören. Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Raffaele Cecco · Code und Musik (C64): Nick Jones",
+  "texts": {
+    "de": "Ein Raumsoldat kämpft sich zu Fuß über einen feindlichen Planeten, Bildschirm für Bildschirm von links nach rechts. Ihm stehen ein Strahlengewehr und eine begrenzte Zahl Granaten zur Verfügung, mit denen er Geschütze, Raketenwerfer und angreifende Wesen ausschaltet. Unterwegs kann er einen Kampfanzug anlegen, der ihn widerstandsfähiger macht. Die großen, farbenfrohen Figuren und das genaue Timing machten Exolon zu einem der bekanntesten Hewson-Spiele.\n\nUrsprünglich für ZX Spectrum und Amstrad CPC geschrieben; die C64-Umsetzung erschien bei Hewson auf Kassette und Diskette. Musik gibt es dort nur im Titelbild, im Spiel sind Geräusche zu hören. Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Raffaele Cecco · Code und Musik (C64): Nick Jones",
+    "en": "A space soldier fights his way on foot across a hostile planet, screen by screen from left to right. He has a blaster and a limited number of grenades with which he takes out guns, rocket launchers and attacking creatures. Along the way he can put on a battle suit that makes him more resilient. The large, colourful characters and precise timing made Exolon one of the best-known Hewson games.\n\nOriginally written for the ZX Spectrum and Amstrad CPC; the C64 conversion was released by Hewson on tape and disk. There, music is only played on the title screen; during the game there are sound effects. Controlled via joystick or keyboard. Besides the originals, there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without additional loading.\n\nDesign: Raffaele Cecco · Code and music (C64): Nick Jones"
+  }
+}

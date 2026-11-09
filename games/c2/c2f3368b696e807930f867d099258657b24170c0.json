@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "c2f3368b696e807930f867d099258657b24170c0",
+  "md5": "1ac6b42041805b256ad9697833d6493f",
+  "crc32": "2a41200b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BOMBJCK1.D64"
+  ],
+  "screenscraper_id": "36289",
+  "title": "Bomb Jack",
+  "year": "1986",
+  "publisher": "Elite",
+  "developer": "Chris Harvey (Elite Systems)",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Tecmo-Automaten: Der Held Jack hüpft und schwebt über einen festen Bildschirm und entschärft Bomben. Wer sie in der richtigen Reihenfolge einsammelt, erhält Zusatzpunkte. Roboter, Vögel und andere Gegner werden mit der Zeit schneller und zahlreicher; Extras frieren sie kurz ein oder bringen ein Leben. Das einfache, schnelle Prinzip machte das Spiel zu einem beliebten Automaten-Ableger auf dem C64.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Chris Harvey · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Umsetzung des Tecmo-Automaten: Der Held Jack hüpft und schwebt über einen festen Bildschirm und entschärft Bomben. Wer sie in der richtigen Reihenfolge einsammelt, erhält Zusatzpunkte. Roboter, Vögel und andere Gegner werden mit der Zeit schneller und zahlreicher; Extras frieren sie kurz ein oder bringen ein Leben. Das einfache, schnelle Prinzip machte das Spiel zu einem beliebten Automaten-Ableger auf dem C64.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Chris Harvey · Musik: Mark Cooksey",
+    "en": "Conversion of the Tecmo arcade machine: the hero Jack hops and floats around a fixed screen defusing bombs. Collecting them in the right order earns bonus points. Robots, birds and other enemies become faster and more numerous over time; power-ups briefly freeze them or give an extra life. The simple, fast-paced principle made the game a popular arcade offshoot on the C64.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Chris Harvey · Music: Mark Cooksey"
+  },
+  "images": {
+    "ss": "images/df/dfa227718b17dcdc102e35c0d1781ecadd17b3f5.png",
+    "sstitle": "images/f4/f4d66a294b39771435f903ba8dd83a89cd4bbe14.png"
+  }
+}

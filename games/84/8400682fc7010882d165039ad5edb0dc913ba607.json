@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "8400682fc7010882d165039ad5edb0dc913ba607",
+  "md5": "a974d9d6a9230c471b1a9dc498fdd098",
+  "crc32": "8856d7c9",
+  "size": 558372,
+  "format": "TAP",
+  "files": [
+    "Ballblazer (Prestige Collection).tap"
+  ],
+  "screenscraper_id": "109841",
+  "title": "Ballblazer",
+  "year": "1985",
+  "publisher": "Epyx",
+  "developer": "Lucasfilm Games (David Levine, Peter Langston)",
+  "genres": [
+    "Sport",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Zwei schwebende Gleiter, Rotofoils genannt, treten auf einem schachbrettartigen Feld gegeneinander an und versuchen, eine Energiekugel einzufangen und durch das gegnerische Tor zu schießen. Beide Spieler sehen das Geschehen gleichzeitig in einem waagerecht geteilten Bild aus der eigenen Perspektive, wobei das Feld flüssig in Pseudo-3D mitläuft. Allein spielt man gegen Computergegner in mehreren Stärkestufen. Bekannt ist das Spiel auch für seine Titelmusik, die nach Peter Langstons Verfahren laufend aus kurzen Motiven neu zusammengesetzt wird. Ballblazer gehörte zu den ersten Spielen von Lucasfilm Games und zeigte, wie viel Tempo und Räumlichkeit 8-Bit-Rechner darstellen können.\n\nDas Spiel entstand zuerst für die Atari-8-Bit-Rechner; die C64-Fassung erschien in den USA bei Epyx auf Diskette, in Europa vertrieb Activision das Spiel. Gesteuert wird per Joystick, für zwei Spieler werden zwei Joysticks gebraucht. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: David Levine · Musik: Peter Langston",
+  "texts": {
+    "de": "Zwei schwebende Gleiter, Rotofoils genannt, treten auf einem schachbrettartigen Feld gegeneinander an und versuchen, eine Energiekugel einzufangen und durch das gegnerische Tor zu schießen. Beide Spieler sehen das Geschehen gleichzeitig in einem waagerecht geteilten Bild aus der eigenen Perspektive, wobei das Feld flüssig in Pseudo-3D mitläuft. Allein spielt man gegen Computergegner in mehreren Stärkestufen. Bekannt ist das Spiel auch für seine Titelmusik, die nach Peter Langstons Verfahren laufend aus kurzen Motiven neu zusammengesetzt wird. Ballblazer gehörte zu den ersten Spielen von Lucasfilm Games und zeigte, wie viel Tempo und Räumlichkeit 8-Bit-Rechner darstellen können.\n\nDas Spiel entstand zuerst für die Atari-8-Bit-Rechner; die C64-Fassung erschien in den USA bei Epyx auf Diskette, in Europa vertrieb Activision das Spiel. Gesteuert wird per Joystick, für zwei Spieler werden zwei Joysticks gebraucht. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: David Levine · Musik: Peter Langston",
+    "en": "Two hovering craft, called Rotofoils, face each other on a chequerboard field and try to capture an energy ball and shoot it through the opponent's goal. Both players see the action simultaneously from their own perspective in a horizontally split screen, with the field scrolling smoothly in pseudo-3D. A single player competes against computer opponents at several skill levels. The game is also known for its title music, which is continuously reassembled from short motifs using Peter Langston's method. Ballblazer was one of the first games from Lucasfilm Games and showed how much speed and sense of space 8-bit computers could display.\n\nThe game was first created for the Atari 8-bit computers; the C64 version was released on disk by Epyx in the USA, while Activision distributed the game in Europe. It is controlled by joystick, and two joysticks are needed for two players. In addition to the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without multi-loading.\n\nCode: David Levine · Music: Peter Langston"
+  }
+}

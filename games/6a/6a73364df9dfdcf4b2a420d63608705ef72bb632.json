@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "6a73364df9dfdcf4b2a420d63608705ef72bb632",
+  "md5": "fe27926e73e79bd91908e11c5ca2a81c",
+  "crc32": "f3d02788",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LODERUN6.D64"
+  ],
+  "screenscraper_id": "35922",
+  "title": "Lode Runner",
+  "year": "1983",
+  "publisher": "Brøderbund",
+  "developer": "Doug Smith (Design)",
+  "genres": [
+    "Plattform",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler sammelt in 150 Bildern aus Leitern, Seilen und Ziegelböden alle Goldstücke ein, während Wächter ihn verfolgen. Eine Waffe gibt es nicht; stattdessen gräbt er links oder rechts Löcher in den Boden, in die Wächter fallen und kurz festsitzen. Ist alles Gold eingesammelt, erscheint eine Leiter zum Ausgang. Ein eingebauter Editor erlaubte eigene Bilder – eine damals neue Idee, die viel zum Erfolg beitrug.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).",
+  "texts": {
+    "de": "Der Spieler sammelt in 150 Bildern aus Leitern, Seilen und Ziegelböden alle Goldstücke ein, während Wächter ihn verfolgen. Eine Waffe gibt es nicht; stattdessen gräbt er links oder rechts Löcher in den Boden, in die Wächter fallen und kurz festsitzen. Ist alles Gold eingesammelt, erscheint eine Leiter zum Ausgang. Ein eingebauter Editor erlaubte eigene Bilder – eine damals neue Idee, die viel zum Erfolg beitrug.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).",
+    "en": "In 150 screens made of ladders, ropes and brick floors, the player collects all the gold while being pursued by guards. There is no weapon; instead he digs holes in the floor to the left or right, into which guards fall and are briefly stuck. Once all the gold has been collected, a ladder to the exit appears. A built-in editor allowed players to create their own screens – a new idea at the time that contributed greatly to its success.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks)."
+  },
+  "images": {
+    "ss": "images/96/961fe8dec1af99234b1d4b136d6da1b6fff312fb.png",
+    "sstitle": "images/16/166d57a76cbbb2e75484f6dfca281818d2c56f72.png"
+  }
+}

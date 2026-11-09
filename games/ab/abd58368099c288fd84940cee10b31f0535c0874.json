@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "abd58368099c288fd84940cee10b31f0535c0874",
+  "md5": "24181f379eb31592fe580981d7f68f45",
+  "crc32": "494fad17",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Wizball.crt"
+  ],
+  "screenscraper_id": "35970",
+  "title": "Wizball",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Sensible Software",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein ungewöhnlicher Shoot'em Up: Der Zauberer Wiz soll seiner grau gewordenen Welt die Farben zurückgeben. In seiner hüpfenden Kugel muss er erst lernen, sie zu steuern, dann mit Hilfe der Katze Catellite Farbtropfen sammeln, die in einem Kessel zu den Farben der Landschaft gemischt werden. Extras werden über ein Auswahlsystem gekauft. Eigenwillige Spielidee, Humor und die Musik von Martin Galway machten Wizball zu einem der bekanntesten C64-Spiele.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Chris Yates · Grafik: Jon Hare · Musik: Martin Galway",
+  "texts": {
+    "de": "Ein ungewöhnlicher Shoot'em Up: Der Zauberer Wiz soll seiner grau gewordenen Welt die Farben zurückgeben. In seiner hüpfenden Kugel muss er erst lernen, sie zu steuern, dann mit Hilfe der Katze Catellite Farbtropfen sammeln, die in einem Kessel zu den Farben der Landschaft gemischt werden. Extras werden über ein Auswahlsystem gekauft. Eigenwillige Spielidee, Humor und die Musik von Martin Galway machten Wizball zu einem der bekanntesten C64-Spiele.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Chris Yates · Grafik: Jon Hare · Musik: Martin Galway",
+    "en": "An unusual shoot 'em up: the wizard Wiz has to bring the colours back to his world, which has turned grey. In his bouncing ball he first has to learn how to steer it, then, with the help of the cat Catellite, collect drops of paint which are mixed in a cauldron into the colours of the landscape. Power-ups are bought via a selection system. The quirky game concept, humour and Martin Galway's music made Wizball one of the best-known C64 games.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without multi-loading.\n\nCode: Chris Yates · Graphics: Jon Hare · Music: Martin Galway"
+  },
+  "images": {
+    "sstitle": "images/a9/a9c19529f47d69d1f2db5848c4249e8e6168f373.png"
+  }
+}

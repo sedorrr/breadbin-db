@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8a10466bdf73c48d89ab6d5ff3d60ad505485421",
+  "md5": "4292358b3527e106abcc3ccbfd556154",
+  "crc32": "c1777517",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "HYPERSPO.D64"
+  ],
+  "screenscraper_id": "36674",
+  "title": "Hyper Sports",
+  "year": "1985",
+  "publisher": "Imagine",
+  "developer": "David A. Collier",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1",
+  "synopsis": "Nachfolger von Track & Field auf Grundlage des Konami-Automaten: Sechs Disziplinen – Freistilschwimmen, Tontaubenschießen, Pferdsprung, Bogenschießen, Dreisprung und Gewichtheben – werden nacheinander bestritten. Wie beim Vorbild entscheiden schnelles Rütteln am Joystick und Feuerdruck im richtigen Moment. Wer die Qualifikationsmarke einer Disziplin verfehlt, verliert ein Leben. Die Titelmusik von Martin Galway greift das Thema aus „Die Stunde des Siegers“ auf.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David A. Collier · Musik: Martin Galway",
+  "texts": {
+    "de": "Nachfolger von Track & Field auf Grundlage des Konami-Automaten: Sechs Disziplinen – Freistilschwimmen, Tontaubenschießen, Pferdsprung, Bogenschießen, Dreisprung und Gewichtheben – werden nacheinander bestritten. Wie beim Vorbild entscheiden schnelles Rütteln am Joystick und Feuerdruck im richtigen Moment. Wer die Qualifikationsmarke einer Disziplin verfehlt, verliert ein Leben. Die Titelmusik von Martin Galway greift das Thema aus „Die Stunde des Siegers“ auf.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David A. Collier · Musik: Martin Galway",
+    "en": "Successor to Track & Field based on the Konami arcade game: six events – freestyle swimming, clay pigeon shooting, vaulting, archery, triple jump and weightlifting – are contested one after another. As in the original, rapid joystick waggling and pressing fire at the right moment are decisive. Missing the qualifying mark in an event costs a life. Martin Galway's title music picks up the theme from \"Chariots of Fire\".\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: David A. Collier · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/a2/a2987c8fe498273a8a1893998cdb1b3550dacba4.png",
+    "sstitle": "images/12/12fc61cfee918d3355b92e19958add19b019eb0e.png"
+  }
+}

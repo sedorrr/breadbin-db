@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "b2f11ec9fbfeb306ce4761fae9d9b1b9c49def5b",
+  "md5": "0c2aeeca7a0629f655b86a66aac0c6fa",
+  "crc32": "dd5b638f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "KICKOFF4.D64"
+  ],
+  "screenscraper_id": "35961",
+  "title": "Kick Off 2",
+  "year": "1990",
+  "publisher": "Anco",
+  "developer": "Enigma Variations",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Fortsetzung von Kick Off: Das schnelle Fußballspiel in der Draufsicht wurde um Mannschaften, Turniere, Freistöße, Eckbälle und weitere Spielsituationen erweitert. Wie im Vorgänger bleibt der Ball nicht am Fuß kleben, sodass Ballführung und Passspiel geübt werden müssen. Zu zweit wird gleichzeitig gespielt.\n\nErschien auf Diskette und Kassette, mit Menüs in mehreren Sprachen (Englisch, Deutsch, Italienisch, Niederländisch). Gesteuert wird per Joystick.\n\nCode: Finlay Munro · Grafik: David Bland · Musik: Fredrik Segerfalk",
+  "texts": {
+    "de": "Fortsetzung von Kick Off: Das schnelle Fußballspiel in der Draufsicht wurde um Mannschaften, Turniere, Freistöße, Eckbälle und weitere Spielsituationen erweitert. Wie im Vorgänger bleibt der Ball nicht am Fuß kleben, sodass Ballführung und Passspiel geübt werden müssen. Zu zweit wird gleichzeitig gespielt.\n\nErschien auf Diskette und Kassette, mit Menüs in mehreren Sprachen (Englisch, Deutsch, Italienisch, Niederländisch). Gesteuert wird per Joystick.\n\nCode: Finlay Munro · Grafik: David Bland · Musik: Fredrik Segerfalk",
+    "en": "Sequel to Kick Off: the fast top-down football game has been expanded with teams, tournaments, free kicks, corners and further match situations. As in the predecessor, the ball does not stick to the player's foot, so dribbling and passing have to be practised. Two players play simultaneously.\n\nReleased on disk and tape, with menus in several languages (English, German, Italian, Dutch). Controlled by joystick.\n\nCode: Finlay Munro · Graphics: David Bland · Music: Fredrik Segerfalk"
+  }
+}

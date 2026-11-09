@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "767ec2fd3dd7acc452f5b26c729738451890c8e3",
+  "md5": "096cb48b92fc0b725e17b8efaf521539",
+  "crc32": "82d8ef94",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Stunt Car Racer.crt"
+  ],
+  "screenscraper_id": "36121",
+  "title": "Stunt Car Racer",
+  "year": "1989",
+  "publisher": "MicroStyle",
+  "developer": "Geoff Crammond",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rennspiel auf erhöhten Achterbahnstrecken: Mit einem aufgemotzten Wagen fährt man über Sprünge, Wellen und steile Kurven gegen jeweils einen Gegner. Schäden am Fahrzeug summieren sich, und wer von der Strecke stürzt, verliert Zeit. In einer Liga mit acht Strecken steigt man auf oder ab. Die flüssige 3D-Darstellung und das glaubwürdige Fahrverhalten waren auf dem C64 eine technische Leistung.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Geoff Crammond",
+  "texts": {
+    "de": "Ein Rennspiel auf erhöhten Achterbahnstrecken: Mit einem aufgemotzten Wagen fährt man über Sprünge, Wellen und steile Kurven gegen jeweils einen Gegner. Schäden am Fahrzeug summieren sich, und wer von der Strecke stürzt, verliert Zeit. In einer Liga mit acht Strecken steigt man auf oder ab. Die flüssige 3D-Darstellung und das glaubwürdige Fahrverhalten waren auf dem C64 eine technische Leistung.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Geoff Crammond",
+    "en": "A racing game on elevated roller-coaster tracks: in a souped-up car the player drives over jumps, bumps and steep bends against one opponent at a time. Damage to the vehicle accumulates, and falling off the track costs time. In a league with eight tracks, players are promoted or relegated. The smooth 3D graphics and convincing handling were a technical achievement on the C64.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading.\n\nCode: Geoff Crammond"
+  },
+  "images": {
+    "sstitle": "images/86/8675aa5d76e699f5f2c925f9677ff81611f33c20.png"
+  }
+}

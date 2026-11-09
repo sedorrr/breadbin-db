@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "b65b980b139febba7543fd0a27c40e59c1db405c",
+  "md5": "78b50184c0043a2a4b1f933e78b1f5d1",
+  "crc32": "96737a3b",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Wonderboy.crt"
+  ],
+  "screenscraper_id": "35880",
+  "title": "Wonder Boy",
+  "year": "1987",
+  "publisher": "Activision",
+  "developer": "Activision",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Sega-Automaten von 1986: Der Junge Tom-Tom läuft durch seitlich scrollende Inselwelten, um seine Freundin Tanya zu retten. Ein stetig sinkender Energiebalken zwingt zum Weiterlaufen und wird durch eingesammeltes Obst aufgefüllt. Mit Steinbeil und Skateboard aus den Eiern am Wegrand geht es gegen Schnecken, Frösche und andere Gegner, am Ende jedes Abschnitts wartet ein Endgegner.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nCode: Greg Duddle · Grafik: Dave Jones, Don McDermott",
+  "texts": {
+    "de": "Umsetzung des Sega-Automaten von 1986: Der Junge Tom-Tom läuft durch seitlich scrollende Inselwelten, um seine Freundin Tanya zu retten. Ein stetig sinkender Energiebalken zwingt zum Weiterlaufen und wird durch eingesammeltes Obst aufgefüllt. Mit Steinbeil und Skateboard aus den Eiern am Wegrand geht es gegen Schnecken, Frösche und andere Gegner, am Ende jedes Abschnitts wartet ein Endgegner.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nCode: Greg Duddle · Grafik: Dave Jones, Don McDermott",
+    "en": "Conversion of Sega's 1986 arcade game: the boy Tom-Tom runs through side-scrolling island worlds to rescue his girlfriend Tanya. A steadily falling energy bar forces him to keep moving and is replenished by collecting fruit. With a stone axe and skateboard from the eggs along the way, he takes on snails, frogs and other enemies, and a boss awaits at the end of each section.\n\nReleased on cassette and disk; there is also a OneLoad64 cartridge conversion. Controlled with the joystick; two players take turns.\n\nCode: Greg Duddle · Graphics: Dave Jones, Don McDermott"
+  }
+}

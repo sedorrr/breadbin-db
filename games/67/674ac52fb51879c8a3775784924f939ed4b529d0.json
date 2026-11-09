@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "674ac52fb51879c8a3775784924f939ed4b529d0",
+  "md5": "13ea842e448c7287a2cf0174c273e433",
+  "crc32": "96995eec",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Boulder Dash II - Rockford's Revenge (J1).crt"
+  ],
+  "screenscraper_id": "36272",
+  "title": "Boulder Dash II: Rockford's Revenge",
+  "year": "1985",
+  "publisher": "First Star Software",
+  "developer": "First Star Software; Design: Peter Liepa",
+  "genres": [
+    "Action / Labyrinth",
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Fortsetzung von Boulder Dash mit 16 neuen Höhlen und vier Bonusstufen. Rockford gräbt sich durch Erdreich, sammelt eine vorgegebene Zahl Diamanten und muss dabei fallenden Felsbrocken, Glühwürmchen und Schmetterlingen ausweichen. Die Physik der rutschenden Steine macht jede Höhle zu einem Rätsel unter Zeitdruck. Spielprinzip und Technik entsprechen dem ersten Teil, die Höhlen sind schwieriger aufgebaut.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nDesign: Peter Liepa",
+  "texts": {
+    "de": "Fortsetzung von Boulder Dash mit 16 neuen Höhlen und vier Bonusstufen. Rockford gräbt sich durch Erdreich, sammelt eine vorgegebene Zahl Diamanten und muss dabei fallenden Felsbrocken, Glühwürmchen und Schmetterlingen ausweichen. Die Physik der rutschenden Steine macht jede Höhle zu einem Rätsel unter Zeitdruck. Spielprinzip und Technik entsprechen dem ersten Teil, die Höhlen sind schwieriger aufgebaut.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nDesign: Peter Liepa",
+    "en": "Sequel to Boulder Dash with 16 new caves and four bonus stages. Rockford digs through the earth, collects a set number of diamonds and has to avoid falling boulders, fireflies and butterflies. The physics of the sliding rocks turns each cave into a puzzle against the clock. Gameplay and technology are the same as in the first part, but the caves are more difficult.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without further loading. Controlled with the joystick in port 1.\n\nDesign: Peter Liepa"
+  },
+  "images": {
+    "ss": "images/8c/8ca20abf48049d40419a143c1545d7c21b881875.png",
+    "sstitle": "images/b0/b0d54d2e94eb1db30f92fbc2185f322b0255fa42.png"
+  }
+}

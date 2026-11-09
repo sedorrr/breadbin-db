@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "769ed610ec56675bda217c003103c5ddd560f8a7",
+  "md5": "1861b1ca9d1f6fc1b4c790c76d6bdb26",
+  "crc32": "478d65e8",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "1942 (Music v1).crt"
+  ],
+  "screenscraper_id": "35861",
+  "title": "1942",
+  "year": "1986",
+  "publisher": "Elite",
+  "developer": "Elite",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Ein amerikanisches Jagdflugzeug kämpft sich im Pazifikkrieg über senkrecht scrollendes Meer und Inseln. Wellen japanischer Flugzeuge greifen in Formationen an; abgeschossene rote Staffeln hinterlassen Extras wie stärkere Bewaffnung oder Begleitflugzeuge. Mit einem Looping lässt sich feindlichem Beschuss für einen Moment ausweichen. Capcoms Automat von 1984 begründete eine lange Reihe von Weltkriegs-Ballerspielen.\n\nElite brachte die C64-Umsetzung 1986 auf Kassette und Diskette heraus; sie ist von zwei Ausgaben mit unterschiedlicher Titelmusik bekannt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Stephen Green · Grafik: Stephen Green · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Ein amerikanisches Jagdflugzeug kämpft sich im Pazifikkrieg über senkrecht scrollendes Meer und Inseln. Wellen japanischer Flugzeuge greifen in Formationen an; abgeschossene rote Staffeln hinterlassen Extras wie stärkere Bewaffnung oder Begleitflugzeuge. Mit einem Looping lässt sich feindlichem Beschuss für einen Moment ausweichen. Capcoms Automat von 1984 begründete eine lange Reihe von Weltkriegs-Ballerspielen.\n\nElite brachte die C64-Umsetzung 1986 auf Kassette und Diskette heraus; sie ist von zwei Ausgaben mit unterschiedlicher Titelmusik bekannt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Stephen Green · Grafik: Stephen Green · Musik: Mark Cooksey",
+    "en": "An American fighter plane fights its way over vertically scrolling sea and islands in the Pacific War. Waves of Japanese aircraft attack in formation; shot-down red squadrons leave behind power-ups such as stronger weapons or escort planes. A loop allows enemy fire to be evaded for a moment. Capcom's 1984 arcade game founded a long series of World War shooters.\n\nElite released the C64 conversion in 1986 on cassette and disk; it is known in two editions with different title music. Controlled with the joystick in port 2.\n\nCode: Stephen Green · Graphics: Stephen Green · Music: Mark Cooksey"
+  }
+}

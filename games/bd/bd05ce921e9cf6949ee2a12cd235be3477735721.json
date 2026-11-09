@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Breakout-Spiel im Stil von Arkanoid und Nachfolger von „Rob-Man“ desselben Autors. Die 24 Stufen werden bei jedem Spiel in neuer Reihenfolge gemischt; dahinter laufen mehrlagige Parallax-Hintergründe. Punktestand und Leben stehen im geöffneten oberen und unteren Rahmen, dazu kommen schwebende Hindernisse und eine Hilfefunktion namens „Coffee Break“.\n\nIn Assembler geschrieben und nutzt den gesamten Speicher, daher keine Musik und kein Speichern der Bestenliste. Steuerung mit Joystick; ab Version 1.1 auch Paddle und Maus 1351.\n\nCode: Hanyic Robert.",
+  "texts": {
+    "de": "Breakout-Spiel im Stil von Arkanoid und Nachfolger von „Rob-Man“ desselben Autors. Die 24 Stufen werden bei jedem Spiel in neuer Reihenfolge gemischt; dahinter laufen mehrlagige Parallax-Hintergründe. Punktestand und Leben stehen im geöffneten oberen und unteren Rahmen, dazu kommen schwebende Hindernisse und eine Hilfefunktion namens „Coffee Break“.\n\nIn Assembler geschrieben und nutzt den gesamten Speicher, daher keine Musik und kein Speichern der Bestenliste. Steuerung mit Joystick; ab Version 1.1 auch Paddle und Maus 1351.\n\nCode: Hanyic Robert.",
+    "en": "Breakout game in the style of Arkanoid and successor to “Rob-Man” by the same author. The 24 stages are shuffled into a new order every game; behind them run multi-layer parallax backgrounds. Score and lives are shown in the opened top and bottom borders, and there are also floating obstacles and a help feature called “Coffee Break”.\n\nWritten in assembler and uses all of the memory, hence no music and no saving of the high-score table. Controlled with a joystick; from version 1.1 also paddle and 1351 mouse.\n\nCode: Hanyic Robert."
+  },
   "images": {
     "sstitle": "images/03/037d18c915d7c6650df394c47a439a1d1bb14f9a.png"
   }

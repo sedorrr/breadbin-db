@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "c44b716b2e90eeafd99c7f2187de3d71a766c7e0",
+  "md5": "0c172d2acf6586f0bdd128dd8f27edb5",
+  "crc32": "a3a43877",
+  "size": 648496,
+  "format": "CRT",
+  "files": [
+    "Gauntlet III - Final Quest.crt",
+    "Gauntlet III - Final Quest [EasyFlash].crt"
+  ],
+  "screenscraper_id": "112549",
+  "title": "Gauntlet III: The Final Quest",
+  "year": "1991",
+  "publisher": "U.S. Gold",
+  "developer": "Software Creations",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1-2",
+  "synopsis": "Dritter Teil der Gauntlet-Reihe, nun in schräger Draufsicht statt von oben. Acht Figuren stehen zur Wahl, darunter neue wie Steinmann und Echsenmensch, jede mit eigenen Stärken. Zu zweit gleichzeitig geht es durch Wildnis, Burgen und Höhlen, um Schlüssel, Nahrung und Zaubertränke zu finden und die Gegnerhorden zu besiegen. Im Gegensatz zu den Vorgängern ist es keine Automatenumsetzung, sondern eine Eigenentwicklung für Heimcomputer.\n\nErschien auf Kassette und auf zwei Diskettenseiten; dazu gibt es eine EasyFlash-Umsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Martin Howarth · Grafik: Martin Holland, Haydn Dalton · Musik: Tim Follin, Geoff Follin",
+  "texts": {
+    "de": "Dritter Teil der Gauntlet-Reihe, nun in schräger Draufsicht statt von oben. Acht Figuren stehen zur Wahl, darunter neue wie Steinmann und Echsenmensch, jede mit eigenen Stärken. Zu zweit gleichzeitig geht es durch Wildnis, Burgen und Höhlen, um Schlüssel, Nahrung und Zaubertränke zu finden und die Gegnerhorden zu besiegen. Im Gegensatz zu den Vorgängern ist es keine Automatenumsetzung, sondern eine Eigenentwicklung für Heimcomputer.\n\nErschien auf Kassette und auf zwei Diskettenseiten; dazu gibt es eine EasyFlash-Umsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Martin Howarth · Grafik: Martin Holland, Haydn Dalton · Musik: Tim Follin, Geoff Follin",
+    "en": "Third instalment of the Gauntlet series, now in an oblique top-down view instead of directly from above. Eight characters are available, including new ones such as the Stoneman and the Lizardman, each with their own strengths. Two players simultaneously make their way through wilderness, castles and caves to find keys, food and potions and defeat the hordes of enemies. Unlike its predecessors, it is not an arcade conversion but an original development for home computers.\n\nReleased on cassette and on two disk sides; there is also an EasyFlash conversion. Controlled with a joystick.\n\nCode: Martin Howarth · Graphics: Martin Holland, Haydn Dalton · Music: Tim Follin, Geoff Follin"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "b69aecaf2c656d1d5181a8485b65f22f55818767",
+  "md5": "ff7e7212443d9b28215df5777b05fc09",
+  "crc32": "4164505b",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Paperboy.crt"
+  ],
+  "screenscraper_id": "35875",
+  "title": "Paperboy",
+  "year": "1986",
+  "publisher": "Elite",
+  "developer": "Elite Systems (Chris Harvey, Neil A. Bate)",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Atari-Automaten: Ein Zeitungsjunge fährt auf dem Fahrrad schräg von oben gesehen eine Straße entlang und wirft Zeitungen in die Briefkästen der Abonnenten. Hunde, Passanten und Autos stören, beschädigte Häuser kosten Kunden. Jeder der sieben Wochentage bringt mehr Hindernisse, am Ende wartet ein Hindernisparcours. Die C64-Fassung ist vor allem für die Musik von Mark Cooksey bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Chris Harvey, Neil A. Bate · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Umsetzung des Atari-Automaten: Ein Zeitungsjunge fährt auf dem Fahrrad schräg von oben gesehen eine Straße entlang und wirft Zeitungen in die Briefkästen der Abonnenten. Hunde, Passanten und Autos stören, beschädigte Häuser kosten Kunden. Jeder der sieben Wochentage bringt mehr Hindernisse, am Ende wartet ein Hindernisparcours. Die C64-Fassung ist vor allem für die Musik von Mark Cooksey bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen.\n\nCode: Chris Harvey, Neil A. Bate · Musik: Mark Cooksey",
+    "en": "Conversion of the Atari arcade machine: a paperboy rides his bicycle along a street, seen diagonally from above, and throws newspapers into the subscribers' letterboxes. Dogs, pedestrians and cars get in the way, and damaged houses cost customers. Each of the seven days of the week brings more obstacles, and an obstacle course awaits at the end. The C64 version is best known for Mark Cooksey's music.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading.\n\nCode: Chris Harvey, Neil A. Bate · Music: Mark Cooksey"
+  },
+  "images": {
+    "ss": "images/b6/b6242526a139561f02466f0521ace3090f3f5bd4.png",
+    "sstitle": "images/ea/eaf86b3e2c1bfa0bd13490331799cb87a25ddf84.png"
+  }
+}

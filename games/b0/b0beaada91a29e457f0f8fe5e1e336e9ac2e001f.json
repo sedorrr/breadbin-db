@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "b0beaada91a29e457f0f8fe5e1e336e9ac2e001f",
+  "md5": "3397b7551ea7c4bb028ca766c29d095f",
+  "crc32": "893c5813",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TURBOOU1.D64"
+  ],
+  "screenscraper_id": "122791",
+  "title": "Turbo Out Run",
+  "year": "1989",
+  "publisher": "U.S. Gold",
+  "developer": "Probe Software",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Ein Sportwagen rast in mehreren Etappen quer durch die USA von New York nach Los Angeles, jede Etappe gegen die Uhr und im Duell mit einem Konkurrenten. Ein Turbo gibt zusätzlichen Schub, darf aber nicht überhitzen; zwischen den Etappen lassen sich Reifen, Motor und Turbo verbessern. Polizeiwagen und Wetterwechsel erschweren die Fahrt. Die Vorlage ist der Sega-Automat von 1989, der Nachfolger von Out Run.\n\nU.S. Gold veröffentlichte die C64-Umsetzung von Probe Software auf Kassette und Diskette, in den USA erschien sie bei Sega/Electronic Arts. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Mark W. J. Kelly, Mark Hill · Grafik: Steve Crow · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Ein Sportwagen rast in mehreren Etappen quer durch die USA von New York nach Los Angeles, jede Etappe gegen die Uhr und im Duell mit einem Konkurrenten. Ein Turbo gibt zusätzlichen Schub, darf aber nicht überhitzen; zwischen den Etappen lassen sich Reifen, Motor und Turbo verbessern. Polizeiwagen und Wetterwechsel erschweren die Fahrt. Die Vorlage ist der Sega-Automat von 1989, der Nachfolger von Out Run.\n\nU.S. Gold veröffentlichte die C64-Umsetzung von Probe Software auf Kassette und Diskette, in den USA erschien sie bei Sega/Electronic Arts. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Mark W. J. Kelly, Mark Hill · Grafik: Steve Crow · Musik: Jeroen Tel",
+    "en": "A sports car races across the USA from New York to Los Angeles in several stages, each stage against the clock and in a duel with a rival. A turbo provides extra boost but must not overheat; between stages, tyres, engine and turbo can be upgraded. Police cars and changes in the weather make the drive harder. The basis is Sega's 1989 arcade game, the successor to Out Run.\n\nU.S. Gold published the C64 conversion by Probe Software on tape and disk; in the USA it was released by Sega/Electronic Arts. Controlled with the joystick in port 2.\n\nCode: Mark W. J. Kelly, Mark Hill · Graphics: Steve Crow · Music: Jeroen Tel"
+  }
+}

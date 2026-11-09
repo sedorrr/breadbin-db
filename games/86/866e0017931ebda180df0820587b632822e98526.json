@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "866e0017931ebda180df0820587b632822e98526",
+  "md5": "b212d6efa253bb0f858eaed553d289df",
+  "crc32": "c339c68d",
+  "size": 238096,
+  "format": "CRT",
+  "files": [
+    "World Games (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36286",
+  "title": "World Games",
+  "year": "1986",
+  "publisher": "Epyx",
+  "developer": "Epyx",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "Der vierte Teil der Sportreihe von Epyx führt um die Welt: In acht Ländern warten ungewöhnliche Disziplinen wie Gewichtheben in Russland, Fassspringen in Deutschland, Klippenspringen in Mexiko, Slalom in Frankreich, Baumstammrollen in Kanada, Bullenreiten in den USA, Baumstammwerfen in Schottland und Sumoringen in Japan. Jede Station wird mit kleinen Reisebildern eingeleitet. Bis zu acht Spieler treten abwechselnd an, beim Baumstammrollen und Sumo zwei gleichzeitig.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Disziplinen werden aus dem Modul statt von Diskette geladen.\n\nCode: Matt Decker, Jo Simko, Chris Oesterling, Doug Dragin, K-Byte · Musik: Jeff Webb, Steve Mage",
+  "texts": {
+    "de": "Der vierte Teil der Sportreihe von Epyx führt um die Welt: In acht Ländern warten ungewöhnliche Disziplinen wie Gewichtheben in Russland, Fassspringen in Deutschland, Klippenspringen in Mexiko, Slalom in Frankreich, Baumstammrollen in Kanada, Bullenreiten in den USA, Baumstammwerfen in Schottland und Sumoringen in Japan. Jede Station wird mit kleinen Reisebildern eingeleitet. Bis zu acht Spieler treten abwechselnd an, beim Baumstammrollen und Sumo zwei gleichzeitig.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Disziplinen werden aus dem Modul statt von Diskette geladen.\n\nCode: Matt Decker, Jo Simko, Chris Oesterling, Doug Dragin, K-Byte · Musik: Jeff Webb, Steve Mage",
+    "en": "The fourth instalment in Epyx's sports series goes around the world: in eight countries, unusual events await, such as weightlifting in Russia, barrel jumping in Germany, cliff diving in Mexico, slalom skiing in France, log rolling in Canada, bull riding in the USA, caber tossing in Scotland and sumo wrestling in Japan. Each stop is introduced with small travel pictures. Up to eight players take turns, with two playing simultaneously in log rolling and sumo.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the events are loaded from the cartridge instead of from disk.\n\nCode: Matt Decker, Jo Simko, Chris Oesterling, Doug Dragin, K-Byte · Music: Jeff Webb, Steve Mage"
+  }
+}

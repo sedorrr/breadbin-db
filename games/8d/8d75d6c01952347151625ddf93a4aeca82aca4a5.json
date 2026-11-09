@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "8d75d6c01952347151625ddf93a4aeca82aca4a5",
+  "md5": "ba7e932dd578e2fd683b912aa43e8529",
+  "crc32": "377df5de",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "KLAX.D64"
+  ],
+  "screenscraper_id": "36219",
+  "title": "Klax",
+  "year": "1990",
+  "publisher": "Domark",
+  "developer": "Tengen",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Auf einem Förderband rollen bunte Kacheln auf den Spieler zu. Mit einer Schaufel fängt man sie auf und wirft sie in ein Becken mit fünf Spalten, wo drei oder mehr gleichfarbige Kacheln in einer Reihe, Spalte oder Diagonale verschwinden. Jede Welle stellt eine eigene Aufgabe, etwa eine bestimmte Zahl an Diagonalen; fallen zu viele Kacheln herunter, ist das Spiel vorbei. Der Automat von Atari Games (1989) gehört zu den bekanntesten Denkspielen im Fahrwasser von Tetris.\n\nDomark veröffentlichte die C64-Umsetzung unter dem Tengen-Label auf Kassette und Diskette. Gesteuert wird mit dem Joystick, die Tastatur ist ebenfalls möglich.\n\nCode: David Vout, John J. Scott · Grafik: Dave Colledge · Musik: Matt Furniss",
+  "texts": {
+    "de": "Auf einem Förderband rollen bunte Kacheln auf den Spieler zu. Mit einer Schaufel fängt man sie auf und wirft sie in ein Becken mit fünf Spalten, wo drei oder mehr gleichfarbige Kacheln in einer Reihe, Spalte oder Diagonale verschwinden. Jede Welle stellt eine eigene Aufgabe, etwa eine bestimmte Zahl an Diagonalen; fallen zu viele Kacheln herunter, ist das Spiel vorbei. Der Automat von Atari Games (1989) gehört zu den bekanntesten Denkspielen im Fahrwasser von Tetris.\n\nDomark veröffentlichte die C64-Umsetzung unter dem Tengen-Label auf Kassette und Diskette. Gesteuert wird mit dem Joystick, die Tastatur ist ebenfalls möglich.\n\nCode: David Vout, John J. Scott · Grafik: Dave Colledge · Musik: Matt Furniss",
+    "en": "Colourful tiles roll towards the player on a conveyor belt. They are caught with a paddle and thrown into a bin with five columns, where three or more tiles of the same colour in a row, column or diagonal disappear. Each wave sets its own task, such as a certain number of diagonals; if too many tiles fall off, the game is over. The Atari Games arcade machine (1989) is one of the best-known puzzle games in the wake of Tetris.\n\nDomark published the C64 conversion under the Tengen label on tape and disk. Controlled with the joystick; the keyboard can also be used.\n\nCode: David Vout, John J. Scott · Graphics: Dave Colledge · Music: Matt Furniss"
+  }
+}

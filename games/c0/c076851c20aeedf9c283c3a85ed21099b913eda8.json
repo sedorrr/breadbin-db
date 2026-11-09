@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c076851c20aeedf9c283c3a85ed21099b913eda8",
+  "md5": "ebf2ffd9ec34334afb82f6707bdef51b",
+  "crc32": "f03b7ab3",
+  "size": 164224,
+  "format": "CRT",
+  "files": [
+    "Space Taxi (by hellboy73).crt"
+  ],
+  "screenscraper_id": "114930",
+  "title": "Space Taxi",
+  "year": "1984",
+  "publisher": "Muse Software",
+  "developer": "John F. Kutcher",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1-4",
+  "synopsis": "Man steuert ein Taxi mit Schubdüsen durch 24 Bildschirme voller Landeplattformen und befördert Fahrgäste, die ihr Ziel mit digitalisierter Sprache ansagen. Schwerkraft, Trägheit und knapper Treibstoff verlangen eine feinfühlige Steuerung; viele Level haben eigene Tücken wie bewegliche Hindernisse oder Teleporter. Wer alle 24 Bildschirme am Stück schafft, erreicht einen versteckten zusätzlichen Level.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von hellboy73 als Modul; die Level werden aus dem Modul statt von Diskette geladen.\n\nCode: John F. Kutcher · Musik: Silas S. Warner",
+  "texts": {
+    "de": "Man steuert ein Taxi mit Schubdüsen durch 24 Bildschirme voller Landeplattformen und befördert Fahrgäste, die ihr Ziel mit digitalisierter Sprache ansagen. Schwerkraft, Trägheit und knapper Treibstoff verlangen eine feinfühlige Steuerung; viele Level haben eigene Tücken wie bewegliche Hindernisse oder Teleporter. Wer alle 24 Bildschirme am Stück schafft, erreicht einen versteckten zusätzlichen Level.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von hellboy73 als Modul; die Level werden aus dem Modul statt von Diskette geladen.\n\nCode: John F. Kutcher · Musik: Silas S. Warner",
+    "en": "The player flies a taxi with thrusters through 24 screens full of landing pads and carries passengers, who announce their destination in digitised speech. Gravity, inertia and scarce fuel demand delicate control; many levels have their own pitfalls such as moving obstacles or teleporters. Anyone who completes all 24 screens in one go reaches a hidden additional level.\n\nThis version is a MultiLoad64 conversion by hellboy73 as a cartridge; the levels are loaded from the cartridge instead of from disk.\n\nCode: John F. Kutcher · Music: Silas S. Warner"
+  },
+  "images": {
+    "ss": "images/4b/4bcaa0cf8f101e995a371e927a8767ecd5ca5e29.png",
+    "sstitle": "images/59/59b22e5ffbcab0c336e008866e0648d56a899b8a.png"
+  }
+}

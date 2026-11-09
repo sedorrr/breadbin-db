@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "aea7524742a3080dadd3cc744ff3232d6d949dc3",
+  "md5": "3df0d5b28ad0de576cd60078402de7f7",
+  "crc32": "6cfa55d3",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Gyroscope.crt"
+  ],
+  "screenscraper_id": "36250",
+  "title": "Gyroscope",
+  "year": "1985",
+  "publisher": "Melbourne House",
+  "developer": "Catalyst Coders (Mark Prosser)",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Ein Kreisel muss gegen die Zeit über schräge, isometrisch dargestellte Bahnen gesteuert werden, die stark an Marble Madness erinnern. Abgründe, Rampen, glatte Flächen und Hindernisse verlangen genaues Lenken, denn der Kreisel hat Schwung und kippt leicht über den Rand. Jede Ebene muss innerhalb eines Zeitlimits geschafft werden. Das Spiel erschien vor der offiziellen Marble-Madness-Umsetzung und bot Heimcomputerbesitzern ein ähnliches Spielprinzip.\n\nErschienen bei Melbourne House für mehrere Heimcomputer; die C64-Fassung wurde eigens programmiert. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode (C64): Mark „Dubree“ Prosser · Musik (C64): Graham Davis, Rob Hartshorne (als Alphingwood)",
+  "texts": {
+    "de": "Ein Kreisel muss gegen die Zeit über schräge, isometrisch dargestellte Bahnen gesteuert werden, die stark an Marble Madness erinnern. Abgründe, Rampen, glatte Flächen und Hindernisse verlangen genaues Lenken, denn der Kreisel hat Schwung und kippt leicht über den Rand. Jede Ebene muss innerhalb eines Zeitlimits geschafft werden. Das Spiel erschien vor der offiziellen Marble-Madness-Umsetzung und bot Heimcomputerbesitzern ein ähnliches Spielprinzip.\n\nErschienen bei Melbourne House für mehrere Heimcomputer; die C64-Fassung wurde eigens programmiert. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode (C64): Mark „Dubree“ Prosser · Musik (C64): Graham Davis, Rob Hartshorne (als Alphingwood)",
+    "en": "A spinning top has to be steered against the clock along sloping, isometrically displayed courses strongly reminiscent of Marble Madness. Chasms, ramps, slippery surfaces and obstacles demand precise steering, as the top has momentum and easily tips over the edge. Each level must be completed within a time limit. The game appeared before the official Marble Madness conversion and offered home computer owners a similar gameplay principle.\n\nReleased by Melbourne House for several home computers; the C64 version was programmed specially. Controlled with a joystick. Besides the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without loading.\n\nCode (C64): Mark \"Dubree\" Prosser · Music (C64): Graham Davis, Rob Hartshorne (as Alphingwood)"
+  }
+}

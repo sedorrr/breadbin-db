@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "73e070c4b52ed887423a2d665fb5b9d71bfb31f9",
+  "md5": "bb6b28770e2f75f5130e9656bb08d215",
+  "crc32": "9c6a77ab",
+  "size": 24729,
+  "format": "T64",
+  "files": [
+    "MONTEZUM.T64"
+  ],
+  "screenscraper_id": "36165",
+  "title": "Montezuma's Revenge",
+  "year": "1984",
+  "publisher": "Parker Brothers",
+  "developer": "Robert Jaeger (Design)",
+  "genres": [
+    "Plattform",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Panama Joe durchsucht eine aztekische Pyramide aus vielen miteinander verbundenen Räumen nach dem Schatz Montezumas. Schlüssel öffnen farbige Türen, Fackeln erhellen dunkle Kammern, Schwerter und Amulette helfen gegen rollende Schädel, Schlangen und Spinnen. Laserschranken, verschwindende Böden und Feuergruben verlangen genaues Timing. Das Spiel gilt als frühes Beispiel für ein zusammenhängendes, frei erkundbares Plattform-Labyrinth.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).",
+  "texts": {
+    "de": "Panama Joe durchsucht eine aztekische Pyramide aus vielen miteinander verbundenen Räumen nach dem Schatz Montezumas. Schlüssel öffnen farbige Türen, Fackeln erhellen dunkle Kammern, Schwerter und Amulette helfen gegen rollende Schädel, Schlangen und Spinnen. Laserschranken, verschwindende Böden und Feuergruben verlangen genaues Timing. Das Spiel gilt als frühes Beispiel für ein zusammenhängendes, frei erkundbares Plattform-Labyrinth.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).",
+    "en": "Panama Joe searches an Aztec pyramid made up of many interconnected rooms for Montezuma's treasure. Keys open coloured doors, torches light up dark chambers, and swords and amulets help against rolling skulls, snakes and spiders. Laser barriers, disappearing floors and fire pits demand precise timing. The game is regarded as an early example of a contiguous, freely explorable platform maze.\n\nThis file contains the game as a tape archive (T64); several versions exist (original, conversions, cracks)."
+  },
+  "images": {
+    "sstitle": "images/ed/ed450dacec9cc76da2f295c6f2ddfa5321f8f167.png"
+  }
+}

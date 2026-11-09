@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "6a064a298e64770e5f1de8b15031e07b021a9e2d",
+  "md5": "e1a9bc0ee40248b701dec8ae805a6dc6",
+  "crc32": "6067f950",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WORLDKAR.D64"
+  ],
+  "screenscraper_id": "36114",
+  "title": "International Karate",
+  "year": "1986",
+  "publisher": "System 3",
+  "developer": "Archer Maclean",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Karatespiel für einen oder zwei Spieler, die sich vor wechselnden Hintergründen aus aller Welt in Zweikämpfen nach Punkten messen. Mit dem Joystick lassen sich zahlreiche Tritte, Schläge und Sprünge ausführen; zwischen den Kämpfen gibt es Bonusrunden, etwa das Abwehren heranfliegender Gegenstände. Flüssige Animation und die Musik von Rob Hubbard machten das Spiel bekannt; der Nachfolger IK+ erweiterte es auf drei Kämpfer.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Archer Maclean · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Ein Karatespiel für einen oder zwei Spieler, die sich vor wechselnden Hintergründen aus aller Welt in Zweikämpfen nach Punkten messen. Mit dem Joystick lassen sich zahlreiche Tritte, Schläge und Sprünge ausführen; zwischen den Kämpfen gibt es Bonusrunden, etwa das Abwehren heranfliegender Gegenstände. Flüssige Animation und die Musik von Rob Hubbard machten das Spiel bekannt; der Nachfolger IK+ erweiterte es auf drei Kämpfer.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Archer Maclean · Musik: Rob Hubbard",
+    "en": "A karate game for one or two players, who compete in one-on-one bouts scored on points in front of changing backdrops from around the world. Numerous kicks, punches and jumps can be performed with the joystick; between bouts there are bonus rounds, such as fending off flying objects. Smooth animation and Rob Hubbard's music made the game famous; its successor IK+ extended it to three fighters.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Archer Maclean · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/a3/a3fa969e86a09d359cfa914da24b0090ba9674f3.png",
+    "sstitle": "images/fc/fc106beabfdc2b0fb9d10a2d6f2c82ca54e4fe05.png"
+  }
+}

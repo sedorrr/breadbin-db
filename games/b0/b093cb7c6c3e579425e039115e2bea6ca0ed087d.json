@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "b093cb7c6c3e579425e039115e2bea6ca0ed087d",
+  "md5": "b8d4303bd57223099636d59f2c4479a4",
+  "crc32": "080317bd",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Crillion (J1).crt"
+  ],
+  "screenscraper_id": "111343",
+  "title": "Crillion",
+  "year": "1988",
+  "publisher": "Markt & Technik",
+  "developer": "Oliver Kirwa",
+  "genres": [
+    "Action / Breakout Spiele",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Ein springender Ball wird über ein Spielfeld aus Blöcken gelenkt. Er nimmt an Farbwechslern eine Farbe an und kann nur Blöcke dieser Farbe auflösen; gleichfarbige Schiebesteine lassen sich um ein Feld versetzen, Totenköpfe kosten ein Leben. Die 25 Level verlangen mehr Planung als Reaktion, danach folgt ein Zufallsmodus. Das schlichte, aber knifflige Spiel erschien als Listing in der Happy-Computer und wurde in Deutschland sehr bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Oliver Kirwa",
+  "texts": {
+    "de": "Ein springender Ball wird über ein Spielfeld aus Blöcken gelenkt. Er nimmt an Farbwechslern eine Farbe an und kann nur Blöcke dieser Farbe auflösen; gleichfarbige Schiebesteine lassen sich um ein Feld versetzen, Totenköpfe kosten ein Leben. Die 25 Level verlangen mehr Planung als Reaktion, danach folgt ein Zufallsmodus. Das schlichte, aber knifflige Spiel erschien als Listing in der Happy-Computer und wurde in Deutschland sehr bekannt.\n\nDiese Fassung ist eine OneLoad64-Umsetzung als EasyFlash-Modul; sie startet ohne Diskette und ohne Nachladen. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Oliver Kirwa",
+    "en": "A bouncing ball is steered across a playfield of blocks. It takes on a colour at colour changers and can only dissolve blocks of that colour; pushable blocks of the same colour can be moved by one square, and skulls cost a life. The 25 levels demand more planning than reflexes, after which a random mode follows. The simple but tricky game was published as a listing in Happy-Computer and became very well known in Germany.\n\nThis version is a OneLoad64 conversion as an EasyFlash cartridge; it starts without a disk and without loading. Controlled with a joystick in port 1.\n\nCode: Oliver Kirwa"
+  },
+  "images": {
+    "ss": "images/17/177ecec61f3985222f6d22d4fc87292d235c6666.png",
+    "sstitle": "images/08/08fb1593f66683b8cdf769e712a4d36ddf9d7079.png"
+  }
+}

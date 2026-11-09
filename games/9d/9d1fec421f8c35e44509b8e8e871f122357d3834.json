@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Labyrinthspiel nach dem Vorbild des Handyspiels „Tomb of the Mask: Color“: TantooMan muss jedes kleine Labyrinth vollständig einfärben, während Gegner und ein Countdown ihn bedrängen. Die ersten Level sind leicht, später wird es deutlich schneller und schwieriger; Spielstände lassen sich speichern.\n\nNur PAL. Disk-Fassung (D64) mit Nachladen; Steuerung per Joystick in Port 2 oder Cursortasten. Volume One erschien Anfang Juni 2025, danach folgten kleine Fehlerbehebungen (Münzen, Bonuslevel) bis zu dieser Version 1.2.\n\nCode, Grafik, Design: Lux · Musik und Test: Manganoid · Zeichensatz: Phazze · Lader: Cadaver (Covert Bitops)",
+  "texts": {
+    "de": "Labyrinthspiel nach dem Vorbild des Handyspiels „Tomb of the Mask: Color“: TantooMan muss jedes kleine Labyrinth vollständig einfärben, während Gegner und ein Countdown ihn bedrängen. Die ersten Level sind leicht, später wird es deutlich schneller und schwieriger; Spielstände lassen sich speichern.\n\nNur PAL. Disk-Fassung (D64) mit Nachladen; Steuerung per Joystick in Port 2 oder Cursortasten. Volume One erschien Anfang Juni 2025, danach folgten kleine Fehlerbehebungen (Münzen, Bonuslevel) bis zu dieser Version 1.2.\n\nCode, Grafik, Design: Lux · Musik und Test: Manganoid · Zeichensatz: Phazze · Lader: Cadaver (Covert Bitops)",
+    "en": "Maze game modelled on the mobile game \"Tomb of the Mask: Color\": TantooMan has to colour in every small maze completely while enemies and a countdown put him under pressure. The first levels are easy, later it becomes considerably faster and harder; progress can be saved.\n\nPAL only. Disk version (D64) with loading between sections; controlled with a joystick in port 2 or the cursor keys. Volume One was released in early June 2025, followed by small bug fixes (coins, bonus levels) up to this version 1.2.\n\nCode, graphics, design: Lux · Music and testing: Manganoid · Character set: Phazze · Loader: Cadaver (Covert Bitops)"
+  },
   "images": {
     "sstitle": "images/77/779ea755f0f9f81ddcdcae94bc85cc8592ba277b.png"
   }

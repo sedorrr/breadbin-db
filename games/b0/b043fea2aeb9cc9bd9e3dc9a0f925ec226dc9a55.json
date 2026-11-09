@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Einfaches Labyrinthspiel nach dem Vorbild früher Achtzigerjahre-Automaten: Gino muss alle Punkte im Irrgarten fressen und den Geistern ausweichen, eine Berührung beendet das Spiel. Frisst er genug Punkte hintereinander, wird er kurz unverwundbar und kann an den Geistern vorbeilaufen, ohne sie zu fressen.\n\nJoystick in Port 2, Feuer startet. In 6502-Assembler (DASM) mit BASIC-Lader für das Titelbild, eigenen Sprites, PETSCII-Zeichen und SID-Effekten; D64, auf itch.io zum selbst gewählten Preis.\n\nCode: Massimo Bonucchi",
+  "texts": {
+    "de": "Einfaches Labyrinthspiel nach dem Vorbild früher Achtzigerjahre-Automaten: Gino muss alle Punkte im Irrgarten fressen und den Geistern ausweichen, eine Berührung beendet das Spiel. Frisst er genug Punkte hintereinander, wird er kurz unverwundbar und kann an den Geistern vorbeilaufen, ohne sie zu fressen.\n\nJoystick in Port 2, Feuer startet. In 6502-Assembler (DASM) mit BASIC-Lader für das Titelbild, eigenen Sprites, PETSCII-Zeichen und SID-Effekten; D64, auf itch.io zum selbst gewählten Preis.\n\nCode: Massimo Bonucchi",
+    "en": "Simple maze game modelled on early-eighties arcade machines: Gino has to eat all the dots in the maze while avoiding the ghosts; a single touch ends the game. If he eats enough dots in a row, he becomes briefly invulnerable and can walk past the ghosts without eating them.\n\nJoystick in port 2, fire starts. Written in 6502 assembler (DASM) with a BASIC loader for the title screen, custom sprites, PETSCII characters and SID effects; D64, on itch.io at a pay-what-you-want price.\n\nCode: Massimo Bonucchi"
+  },
   "images": {
     "sstitle": "images/e7/e7a36bb7fd706996b6fba7f44e193f53f36fe19c.png"
   }

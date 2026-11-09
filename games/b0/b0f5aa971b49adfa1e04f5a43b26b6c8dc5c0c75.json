@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b0f5aa971b49adfa1e04f5a43b26b6c8dc5c0c75",
+  "md5": "80e9a239aa849e80c260b9c951a5b256",
+  "crc32": "4e7e2e8d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SKATEOD1.D64"
+  ],
+  "screenscraper_id": "36063",
+  "title": "Skate or Die!",
+  "year": "1987",
+  "publisher": "Electronic Arts",
+  "developer": "Electronic Arts (Michael Kosaka, Stephen Landrum, David Bunch)",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "Ein Skateboardspiel mit fünf Disziplinen: Freestyle und Hochsprung in der Halfpipe, ein Abfahrtsrennen, die Straßenrangelei „Jam“ und das Tjosten im leeren Schwimmbecken. Man kann jede Disziplin einzeln üben oder alle nacheinander bestreiten; bis zu acht Spieler treten abwechselnd an, in einigen Disziplinen zwei gleichzeitig. Lockere Aufmachung und die Titelmusik von Rob Hubbard trugen zum Erfolg bei.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Michael Kosaka, Stephen Landrum, David Bunch · Musik: Rob Hubbard (Titel), David Warhol",
+  "texts": {
+    "de": "Ein Skateboardspiel mit fünf Disziplinen: Freestyle und Hochsprung in der Halfpipe, ein Abfahrtsrennen, die Straßenrangelei „Jam“ und das Tjosten im leeren Schwimmbecken. Man kann jede Disziplin einzeln üben oder alle nacheinander bestreiten; bis zu acht Spieler treten abwechselnd an, in einigen Disziplinen zwei gleichzeitig. Lockere Aufmachung und die Titelmusik von Rob Hubbard trugen zum Erfolg bei.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Michael Kosaka, Stephen Landrum, David Bunch · Musik: Rob Hubbard (Titel), David Warhol",
+    "en": "A skateboarding game with five events: freestyle and high jump on the halfpipe, a downhill race, the street scuffle \"Jam\" and jousting in an empty swimming pool. Each event can be practised individually or all can be tackled in sequence; up to eight players take turns, in some events two at once. The laid-back presentation and Rob Hubbard's title music contributed to its success.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: Michael Kosaka, Stephen Landrum, David Bunch · Music: Rob Hubbard (title), David Warhol"
+  },
+  "images": {
+    "ss": "images/59/59e20174d94a01ffc6b24fd0b251fc9dc1706f13.png",
+    "sstitle": "images/b5/b53e15d3946d2122aec71eb419958e905b889787.png"
+  }
+}

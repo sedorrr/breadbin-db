@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7d88c0b8887941902845bf46052c6f80a4c42a3c",
+  "md5": "ca16867ca49ade8fd0d79d6b66530846",
+  "crc32": "87080748",
+  "size": 644180,
+  "format": "TAP",
+  "files": [
+    "Yie Ar Kung-Fu (Imagine).tap"
+  ],
+  "screenscraper_id": "36490",
+  "title": "Yie Ar Kung-Fu",
+  "year": "1986",
+  "publisher": "Imagine",
+  "developer": "David A. Collier",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Konami-Automaten: Der Kämpfer Oolong tritt nacheinander gegen zehn Gegner an, darunter eine Shuriken-Werferin, ein Nunchaku-Kämpfer, ein Ninja mit Schwert und zuletzt sein eigenes Spiegelbild. Jeder Gegner hat eine eigene Waffe und Kampfweise. Nach dem letzten Gegner beginnt die Runde von vorn, es geht also um Ausdauer und Punkte. Das Spiel gehört zu den frühen Zweikampfspielen am Heimcomputer.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David A. Collier · Musik: Martin Galway",
+  "texts": {
+    "de": "Umsetzung des Konami-Automaten: Der Kämpfer Oolong tritt nacheinander gegen zehn Gegner an, darunter eine Shuriken-Werferin, ein Nunchaku-Kämpfer, ein Ninja mit Schwert und zuletzt sein eigenes Spiegelbild. Jeder Gegner hat eine eigene Waffe und Kampfweise. Nach dem letzten Gegner beginnt die Runde von vorn, es geht also um Ausdauer und Punkte. Das Spiel gehört zu den frühen Zweikampfspielen am Heimcomputer.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: David A. Collier · Musik: Martin Galway",
+    "en": "Conversion of the Konami arcade game: the fighter Oolong takes on ten opponents in turn, including a female shuriken thrower, a nunchaku fighter, a ninja with a sword and finally his own mirror image. Each opponent has their own weapon and fighting style. After the last opponent the round starts again from the beginning, so it is all about stamina and points. The game is one of the early one-on-one fighting games on home computers.\n\nThis file contains the game as a tape image (TAP); several versions exist (original, conversions, cracks).\n\nCode: David A. Collier · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/dc/dc957b78496450863d9ef147290c2e1596064d9b.png",
+    "sstitle": "images/45/450436dd7aaf88433dfa12362c1036f2aafd4248.png"
+  }
+}

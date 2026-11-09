@@ -17,6 +17,10 @@
   ],
   "players": "1",
   "synopsis": "Rundenbasiertes Kriegsspiel gegen vier Computergegner – überleben darf nur einer. In jeder Runde Fabrik und Propaganda nutzen (Bevölkerung abwerben), Raketen oder Bomber vorbereiten, Sprengköpfe zuweisen und mit dem Radar Angriffe abwehren.\n\nSteuerung mit Joystick (Port 2) oder Maus 1351 (Port 1), umschaltbar mit F1 im Titelbild. Zooparty Edition.\n\nProgrammierung, Grafik, Sound: Jani Parviainen · Musik: Jaroslaw Burkacki (Ozone).",
+  "texts": {
+    "de": "Rundenbasiertes Kriegsspiel gegen vier Computergegner – überleben darf nur einer. In jeder Runde Fabrik und Propaganda nutzen (Bevölkerung abwerben), Raketen oder Bomber vorbereiten, Sprengköpfe zuweisen und mit dem Radar Angriffe abwehren.\n\nSteuerung mit Joystick (Port 2) oder Maus 1351 (Port 1), umschaltbar mit F1 im Titelbild. Zooparty Edition.\n\nProgrammierung, Grafik, Sound: Jani Parviainen · Musik: Jaroslaw Burkacki (Ozone).",
+    "en": "Turn-based war game against four computer opponents – only one may survive. Each round, use the factory and propaganda (luring away population), prepare missiles or bombers, assign warheads and fend off attacks with the radar.\n\nControlled with a joystick (port 2) or 1351 mouse (port 1), switchable with F1 on the title screen. Zooparty Edition.\n\nProgramming, graphics, sound: Jani Parviainen · Music: Jaroslaw Burkacki (Ozone)."
+  },
   "images": {
     "ss": "images/7e/7e46e5579389b9a8ac2709131d044e948b2b876d.png",
     "sstitle": "images/03/03abae70ea6ee14fb9c6ad935233ebfa6cf20e18.png"

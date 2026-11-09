@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "999d5dfe08c55063bb02d106de15b301a319e581",
+  "md5": "013de9144f24b8cb3e30fd865779a207",
+  "crc32": "92f4c2d5",
+  "size": 39481,
+  "format": "T64",
+  "files": [
+    "KUNGFUMA.T64"
+  ],
+  "screenscraper_id": "36200",
+  "title": "Kung-Fu Master",
+  "year": "1985",
+  "publisher": "Data East",
+  "developer": "Berkeley Softworks",
+  "genres": [
+    "Beat'em Up",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Irem-Automaten von 1984: Der Kämpfer Thomas steigt durch die fünf Stockwerke eines Tempels, um seine entführte Freundin Sylvia zu befreien. In seitlich scrollenden Gängen wehrt er mit Tritten und Schlägen Horden von Angreifern, Messerwerfern und Zwergen ab, dazu fallen Vasen, Schlangen und Drachen. Am Ende jedes Stockwerks wartet ein Endgegner. Das Spiel gilt als einer der ersten seitlich scrollenden Beat'em Ups.\n\nErschien auf Diskette, Kassette und als Steckmodul, in Europa bei U.S. Gold. Gesteuert wird per Joystick; zwei Spieler wechseln sich ab. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Chris Hawley",
+  "texts": {
+    "de": "Umsetzung des Irem-Automaten von 1984: Der Kämpfer Thomas steigt durch die fünf Stockwerke eines Tempels, um seine entführte Freundin Sylvia zu befreien. In seitlich scrollenden Gängen wehrt er mit Tritten und Schlägen Horden von Angreifern, Messerwerfern und Zwergen ab, dazu fallen Vasen, Schlangen und Drachen. Am Ende jedes Stockwerks wartet ein Endgegner. Das Spiel gilt als einer der ersten seitlich scrollenden Beat'em Ups.\n\nErschien auf Diskette, Kassette und als Steckmodul, in Europa bei U.S. Gold. Gesteuert wird per Joystick; zwei Spieler wechseln sich ab. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Chris Hawley",
+    "en": "Conversion of Irem's 1984 arcade game: the fighter Thomas climbs the five floors of a temple to rescue his kidnapped girlfriend Sylvia. In horizontally scrolling corridors he fends off hordes of attackers, knife throwers and dwarves with kicks and punches, while vases, snakes and dragons fall down. An end boss awaits at the end of each floor. The game is regarded as one of the first horizontally scrolling beat'em ups.\n\nReleased on disk, tape and as a cartridge, in Europe by U.S. Gold. Controlled via joystick; two players take turns. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no additional loading.\n\nCode: Chris Hawley"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "94711d90cdea5cd6919940a1862caa4369f144f0",
+  "md5": "bf6a7df23650d77ceb49d640a19e27a0",
+  "crc32": "a5ee6a6d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MERCENE0.D64"
+  ],
+  "screenscraper_id": "115145",
+  "title": "Mercenary: Escape from Targ",
+  "year": "1985",
+  "publisher": "Novagen",
+  "developer": "Novagen (Paul Woakes)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Nach einer Bruchlandung auf dem Planeten Targ muss ein Söldner einen Weg finden, den Planeten wieder zu verlassen. Die Stadt und die unterirdischen Anlagen sind in schneller 3D-Vektorgrafik dargestellt und lassen sich zu Fuß oder mit Fahrzeugen frei erkunden. Zwei verfeindete Parteien bieten Aufträge an; wem man hilft, bleibt dem Spieler überlassen. Die offene Spielwelt und die flüssige 3D-Darstellung waren 1985 ungewöhnlich.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Paul Woakes",
+  "texts": {
+    "de": "Nach einer Bruchlandung auf dem Planeten Targ muss ein Söldner einen Weg finden, den Planeten wieder zu verlassen. Die Stadt und die unterirdischen Anlagen sind in schneller 3D-Vektorgrafik dargestellt und lassen sich zu Fuß oder mit Fahrzeugen frei erkunden. Zwei verfeindete Parteien bieten Aufträge an; wem man hilft, bleibt dem Spieler überlassen. Die offene Spielwelt und die flüssige 3D-Darstellung waren 1985 ungewöhnlich.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Paul Woakes",
+    "en": "After a crash landing on the planet Targ, a mercenary has to find a way to leave the planet again. The city and the underground complexes are shown in fast 3D vector graphics and can be explored freely on foot or in vehicles. Two hostile factions offer missions; whom you help is up to the player. The open game world and smooth 3D graphics were unusual in 1985.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Paul Woakes"
+  },
+  "images": {
+    "ss": "images/18/1842dd307a2fafac824c02854681ed1cd383734c.png",
+    "sstitle": "images/b4/b4c3adaa8df74b2a5e336881b7868ff6f968e02e.png"
+  }
+}

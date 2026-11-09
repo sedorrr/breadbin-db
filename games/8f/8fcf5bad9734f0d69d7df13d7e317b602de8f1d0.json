@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "8fcf5bad9734f0d69d7df13d7e317b602de8f1d0",
+  "md5": "e27836fc9c9a26d234f7695354e3ab8c",
+  "crc32": "b6d7c3c7",
+  "size": 541792,
+  "format": "CRT",
+  "files": [
+    "Last Ninja 3, The [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36323",
+  "title": "Last Ninja 3",
+  "year": "1991",
+  "publisher": "System 3",
+  "developer": "System 3",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Im dritten Teil der Reihe kämpft der Ninja Armakuni erneut gegen den Shogun Kunitoki, diesmal in fünf Reichen, die den Elementen zugeordnet sind. Wie in den Vorgängern bewegt er sich durch isometrisch dargestellte Bildschirme, löst Rätsel mit gefundenen Gegenständen und kämpft mit Schwert, Stab und anderen Waffen. Die Reihe gehört zu den bekanntesten System-3-Spielen auf dem C64.\n\nSystem 3 veröffentlichte das Spiel auf Kassette und Diskette. Die Szene hat es als EasyFlash-Modul umgesetzt. Gesteuert wird mit dem Joystick in Port 2, Waffen und Gegenstände werden über Tastatur bzw. Feuerknopf gewählt.\n\nCode: Stanley Schembri · Grafik: Robin Levy, Arthur van Jole · Musik: Reyn Ouwehand",
+  "texts": {
+    "de": "Im dritten Teil der Reihe kämpft der Ninja Armakuni erneut gegen den Shogun Kunitoki, diesmal in fünf Reichen, die den Elementen zugeordnet sind. Wie in den Vorgängern bewegt er sich durch isometrisch dargestellte Bildschirme, löst Rätsel mit gefundenen Gegenständen und kämpft mit Schwert, Stab und anderen Waffen. Die Reihe gehört zu den bekanntesten System-3-Spielen auf dem C64.\n\nSystem 3 veröffentlichte das Spiel auf Kassette und Diskette. Die Szene hat es als EasyFlash-Modul umgesetzt. Gesteuert wird mit dem Joystick in Port 2, Waffen und Gegenstände werden über Tastatur bzw. Feuerknopf gewählt.\n\nCode: Stanley Schembri · Grafik: Robin Levy, Arthur van Jole · Musik: Reyn Ouwehand",
+    "en": "In the third instalment of the series, the ninja Armakuni once again fights the shogun Kunitoki, this time in five realms associated with the elements. As in the predecessors, he moves through isometrically displayed screens, solves puzzles with items he finds and fights with sword, staff and other weapons. The series is among the best-known System 3 games on the C64.\n\nSystem 3 published the game on tape and disk. The scene has converted it into an EasyFlash cartridge. Controlled with the joystick in port 2; weapons and items are selected via the keyboard or fire button.\n\nCode: Stanley Schembri · Graphics: Robin Levy, Arthur van Jole · Music: Reyn Ouwehand"
+  }
+}

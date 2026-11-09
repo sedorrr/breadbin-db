@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "bb0b3ef1ddb195cc9aca9e733014f07ee2950b03",
+  "md5": "57c2dd9cf4046677b264ad50de6a8ba0",
+  "crc32": "fd475ffa",
+  "size": 270928,
+  "format": "CRT",
+  "files": [
+    "Bard's Tale [EasyFlash].crt"
+  ],
+  "screenscraper_id": "109863",
+  "title": "The Bard's Tale",
+  "year": "1985",
+  "publisher": "Electronic Arts",
+  "developer": "Interplay Productions",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rollenspiel, in dem eine Gruppe von bis zu sechs Helden die Stadt Skara Brae vom bösen Zauberer Mangar befreien soll. Erkundet werden Straßen und Verliese in einer schrittweisen 3D-Ansicht; Kämpfe laufen rundenweise ab. Besonderheit ist der Barde, dessen Lieder die Gruppe stärken. Die farbigen, animierten Gegnerbilder und die anspruchsvollen Labyrinthe machten das Spiel zu einem der bekanntesten Rollenspiele seiner Zeit.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nCode: Michael Cranford · Musik: Larry Holland",
+  "texts": {
+    "de": "Ein Rollenspiel, in dem eine Gruppe von bis zu sechs Helden die Stadt Skara Brae vom bösen Zauberer Mangar befreien soll. Erkundet werden Straßen und Verliese in einer schrittweisen 3D-Ansicht; Kämpfe laufen rundenweise ab. Besonderheit ist der Barde, dessen Lieder die Gruppe stärken. Die farbigen, animierten Gegnerbilder und die anspruchsvollen Labyrinthe machten das Spiel zu einem der bekanntesten Rollenspiele seiner Zeit.\n\nDiese Fassung ist eine Umsetzung als EasyFlash-Modul und läuft ohne Diskette.\n\nCode: Michael Cranford · Musik: Larry Holland",
+    "en": "A role-playing game in which a party of up to six heroes is to free the city of Skara Brae from the evil wizard Mangar. Streets and dungeons are explored in a step-by-step 3D view; combat is turn-based. A special feature is the bard, whose songs strengthen the party. The colourful, animated enemy pictures and the challenging mazes made the game one of the best-known role-playing games of its time.\n\nThis version is a conversion as an EasyFlash cartridge and runs without a disk.\n\nCode: Michael Cranford · Music: Larry Holland"
+  },
+  "images": {
+    "sstitle": "images/f4/f4ef4ac4af0aad78e8b1354048b8066c575971fe.png"
+  }
+}

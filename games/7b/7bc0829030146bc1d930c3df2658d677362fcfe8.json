@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7bc0829030146bc1d930c3df2658d677362fcfe8",
+  "md5": "90f1ff371f71ef72d06afdf8fb721391",
+  "crc32": "6f959862",
+  "size": 197056,
+  "format": "CRT",
+  "files": [
+    "Rainbow Islands (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36302",
+  "title": "Rainbow Islands",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Graftgold (Gary J. Foreman)",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Taito-Automaten, der Fortsetzung von Bubble Bobble: Bub und Bob sind nun Menschen und klettern über sieben Inseln nach oben, während das Wasser steigt. Ihre Waffe sind Regenbögen, die Gegner treffen und zugleich als Brücke dienen. Wer die Inseln mit allen sieben großen Diamanten abschließt, sieht das wahre Ende. Die C64-Fassung von Graftgold gilt als eine der gelungensten Automatenumsetzungen auf dem Rechner.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Gary J. Foreman · Musik: Jason Page",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten, der Fortsetzung von Bubble Bobble: Bub und Bob sind nun Menschen und klettern über sieben Inseln nach oben, während das Wasser steigt. Ihre Waffe sind Regenbögen, die Gegner treffen und zugleich als Brücke dienen. Wer die Inseln mit allen sieben großen Diamanten abschließt, sieht das wahre Ende. Die C64-Fassung von Graftgold gilt als eine der gelungensten Automatenumsetzungen auf dem Rechner.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Gary J. Foreman · Musik: Jason Page",
+    "en": "Conversion of the Taito arcade machine and sequel to Bubble Bobble: Bub and Bob are now human and climb upwards across seven islands while the water rises. Their weapons are rainbows, which hit enemies and at the same time serve as bridges. Anyone who completes the islands with all seven large diamonds sees the true ending. Graftgold's C64 version is regarded as one of the most successful arcade conversions on the machine.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the multi-load parts of the original come from the cartridge instead of from disk.\n\nCode: Gary J. Foreman · Music: Jason Page"
+  },
+  "images": {
+    "sstitle": "images/7d/7d69a2045849b07467da7a279393f95f5d7c5dbd.png"
+  }
+}

@@ -19,6 +19,10 @@
   ],
   "players": "1",
   "synopsis": "Fortsetzung von Deathflood: Dungeon of Doom. Im sagenumwobenen Schacht auf Oak Island soll ein Piratenschatz liegen, gesichert durch eine tödliche Flutfalle. Man steigt durch Räume voller Schätze, Rätsel, Fallen und Gegner hinab und muss vor dem steigenden Wasser fliehen; je mehr Gold man einsammelt, desto besser das Ende. Ein Übungslevel ist dabei, Speicher- oder Passwortsystem gibt es bewusst nicht.\n\nEine einzelne PRG-Datei, Joystick in Port 2, Ein-Knopf-Steuerung, Texte auf Englisch. Für PAL entwickelt; läuft auch auf NTSC mit kleinen Grafikfehlern. Kostenlos als Download, als Box-Fassung bei Komoda & Amiga plus erschienen.\n\nSpiel: Windigo Productions.",
+  "texts": {
+    "de": "Fortsetzung von Deathflood: Dungeon of Doom. Im sagenumwobenen Schacht auf Oak Island soll ein Piratenschatz liegen, gesichert durch eine tödliche Flutfalle. Man steigt durch Räume voller Schätze, Rätsel, Fallen und Gegner hinab und muss vor dem steigenden Wasser fliehen; je mehr Gold man einsammelt, desto besser das Ende. Ein Übungslevel ist dabei, Speicher- oder Passwortsystem gibt es bewusst nicht.\n\nEine einzelne PRG-Datei, Joystick in Port 2, Ein-Knopf-Steuerung, Texte auf Englisch. Für PAL entwickelt; läuft auch auf NTSC mit kleinen Grafikfehlern. Kostenlos als Download, als Box-Fassung bei Komoda & Amiga plus erschienen.\n\nSpiel: Windigo Productions.",
+    "en": "Sequel to Deathflood: Dungeon of Doom. A pirate treasure is said to lie in the legendary shaft on Oak Island, protected by a deadly flood trap. The player descends through rooms full of treasure, puzzles, traps and enemies and has to escape the rising water; the more gold collected, the better the ending. A practice level is included; there is deliberately no save or password system.\n\nA single PRG file, joystick in port 2, one-button control, text in English. Developed for PAL; also runs on NTSC with minor graphical glitches. Free as a download, released as a boxed version by Komoda & Amiga plus.\n\nGame: Windigo Productions."
+  },
   "images": {
     "sstitle": "images/7f/7f19ea0e3543c36005ac9e3954802a6a10c258d1.png"
   }

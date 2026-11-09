@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "bfe8c15a3d9620f14018e20f7feb27222d64c460",
+  "md5": "84afb407fdf3b55629f1e85fd54da09f",
+  "crc32": "f56fea11",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CRILLI88.D64"
+  ],
+  "screenscraper_id": "111343",
+  "title": "Crillion",
+  "year": "1988",
+  "publisher": "Markt & Technik",
+  "developer": "Oliver Kirwa",
+  "genres": [
+    "Action / Breakout Spiele",
+    "Überlegung"
+  ],
+  "players": "1",
+  "synopsis": "Ein springender Ball wird über ein Spielfeld aus Blöcken gelenkt. Er nimmt an Farbwechslern eine Farbe an und kann nur Blöcke dieser Farbe auflösen; gleichfarbige Schiebesteine lassen sich um ein Feld versetzen, Totenköpfe kosten ein Leben. Die 25 Level verlangen mehr Planung als Reaktion, danach folgt ein Zufallsmodus. Das schlichte, aber knifflige Spiel erschien als Listing in der Happy-Computer und wurde in Deutschland sehr bekannt.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Oliver Kirwa",
+  "texts": {
+    "de": "Ein springender Ball wird über ein Spielfeld aus Blöcken gelenkt. Er nimmt an Farbwechslern eine Farbe an und kann nur Blöcke dieser Farbe auflösen; gleichfarbige Schiebesteine lassen sich um ein Feld versetzen, Totenköpfe kosten ein Leben. Die 25 Level verlangen mehr Planung als Reaktion, danach folgt ein Zufallsmodus. Das schlichte, aber knifflige Spiel erschien als Listing in der Happy-Computer und wurde in Deutschland sehr bekannt.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Oliver Kirwa",
+    "en": "A bouncing ball is steered across a playfield made of blocks. It takes on a colour at colour changers and can only dissolve blocks of that colour; sliding blocks of the same colour can be moved by one square, and skulls cost a life. The 25 levels demand more planning than reflexes, followed by a random mode. The simple but tricky game was published as a type-in listing in Happy-Computer and became very well known in Germany.\n\nThis file contains the game as a disk image (D64); several versions exist (original, conversions, cracks).\n\nCode: Oliver Kirwa"
+  },
+  "images": {
+    "ss": "images/17/177ecec61f3985222f6d22d4fc87292d235c6666.png",
+    "sstitle": "images/08/08fb1593f66683b8cdf769e712a4d36ddf9d7079.png"
+  }
+}

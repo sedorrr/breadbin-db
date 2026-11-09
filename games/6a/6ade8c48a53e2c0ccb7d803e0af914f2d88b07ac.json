@@ -18,5 +18,13 @@
     "Action"
   ],
   "players": "1",
-  "synopsis": "Rennspiel mit Schusswaffen im Stil von Chase H.Q.: Als Bundesagent jagt man in einem bewaffneten Sportwagen über Straßen in Pseudo-3D Mitglieder einer Terrorbande, schießt andere Fahrzeuge von der Fahrbahn und bekommt es in späteren Abschnitten auch mit Polizei und Militär zu tun. Der Turbo macht schneller, verbraucht aber viel Treibstoff.\n\nKassettenfassung auf zwei Disketten, Crack von Hotline (HTL) mit 6 Trainern, Ladebild und Anleitung. Die Kassettenfassung erlaubt bis zu fünf Fortsetzungen und zeigt kein Game-Over-Bild. Joystick in Port 2, englisch.\n\nCode: Chris Butler · Musik: Sean Connolly, Marc Francois"
+  "synopsis": "Rennspiel mit Schusswaffen im Stil von Chase H.Q.: Als Bundesagent jagt man in einem bewaffneten Sportwagen über Straßen in Pseudo-3D Mitglieder einer Terrorbande, schießt andere Fahrzeuge von der Fahrbahn und bekommt es in späteren Abschnitten auch mit Polizei und Militär zu tun. Der Turbo macht schneller, verbraucht aber viel Treibstoff.\n\nKassettenfassung auf zwei Disketten, Crack von Hotline (HTL) mit 6 Trainern, Ladebild und Anleitung. Die Kassettenfassung erlaubt bis zu fünf Fortsetzungen und zeigt kein Game-Over-Bild. Joystick in Port 2, englisch.\n\nCode: Chris Butler · Musik: Sean Connolly, Marc Francois",
+  "texts": {
+    "de": "Rennspiel mit Schusswaffen im Stil von Chase H.Q.: Als Bundesagent jagt man in einem bewaffneten Sportwagen über Straßen in Pseudo-3D Mitglieder einer Terrorbande, schießt andere Fahrzeuge von der Fahrbahn und bekommt es in späteren Abschnitten auch mit Polizei und Militär zu tun. Der Turbo macht schneller, verbraucht aber viel Treibstoff.\n\nKassettenfassung auf zwei Disketten, Crack von Hotline (HTL) mit 6 Trainern, Ladebild und Anleitung. Die Kassettenfassung erlaubt bis zu fünf Fortsetzungen und zeigt kein Game-Over-Bild. Joystick in Port 2, englisch.\n\nCode: Chris Butler · Musik: Sean Connolly, Marc Francois",
+    "en": "Racing game with guns in the style of Chase H.Q.: as a federal agent, the player chases members of a terrorist gang along pseudo-3D roads in an armed sports car, shoots other vehicles off the road and in later sections also has to deal with the police and the military. The turbo increases speed but uses a lot of fuel.\n\nCassette version on two disks, crack by Hotline (HTL) with 6 trainers, loading picture and instructions. The cassette version allows up to five continues and shows no game-over screen. Joystick in port 2, English.\n\nCode: Chris Butler · Music: Sean Connolly, Marc Francois"
+  },
+  "images": {
+    "ss": "images/c8/c81fd5d97d7339f5005cb43f1e0d49e5c2c21cde.png",
+    "sstitle": "images/1e/1efa716d5edd19aba54485832bf3d68ef9c7482d.png"
+  }
 }

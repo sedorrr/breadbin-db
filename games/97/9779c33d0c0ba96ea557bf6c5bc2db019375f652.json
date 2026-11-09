@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "9779c33d0c0ba96ea557bf6c5bc2db019375f652",
+  "md5": "e7de088419c44914b0ff5fb9ce8d1cb3",
+  "crc32": "6f62b36f",
+  "size": 707178,
+  "format": "TAP",
+  "files": [
+    "Sanxion.tap"
+  ],
+  "screenscraper_id": "36471",
+  "title": "Sanxion",
+  "year": "1986",
+  "publisher": "Thalamus",
+  "developer": "Stavros Fasoulas",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Erstes Spiel von Thalamus: ein sehr schnelles horizontal scrollendes Ballerspiel über zehn Abschnitte. Oben zeigt ein Radar die anrückenden Formationen von oben, darunter läuft die eigentliche Seitenansicht. Das Schiff sinkt ohne Gegensteuern langsam ab, nach jedem Abschnitt folgt eine Bonusrunde. Die hohe Geschwindigkeit und Rob Hubbards Musik, darunter eine Bearbeitung von Prokofjews „Tanz der Ritter“, machten Sanxion bekannt.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Stavros Fasoulas · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Erstes Spiel von Thalamus: ein sehr schnelles horizontal scrollendes Ballerspiel über zehn Abschnitte. Oben zeigt ein Radar die anrückenden Formationen von oben, darunter läuft die eigentliche Seitenansicht. Das Schiff sinkt ohne Gegensteuern langsam ab, nach jedem Abschnitt folgt eine Bonusrunde. Die hohe Geschwindigkeit und Rob Hubbards Musik, darunter eine Bearbeitung von Prokofjews „Tanz der Ritter“, machten Sanxion bekannt.\n\nDiese Datei enthält das Spiel als Bandabbild (TAP); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Stavros Fasoulas · Musik: Rob Hubbard",
+    "en": "Thalamus's first game: a very fast horizontally scrolling shoot 'em up across ten sections. At the top a radar shows the approaching formations from above, while below it the actual side view runs. Without counter-steering the ship slowly sinks, and each section is followed by a bonus round. The high speed and Rob Hubbard's music, including an arrangement of Prokofiev's \"Dance of the Knights\", made Sanxion famous.\n\nThis file contains the game as a tape image (TAP); there are several versions (original, conversions, cracks).\n\nCode: Stavros Fasoulas · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/11/11aa415e28b25d6e32631729391c0ee20e7af7c8.png",
+    "sstitle": "images/7a/7a9c3f7c2e162892903df5c03548aa17cd6dd166.png"
+  }
+}

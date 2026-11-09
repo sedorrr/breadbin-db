@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "72e2311226f5a00559d229d5507eb054f52a3cf7",
+  "md5": "e1d059d3541ed1ee206df5fb1dd3ef57",
+  "crc32": "eaadbe69",
+  "size": 506798,
+  "format": "TAP",
+  "files": [
+    "1943 - The Battle of Midway.tap"
+  ],
+  "screenscraper_id": "36101",
+  "title": "1943: The Battle of Midway",
+  "year": "1988",
+  "publisher": "Go!",
+  "developer": "Tiertex",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1-2",
+  "synopsis": "Der Nachfolger von 1942 schickt ein Jagdflugzeug in die Schlacht um Midway. Statt mehrerer Leben gibt es eine Energieleiste, die durch Treffer sinkt und durch Extras aufgefüllt wird. Am Ende der Abschnitte warten große Kriegsschiffe und Bomber, die in Einzelteilen zerstört werden müssen. Sonderwaffen und Spezialangriffe kosten dabei Energie.\n\nDie C64-Fassung erschien bei Go!, einem Label von U.S. Gold, auf Kassette und Diskette und wurde von Tiertex umgesetzt. Es gibt auch Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick.\n\nMusik: Mark Tait",
+  "texts": {
+    "de": "Der Nachfolger von 1942 schickt ein Jagdflugzeug in die Schlacht um Midway. Statt mehrerer Leben gibt es eine Energieleiste, die durch Treffer sinkt und durch Extras aufgefüllt wird. Am Ende der Abschnitte warten große Kriegsschiffe und Bomber, die in Einzelteilen zerstört werden müssen. Sonderwaffen und Spezialangriffe kosten dabei Energie.\n\nDie C64-Fassung erschien bei Go!, einem Label von U.S. Gold, auf Kassette und Diskette und wurde von Tiertex umgesetzt. Es gibt auch Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick.\n\nMusik: Mark Tait",
+    "en": "The successor to 1942 sends a fighter plane into the Battle of Midway. Instead of several lives there is an energy bar, which drops with hits and is replenished by power-ups. At the end of the sections, large warships and bombers await, which have to be destroyed piece by piece. Special weapons and special attacks cost energy.\n\nThe C64 version was released by Go!, a U.S. Gold label, on cassette and disk and was converted by Tiertex. There are also cartridge conversions from the scene. It is controlled with the joystick.\n\nMusic: Mark Tait"
+  }
+}

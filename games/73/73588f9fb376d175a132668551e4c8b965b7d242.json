@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "Schnelles Ein-Bild-Arcadespiel: Mit dem Joystick (Port 1 oder 2) bunte Pixies einsammeln. Wer die Farben in der richtigen Reihenfolge erwischt – die Rahmenfarbe zeigt die nächste –, bekommt Zeit und Punkte. Weder Feuerknopf noch Tastatur nötig; ein flinker Joystick hilft.\n\nErste Fassung auf der Assembly Summer 2025 (3. Platz im Game-Dev-Wettbewerb); hier Fassung 1.0, Quelltext auf GitHub.",
+  "texts": {
+    "de": "Schnelles Ein-Bild-Arcadespiel: Mit dem Joystick (Port 1 oder 2) bunte Pixies einsammeln. Wer die Farben in der richtigen Reihenfolge erwischt – die Rahmenfarbe zeigt die nächste –, bekommt Zeit und Punkte. Weder Feuerknopf noch Tastatur nötig; ein flinker Joystick hilft.\n\nErste Fassung auf der Assembly Summer 2025 (3. Platz im Game-Dev-Wettbewerb); hier Fassung 1.0, Quelltext auf GitHub.",
+    "en": "Fast single-screen arcade game: collect colourful pixies with the joystick (port 1 or 2). Catching the colours in the right order – the border colour shows the next one – earns time and points. Neither the fire button nor the keyboard is needed; a nimble joystick helps.\n\nFirst version at Assembly Summer 2025 (3rd place in the game development competition); this is version 1.0, source code on GitHub."
+  },
   "images": {
     "ss": "images/bf/bf6d579420a1714fc19da52cdbdc28c6613dd18f.png",
     "sstitle": "images/2a/2a7349c4de5ac98ce41b969f6bd9342a35be0bd4.png"

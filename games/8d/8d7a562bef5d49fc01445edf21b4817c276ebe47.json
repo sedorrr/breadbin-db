@@ -18,6 +18,10 @@
   ],
   "players": "1",
   "synopsis": "C64-Umsetzung eines eigenen Browser-/Windows-Spiels nach dem Snake-Prinzip: Ein Wurm frisst in einem geschlossenen Feld Pilze und wird dabei länger; wer schnell frisst, erhöht den Punktemultiplikator. Sterne verkürzen den Wurm, erscheinen aber immer seltener. Ein Zusammenstoß mit Wand oder Schwanz beendet das Spiel. Rastertricks, Sprites und eigene Zeichensätze sorgen für pixelgenaue Bewegung.\n\nD64 mit Fassung 1.05 (lautere Soundeffekte; Titelmusik seit 1.04), Bestenliste wird auf Diskette gespeichert. Läuft auf PAL und NTSC. Kostenlos bei itch.io.\n\nMusik: Richard Bayliss",
+  "texts": {
+    "de": "C64-Umsetzung eines eigenen Browser-/Windows-Spiels nach dem Snake-Prinzip: Ein Wurm frisst in einem geschlossenen Feld Pilze und wird dabei länger; wer schnell frisst, erhöht den Punktemultiplikator. Sterne verkürzen den Wurm, erscheinen aber immer seltener. Ein Zusammenstoß mit Wand oder Schwanz beendet das Spiel. Rastertricks, Sprites und eigene Zeichensätze sorgen für pixelgenaue Bewegung.\n\nD64 mit Fassung 1.05 (lautere Soundeffekte; Titelmusik seit 1.04), Bestenliste wird auf Diskette gespeichert. Läuft auf PAL und NTSC. Kostenlos bei itch.io.\n\nMusik: Richard Bayliss",
+    "en": "C64 conversion of the author's own browser/Windows game based on the Snake principle: a worm eats mushrooms in an enclosed playfield and grows longer as it does; eating quickly raises the score multiplier. Stars shorten the worm but appear less and less often. Colliding with a wall or the tail ends the game. Raster tricks, sprites and custom character sets provide pixel-precise movement.\n\nD64 with version 1.05 (louder sound effects; title music since 1.04); the high-score table is saved to disk. Runs on PAL and NTSC. Free on itch.io.\n\nMusic: Richard Bayliss"
+  },
   "images": {
     "sstitle": "images/fb/fb4a0a8dc33e5a0a1ca91db76225c1df776ce71b.png"
   }

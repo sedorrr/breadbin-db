@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "760e5165c5a053143aaa23ba3786865ab09d269a",
+  "md5": "11178b194fd1c4f924e732054bd07a4d",
+  "crc32": "4aa18076",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Rescue on Fractalus.crt"
+  ],
+  "screenscraper_id": "35962",
+  "title": "Rescue on Fractalus!",
+  "year": "1985",
+  "publisher": "Epyx",
+  "developer": "Lucasfilm Games (David Fox, Loren Carpenter, Charlie Kellner, Peter Langston, Gary Winnick)",
+  "genres": [
+    "Shooter",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Im Cockpit eines Valkyrie-Jägers fliegt der Spieler über die zerklüftete Oberfläche des Planeten Fractalus, um abgeschossene Piloten aufzulesen. Nach der Landung laufen die Geretteten zum Schiff und klopfen an die Luke – doch manche entpuppen sich als getarnte Außerirdische, ein Schreckmoment, an den sich viele Spieler erinnern. Zwischendurch müssen Geschützstellungen und Raumschiffe der Jaggi abgewehrt werden, und die giftige Atmosphäre setzt dem Schiff zu. Die Berglandschaft wird mit fraktalen Verfahren in Echtzeit berechnet, was 1984/85 auf Heimcomputern als technische Sensation galt.\n\nDie C64-Fassung folgte den Atari-8-Bit-Fassungen; in den USA erschien sie bei Epyx auf Diskette, in Europa bei Activision. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf und Code: David Fox, Loren Carpenter, Charlie Kellner, Peter Langston · Grafik: Gary Winnick",
+  "texts": {
+    "de": "Im Cockpit eines Valkyrie-Jägers fliegt der Spieler über die zerklüftete Oberfläche des Planeten Fractalus, um abgeschossene Piloten aufzulesen. Nach der Landung laufen die Geretteten zum Schiff und klopfen an die Luke – doch manche entpuppen sich als getarnte Außerirdische, ein Schreckmoment, an den sich viele Spieler erinnern. Zwischendurch müssen Geschützstellungen und Raumschiffe der Jaggi abgewehrt werden, und die giftige Atmosphäre setzt dem Schiff zu. Die Berglandschaft wird mit fraktalen Verfahren in Echtzeit berechnet, was 1984/85 auf Heimcomputern als technische Sensation galt.\n\nDie C64-Fassung folgte den Atari-8-Bit-Fassungen; in den USA erschien sie bei Epyx auf Diskette, in Europa bei Activision. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf und Code: David Fox, Loren Carpenter, Charlie Kellner, Peter Langston · Grafik: Gary Winnick",
+    "en": "From the cockpit of a Valkyrie fighter, the player flies over the rugged surface of the planet Fractalus to pick up downed pilots. After landing, the rescued pilots run to the ship and knock on the hatch – but some turn out to be disguised aliens, a moment of shock that many players remember. In between, gun emplacements and Jaggi spaceships have to be fended off, and the toxic atmosphere takes its toll on the ship. The mountain landscape is calculated in real time using fractal techniques, which was considered a technical sensation on home computers in 1984/85.\n\nThe C64 version followed the Atari 8-bit versions; in the USA it was released on disk by Epyx, in Europe by Activision. Controlled with a joystick. Besides the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without loading.\n\nDesign and code: David Fox, Loren Carpenter, Charlie Kellner, Peter Langston · Graphics: Gary Winnick"
+  }
+}

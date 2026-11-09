@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "9351b0034ee80ffc126ecede6764cfaaeb4ed9ce",
+  "md5": "54edb92d65d630d3e929a8c5be88aa74",
+  "crc32": "6bb40927",
+  "size": 31627,
+  "format": "T64",
+  "files": [
+    "PITSTOP2.T64"
+  ],
+  "screenscraper_id": "36298",
+  "title": "Pitstop II",
+  "year": "1984",
+  "publisher": "Epyx",
+  "developer": "Epyx",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Formel-1-Rennspiel mit geteiltem Bildschirm: Zwei Spieler fahren gleichzeitig gegeneinander, allein tritt man gegen Computerfahrer an. Reifenverschleiß und Treibstoff zwingen zu Boxenstopps, bei denen die Boxencrew selbst gesteuert wird. Zur Wahl stehen sechs Strecken, darunter Hockenheim, Brands Hatch und Watkins Glen. Der Zweispielermodus machte Pitstop II zu einem der beliebtesten frühen Rennspiele auf dem C64.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Steven H. Landrum, Dennis Caswell, Erin Murphy",
+  "texts": {
+    "de": "Ein Formel-1-Rennspiel mit geteiltem Bildschirm: Zwei Spieler fahren gleichzeitig gegeneinander, allein tritt man gegen Computerfahrer an. Reifenverschleiß und Treibstoff zwingen zu Boxenstopps, bei denen die Boxencrew selbst gesteuert wird. Zur Wahl stehen sechs Strecken, darunter Hockenheim, Brands Hatch und Watkins Glen. Der Zweispielermodus machte Pitstop II zu einem der beliebtesten frühen Rennspiele auf dem C64.\n\nDiese Datei enthält das Spiel als Bandarchiv (T64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Steven H. Landrum, Dennis Caswell, Erin Murphy",
+    "en": "A Formula One racing game with a split screen: two players race against each other simultaneously, while a single player competes against computer drivers. Tyre wear and fuel force pit stops, during which the pit crew is controlled by the player. Six tracks are available, including Hockenheim, Brands Hatch and Watkins Glen. The two-player mode made Pitstop II one of the most popular early racing games on the C64.\n\nThis file contains the game as a tape archive (T64); several versions exist (original, conversions, cracks).\n\nCode: Steven H. Landrum, Dennis Caswell, Erin Murphy"
+  },
+  "images": {
+    "sstitle": "images/56/560ff3612444254a7977ced69ff925f7a1dd2ad1.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "8bca21ad2412f990fa15caf0169f87a208653e13",
+  "md5": "05ab04988ee39818f43e240b5c9e2cee",
+  "crc32": "616c09e6",
+  "size": 36257,
+  "format": "T64",
+  "files": [
+    "BATALYX.T64"
+  ],
+  "screenscraper_id": "109878",
+  "title": "Batalyx",
+  "year": "1985",
+  "publisher": "Llamasoft",
+  "developer": "Jeff Minter",
+  "genres": [
+    "Shoot'em Up",
+    "Sammlung"
+  ],
+  "players": "1",
+  "synopsis": "Batalyx besteht aus mehreren kleinen Spielen, zwischen denen der Spieler jederzeit wechseln kann, um das übergeordnete Ziel zu erreichen. Darunter sind Ballerspiele, Geschicklichkeitsaufgaben und ein eingebautes Lichtspiel nach Art von Minters Psychedelia. Erst wer in allen Teilen vorankommt, schließt eine Runde ab. Das ungewöhnliche Konzept aus parallel laufenden Teilspielen machte Batalyx zu einem Experiment unter den Llamasoft-Titeln.\n\nEin reines C64-Spiel von Llamasoft auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jeff Minter",
+  "texts": {
+    "de": "Batalyx besteht aus mehreren kleinen Spielen, zwischen denen der Spieler jederzeit wechseln kann, um das übergeordnete Ziel zu erreichen. Darunter sind Ballerspiele, Geschicklichkeitsaufgaben und ein eingebautes Lichtspiel nach Art von Minters Psychedelia. Erst wer in allen Teilen vorankommt, schließt eine Runde ab. Das ungewöhnliche Konzept aus parallel laufenden Teilspielen machte Batalyx zu einem Experiment unter den Llamasoft-Titeln.\n\nEin reines C64-Spiel von Llamasoft auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jeff Minter",
+    "en": "Batalyx consists of several small games between which the player can switch at any time in order to achieve the overall goal. Among them are shoot 'em ups, skill tasks and a built-in light synthesiser in the style of Minter's Psychedelia. Only by making progress in all parts can a round be completed. The unusual concept of sub-games running in parallel made Batalyx an experiment among Llamasoft titles.\n\nA C64-only game by Llamasoft on cassette and disk. Controlled with a joystick. Besides the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without loading.\n\nCode: Jeff Minter"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c5fdf3523976c8cac725c39ab2eb4e4410ac8056",
+  "md5": "8232ad4a2ab3015c583fba887f507d31",
+  "crc32": "1e61e0ec",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GUNSHIP1.D64"
+  ],
+  "screenscraper_id": "36431",
+  "title": "Gunship",
+  "year": "1986",
+  "publisher": "MicroProse",
+  "developer": "MicroProse",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Eine Hubschraubersimulation, in der man einen AH-64 Apache durch Einsätze in Südostasien, Mittelamerika, dem Nahen Osten und Westeuropa fliegt. Vor dem Start werden Bewaffnung und Auftrag gewählt; im Flug gilt es, Ziele zu finden, Abwehrfeuer auszuweichen und heil zurückzukehren. Der Pilot sammelt Erfahrung, Auszeichnungen und Beförderungen. Für die damalige Zeit bot Gunship eine flüssige 3D-Darstellung und eine durchdachte Mischung aus Simulation und zugänglicher Spielbarkeit.\n\nDiese Fassung besteht aus zwei Diskettenabbildern (zwei Seiten).\n\nCode: Andy Hollis, Arnold Hendrick, Sid Meier, Greg Tavares · Grafik: Michael Haire, Michele Mahan, Kim Disney",
+  "texts": {
+    "de": "Eine Hubschraubersimulation, in der man einen AH-64 Apache durch Einsätze in Südostasien, Mittelamerika, dem Nahen Osten und Westeuropa fliegt. Vor dem Start werden Bewaffnung und Auftrag gewählt; im Flug gilt es, Ziele zu finden, Abwehrfeuer auszuweichen und heil zurückzukehren. Der Pilot sammelt Erfahrung, Auszeichnungen und Beförderungen. Für die damalige Zeit bot Gunship eine flüssige 3D-Darstellung und eine durchdachte Mischung aus Simulation und zugänglicher Spielbarkeit.\n\nDiese Fassung besteht aus zwei Diskettenabbildern (zwei Seiten).\n\nCode: Andy Hollis, Arnold Hendrick, Sid Meier, Greg Tavares · Grafik: Michael Haire, Michele Mahan, Kim Disney",
+    "en": "A helicopter simulation in which you fly an AH-64 Apache on missions in Southeast Asia, Central America, the Middle East and Western Europe. Before take-off, weapons and mission are chosen; in flight, the task is to find targets, evade defensive fire and return safely. The pilot gains experience, decorations and promotions. For its time, Gunship offered smooth 3D graphics and a well-thought-out mix of simulation and accessible gameplay.\n\nThis version consists of two disk images (two sides).\n\nCode: Andy Hollis, Arnold Hendrick, Sid Meier, Greg Tavares · Graphics: Michael Haire, Michele Mahan, Kim Disney"
+  },
+  "images": {
+    "sstitle": "images/3b/3b98e07a72739d3826351cc808f04f567a9e6479.png"
+  }
+}

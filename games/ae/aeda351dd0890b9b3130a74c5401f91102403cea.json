@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "aeda351dd0890b9b3130a74c5401f91102403cea",
+  "md5": "f0d0f9c255d980373c2e1dbbdc0108d7",
+  "crc32": "3fd9a2ea",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CURSEAB1.D64"
+  ],
+  "screenscraper_id": "35890",
+  "title": "Curse of the Azure Bonds",
+  "year": "1989",
+  "publisher": "SSI",
+  "developer": "SSI",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Die Heldengruppe erwacht mit fünf blauen Zeichen auf den Armen, die sie an fremde Mächte binden. Um sich zu befreien, muss sie die Urheber der einzelnen Zeichen in den Vergessenen Reichen aufspüren. Wie Pool of Radiance setzt das Spiel die AD&D-Regeln mit rundenbasierten Kämpfen auf einem Raster um; Figuren aus dem Vorgänger lassen sich übernehmen. Die Handlung beruht auf dem gleichnamigen Roman.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Paul Murray, Keith Brors, Jim Jennings · Grafik: Tom Wahl, Fred Butts, Mark Johnson · Musik: Dave Warhol",
+  "texts": {
+    "de": "Die Heldengruppe erwacht mit fünf blauen Zeichen auf den Armen, die sie an fremde Mächte binden. Um sich zu befreien, muss sie die Urheber der einzelnen Zeichen in den Vergessenen Reichen aufspüren. Wie Pool of Radiance setzt das Spiel die AD&D-Regeln mit rundenbasierten Kämpfen auf einem Raster um; Figuren aus dem Vorgänger lassen sich übernehmen. Die Handlung beruht auf dem gleichnamigen Roman.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode: Paul Murray, Keith Brors, Jim Jennings · Grafik: Tom Wahl, Fred Butts, Mark Johnson · Musik: Dave Warhol",
+    "en": "The party of heroes wakes up with five blue marks on their arms that bind them to unknown powers. To free themselves, they have to track down the originators of each mark in the Forgotten Realms. Like Pool of Radiance, the game implements the AD&D rules with turn-based combat on a grid; characters from the predecessor can be imported. The story is based on the novel of the same name.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode: Paul Murray, Keith Brors, Jim Jennings · Graphics: Tom Wahl, Fred Butts, Mark Johnson · Music: Dave Warhol"
+  },
+  "images": {
+    "sstitle": "images/09/09bc10d1e92cf814640066affaaa59dc0c6d404c.png"
+  }
+}
