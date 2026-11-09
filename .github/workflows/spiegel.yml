@@ -47,7 +47,7 @@ jobs:
           m = json.loads(z.read("breadbin-share.json"))
           print(json.dumps({"games": m["games"], "created": m["created"], "file": "breadbin-db.zip"}))
           PY
-          lftp -u "$USER","$PASS" -e "set cmd:fail-exit true; set ftp:ssl-force true; set ssl:verify-certificate yes; mkdir -p -f $DIR; cd $DIR; put dist/breadbin-db.zip -o breadbin-db.zip.neu; mv breadbin-db.zip.neu breadbin-db.zip; put dist/stand.json; put app/version.json -o version.json; put dist/seite/spiele.json -o spiele.json; put dist/seite/index.html -o index.html; mirror -R --only-newer --no-perms images images; bye" "$HOST"
+          lftp -u "$USER","$PASS" -e "set cmd:fail-exit true; set ftp:ssl-force true; set ssl:verify-certificate yes; mkdir -p -f $DIR; cd $DIR; put dist/breadbin-db.zip -o breadbin-db.zip.neu; mv breadbin-db.zip.neu breadbin-db.zip; put dist/stand.json; put app/version.json -o version.json; put dist/seite/spiele.json -o spiele.json; put dist/seite/index.html -o index.html; put tools/seite/htaccess -o .htaccess; mirror -R --only-newer --no-perms images images; bye" "$HOST"
       - if: steps.da.outputs.ok == '1' && !inputs.liste && vars.SPIEGEL_URL != ''
         name: Abrufbar?
         run: |

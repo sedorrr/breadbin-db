@@ -1,0 +1,8 @@
+# Wird als .htaccess in den Datenordner (breadbindb) gelegt. Die Daten sind öffentlich (CC BY-SA 4.0);
+# die Programm-Webseite auf breadbin.8bitcavern.de liest Version, Zahlen und Spieleliste per fetch.
+<IfModule mod_headers.c>
+  <FilesMatch "\.json$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
+Options -Indexes
