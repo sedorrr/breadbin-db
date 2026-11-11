@@ -21,5 +21,9 @@
   "texts": {
     "de": "Die Klempner Mario und Luigi säubern eine Kanalisation, die aus mehreren Ebenen besteht. Gegner wie Schildkröten, Krabben und Fliegen kommen aus den Röhren; man stößt sie von unten durch die Plattform an, bis sie auf dem Rücken liegen, und kickt sie dann weg. Zwei Spieler können gleichzeitig antreten und sich gegenseitig helfen oder behindern. Das Spielprinzip nach Nintendos Automaten von 1983 legte den Grundstein für die späteren Mario-Spiele.\n\nDiese Umsetzung entstand 1984 bei Atarisoft für den US-Markt, wurde aber nie regulär verkauft; sie kursiert als Vorabfassung. Die bekanntere offizielle C64-Fassung stammt dagegen von Ocean (1986/87) und ist ein eigenständiges Programm. Gesteuert wird mit dem Joystick.\n\nCode: Gregg A. Tavares · Grafik: Gregg A. Tavares · Musik: Gregg A. Tavares",
     "en": "The plumbers Mario and Luigi clean out a sewer consisting of several levels. Enemies such as turtles, crabs and flies come out of the pipes; they are bumped from below through the platform until they lie on their backs and are then kicked away. Two players can play simultaneously and help or hinder each other. The gameplay, based on Nintendo's 1983 arcade game, laid the foundation for the later Mario games.\n\nThis conversion was made in 1984 by Atarisoft for the US market but was never sold commercially; it circulates as a pre-release version. The better-known official C64 version, by contrast, is by Ocean (1986/87) and is a separate program. Controlled with the joystick.\n\nCode: Gregg A. Tavares · Graphics: Gregg A. Tavares · Music: Gregg A. Tavares"
+  },
+  "images": {
+    "ss": "images/93/93d496c78ef24471d5e5df9b85983de74a2f446d.png",
+    "sstitle": "images/42/4227ed96d84ac52f62ff5d3e66de806dd8b7cc83.png"
   }
 }

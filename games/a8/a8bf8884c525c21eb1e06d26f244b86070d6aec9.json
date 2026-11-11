@@ -22,5 +22,9 @@
   "texts": {
     "de": "Das kleine Wesen BLOB muss den instabilen Kern eines Planeten reparieren, bevor dieser zerfällt. Dazu erkundet es eine weitläufige unterirdische Welt aus mehreren hundert Bildschirmen und sucht die benötigten Kernteile. Es kann sich eigene Plattformen bauen, über Schwebeplattformen fliegen und Teleporter benutzen, die nur mit den richtigen Codes funktionieren. Die große Spielwelt und die Mischung aus Geschick und Erkundung machten Starquake zu einem Klassiker.\n\nUrsprünglich für den ZX Spectrum entwickelt; die C64-Fassung erschien bei Bubble Bus auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Stephen Crow · Musik (C64): Stephen Crow",
     "en": "The little creature BLOB has to repair the unstable core of a planet before it falls apart. To do so it explores a sprawling underground world of several hundred screens, searching for the required core parts. It can build its own platforms, fly over hover platforms and use teleporters that only work with the right codes. The large game world and the mix of skill and exploration made Starquake a classic.\n\nOriginally developed for the ZX Spectrum; the C64 version was released by Bubble Bus on tape and disk. Controlled via joystick. Besides the originals, there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without additional loading.\n\nDesign: Stephen Crow · Music (C64): Stephen Crow"
+  },
+  "images": {
+    "ss": "images/f8/f821f197b9ef17b87bc096449d028b48eb0f3840.png",
+    "sstitle": "images/2e/2ec1e0d52124095c3c0a1d5c2e83c8bf342b3940.png"
   }
 }

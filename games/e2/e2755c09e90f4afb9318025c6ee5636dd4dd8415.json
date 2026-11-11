@@ -22,5 +22,8 @@
   "texts": {
     "de": "Ein Nachbau des Automatenspiels Frogger: Ein Frosch muss erst eine vielbefahrene Straße überqueren und dann auf Baumstämmen und Schildkröten einen Fluss, um sicher in eine der Buchten am oberen Rand zu gelangen. Autos, Lastwagen und abtauchende Schildkröten verlangen gutes Timing. Sind alle Buchten besetzt, beginnt die nächste, schnellere Runde.\n\nEin unabhängig geschriebenes Programm, keine lizenzierte Umsetzung. Gesteuert wird per Joystick in Port 2.\n\nCode und Musik: Nicholas Coplin",
     "en": "A clone of the arcade game Frogger: a frog first has to cross a busy road and then a river on logs and turtles to reach one of the bays at the top safely. Cars, lorries and diving turtles demand good timing. Once all the bays are occupied, the next, faster round begins.\n\nAn independently written program, not a licensed conversion. It is controlled by joystick in port 2.\n\nCode and music: Nicholas Coplin"
+  },
+  "images": {
+    "ss": "images/b8/b8d92ddf9abe337a461dcd6e1ab19bb174667857.png"
   }
 }

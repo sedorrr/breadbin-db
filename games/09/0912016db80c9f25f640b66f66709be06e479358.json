@@ -22,5 +22,9 @@
   "texts": {
     "de": "Inoffizielle Fortsetzung des Klassikers Bruce Lee von 1984: Bruce muss seine Schwester aus der Festung des Zauberers Tao-Bao befreien. Wie im Vorbild sammelt er auf vielen verbundenen Bildschirmen Laternen ein, öffnet mit Schaltern Türen und kämpft gegen Gegner mit Schlägen und Tritten. Fallen sind sofort tödlich, Gegnertreffer nicht. Grafik und Klang orientieren sich eng am Original.\n\nDie C64-Fassung ist eine Umsetzung des PC-Spiels von Bruno R. Marcos (2013) und erschien als Disketten-Abbild sowie als EasyFlash- und Magic-Desk-Modul. Steuerung per Joystick in Port 1 oder 2 oder per Tastatur.\n\nCode (C64): Jonas Hultén · Grafik: Carl Mason · Musik: Jonas Hultén",
     "en": "Unofficial sequel to the 1984 classic Bruce Lee: Bruce has to free his sister from the fortress of the wizard Tao-Bao. As in the original, he collects lanterns across many connected screens, opens doors with switches and fights enemies with punches and kicks. Traps are instantly fatal, enemy hits are not. Graphics and sound closely follow the original.\n\nThe C64 version is a conversion of the PC game by Bruno R. Marcos (2013) and was released as a disk image and as EasyFlash and Magic Desk cartridges. Controlled with a joystick in port 1 or 2 or via the keyboard.\n\nCode (C64): Jonas Hultén · Graphics: Carl Mason · Music: Jonas Hultén"
+  },
+  "images": {
+    "ss": "images/98/98f3e759bfe73d355fdf3109bb973cf09d883ee7.png",
+    "sstitle": "images/7e/7e078b596439416d33073a48223edf4a276e9576.png"
   }
 }

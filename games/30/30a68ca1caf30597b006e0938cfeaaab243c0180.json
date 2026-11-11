@@ -21,5 +21,8 @@
   "texts": {
     "de": "In einer Zukunft, in der Roboter die Menschheit ausgelöscht haben, kämpft ein einzelner Held auf einem Bildschirm gegen ganze Wellen von Maschinen. Gleichzeitig soll er die letzten Menschen einsammeln, die ziellos über das Spielfeld laufen. Bewegen und Schießen sind voneinander getrennt, sodass in jede Richtung gefeuert werden kann, während man läuft. Der Williams-Automat von 1982 prägte das Prinzip der Zwei-Stick-Ballerspiele.\n\nAtarisoft brachte die C64-Fassung auf Modul und Diskette heraus. Zwei Spieler spielen abwechselnd; gesteuert wird mit dem Joystick in Port 1.\n\nCode: Tom Griner · Grafik: Tom Griner",
     "en": "In a future in which robots have wiped out humanity, a lone hero fights entire waves of machines on a single screen. At the same time, he is to collect the last humans, who wander aimlessly across the playfield. Moving and shooting are separate, so you can fire in any direction while running. Williams' 1982 arcade machine established the principle of twin-stick shooters.\n\nAtarisoft released the C64 version on cartridge and disk. Two players take turns; controlled with a joystick in port 1.\n\nCode: Tom Griner · Graphics: Tom Griner"
+  },
+  "images": {
+    "sstitle": "images/95/957e9f14e03eb567f443124202fdd0efccb0ef04.png"
   }
 }

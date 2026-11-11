@@ -21,5 +21,9 @@
   "texts": {
     "de": "Ein kleines Raumschiff fliegt durch eine Folge von Sternsystemen und muss in jeder Ebene eine Anzahl Sternenzellen einsammeln. Die Zellen stecken in wabenartigen Gebilden, die der Spieler erst aufschießen und dann durchfliegen muss, bevor unzerstörbare Arbeiterzellen die Lücken wieder schließen. So wachsen und verändern sich die Ebenen während des Spiels wie lebende Organismen. Mit acht-Wege-Scrolling, Bonusebenen und dem ungewöhnlichen Aufbau hob es sich deutlich von üblichen Ballerspielen ab und wurde von der Fachpresse hoch bewertet.\n\nEin reines C64-Spiel, erschienen auf Diskette und Kassette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Martin Walker · Musik: Matt Gray",
     "en": "A small spaceship flies through a sequence of star systems and has to collect a number of star cells on each level. The cells are embedded in honeycomb-like structures that the player first has to shoot open and then fly through before indestructible worker cells close the gaps again. In this way the levels grow and change during play like living organisms. With eight-way scrolling, bonus levels and its unusual structure, it stood out clearly from ordinary shooters and was rated highly by the press.\n\nA C64-exclusive game, released on disk and cassette. Controlled with a joystick. Besides the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nCode: Martin Walker · Music: Matt Gray"
+  },
+  "images": {
+    "ss": "images/dc/dc8c2d1c84aaabc77fc4e2e1e2592f8a38e1fcbb.png",
+    "sstitle": "images/90/90f08896d5b43b2aa6cba7f54b7f13f42edce5ed.png"
   }
 }

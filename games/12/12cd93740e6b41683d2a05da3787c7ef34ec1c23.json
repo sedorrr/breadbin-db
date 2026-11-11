@@ -22,5 +22,8 @@
   "texts": {
     "de": "Umsetzung des Automaten von Century Electronics (1983), lose nach Victor Hugos Roman: Quasimodo läuft über die Burgmauer, um Esmeralda zu retten. Auf jedem Bildschirm springt er über Gruben und Wachen, schwingt an Seilen und duckt sich unter Pfeilen und Feuerbällen weg; am rechten Rand läutet er die Glocke. Das einfache, schwer zu meisternde Spiel war einer der ersten großen Erfolge von Ocean.\n\nErschien auf Kassette und Diskette. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode, Grafik und Musik: J. Steele",
     "en": "Conversion of the Century Electronics arcade machine (1983), loosely based on Victor Hugo's novel: Quasimodo runs along the castle wall to rescue Esmeralda. On each screen he jumps over pits and guards, swings on ropes and ducks under arrows and fireballs; at the right-hand edge he rings the bell. The simple, hard-to-master game was one of Ocean's first big successes.\n\nReleased on cassette and disk. Controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge that requires no loading.\n\nCode, graphics and music: J. Steele"
+  },
+  "images": {
+    "sstitle": "images/8d/8da08ce94803e47bda6aae309c588b7cc349e987.png"
   }
 }

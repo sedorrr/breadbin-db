@@ -20,5 +20,8 @@
   "texts": {
     "de": "Ein Patrouillenschiff fliegt über eine waagerecht scrollende Mondlandschaft und muss außerirdische Untertassen abschießen. Geschwindigkeit und Flughöhe lassen sich verändern; nach jeder Mission muss das Schiff auf dem nächsten Landeplatz aufsetzen, sonst geht der Treibstoff aus. Es gibt 20 Missionen und vier Schwierigkeitsstufen, die bestimmen, wie angriffslustig die Gegner sind.\n\nDieses Spiel von Avalon Hill erschien für die Atari-8-Bit-Rechner und den C64 und ist nicht mit dem bekannten Irem-Automaten „Moon Patrol“ (C64-Fassung von Atarisoft) zu verwechseln. Gesteuert wird mit dem Joystick in Port 2.",
     "en": "A patrol craft flies over a horizontally scrolling lunar landscape and has to shoot down alien saucers. Speed and altitude can be varied; after each mission the craft has to touch down on the next landing site, otherwise it runs out of fuel. There are 20 missions and four difficulty levels, which determine how aggressive the enemies are.\n\nThis game by Avalon Hill was released for the Atari 8-bit computers and the C64 and is not to be confused with the well-known Irem arcade game “Moon Patrol” (C64 version by Atarisoft). Controlled with the joystick in port 2."
+  },
+  "images": {
+    "ss": "images/bf/bf43e9e95cbcc8bbc19543e863fa8c6462c4d4e0.png"
   }
 }

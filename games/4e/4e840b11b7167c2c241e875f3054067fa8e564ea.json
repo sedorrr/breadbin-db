@@ -22,5 +22,8 @@
   "texts": {
     "de": "Ein frei verbreiteter Nachbau des Automatenspiels Pac-Man: Die Spielfigur frisst sich durch ein Labyrinth voller Punkte und weicht dabei vier Geistern aus. Kraftpillen drehen den Spieß kurzzeitig um, sodass die Geister gefressen werden können. Das Labyrinth ist in dieser Fassung auf die Seite gedreht, damit es besser auf den Bildschirm passt. Es war einer der früheren gelungenen Pac-Man-Nachbauten auf dem C64.\n\nEin unabhängig geschriebenes Programm, keine lizenzierte Umsetzung; verbreitet auf Kassette und Diskette. Gesteuert wird per Joystick in Port 1; zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Donald G. Burden",
     "en": "A freely distributed remake of the arcade game Pac-Man: the player character eats its way through a maze full of dots while avoiding four ghosts. Power pills briefly turn the tables so that the ghosts can be eaten. In this version the maze is turned on its side to fit the screen better. It was one of the earlier successful Pac-Man remakes on the C64.\n\nAn independently written program, not a licensed conversion; distributed on tape and disk. Controlled via joystick in port 1; two players take turns.\n\nCode and graphics: Donald G. Burden"
+  },
+  "images": {
+    "ss": "images/95/95268da993ae033eb3464c7e5bc97e4e81a4dfa1.png"
   }
 }

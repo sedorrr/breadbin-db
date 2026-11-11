@@ -21,5 +21,8 @@
   "texts": {
     "de": "Fußballspiel in der Draufsicht nach dem Amiga-Original von Dino Dini: Der Ball klebt nicht am Fuß, sondern muss beim Dribbeln mitgeführt werden, was Übung verlangt, aber schnelles, flüssiges Spiel ermöglicht. Das Feld scrollt mit dem Ball, Pässe und Schüsse hängen von Laufrichtung und Timing ab. Zu zweit wird gleichzeitig gegeneinander gespielt. Kick Off begründete eine erfolgreiche Reihe.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick, zu zweit mit zwei Joysticks. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode (C64): John Mitchell",
     "en": "Top-down football game based on the Amiga original by Dino Dini: the ball does not stick to the player's foot but has to be carried along when dribbling, which takes practice but allows fast, fluid play. The pitch scrolls with the ball, and passes and shots depend on running direction and timing. Two players play simultaneously against each other. Kick Off founded a successful series.\n\nReleased on disk and tape. Controlled via joystick, with two joysticks for two players. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no additional loading.\n\nCode (C64): John Mitchell"
+  },
+  "images": {
+    "sstitle": "images/1f/1f6dd997b273c0e8794f23cebda8dc29afb16ffd.png"
   }
 }

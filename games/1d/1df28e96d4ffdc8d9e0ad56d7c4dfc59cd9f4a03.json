@@ -21,5 +21,9 @@
   "texts": {
     "de": "Umsetzung des Namco-Automaten von 1979: Eine Formation außerirdischer Schiffe schwebt am oberen Bildrand, aus der sich einzelne Gegner und Gruppen mit ihrem Flaggschiff im Sturzflug lösen. Das Schiff des Spielers bewegt sich am unteren Rand und darf nur einen Schuss gleichzeitig abgeben. Galaxian brachte farbige Gegner und Angriffe im Sturzflug in das Space-Invaders-Prinzip.\n\nErschien als Modul von Atarisoft. Steuerung per Joystick in Port 2, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Alan Pavlish",
     "en": "Conversion of Namco's 1979 arcade game: a formation of alien ships hovers at the top of the screen, from which individual enemies and groups with their flagship break away in dive attacks. The player's ship moves along the bottom edge and may only fire one shot at a time. Galaxian brought coloured enemies and dive attacks to the Space Invaders concept.\n\nReleased as a cartridge by Atarisoft. Controlled with a joystick in port 2; two players take turns.\n\nCode and graphics: Alan Pavlish"
+  },
+  "images": {
+    "ss": "images/6f/6febd20b23e310d4572d7683a00b5bf7804b1110.png",
+    "sstitle": "images/b3/b33dd2c57a1969ce1900aa35927c937c48ae74bd.png"
   }
 }

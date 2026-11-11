@@ -22,5 +22,8 @@
   "texts": {
     "de": "Ms. Pac-Man frisst sich durch Labyrinthe voller Punkte und weicht vier Geistern aus; Kraftpillen machen die Geister kurzzeitig essbar. Gegenüber dem ersten Pac-Man gibt es mehrere verschiedene Labyrinthe, umherhüpfendes Obst und Geister, die sich weniger vorhersehbar verhalten. Kleine Zwischenszenen erzählen die Geschichte von Pac-Man und Ms. Pac-Man. Viele halten die Fortsetzung für das bessere Spiel.\n\nDie offizielle C64-Umsetzung erschien bei Atarisoft als Steckmodul. Gesteuert wird per Joystick; zwei Spieler spielen abwechselnd.\n\nOriginal: General Computer Corporation (Automat, 1982)",
     "en": "Ms. Pac-Man eats her way through mazes full of dots and avoids four ghosts; power pills make the ghosts edible for a short time. Compared with the first Pac-Man there are several different mazes, bouncing fruit and ghosts that behave less predictably. Short intermissions tell the story of Pac-Man and Ms. Pac-Man. Many consider the sequel the better game.\n\nThe official C64 conversion was released by Atarisoft as a plug-in cartridge. Controlled by joystick; two players take turns.\n\nOriginal: General Computer Corporation (arcade, 1982)"
+  },
+  "images": {
+    "ss": "images/d7/d7c82184f8890b9093e7ac87fdb305822cb5928f.png"
   }
 }

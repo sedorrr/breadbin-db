@@ -21,5 +21,8 @@
   "texts": {
     "de": "Nicht lizenzierte Umsetzung des Atari-Automaten von 1980: Feindliche Raketen regnen auf sechs Städte herab, und der Spieler fängt sie mit Abwehrraketen aus drei Stellungen ab, deren Explosionen am Zielpunkt die Angreifer vernichten. Dazu kommen Flugzeuge und Satelliten als Bonusziele. Mit jeder Welle werden die Angriffe schneller.\n\nErschien 1983 auf Kassette bei Interceptor; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Andrew Challis",
     "en": "Unlicensed conversion of Atari's 1980 arcade machine: enemy missiles rain down on six cities, and the player intercepts them with defensive missiles from three bases, whose explosions at the target point destroy the attackers. In addition there are aircraft and satellites as bonus targets. The attacks get faster with each wave.\n\nReleased in 1983 on cassette by Interceptor; there is also a OneLoad64 cartridge conversion. It is controlled with the joystick.\n\nCode: Andrew Challis"
+  },
+  "images": {
+    "sstitle": "images/53/533727d8e1e47dc9338b389feb0e6fd1ca0613bf.png"
   }
 }

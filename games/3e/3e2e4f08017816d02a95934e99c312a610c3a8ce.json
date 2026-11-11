@@ -20,5 +20,8 @@
   "texts": {
     "de": "Im Rennsportwagen fährt man das 24-Stunden-Rennen von Le Mans in verkürzter Form. Die Strecke ist in Abschnitte mit Kontrollpunkten unterteilt, an denen sich die Restzeit verlängert, und im Lauf des Rennens wechselt die Tageszeit von Tag über Nacht wieder zum Morgen. Wer in Kurven zu schnell ist oder andere Wagen berührt, überschlägt sich. Vorlage ist der Konami-Automat von 1986.\n\nImagine, ein Label von Ocean, veröffentlichte die C64-Umsetzung auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Richard Palmer · Grafik: John Palmer · Musik: Jonathan Dunn",
     "en": "In a sports racing car the player drives the 24 Hours of Le Mans in shortened form. The track is divided into sections with checkpoints at which the remaining time is extended, and over the course of the race the time of day changes from day through night back to morning. Taking corners too fast or touching other cars makes the car flip over. The model is Konami's 1986 arcade game.\n\nImagine, a label of Ocean, released the C64 conversion on tape and disk. Controlled with the joystick in port 2.\n\nCode: Richard Palmer · Graphics: John Palmer · Music: Jonathan Dunn"
+  },
+  "images": {
+    "ss": "images/55/5545c08f01df8fb482029e43c0c676ce73cdddb0.png"
   }
 }

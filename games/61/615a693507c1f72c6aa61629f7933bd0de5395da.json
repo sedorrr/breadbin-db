@@ -21,5 +21,8 @@
   "texts": {
     "de": "Im dritten Teil der Reihe kämpft der Ninja Armakuni erneut gegen den Shogun Kunitoki, diesmal in fünf Reichen, die den Elementen zugeordnet sind. Wie in den Vorgängern bewegt er sich durch isometrisch dargestellte Bildschirme, löst Rätsel mit gefundenen Gegenständen und kämpft mit Schwert, Stab und anderen Waffen. Die Reihe gehört zu den bekanntesten System-3-Spielen auf dem C64.\n\nSystem 3 veröffentlichte das Spiel auf Kassette und Diskette. Die Szene hat es als EasyFlash-Modul umgesetzt. Gesteuert wird mit dem Joystick in Port 2, Waffen und Gegenstände werden über Tastatur bzw. Feuerknopf gewählt.\n\nCode: Stanley Schembri · Grafik: Robin Levy, Arthur van Jole · Musik: Reyn Ouwehand",
     "en": "In the third instalment of the series, the ninja Armakuni once again fights the shogun Kunitoki, this time in five realms associated with the elements. As in the predecessors, he moves through isometrically displayed screens, solves puzzles with items he finds and fights with sword, staff and other weapons. The series is among the best-known System 3 games on the C64.\n\nSystem 3 published the game on tape and disk. The scene has converted it into an EasyFlash cartridge. Controlled with the joystick in port 2; weapons and items are selected via the keyboard or fire button.\n\nCode: Stanley Schembri · Graphics: Robin Levy, Arthur van Jole · Music: Reyn Ouwehand"
+  },
+  "images": {
+    "ss": "images/9b/9bf27c2f38cc7707c7ba837da43daa4442e5e98f.png"
   }
 }

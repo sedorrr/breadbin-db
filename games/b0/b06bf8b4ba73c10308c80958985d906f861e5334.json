@@ -22,5 +22,8 @@
   "texts": {
     "de": "Umsetzung des Midway-Automaten von 1980: In Labyrinthen jagen Krieger, die „Worriors“, unsichtbar werdende Monster und schießen sie ab. Zwei Spieler kämpfen gleichzeitig, auch gegeneinander, was viel zum Reiz beiträgt. Nach einigen Runden erscheinen Worluk und schließlich der Zauberer Wor selbst.\n\nErschien als Modul von Commodore, auch als Ultimax-Fassung für den Max Machine; die Modulfassung unterstützt das Sprachmodul Magic Voice. Steuerung per Joystick.\n\nCode: Jeff Bruette",
     "en": "Conversion of the 1980 Midway arcade game: in mazes, warriors, the “Worriors”, hunt monsters that turn invisible and shoot them down. Two players fight simultaneously, also against each other, which adds a great deal to the appeal. After a few rounds Worluk appears, and finally the Wizard of Wor himself.\n\nReleased as a cartridge by Commodore, also as an Ultimax version for the Max Machine; the cartridge version supports the Magic Voice speech module. Controlled by joystick.\n\nCode: Jeff Bruette"
+  },
+  "images": {
+    "ss": "images/1c/1c81cb8ba169c352b582cc37f8ed012af107b490.png"
   }
 }

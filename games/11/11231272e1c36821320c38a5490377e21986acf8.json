@@ -21,5 +21,9 @@
   "texts": {
     "de": "Umsetzung des Taito-Automaten von 1989: Auf einem Spielfeld liegen Steine mit Symbolen, die der Spieler nach links oder rechts schiebt. Fallen sie dabei herunter und berühren sich zwei oder mehr gleiche Steine, lösen sie sich auf. Ziel ist, in jedem Level alle Steine innerhalb der Zeit zu beseitigen, ohne dass ein einzelner Stein übrig bleibt. Das einfache Prinzip mit vorgegebenen Aufgaben statt Zufall verlangt vorausschauendes Denken und machte Puzznic zu einem der beliebtesten Denkspiele seiner Zeit.\n\nGesteuert wird per Joystick; zwei Spieler wechseln sich ab. Neben den Originalen auf Diskette und Kassette gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Martin Howarth · Musik: Geoff Follin",
     "en": "Conversion of Taito's 1989 arcade game: blocks with symbols lie on a playing field and are pushed left or right by the player. If they fall and two or more identical blocks touch, they disappear. The aim on each level is to clear all blocks within the time limit without leaving a single block behind. The simple concept, with set puzzles rather than randomness, demands forward thinking and made Puzznic one of the most popular puzzle games of its time.\n\nControlled with a joystick; two players take turns. Besides the originals on disk and cassette there is a OneLoad64 conversion as an EasyFlash cartridge that needs no further loading.\n\nCode: Martin Howarth · Music: Geoff Follin"
+  },
+  "images": {
+    "ss": "images/c0/c093697c5f0cef4b6980ba7c0ffefc004137551c.png",
+    "sstitle": "images/de/de0f32f9d1425703ad37d74313a0bb4c9b6be274.png"
   }
 }

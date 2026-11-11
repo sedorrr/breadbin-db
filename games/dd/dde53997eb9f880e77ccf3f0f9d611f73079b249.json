@@ -21,5 +21,9 @@
   "texts": {
     "de": "In kleinen Buggys fährt man Rennen auf Achterbahn-ähnlichen Strecken mit steilen Kuppen, Sprüngen und Steilkurven. Jede Strecke umfasst mehrere Runden, und nur wer unter den Ersten ins Ziel kommt, darf weiterfahren. Es gibt mehrere Rennserien mit je eigenen Strecken. Segas Automat von 1988 beeindruckte durch seine schnell skalierten Grafiken.\n\nActivision brachte die C64-Fassung auf Kassette und Diskette heraus. Chris Butler setzte das Spiel nahezu allein um. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chris Butler · Grafik: Chris Butler · Musik: Dave Lowe",
     "en": "In small buggies, the player races on rollercoaster-like tracks with steep crests, jumps and banked curves. Each track comprises several laps, and only those who finish among the leaders may continue. There are several race series, each with its own tracks. Sega's 1988 arcade machine impressed with its fast-scaling graphics.\n\nActivision released the C64 version on cassette and disk. Chris Butler converted the game almost single-handedly. It is controlled with the joystick in port 2.\n\nCode: Chris Butler · Graphics: Chris Butler · Music: Dave Lowe"
+  },
+  "images": {
+    "ss": "images/fc/fccea5baa4c3c0eef621ebb085de671001dff955.png",
+    "sstitle": "images/0b/0bd3768d2485c75e2abe1890d2b7a0d2f836f7de.png"
   }
 }

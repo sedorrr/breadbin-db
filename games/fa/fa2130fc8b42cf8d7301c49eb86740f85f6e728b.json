@@ -21,5 +21,8 @@
   "texts": {
     "de": "Eine der ersten Flugsimulationen von MicroProse: Der Spieler fliegt eine einmotorige Sportmaschine über verschiedene Landschaften der USA, startet, navigiert per Funkfeuer und landet. Neben freiem Fliegen gibt es einen Postflug-Modus, in dem Säcke unter Zeitdruck zu anderen Flughäfen gebracht werden, auch bei schlechtem Wetter oder mit Instrumentenausfall. Die Außensicht von hinten auf das Flugzeug machte die Steuerung zugänglicher als bei vielen Konkurrenten.\n\nErschien auf Diskette und Kassette, später auch als überarbeitete Fassung. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nDesign: Sid Meier · Code und Grafik: Grant Irani",
     "en": "One of MicroProse's first flight simulations: the player flies a single-engine light aircraft over various US landscapes, takes off, navigates by radio beacon and lands. Besides free flight there is a mail-run mode in which sacks have to be delivered to other airports under time pressure, also in bad weather or with instrument failures. The external view of the aircraft from behind made the controls more accessible than in many competitors.\n\nReleased on disk and tape, later also as a revised version. Controlled by joystick and keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge, which needs no further loading.\n\nDesign: Sid Meier · Code and graphics: Grant Irani"
+  },
+  "images": {
+    "sstitle": "images/cd/cd60da7c5d4a62700a5c2bd8e15095dd96db1edb.png"
   }
 }

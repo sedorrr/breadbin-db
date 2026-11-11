@@ -21,5 +21,8 @@
   "texts": {
     "de": "Zehnkampf mit allen zehn olympischen Disziplinen von 100-Meter-Lauf über Weitsprung, Kugelstoßen und Hochsprung bis zum 1500-Meter-Lauf. Tempo entsteht durch schnelles Hin- und Herrütteln des Joysticks, der Feuerknopf löst Sprung oder Wurf aus. Bis zu vier Spieler treten nacheinander an. Das Spiel gehört mit Track & Field zu den Vorbildern der späteren Sportspiel-Welle.\n\nErschien auf Modul, Diskette und Kassette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Die C64-Fassung ist eine Umsetzung des Atari-2600-Spiels von 1983.\n\nEntwurf: David Crane · Musik (C64): Russell Lieblich",
     "en": "Decathlon with all ten Olympic events, from the 100 metres via long jump, shot put and high jump to the 1500 metres. Speed comes from waggling the joystick quickly back and forth; the fire button triggers the jump or throw. Up to four players compete in turn. Together with Track & Field, the game is one of the models for the later wave of sports games.\n\nReleased on cartridge, disk and cassette; there is also a OneLoad64 cartridge conversion (joystick in port 1). The C64 version is a conversion of the 1983 Atari 2600 game.\n\nDesign: David Crane · Music (C64): Russell Lieblich"
+  },
+  "images": {
+    "ss": "images/da/da0d7894fda7018318a8134b6324e5ad8927785f.png"
   }
 }

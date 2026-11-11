@@ -21,5 +21,8 @@
   "texts": {
     "de": "Auf einem Rennmotorrad fährt man Etappenrennen auf vier Kontinenten mit unterschiedlich vielen Abschnitten, jeweils gegen die Uhr. In Kurven muss man sich in die Schräglage legen und dabei anderen Fahrern und Hindernissen am Rand ausweichen. Ab einer bestimmten Geschwindigkeit lässt sich ein Turbo zuschalten. Segas Automat von 1987 ist der Nachfolger von Hang-On.\n\nElectric Dreams veröffentlichte die C64-Umsetzung von Software Studios auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2. Die Szene setzte das Spiel auch als EasyFlash-Modul um.\n\nCode: Paul Freeman, Darrell Etherington · Musik: Steve Barrett",
     "en": "On a racing motorbike you ride stage races on four continents with differing numbers of sections, each against the clock. In bends you have to lean into the curve while avoiding other riders and obstacles at the roadside. Above a certain speed, a turbo can be engaged. Sega's 1987 arcade machine is the successor to Hang-On.\n\nElectric Dreams published Software Studios' C64 conversion on cassette and disk. Controlled with a joystick in port 2. The scene also converted the game to an EasyFlash cartridge.\n\nCode: Paul Freeman, Darrell Etherington · Music: Steve Barrett"
+  },
+  "images": {
+    "sstitle": "images/a1/a15bf0cd36589ad4fa080b9f42834210f5c4757c.png"
   }
 }

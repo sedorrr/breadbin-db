@@ -22,5 +22,9 @@
   "texts": {
     "de": "Fortsetzung von Driller mit der Freescape-Technik: Auf dem Mond Tricuspid haben Gegner eine Strahlenwaffe errichtet, die den Planeten Evath bedroht. Der Spieler muss mit Raketenrucksack die Energiesammler zerstören, die die Waffe speisen, bevor sie feuert – dabei sind die Sammler untereinander vernetzt und laden sich gegenseitig wieder auf. Die Welt ist größer als im Vorgänger und wird unter Zeitdruck erkundet.\n\nErschien auf Diskette und Kassette, in den USA bei Spotlight Software. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Sean Ellis · Musik: Wally Beben",
     "en": "Sequel to Driller using the Freescape technology: on the moon Tricuspid, enemies have built a beam weapon that threatens the planet Evath. With a jetpack, the player has to destroy the energy collectors that power the weapon before it fires – the collectors are networked and recharge one another. The world is larger than in the predecessor and is explored under time pressure.\n\nReleased on disk and tape, in the USA by Spotlight Software. Controlled by joystick and keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge, which needs no further loading.\n\nCode: Sean Ellis · Music: Wally Beben"
+  },
+  "images": {
+    "ss": "images/f1/f1a84c52c2ef4f87ccfcff21d38762de0747f717.png",
+    "sstitle": "images/d7/d757d23bc1f4f9c5c75a1415c20d95a82c03041a.png"
   }
 }

@@ -21,5 +21,9 @@
   "texts": {
     "de": "Der Spieler steuert ein Raumschiff, das er zwischen den Einsätzen aus einzelnen Bauteilen wie Antrieb, Waffen und Schutzsystemen selbst zusammenstellt. Im Flug durchquert er abstrakte Ebenen voller Gegnerschwärme und verdient dabei die Mittel für weitere Ausbauten. Ziel ist es, sich bis zum Wesen Morpheus vorzuarbeiten. Das Spiel ist ungewöhnlich aufgebaut und forderte viel Einarbeitung; seine Entstehung wurde in der Zeitschrift Zzap!64 als Entwicklertagebuch begleitet.\n\nEin reines C64-Spiel, erschienen bei Rainbird auf Diskette und Kassette; ursprünglich war Hewson als Verlag vorgesehen. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Andrew Braybrook · Musik: Steve Turner",
     "en": "The player controls a spaceship which, between missions, they assemble themselves from individual components such as propulsion, weapons and protective systems. In flight they cross abstract levels full of enemy swarms, earning the means for further upgrades. The aim is to work their way through to the being Morpheus. The game is unusually structured and required a lot of familiarisation; its development was followed in Zzap!64 magazine as a developer's diary.\n\nA C64-exclusive game, released by Rainbird on disk and cassette; Hewson was originally intended as the publisher. It is controlled by joystick. In addition to the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without multi-loading.\n\nCode: Andrew Braybrook · Music: Steve Turner"
+  },
+  "images": {
+    "ss": "images/50/50c2e665a9a9d365b25c8e37ca3c0290dec51776.png",
+    "sstitle": "images/a4/a47b271a336930a64ea50c2934aafa4e93a70e15.png"
   }
 }

@@ -21,5 +21,9 @@
   "texts": {
     "de": "Koch Peter Pepper läuft über Leitern und Plattformen und tritt die Zutaten riesiger Hamburger an, bis sie Stockwerk für Stockwerk auf die Teller unten fallen. Würstchen, Gurken und Spiegeleier verfolgen ihn; wer sie mit fallenden Zutaten trifft oder darunter einklemmt, bekommt Extrapunkte. Eine begrenzte Zahl Pfefferstreuer betäubt die Verfolger kurz. Das Spielprinzip stammt aus Data Easts Automaten von 1982.\n\nDie C64-Fassung von Interceptor Micros ist eine nicht lizenzierte Nachbildung des Automaten, die auf Kassette und Diskette erschien und später unter anderen Labels (u. a. Rushware) neu aufgelegt wurde. Gesteuert wird mit dem Joystick in Port 2 oder mit der Tastatur.\n\nCode: Lee Braine · Grafik: Lee Braine · Musik: Chris Cox",
     "en": "Chef Peter Pepper runs over ladders and platforms and steps on the ingredients of giant hamburgers until they fall floor by floor onto the plates below. Sausages, pickles and fried eggs chase him; hitting them with falling ingredients or trapping them underneath earns extra points. A limited number of pepper shakers briefly stuns the pursuers. The gameplay principle comes from Data East's 1982 arcade machine.\n\nThe C64 version by Interceptor Micros is an unlicensed recreation of the arcade machine, released on cassette and disk and later reissued under other labels (including Rushware). Controlled with a joystick in port 2 or with the keyboard.\n\nCode: Lee Braine · Graphics: Lee Braine · Music: Chris Cox"
+  },
+  "images": {
+    "ss": "images/ab/ab32f6a483fb1f7d909f6a52c5a36221ebc4e47e.png",
+    "sstitle": "images/e5/e52ae4f23059dd982dc07c62cd48a4a695962f17.png"
   }
 }

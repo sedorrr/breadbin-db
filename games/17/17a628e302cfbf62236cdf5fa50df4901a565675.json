@@ -21,5 +21,9 @@
   "texts": {
     "de": "Aus sieben verschiedenen Formen aus je vier Quadraten, die von oben herabfallen, müssen lückenlose waagerechte Reihen gebildet werden; volle Reihen verschwinden. Die Teile lassen sich drehen und seitlich verschieben, mit jeder Stufe fallen sie schneller. Das Spiel endet, wenn der Stapel den oberen Rand erreicht. Alexei Paschitnows Erfindung von 1984 gilt als eines der einflussreichsten Computerspiele überhaupt.\n\nMirrorsoft veröffentlichte die C64-Fassung in Europa auf Kassette und Diskette, in den USA erschien sie bei Spectrum HoloByte. Bekannt ist sie vor allem für die lange Titelmusik von Wally Beben. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Phillip Brabbin · Musik: Wally Beben",
     "en": "From seven different shapes of four squares each, which fall from above, gapless horizontal rows have to be formed; full rows disappear. The pieces can be rotated and moved sideways, and with each level they fall faster. The game ends when the stack reaches the top. Alexey Pajitnov's 1984 invention is regarded as one of the most influential computer games of all time.\n\nMirrorsoft released the C64 version in Europe on tape and disk; in the USA it was published by Spectrum HoloByte. It is known above all for Wally Beben's long title music. Controlled with the joystick in port 2.\n\nCode: Phillip Brabbin · Music: Wally Beben"
+  },
+  "images": {
+    "ss": "images/89/897de3faf9ca9b47d14c653edae0aafc5687e59a.png",
+    "sstitle": "images/68/689f73b554eb38e5f22f4895cb117f85627de385.png"
   }
 }

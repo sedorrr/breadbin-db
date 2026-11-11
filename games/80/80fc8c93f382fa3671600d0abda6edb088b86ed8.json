@@ -21,5 +21,9 @@
   "texts": {
     "de": "Ein waagerecht scrollender Shooter, in dem der Spieler mit einem Raumschiff gegen Gegnerwellen und stark bewaffnete Endgegner antritt. Das Schiff lässt sich durch Extras aufrüsten, darunter Satelliten, die zusätzliche Schüsse abgeben. Bekannt ist IO vor allem für seine detaillierte, organisch wirkende Grafik, die zu den schönsten auf dem C64 gezählt wird, sowie für den hohen Schwierigkeitsgrad.\n\nErschien auf Diskette und Kassette, später auch als Beilage einer Zeitschrift. Gesteuert wird per Joystick; zwei Spieler wechseln sich ab. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Douglas Hare · Grafik: Bob Stevenson · Musik: David Whittaker",
     "en": "A horizontally scrolling shooter in which the player takes on waves of enemies and heavily armed bosses in a spaceship. The ship can be upgraded with power-ups, including satellites that fire additional shots. IO is known above all for its detailed, organic-looking graphics, which are counted among the most beautiful on the C64, and for its high difficulty level.\n\nReleased on disk and cassette, later also as a magazine covermount. It is controlled by joystick; two players take turns. There is also a OneLoad64 conversion as an EasyFlash cartridge that needs no multi-loading.\n\nCode: Douglas Hare · Graphics: Bob Stevenson · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/05/05b4b07a00a6fb8141ddd176fd178008b005dd53.png",
+    "sstitle": "images/f5/f527b117745e07fe56e8ae2e2e9d8dad6c52bda3.png"
   }
 }

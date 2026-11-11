@@ -22,5 +22,9 @@
   "texts": {
     "de": "Dritter Teil der Boulder-Dash-Reihe mit dem bewährten Prinzip: Rockford gräbt sich durch Höhlen, sammelt die geforderte Anzahl Diamanten und muss dabei herabfallenden Felsbrocken, Glühwürmchen und Schmetterlingen ausweichen. Die Höhlen haben nun ein Weltraumthema mit neuer Grafik. Zwei Spieler spielen abwechselnd.\n\nErschien auf Kassette und Diskette, in Europa auch über Prism Leisure; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Der Teil stammt nicht von Peter Liepa, sondern wurde in Lizenz von einem schwedischen Team entwickelt; Fehler machten einige Höhlen unlösbar.\n\nEntwicklung: American Action (Schweden), in Lizenz von First Star Software",
     "en": "Third part of the Boulder Dash series with the tried-and-tested concept: Rockford digs his way through caves, collects the required number of diamonds and has to avoid falling boulders, fireflies and butterflies. The caves now have a space theme with new graphics. Two players take turns.\n\nReleased on cassette and disk, in Europe also via Prism Leisure; there is also a OneLoad64 cartridge conversion (joystick in port 1). This instalment is not by Peter Liepa, but was developed under licence by a Swedish team; bugs made some caves impossible to complete.\n\nDevelopment: American Action (Sweden), under licence from First Star Software"
+  },
+  "images": {
+    "ss": "images/15/15c3a3c7e5e9ac79dba6173bacfd0984fb9f81dd.png",
+    "sstitle": "images/0a/0a4deeb9dd77b203e54b9c770dbde75ece21ac91.png"
   }
 }

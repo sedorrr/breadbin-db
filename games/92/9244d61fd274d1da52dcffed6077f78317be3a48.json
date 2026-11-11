@@ -21,5 +21,9 @@
   "texts": {
     "de": "Ein Baukasten für eigene Flippertische: Mit einem Zeiger werden Flipperarme, Bumper, Rampen, Ziele und Wände auf dem Tisch platziert, Formen gezeichnet und Punktwerte festgelegt. Auch Schwerkraft, Elastizität und Tempo lassen sich einstellen. Fertige Tische können sofort gespielt und als eigenständige Programme gespeichert werden. Das Programm gilt als Vorbild für viele spätere Editoren und Baukastenspiele.\n\nErschien auf Diskette. Gesteuert wird per Joystick, im Editor über einen Zeiger.\n\nDesign: Bill Budge · C64-Umsetzung: Olaf Lubeck",
     "en": "A construction kit for custom pinball tables: with a pointer, flippers, bumpers, ramps, targets and walls are placed on the table, shapes are drawn and point values set. Gravity, elasticity and speed can also be adjusted. Finished tables can be played immediately and saved as stand-alone programs. The program is regarded as the model for many later editors and construction-kit games.\n\nReleased on disk. Controlled by joystick, in the editor via a pointer.\n\nDesign: Bill Budge · C64 conversion: Olaf Lubeck"
+  },
+  "images": {
+    "ss": "images/8d/8d0eac491275076cd5fffbf234de25e6628d0d86.png",
+    "sstitle": "images/72/729ccb0128a11208f5b0e928a6413a08102765ec.png"
   }
 }

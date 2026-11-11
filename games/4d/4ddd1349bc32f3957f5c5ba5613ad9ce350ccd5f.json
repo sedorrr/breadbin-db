@@ -22,5 +22,8 @@
   "texts": {
     "de": "Boulder-Dash-ähnliches Spiel aus Deutschland: In Bergwerkshöhlen müssen Smaragde gesammelt werden, ohne von herabstürzenden Felsen getroffen oder von Gegnern erwischt zu werden. Hinzu kommen Bomben, Nüsse, Türen mit Schlüsseln und Säure. Zwei Spieler können gleichzeitig spielen, einige Höhlen sind nur zu zweit lösbar. Das Spiel erschien zuerst 1987 für den Amiga und war einer der größten Erfolge von Kingsoft.\n\nDie C64-Fassung erschien 1988 auf Diskette und Kassette; dazu gibt es eine OneLoad64-Modulumsetzung. Steuerung per Joystick in Port 2.\n\nCode und Grafik (C64): Jörg Dierks · Musik: Oliver Klöwer",
     "en": "Boulder Dash-like game from Germany: emeralds have to be collected in mine caverns without being hit by falling rocks or caught by enemies. In addition there are bombs, nuts, doors with keys and acid. Two players can play simultaneously, and some caverns can only be solved by two players. The game was first released in 1987 for the Amiga and was one of Kingsoft's biggest successes.\n\nThe C64 version was released in 1988 on disk and cassette; there is also a OneLoad64 cartridge conversion. Controlled by joystick in port 2.\n\nCode and graphics (C64): Jörg Dierks · Music: Oliver Klöwer"
+  },
+  "images": {
+    "sstitle": "images/cc/cc941c5482cab43418c70d6cc107652876587d8a.png"
   }
 }

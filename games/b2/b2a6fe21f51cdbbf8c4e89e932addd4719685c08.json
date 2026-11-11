@@ -21,5 +21,8 @@
   "texts": {
     "de": "Hen-House Harry sammelt in einem Hühnerstall aus Plattformen, Leitern und Aufzügen alle Eier ein, während Hennen auf und ab laufen. Berührt er eine Henne, verliert er ein Leben; Körner geben Zusatzpunkte und halten die Zeit an. Nach den ersten Durchgängen wird eine große Ente frei, die Harry durch den Stall verfolgt. Das schlichte, aber präzise Spielprinzip machte Chuckie Egg in Großbritannien zu einem Dauerbrenner.\n\nUrsprünglich für ZX Spectrum, BBC Micro und Dragon erschienen; die C64-Fassung folgte bei A&F auf Kassette. Bis zu vier Spieler spielen abwechselnd. Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Nigel Alderton · Code (C64): Sean Townsend",
     "en": "Hen-House Harry collects all the eggs in a henhouse made of platforms, ladders and lifts while hens walk back and forth. Touching a hen costs him a life; grain gives bonus points and stops the clock. After the first rounds a large duck is released and chases Harry around the henhouse. The simple but precise gameplay made Chuckie Egg a perennial favourite in Britain.\n\nOriginally released for the ZX Spectrum, BBC Micro and Dragon; the C64 version followed from A&F on cassette. Up to four players take turns. Controlled with a joystick or the keyboard. Besides the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nDesign: Nigel Alderton · Code (C64): Sean Townsend"
+  },
+  "images": {
+    "sstitle": "images/a4/a46445ec2d005626c11a6c55dbadfcdc25e2eaa5.png"
   }
 }

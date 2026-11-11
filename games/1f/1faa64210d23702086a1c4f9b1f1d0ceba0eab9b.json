@@ -21,5 +21,8 @@
   "texts": {
     "de": "Erweiterte Fassung von Uridium: Der Manta-Jäger fliegt im horizontalen Scrolling über riesige feindliche Raumschiffe, die Dreadnoughts, und schießt Geschütze und Abwehrjäger ab. Ist ein Schiff geschwächt, landet der Manta auf dessen Landebahn und schaltet es in einer Bonusrunde ab. Durch Abbremsen, Wenden und Kippen auf die Seite lassen sich Hindernisse umfliegen. Uridium gilt mit seinem schnellen, flüssigen Scrolling als technischer Meilenstein des C64.\n\nGegenüber dem Original bietet Uridium+ neue Schiffe; in den USA vertrieb Mindscape eine Fassung als „Heavy Metal Uridium“. Erschien auf Kassette und Diskette, dazu gibt es eine OneLoad64-Modulumsetzung. Steuerung per Joystick in Port 2, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Andrew Braybrook · Musik: Steve Turner",
     "en": "Extended version of Uridium: the Manta fighter flies in horizontal scrolling over huge enemy spaceships, the dreadnoughts, and shoots down gun emplacements and defence fighters. Once a ship has been weakened, the Manta lands on its runway and shuts it down in a bonus round. By braking, turning and tilting onto its side, obstacles can be avoided. With its fast, smooth scrolling, Uridium is regarded as a technical milestone of the C64.\n\nCompared with the original, Uridium+ offers new ships; in the USA Mindscape distributed a version as “Heavy Metal Uridium”. Released on tape and disk; there is also a OneLoad64 cartridge conversion. Controlled by joystick in port 2; two players take turns.\n\nCode and graphics: Andrew Braybrook · Music: Steve Turner"
+  },
+  "images": {
+    "sstitle": "images/2d/2da1108ebbe3369e5a381d456aac3214b3e23da2.png"
   }
 }

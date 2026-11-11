@@ -21,5 +21,8 @@
   "texts": {
     "de": "Das Raumschiff des Spielers kreist am Rand des Bildschirms um die Mitte, aus der die Gegner in Formationen hervorkommen, ähnlich wie bei Tempest. Auf dem Weg vom Neptun zur Erde werden Planet für Planet Gegnerwellen abgewehrt; zwischendurch gibt es Bonusrunden. Satelliten können eine stärkere Doppelkanone freigeben. Das Konami-Automatenspiel von 1983 verband die Ideen von Galaga mit einer neuen, räumlich wirkenden Perspektive.\n\nDie offizielle C64-Umsetzung erschien bei Parker Brothers als Steckmodul. Gesteuert wird per Joystick.\n\nOriginal: Konami (Automat, 1983)",
     "en": "The player's spaceship circles the centre of the screen along its edge, while enemies emerge from the centre in formations, similar to Tempest. On the way from Neptune to Earth, waves of enemies are fought off planet by planet, with bonus rounds in between. Satellites can unlock a more powerful double cannon. The 1983 Konami arcade game combined the ideas of Galaga with a new perspective that gives an impression of depth.\n\nThe official C64 conversion was released by Parker Brothers as a plug-in cartridge. Controlled with a joystick.\n\nOriginal: Konami (arcade, 1983)"
+  },
+  "images": {
+    "sstitle": "images/d7/d7fbb0e568ae1ba9bba1fd6d469e2539ef237325.png"
   }
 }

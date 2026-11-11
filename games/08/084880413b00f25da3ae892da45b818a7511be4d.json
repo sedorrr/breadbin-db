@@ -22,5 +22,8 @@
   "texts": {
     "de": "Der Spieler soll in 15 Zonen eines Forschungskomplexes gefährliche Mutantenkulturen vernichten. Jede Zone hat eigene Gegner mit eigenem Verhalten, die erst durchschaut werden müssen. Aus den Zonen werden zudem Teile einer Selbstzerstörungsanlage gesammelt. Die Mischung aus Ballerspiel und Planung sowie die abstrakte Grafik hoben es von üblichen Shoot-'em-Ups ab.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nMusik: Fred Gray",
     "en": "The player is to destroy dangerous mutant cultures in 15 zones of a research complex. Each zone has its own enemies with their own behaviour, which first have to be figured out. Parts of a self-destruct mechanism are also collected from the zones. The mix of shoot'em up and planning and the abstract graphics set it apart from ordinary shoot'em ups.\n\nReleased on tape and disk; there is also a OneLoad64 cartridge conversion. Controlled with the joystick.\n\nMusic: Fred Gray"
+  },
+  "images": {
+    "sstitle": "images/4d/4dc25dcd71683980e2c60f5ac819a31fa2206614.png"
   }
 }

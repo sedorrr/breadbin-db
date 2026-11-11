@@ -21,5 +21,9 @@
   "texts": {
     "de": "Bergmann Willy muss sich durch eine Reihe von Höhlen arbeiten und in jeder alle blinkenden Gegenstände einsammeln, bevor die Atemluft ausgeht. Erst dann öffnet sich der Ausgang zur nächsten Höhle. Wandernde Gegner, zerbröselnde Böden, Förderbänder und tödliche Pflanzen verlangen genaue Sprünge. Manic Miner war eines der einflussreichsten britischen Plattformspiele und machte Matthew Smith bekannt.\n\nUrsprünglich für den ZX Spectrum; die C64-Umsetzung erschien Ende 1983 bei Software Projects auf Kassette und Diskette und war Anfang 1984 sehr erfolgreich. Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Matthew Smith",
     "en": "Miner Willy has to work his way through a series of caverns and collect all the flashing items in each one before the air runs out. Only then does the exit to the next cavern open. Wandering enemies, crumbling floors, conveyor belts and deadly plants demand precise jumps. Manic Miner was one of the most influential British platform games and made Matthew Smith famous.\n\nOriginally for the ZX Spectrum; the C64 conversion was released at the end of 1983 by Software Projects on tape and disk and was very successful in early 1984. Controlled by joystick or keyboard. Alongside the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nDesign: Matthew Smith"
+  },
+  "images": {
+    "ss": "images/1b/1b2cdf0b264d39444e9a659e2e5de8f8ae0a0823.png",
+    "sstitle": "images/2b/2b9ae9af65a2d35faca0cacc05ba24934fd233d5.png"
   }
 }

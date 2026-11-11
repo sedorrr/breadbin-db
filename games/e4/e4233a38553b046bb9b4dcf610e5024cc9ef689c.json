@@ -21,5 +21,9 @@
   "texts": {
     "de": "Nach einer wilden Feier in seiner Villa muss Miner Willy alle herumliegenden Gegenstände einsammeln, bevor ihn seine Haushälterin ins Bett lässt. Anders als im Vorgänger Manic Miner gibt es keine Abfolge von Höhlen, sondern ein großes, frei begehbares Haus mit Dachboden, Kellern, Garten und Strand. Jeder Raum hat eigene Gegner und Sprungpassagen. Die offene Spielwelt war 1984 bahnbrechend für Plattformspiele.\n\nUrsprünglich für den ZX Spectrum; die C64-Umsetzung erschien bei Software Projects auf Kassette und Diskette. In ihr sind nicht alle Gegenstände im Weinkeller erreichbar. Gesteuert wird per Joystick oder Tastatur. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf: Matthew Smith · Code (C64): Shahid Kamal Ahmad",
     "en": "After a wild party in his mansion, Miner Willy has to collect all the items lying around before his housekeeper lets him go to bed. Unlike in the predecessor Manic Miner, there is no sequence of caverns, but a large, freely explorable house with attic, cellars, garden and beach. Each room has its own enemies and jumping sections. The open game world was groundbreaking for platform games in 1984.\n\nOriginally for the ZX Spectrum; the C64 conversion was released by Software Projects on tape and disk. In it, not all items in the wine cellar can be reached. Controlled via joystick or keyboard. Besides the originals, there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without additional loading.\n\nDesign: Matthew Smith · Code (C64): Shahid Kamal Ahmad"
+  },
+  "images": {
+    "ss": "images/64/6447caa8e3e1e440fc84bd881e022264a7a8af87.png",
+    "sstitle": "images/71/71699de7c5f927ab678c1139f997e92d71dd87ec.png"
   }
 }

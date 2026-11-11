@@ -21,5 +21,9 @@
   "texts": {
     "de": "Ein senkrecht scrollender Weltraum-Shooter: Der Spieler fliegt mit seinem Jäger über riesige Raumstationen, zerstört Bodenziele und Gegnerformationen und muss dabei auf seine Energie achten. Die Stationen sind dicht mit Geschütztürmen bestückt, der Schwierigkeitsgrad ist hoch. Das Spiel erschien zum Budgetpreis und wurde vor allem durch die Titelmusik von Rob Hubbard bekannt.\n\nErschien auf Kassette und Diskette. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Michael Ware, Andrew Betts · Grafik: Ian Gogay, Michael Ware, Stephen Robertson · Musik: Rob Hubbard",
     "en": "A vertically scrolling space shooter: the player flies a fighter over huge space stations, destroys ground targets and enemy formations and has to keep an eye on his energy. The stations are densely packed with gun turrets, and the difficulty is high. The game was released at a budget price and became known above all for Rob Hubbard's title music.\n\nReleased on cassette and disk. Controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge that requires no loading.\n\nCode: Michael Ware, Andrew Betts · Graphics: Ian Gogay, Michael Ware, Stephen Robertson · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/8c/8cc22e27556954fb44604b3f66c5048092dd1db6.png",
+    "sstitle": "images/46/4663feacaf120339e6dc82443fdd06cb50ee3301.png"
   }
 }

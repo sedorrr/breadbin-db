@@ -21,5 +21,9 @@
   "texts": {
     "de": "Weltraum-Ballerspiel, in dem farbige, wirbelnde Kometen auf das Raumschiff des Spielers zukommen und abgeschossen werden müssen. Nach mehreren Wellen erscheinen größere Gegner. Das schnelle Spielprinzip ist einfach gehalten; bekannt wurde das Spiel vor allem durch die Titelmusik von Rob Hubbard, die zu seinen beliebtesten Stücken zählt.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nCode und Grafik: Simon Nicol · Musik: Rob Hubbard",
     "en": "Space shoot 'em up in which coloured, swirling comets head towards the player's spaceship and must be shot down. After several waves, larger enemies appear. The fast gameplay principle is kept simple; the game became known above all for Rob Hubbard's title music, which is among his most popular pieces.\n\nReleased on cassette and disk; there is also a OneLoad64 cartridge conversion. Controlled with a joystick; two players take turns.\n\nCode and graphics: Simon Nicol · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/55/55814988d9dc5acfe8626a050369c3dcc8c1d86e.png",
+    "sstitle": "images/94/94deebed61b4cb8253c0599ce6827b947d802962.png"
   }
 }

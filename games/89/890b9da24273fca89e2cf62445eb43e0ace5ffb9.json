@@ -21,5 +21,9 @@
   "texts": {
     "de": "Der Druide Hasrinaxx zieht durch acht Ebenen voller Dämonen und Gegner, um den Prinzen der Finsternis zu besiegen. Er setzt Wasser-, Feuer- und Blitzzauber ein, die er in Truhen nachfüllt, und kann einen Golem beschwören, der ihm hilft. Ein zweiter Spieler übernimmt den Golem und spielt gleichzeitig mit. Das Spiel greift das Gauntlet-Prinzip auf und erweitert es um Zauber und Rätsel.\n\nErschien auf Kassette und Diskette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Gesteuert wird mit dem Joystick.\n\nCode: Andrew E. Bailey · Grafik: Dene T. Carter, Bob Stevenson · Musik: David M. Hanlon",
     "en": "The druid Hasrinaxx travels through eight levels full of demons and enemies to defeat the Prince of Darkness. He uses water, fire and lightning spells, which he replenishes from chests, and can summon a golem to help him. A second player takes over the golem and plays simultaneously. The game takes up the Gauntlet principle and extends it with spells and puzzles.\n\nReleased on cassette and disk; there is also a OneLoad64 cartridge conversion (joystick in port 1). Controlled with a joystick.\n\nCode: Andrew E. Bailey · Graphics: Dene T. Carter, Bob Stevenson · Music: David M. Hanlon"
+  },
+  "images": {
+    "ss": "images/0d/0d5d77569175b3772e430455e802e157492b2df8.png",
+    "sstitle": "images/b2/b26869c731ca9bdce97af9bf7404ffd37577a70d.png"
   }
 }

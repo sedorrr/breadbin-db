@@ -22,5 +22,9 @@
   "texts": {
     "de": "Umsetzung des Automaten von Mitchell (1989): Ein oder zwei Spieler reisen um die Welt und zerstören hüpfende Ballons mit einer senkrecht nach oben geschossenen Harpune. Jeder getroffene Ballon zerfällt in zwei kleinere, bis die kleinsten verschwinden; eine Berührung kostet ein Leben. Extras wie Doppelharpune, Enterhaken oder eine Zeitlupe helfen, Leitern und zerstörbare Plattformen bestimmen den Aufbau der Bildschirme. Das schnelle, leicht verständliche Spiel lebt vor allem vom gleichzeitigen Spiel zu zweit.\n\nDie C64-Fassung erschien bei Ocean als Steckmodul (auch für die Konsole C64GS), daneben gibt es Diskettenumsetzungen. Gesteuert wird per Joystick, zu zweit gleichzeitig.\n\nCode: Richard Underhill · Musik: Paul Tonge",
     "en": "Conversion of the arcade machine by Mitchell (1989): one or two players travel around the world and destroy bouncing balloons with a harpoon fired vertically upwards. Each balloon hit splits into two smaller ones until the smallest disappear; touching one costs a life. Power-ups such as a double harpoon, grappling hook or slow motion help, while ladders and destructible platforms determine the layout of the screens. The fast, easy-to-understand game thrives above all on simultaneous two-player play.\n\nThe C64 version was released by Ocean as a cartridge (also for the C64GS console), and there are also disk conversions. It is controlled by joystick, with two players simultaneously.\n\nCode: Richard Underhill · Music: Paul Tonge"
+  },
+  "images": {
+    "ss": "images/ad/ad0438431526ed76e858848cbc08575974aeca8a.png",
+    "sstitle": "images/54/5442e833ab5105d39b1406e6581a7171ed8a9957.png"
   }
 }

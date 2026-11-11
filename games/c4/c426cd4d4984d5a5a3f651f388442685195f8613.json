@@ -21,5 +21,8 @@
   "texts": {
     "de": "Umsetzung des Atari-Automaten von 1981: Ein Tausendfüßler schlängelt sich durch ein Pilzfeld nach unten, bei jedem Treffer zerfällt er in Teile, die eigenständig weiterkriechen. Spinnen, Flöhe und Skorpione erschweren das Spiel, die Pilze dienen als Hindernisse und Deckung. Centipede gehörte zu den erfolgreichsten Automaten der frühen 1980er.\n\nErschien als Modul von Atarisoft. Gesteuert wird mit dem Joystick, zwei Spieler spielen abwechselnd.\n\nEntwurf (Automat): Ed Logg, Dona Bailey",
     "en": "Conversion of the 1981 Atari arcade game: a centipede snakes its way down through a mushroom field; with every hit it breaks into segments that crawl on independently. Spiders, fleas and scorpions make the game harder, and the mushrooms serve as obstacles and cover. Centipede was one of the most successful arcade games of the early 1980s.\n\nReleased as a cartridge by Atarisoft. Controlled with the joystick; two players take turns.\n\nDesign (arcade): Ed Logg, Dona Bailey"
+  },
+  "images": {
+    "ss": "images/73/73aa93395eeca3dc7efe3d307751cfe98a2d0232.png"
   }
 }

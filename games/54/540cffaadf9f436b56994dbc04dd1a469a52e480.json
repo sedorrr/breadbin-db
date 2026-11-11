@@ -21,5 +21,9 @@
   "texts": {
     "de": "Nachfolger von Crazy Comets: Der Spieler steuert ein Raumschiff, das sich um einen Mittelpunkt im Raum bewegt, und schießt auf Kometen, Meteore und ganze Planeten, die aus der Tiefe heranfliegen. Getroffene Brocken zerfallen, Extras verbessern die Bewaffnung, nach jeder Welle steigt das Tempo. Zu zweit wird gleichzeitig gespielt. Bekannt ist das Spiel für seine schnelle, farbenfrohe Grafik und die Musik von Rob Hubbard samt Sprachausgabe.\n\nErschien auf Diskette und Kassette, später auch auf einem Magazin-Datenträger. Gesteuert wird per Joystick, zu zweit mit zwei Joysticks. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Simon Nicol · Titelbild: Bob Stevenson · Musik: Rob Hubbard, Simon Nicol",
     "en": "Successor to Crazy Comets: the player controls a spaceship that moves around a central point in space and shoots at comets, meteors and entire planets flying in from the depths. Hit chunks break apart, extras improve the weaponry, and the speed increases after each wave. Two players play simultaneously. The game is known for its fast, colourful graphics and Rob Hubbard's music including speech output.\n\nReleased on disk and tape, later also on a magazine cover disk. Controlled by joystick, with two joysticks for two players. There is also a OneLoad64 conversion as an EasyFlash cartridge, which needs no further loading.\n\nCode: Simon Nicol · Title screen: Bob Stevenson · Music: Rob Hubbard, Simon Nicol"
+  },
+  "images": {
+    "ss": "images/1f/1f2eef7caf16168cad94f2606c6105e30a952d8d.png",
+    "sstitle": "images/f7/f7e629c4ebbeb30d78a65a8125b65df983e785ec.png"
   }
 }

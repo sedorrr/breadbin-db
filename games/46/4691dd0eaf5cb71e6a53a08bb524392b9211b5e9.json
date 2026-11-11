@@ -22,5 +22,8 @@
   "texts": {
     "de": "Ein brutaler Zukunftssport in einer Metallarena: Zwei Mannschaften versuchen, eine Stahlkugel ins gegnerische Tor zu bringen, und dürfen sich dabei rempeln und umwerfen. Auf dem Feld liegen Münzen, mit denen zwischen den Spielen Spieler verbessert oder Schiedsrichter bestochen werden. Es gibt einen Liga- und einen Pokalmodus. Speedball war der Auftakt einer bekannten Reihe der Bitmap Brothers.\n\nErschien auf Diskette und Kassette. Gesteuert wird per Joystick, zu zweit gleichzeitig. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen auskommt.\n\nCode: Andrew Bowen · Grafik: Sam Mohabull, Mark Coleman · Musik: David Whittaker",
     "en": "A brutal future sport in a metal arena: two teams try to get a steel ball into the opposing goal and are allowed to barge and knock each other over in the process. Coins lie on the pitch, which can be used between matches to improve players or bribe referees. There is a league and a cup mode. Speedball was the start of a well-known series by the Bitmap Brothers.\n\nReleased on disk and cassette. Controlled with a joystick, two players simultaneously. There is also a OneLoad64 conversion as an EasyFlash cartridge that requires no loading.\n\nCode: Andrew Bowen · Graphics: Sam Mohabull, Mark Coleman · Music: David Whittaker"
+  },
+  "images": {
+    "sstitle": "images/bb/bb9de8b8231ca75e3d8adb14c1cb733106a55409.png"
   }
 }

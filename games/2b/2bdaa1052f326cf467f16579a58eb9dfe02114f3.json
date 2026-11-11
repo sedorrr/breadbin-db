@@ -22,5 +22,9 @@
   "texts": {
     "de": "Umsetzung des Automaten von TAD Corporation (1989): Der Krieger Toki wird von einem Zauberer in einen Affen verwandelt, seine Freundin entführt. Als Affe kann er nur noch Feuerbälle spucken, die sich durch Extras zu Mehrfach- oder Flammenschüssen aufrüsten lassen. Der Weg führt durch Dschungel, Unterwasserhöhlen, Eis- und Feuerlandschaften bis zum Palast des Zauberers, jeweils mit Endgegner. Das Spiel verbindet Plattformspringen mit viel Schießen.\n\nDie C64-Fassung erschien bei Ocean als Steckmodul (auch für die Konsole C64GS) und auf Diskette. Gesteuert wird per Joystick.\n\nCode: Alastair Dukes · Grafik: Mike Clayton, Joff Scarcliffe, Bill Harbison · Musik: Keith Tinman",
     "en": "Conversion of the TAD Corporation arcade game (1989): the warrior Toki is turned into an ape by a sorcerer, and his girlfriend is kidnapped. As an ape he can only spit fireballs, which can be upgraded with power-ups to multiple or flame shots. The way leads through jungle, underwater caves, ice and fire landscapes to the sorcerer's palace, each with an end boss. The game combines platform jumping with a lot of shooting.\n\nThe C64 version was released by Ocean as a cartridge (also for the C64GS console) and on disk. Controlled via joystick.\n\nCode: Alastair Dukes · Graphics: Mike Clayton, Joff Scarcliffe, Bill Harbison · Music: Keith Tinman"
+  },
+  "images": {
+    "ss": "images/d7/d76250b94c522563d2dbeee5c754c9dc2c94f23f.png",
+    "sstitle": "images/25/258651d84d6fe9b8886e4e2d23444d1af6e6b021.png"
   }
 }

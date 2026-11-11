@@ -21,5 +21,8 @@
   "texts": {
     "de": "Ein fliegendes Schaf verteidigt die Oberfläche eines Planeten gegen Angreifer aus dem All. Das Spielfeld ist in eine obere und eine untere Ebene geteilt, zwischen denen das Schaf wechseln kann. Seine Kraft holt es sich, indem es auf den Wiesen grast. Das Spiel kombiniert Defender-artiges Scrollen mit Minters Vorliebe für Tiere und Witz.\n\nErschienen bei Llamasoft für den C64 auf Kassette und Diskette. Gesteuert wird per Joystick. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jeff Minter",
     "en": "A flying sheep defends the surface of a planet against attackers from space. The playfield is divided into an upper and a lower level, between which the sheep can switch. It gets its strength by grazing on the meadows. The game combines Defender-style scrolling with Minter's fondness for animals and humour.\n\nReleased by Llamasoft for the C64 on tape and disk. Controlled by joystick. Alongside the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nCode: Jeff Minter"
+  },
+  "images": {
+    "ss": "images/11/110f9ac721e031b067727676633e45c101091f44.png"
   }
 }

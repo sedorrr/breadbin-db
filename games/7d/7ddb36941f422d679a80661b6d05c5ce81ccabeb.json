@@ -21,5 +21,9 @@
   "texts": {
     "de": "Monty Mole ist auf der Flucht quer durch Europa und will genug Geld zusammenbekommen, um sich eine griechische Insel zu kaufen. Auf den Bildschirmen der einzelnen Länder sammelt er Geld und Gegenstände und springt an Gegnern und Fallen vorbei; Flugtickets bringen ihn von Ort zu Ort. Das Spiel steckt voller Anspielungen auf Länder und Klischees. Besonders bekannt ist die lange Titelmusik, die Rob Hubbard und Ben Daglish gemeinsam schrieben.\n\nErschienen bei Gremlin Graphics für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird per Joystick, bei der Modulfassung in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Peter Harrap, Shaun Hollingworth, Chris Kerry, Colin Dooley, Greg Holmes · Musik: Rob Hubbard, Ben Daglish",
     "en": "Monty Mole is on the run across Europe and wants to raise enough money to buy himself a Greek island. On the screens of the individual countries he collects money and items and jumps past enemies and traps; plane tickets take him from place to place. The game is full of allusions to countries and clichés. Particularly well known is the long title music, which Rob Hubbard and Ben Daglish wrote together.\n\nReleased by Gremlin Graphics for several home computers, on the C64 on cassette and disk. It is controlled by joystick, in port 1 for the cartridge version. In addition to the originals, there is a conversion as a OneLoad64 cartridge that starts the whole game from the cartridge without multi-loading.\n\nCode: Peter Harrap, Shaun Hollingworth, Chris Kerry, Colin Dooley, Greg Holmes · Music: Rob Hubbard, Ben Daglish"
+  },
+  "images": {
+    "ss": "images/ce/ce03e374b358a0346a4d727105f3f8aa2653c4b2.png",
+    "sstitle": "images/dc/dca589eae72f6ac9837ff07998705f56fec563da.png"
   }
 }

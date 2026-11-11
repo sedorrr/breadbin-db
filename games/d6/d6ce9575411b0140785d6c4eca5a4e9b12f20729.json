@@ -21,5 +21,8 @@
   "texts": {
     "de": "Mit dem Shoot-'Em-Up Construction Kit (SEUCK) erstelltes Ballerspiel: Das Raumschiff des Spielers zieht durch scrollende Abschnitte und schießt Angriffswellen ab. Es ist der erste von drei Mayhem-Teilen, die Champion Software bis 1995 herausbrachte. Typisch für SEUCK-Spiele sind die festen Angriffsmuster und das schlichte, auf Reaktion ausgelegte Spielprinzip.\n\nVerbreitet auf Diskette und als einzelne Datei; Steuerung per Joystick in Port 2.\n\nCode (SEUCK): Chris Yates · Grafik: Nik Townes",
     "en": "Shoot'em up created with the Shoot-'Em-Up Construction Kit (SEUCK): the player's spaceship travels through scrolling sections shooting down attack waves. It is the first of three Mayhem parts that Champion Software released up to 1995. Typical of SEUCK games are the fixed attack patterns and the simple, reaction-based gameplay.\n\nDistributed on disk and as a single file; controlled via joystick in port 2.\n\nCode (SEUCK): Chris Yates · Graphics: Nik Townes"
+  },
+  "images": {
+    "ss": "images/30/305fe844e435250ffafc320d7a9bea246e104fc1.png"
   }
 }

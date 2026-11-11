@@ -22,5 +22,8 @@
   "texts": {
     "de": "Das Spiel beginnt ohne Anleitung an einer Anmeldeaufforderung: Wer sich hineinrät, steuert einen Roboter durch ein weltweites Tunnelnetz. In verschiedenen Ländern müssen Agenten mit passenden Gegenständen bestochen werden, um die Teile eines geheimen Dokuments zu sammeln, während eine Sicherheitsprüfung Fragen zum bisher Gesehenen stellt. Der Reiz liegt im Herausfinden der Regeln selbst; das Spiel spielte gezielt mit der damaligen Hacker-Faszination.\n\nErschien auf Diskette und Kassette; dazu gibt es eine OneLoad64-Modulumsetzung (Joystick in Port 1). Teile werden über die Tastatur bedient.\n\nCode: Steve Cartwright · Grafik: Hilary Mills",
     "en": "The game begins without instructions at a login prompt: anyone who guesses their way in controls a robot through a worldwide tunnel network. In various countries, agents have to be bribed with suitable items to collect the parts of a secret document, while a security check asks questions about what has been seen so far. The appeal lies in figuring out the rules themselves; the game deliberately played on the fascination with hackers at the time.\n\nReleased on disk and tape; there is also a OneLoad64 cartridge conversion (joystick in port 1). Parts are operated via the keyboard.\n\nCode: Steve Cartwright · Graphics: Hilary Mills"
+  },
+  "images": {
+    "ss": "images/c9/c9ab20cc1ad741533aa757dd442787e441eb4790.png"
   }
 }

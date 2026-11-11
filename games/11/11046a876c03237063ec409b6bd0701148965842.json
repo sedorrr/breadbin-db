@@ -22,5 +22,8 @@
   "texts": {
     "de": "Mit einer Fahrmaschine, die ein viktorianischer Erfinder gebaut hat, reist der Spieler durch ein unterirdisches Höhlensystem, das aus der Ich-Sicht in fraktal berechneter Pseudo-3D-Grafik gezeigt wird. In den Gängen lauern Fantasiewesen, die mit Energiekugeln in verschiedenen Farben bekämpft oder verwandelt werden; dieselbe Energie dient auch als Antrieb. Am Ende jeder Ebene wartet ein Drache als Wächter, für den die richtige Kugelfolge gefunden werden muss. Das Spiel zeigte, dass sich die Fraktaltechnik von Lucasfilm auch für geschlossene Höhlenwelten eignet.\n\nErschienen für C64 und Atari-8-Bit-Rechner, in den USA bei Epyx auf Diskette, in Europa bei Activision. Gesteuert wird per Joystick. Es gibt eine Umsetzung als EasyFlash-Modul.\n\nCode: Charlie Kellner",
     "en": "In a vehicle built by a Victorian inventor, the player travels through an underground cave system shown from a first-person view in fractally calculated pseudo-3D graphics. Fantasy creatures lurk in the passages and are fought or transformed with energy balls of different colours; the same energy also serves as propulsion. At the end of each level a dragon awaits as guardian, for which the right sequence of balls has to be found. The game showed that Lucasfilm's fractal technology was also suitable for enclosed cave worlds.\n\nReleased for the C64 and Atari 8-bit computers, in the USA by Epyx on disk, in Europe by Activision. Controlled by joystick. There is a conversion as an EasyFlash cartridge.\n\nCode: Charlie Kellner"
+  },
+  "images": {
+    "sstitle": "images/98/982e2ec3a5d234d3b6078b7db4b5a6b316cbb394.png"
   }
 }

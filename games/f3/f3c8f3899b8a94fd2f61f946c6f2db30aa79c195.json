@@ -21,5 +21,9 @@
   "texts": {
     "de": "Eine böse Königin hat den Feuerstein gestohlen, der das Land Torot schützt, und der Ritter Sir Galaheart soll ihn zurückholen. Dazu muss er vier Zauber der ewigen Jugend auftreiben, die die Königin im Tausch verlangt. Er erkundet ein großes, aus vielen Bildschirmen bestehendes Königreich, wehrt Geister und Wesen mit Feuerbällen ab und handelt in Häusern mit den Bewohnern um Gegenstände. Die Mischung aus Actionspiel und einfachem Tauschhandel sowie die detaillierte Grafik von Steve Crow machten das Spiel bekannt.\n\nErschienen bei Hewson für ZX Spectrum, Amstrad CPC und C64, auf dem C64 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nEntwurf und Grafik: Stephen Crow · Code: Stephen Crow, John Cumming · Musik (C64): Ben Daglish",
     "en": "An evil queen has stolen the Firestone that protects the land of Torot, and the knight Sir Galaheart is to retrieve it. To do so, he has to find four spells of eternal youth, which the queen demands in exchange. He explores a large kingdom made up of many screens, fends off ghosts and creatures with fireballs and trades items with the inhabitants in their houses. The mix of action game and simple bartering, together with Steve Crow's detailed graphics, made the game well known.\n\nReleased by Hewson for the ZX Spectrum, Amstrad CPC and C64, on the C64 on cassette and disk. Controlled with a joystick in port 2. Besides the originals there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without further loading.\n\nDesign and graphics: Stephen Crow · Code: Stephen Crow, John Cumming · Music (C64): Ben Daglish"
+  },
+  "images": {
+    "ss": "images/43/43e2faec6aa4dc060a8cfbb3ca45933512021d07.png",
+    "sstitle": "images/c8/c8a1dc9024f2af02777eea1ffd20eb861cd01ca0.png"
   }
 }

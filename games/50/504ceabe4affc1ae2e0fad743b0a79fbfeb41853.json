@@ -21,5 +21,8 @@
   "texts": {
     "de": "Ein Lagerarbeiter muss in einem Lagerhaus Kisten auf markierte Zielfelder schieben. Er kann Kisten nur schieben, nicht ziehen, und immer nur eine auf einmal bewegen; eine Kiste in der Ecke ist daher meist verloren. Jedes Lager ist ein in sich geschlossenes Rätsel, das vorausschauendes Planen verlangt. Das Spielprinzip des Japaners Hiroyuki Imabayashi (Thinking Rabbit, 1982) wurde zu einem der meistkopierten Denkspiele.\n\nSpectrum HoloByte brachte die C64-Fassung in den USA auf Diskette heraus. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Dan Geisler · Grafik: Jeffrey Stokol",
     "en": "A warehouse worker has to push crates onto marked target squares in a warehouse. He can only push crates, not pull them, and can move only one at a time; a crate in a corner is therefore usually lost. Each warehouse is a self-contained puzzle that requires forward planning. The gameplay principle by the Japanese designer Hiroyuki Imabayashi (Thinking Rabbit, 1982) became one of the most copied puzzle games.\n\nSpectrum HoloByte released the C64 version on disk in the USA. Controlled with a joystick in port 2.\n\nCode: Dan Geisler · Graphics: Jeffrey Stokol"
+  },
+  "images": {
+    "sstitle": "images/13/13df64155b3ddc16f4312e9969c2ba5d1a0e7a4e.png"
   }
 }
