@@ -1,6 +1,6 @@
 {
-  "version": "0.8.1",
+  "version": "0.8.2",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Große Einsendungen werden in mehrere Beiträge aufgeteilt",
-  "notes_en": "Large submissions are split into several contributions"
+  "notes_de": "Server wählbar (Breadbin-Server oder eigener), macOS-App fest signiert",
+  "notes_en": "Choose your server (Breadbin server or your own), macOS app signed with a fixed certificate"
 }
