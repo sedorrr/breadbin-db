@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "1ea78a21aba680baef51cca90f7241859df5542c",
+  "md5": "f2378cf81fdfa7b97cb140fa63cbbc02",
+  "crc32": "eac52be9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PORTAL4.D64"
+  ],
+  "screenscraper_id": "151096",
+  "title": "Portal",
+  "year": "1986",
+  "publisher": "Activision",
+  "developer": "Nexa Corporation (Rob Swigart)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Portal ist ein „Computerroman“ von Rob Swigart: Ein Astronaut kehrt nach hundert Jahren von einer Mission zur Erde zurück und findet sie menschenleer vor. Über ein verbliebenes Terminal nimmt er Kontakt zu Homer auf, einer beschädigten künstlichen Intelligenz, und setzt mit ihr aus verstreuten Datenbeständen nach und nach zusammen, was geschehen ist. Statt eines Parsers und klassischer Rätsel wählt der Spieler Themenbereiche wie Medizin, Geschichte oder Militär aus und öffnet damit neue Abschnitte der Geschichte. Das ungewöhnliche, erzählerische Konzept machte Portal zu einem Sonderfall unter den Abenteuerspielen der achtziger Jahre.\n\nErschien 1986 bei Activision für mehrere Systeme, darunter den C64 und C128 auf drei doppelseitigen Disketten. Bedient wird mit Joystick in Port 2 oder Tastatur. Swigart schrieb die Geschichte später auch als Roman.\n\nText: Rob Swigart · Code: Nexa Corporation · Produktion: Brad Fregger",
+  "texts": {
+    "de": "Portal ist ein „Computerroman“ von Rob Swigart: Ein Astronaut kehrt nach hundert Jahren von einer Mission zur Erde zurück und findet sie menschenleer vor. Über ein verbliebenes Terminal nimmt er Kontakt zu Homer auf, einer beschädigten künstlichen Intelligenz, und setzt mit ihr aus verstreuten Datenbeständen nach und nach zusammen, was geschehen ist. Statt eines Parsers und klassischer Rätsel wählt der Spieler Themenbereiche wie Medizin, Geschichte oder Militär aus und öffnet damit neue Abschnitte der Geschichte. Das ungewöhnliche, erzählerische Konzept machte Portal zu einem Sonderfall unter den Abenteuerspielen der achtziger Jahre.\n\nErschien 1986 bei Activision für mehrere Systeme, darunter den C64 und C128 auf drei doppelseitigen Disketten. Bedient wird mit Joystick in Port 2 oder Tastatur. Swigart schrieb die Geschichte später auch als Roman.\n\nText: Rob Swigart · Code: Nexa Corporation · Produktion: Brad Fregger",
+    "en": "Portal is a “computer novel” by Rob Swigart: an astronaut returns to Earth after a hundred-year mission and finds it deserted. Through a remaining terminal he contacts Homer, a damaged artificial intelligence, and together they piece together what happened from scattered data records. Instead of a parser and classic puzzles, the player selects subject areas such as medicine, history or the military, unlocking new sections of the story. Its unusual narrative concept made Portal a special case among 1980s adventure games.\n\nReleased by Activision in 1986 for several systems, including the C64 and C128 on three double-sided disks. It is operated with a joystick in port 2 or the keyboard. Swigart later also wrote the story as a novel.\n\nWriting: Rob Swigart · Code: Nexa Corporation · Producer: Brad Fregger"
+  },
+  "images": {
+    "ss": "images/b3/b3d62dc6e7f9c11a9bcc97972537e9fc0b7a6728.png"
+  }
+}

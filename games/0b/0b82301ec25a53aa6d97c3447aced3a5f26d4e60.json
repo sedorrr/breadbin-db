@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0b82301ec25a53aa6d97c3447aced3a5f26d4e60",
+  "md5": "73ace5bf47e46547caaa96087d512cc2",
+  "crc32": "ca062fb8",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PREDAT1U.D64"
+  ],
+  "screenscraper_id": "35973",
+  "title": "Predator",
+  "year": "1987",
+  "publisher": "Activision",
+  "developer": "Source the Software House",
+  "genres": [
+    "Action",
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum gleichnamigen Film: Major Dutch Schaefer kämpft sich mit seiner Einheit durch den Dschungel Mittelamerikas, um eine Geisel zu befreien. Unterwegs warten Guerillakämpfer, Waffen werden erst nach und nach gefunden, und im Hintergrund lauert der unsichtbare Jäger aus dem All, dessen Zielvisier immer wieder über den Bildschirm wandert. Das seitlich scrollende Actionspiel lebt von der Filmatmosphäre und wurde in der britischen Presse für die C64-Fassung ausgezeichnet.\n\nErschienen auf Kassette und Diskette, später als Neuauflage bei The Hit Squad; es gibt eine eigene US-Fassung. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul.\n\nEntwicklung: Source the Software House",
+  "texts": {
+    "de": "Spiel zum gleichnamigen Film: Major Dutch Schaefer kämpft sich mit seiner Einheit durch den Dschungel Mittelamerikas, um eine Geisel zu befreien. Unterwegs warten Guerillakämpfer, Waffen werden erst nach und nach gefunden, und im Hintergrund lauert der unsichtbare Jäger aus dem All, dessen Zielvisier immer wieder über den Bildschirm wandert. Das seitlich scrollende Actionspiel lebt von der Filmatmosphäre und wurde in der britischen Presse für die C64-Fassung ausgezeichnet.\n\nErschienen auf Kassette und Diskette, später als Neuauflage bei The Hit Squad; es gibt eine eigene US-Fassung. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul.\n\nEntwicklung: Source the Software House",
+    "en": "A tie-in to the film of the same name: Major Dutch Schaefer and his unit fight their way through the Central American jungle to free a hostage. Guerrillas lie in wait, weapons are found only gradually, and in the background lurks the invisible hunter from space, whose targeting sight keeps sweeping across the screen. The side-scrolling action game thrives on the film's atmosphere, and the C64 version won an award from the British press.\n\nReleased on tape and disk, later re-released by The Hit Squad; there is a separate US version. It is controlled with a joystick in port 2. There is also a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge.\n\nDevelopment: Source the Software House"
+  },
+  "images": {
+    "sstitle": "images/f9/f9307f9b6a70c3c1371bb6e5872b2cc0d743496a.png"
+  }
+}

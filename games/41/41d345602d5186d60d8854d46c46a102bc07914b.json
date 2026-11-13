@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "41d345602d5186d60d8854d46c46a102bc07914b",
+  "md5": "e8c14cd6ef0f711833c22c87a3b22ee8",
+  "crc32": "198acee9",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "Street Fighter (p1).crt"
+  ],
+  "screenscraper_id": "35862",
+  "title": "Street Fighter",
+  "year": "1988",
+  "publisher": "U.S. Gold",
+  "developer": "Tiertex",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Street Fighter ist die Umsetzung des Capcom-Automaten von 1987, mit dem die bekannte Kampfspielreihe begann. Der Kämpfer Ryu reist um die Welt und tritt in mehreren Ländern gegen je zwei Gegner an, bevor er in Thailand auf Sagat trifft. Ein zweiter Spieler übernimmt Ken und kann jederzeit einsteigen. Der Automat steuerte die Stärke der Schläge über druckempfindliche Knöpfe, was die Heimfassungen mit dem Joystick nachbilden mussten.\n\nAuf dem C64 gibt es zwei verschiedene Fassungen: eine europäische von Tiertex, 1988 bei U.S. Gold erschienen, und eine amerikanische von Pacific Dataworks für Capcom USA, die als die bessere gilt. Beide wurden teils zusammen auf einer Veröffentlichung vertrieben. Gesteuert wird mit dem Joystick, die Schlagarten über Richtung und Feuerknopf.\n\nEntwicklung: Tiertex (Europa), Pacific Dataworks (USA)",
+  "texts": {
+    "de": "Street Fighter ist die Umsetzung des Capcom-Automaten von 1987, mit dem die bekannte Kampfspielreihe begann. Der Kämpfer Ryu reist um die Welt und tritt in mehreren Ländern gegen je zwei Gegner an, bevor er in Thailand auf Sagat trifft. Ein zweiter Spieler übernimmt Ken und kann jederzeit einsteigen. Der Automat steuerte die Stärke der Schläge über druckempfindliche Knöpfe, was die Heimfassungen mit dem Joystick nachbilden mussten.\n\nAuf dem C64 gibt es zwei verschiedene Fassungen: eine europäische von Tiertex, 1988 bei U.S. Gold erschienen, und eine amerikanische von Pacific Dataworks für Capcom USA, die als die bessere gilt. Beide wurden teils zusammen auf einer Veröffentlichung vertrieben. Gesteuert wird mit dem Joystick, die Schlagarten über Richtung und Feuerknopf.\n\nEntwicklung: Tiertex (Europa), Pacific Dataworks (USA)",
+    "en": "Street Fighter is the conversion of Capcom's 1987 arcade game that started the famous fighting game series. The fighter Ryu travels the world and faces two opponents in each of several countries before meeting Sagat in Thailand. A second player takes control of Ken and can join in at any time. The arcade machine measured the strength of attacks with pressure-sensitive buttons, which the home versions had to recreate with a joystick.\n\nOn the C64 there are two different versions: a European one by Tiertex, released by U.S. Gold in 1988, and an American one by Pacific Dataworks for Capcom USA, which is considered the better of the two. Both were sometimes sold together in one release. It is controlled with a joystick, with attacks chosen by direction and fire button.\n\nDevelopment: Tiertex (Europe), Pacific Dataworks (USA)"
+  },
+  "images": {
+    "ss": "images/6f/6f28f35baecd669cb13761449187446fd8796141.png",
+    "sstitle": "images/85/852f6af489cb319ffccddc5119938b25b51d40ff.png"
+  }
+}

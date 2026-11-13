@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "15b50f43f0dff1ccfe7135e020ee9a73d5c11e15",
+  "md5": "dfc41b2a832e8c39edc66f5d6841f25d",
+  "crc32": "d243e9ab",
+  "size": 37355,
+  "format": "PRG",
+  "files": [
+    "Action Fighter.prg"
+  ],
+  "screenscraper_id": "35906",
+  "title": "Action Fighter",
+  "year": "1989",
+  "publisher": "Firebird",
+  "developer": "Core Design",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Action Fighter ist die Umsetzung des gleichnamigen Sega-Automaten von 1986, ein senkrecht scrollendes Actionspiel im Stil von Spy Hunter. Man beginnt auf einem Motorrad und fährt eine kurvenreiche Strecke mit Abzweigungen und Abgründen entlang, während Gegner von allen Seiten angreifen. Durch das Einsammeln der Buchstaben A bis F verwandelt sich das Fahrzeug erst in ein Auto und dann in ein fliegendes Fahrzeug, mit dem man die Ziele der jeweiligen Mission angreift. Hinter Sega-Lastwagen und -Hubschraubern gibt es Extrawaffen wie Doppelschuss oder Raketen. Insgesamt sind fünf Missionen zu bewältigen.\n\nDie C64-Fassung erschien 1989 bei Firebird auf Kassette und Diskette, in Italien auch als „Mezzi da Guerra“. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick oder der Tastatur; die Leertaste wechselt zwischen Motorrad und Auto. Im Spiel selbst gibt es nur Geräuscheffekte, Musik läuft im Titelbild.\n\nCode: Chris Shrigley · Grafik: Terry Lloyd",
+  "texts": {
+    "de": "Action Fighter ist die Umsetzung des gleichnamigen Sega-Automaten von 1986, ein senkrecht scrollendes Actionspiel im Stil von Spy Hunter. Man beginnt auf einem Motorrad und fährt eine kurvenreiche Strecke mit Abzweigungen und Abgründen entlang, während Gegner von allen Seiten angreifen. Durch das Einsammeln der Buchstaben A bis F verwandelt sich das Fahrzeug erst in ein Auto und dann in ein fliegendes Fahrzeug, mit dem man die Ziele der jeweiligen Mission angreift. Hinter Sega-Lastwagen und -Hubschraubern gibt es Extrawaffen wie Doppelschuss oder Raketen. Insgesamt sind fünf Missionen zu bewältigen.\n\nDie C64-Fassung erschien 1989 bei Firebird auf Kassette und Diskette, in Italien auch als „Mezzi da Guerra“. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick oder der Tastatur; die Leertaste wechselt zwischen Motorrad und Auto. Im Spiel selbst gibt es nur Geräuscheffekte, Musik läuft im Titelbild.\n\nCode: Chris Shrigley · Grafik: Terry Lloyd",
+    "en": "Action Fighter is the conversion of Sega's 1986 arcade game of the same name, a vertically scrolling action game in the style of Spy Hunter. The player starts on a motorbike and rides along a winding route with forks and chasms while enemies attack from all sides. Collecting the letters A to F turns the vehicle first into a car and then into a flying craft, which is used to attack the targets of each mission. Riding behind Sega trucks and helicopters earns extra weapons such as a double shot or missiles. There are five missions in all.\n\nThe C64 version was released in 1989 by Firebird on cassette and disk, and in Italy as \"Mezzi da Guerra\". There are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick or the keyboard; the space bar switches between motorbike and car. In-game there are only sound effects, with music on the title screen.\n\nCode: Chris Shrigley · Graphics: Terry Lloyd"
+  },
+  "images": {
+    "sstitle": "images/d6/d6cd4e8704a43da75bee36bae3a6b5bb7eb76388.png"
+  }
+}

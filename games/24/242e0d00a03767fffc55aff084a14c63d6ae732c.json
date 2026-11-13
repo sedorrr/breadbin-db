@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "242e0d00a03767fffc55aff084a14c63d6ae732c",
+  "md5": "d08d68e73ee2a911480d730beb585290",
+  "crc32": "35bf46c6",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "1985.D64"
+  ],
+  "screenscraper_id": "36057",
+  "title": "1985: The Day After",
+  "year": "1985",
+  "publisher": "Mastertronic",
+  "developer": "Severn Software",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "1985: The Day After spielt in einer Zukunft nach dem Sturz des „Großen Bruders“ aus Orwells 1984: Die Energieversorgung der Erde muss wiederhergestellt werden. Dazu steuert man eine Landefähre zu verschiedenen Planeten, sammelt dort Energiekapseln ein und kämpft sich wieder hinaus. Das Raumschiff wird wie bei Gravitar oder Lunar Lander durch Drehen und Schub gesteuert, was viel Übung erfordert. Das Spiel war ein typischer Billigtitel von Mastertronic und wurde von der Fachpresse eher zurückhaltend bewertet.\n\nDas Spiel erschien 1985 auf Kassette zum Billigpreis, auch für den ZX Spectrum. Neben Cracks gibt es Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nEntwicklung: Severn Software",
+  "texts": {
+    "de": "1985: The Day After spielt in einer Zukunft nach dem Sturz des „Großen Bruders“ aus Orwells 1984: Die Energieversorgung der Erde muss wiederhergestellt werden. Dazu steuert man eine Landefähre zu verschiedenen Planeten, sammelt dort Energiekapseln ein und kämpft sich wieder hinaus. Das Raumschiff wird wie bei Gravitar oder Lunar Lander durch Drehen und Schub gesteuert, was viel Übung erfordert. Das Spiel war ein typischer Billigtitel von Mastertronic und wurde von der Fachpresse eher zurückhaltend bewertet.\n\nDas Spiel erschien 1985 auf Kassette zum Billigpreis, auch für den ZX Spectrum. Neben Cracks gibt es Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nEntwicklung: Severn Software",
+    "en": "1985: The Day After is set in a future after the fall of Orwell's Big Brother: Earth's energy supply has to be restored. To do so, the player flies a landing craft to various planets, collects energy pods there and fights the way back out. The ship is steered by rotating and thrusting, as in Gravitar or Lunar Lander, which takes a lot of practice. It was a typical Mastertronic budget title and received a rather lukewarm response from the press.\n\nThe game was released in 1985 on cassette at a budget price, also for the ZX Spectrum. Besides cracked versions there are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick in port 2.\n\nDevelopment: Severn Software"
+  },
+  "images": {
+    "ss": "images/54/54bb7a9382e5290340d4c1c8c5691ddd313ae19d.png",
+    "sstitle": "images/d4/d4220c1cb81162083f19e9520923e19600d45c23.png"
+  }
+}

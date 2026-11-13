@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "0b80945bfd12446e6a84050f39176e5bbe9f661b",
+  "md5": "7e9fe6d80ad3f6856599da89ad9b6c15",
+  "crc32": "b7e743e9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MINDWHE1.D64"
+  ],
+  "screenscraper_id": "115223",
+  "title": "Mindwheel",
+  "year": "1984",
+  "publisher": "Synapse Software / Brøderbund",
+  "developer": "Synapse Software (Robert Pinsky, Steve Hales, William Mataga)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Mindwheel ist ein Textabenteuer, das sein Verlag als „elektronischen Roman“ bezeichnete. Als Gedankenreisender wird der Spieler in ein neuroelektronisches Geflecht geschickt, das aus den Gedankenmustern von vier Verstorbenen besteht: eines ermordeten Rockstars, eines Diktators, eines Dichters und einer Wissenschaftlerin. Durch ihre Welten muss er bis zum Rad der Weisheit aus der Frühzeit der Menschheit vordringen, das die Welt vor dem Untergang bewahren soll. Geschrieben hat es der Lyriker Robert Pinsky, und der literarische Anspruch sowie der leistungsfähige Parser machen es zu einem der meistbeachteten Textabenteuer seiner Zeit.\n\nErschien bei Synapse im Vertrieb von Brøderbund für mehrere Systeme, darunter den C64 auf Diskette, zusammen mit einem gebundenen Buch, das die Vorgeschichte erzählt. Gespielt wird über die Tastatur.\n\nText: Robert Pinsky · Code: Steve Hales, William Mataga",
+  "texts": {
+    "de": "Mindwheel ist ein Textabenteuer, das sein Verlag als „elektronischen Roman“ bezeichnete. Als Gedankenreisender wird der Spieler in ein neuroelektronisches Geflecht geschickt, das aus den Gedankenmustern von vier Verstorbenen besteht: eines ermordeten Rockstars, eines Diktators, eines Dichters und einer Wissenschaftlerin. Durch ihre Welten muss er bis zum Rad der Weisheit aus der Frühzeit der Menschheit vordringen, das die Welt vor dem Untergang bewahren soll. Geschrieben hat es der Lyriker Robert Pinsky, und der literarische Anspruch sowie der leistungsfähige Parser machen es zu einem der meistbeachteten Textabenteuer seiner Zeit.\n\nErschien bei Synapse im Vertrieb von Brøderbund für mehrere Systeme, darunter den C64 auf Diskette, zusammen mit einem gebundenen Buch, das die Vorgeschichte erzählt. Gespielt wird über die Tastatur.\n\nText: Robert Pinsky · Code: Steve Hales, William Mataga",
+    "en": "Mindwheel is a text adventure its publisher billed as an “electronic novel”. As a mind adventurer, the player is sent into a neuro-electronic matrix made from the thought patterns of four deceased people: an assassinated rock star, a dictator, a poet and a scientist. Through their worlds he must reach the Wheel of Wisdom from the dawn of civilisation, which is meant to save the world from disaster. It was written by the poet Robert Pinsky, and its literary ambition and capable parser make it one of the most discussed text adventures of its time.\n\nPublished by Synapse and distributed by Brøderbund for several systems, including the C64 on disk, together with a hardbound book telling the backstory. It is played with the keyboard.\n\nWriting: Robert Pinsky · Code: Steve Hales, William Mataga"
+  }
+}

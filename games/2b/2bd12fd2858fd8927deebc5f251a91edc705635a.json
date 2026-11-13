@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "2bd12fd2858fd8927deebc5f251a91edc705635a",
+  "md5": "b40c1a5fe9a88dbd4fd0c333278aed88",
+  "crc32": "0965ed29",
+  "size": 1484104,
+  "format": "TAP",
+  "files": [
+    "Burnin' Rubber.tap"
+  ],
+  "screenscraper_id": "110428",
+  "title": "Burnin' Rubber",
+  "year": "1983",
+  "publisher": "Colosoftware",
+  "developer": "Jean-François de Wergifosse",
+  "genres": [
+    "Fahren",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Burnin' Rubber ist eine inoffizielle C64-Umsetzung des Automatenspiels gleichen Namens, das wiederum eine Variante von Data Easts Bump 'n' Jump ist. Von oben gesehen fährt man über eine senkrecht scrollende Straße, rammt andere Autos von der Fahrbahn oder springt ab etwa 100 km/h über Lücken und landet auf gegnerischen Fahrzeugen. Besonders gefährlich sind Kipplaster, die schneller fahren und Hindernisse abwerfen. Die Strecken folgen den Jahreszeiten, im Winter kommen vereiste Abschnitte dazu; insgesamt gibt es 32 Level.\n\nDas Spiel erschien 1983 auf Kassette und Diskette und wurde später auch von anderen Firmen (u. a. Audiogenic) vertrieben. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung; die Modulfassungen sind für den Joystick in Port 1 eingerichtet, das Original nutzt Port 2. Auffällig ist die Titelmusik nach Bachs „Jesus bleibet meine Freude“.\n\nCode, Grafik und Musik: Jean-François de Wergifosse",
+  "texts": {
+    "de": "Burnin' Rubber ist eine inoffizielle C64-Umsetzung des Automatenspiels gleichen Namens, das wiederum eine Variante von Data Easts Bump 'n' Jump ist. Von oben gesehen fährt man über eine senkrecht scrollende Straße, rammt andere Autos von der Fahrbahn oder springt ab etwa 100 km/h über Lücken und landet auf gegnerischen Fahrzeugen. Besonders gefährlich sind Kipplaster, die schneller fahren und Hindernisse abwerfen. Die Strecken folgen den Jahreszeiten, im Winter kommen vereiste Abschnitte dazu; insgesamt gibt es 32 Level.\n\nDas Spiel erschien 1983 auf Kassette und Diskette und wurde später auch von anderen Firmen (u. a. Audiogenic) vertrieben. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung; die Modulfassungen sind für den Joystick in Port 1 eingerichtet, das Original nutzt Port 2. Auffällig ist die Titelmusik nach Bachs „Jesus bleibet meine Freude“.\n\nCode, Grafik und Musik: Jean-François de Wergifosse",
+    "en": "Burnin' Rubber is an unofficial C64 conversion of the arcade game of the same name, itself a variant of Data East's Bump 'n' Jump. Seen from above, the player drives along a vertically scrolling road, rams other cars off the track or, at about 100 km/h and above, leaps over gaps and lands on enemy vehicles. Dump trucks are the most dangerous, as they are faster and drop obstacles. The tracks follow the seasons, with icy sections in winter; there are 32 levels in total.\n\nThe game was released in 1983 on cassette and disk and was later distributed by other companies as well (including Audiogenic). There are cartridge conversions from the OneLoad64 collection and a single-file PRG version; the cartridge versions are set up for a joystick in port 1, while the original uses port 2. The title tune, based on Bach's \"Jesu, Joy of Man's Desiring\", stands out.\n\nCode, graphics and music: Jean-François de Wergifosse"
+  },
+  "images": {
+    "ss": "images/c7/c7d3bea99fb2edf7615cfe7a6ed12ab90bf466f7.png",
+    "sstitle": "images/67/6709172cb82b1ba24f7a161ab663a522eed9729b.png"
+  }
+}

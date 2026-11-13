@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "279339ab7e0d39b6e1b93d5839849a8c1438b820",
+  "md5": "916d3b2e94dbeea9aff686dc914a08f1",
+  "crc32": "80e9d518",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "OPERTHU0.D64"
+  ],
+  "screenscraper_id": "36512",
+  "title": "Operation Thunderbolt",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Taito-Automaten von 1988 und Nachfolger von Operation Wolf. Ein entführtes Flugzeug ist in Afrika gelandet, und zwei Elitesoldaten sollen die Geiseln befreien. Der Spieler bewegt ein Fadenkreuz über den Bildschirm und schießt auf Soldaten, Fahrzeuge und Hubschrauber, während er Munition, Granaten und Energie einsammelt; Geiseln dürfen nicht getroffen werden. Neben seitlich scrollenden Abschnitten gibt es Szenen, in denen das Geschehen in die Tiefe des Bildschirms führt. Zu zweit kann gleichzeitig gespielt werden.\n\nDie C64-Fassung erschien 1990 bei Ocean auf Kassette und auf zwei Disketten; daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2, eine Lichtpistole wird ebenfalls unterstützt.\n\nCode: Richard Palmer, John Meegan, Paul Hughes · Grafik: Stephen Thomson, Brian Flanagan · Musik: Matthew Cannon",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten von 1988 und Nachfolger von Operation Wolf. Ein entführtes Flugzeug ist in Afrika gelandet, und zwei Elitesoldaten sollen die Geiseln befreien. Der Spieler bewegt ein Fadenkreuz über den Bildschirm und schießt auf Soldaten, Fahrzeuge und Hubschrauber, während er Munition, Granaten und Energie einsammelt; Geiseln dürfen nicht getroffen werden. Neben seitlich scrollenden Abschnitten gibt es Szenen, in denen das Geschehen in die Tiefe des Bildschirms führt. Zu zweit kann gleichzeitig gespielt werden.\n\nDie C64-Fassung erschien 1990 bei Ocean auf Kassette und auf zwei Disketten; daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2, eine Lichtpistole wird ebenfalls unterstützt.\n\nCode: Richard Palmer, John Meegan, Paul Hughes · Grafik: Stephen Thomson, Brian Flanagan · Musik: Matthew Cannon",
+    "en": "A conversion of Taito's 1988 arcade game and the sequel to Operation Wolf. A hijacked airliner has landed in Africa, and two elite soldiers are sent to free the hostages. The player moves a crosshair around the screen, shooting soldiers, vehicles and helicopters while collecting ammunition, grenades and energy; hostages must not be hit. Besides side-scrolling sections, there are scenes in which the action moves into the depth of the screen. Two players can play at the same time.\n\nThe C64 version was released by Ocean in 1990 on cassette and on two disks; EasyFlash cartridge conversions also exist. Controlled by joystick in port 2; a light gun is also supported.\n\nCode: Richard Palmer, John Meegan, Paul Hughes · Graphics: Stephen Thomson, Brian Flanagan · Music: Matthew Cannon"
+  },
+  "images": {
+    "sstitle": "images/00/009a79e3806f3b3288e9e4c822cfba4ad4ae558e.png"
+  }
+}

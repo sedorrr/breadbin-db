@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3c60942f50d4849f61980f7ba6508687b7397f73",
+  "md5": "5beae55f5fb8dcb11a26d0827b2f9de5",
+  "crc32": "db862e5d",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Saint Dragon.crt"
+  ],
+  "screenscraper_id": "36537",
+  "title": "Saint Dragon",
+  "year": "1990",
+  "publisher": "Storm",
+  "developer": "The Sales Curve",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Gesteuert wird ein gepanzerter Cyborg-Drache, der durch fünf horizontal scrollende Abschnitte fliegt und mechanische Gegner abschießt. Die Besonderheit ist der Körper des Drachen: Die Schwanzglieder sind unverwundbar und lassen sich durch geschickte Bewegung wie ein Schild vor Geschosse legen. Sammelbare Extras verändern die Feuerart, am Ende jedes Abschnitts wartet ein großer Endgegner. Vorlage ist ein Automat von Jaleco aus dem Jahr 1989.\n\nDie C64-Umsetzung entstand bei The Sales Curve und erschien 1990 bei Storm auf Diskette und Kassette; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Die Abschnitte werden nachgeladen.\n\nCode: Warren Mills · Musik: Paul Tonge",
+  "texts": {
+    "de": "Gesteuert wird ein gepanzerter Cyborg-Drache, der durch fünf horizontal scrollende Abschnitte fliegt und mechanische Gegner abschießt. Die Besonderheit ist der Körper des Drachen: Die Schwanzglieder sind unverwundbar und lassen sich durch geschickte Bewegung wie ein Schild vor Geschosse legen. Sammelbare Extras verändern die Feuerart, am Ende jedes Abschnitts wartet ein großer Endgegner. Vorlage ist ein Automat von Jaleco aus dem Jahr 1989.\n\nDie C64-Umsetzung entstand bei The Sales Curve und erschien 1990 bei Storm auf Diskette und Kassette; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Die Abschnitte werden nachgeladen.\n\nCode: Warren Mills · Musik: Paul Tonge",
+    "en": "The player controls an armoured cyborg dragon flying through five horizontally scrolling stages and shooting mechanical enemies. Its special feature is the dragon's body: the tail segments are invulnerable and, with careful movement, can be placed in front of incoming shots like a shield. Collectable power-ups change the type of fire, and a large boss waits at the end of each stage. The basis is a 1989 arcade game by Jaleco.\n\nThe C64 conversion was made by The Sales Curve and released by Storm in 1990 on disk and cassette; EasyFlash conversions from the scene exist as well. It is played with a joystick in port 2. The stages are loaded separately.\n\nCode: Warren Mills · Music: Paul Tonge"
+  },
+  "images": {
+    "sstitle": "images/ca/caa992c0aa892b85b70f2743d6b0f5481c6bf2a7.png"
+  }
+}

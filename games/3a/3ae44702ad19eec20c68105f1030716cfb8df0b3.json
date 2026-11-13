@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3ae44702ad19eec20c68105f1030716cfb8df0b3",
+  "md5": "0d6c62c5aab0d492d5a04ad744cf54ce",
+  "crc32": "4b4097e2",
+  "size": 20684,
+  "format": "T64",
+  "files": [
+    "AMERICAN.T64"
+  ],
+  "screenscraper_id": "109611",
+  "title": "American Football",
+  "year": "1984",
+  "publisher": "Argus Press Software / Mind Games",
+  "developer": "Concept Software",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "American Football ist eine frühe Umsetzung des amerikanischen Football für Heimcomputer. Man führt eine Mannschaft durch ein Spiel, wählt vor jedem Spielzug Angriffs- oder Verteidigungsformationen und sieht den Ablauf anschließend von oben auf dem Spielfeld. Der Schwerpunkt liegt eher auf der Taktik der Spielzüge als auf schneller Action. Zeitgenössische Tests lobten, dass das Spiel die Regeln des in Europa damals wenig bekannten Sports brauchbar umsetzt.\n\nDas Spiel erschien 1984 bei Argus Press Software unter dem Label Mind Games auf Kassette, zuerst für den ZX Spectrum, dann auch für C64 und Amstrad CPC. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können gegeneinander antreten.\n\nEntwicklung: Concept Software",
+  "texts": {
+    "de": "American Football ist eine frühe Umsetzung des amerikanischen Football für Heimcomputer. Man führt eine Mannschaft durch ein Spiel, wählt vor jedem Spielzug Angriffs- oder Verteidigungsformationen und sieht den Ablauf anschließend von oben auf dem Spielfeld. Der Schwerpunkt liegt eher auf der Taktik der Spielzüge als auf schneller Action. Zeitgenössische Tests lobten, dass das Spiel die Regeln des in Europa damals wenig bekannten Sports brauchbar umsetzt.\n\nDas Spiel erschien 1984 bei Argus Press Software unter dem Label Mind Games auf Kassette, zuerst für den ZX Spectrum, dann auch für C64 und Amstrad CPC. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können gegeneinander antreten.\n\nEntwicklung: Concept Software",
+    "en": "American Football is an early home computer version of the American sport. The player manages a team through a match, chooses offensive or defensive formations before each play and then watches the play unfold on a top-down view of the field. The emphasis is on play-calling tactics rather than fast action. Contemporary reviews praised the game for handling the rules of a sport that was little known in Europe at the time reasonably well.\n\nThe game was published in 1984 by Argus Press Software under its Mind Games label on cassette, first for the ZX Spectrum and then for the C64 and Amstrad CPC. It is controlled with a joystick in port 2; two players can compete against each other.\n\nDevelopment: Concept Software"
+  },
+  "images": {
+    "ss": "images/e4/e40a03fc61ad6d293d6c474af69baa3b80b03691.png",
+    "sstitle": "images/55/555a1b051e0e2252acf21d1620c914aa3bd3d078.png"
+  }
+}

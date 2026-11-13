@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3a2bce063b9396c807d5b96e41eac2af3b8b027e",
+  "md5": "2aadd85d7fb8ff1c5378aa429fba5647",
+  "crc32": "9ea6347c",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Tiger Road.crt"
+  ],
+  "screenscraper_id": "36308",
+  "title": "Tiger Road",
+  "year": "1988",
+  "publisher": "Go!",
+  "genres": [
+    "Beat'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Der Kämpfer Lee Wong zieht gegen den Kriegsherrn Ryu Ken Oh, der Kinder entführt hat, um sie zu seinen Kriegern zu machen. In seitlich scrollenden Abschnitten kämpft er sich mit Axt und anderen Waffen durch Mönche, Krieger und große Zwischengegner. Aufgesammelte Kugeln verbessern die Waffe. Vorlage ist der Capcom-Automat von 1987.\n\nDie C64-Umsetzung erschien 1988 bei Go!, einem Label von U.S. Gold, auf Kassette und Diskette; später entstanden EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Keith A. Purkiss · Musik: Jason C. Brooke",
+  "texts": {
+    "de": "Der Kämpfer Lee Wong zieht gegen den Kriegsherrn Ryu Ken Oh, der Kinder entführt hat, um sie zu seinen Kriegern zu machen. In seitlich scrollenden Abschnitten kämpft er sich mit Axt und anderen Waffen durch Mönche, Krieger und große Zwischengegner. Aufgesammelte Kugeln verbessern die Waffe. Vorlage ist der Capcom-Automat von 1987.\n\nDie C64-Umsetzung erschien 1988 bei Go!, einem Label von U.S. Gold, auf Kassette und Diskette; später entstanden EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Keith A. Purkiss · Musik: Jason C. Brooke",
+    "en": "The fighter Lee Wong sets out against the warlord Ryu Ken Oh, who has kidnapped children to turn them into his warriors. In side-scrolling stages he battles his way through monks, warriors and large bosses with an axe and other weapons. Collected orbs upgrade his weapon. The basis is Capcom's 1987 arcade game.\n\nThe C64 conversion was released in 1988 by Go!, a U.S. Gold label, on cassette and disk; EasyFlash conversions from the scene appeared later. It is played with a joystick in port 2.\n\nCode: Keith A. Purkiss · Music: Jason C. Brooke"
+  },
+  "images": {
+    "sstitle": "images/d3/d3c388b07c5a6b85738f89a74caf9ba355775dca.png"
+  }
+}

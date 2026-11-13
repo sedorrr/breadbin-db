@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "2085187629e429454af47ef134b35adc9f17e032",
+  "md5": "0c92584378886ece6c8b18847748c936",
+  "crc32": "c5a3af5b",
+  "size": 156016,
+  "format": "CRT",
+  "files": [
+    "Flying Shark (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35932",
+  "title": "Flying Shark",
+  "year": "1988",
+  "publisher": "Firebird",
+  "developer": "Catalyst Coders (US-Fassung Sky Shark: Software Creations)",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Doppeldecker kämpft sich über senkrecht scrollende Landschaften mit Dschungel, Flüssen und Häfen gegen Panzer, Schiffe, Geschütze und feindliche Flugzeuge. Eingesammelte Extras verstärken das Bordgeschütz, und eine begrenzte Zahl von Bomben räumt in Notlagen den Bildschirm frei. Taitos Automat von 1987 gehört zu den bekanntesten senkrecht scrollenden Shoot'em ups der späten 1980er-Jahre.\n\nFür den C64 gibt es zwei Umsetzungen: Die europäische Fassung von Catalyst Coders erschien bei Firebird; für den US-Markt ließ Taito unter dem dortigen Automatennamen Sky Shark eine eigene Fassung von Software Creations entwickeln. Beide werden mit dem Joystick in Port 2 gesteuert. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870.\n\nUS-Fassung Sky Shark – Code: Martin Howarth · Grafik: Andrew Threlfall · Musik: Tim Follin",
+  "texts": {
+    "de": "Ein Doppeldecker kämpft sich über senkrecht scrollende Landschaften mit Dschungel, Flüssen und Häfen gegen Panzer, Schiffe, Geschütze und feindliche Flugzeuge. Eingesammelte Extras verstärken das Bordgeschütz, und eine begrenzte Zahl von Bomben räumt in Notlagen den Bildschirm frei. Taitos Automat von 1987 gehört zu den bekanntesten senkrecht scrollenden Shoot'em ups der späten 1980er-Jahre.\n\nFür den C64 gibt es zwei Umsetzungen: Die europäische Fassung von Catalyst Coders erschien bei Firebird; für den US-Markt ließ Taito unter dem dortigen Automatennamen Sky Shark eine eigene Fassung von Software Creations entwickeln. Beide werden mit dem Joystick in Port 2 gesteuert. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870.\n\nUS-Fassung Sky Shark – Code: Martin Howarth · Grafik: Andrew Threlfall · Musik: Tim Follin",
+    "en": "A biplane fights its way over vertically scrolling landscapes of jungle, rivers and harbours against tanks, ships, gun emplacements and enemy aircraft. Collected power-ups strengthen the plane's gun, and a limited number of bombs clears the screen in emergencies. Taito's 1987 arcade game is one of the best-known vertically scrolling shoot 'em ups of the late 1980s.\n\nThere are two C64 versions: the European one by Catalyst Coders was published by Firebird, while for the US market Taito commissioned a separate version from Software Creations under the American arcade title Sky Shark. Both are played with a joystick in port 2. There are also EasyFlash conversions, including a MultiLoad64 version by $olo1870.\n\nUS version Sky Shark – Code: Martin Howarth · Graphics: Andrew Threlfall · Music: Tim Follin"
+  }
+}

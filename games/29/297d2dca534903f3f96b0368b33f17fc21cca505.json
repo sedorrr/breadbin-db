@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "297d2dca534903f3f96b0368b33f17fc21cca505",
+  "md5": "8040dbf829f9a8710216a0465fba11f8",
+  "crc32": "f5f6675e",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Agent USA.crt"
+  ],
+  "screenscraper_id": "109503",
+  "title": "Agent USA",
+  "year": "1984",
+  "publisher": "Scholastic",
+  "developer": "Tom Snyder Productions (Leonard Bertoni)",
+  "genres": [
+    "Lernspiel",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Agent USA ist ein Lernspiel zur Geografie der Vereinigten Staaten. Eine Fuzzbomb verwandelt Menschen in willenlose „Fuzzbodies“, und die Verwandlung breitet sich von Stadt zu Stadt aus. Als Agent fährt der Spieler mit der Eisenbahn durch das Land, liest Fahrpläne, beachtet Zeitzonen und sammelt Kristalle, die Betroffene zurückverwandeln. Informationsstände in den Hauptstädten verraten, wo die Bombe steckt. Das Spiel vermittelt Städte, Bahnverbindungen und Zeitzonen beiläufig über ein Wettrennen gegen die Ausbreitung.\n\nErschien bei Scholastic für C64, Apple II, Atari und IBM-PC auf Kassette und Diskette. Gesteuert wird per Joystick. Neben dem Original gibt es eine OneLoad64-Modulumsetzung, die ohne Nachladen auskommt.\n\nEntwicklung: Tom Snyder Productions · Code: Leonard Bertoni",
+  "texts": {
+    "de": "Agent USA ist ein Lernspiel zur Geografie der Vereinigten Staaten. Eine Fuzzbomb verwandelt Menschen in willenlose „Fuzzbodies“, und die Verwandlung breitet sich von Stadt zu Stadt aus. Als Agent fährt der Spieler mit der Eisenbahn durch das Land, liest Fahrpläne, beachtet Zeitzonen und sammelt Kristalle, die Betroffene zurückverwandeln. Informationsstände in den Hauptstädten verraten, wo die Bombe steckt. Das Spiel vermittelt Städte, Bahnverbindungen und Zeitzonen beiläufig über ein Wettrennen gegen die Ausbreitung.\n\nErschien bei Scholastic für C64, Apple II, Atari und IBM-PC auf Kassette und Diskette. Gesteuert wird per Joystick. Neben dem Original gibt es eine OneLoad64-Modulumsetzung, die ohne Nachladen auskommt.\n\nEntwicklung: Tom Snyder Productions · Code: Leonard Bertoni",
+    "en": "Agent USA is an educational game about the geography of the United States. A Fuzzbomb turns people into mindless “Fuzzbodies”, and the change spreads from city to city. As the agent, the player travels the country by train, reads timetables, keeps track of time zones and collects crystals that turn victims back. Information booths in the state capitals reveal where the bomb is. The game teaches cities, rail links and time zones along the way through a race against the spreading infection.\n\nReleased by Scholastic for the C64, Apple II, Atari and IBM PC on tape and disk. It is controlled with a joystick. Besides the original, there is a OneLoad64 cartridge conversion that needs no loading breaks.\n\nDevelopment: Tom Snyder Productions · Code: Leonard Bertoni"
+  },
+  "images": {
+    "ss": "images/f9/f9f3e73d3b7db9c2a60b3d6843bef444f9f75d52.png",
+    "sstitle": "images/79/79e79d7df48e0a5b80d7a6e43f3b3034b200b997.png"
+  }
+}

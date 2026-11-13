@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "130ac55567f89de2d5c673b865a2e0dd4d13720b",
+  "md5": "5a1d6c7339ce956b4ea9bf87835e715d",
+  "crc32": "ae4ae4cd",
+  "size": 180640,
+  "format": "CRT",
+  "files": [
+    "Salamander (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "110613",
+  "title": "Salamander",
+  "year": "1988",
+  "publisher": "Imagine",
+  "developer": "Peter Baron",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Konamis Automat schickt ein Raumschiff durch das Innere eines lebenden Organismus und andere fremdartige Welten. Eingesammelte Kapseln rüsten die Waffen direkt auf, und Begleitkugeln verstärken die Feuerkraft. Die Besonderheit sind die wechselnden Abschnitte: Mal scrollt das Bild waagerecht, mal senkrecht. Salamander ist ein Ableger von Gradius und gehört zu den bekanntesten Shoot'em ups der späten 1980er-Jahre.\n\nDie C64-Umsetzung von Peter Baron erschien 1988 bei Imagine; in den USA brachte Konami sie unter dem Titel „Lifeforce“ heraus. Zeitgenössische Tests lobten die große Nähe zum Automaten, bemängelten aber das Nachladen zwischen den Abschnitten. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870, die das Nachladen erspart.\n\nCode: Peter Baron · Grafik: Bob Stevenson · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Konamis Automat schickt ein Raumschiff durch das Innere eines lebenden Organismus und andere fremdartige Welten. Eingesammelte Kapseln rüsten die Waffen direkt auf, und Begleitkugeln verstärken die Feuerkraft. Die Besonderheit sind die wechselnden Abschnitte: Mal scrollt das Bild waagerecht, mal senkrecht. Salamander ist ein Ableger von Gradius und gehört zu den bekanntesten Shoot'em ups der späten 1980er-Jahre.\n\nDie C64-Umsetzung von Peter Baron erschien 1988 bei Imagine; in den USA brachte Konami sie unter dem Titel „Lifeforce“ heraus. Zeitgenössische Tests lobten die große Nähe zum Automaten, bemängelten aber das Nachladen zwischen den Abschnitten. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870, die das Nachladen erspart.\n\nCode: Peter Baron · Grafik: Bob Stevenson · Musik: Mark Cooksey",
+    "en": "Konami's arcade game sends a spaceship through the inside of a living organism and other alien worlds. Collected capsules upgrade the weapons directly, and option orbs add firepower. Its hallmark is the changing stages: sometimes the screen scrolls horizontally, sometimes vertically. Salamander is a spin-off of Gradius and one of the best-known shoot 'em ups of the late 1980s.\n\nPeter Baron's C64 conversion was published by Imagine in 1988; in the US Konami released it as \"Lifeforce\". Contemporary reviews praised how close it came to the arcade game but criticised the loading between stages. It is played with a joystick in port 2. There are also EasyFlash conversions, including a MultiLoad64 version by $olo1870 that does away with loading.\n\nCode: Peter Baron · Graphics: Bob Stevenson · Music: Mark Cooksey"
+  },
+  "images": {
+    "sstitle": "images/fc/fc244a7ab1f872ae8e83d9dc3ef46c9abd4eee8e.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "2b64a17ca3dcd6c645414a3d0aba7d5473cb96f8",
+  "md5": "1477bf63d22aabe1a15d13b94dbb2894",
+  "crc32": "fe9b5ebe",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Kikstart.crt"
+  ],
+  "screenscraper_id": "36602",
+  "title": "Kikstart",
+  "year": "1984",
+  "publisher": "Mr. Chip Software",
+  "developer": "Shaun Southern",
+  "genres": [
+    "Rennen",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Zwei Motorradfahrer treten auf Hindernisstrecken gegeneinander an, angelehnt an die BBC-Fernsehsendung Kick Start. Jedes Hindernis verlangt die passende Geschwindigkeit oder einen Wheelie; wer zu schnell oder zu langsam ankommt, stürzt und verliert Zeit. Im geteilten Bild fahren zwei Spieler gleichzeitig, allein geht es gegen den Computer. Als Billigspiel bei Mastertronic wurde Kikstart einer der meistverkauften C64-Titel des Labels.\n\nMr. Chip Software brachte Kikstart 1984 zuerst selbst heraus, Mastertronic legte es 1985 mit dem Zusatz „Off-Road Simulator“ als Billigspiel auf Kassette neu auf. Gesteuert wird mit dem Joystick, zu zweit mit zwei Joysticks. Die Melodie ist eine einstimmige Fassung der Erkennungsmelodie der BBC-Sendung. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Shaun Southern · Grafik: Andrew Morris",
+  "texts": {
+    "de": "Zwei Motorradfahrer treten auf Hindernisstrecken gegeneinander an, angelehnt an die BBC-Fernsehsendung Kick Start. Jedes Hindernis verlangt die passende Geschwindigkeit oder einen Wheelie; wer zu schnell oder zu langsam ankommt, stürzt und verliert Zeit. Im geteilten Bild fahren zwei Spieler gleichzeitig, allein geht es gegen den Computer. Als Billigspiel bei Mastertronic wurde Kikstart einer der meistverkauften C64-Titel des Labels.\n\nMr. Chip Software brachte Kikstart 1984 zuerst selbst heraus, Mastertronic legte es 1985 mit dem Zusatz „Off-Road Simulator“ als Billigspiel auf Kassette neu auf. Gesteuert wird mit dem Joystick, zu zweit mit zwei Joysticks. Die Melodie ist eine einstimmige Fassung der Erkennungsmelodie der BBC-Sendung. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Shaun Southern · Grafik: Andrew Morris",
+    "en": "Two motorbike riders compete on obstacle courses, inspired by the BBC TV show Kick Start. Each obstacle needs the right speed or a wheelie; arriving too fast or too slow means a crash and lost time. On a split screen two players ride at the same time, while a single player races the computer. As a Mastertronic budget release, Kikstart became one of the label's best-selling C64 titles.\n\nMr. Chip Software first released Kikstart itself in 1984; Mastertronic reissued it in 1985 on tape as a budget title with the subtitle \"Off-Road Simulator\". It is played with a joystick, two joysticks for two players. The tune is a single-voice version of the BBC show's theme. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Shaun Southern · Graphics: Andrew Morris"
+  },
+  "images": {
+    "sstitle": "images/19/19f5d48377d8d83178938ab97a843a54cd18ea0d.png"
+  }
+}

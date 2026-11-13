@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "15462d77a8380778abbd1b9eedfd064c213d8721",
+  "md5": "a794ece1e323ab49bc696aef98fa0fce",
+  "crc32": "e6d54938",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Skate Crazy - Car Park Challenge.crt"
+  ],
+  "screenscraper_id": "110855",
+  "title": "Skate Crazy",
+  "year": "1988",
+  "publisher": "Gremlin Graphics",
+  "developer": "Gremlin Graphics (Derby)",
+  "genres": [
+    "Sport",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Skate Crazy ist ein Rollschuhspiel in zwei Teilen mit je vier Abschnitten. In der „Car Park Challenge“ fährt man durch ein in alle Richtungen scrollendes Parkhaus, durchquert blinkende Tore vor Ablauf der Zeit und sammelt Punkte mit Sprüngen, die eine Jury bewertet, sowie mit umgestoßenen Dosen und aufgesammeltem Müll. Der „Championship Course“ ist ein seitlich scrollendes Rennen mit Hindernissen unter knappem Zeitlimit, in dem gesammelter Müll gegen bessere Ausrüstung getauscht oder nach Störenfrieden geworfen werden kann. Die beiden unterschiedlichen Spielarten sorgen für Abwechslung.\n\nGremlin Graphics veröffentlichte die C64-Fassung auf Kassette (beide Teile auf je einer Seite) und Diskette; in den USA vertrieb Mastertronic das Spiel. Später entstanden Modulumsetzungen der Szene, teils je Teil getrennt. Gesteuert wird mit dem Joystick in Port 2. Die C64-Fassung entstand als einzige im Büro von Gremlin in Derby.\n\nCode: Chris Shrigley · Grafik: Simon Phipps · Musik: Ben Daglish",
+  "texts": {
+    "de": "Skate Crazy ist ein Rollschuhspiel in zwei Teilen mit je vier Abschnitten. In der „Car Park Challenge“ fährt man durch ein in alle Richtungen scrollendes Parkhaus, durchquert blinkende Tore vor Ablauf der Zeit und sammelt Punkte mit Sprüngen, die eine Jury bewertet, sowie mit umgestoßenen Dosen und aufgesammeltem Müll. Der „Championship Course“ ist ein seitlich scrollendes Rennen mit Hindernissen unter knappem Zeitlimit, in dem gesammelter Müll gegen bessere Ausrüstung getauscht oder nach Störenfrieden geworfen werden kann. Die beiden unterschiedlichen Spielarten sorgen für Abwechslung.\n\nGremlin Graphics veröffentlichte die C64-Fassung auf Kassette (beide Teile auf je einer Seite) und Diskette; in den USA vertrieb Mastertronic das Spiel. Später entstanden Modulumsetzungen der Szene, teils je Teil getrennt. Gesteuert wird mit dem Joystick in Port 2. Die C64-Fassung entstand als einzige im Büro von Gremlin in Derby.\n\nCode: Chris Shrigley · Grafik: Simon Phipps · Musik: Ben Daglish",
+    "en": "Skate Crazy is a roller-skating game in two parts with four levels each. In the \"Car Park Challenge\" the player skates through a car park that scrolls in all directions, passing flashing gates before time runs out and scoring points for jumps rated by a panel of judges, as well as for knocking over cans and picking up litter. The \"Championship Course\" is a side-scrolling race over obstacles with a tight time limit, in which collected litter can be traded for better equipment or thrown at troublemakers. The two different styles of play provide variety.\n\nGremlin Graphics released the C64 version on cassette (one part on each side) and disk; in the USA it was distributed by Mastertronic. Cartridge conversions from the scene followed later, some with each part separate. It is played with a joystick in port 2. The C64 version was the only one developed at Gremlin's Derby office.\n\nCode: Chris Shrigley · Graphics: Simon Phipps · Music: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/30/307f845614474357c9b3de289b1582ab4dec065f.png",
+    "sstitle": "images/cc/cc95a7b55df49106d6ae82f95df77e4969b1051d.png"
+  }
+}

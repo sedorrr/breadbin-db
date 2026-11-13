@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3518a907cf1598d25803f554a69ed118eb72a3e2",
+  "md5": "bebb742886934ccee544f02c1f697fbd",
+  "crc32": "59f718f0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SNARE1.D64"
+  ],
+  "screenscraper_id": "491543",
+  "title": "Snare",
+  "year": "1989",
+  "publisher": "Thalamus",
+  "developer": "Robert Stevens",
+  "genres": [
+    "Action / Labyrinth",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Ein bewaffneter Gleiter muss durch labyrinthartige Ebenen aus Bodenplatten den Teleporter zum nächsten Level finden. Löcher im Boden, Roboterwächter und feindliche Patrouillen stehen im Weg; der Gleiter kann über Hindernisse springen und hinter sich eine Mauer hochziehen. Auffällig ist die Darstellung: Bei jedem Richtungswechsel dreht sich der Bildschirm um 90 Grad, sodass der Gleiter stets nach oben fährt. Das verlangt räumliches Vorstellungsvermögen und genaues Timing.\n\nSnare erschien 1989 bei Thalamus auf Diskette und Kassette. Später entstanden Fassungen ohne Nachladen. Gesteuert wird mit dem Joystick. Das Titelbild der Verpackung malte Oliver Frey.\n\nCode: Robert Stevens · Grafik: Robert Stevens · Musik: Martin Walker",
+  "texts": {
+    "de": "Ein bewaffneter Gleiter muss durch labyrinthartige Ebenen aus Bodenplatten den Teleporter zum nächsten Level finden. Löcher im Boden, Roboterwächter und feindliche Patrouillen stehen im Weg; der Gleiter kann über Hindernisse springen und hinter sich eine Mauer hochziehen. Auffällig ist die Darstellung: Bei jedem Richtungswechsel dreht sich der Bildschirm um 90 Grad, sodass der Gleiter stets nach oben fährt. Das verlangt räumliches Vorstellungsvermögen und genaues Timing.\n\nSnare erschien 1989 bei Thalamus auf Diskette und Kassette. Später entstanden Fassungen ohne Nachladen. Gesteuert wird mit dem Joystick. Das Titelbild der Verpackung malte Oliver Frey.\n\nCode: Robert Stevens · Grafik: Robert Stevens · Musik: Martin Walker",
+    "en": "An armed hovercraft has to find its way through maze-like levels made of floor tiles to reach the teleporter to the next stage. Holes in the floor, robot guards and enemy patrols stand in the way; the craft can jump over obstacles and raise a wall behind it. The presentation stands out: with every change of direction the screen rotates by 90 degrees, so that the craft always travels upwards. This demands spatial awareness and precise timing.\n\nSnare was released by Thalamus in 1989 on disk and cassette. Single-load versions appeared later. It is played with a joystick. The cover artwork was painted by Oliver Frey.\n\nCode: Robert Stevens · Graphics: Robert Stevens · Music: Martin Walker"
+  },
+  "images": {
+    "sstitle": "images/fe/fe0d7d6b5ffeb1bf208195f191f2aa08b1849098.png"
+  }
+}

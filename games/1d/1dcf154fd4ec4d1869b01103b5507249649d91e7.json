@@ -21,5 +21,9 @@
   "texts": {
     "de": "Ein amerikanisches Jagdflugzeug kämpft sich im Pazifikkrieg über senkrecht scrollendes Meer und Inseln. Wellen japanischer Flugzeuge greifen in Formationen an; abgeschossene rote Staffeln hinterlassen Extras wie stärkere Bewaffnung oder Begleitflugzeuge. Mit einem Looping lässt sich feindlichem Beschuss für einen Moment ausweichen. Capcoms Automat von 1984 begründete eine lange Reihe von Weltkriegs-Ballerspielen.\n\nElite brachte die C64-Umsetzung 1986 auf Kassette und Diskette heraus; sie ist von zwei Ausgaben mit unterschiedlicher Titelmusik bekannt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Stephen Green · Grafik: Stephen Green · Musik: Mark Cooksey",
     "en": "An American fighter plane fights its way over vertically scrolling sea and islands in the Pacific War. Waves of Japanese aircraft attack in formation; shot-down red squadrons leave behind power-ups such as stronger weapons or escort planes. A loop allows enemy fire to be evaded for a moment. Capcom's 1984 arcade game founded a long series of World War shooters.\n\nElite released the C64 conversion in 1986 on cassette and disk; it is known in two editions with different title music. Controlled with the joystick in port 2.\n\nCode: Stephen Green · Graphics: Stephen Green · Music: Mark Cooksey"
+  },
+  "images": {
+    "ss": "images/5f/5fed79268d5c0536d70503e2578e9b5d97178fdd.png",
+    "sstitle": "images/95/950b86201cab2177cddc884fbad3ec25ebf5aeb9.png"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "35945b3584fd1c7b42efa001ac512122e9b6ce16",
+  "md5": "cacdca02babafc9b1e17687aea19bdaa",
+  "crc32": "c1810662",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GEEBEE.D64"
+  ],
+  "screenscraper_id": "36618",
+  "title": "Gee Bee Air Rally",
+  "year": "1987",
+  "publisher": "Activision",
+  "developer": "Steve Cartwright, Gene Smith",
+  "genres": [
+    "Rennen",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "In der Zeit der Luftrennen der 1920er- und frühen 1930er-Jahre steuert man ein kleines gelbes Rennflugzeug nach dem Vorbild des Gee Bee Super Sportster. Jedes Rennen besteht aus drei Wettflügen gegen andere Maschinen und einer Sonderprüfung, bei der abwechselnd Ballons zerplatzt oder Pylonen auf der richtigen Seite umflogen werden müssen. Zusammenstöße mit anderen Flugzeugen sind die größte Gefahr; nach zwei Treffern steigt der Pilot mit dem Fallschirm aus und landet in einer komischen Zwischenszene etwa in einem Schweinestall. Drei Schwierigkeitsstufen stehen zur Wahl.\n\nDie C64-Fassung erschien 1987 bei Activision auf Diskette und Kassette; später folgten Fassungen für Amiga, Amstrad CPC und ZX Spectrum. Gesteuert wird per Joystick in Port 2.\n\nCode: Steve Cartwright, Gene Smith · Grafik: Mike Nowak · Musik: Russell Lieblich",
+  "texts": {
+    "de": "In der Zeit der Luftrennen der 1920er- und frühen 1930er-Jahre steuert man ein kleines gelbes Rennflugzeug nach dem Vorbild des Gee Bee Super Sportster. Jedes Rennen besteht aus drei Wettflügen gegen andere Maschinen und einer Sonderprüfung, bei der abwechselnd Ballons zerplatzt oder Pylonen auf der richtigen Seite umflogen werden müssen. Zusammenstöße mit anderen Flugzeugen sind die größte Gefahr; nach zwei Treffern steigt der Pilot mit dem Fallschirm aus und landet in einer komischen Zwischenszene etwa in einem Schweinestall. Drei Schwierigkeitsstufen stehen zur Wahl.\n\nDie C64-Fassung erschien 1987 bei Activision auf Diskette und Kassette; später folgten Fassungen für Amiga, Amstrad CPC und ZX Spectrum. Gesteuert wird per Joystick in Port 2.\n\nCode: Steve Cartwright, Gene Smith · Grafik: Mike Nowak · Musik: Russell Lieblich",
+    "en": "Set in the air racing era of the 1920s and early 1930s, the player flies a small yellow racing plane modelled on the Gee Bee Super Sportster. Each race consists of three heats against other aircraft and a special event that alternates between popping balloons and rounding pylons on the correct side. Collisions with other planes are the biggest danger; after two hits the pilot bails out by parachute and lands in a comic cut scene, in a pigsty for example. Three difficulty levels are available.\n\nThe C64 version was released by Activision in 1987 on disk and tape; versions for the Amiga, Amstrad CPC and ZX Spectrum followed. It is controlled with a joystick in port 2.\n\nCode: Steve Cartwright, Gene Smith · Graphics: Mike Nowak · Music: Russell Lieblich"
+  },
+  "images": {
+    "ss": "images/a6/a61dcba8d142fb788c380c47d9bdddd6f8d3bfde.png",
+    "sstitle": "images/7c/7c5756569d28a36d83eb48fb4c17b9ec05d31db4.png"
+  }
+}

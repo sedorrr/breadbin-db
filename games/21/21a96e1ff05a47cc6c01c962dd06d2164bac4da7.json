@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "21a96e1ff05a47cc6c01c962dd06d2164bac4da7",
+  "md5": "473d285897e72b0dfa3ba12338297071",
+  "crc32": "759bcd62",
+  "size": 467840,
+  "format": "TAP",
+  "files": [
+    "Heartland.tap"
+  ],
+  "screenscraper_id": "112799",
+  "title": "Heartland",
+  "year": "1986",
+  "publisher": "Odin Computer Graphics",
+  "developer": "Odin Computer Graphics (C64: Keith Robinson)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Zauberer Eldritch soll vier verschollene Seiten eines Zauberbuchs finden und vier dunkle Seiten zerstören, die der böse Midan geschaffen hat. Die Welt besteht aus fünf Stufen mit insgesamt 254 Räumen, die bildweise umschalten. In den Räumen schweben Waffen, Gegner müssen gemieden oder vernichtet werden, und Aufzüge, Tore und ein Bett führen in andere Bereiche. Jede Stufe hat ein Zeitlimit von einigen Minuten, und pro Stufe muss mindestens eine Buchseite gefunden werden. Das Spiel fiel durch seine detaillierte Grafik im Stil eines Bilderbuchs auf.\n\nDie C64-Fassung erschien 1986 bei Odin auf Kassette und Diskette; die Spielszenen sind einfarbig in hoher Auflösung gezeichnet. Gesteuert wird per Joystick in Port 2 oder per Tastatur. Neben dem Original gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Keith Robinson · Grafik: Colin Grunes · Musik: Keith Tinman",
+  "texts": {
+    "de": "Der Zauberer Eldritch soll vier verschollene Seiten eines Zauberbuchs finden und vier dunkle Seiten zerstören, die der böse Midan geschaffen hat. Die Welt besteht aus fünf Stufen mit insgesamt 254 Räumen, die bildweise umschalten. In den Räumen schweben Waffen, Gegner müssen gemieden oder vernichtet werden, und Aufzüge, Tore und ein Bett führen in andere Bereiche. Jede Stufe hat ein Zeitlimit von einigen Minuten, und pro Stufe muss mindestens eine Buchseite gefunden werden. Das Spiel fiel durch seine detaillierte Grafik im Stil eines Bilderbuchs auf.\n\nDie C64-Fassung erschien 1986 bei Odin auf Kassette und Diskette; die Spielszenen sind einfarbig in hoher Auflösung gezeichnet. Gesteuert wird per Joystick in Port 2 oder per Tastatur. Neben dem Original gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Keith Robinson · Grafik: Colin Grunes · Musik: Keith Tinman",
+    "en": "The wizard Eldritch has to find four missing pages of a spellbook and destroy four dark pages created by the evil Midan. The world spans five levels with a total of 254 flip-screen rooms. Weapons float in the rooms, enemies must be avoided or destroyed, and lifts, gates and a bed lead to other areas. Each level has a time limit of a few minutes, and at least one book page must be found per level. The game stood out for its detailed, storybook-style graphics.\n\nThe C64 version was released by Odin in 1986 on tape and disk; the game screens are drawn in high-resolution monochrome. It is controlled with a joystick in port 2 or the keyboard. Besides the original there is a OneLoad64 cartridge conversion.\n\nCode: Keith Robinson · Graphics: Colin Grunes · Music: Keith Tinman"
+  },
+  "images": {
+    "ss": "images/33/33018beeeb0cc2975757404f15830c75c33fa7da.png",
+    "sstitle": "images/9b/9b00c0785fbec3b4dbd0140da7ad3b3d343daf3e.png"
+  }
+}

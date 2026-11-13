@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0918b926fc7214301fb893d89cac82a0be951eb0",
+  "md5": "8e885a90ad6d9382cd779d2c615bca3e",
+  "crc32": "c70d9441",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "NATOCMDR.D64"
+  ],
+  "screenscraper_id": "115627",
+  "title": "NATO Commander",
+  "year": "1983",
+  "publisher": "MicroProse",
+  "developer": "Sid Meier",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Echtzeit-Strategiespiel von Sid Meier: Der Spieler übernimmt als Oberbefehlshaber der NATO die Verteidigung Westeuropas gegen einen großangelegten Angriff des Warschauer Pakts. Auf einer scrollenden Karte werden Divisionen bewegt, Luftangriffe angeordnet und Nachschub verteilt; eine Sekunde entspricht dabei fünf Minuten Spielzeit. Politische Faktoren wie die Moral der Verbündeten und die Drohung mit Atomwaffen spielen ebenfalls hinein. Das Spiel war eines der frühen MicroProse-Titel und lieferte die Grundlage für spätere Kriegsspiele wie Crusade in Europe und Decision in the Desert.\n\nDas Original erschien 1983 für die Atari-8-Bit-Computer, die C64-Fassung folgte kurz darauf auf Diskette, in Europa auch bei U.S. Gold. Gesteuert wird per Joystick in Port 2 und über die Tastatur.\n\nDesign: Sid Meier",
+  "texts": {
+    "de": "Echtzeit-Strategiespiel von Sid Meier: Der Spieler übernimmt als Oberbefehlshaber der NATO die Verteidigung Westeuropas gegen einen großangelegten Angriff des Warschauer Pakts. Auf einer scrollenden Karte werden Divisionen bewegt, Luftangriffe angeordnet und Nachschub verteilt; eine Sekunde entspricht dabei fünf Minuten Spielzeit. Politische Faktoren wie die Moral der Verbündeten und die Drohung mit Atomwaffen spielen ebenfalls hinein. Das Spiel war eines der frühen MicroProse-Titel und lieferte die Grundlage für spätere Kriegsspiele wie Crusade in Europe und Decision in the Desert.\n\nDas Original erschien 1983 für die Atari-8-Bit-Computer, die C64-Fassung folgte kurz darauf auf Diskette, in Europa auch bei U.S. Gold. Gesteuert wird per Joystick in Port 2 und über die Tastatur.\n\nDesign: Sid Meier",
+    "en": "A real-time strategy game by Sid Meier: as NATO's supreme commander, the player takes charge of defending Western Europe against a large-scale Warsaw Pact attack. On a scrolling map, divisions are moved, air strikes ordered and supplies distributed, with one second representing five minutes of game time. Political factors such as allied morale and the threat of nuclear weapons also come into play. It was one of MicroProse's early titles and provided the basis for later wargames such as Crusade in Europe and Decision in the Desert.\n\nThe original was released in 1983 for Atari 8-bit computers; the C64 version followed shortly afterwards on disk, in Europe also from U.S. Gold. Controlled by joystick in port 2 and keyboard.\n\nDesign: Sid Meier"
+  },
+  "images": {
+    "ss": "images/a9/a9348f2abec7fc8f24cbb600192d19971612527a.png",
+    "sstitle": "images/52/52d510ed1c2ff0a726dead145c0a031b1a7cc1c7.png"
+  }
+}

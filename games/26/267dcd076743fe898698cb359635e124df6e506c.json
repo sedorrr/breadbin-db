@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "267dcd076743fe898698cb359635e124df6e506c",
+  "md5": "007fa4f628ecb180172f60c5e8f6a2a2",
+  "crc32": "7dcd35d6",
+  "size": 197056,
+  "format": "CRT",
+  "files": [
+    "Vendetta.crt"
+  ],
+  "screenscraper_id": "110121",
+  "title": "Vendetta",
+  "year": "1990",
+  "publisher": "System 3",
+  "developer": "System 3",
+  "genres": [
+    "Action / Abenteuer",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Ein namenloser Held hat eine Stunde Zeit, um seine von Terroristen entführte Nichte zu befreien und den Anführer der Gruppe auszuschalten. Vier Abschnitte sind Action-Adventure in schräger Ansicht, in denen er kämpft, Gegenstände sammelt und kombiniert; dazwischen liegen Fahrabschnitte mit dem Auto, in denen Hubschrauber und Polizeisperren abgewehrt werden. Grafik und Bedienung erinnern an die Last-Ninja-Reihe desselben Herstellers, der Held hat jedoch nur ein Leben.\n\nSystem 3 veröffentlichte Vendetta 1990 auf Diskette (vier Diskettenseiten) und Kassette, außerdem auf Steckmodul; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2, ergänzt durch die Tastatur.\n\nCode: Stanley Schembri · Grafik: Tony Hager, Paul Docherty · Musik: Matt Gray",
+  "texts": {
+    "de": "Ein namenloser Held hat eine Stunde Zeit, um seine von Terroristen entführte Nichte zu befreien und den Anführer der Gruppe auszuschalten. Vier Abschnitte sind Action-Adventure in schräger Ansicht, in denen er kämpft, Gegenstände sammelt und kombiniert; dazwischen liegen Fahrabschnitte mit dem Auto, in denen Hubschrauber und Polizeisperren abgewehrt werden. Grafik und Bedienung erinnern an die Last-Ninja-Reihe desselben Herstellers, der Held hat jedoch nur ein Leben.\n\nSystem 3 veröffentlichte Vendetta 1990 auf Diskette (vier Diskettenseiten) und Kassette, außerdem auf Steckmodul; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2, ergänzt durch die Tastatur.\n\nCode: Stanley Schembri · Grafik: Tony Hager, Paul Docherty · Musik: Matt Gray",
+    "en": "A nameless hero has one hour to free his niece, kidnapped by terrorists, and take out the group's leader. Four stages are action adventure in an angled view, in which he fights, collects and combines items; in between come driving stages where helicopters and police roadblocks have to be dealt with. Graphics and controls recall the same publisher's Last Ninja series, but the hero has only one life.\n\nSystem 3 released Vendetta in 1990 on disk (four disk sides) and cassette, and also on cartridge; EasyFlash conversions from the scene exist as well. It is played with a joystick in port 2, supplemented by the keyboard.\n\nCode: Stanley Schembri · Graphics: Tony Hager, Paul Docherty · Music: Matt Gray"
+  },
+  "images": {
+    "sstitle": "images/52/526c9d2c0b8721b13d8f92b5be3d9c71faec01c4.png"
+  }
+}

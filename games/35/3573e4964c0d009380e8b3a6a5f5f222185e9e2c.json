@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "3573e4964c0d009380e8b3a6a5f5f222185e9e2c",
+  "md5": "ead014e679b6fb4921cb6b0ad2893b47",
+  "crc32": "28661767",
+  "size": 213472,
+  "format": "CRT",
+  "files": [
+    "Dragons Lair (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35869",
+  "title": "Dragon's Lair",
+  "year": "1986",
+  "publisher": "Software Projects",
+  "developer": "Software Projects (John Darnell, Colin Porch)",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Der Ritter Dirk der Kühne dringt in die Burg des Drachen Singe ein, um Prinzessin Daphne zu befreien. Statt des Zeichentrickfilms aus dem Laserdisc-Automaten bietet die C64-Fassung eine Reihe eigenständiger Geschicklichkeitsabschnitte, die an Szenen des Vorbilds angelehnt sind, etwa eine Fahrt auf einer schwebenden Scheibe, Sprünge über Abgründe oder Ausweichen vor rollenden Schädeln. Jeder Abschnitt verlangt genaues Timing und lässt sich nach einigen Versuchen auswendig lernen. Am Ende wartet der Drache selbst.\n\nDie C64-Umsetzung erschien 1986 bei Software Projects auf Kassette und Diskette und lädt die Abschnitte nach; in den USA vertrieb Electronic Arts das Spiel. Eine Fortsetzung kam als „Escape from Singe's Castle“. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul (MultiLoad64 von $olo1870).\n\nCode: John Darnell, Colin Porch · Grafik: Nicole Baikaloff · Musik: Colin Porch",
+  "texts": {
+    "de": "Der Ritter Dirk der Kühne dringt in die Burg des Drachen Singe ein, um Prinzessin Daphne zu befreien. Statt des Zeichentrickfilms aus dem Laserdisc-Automaten bietet die C64-Fassung eine Reihe eigenständiger Geschicklichkeitsabschnitte, die an Szenen des Vorbilds angelehnt sind, etwa eine Fahrt auf einer schwebenden Scheibe, Sprünge über Abgründe oder Ausweichen vor rollenden Schädeln. Jeder Abschnitt verlangt genaues Timing und lässt sich nach einigen Versuchen auswendig lernen. Am Ende wartet der Drache selbst.\n\nDie C64-Umsetzung erschien 1986 bei Software Projects auf Kassette und Diskette und lädt die Abschnitte nach; in den USA vertrieb Electronic Arts das Spiel. Eine Fortsetzung kam als „Escape from Singe's Castle“. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul (MultiLoad64 von $olo1870).\n\nCode: John Darnell, Colin Porch · Grafik: Nicole Baikaloff · Musik: Colin Porch",
+    "en": "The knight Dirk the Daring storms the castle of the dragon Singe to rescue Princess Daphne. Instead of the animated film of the laserdisc arcade machine, the C64 version offers a series of standalone skill stages loosely based on scenes from the original, such as riding a floating disc, jumping over chasms or dodging rolling skulls. Every stage demands precise timing and can be learned by heart after a few attempts. The dragon himself waits at the end.\n\nThe C64 conversion was released by Software Projects in 1986 on tape and disk and loads its stages in parts; in the USA it was distributed by Electronic Arts. A sequel followed as \"Escape from Singe's Castle\". It is controlled with a joystick in port 2. Besides the original there are EasyFlash cartridge conversions (MultiLoad64 by $olo1870).\n\nCode: John Darnell, Colin Porch · Graphics: Nicole Baikaloff · Music: Colin Porch"
+  }
+}

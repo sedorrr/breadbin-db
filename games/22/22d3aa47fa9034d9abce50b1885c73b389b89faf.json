@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "22d3aa47fa9034d9abce50b1885c73b389b89faf",
+  "md5": "5d67f795d6b1c7af37939627d1dd5aba",
+  "crc32": "4d53c3c1",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Garfield - Big Fat Hairy Deal.crt"
+  ],
+  "screenscraper_id": "36107",
+  "title": "Garfield: Big, Fat, Hairy Deal",
+  "year": "1988",
+  "publisher": "The Edge",
+  "developer": "Steve Cargill (Entwurf)",
+  "genres": [
+    "Abenteuer",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Garfields Freundin Arlene ist ins Tierheim gebracht worden, und der faule Kater muss sie befreien. Dazu streift er durch Haus, Straßen und Stadt, sammelt Gegenstände und setzt sie an der richtigen Stelle ein. Odie und andere Figuren aus Jim Davis' Comic tauchen dabei auf. Garfields Energie sinkt ständig und muss mit Essen aufgefüllt werden, sonst schläft er ein. Die großen, comicgetreuen Figuren waren für die Zeit bemerkenswert.\n\nDas Spiel erschien 1987 bei The Edge zuerst für ZX Spectrum und Amstrad CPC; die C64-Fassung kam laut GameBase 1988 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nMusik (C64): Neil Baldwin",
+  "texts": {
+    "de": "Garfields Freundin Arlene ist ins Tierheim gebracht worden, und der faule Kater muss sie befreien. Dazu streift er durch Haus, Straßen und Stadt, sammelt Gegenstände und setzt sie an der richtigen Stelle ein. Odie und andere Figuren aus Jim Davis' Comic tauchen dabei auf. Garfields Energie sinkt ständig und muss mit Essen aufgefüllt werden, sonst schläft er ein. Die großen, comicgetreuen Figuren waren für die Zeit bemerkenswert.\n\nDas Spiel erschien 1987 bei The Edge zuerst für ZX Spectrum und Amstrad CPC; die C64-Fassung kam laut GameBase 1988 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nMusik (C64): Neil Baldwin",
+    "en": "Garfield's girlfriend Arlene has been taken to the pound, and the lazy cat has to free her. To do so he roams the house, streets and town, collecting items and using them in the right places. Odie and other characters from Jim Davis' comic strip turn up along the way. Garfield's energy keeps draining and has to be topped up with food, or he falls asleep. The large, faithful comic-style characters were remarkable for the time.\n\nThe game was released by The Edge in 1987, first for the ZX Spectrum and Amstrad CPC; according to GameBase the C64 version followed in 1988 on tape and disk. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nMusic (C64): Neil Baldwin"
+  },
+  "images": {
+    "ss": "images/61/61c3e1fa10552fcc6394b30a6f44d50ef26695ca.png",
+    "sstitle": "images/89/89225502913b2dec60fe3e7466ced0fbd25de234.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "2eb647f695ed8040f1a56ec7ec2e19cacf1a5828",
+  "md5": "23191837bb5cc99bc4120aa2889852c9",
+  "crc32": "cc2bc786",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WITNESS2.D64"
+  ],
+  "screenscraper_id": "110077",
+  "title": "The Witness",
+  "year": "1983",
+  "publisher": "Infocom",
+  "developer": "Stu Galley (Infocom)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Los Angeles im Jahr 1938: Der Industrielle Freeman Linder bittet einen Polizeidetektiv in sein Haus, weil er sich bedroht fühlt – und wird kurz darauf vor dessen Augen erschossen. Der Spieler muss in einer Nacht herausfinden, wer hinter der Tat steckt, Spuren sichern, die Hausbewohner befragen und den Täter mit Beweisen überführen. Die Figuren handeln nach eigenem Zeitplan, und vieles hängt davon ab, sie im richtigen Moment zu beobachten. Der knappe Stil erinnert an die Kriminalromane der dreißiger Jahre.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; beigelegt waren unter anderem eine Zeitung und ein Telegramm im Stil der Zeit. Gespielt wird über die Tastatur.\n\nAutor: Stu Galley",
+  "texts": {
+    "de": "Los Angeles im Jahr 1938: Der Industrielle Freeman Linder bittet einen Polizeidetektiv in sein Haus, weil er sich bedroht fühlt – und wird kurz darauf vor dessen Augen erschossen. Der Spieler muss in einer Nacht herausfinden, wer hinter der Tat steckt, Spuren sichern, die Hausbewohner befragen und den Täter mit Beweisen überführen. Die Figuren handeln nach eigenem Zeitplan, und vieles hängt davon ab, sie im richtigen Moment zu beobachten. Der knappe Stil erinnert an die Kriminalromane der dreißiger Jahre.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; beigelegt waren unter anderem eine Zeitung und ein Telegramm im Stil der Zeit. Gespielt wird über die Tastatur.\n\nAutor: Stu Galley",
+    "en": "Los Angeles, 1938: industrialist Freeman Linder asks a police detective to his home because he feels threatened – and is shot dead in front of him shortly afterwards. In a single night the player must find out who is behind the crime, secure evidence, question the household and convict the culprit with proof. The characters follow their own schedules, and much depends on observing them at the right moment. The terse style recalls the crime novels of the 1930s.\n\nReleased as a pure text adventure by Infocom for numerous systems, including the C64 on disk; the package included, among other things, a period newspaper and a telegram. It is played with the keyboard.\n\nAuthor: Stu Galley"
+  }
+}

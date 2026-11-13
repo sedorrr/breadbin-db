@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "054d00d8166370453fffa8c69cb42af60a642108",
+  "md5": "d5900b3c09c2ff9abca061fbe86f0db5",
+  "crc32": "003a31af",
+  "size": 394048,
+  "format": "CRT",
+  "files": [
+    "Back to the Future Part III (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35966",
+  "title": "Back to the Future Part III",
+  "year": "1991",
+  "publisher": "Image Works",
+  "developer": "Probe Software",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Back to the Future Part III ist das Spiel zum dritten Film und spielt im Wilden Westen des Jahres 1885. Es besteht aus vier sehr unterschiedlichen Abschnitten: Doc Brown rettet zu Pferd Clara vor einer durchgehenden Kutsche, Marty beweist sich an einer Schießbude auf dem Jahrmarkt, wehrt sich mit Kuchentellern gegen Buford Tannens Bande und bringt schließlich auf der Lokomotive den DeLorean auf Geschwindigkeit. Jeder Abschnitt ist ein eigenes kleines Actionspiel. Für ein Filmspiel wurde es auf dem C64 vergleichsweise gut aufgenommen.\n\nDie C64-Fassung erschien 1991 bei Image Works, entwickelt von Probe Software, auf Diskette und Kassette. Es gibt mehrere EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Simon Nicol · Grafik: Hugh Riley · Musik: Charles Deenen, Jeroen Tel",
+  "texts": {
+    "de": "Back to the Future Part III ist das Spiel zum dritten Film und spielt im Wilden Westen des Jahres 1885. Es besteht aus vier sehr unterschiedlichen Abschnitten: Doc Brown rettet zu Pferd Clara vor einer durchgehenden Kutsche, Marty beweist sich an einer Schießbude auf dem Jahrmarkt, wehrt sich mit Kuchentellern gegen Buford Tannens Bande und bringt schließlich auf der Lokomotive den DeLorean auf Geschwindigkeit. Jeder Abschnitt ist ein eigenes kleines Actionspiel. Für ein Filmspiel wurde es auf dem C64 vergleichsweise gut aufgenommen.\n\nDie C64-Fassung erschien 1991 bei Image Works, entwickelt von Probe Software, auf Diskette und Kassette. Es gibt mehrere EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Simon Nicol · Grafik: Hugh Riley · Musik: Charles Deenen, Jeroen Tel",
+    "en": "Back to the Future Part III is the game of the third film and is set in the Wild West of 1885. It consists of four very different stages: Doc Brown rescues Clara on horseback from a runaway buggy, Marty proves himself at a fairground shooting gallery, fends off Buford Tannen's gang with pie plates and finally gets the DeLorean up to speed on the locomotive. Each stage is a small action game of its own. For a film licence it was received comparatively well on the C64.\n\nThe C64 version was released in 1991 by Image Works, developed by Probe Software, on disk and cassette. There are several EasyFlash conversions, including one by $olo1870 (MultiLoad64) that loads the additional parts from the cartridge. It is controlled with a joystick in port 2.\n\nCode: Simon Nicol · Graphics: Hugh Riley · Music: Charles Deenen, Jeroen Tel"
+  },
+  "images": {
+    "sstitle": "images/1b/1b80690fc07897b0c84d7def4ac69a1a35f398d2.png"
+  }
+}

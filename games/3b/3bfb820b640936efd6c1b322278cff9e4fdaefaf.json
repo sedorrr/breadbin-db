@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3bfb820b640936efd6c1b322278cff9e4fdaefaf",
+  "md5": "de81f1b0ac1df9957260f5d8fe0ac6ff",
+  "crc32": "11184def",
+  "size": 106768,
+  "format": "CRT",
+  "files": [
+    "Captain Zzap.crt"
+  ],
+  "screenscraper_id": "36282",
+  "title": "Captain Zzap",
+  "year": "1986",
+  "publisher": "Mastertronic",
+  "developer": "Kevin T. Green",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Captain Zzap ist die in den USA umbenannte Fassung von Mastertronics Flash Gordon, ohne die Filmlizenz. Das Spiel besteht aus drei Abschnitten mit unterschiedlichem Spielprinzip: einer Flucht durch einen labyrinthartigen Dschungel, einem Zweikampf gegen Prinz Barin und einer Verfolgungsjagd auf einem Raketenrad in 3D-Sicht hinter dem Herrscher Ming her. Die Abwechslung zwischen den Teilen und die Musik von Rob Hubbard brachten der C64-Fassung sehr gute Kritiken ein.\n\nFlash Gordon erschien 1986 bei Mastertronic (Reihe Mastertronic Added Dimension) zuerst für den C64; die US-Fassung trägt den Titel Captain Zzap (auf der Packung teils „Captain Zapp“). Gesteuert wird per Joystick in Port 2. Daneben gibt es eine Disk2EasyFlash-Umsetzung als Modul.\n\nCode: Kevin T. Green · Grafik: Steven Murray · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Captain Zzap ist die in den USA umbenannte Fassung von Mastertronics Flash Gordon, ohne die Filmlizenz. Das Spiel besteht aus drei Abschnitten mit unterschiedlichem Spielprinzip: einer Flucht durch einen labyrinthartigen Dschungel, einem Zweikampf gegen Prinz Barin und einer Verfolgungsjagd auf einem Raketenrad in 3D-Sicht hinter dem Herrscher Ming her. Die Abwechslung zwischen den Teilen und die Musik von Rob Hubbard brachten der C64-Fassung sehr gute Kritiken ein.\n\nFlash Gordon erschien 1986 bei Mastertronic (Reihe Mastertronic Added Dimension) zuerst für den C64; die US-Fassung trägt den Titel Captain Zzap (auf der Packung teils „Captain Zapp“). Gesteuert wird per Joystick in Port 2. Daneben gibt es eine Disk2EasyFlash-Umsetzung als Modul.\n\nCode: Kevin T. Green · Grafik: Steven Murray · Musik: Rob Hubbard",
+    "en": "Captain Zzap is the renamed US version of Mastertronic's Flash Gordon, without the film licence. The game consists of three sections with different gameplay: an escape through a maze-like jungle, a fight against Prince Barin and a chase in 3D view on a rocket cycle after the ruler Ming. The variety between the parts and Rob Hubbard's music earned the C64 version excellent reviews.\n\nFlash Gordon was released by Mastertronic in 1986 (in the Mastertronic Added Dimension range), first on the C64; the US version is titled Captain Zzap (sometimes \"Captain Zapp\" on the box). It is controlled with a joystick in port 2. There is also a Disk2EasyFlash cartridge conversion.\n\nCode: Kevin T. Green · Graphics: Steven Murray · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/d8/d89e0fa32010bf85c9cea66ba5c71207231b8f6e.png",
+    "sstitle": "images/b2/b2a3680e7cf1d9769ddf56dc314ba1eec3c90de8.png"
+  }
+}

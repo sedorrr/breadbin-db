@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "347e629796dc62a73062a802184cf6032eca7f11",
+  "md5": "cb7791188064752a2a80fe203ffdb02c",
+  "crc32": "90599424",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Bedlam (J1).crt"
+  ],
+  "screenscraper_id": "36423",
+  "title": "Bedlam",
+  "year": "1988",
+  "publisher": "Go!",
+  "developer": "Beam Software",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1-2",
+  "synopsis": "Bedlam ist ein senkrecht scrollendes Weltraum-Shoot'em-up. Man fliegt durch Wellen von Gegnern, sammelt Erweiterungen für das eigene Schiff und kämpft gegen Endgegner. Zwei Spieler können gleichzeitig antreten. Als Besonderheit enthält das Spiel einen Bonusabschnitt im Stil eines Flipperautomaten. Die Fachpresse fand das Spiel solide, aber wenig originell.\n\nDas Spiel erschien 1988 bei Go!, einem Label von U.S. Gold, auf Kassette und Diskette; entwickelt wurde es von Beam Software in Australien. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung; die Modulfassungen sind für den Joystick in Port 1 eingerichtet.\n\nCode: Trevor Nuridin, Nigel Spencer · Grafik: Russel Comte · Musik: Neil Brennan",
+  "texts": {
+    "de": "Bedlam ist ein senkrecht scrollendes Weltraum-Shoot'em-up. Man fliegt durch Wellen von Gegnern, sammelt Erweiterungen für das eigene Schiff und kämpft gegen Endgegner. Zwei Spieler können gleichzeitig antreten. Als Besonderheit enthält das Spiel einen Bonusabschnitt im Stil eines Flipperautomaten. Die Fachpresse fand das Spiel solide, aber wenig originell.\n\nDas Spiel erschien 1988 bei Go!, einem Label von U.S. Gold, auf Kassette und Diskette; entwickelt wurde es von Beam Software in Australien. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung; die Modulfassungen sind für den Joystick in Port 1 eingerichtet.\n\nCode: Trevor Nuridin, Nigel Spencer · Grafik: Russel Comte · Musik: Neil Brennan",
+    "en": "Bedlam is a vertically scrolling space shoot'em up. The player flies through waves of enemies, collects upgrades for the ship and fights end-of-level bosses. Two players can play at the same time. As a special feature the game includes a bonus section in the style of a pinball table. The press considered it solid but unoriginal.\n\nThe game was released in 1988 by Go!, a U.S. Gold label, on cassette and disk; it was developed by Beam Software in Australia. There are cartridge conversions from the OneLoad64 collection and a single-file PRG version; the cartridge versions are set up for a joystick in port 1.\n\nCode: Trevor Nuridin, Nigel Spencer · Graphics: Russel Comte · Music: Neil Brennan"
+  },
+  "images": {
+    "ss": "images/27/27af6f6dd1c50c27f3a086175fda0a785117a420.png",
+    "sstitle": "images/d2/d2738fb7e634c95be66bdc972462266ab56faddb.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1525b6d81578903f56c6d7f7cf51af40b26aea27",
+  "md5": "53704ed023c6d871ff6377ea23d91d78",
+  "crc32": "afc39fd9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ROADBLAS.D64"
+  ],
+  "screenscraper_id": "36326",
+  "title": "RoadBlasters",
+  "year": "1988",
+  "publisher": "U.S. Gold",
+  "developer": "Amazing Products",
+  "genres": [
+    "Rennen",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Atari-Automaten von 1987: Der Spieler rast mit einem bewaffneten Sportwagen über futuristische Straßen und schießt feindliche Fahrzeuge, Motorräder und Geschütze ab. Wichtigster Faktor ist der Treibstoff, der ständig sinkt und durch eingesammelte Kraftstoffkugeln wieder aufgefüllt wird. Ein Flugzeug wirft zusätzlich Sonderwaffen ab, etwa eine stärkere Kanone, Lenkraketen, Nitro-Schub oder einen Schutzschild. Die Rennen sind in Abschnitte mit Etappenzielen unterteilt.\n\nDie C64-Umsetzung stammt von Amazing Products, dem Team hinter der C64-Fassung von OutRun, und erschien bei U.S. Gold auf Kassette und Diskette, später auch bei Kixx. Daneben gibt es eine EasyFlash-Umsetzung. Gesteuert wird per Joystick in Port 1.\n\nCode: Martin Webb · Grafik: Dennis Webb · Musik: David Whittaker",
+  "texts": {
+    "de": "Umsetzung des Atari-Automaten von 1987: Der Spieler rast mit einem bewaffneten Sportwagen über futuristische Straßen und schießt feindliche Fahrzeuge, Motorräder und Geschütze ab. Wichtigster Faktor ist der Treibstoff, der ständig sinkt und durch eingesammelte Kraftstoffkugeln wieder aufgefüllt wird. Ein Flugzeug wirft zusätzlich Sonderwaffen ab, etwa eine stärkere Kanone, Lenkraketen, Nitro-Schub oder einen Schutzschild. Die Rennen sind in Abschnitte mit Etappenzielen unterteilt.\n\nDie C64-Umsetzung stammt von Amazing Products, dem Team hinter der C64-Fassung von OutRun, und erschien bei U.S. Gold auf Kassette und Diskette, später auch bei Kixx. Daneben gibt es eine EasyFlash-Umsetzung. Gesteuert wird per Joystick in Port 1.\n\nCode: Martin Webb · Grafik: Dennis Webb · Musik: David Whittaker",
+    "en": "A conversion of Atari's 1987 arcade game: the player races an armed sports car along futuristic roads, shooting enemy cars, motorcycles and gun emplacements. The key factor is fuel, which constantly drops and is topped up by collecting fuel globes. An aircraft also drops special weapons such as a stronger cannon, guided missiles, nitro boost or a protective shield. The races are divided into sections with checkpoints.\n\nThe C64 conversion was made by Amazing Products, the team behind the C64 version of OutRun, and released by U.S. Gold on cassette and disk, later also by Kixx. There is also an EasyFlash conversion. Controlled by joystick in port 1.\n\nCode: Martin Webb · Graphics: Dennis Webb · Music: David Whittaker"
+  },
+  "images": {
+    "sstitle": "images/1d/1d221847530731525b2c702bf18d2072cf043fe6.png"
+  }
+}

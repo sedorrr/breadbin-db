@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "18c0750e7563890d921ca958fab3c243cda98800",
+  "md5": "1848602bfde56c53fd16d074d8b0c5cb",
+  "crc32": "1c99a244",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MOONWALK.D64"
+  ],
+  "screenscraper_id": "35848",
+  "title": "Moonwalker",
+  "year": "1989",
+  "publisher": "U.S. Gold",
+  "developer": "Emerald Software",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum Michael-Jackson-Film Moonwalker. In mehreren Abschnitten, die lose den Szenen des Films folgen, muss Michael Fans und Verfolgern ausweichen, Gegenstände einsammeln und sich schließlich gegen die Handlanger des Gangsters Mr. Big durchsetzen, um entführte Kinder zu befreien. Die Abschnitte unterscheiden sich in Ansicht und Spielweise, von der Suche aus der Vogelperspektive bis zu Schießereien. Als Lizenzspiel war es bekannt, die Fachpresse bewertete es aber eher zurückhaltend.\n\nEntwickelt von Emerald Software (zusammen mit Keypunch Software), veröffentlicht von U.S. Gold auf Kassette und Diskette. Daneben gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Gesteuert wird per Joystick in Port 2.",
+  "texts": {
+    "de": "Spiel zum Michael-Jackson-Film Moonwalker. In mehreren Abschnitten, die lose den Szenen des Films folgen, muss Michael Fans und Verfolgern ausweichen, Gegenstände einsammeln und sich schließlich gegen die Handlanger des Gangsters Mr. Big durchsetzen, um entführte Kinder zu befreien. Die Abschnitte unterscheiden sich in Ansicht und Spielweise, von der Suche aus der Vogelperspektive bis zu Schießereien. Als Lizenzspiel war es bekannt, die Fachpresse bewertete es aber eher zurückhaltend.\n\nEntwickelt von Emerald Software (zusammen mit Keypunch Software), veröffentlicht von U.S. Gold auf Kassette und Diskette. Daneben gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Gesteuert wird per Joystick in Port 2.",
+    "en": "A game based on Michael Jackson's film Moonwalker. Over several sections that loosely follow scenes from the film, Michael has to dodge fans and pursuers, collect items and finally overcome the henchmen of the gangster Mr. Big to free kidnapped children. The sections differ in view and gameplay, from searching seen from above to shootouts. It was well known as a licensed game, but the press rated it rather cautiously.\n\nDeveloped by Emerald Software (together with Keypunch Software) and published by U.S. Gold on cassette and disk. There is also a MultiLoad64 EasyFlash conversion by $olo1870. Controlled by joystick in port 2."
+  },
+  "images": {
+    "ss": "images/02/02b43695008a06789761b03d32a1a8808d8a0ffb.png",
+    "sstitle": "images/f4/f4c1996eae7e005810a38f70ba3eb9b23c646b83.png"
+  }
+}

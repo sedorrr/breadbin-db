@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "3b1a394d149280edb28e4ec7f7d7ab7d56c3488f",
+  "md5": "e97aa0a66d5a38f805ee5995fd60def5",
+  "crc32": "83e9c9a3",
+  "size": 598689,
+  "format": "TAP",
+  "files": [
+    "Comic Bakery.tap"
+  ],
+  "screenscraper_id": "111196",
+  "title": "Comic Bakery",
+  "year": "1986",
+  "publisher": "Imagine",
+  "developer": "Imagine (Colin Gresty)",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Der Bäcker Joe muss in seiner Bäckerei die Brotproduktion am Laufen halten: Die Brote laufen über Förderbänder, und freche Waschbären versuchen, die Maschinen abzuschalten und die Ware zu stehlen. Joe vertreibt sie mit seinem Schlagstock, schaltet abgestellte Maschinen wieder ein und muss genug Brote ausliefern, um die Runde abzuschließen. Das Spielprinzip stammt aus Konamis MSX-Spiel von 1984. Auf dem C64 ist Comic Bakery vor allem wegen Martin Galways Musik bekannt, die bis heute vielfach neu eingespielt wird.\n\nImagine setzte das Spiel für den C64 um; zeitgenössische Tests lobten Präsentation und Musik, fanden das Spiel selbst aber eher eintönig. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Colin Gresty · Grafik: Stephen Wahid · Musik: Martin Galway",
+  "texts": {
+    "de": "Der Bäcker Joe muss in seiner Bäckerei die Brotproduktion am Laufen halten: Die Brote laufen über Förderbänder, und freche Waschbären versuchen, die Maschinen abzuschalten und die Ware zu stehlen. Joe vertreibt sie mit seinem Schlagstock, schaltet abgestellte Maschinen wieder ein und muss genug Brote ausliefern, um die Runde abzuschließen. Das Spielprinzip stammt aus Konamis MSX-Spiel von 1984. Auf dem C64 ist Comic Bakery vor allem wegen Martin Galways Musik bekannt, die bis heute vielfach neu eingespielt wird.\n\nImagine setzte das Spiel für den C64 um; zeitgenössische Tests lobten Präsentation und Musik, fanden das Spiel selbst aber eher eintönig. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Colin Gresty · Grafik: Stephen Wahid · Musik: Martin Galway",
+    "en": "Baker Joe has to keep bread production running in his bakery: loaves travel along conveyor belts, and cheeky raccoons try to switch off the machines and steal the goods. Joe chases them away with his baton, switches the machines back on and has to deliver enough loaves to finish the round. The concept comes from Konami's 1984 MSX game. On the C64, Comic Bakery is best known for Martin Galway's music, which is still widely covered today.\n\nImagine converted the game for the C64; contemporary reviews praised the presentation and music but found the game itself rather repetitive. It is played with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Colin Gresty · Graphics: Stephen Wahid · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/1f/1fbded6acacba5d7a6d83fec9bcfdd5f52e7298d.png",
+    "sstitle": "images/ed/ede7208dd61d060ba5a36f166ce6638ea1913442.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "044d390037b3a42ff75202e3efb2fca4113bf54d",
+  "md5": "535579a5ed107517db6a3b9a4e3d0446",
+  "crc32": "e6de6524",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BIONICC1.D64"
+  ],
+  "screenscraper_id": "121925",
+  "title": "Bionic Commando",
+  "year": "1988",
+  "publisher": "Go!",
+  "developer": "Software Creations (US-Fassung: Pacific Dataworks)",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ein Soldat mit einem mechanischen Greifarm dringt hinter die feindlichen Linien vor. Springen kann er nicht – stattdessen schießt er den Arm nach oben oder schräg ab, hält sich an Plattformen und Decken fest und schwingt sich so durch die Level. Dieses Greifarm-Prinzip machte Capcoms Automaten bekannt und verlangt ein ganz eigenes Gefühl für Schwung und Timing. Auf dem C64 ist vor allem die europäische Fassung wegen Tim Follins umfangreicher Musik in Erinnerung geblieben.\n\nFür den C64 gibt es zwei verschiedene Umsetzungen: die europäische von Software Creations, die Go! 1988 auf Kassette und Diskette herausbrachte, und eine eigenständige US-Fassung, die Pacific Dataworks für Capcom entwickelte. Beide werden mit dem Joystick in Port 2 gesteuert. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870, die das Nachladen von Diskette überflüssig machen.\n\nCode: Stephen Ruddy · Grafik: Andrew Threlfall · Musik: Tim Follin (europäische Fassung) · Code US-Fassung: Don Landon",
+  "texts": {
+    "de": "Ein Soldat mit einem mechanischen Greifarm dringt hinter die feindlichen Linien vor. Springen kann er nicht – stattdessen schießt er den Arm nach oben oder schräg ab, hält sich an Plattformen und Decken fest und schwingt sich so durch die Level. Dieses Greifarm-Prinzip machte Capcoms Automaten bekannt und verlangt ein ganz eigenes Gefühl für Schwung und Timing. Auf dem C64 ist vor allem die europäische Fassung wegen Tim Follins umfangreicher Musik in Erinnerung geblieben.\n\nFür den C64 gibt es zwei verschiedene Umsetzungen: die europäische von Software Creations, die Go! 1988 auf Kassette und Diskette herausbrachte, und eine eigenständige US-Fassung, die Pacific Dataworks für Capcom entwickelte. Beide werden mit dem Joystick in Port 2 gesteuert. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870, die das Nachladen von Diskette überflüssig machen.\n\nCode: Stephen Ruddy · Grafik: Andrew Threlfall · Musik: Tim Follin (europäische Fassung) · Code US-Fassung: Don Landon",
+    "en": "A soldier with a mechanical grappling arm infiltrates enemy territory. He cannot jump – instead he fires the arm upwards or diagonally, latches onto platforms and ceilings and swings his way through the levels. This grappling mechanic made Capcom's arcade game famous and demands a feel for momentum and timing all of its own. On the C64 the European version is remembered above all for Tim Follin's extensive soundtrack.\n\nThere are two different C64 versions: the European one by Software Creations, released by Go! in 1988 on tape and disk, and a separate US version developed by Pacific Dataworks for Capcom. Both are played with a joystick in port 2. There are also EasyFlash conversions, including a MultiLoad64 version by $olo1870, which do away with disk loading.\n\nCode: Stephen Ruddy · Graphics: Andrew Threlfall · Music: Tim Follin (European version) · Code US version: Don Landon"
+  },
+  "images": {
+    "ss": "images/0d/0da1e219348da7a333be10c076aaa3c2afa1737a.png",
+    "sstitle": "images/7d/7dad97751489e005378103271611a543cb7dcf3e.png"
+  }
+}

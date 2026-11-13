@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0b139cc3f6a79c78526f989d967b97c4657a75d8",
+  "md5": "09fbf235c9be55ccc8b9c042572947a5",
+  "crc32": "8d9a6e9a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CAPTBL-M.D64"
+  ],
+  "screenscraper_id": "110801",
+  "title": "Captain Blood",
+  "year": "1988",
+  "publisher": "Infogrames",
+  "developer": "ERE Informatique",
+  "genres": [
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "In Captain Blood spielt man Bob Morlock alias Captain Blood, der mit seinem biologischen Raumschiff Ark durch eine fremde Galaxie reist. Bei einem Hyperraumsprung wurden Klone von ihm erzeugt, die ihm Lebensenergie entziehen; diese muss er aufspüren und vernichten, bevor er stirbt. Man fliegt mit einer Sonde über fraktale Planetenlandschaften und verständigt sich mit Außerirdischen über die Bildsymbolsprache UPCOM aus rund 120 Zeichen. Die ungewöhnliche Kommunikation und die französische Science-Fiction-Ästhetik machten das Spiel zu einem Kultklassiker.\n\nDas Spiel erschien 1988 bei Infogrames (in den USA bei Mindscape) auf Diskette und Kassette, zuerst für den Atari ST. Die Diskettenfassung bietet laut C64-Wiki mehrere Startplaneten und Lösungswege, die Kassettenfassung nur einen. Es gibt eine EasyFlash-Umsetzung (Disk2EasyFlash) mit schnellem Laden. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur; die Titelmusik geht auf ein Stück von Jean-Michel Jarre zurück.\n\nEntwicklung: Didier Bouchon, Michel Rho, François Lionet · Musik (SID): François Lionet nach Jean-Michel Jarre",
+  "texts": {
+    "de": "In Captain Blood spielt man Bob Morlock alias Captain Blood, der mit seinem biologischen Raumschiff Ark durch eine fremde Galaxie reist. Bei einem Hyperraumsprung wurden Klone von ihm erzeugt, die ihm Lebensenergie entziehen; diese muss er aufspüren und vernichten, bevor er stirbt. Man fliegt mit einer Sonde über fraktale Planetenlandschaften und verständigt sich mit Außerirdischen über die Bildsymbolsprache UPCOM aus rund 120 Zeichen. Die ungewöhnliche Kommunikation und die französische Science-Fiction-Ästhetik machten das Spiel zu einem Kultklassiker.\n\nDas Spiel erschien 1988 bei Infogrames (in den USA bei Mindscape) auf Diskette und Kassette, zuerst für den Atari ST. Die Diskettenfassung bietet laut C64-Wiki mehrere Startplaneten und Lösungswege, die Kassettenfassung nur einen. Es gibt eine EasyFlash-Umsetzung (Disk2EasyFlash) mit schnellem Laden. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur; die Titelmusik geht auf ein Stück von Jean-Michel Jarre zurück.\n\nEntwicklung: Didier Bouchon, Michel Rho, François Lionet · Musik (SID): François Lionet nach Jean-Michel Jarre",
+    "en": "In Captain Blood the player is Bob Morlock, alias Captain Blood, travelling through an alien galaxy in his biological spaceship, the Ark. A hyperspace jump has created clones of him that drain his life energy; he has to track them down and destroy them before he dies. A probe is flown over fractal planet landscapes, and communication with aliens takes place through UPCOM, a pictographic language of around 120 symbols. The unusual communication and its French science-fiction style made the game a cult classic.\n\nThe game was released in 1988 by Infogrames (in the US by Mindscape) on disk and cassette, first for the Atari ST. According to the C64-Wiki the disk version offers several starting planets and solution paths, the tape version only one. There is an EasyFlash conversion (Disk2EasyFlash) with fast loading. It is controlled with a joystick in port 2 or the keyboard; the title music is based on a piece by Jean-Michel Jarre.\n\nDevelopment: Didier Bouchon, Michel Rho, François Lionet · Music (SID): François Lionet after Jean-Michel Jarre"
+  },
+  "images": {
+    "ss": "images/06/0693901c38e5aae3a688ff74057e678c8009f338.png",
+    "sstitle": "images/f6/f612f9346f5faae11d02b273d2000b8ddda87fc3.png"
+  }
+}

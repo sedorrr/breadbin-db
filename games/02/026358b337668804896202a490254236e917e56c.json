@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "sha1": "026358b337668804896202a490254236e917e56c",
+  "md5": "59149ead52de49f6c5a4c1be20810979",
+  "crc32": "ecddca6c",
+  "size": 172432,
+  "format": "CRT",
+  "files": [
+    "Wings of Fury.crt",
+    "Wings of Fury [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36142",
+  "title": "Wings of Fury",
+  "year": "1990",
+  "publisher": "Brøderbund",
+  "developer": "Unlimited Software (Original: Steve Waldo)",
+  "genres": [
+    "Shoot'em Up",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Im Pazifikkrieg startet der Spieler mit einem F6F-Hellcat-Jagdflugzeug von einem amerikanischen Flugzeugträger und greift in seitlicher Ansicht feindlich besetzte Inseln an. Mit Bomben, Raketen, Torpedos und Bordkanone werden Bunker, Flakstellungen, Soldaten und Schiffe bekämpft, während feindliche Jäger angreifen. Zum Tanken, Reparieren und Aufmunitionieren kann jederzeit auf dem Träger gelandet werden – Start und Landung verlangen Gefühl. Die Mischung aus Arcade-Action und einfachen Flugsimulations-Elementen machte das Spiel bekannt.\n\nSteve Waldo schrieb das Original 1987 für den Apple II; die C64-Umsetzung von Unlimited Software erschien 1990 bei Brøderbund auf Diskette. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es Umsetzungen als EasyFlash-Modul.\n\nOriginal: Steve Waldo · C64-Code: Mike Kiernan, Colin Fox · Grafik: John Boechler, Gerard De Souza, Faye Hoffman, Mike Kiernan · Musik: Kris Hatlelid",
+  "texts": {
+    "de": "Im Pazifikkrieg startet der Spieler mit einem F6F-Hellcat-Jagdflugzeug von einem amerikanischen Flugzeugträger und greift in seitlicher Ansicht feindlich besetzte Inseln an. Mit Bomben, Raketen, Torpedos und Bordkanone werden Bunker, Flakstellungen, Soldaten und Schiffe bekämpft, während feindliche Jäger angreifen. Zum Tanken, Reparieren und Aufmunitionieren kann jederzeit auf dem Träger gelandet werden – Start und Landung verlangen Gefühl. Die Mischung aus Arcade-Action und einfachen Flugsimulations-Elementen machte das Spiel bekannt.\n\nSteve Waldo schrieb das Original 1987 für den Apple II; die C64-Umsetzung von Unlimited Software erschien 1990 bei Brøderbund auf Diskette. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es Umsetzungen als EasyFlash-Modul.\n\nOriginal: Steve Waldo · C64-Code: Mike Kiernan, Colin Fox · Grafik: John Boechler, Gerard De Souza, Faye Hoffman, Mike Kiernan · Musik: Kris Hatlelid",
+    "en": "In the Pacific War the player takes off in an F6F Hellcat fighter from an American aircraft carrier and attacks enemy-held islands, shown from the side. Bombs, rockets, torpedoes and the on-board gun are used against bunkers, anti-aircraft guns, soldiers and ships while enemy fighters attack. The player can land on the carrier at any time to refuel, repair and rearm – take-off and landing require a delicate touch. The mix of arcade action and simple flight-simulation elements made the game well known.\n\nSteve Waldo wrote the original for the Apple II in 1987; Unlimited Software's C64 conversion was published by Brøderbund in 1990 on disk. It is played with a joystick in port 2. There are also EasyFlash cartridge conversions.\n\nOriginal: Steve Waldo · C64 code: Mike Kiernan, Colin Fox · Graphics: John Boechler, Gerard De Souza, Faye Hoffman, Mike Kiernan · Music: Kris Hatlelid"
+  },
+  "images": {
+    "ss": "images/a7/a7b258689c369049f9abc87192413fc337ddcf38.png",
+    "sstitle": "images/43/4382e9f36e4f34ef5c529a02b8bf7cdd25d96e88.png"
+  }
+}

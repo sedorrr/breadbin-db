@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "2fec04d4cc469b09de1f4c08cf70010745d587db",
+  "md5": "ab80b2c2508402a335ee8c2dbe082d1f",
+  "crc32": "25bf405b",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Rolling Thunder.crt"
+  ],
+  "screenscraper_id": "36353",
+  "title": "Rolling Thunder",
+  "year": "1988",
+  "publisher": "U.S. Gold",
+  "developer": "Tiertex",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Als Geheimagent Albatross dringt der Spieler in das Hauptquartier der Organisation Geldra ein, um deren Anführer Maboo zu stellen und eine entführte Kollegin zu befreien. Die seitlich scrollenden Abschnitte verbinden Schießen mit Plattformelementen: Albatross springt auf obere Ebenen, versteckt sich hinter Türen und muss mit knapper Munition haushalten, die er in Lagerräumen nachfüllt. Zeitlimit und Lebensenergie setzen zusätzlich unter Druck. Die Vorlage ist der Namco-Automat von 1986, der für sein ruhiges, taktisches Vorgehen bekannt ist.\n\nDie C64-Umsetzung stammt von Tiertex und erschien bei U.S. Gold auf Kassette mit Schnelllader und auf Diskette; später kamen Neuauflagen und Modulumsetzungen der Szene hinzu. Gesteuert wird mit dem Joystick in Port 2: oben springt oder betritt eine Tür, unten duckt. Die Grafik ist gröber als beim Automaten, das Spielprinzip mit zehn Abschnitten blieb erhalten.\n\nCode: Tiertex",
+  "texts": {
+    "de": "Als Geheimagent Albatross dringt der Spieler in das Hauptquartier der Organisation Geldra ein, um deren Anführer Maboo zu stellen und eine entführte Kollegin zu befreien. Die seitlich scrollenden Abschnitte verbinden Schießen mit Plattformelementen: Albatross springt auf obere Ebenen, versteckt sich hinter Türen und muss mit knapper Munition haushalten, die er in Lagerräumen nachfüllt. Zeitlimit und Lebensenergie setzen zusätzlich unter Druck. Die Vorlage ist der Namco-Automat von 1986, der für sein ruhiges, taktisches Vorgehen bekannt ist.\n\nDie C64-Umsetzung stammt von Tiertex und erschien bei U.S. Gold auf Kassette mit Schnelllader und auf Diskette; später kamen Neuauflagen und Modulumsetzungen der Szene hinzu. Gesteuert wird mit dem Joystick in Port 2: oben springt oder betritt eine Tür, unten duckt. Die Grafik ist gröber als beim Automaten, das Spielprinzip mit zehn Abschnitten blieb erhalten.\n\nCode: Tiertex",
+    "en": "As secret agent Albatross, the player infiltrates the headquarters of the Geldra organisation to confront its leader Maboo and rescue a kidnapped colleague. The side-scrolling stages combine shooting with platform elements: Albatross jumps to upper levels, hides behind doors and has to manage scarce ammunition, which is replenished in storerooms. A time limit and limited energy add further pressure. The basis is Namco's 1986 arcade game, known for its measured, tactical pace.\n\nThe C64 conversion was made by Tiertex and released by U.S. Gold on cassette with a fast loader and on disk; budget re-releases and cartridge conversions from the scene followed later. It is played with a joystick in port 2: up jumps or enters a door, down ducks. The graphics are coarser than in the arcade game, but the structure of ten stages was kept.\n\nCode: Tiertex"
+  },
+  "images": {
+    "ss": "images/8d/8d5996ecff0dd5658120e4760b912be976d646a5.png",
+    "sstitle": "images/2f/2f86a77f19fce121fec41f55daf68c31e5ef146f.png"
+  }
+}

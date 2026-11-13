@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "0f417c2dd286ce4585dd21408313a84f5b079ead",
+  "md5": "f245a3a16e6c0f023fbafe9353847d11",
+  "crc32": "4136d908",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SINBAD1.D64"
+  ],
+  "screenscraper_id": "110851",
+  "title": "Sinbad and the Throne of the Falcon",
+  "year": "1988",
+  "publisher": "Cinemaware",
+  "developer": "Cinemaware (Entwurf: Bill Williams); C64: Michael A. Knox",
+  "genres": [
+    "Action / Abenteuer",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Als Sindbad der Seefahrer erhält der Spieler von der Prinzessin den Auftrag, die Herrschaft des finsteren Prinzen zu beenden. Auf einer Landkarte im Stil von Tausendundeiner Nacht segelt er zwischen Orten hin und her, heuert in Städten Mannschaft an und holt sich bei Schamanen und Wahrsagern Zauber und Tränke. Gespräche lenken die Geschichte, und an Schlüsselstellen folgen Actionszenen wie Schwertkämpfe, ein Duell mit der Schleuder gegen einen Zyklopen oder die Flucht vor einem Erdbeben. Wie andere Cinemaware-Titel will das Spiel Abenteuer, Strategie und Action zu einem filmischen Erlebnis verbinden.\n\nDas Original erschien 1987 für den Amiga; die C64-Fassung kam 1988 auf Diskette (in Europa über Mirrorsoft) und hat eigene Grafik und abweichende Actionszenen. Gesteuert wird mit Joystick in Port 2.\n\nEntwurf: Bill Williams · Code (C64): Michael A. Knox",
+  "texts": {
+    "de": "Als Sindbad der Seefahrer erhält der Spieler von der Prinzessin den Auftrag, die Herrschaft des finsteren Prinzen zu beenden. Auf einer Landkarte im Stil von Tausendundeiner Nacht segelt er zwischen Orten hin und her, heuert in Städten Mannschaft an und holt sich bei Schamanen und Wahrsagern Zauber und Tränke. Gespräche lenken die Geschichte, und an Schlüsselstellen folgen Actionszenen wie Schwertkämpfe, ein Duell mit der Schleuder gegen einen Zyklopen oder die Flucht vor einem Erdbeben. Wie andere Cinemaware-Titel will das Spiel Abenteuer, Strategie und Action zu einem filmischen Erlebnis verbinden.\n\nDas Original erschien 1987 für den Amiga; die C64-Fassung kam 1988 auf Diskette (in Europa über Mirrorsoft) und hat eigene Grafik und abweichende Actionszenen. Gesteuert wird mit Joystick in Port 2.\n\nEntwurf: Bill Williams · Code (C64): Michael A. Knox",
+    "en": "As Sinbad the Sailor, the player is tasked by the princess with ending the reign of the dark prince. On a map in the style of the Arabian Nights he sails between locations, hires crew in towns and obtains spells and potions from shamans and fortune tellers. Conversations steer the story, and key moments lead into action scenes such as sword fights, a slingshot duel with a cyclops or an escape from an earthquake. Like other Cinemaware titles, the game aims to combine adventure, strategy and action into a cinematic experience.\n\nThe original appeared in 1987 for the Amiga; the C64 version followed in 1988 on disk (published in Europe through Mirrorsoft) with its own graphics and different action scenes. It is played with a joystick in port 2.\n\nDesign: Bill Williams · Code (C64): Michael A. Knox"
+  },
+  "images": {
+    "ss": "images/b5/b5fb4bbc67d10677411ba326fb0e170112e96ba6.png",
+    "sstitle": "images/37/37968921808d65d6896b555beb16d1c850dea670.png"
+  }
+}

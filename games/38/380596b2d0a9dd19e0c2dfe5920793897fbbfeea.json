@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "380596b2d0a9dd19e0c2dfe5920793897fbbfeea",
+  "md5": "acd6ce8bdadd16e40adc395d500340ad",
+  "crc32": "404bf1c9",
+  "size": 197056,
+  "format": "CRT",
+  "files": [
+    "Dragons Lair II (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "111722",
+  "title": "Dragon's Lair Part II: Escape from Singe's Castle",
+  "year": "1987",
+  "publisher": "Software Projects",
+  "developer": "Software Projects",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Escape from Singe's Castle ist die Fortsetzung der Dragon's-Lair-Umsetzung von Software Projects und keine Umsetzung des späteren Automaten Dragon's Lair II. Der Ritter Dirk der Kühne kehrt in die Burg des Drachen Singe zurück, um einen Goldschatz zu stehlen, und muss dabei acht Abschnitte voller Fallen überstehen. Jeder Abschnitt verlangt genaues Timing und das Auswendiglernen der richtigen Bewegungen. Die großen, gut animierten Figuren fingen den Zeichentrickstil der Vorlage recht ordentlich ein.\n\nAuf dem C64 erschien das Spiel bei Software Projects auf Kassette, in den USA bei Electronic Arts zusammen mit dem ersten Teil auf Diskette. Gesteuert wird mit dem Joystick. EasyFlash-Umsetzungen sparen das Nachladen der Abschnitte; eine davon enthält beide Teile.\n\nEntwicklung: Software Projects",
+  "texts": {
+    "de": "Escape from Singe's Castle ist die Fortsetzung der Dragon's-Lair-Umsetzung von Software Projects und keine Umsetzung des späteren Automaten Dragon's Lair II. Der Ritter Dirk der Kühne kehrt in die Burg des Drachen Singe zurück, um einen Goldschatz zu stehlen, und muss dabei acht Abschnitte voller Fallen überstehen. Jeder Abschnitt verlangt genaues Timing und das Auswendiglernen der richtigen Bewegungen. Die großen, gut animierten Figuren fingen den Zeichentrickstil der Vorlage recht ordentlich ein.\n\nAuf dem C64 erschien das Spiel bei Software Projects auf Kassette, in den USA bei Electronic Arts zusammen mit dem ersten Teil auf Diskette. Gesteuert wird mit dem Joystick. EasyFlash-Umsetzungen sparen das Nachladen der Abschnitte; eine davon enthält beide Teile.\n\nEntwicklung: Software Projects",
+    "en": "Escape from Singe's Castle is the sequel to Software Projects' Dragon's Lair conversion and not a conversion of the later arcade game Dragon's Lair II. Dirk the Daring returns to the castle of the dragon Singe to steal a pot of gold and has to survive eight trap-filled stages. Each stage demands precise timing and memorising the right moves. The large, well-animated characters captured the cartoon style of the original quite well.\n\nOn the C64 the game was released by Software Projects on tape, and in the USA by Electronic Arts together with the first part on disk. It is controlled with a joystick. EasyFlash conversions avoid reloading the stages; one of them contains both parts.\n\nDevelopment: Software Projects"
+  },
+  "images": {
+    "sstitle": "images/f5/f546d59bae959ee7f955430f414ab556f68ab3fb.png"
+  }
+}

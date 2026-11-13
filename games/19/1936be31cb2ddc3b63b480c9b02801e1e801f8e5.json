@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1936be31cb2ddc3b63b480c9b02801e1e801f8e5",
+  "md5": "c3c1b3a61ac961be6eeb8e8d66641e34",
+  "crc32": "4c6f035c",
+  "size": 30271,
+  "format": "PRG",
+  "files": [
+    "Elektraglide.prg"
+  ],
+  "screenscraper_id": "36639",
+  "title": "Elektraglide",
+  "year": "1986",
+  "publisher": "English Software",
+  "developer": "Adam Billyard",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Auf einer futuristischen Rennstrecke rast ein Gleiter in schneller 3D-Sicht dahin und muss vor Ablauf der Zeit den Tunnel zum nächsten Abschnitt erreichen. Hindernisse wie kreiselnde Prismen, hüpfende Kugeln und Luftschiffe, die Säulen auf die Bahn werfen, verlangen schnelle Ausweichmanöver. Die drei Zonen Amerika, Australien und Großbritannien unterscheiden sich durch ihre Landschaften. Das Spiel fiel durch sein hohes Tempo und den flüssigen Bildaufbau auf.\n\nDas Spiel erschien zuerst 1985 für die Atari-8-Bit-Rechner; die C64-Fassung brachte English Software 1986 heraus, in den USA vertrieb Mastertronic. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik: Adam Billyard · Musik: David Whittaker",
+  "texts": {
+    "de": "Auf einer futuristischen Rennstrecke rast ein Gleiter in schneller 3D-Sicht dahin und muss vor Ablauf der Zeit den Tunnel zum nächsten Abschnitt erreichen. Hindernisse wie kreiselnde Prismen, hüpfende Kugeln und Luftschiffe, die Säulen auf die Bahn werfen, verlangen schnelle Ausweichmanöver. Die drei Zonen Amerika, Australien und Großbritannien unterscheiden sich durch ihre Landschaften. Das Spiel fiel durch sein hohes Tempo und den flüssigen Bildaufbau auf.\n\nDas Spiel erschien zuerst 1985 für die Atari-8-Bit-Rechner; die C64-Fassung brachte English Software 1986 heraus, in den USA vertrieb Mastertronic. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik: Adam Billyard · Musik: David Whittaker",
+    "en": "A hover racer speeds along a futuristic track in fast 3D view and has to reach the tunnel to the next section before time runs out. Obstacles such as spinning prisms, bouncing globes and airships dropping columns onto the track demand quick evasive manoeuvres. The three zones, America, Australia and Britain, differ in their scenery. The game stood out for its high speed and smooth display.\n\nThe game first appeared in 1985 for the Atari 8-bit computers; English Software released the C64 version in 1986, with Mastertronic distributing it in the USA. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode, graphics: Adam Billyard · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/f9/f90bc3bd05412493361df6bd94de7c9a761e2240.png",
+    "sstitle": "images/cb/cbed6aa8b49952e436b2c42fba9c66bccf081424.png"
+  }
+}

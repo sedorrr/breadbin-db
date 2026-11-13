@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0a61250f7e642b091ca6040d14b4ded756080581",
+  "md5": "ba03130abae2f2791d85a8146a1a01ec",
+  "crc32": "67a44f70",
+  "size": 26766,
+  "format": "PRG",
+  "files": [
+    "Kane.prg"
+  ],
+  "screenscraper_id": "36137",
+  "title": "Kane",
+  "year": "1985",
+  "publisher": "Mastertronic",
+  "developer": "Mastertronic",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ein Western in mehreren Abschnitten: Marshal McGraw schießt zunächst Enten ab, um sich Friedensgaben zu verdienen, und reitet dann über Hindernisse springend in die Stadt Kane. Dort muss er sich gegen Heckenschützen behaupten, bevor er einem abfahrenden Zug hinterherreitet. Die Abschnitte wiederholen sich mit steigender Schwierigkeit. Als Billigspiel von Mastertronic fand Kane wegen seiner sauberen Grafik und der Abwechslung viele Käufer.\n\nErschienen auf Kassette und Diskette zum Budgetpreis, außer für den C64 auch für Spectrum, Amstrad CPC, BBC Micro, Acorn Electron und C16/Plus/4, wo nur die Schießszenen enthalten sind. Gesteuert wird mit dem Joystick in Port 2. Die Musik verwendet die Ouvertüre zu Rossinis „Wilhelm Tell“. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung: John Darnell, N. Baikaloff, J. Porch",
+  "texts": {
+    "de": "Ein Western in mehreren Abschnitten: Marshal McGraw schießt zunächst Enten ab, um sich Friedensgaben zu verdienen, und reitet dann über Hindernisse springend in die Stadt Kane. Dort muss er sich gegen Heckenschützen behaupten, bevor er einem abfahrenden Zug hinterherreitet. Die Abschnitte wiederholen sich mit steigender Schwierigkeit. Als Billigspiel von Mastertronic fand Kane wegen seiner sauberen Grafik und der Abwechslung viele Käufer.\n\nErschienen auf Kassette und Diskette zum Budgetpreis, außer für den C64 auch für Spectrum, Amstrad CPC, BBC Micro, Acorn Electron und C16/Plus/4, wo nur die Schießszenen enthalten sind. Gesteuert wird mit dem Joystick in Port 2. Die Musik verwendet die Ouvertüre zu Rossinis „Wilhelm Tell“. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung: John Darnell, N. Baikaloff, J. Porch",
+    "en": "A western in several stages: Marshal McGraw first shoots ducks to earn peace offerings, then rides into the town of Kane, jumping obstacles along the way. There he has to hold his own against snipers before riding after a departing train. The stages repeat with rising difficulty. As a Mastertronic budget game, Kane found many buyers thanks to its tidy graphics and variety.\n\nReleased on tape and disk at budget price, and besides the C64 also for the Spectrum, Amstrad CPC, BBC Micro, Acorn Electron and C16/Plus/4, where only the shooting scenes are included. It is controlled with a joystick in port 2. The music uses the overture to Rossini's 'William Tell'. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nDevelopment: John Darnell, N. Baikaloff, J. Porch"
+  },
+  "images": {
+    "ss": "images/81/8120cc16a83d577632987f814d2954618174e55c.png",
+    "sstitle": "images/cd/cd908a0e11d5a26ccc4b59500e963023b94b4c8f.png"
+  }
+}

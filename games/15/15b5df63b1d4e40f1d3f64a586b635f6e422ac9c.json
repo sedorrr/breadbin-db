@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "15b5df63b1d4e40f1d3f64a586b635f6e422ac9c",
+  "md5": "2bde94e051c43769c93eefcc781393ed",
+  "crc32": "cbbc6501",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LASTDUEL.D64"
+  ],
+  "screenscraper_id": "114171",
+  "title": "Last Duel",
+  "year": "1989",
+  "publisher": "U.S. Gold",
+  "developer": "Tiertex",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Capcom-Automaten Last Duel: Inter Planet War 2012 von 1988. Der senkrecht scrollende Shooter wechselt zwischen Abschnitten, in denen der Spieler ein bewaffnetes Fahrzeug über Straßen und Brücken steuert, und Flugabschnitten mit einem Raumschiff. Am Ende der Abschnitte warten große Endgegner, unterwegs verbessern Extras die Bewaffnung. Zu zweit kann gleichzeitig gespielt werden.\n\nDie C64-Fassung stammt von Tiertex und erschien bei U.S. Gold (in Europa unter dem Label Go!). Gesteuert wird per Joystick in Port 2. Die Presse lobte das hohe Tempo, aber auch den hohen Schwierigkeitsgrad.\n\nMusik: Mark Tait",
+  "texts": {
+    "de": "Umsetzung des Capcom-Automaten Last Duel: Inter Planet War 2012 von 1988. Der senkrecht scrollende Shooter wechselt zwischen Abschnitten, in denen der Spieler ein bewaffnetes Fahrzeug über Straßen und Brücken steuert, und Flugabschnitten mit einem Raumschiff. Am Ende der Abschnitte warten große Endgegner, unterwegs verbessern Extras die Bewaffnung. Zu zweit kann gleichzeitig gespielt werden.\n\nDie C64-Fassung stammt von Tiertex und erschien bei U.S. Gold (in Europa unter dem Label Go!). Gesteuert wird per Joystick in Port 2. Die Presse lobte das hohe Tempo, aber auch den hohen Schwierigkeitsgrad.\n\nMusik: Mark Tait",
+    "en": "A conversion of Capcom's 1988 arcade game Last Duel: Inter Planet War 2012. The vertically scrolling shooter alternates between sections in which the player drives an armed vehicle along roads and bridges and flying sections in a spaceship. Large bosses wait at the end of each section, and power-ups improve the weapons along the way. Two players can play at the same time.\n\nThe C64 version was made by Tiertex and released by U.S. Gold (in Europe on the Go! label). Controlled by joystick in port 2. The press praised its fast pace but also noted its high difficulty.\n\nMusic: Mark Tait"
+  }
+}

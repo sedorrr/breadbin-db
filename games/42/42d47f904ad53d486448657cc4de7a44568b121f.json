@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "42d47f904ad53d486448657cc4de7a44568b121f",
+  "md5": "c502df69aaf3300716d50b2916204cbf",
+  "crc32": "a431a696",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TEMPLEA2.D64"
+  ],
+  "screenscraper_id": "112273",
+  "title": "Temple of Apshai",
+  "year": "1983",
+  "publisher": "Epyx",
+  "developer": "Automated Simulations / Epyx (Jon Freeman, Jeff Johnson); C64: Steve Bryson",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Temple of Apshai ist eines der ersten Computer-Rollenspiele überhaupt. Der Spieler erschafft im Programmteil des Wirtshauses einen Helden, feilscht mit Händlern um Ausrüstung und steigt dann in die Ruinen des Tempels hinab. Die Verliese werden von oben gezeigt; Kämpfe verbinden Runden mit Echtzeit, und Erschöpfung zwingt immer wieder zur Rast. Zu jedem Raum gehört eine nummerierte Beschreibung im Handbuch, die die knappe Grafik ergänzt. Das Spiel prägte die frühen Rollenspiele und begründete die Apshai-Reihe von Epyx.\n\nDas Original erschien 1979 für TRS-80 und PET; die C64-Fassung kam 1983 bei Epyx auf Diskette heraus. Gespielt wird mit Tastatur und Joystick. Zum Spiel gehören die Erweiterungen Upper Reaches of Apshai (vier leichtere Ebenen mit humorvollem Ton) und Curse of Ra (vier schwere Ebenen im alten Ägypten), die das Hauptspiel voraussetzen; 1985 erschienen alle drei gemeinsam als Temple of Apshai Trilogy.\n\nEntwurf: Jon Freeman, Jeff Johnson · Code (C64): Steve Bryson · Erweiterungen: Tim Bird, Mark Madrid, Andrew Martin",
+  "texts": {
+    "de": "Temple of Apshai ist eines der ersten Computer-Rollenspiele überhaupt. Der Spieler erschafft im Programmteil des Wirtshauses einen Helden, feilscht mit Händlern um Ausrüstung und steigt dann in die Ruinen des Tempels hinab. Die Verliese werden von oben gezeigt; Kämpfe verbinden Runden mit Echtzeit, und Erschöpfung zwingt immer wieder zur Rast. Zu jedem Raum gehört eine nummerierte Beschreibung im Handbuch, die die knappe Grafik ergänzt. Das Spiel prägte die frühen Rollenspiele und begründete die Apshai-Reihe von Epyx.\n\nDas Original erschien 1979 für TRS-80 und PET; die C64-Fassung kam 1983 bei Epyx auf Diskette heraus. Gespielt wird mit Tastatur und Joystick. Zum Spiel gehören die Erweiterungen Upper Reaches of Apshai (vier leichtere Ebenen mit humorvollem Ton) und Curse of Ra (vier schwere Ebenen im alten Ägypten), die das Hauptspiel voraussetzen; 1985 erschienen alle drei gemeinsam als Temple of Apshai Trilogy.\n\nEntwurf: Jon Freeman, Jeff Johnson · Code (C64): Steve Bryson · Erweiterungen: Tim Bird, Mark Madrid, Andrew Martin",
+    "en": "Temple of Apshai is one of the very first computer role-playing games. In the innkeeper section the player creates a hero, haggles with merchants over equipment and then descends into the ruins of the temple. The dungeons are shown from above; combat mixes turns with real time, and fatigue forces frequent rests. Every room has a numbered description in the manual that supplements the sparse graphics. The game shaped early role-playing games and started Epyx's Apshai series.\n\nThe original appeared in 1979 for the TRS-80 and PET; the C64 version was released by Epyx in 1983 on disk. It is played with keyboard and joystick. The game has two expansions, Upper Reaches of Apshai (four easier levels with a humorous tone) and Curse of Ra (four hard levels set in ancient Egypt), both of which require the main game; in 1985 all three were released together as Temple of Apshai Trilogy.\n\nDesign: Jon Freeman, Jeff Johnson · Code (C64): Steve Bryson · Expansions: Tim Bird, Mark Madrid, Andrew Martin"
+  },
+  "images": {
+    "sstitle": "images/ac/ac4fd90a6420186dff2029f550755e8d02943fa8.png"
+  }
+}

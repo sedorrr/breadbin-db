@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "323f25f19e3da0dd9f5a68d9b82ec84e00544c30",
+  "md5": "598d45f141042b6b65675e7eff8b54e7",
+  "crc32": "e256cad0",
+  "size": 12548,
+  "format": "PRG",
+  "files": [
+    "Sword of Fargoal, The.prg"
+  ],
+  "screenscraper_id": "151138",
+  "title": "The Sword of Fargoal",
+  "year": "1983",
+  "publisher": "Epyx",
+  "developer": "Jeff McCord",
+  "genres": [
+    "Rollenspiele",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Ein Krieger steigt in ein Verlies mit zufällig erzeugten Ebenen hinab, um das sagenhafte Schwert von Fargoal zu finden. Jede Ebene ist anfangs dunkel und wird erst beim Erkunden sichtbar; Kämpfe laufen automatisch ab, sobald der Held auf ein Monster trifft. Erfahrung steigert Kampfkraft und Lebenspunkte, Gold lässt sich in Tempeln gegen Erfahrung eintauschen, und manche Truhen sind Fallen. Ist das Schwert gefunden, beginnt ein Countdown, innerhalb dessen der Held an die Oberfläche zurückkehren muss. Fargoal gilt als früher Vertreter der Roguelike-Spiele auf Heimcomputern.\n\nJeff McCord entwickelte das Spiel aus seinem früheren Verliesspiel Gammaquest II; Epyx veröffentlichte es 1982 für den VIC-20 und 1983 für den C64. Gesteuert wird mit dem Joystick. Neben der Diskettenfassung gibt es eine Umsetzung als OneLoad64-Modul. 2009 erschien eine erweiterte Neuauflage für iOS.\n\nCode und Design: Jeff McCord",
+  "texts": {
+    "de": "Ein Krieger steigt in ein Verlies mit zufällig erzeugten Ebenen hinab, um das sagenhafte Schwert von Fargoal zu finden. Jede Ebene ist anfangs dunkel und wird erst beim Erkunden sichtbar; Kämpfe laufen automatisch ab, sobald der Held auf ein Monster trifft. Erfahrung steigert Kampfkraft und Lebenspunkte, Gold lässt sich in Tempeln gegen Erfahrung eintauschen, und manche Truhen sind Fallen. Ist das Schwert gefunden, beginnt ein Countdown, innerhalb dessen der Held an die Oberfläche zurückkehren muss. Fargoal gilt als früher Vertreter der Roguelike-Spiele auf Heimcomputern.\n\nJeff McCord entwickelte das Spiel aus seinem früheren Verliesspiel Gammaquest II; Epyx veröffentlichte es 1982 für den VIC-20 und 1983 für den C64. Gesteuert wird mit dem Joystick. Neben der Diskettenfassung gibt es eine Umsetzung als OneLoad64-Modul. 2009 erschien eine erweiterte Neuauflage für iOS.\n\nCode und Design: Jeff McCord",
+    "en": "A warrior descends into a dungeon of randomly generated levels to find the legendary Sword of Fargoal. Each level starts dark and is revealed only through exploration; combat happens automatically as soon as the hero meets a monster. Experience improves fighting skill and hit points, gold can be traded for experience at temples, and some chests are traps. Once the sword is found, a countdown starts within which the hero has to make it back to the surface. Fargoal is regarded as an early roguelike on home computers.\n\nJeff McCord developed the game from his earlier dungeon game Gammaquest II; Epyx released it for the VIC-20 in 1982 and for the C64 in 1983. It is played with a joystick. Besides the disk version there is a OneLoad64 cartridge conversion. An enhanced remake for iOS appeared in 2009.\n\nCode and design: Jeff McCord"
+  },
+  "images": {
+    "ss": "images/c4/c4e29082a4d07a364db12aea750105ad38b21369.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "008d4317f209ab48355094d31356856072ca1446",
+  "md5": "8afe83cbac20bbaffd5c63b935d06ea3",
+  "crc32": "81314f31",
+  "size": 50573,
+  "format": "T64",
+  "files": [
+    "GALENCIA.T64"
+  ],
+  "screenscraper_id": "491972",
+  "title": "Galencia",
+  "year": "2017",
+  "publisher": "Protovision",
+  "developer": "Jason Aldred",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Ein neues C64-Spiel als Hommage an Namcos Galaga: Das eigene Schiff bewegt sich am unteren Bildrand und schießt auf Formationen insektenartiger Gegner, die in Schleifen einfliegen und Sturzangriffe ausführen. In 50 Stufen kommen Bonusrunden mit Asteroiden und Endgegner in Stufe 25 und 50 hinzu. Ein von Sirenen gefangenes Schiff lässt sich befreien, danach feuern zwei Schiffe zugleich. Mit flüssiger Bewegung, sauberer Grafik und eigens geschriebener SID-Musik wurde Galencia zu einem der beliebtesten neuen Ballerspiele für den C64.\n\nErschienen 2017 bei Protovision als Modul, außerdem auf Diskette und Kassette sowie als Download. Gesteuert wird mit dem Joystick in Port 2. Es gibt auch eine verkürzte Fassung „Galencia Mini“.\n\nCode: Jason Aldred · Grafik: Jason Aldred, Saul Cross · Musik: Pulsebot, Saul Cross",
+  "texts": {
+    "de": "Ein neues C64-Spiel als Hommage an Namcos Galaga: Das eigene Schiff bewegt sich am unteren Bildrand und schießt auf Formationen insektenartiger Gegner, die in Schleifen einfliegen und Sturzangriffe ausführen. In 50 Stufen kommen Bonusrunden mit Asteroiden und Endgegner in Stufe 25 und 50 hinzu. Ein von Sirenen gefangenes Schiff lässt sich befreien, danach feuern zwei Schiffe zugleich. Mit flüssiger Bewegung, sauberer Grafik und eigens geschriebener SID-Musik wurde Galencia zu einem der beliebtesten neuen Ballerspiele für den C64.\n\nErschienen 2017 bei Protovision als Modul, außerdem auf Diskette und Kassette sowie als Download. Gesteuert wird mit dem Joystick in Port 2. Es gibt auch eine verkürzte Fassung „Galencia Mini“.\n\nCode: Jason Aldred · Grafik: Jason Aldred, Saul Cross · Musik: Pulsebot, Saul Cross",
+    "en": "A new C64 game paying tribute to Namco's Galaga: the player's ship moves along the bottom of the screen and fires at formations of insect-like enemies that swoop in on looping paths and make diving attacks. Over 50 levels there are bonus rounds with asteroids and bosses at levels 25 and 50. A ship captured by sirens can be rescued, after which two ships fire at once. With smooth movement, clean graphics and specially written SID music, Galencia became one of the most popular new shooters for the C64.\n\nReleased in 2017 by Protovision as a cartridge, as well as on disk, tape and as a download. It is controlled with a joystick in port 2. There is also a cut-down version called 'Galencia Mini'.\n\nCode: Jason Aldred · Graphics: Jason Aldred, Saul Cross · Music: Pulsebot, Saul Cross"
+  },
+  "images": {
+    "ss": "images/6a/6a3629c25a6f9d18bb3cb125f22dd565030922f0.png",
+    "sstitle": "images/16/16419758f25eca8c8e679d908821a65bf828f2a8.png"
+  }
+}

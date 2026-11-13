@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1361d7e909634976b1d2d1da125302711d1a0658",
+  "md5": "518d9b6ccc807549d93097ec56ac2af0",
+  "crc32": "1dfdcd52",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Super Trolley.crt"
+  ],
+  "screenscraper_id": "36743",
+  "title": "Super Trolley",
+  "year": "1988",
+  "publisher": "Mastertronic",
+  "developer": "Icon Design",
+  "genres": [
+    "Geschicklichkeit",
+    "Gelegenheitsspiel"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler arbeitet als Aushilfe in einem Supermarkt und muss eine Woche lang von Montag bis Samstag die täglichen Aufgaben erledigen, ohne entlassen zu werden. Waren werden im Lager ausgezeichnet und mit dem Rollwagen in die Regale geräumt; dazu kommen Zwischenfälle wie verlorene Kinder oder Hunde im Laden. Wer seine Arbeit schafft, wird befördert, bis hin zum Filialleiter. Das ungewöhnliche Thema machte das Spiel bekannt, die C64-Fassung beschränkt sich allerdings weitgehend auf das Auffüllen der Regale.\n\nSuper Trolley erschien 1988 beim Budget-Anbieter Mastertronic auf Kassette. Gesteuert wird mit dem Joystick in Port 2. Das Spiel entstand nach einer Zuschauerzuschrift an eine britische Fernsehsendung.\n\nCode: P. D. Marshall · Musik: Jason C. Brooke",
+  "texts": {
+    "de": "Der Spieler arbeitet als Aushilfe in einem Supermarkt und muss eine Woche lang von Montag bis Samstag die täglichen Aufgaben erledigen, ohne entlassen zu werden. Waren werden im Lager ausgezeichnet und mit dem Rollwagen in die Regale geräumt; dazu kommen Zwischenfälle wie verlorene Kinder oder Hunde im Laden. Wer seine Arbeit schafft, wird befördert, bis hin zum Filialleiter. Das ungewöhnliche Thema machte das Spiel bekannt, die C64-Fassung beschränkt sich allerdings weitgehend auf das Auffüllen der Regale.\n\nSuper Trolley erschien 1988 beim Budget-Anbieter Mastertronic auf Kassette. Gesteuert wird mit dem Joystick in Port 2. Das Spiel entstand nach einer Zuschauerzuschrift an eine britische Fernsehsendung.\n\nCode: P. D. Marshall · Musik: Jason C. Brooke",
+    "en": "The player works as a temp in a supermarket and has to complete the daily tasks for a week, from Monday to Saturday, without getting fired. Goods are priced in the warehouse and wheeled onto the shelves on a trolley, with interruptions such as lost children or dogs in the store. Doing the job well brings promotion, all the way to store manager. The unusual theme made the game known, although the C64 version largely confines itself to restocking shelves.\n\nSuper Trolley was released in 1988 by budget publisher Mastertronic on cassette. It is played with a joystick in port 2. The game came about after a viewer's letter to a British TV show.\n\nCode: P. D. Marshall · Music: Jason C. Brooke"
+  },
+  "images": {
+    "sstitle": "images/ce/ce9f57fb02e8ff885db9a7399630299745d6a51b.png"
+  }
+}

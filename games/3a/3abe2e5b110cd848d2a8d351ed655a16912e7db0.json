@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3abe2e5b110cd848d2a8d351ed655a16912e7db0",
+  "md5": "b0c276df31339288be1328a9d20468dd",
+  "crc32": "26da2c59",
+  "size": 8272,
+  "format": "CRT",
+  "files": [
+    "Omega Race.crt"
+  ],
+  "screenscraper_id": "116430",
+  "title": "Omega Race",
+  "year": "1982",
+  "publisher": "Commodore",
+  "developer": "Midway",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Midway-Automaten von 1981, entworfen von Ron Haliburton. Der Spieler steuert ein Raumschiff, das sich wie bei Asteroids dreht und per Schub beschleunigt, auf einer Rennbahn rund um eine Anzeigetafel in der Bildschirmmitte. Die Ränder der Bahn wirken als Prallwände, an denen das Schiff abprallt. Gegnerische Droiden, Kommandoschiffe und Todesschiffe legen Minen und greifen an; mit wachsender Punktzahl werden sie schneller und gefährlicher. Die Vektorgrafik des Automaten wird auf dem C64 durch einfarbige, feine Linien nachgebildet.\n\nErschien 1982 bei Commodore als Modul; daneben kursieren Datei-Fassungen für Kassette und Diskette. Gesteuert wird per Joystick, Tastatur oder Paddles; die Farben von Schiff und Hintergrund lassen sich mit F5 und F7 ändern.",
+  "texts": {
+    "de": "Umsetzung des Midway-Automaten von 1981, entworfen von Ron Haliburton. Der Spieler steuert ein Raumschiff, das sich wie bei Asteroids dreht und per Schub beschleunigt, auf einer Rennbahn rund um eine Anzeigetafel in der Bildschirmmitte. Die Ränder der Bahn wirken als Prallwände, an denen das Schiff abprallt. Gegnerische Droiden, Kommandoschiffe und Todesschiffe legen Minen und greifen an; mit wachsender Punktzahl werden sie schneller und gefährlicher. Die Vektorgrafik des Automaten wird auf dem C64 durch einfarbige, feine Linien nachgebildet.\n\nErschien 1982 bei Commodore als Modul; daneben kursieren Datei-Fassungen für Kassette und Diskette. Gesteuert wird per Joystick, Tastatur oder Paddles; die Farben von Schiff und Hintergrund lassen sich mit F5 und F7 ändern.",
+    "en": "A conversion of Midway's 1981 arcade game, designed by Ron Haliburton. The player flies a spaceship that rotates and thrusts as in Asteroids, around a track surrounding a scoreboard in the middle of the screen. The edges of the track act as bumpers off which the ship rebounds. Enemy droids, command ships and death ships lay mines and attack; as the score rises they become faster and more dangerous. The arcade game's vector graphics are recreated on the C64 with fine single-colour lines.\n\nReleased by Commodore in 1982 as a cartridge; file versions for cassette and disk also circulate. Controlled by joystick, keyboard or paddles; the ship and background colours can be changed with F5 and F7."
+  },
+  "images": {
+    "ss": "images/d3/d3fcb5f3a02d39a3a286f165360afff476fb7b39.png",
+    "sstitle": "images/33/330e17a5a3898c0871ae6284dfb004c64794ab45.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3eda5195a8bf7bea32f13ff8fab1153860912c26",
+  "md5": "cbb595ace748bedf8614f9a3f5c59916",
+  "crc32": "abd84a75",
+  "size": 517168,
+  "format": "CRT",
+  "files": [
+    "Atomic Robo-Kid.crt"
+  ],
+  "screenscraper_id": "35956",
+  "title": "Atomic Robo-Kid",
+  "year": "1990",
+  "publisher": "Activision",
+  "developer": "Activision (Michael J. Archer)",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Atomic Robo-Kid ist die Umsetzung des UPL-Automaten von 1988. Man steuert einen kleinen fliegenden Roboter durch verwinkelte, in mehrere Richtungen scrollende Level auf einem von Außerirdischen besetzten Planeten. Unterwegs sammelt er verschiedene Waffen ein, zwischen denen er wechseln kann, und trifft in eigenen Duellabschnitten auf große Gegnerroboter. Die Level verlangen neben schnellen Reflexen auch das Finden des richtigen Weges zum Ausgang. Das Spiel fällt durch seinen comicartigen Helden und die vielen Gegnertypen auf.\n\nDie C64-Fassung erschien 1990 bei Activision auf Kassette und Diskette. Es gibt EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die auch die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Michael J. Archer · Grafik: Mark Jones · Musik: Martin Walker",
+  "texts": {
+    "de": "Atomic Robo-Kid ist die Umsetzung des UPL-Automaten von 1988. Man steuert einen kleinen fliegenden Roboter durch verwinkelte, in mehrere Richtungen scrollende Level auf einem von Außerirdischen besetzten Planeten. Unterwegs sammelt er verschiedene Waffen ein, zwischen denen er wechseln kann, und trifft in eigenen Duellabschnitten auf große Gegnerroboter. Die Level verlangen neben schnellen Reflexen auch das Finden des richtigen Weges zum Ausgang. Das Spiel fällt durch seinen comicartigen Helden und die vielen Gegnertypen auf.\n\nDie C64-Fassung erschien 1990 bei Activision auf Kassette und Diskette. Es gibt EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die auch die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Michael J. Archer · Grafik: Mark Jones · Musik: Martin Walker",
+    "en": "Atomic Robo-Kid is the conversion of UPL's 1988 arcade game. The player steers a small flying robot through winding, multi-directionally scrolling levels on a planet occupied by aliens. Along the way it collects different weapons that it can switch between, and in separate duel sections it faces large enemy robots. Besides quick reflexes, the levels require finding the right way to the exit. The game stands out for its cartoon-like hero and wide variety of enemies.\n\nThe C64 version was released in 1990 by Activision on cassette and disk. There are EasyFlash conversions, including one by $olo1870 (MultiLoad64) that also loads the additional parts from the cartridge. It is controlled with a joystick in port 2.\n\nCode: Michael J. Archer · Graphics: Mark Jones · Music: Martin Walker"
+  },
+  "images": {
+    "sstitle": "images/90/90f43457e7eb661b3311295860ee8c1d17069308.png"
+  }
+}

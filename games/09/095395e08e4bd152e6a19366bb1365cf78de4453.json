@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "095395e08e4bd152e6a19366bb1365cf78de4453",
+  "md5": "b309386f5b4855744f97b35cbd00ed6c",
+  "crc32": "a83a34f7",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Ancipital.crt"
+  ],
+  "screenscraper_id": "109616",
+  "title": "Ancipital",
+  "year": "1984",
+  "publisher": "Llamasoft",
+  "developer": "Jeff Minter",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Das ziegenartige Wesen Ancipital, das zuerst in Minters Sheep in Space auftrat, kämpft sich durch hundert Räume einer feindlichen Basis. Die Besonderheit ist die Schwerkraft: Ancipital kann auf jeder der vier Wände eines Raumes stehen, und ein Sprung trägt ihn quer durch den Raum zur gegenüberliegenden Seite. Neben Sprung und Schuss steht ein „Body Bomb“ genannter Angriff zur Verfügung. Das ungewöhnliche Raumgefühl und Minters typisch schräge Gegner machen das Spiel zu einem eigenwilligen Llamasoft-Klassiker.\n\nAncipital erschien 1984 bei Llamasoft und lag später unter anderem einer Heftkassette der Zeitschrift Commodore Format bei. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Jeff Minter · Grafik: Jeff Minter · Musik: Jeff Minter",
+  "texts": {
+    "de": "Das ziegenartige Wesen Ancipital, das zuerst in Minters Sheep in Space auftrat, kämpft sich durch hundert Räume einer feindlichen Basis. Die Besonderheit ist die Schwerkraft: Ancipital kann auf jeder der vier Wände eines Raumes stehen, und ein Sprung trägt ihn quer durch den Raum zur gegenüberliegenden Seite. Neben Sprung und Schuss steht ein „Body Bomb“ genannter Angriff zur Verfügung. Das ungewöhnliche Raumgefühl und Minters typisch schräge Gegner machen das Spiel zu einem eigenwilligen Llamasoft-Klassiker.\n\nAncipital erschien 1984 bei Llamasoft und lag später unter anderem einer Heftkassette der Zeitschrift Commodore Format bei. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Jeff Minter · Grafik: Jeff Minter · Musik: Jeff Minter",
+    "en": "The goat-like creature Ancipital, first seen in Minter's Sheep in Space, fights its way through a hundred rooms of an enemy base. The twist is gravity: Ancipital can stand on any of a room's four walls, and a jump carries him across the room to the opposite side. Besides jumping and shooting he has an attack called the \"Body Bomb\". The unusual sense of space and Minter's typically bizarre enemies make it an idiosyncratic Llamasoft classic.\n\nAncipital was released by Llamasoft in 1984 and later appeared, among others, on a Commodore Format covertape. It is played with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Jeff Minter · Graphics: Jeff Minter · Music: Jeff Minter"
+  },
+  "images": {
+    "ss": "images/16/16f9a264e3e1465d62216029e3cdf73ea6249d48.png"
+  }
+}

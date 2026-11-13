@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "0138c3ba0444d8ba056965c8aba56d4ab4452cf9",
+  "md5": "ffbc5f896d4d418afef8bd5652e231fa",
+  "crc32": "a43406bd",
+  "size": 1948538,
+  "format": "TAP",
+  "files": [
+    "LAWWEST.TAP"
+  ],
+  "screenscraper_id": "114187",
+  "title": "Law of the West",
+  "year": "1985",
+  "publisher": "Accolade",
+  "developer": "Alan Miller",
+  "genres": [
+    "Abenteuer",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Western-Spiel von Accolade-Mitgründer Alan Miller, in dem der Spieler als Sheriff einen Tag in der Stadt Gold Gulch verbringt. Nacheinander tauchen Bürger, Banditen und andere Gestalten vor ihm auf; im Gespräch wählt er aus mehreren Antwortmöglichkeiten und entscheidet so, ob die Begegnung friedlich bleibt oder in einem Revolverduell endet. Zieht er zu früh oder zu spät, kann das den Sheriff das Leben kosten oder Unschuldige treffen. Am Ende des Tages wird seine Arbeit bewertet. Die Verbindung von Dialogen mit Reaktionsduellen war damals ungewöhnlich.\n\nErschien bei Accolade auf Diskette und Kassette, in den meisten Ländern Europas bei U.S. Gold. Daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2.\n\nCode: Alan Miller · Grafik: Mimi Doggett · Musik: Ed Bogas",
+  "texts": {
+    "de": "Western-Spiel von Accolade-Mitgründer Alan Miller, in dem der Spieler als Sheriff einen Tag in der Stadt Gold Gulch verbringt. Nacheinander tauchen Bürger, Banditen und andere Gestalten vor ihm auf; im Gespräch wählt er aus mehreren Antwortmöglichkeiten und entscheidet so, ob die Begegnung friedlich bleibt oder in einem Revolverduell endet. Zieht er zu früh oder zu spät, kann das den Sheriff das Leben kosten oder Unschuldige treffen. Am Ende des Tages wird seine Arbeit bewertet. Die Verbindung von Dialogen mit Reaktionsduellen war damals ungewöhnlich.\n\nErschien bei Accolade auf Diskette und Kassette, in den meisten Ländern Europas bei U.S. Gold. Daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2.\n\nCode: Alan Miller · Grafik: Mimi Doggett · Musik: Ed Bogas",
+    "en": "A western game by Accolade co-founder Alan Miller in which the player spends a day as sheriff of the town of Gold Gulch. Townspeople, bandits and other characters appear before him one after another; in conversation he chooses from several replies and so decides whether an encounter stays peaceful or ends in a gunfight. Drawing too early or too late can cost the sheriff his life or hit innocent people. At the end of the day his work is assessed. The combination of dialogue and reaction duels was unusual at the time.\n\nReleased by Accolade on disk and cassette, and in most of Europe by U.S. Gold. EasyFlash cartridge conversions also exist. Controlled by joystick in port 2.\n\nCode: Alan Miller · Graphics: Mimi Doggett · Music: Ed Bogas"
+  },
+  "images": {
+    "ss": "images/d5/d5e4d7f6194b61a9681c32abe951d32c6397f6c1.png",
+    "sstitle": "images/40/40be87cb53f1ea4741d27a2bb1da744632ef42fe.png"
+  }
+}

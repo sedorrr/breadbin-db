@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "2bda9ecdf0625294e9b1db696d2d12aa9ef7c6f2",
+  "md5": "c5d7f35c9354deb1dd1846699af1817c",
+  "crc32": "1f38a14c",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Game Over.crt"
+  ],
+  "screenscraper_id": "36354",
+  "title": "Game Over",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Dinamic",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Der Krieger Arkos lehnt sich gegen die Herrscherin Gremla auf, die mehrere Galaxien unterdrückt. In zwei Teilen kämpft er sich mit Laserwaffe und Granaten durch Planetenlandschaften und feindliche Festungen, vorbei an Robotern, Wachen und Kreaturen. Den Code für den zweiten Teil erhält man nach dem Abschluss des ersten. Das Spiel ist schwer und schnell und wurde auch durch sein Titelbild von Luis Royo bekannt.\n\nGame Over stammt vom spanischen Studio Dinamic und erschien 1987 in Großbritannien bei Imagine, zuerst für den ZX Spectrum. Die C64-Fassung programmierte Imagine; gesteuert wird per Joystick in Port 1. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Paul Clansey · Grafik: Jane Lowe · Musik: Martin Galway",
+  "texts": {
+    "de": "Der Krieger Arkos lehnt sich gegen die Herrscherin Gremla auf, die mehrere Galaxien unterdrückt. In zwei Teilen kämpft er sich mit Laserwaffe und Granaten durch Planetenlandschaften und feindliche Festungen, vorbei an Robotern, Wachen und Kreaturen. Den Code für den zweiten Teil erhält man nach dem Abschluss des ersten. Das Spiel ist schwer und schnell und wurde auch durch sein Titelbild von Luis Royo bekannt.\n\nGame Over stammt vom spanischen Studio Dinamic und erschien 1987 in Großbritannien bei Imagine, zuerst für den ZX Spectrum. Die C64-Fassung programmierte Imagine; gesteuert wird per Joystick in Port 1. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Paul Clansey · Grafik: Jane Lowe · Musik: Martin Galway",
+    "en": "The warrior Arkos rebels against the ruler Gremla, who oppresses several galaxies. Over two parts he fights his way through planetary landscapes and enemy fortresses with a laser weapon and grenades, past robots, guards and creatures. The code for the second part is revealed after completing the first. The game is tough and fast and also became known for its cover art by Luis Royo.\n\nGame Over comes from the Spanish studio Dinamic and was released in Britain by Imagine in 1987, first for the ZX Spectrum. The C64 version was programmed by Imagine; it is controlled with a joystick in port 1. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode: Paul Clansey · Graphics: Jane Lowe · Music: Martin Galway"
+  },
+  "images": {
+    "sstitle": "images/9b/9bce4df29043bbc8fb032e6a4b2f69c60fd08567.png"
+  }
+}

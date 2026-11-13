@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "2d4434212bb582e67f874d82f307283e540c2d22",
+  "md5": "a7f62214fe39bfe45fbb4aede6e1136a",
+  "crc32": "8c8103f2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BDASH04B.D64"
+  ],
+  "screenscraper_id": "36413",
+  "title": "Boulder Dash Construction Kit",
+  "year": "1986",
+  "publisher": "First Star Software",
+  "developer": "Jeffrey Schneider, Peter Liepa",
+  "genres": [
+    "Action / Labyrinth",
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Das Boulder Dash Construction Kit macht aus dem Klassiker Boulder Dash ein Werkzeug für eigene Höhlen. Mit einem Editor legt man Wände, Erde, Felsbrocken, Diamanten, Gegner und Ausgang fest und bestimmt Zeitlimit und benötigte Diamantenzahl; die fertigen Höhlen lassen sich speichern und mit Rockford durchspielen. Das Spielprinzip bleibt gleich: Rockford gräbt sich durch die Erde, sammelt Diamanten und muss herabstürzenden Felsen, Glühwürmchen und Schmetterlingen ausweichen. Zusätzlich liegt eine Reihe neuer, fertiger Höhlen bei, die auch als „Boulder Dash IV“ bekannt sind.\n\nDas Construction Kit erschien 1986 bei First Star Software auf Diskette, in den USA 1987 bei Epyx. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler spielen abwechselnd.\n\nCode: Jeffrey Schneider, Peter Liepa · Grafik und Musik: Peter Liepa",
+  "texts": {
+    "de": "Das Boulder Dash Construction Kit macht aus dem Klassiker Boulder Dash ein Werkzeug für eigene Höhlen. Mit einem Editor legt man Wände, Erde, Felsbrocken, Diamanten, Gegner und Ausgang fest und bestimmt Zeitlimit und benötigte Diamantenzahl; die fertigen Höhlen lassen sich speichern und mit Rockford durchspielen. Das Spielprinzip bleibt gleich: Rockford gräbt sich durch die Erde, sammelt Diamanten und muss herabstürzenden Felsen, Glühwürmchen und Schmetterlingen ausweichen. Zusätzlich liegt eine Reihe neuer, fertiger Höhlen bei, die auch als „Boulder Dash IV“ bekannt sind.\n\nDas Construction Kit erschien 1986 bei First Star Software auf Diskette, in den USA 1987 bei Epyx. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler spielen abwechselnd.\n\nCode: Jeffrey Schneider, Peter Liepa · Grafik und Musik: Peter Liepa",
+    "en": "The Boulder Dash Construction Kit turns the classic Boulder Dash into a tool for building your own caves. An editor is used to place walls, earth, boulders, diamonds, enemies and the exit and to set the time limit and number of diamonds required; finished caves can be saved and played through with Rockford. The gameplay is unchanged: Rockford digs through the earth, collects diamonds and has to avoid falling boulders, fireflies and butterflies. In addition, a set of new ready-made caves is included, also known as \"Boulder Dash IV\".\n\nThe Construction Kit was released in 1986 by First Star Software on disk, and in the US by Epyx in 1987. It is controlled with a joystick in port 2; two players take turns.\n\nCode: Jeffrey Schneider, Peter Liepa · Graphics and music: Peter Liepa"
+  },
+  "images": {
+    "sstitle": "images/15/1515ddc06fe1011af0f4070b5092484d4ba5c03e.png"
+  }
+}

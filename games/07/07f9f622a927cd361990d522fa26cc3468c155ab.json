@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "07f9f622a927cd361990d522fa26cc3468c155ab",
+  "md5": "1290cafdbded76fb8fb4caf657d6f0bd",
+  "crc32": "f4e07719",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ICEGUYS.D64"
+  ],
+  "screenscraper_id": "113144",
+  "title": "Ice Guys",
+  "year": "1997",
+  "publisher": "Protovision",
+  "developer": "Knights of Bytes (Chester Kollschen)",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Plattformspiel mit festen Bildschirmen: Die Helden bewerfen Monster mit Schneebällen, bis diese in einer Schneekugel stecken, und stoßen die Kugel dann an, damit sie über die Plattformen rollt und weitere Gegner mitreißt. Dabei darf der Mitspieler nicht getroffen werden. Das Spiel umfasst vier Welten mit je acht Stufen sowie ein Bonusspiel mit einem Turboschlitten, in dem Eisstücke für ein Extraleben gesammelt werden. Das Prinzip erinnert an den Automaten Snow Bros. und war eines der ersten Spiele von Protovision.\n\nErschienen 1997 auf Diskette, heute als Download; nur PAL. Zwei Spieler spielen gleichzeitig, jeder mit einem Joystick. Daneben gibt es eine Umsetzung als EasyFlash-Modul.\n\nCode und Grafik: Chester Kollschen · Musik: Matthias Deutsch",
+  "texts": {
+    "de": "Ein Plattformspiel mit festen Bildschirmen: Die Helden bewerfen Monster mit Schneebällen, bis diese in einer Schneekugel stecken, und stoßen die Kugel dann an, damit sie über die Plattformen rollt und weitere Gegner mitreißt. Dabei darf der Mitspieler nicht getroffen werden. Das Spiel umfasst vier Welten mit je acht Stufen sowie ein Bonusspiel mit einem Turboschlitten, in dem Eisstücke für ein Extraleben gesammelt werden. Das Prinzip erinnert an den Automaten Snow Bros. und war eines der ersten Spiele von Protovision.\n\nErschienen 1997 auf Diskette, heute als Download; nur PAL. Zwei Spieler spielen gleichzeitig, jeder mit einem Joystick. Daneben gibt es eine Umsetzung als EasyFlash-Modul.\n\nCode und Grafik: Chester Kollschen · Musik: Matthias Deutsch",
+    "en": "A single-screen platform game: the heroes pelt monsters with snowballs until they are trapped in a snowball, then push it so it rolls across the platforms and sweeps away other enemies. The fellow player must not be hit in the process. The game has four worlds of eight stages each, plus a bonus game on a turbo sledge in which ice pieces are collected for an extra life. The idea is reminiscent of the arcade game Snow Bros. and it was one of Protovision's first games.\n\nReleased in 1997 on disk, now available as a download; PAL only. Two players play simultaneously, each with a joystick. There is also a conversion as an EasyFlash cartridge.\n\nCode and graphics: Chester Kollschen · Music: Matthias Deutsch"
+  },
+  "images": {
+    "sstitle": "images/5e/5e1e76faae61aece7a296807cf22f3c51efe8314.png"
+  }
+}

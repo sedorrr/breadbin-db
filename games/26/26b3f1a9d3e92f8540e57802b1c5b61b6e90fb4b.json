@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "26b3f1a9d3e92f8540e57802b1c5b61b6e90fb4b",
+  "md5": "98a59ff5cb098d503a57a8a10213b026",
+  "crc32": "641111e7",
+  "size": 139600,
+  "format": "CRT",
+  "files": [
+    "Super Huey [EasyFlash].crt"
+  ],
+  "screenscraper_id": "115559",
+  "title": "Super Huey UH-IX",
+  "year": "1985",
+  "publisher": "Cosmi",
+  "developer": "Paul Norman",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Super Huey ist eine Hubschraubersimulation, in der der Spieler einen experimentellen Kampfhubschrauber fliegt. Zur Wahl stehen vier Aufgaben: Flugausbildung, Erkundung, Rettungseinsatz und Kampf. Ein großes Cockpit mit vielen Instrumenten nimmt den Großteil des Bildschirms ein, und schon der Start verlangt das richtige Hochfahren der Triebwerke. Das Spiel galt bei Erscheinen als ernsthafte Simulation und war eines der ersten Flugspiele dieser Art auf dem C64.\n\nDas Spiel erschien ursprünglich für den C64 auf Diskette und Kassette, in Großbritannien bei U.S. Gold und in Deutschland bei Ariolasoft; Fassungen für andere Rechner folgten. Gesteuert wird mit dem Joystick und der Tastatur. Spätere EasyFlash-Umsetzungen sparen die Ladezeit.\n\nCode: Paul Norman",
+  "texts": {
+    "de": "Super Huey ist eine Hubschraubersimulation, in der der Spieler einen experimentellen Kampfhubschrauber fliegt. Zur Wahl stehen vier Aufgaben: Flugausbildung, Erkundung, Rettungseinsatz und Kampf. Ein großes Cockpit mit vielen Instrumenten nimmt den Großteil des Bildschirms ein, und schon der Start verlangt das richtige Hochfahren der Triebwerke. Das Spiel galt bei Erscheinen als ernsthafte Simulation und war eines der ersten Flugspiele dieser Art auf dem C64.\n\nDas Spiel erschien ursprünglich für den C64 auf Diskette und Kassette, in Großbritannien bei U.S. Gold und in Deutschland bei Ariolasoft; Fassungen für andere Rechner folgten. Gesteuert wird mit dem Joystick und der Tastatur. Spätere EasyFlash-Umsetzungen sparen die Ladezeit.\n\nCode: Paul Norman",
+    "en": "Super Huey is a helicopter simulation in which the player flies an experimental combat helicopter. Four assignments are available: flight training, exploration, rescue and combat. A large cockpit with many instruments takes up most of the screen, and even take-off requires spinning up the engines correctly. On release the game was regarded as a serious simulation and was one of the first flight games of its kind on the C64.\n\nThe game was originally released for the C64 on disk and tape, in the UK by U.S. Gold and in Germany by Ariolasoft; versions for other computers followed. It is controlled with joystick and keyboard. Later EasyFlash conversions avoid the loading time.\n\nCode: Paul Norman"
+  },
+  "images": {
+    "sstitle": "images/97/9791b58f526b4fc004e3c57c6a0ac1c100d65756.png"
+  }
+}

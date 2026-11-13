@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "20169b02979dcd1166eb6b008cb037f6fa23e5e7",
+  "md5": "f3ce1198b8c31727fb9ea4002f1fd04d",
+  "crc32": "a2c07f86",
+  "size": 287344,
+  "format": "CRT",
+  "files": [
+    "Grand Monster Slam.crt",
+    "Grand Monster Slam [EasyFlash].crt"
+  ],
+  "screenscraper_id": "112659",
+  "title": "Grand Monster Slam",
+  "year": "1989",
+  "publisher": "Rainbow Arts",
+  "developer": "Golden Goblins",
+  "genres": [
+    "Sport",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ein Fantasy-Sportturnier im Reich der Goblins: Zwei Gegner stehen sich an einem Spielfeld gegenüber und treten kleine, kugelige Wesen namens Beloms auf die andere Seite. Wer von einem Belom getroffen wird, ist kurz benommen, und es kommt darauf an, die Wesen schneller und gezielter zurückzuschießen als der Kontrahent. Zwischen den Partien gibt es Bonusrunden, etwa das Abwehren heranfliegender Beloms oder das Füttern gefräßiger Faultons. Mit seinem schrägen Humor und den aufwendig gezeichneten Figuren gehört das Spiel zu den bekannten Titeln der Golden Goblins.\n\nDas Spiel erschien auf Diskette und Kassette; auf Kassette ist es weniger abwechslungsreich, weil in den ersten Ligen immer dieselben Gegner antreten. Gesteuert wird per Joystick. Daneben gibt es Umsetzungen als EasyFlash-Modul, die ohne Diskettenwechsel auskommen.\n\nCode: Rolf Lakämper · Grafik: Olaf Menges, Andreas Görtz · Musik: Chris Hülsbeck",
+  "texts": {
+    "de": "Ein Fantasy-Sportturnier im Reich der Goblins: Zwei Gegner stehen sich an einem Spielfeld gegenüber und treten kleine, kugelige Wesen namens Beloms auf die andere Seite. Wer von einem Belom getroffen wird, ist kurz benommen, und es kommt darauf an, die Wesen schneller und gezielter zurückzuschießen als der Kontrahent. Zwischen den Partien gibt es Bonusrunden, etwa das Abwehren heranfliegender Beloms oder das Füttern gefräßiger Faultons. Mit seinem schrägen Humor und den aufwendig gezeichneten Figuren gehört das Spiel zu den bekannten Titeln der Golden Goblins.\n\nDas Spiel erschien auf Diskette und Kassette; auf Kassette ist es weniger abwechslungsreich, weil in den ersten Ligen immer dieselben Gegner antreten. Gesteuert wird per Joystick. Daneben gibt es Umsetzungen als EasyFlash-Modul, die ohne Diskettenwechsel auskommen.\n\nCode: Rolf Lakämper · Grafik: Olaf Menges, Andreas Görtz · Musik: Chris Hülsbeck",
+    "en": "A fantasy sports tournament in the realm of the goblins: two opponents face each other across a playing field and kick small, round creatures called Beloms to the other side. Anyone hit by a Belom is briefly stunned, so the point is to send the creatures back faster and more accurately than the rival. Between matches there are bonus rounds, such as fending off incoming Beloms or feeding greedy Faultons. With its quirky humour and lavishly drawn characters it is one of the best-known Golden Goblins titles.\n\nThe game was released on disk and tape; the tape version offers less variety because the first leagues always field the same opponents. It is controlled with a joystick. There are also conversions as EasyFlash cartridges that need no disk swapping.\n\nCode: Rolf Lakämper · Graphics: Olaf Menges, Andreas Görtz · Music: Chris Hülsbeck"
+  },
+  "images": {
+    "sstitle": "images/51/5180aa9b4cc627df2131b71988c24341c43ccbe6.png"
+  }
+}

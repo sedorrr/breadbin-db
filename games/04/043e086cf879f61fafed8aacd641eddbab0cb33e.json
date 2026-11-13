@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "043e086cf879f61fafed8aacd641eddbab0cb33e",
+  "md5": "1b9aa4708f766307cba845b51508226f",
+  "crc32": "3980b453",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Frantic Freddie.crt"
+  ],
+  "screenscraper_id": "112208",
+  "title": "Frantic Freddie",
+  "year": "1983",
+  "publisher": "Commercial Data Systems",
+  "developer": "Kris Hatlelid, Gregor Larson",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Der Telefontechniker Freddie klettert an Telegrafenmasten zwischen fünf Ebenen hin und her und sammelt Goldtöpfe und Bonusgegenstände ein. Dabei verfolgen ihn drei bis fünf Monster, die Greeblies. Zwischen den 16 spielbaren Stufen gibt es kleine Zwischenspiele. Bekannt ist das Spiel für seine Musik: Bearbeitungen von Pop- und Ragtimestücken, darunter mehrere Rags von Scott Joplin. Ein Fehler in Stufe 17, der die Masten fehlen lässt, macht das Weiterspielen danach unmöglich.\n\nFrantic Freddie wurde für den C64 geschrieben und erschien 1983 bei Commercial Data Systems; später kam eine Billigneuauflage. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Kris Hatlelid · Musik: Gregor Larson, Brian Larson, Kris Hatlelid",
+  "texts": {
+    "de": "Der Telefontechniker Freddie klettert an Telegrafenmasten zwischen fünf Ebenen hin und her und sammelt Goldtöpfe und Bonusgegenstände ein. Dabei verfolgen ihn drei bis fünf Monster, die Greeblies. Zwischen den 16 spielbaren Stufen gibt es kleine Zwischenspiele. Bekannt ist das Spiel für seine Musik: Bearbeitungen von Pop- und Ragtimestücken, darunter mehrere Rags von Scott Joplin. Ein Fehler in Stufe 17, der die Masten fehlen lässt, macht das Weiterspielen danach unmöglich.\n\nFrantic Freddie wurde für den C64 geschrieben und erschien 1983 bei Commercial Data Systems; später kam eine Billigneuauflage. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Kris Hatlelid · Musik: Gregor Larson, Brian Larson, Kris Hatlelid",
+    "en": "Telephone engineer Freddie climbs telegraph poles between five levels, collecting pots of gold and bonus items. Three to five monsters called Greeblies chase him. Short intermissions separate the 16 playable stages. The game is known for its music: arrangements of pop and ragtime pieces, including several Scott Joplin rags. A bug in stage 17, in which the poles are missing, makes it impossible to continue beyond that point.\n\nFrantic Freddie was written for the C64 and released in 1983 by Commercial Data Systems; a budget re-release followed later. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode: Kris Hatlelid · Music: Gregor Larson, Brian Larson, Kris Hatlelid"
+  },
+  "images": {
+    "ss": "images/92/927457435bddf8783aacbb8cd7c1f4d46fe0681f.png"
+  }
+}

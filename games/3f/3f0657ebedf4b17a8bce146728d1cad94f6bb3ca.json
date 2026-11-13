@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3f0657ebedf4b17a8bce146728d1cad94f6bb3ca",
+  "md5": "152e3e665b27ad2df02b81d9c29ae78c",
+  "crc32": "376f83b6",
+  "size": 19664,
+  "format": "T64",
+  "files": [
+    "HUNCHBKO.T64"
+  ],
+  "screenscraper_id": "112931",
+  "title": "Hunchback at the Olympics",
+  "year": "1985",
+  "publisher": "Software Projects",
+  "developer": "Software Projects (T. Lanigan, Colin Porch)",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Der Glöckner Quasimodo aus der Hunchback-Reihe tritt bei einem sportlichen Mehrkampf an. In Lauf-, Sprung- und Wurfdisziplinen wie Sprint, Hürdenlauf, Weitsprung, Kugelstoßen und Speerwurf entscheiden schnelles Joystickrütteln und das richtige Timing über die Leistung. Fehlstarts und missglückte Versuche werden bestraft. Die Zeitschriftenkritik fiel damals sehr schlecht aus, das Spiel gehört aber zur bekannten Hunchback-Reihe.\n\nDas Spiel erschien 1984 zuerst für den ZX Spectrum; die C64-Fassung brachte Software Projects 1985 auf Kassette heraus. Gesteuert wird per Joystick in Port 2.\n\nCode: T. Lanigan, Colin Porch · Grafik: Stoo",
+  "texts": {
+    "de": "Der Glöckner Quasimodo aus der Hunchback-Reihe tritt bei einem sportlichen Mehrkampf an. In Lauf-, Sprung- und Wurfdisziplinen wie Sprint, Hürdenlauf, Weitsprung, Kugelstoßen und Speerwurf entscheiden schnelles Joystickrütteln und das richtige Timing über die Leistung. Fehlstarts und missglückte Versuche werden bestraft. Die Zeitschriftenkritik fiel damals sehr schlecht aus, das Spiel gehört aber zur bekannten Hunchback-Reihe.\n\nDas Spiel erschien 1984 zuerst für den ZX Spectrum; die C64-Fassung brachte Software Projects 1985 auf Kassette heraus. Gesteuert wird per Joystick in Port 2.\n\nCode: T. Lanigan, Colin Porch · Grafik: Stoo",
+    "en": "Quasimodo, the bell-ringer from the Hunchback series, competes in a multi-event athletics contest. In running, jumping and throwing events such as the sprint, hurdles, long jump, shot put and javelin, rapid joystick waggling and good timing decide the result. False starts and failed attempts are punished. Magazine reviews at the time were very poor, but the game is part of the well-known Hunchback series.\n\nThe game first appeared in 1984 for the ZX Spectrum; Software Projects released the C64 version on tape in 1985. It is controlled with a joystick in port 2.\n\nCode: T. Lanigan, Colin Porch · Graphics: Stoo"
+  },
+  "images": {
+    "ss": "images/ad/adfbc35f8361a1f82706a8085b2c3d568213d2e4.png"
+  }
+}

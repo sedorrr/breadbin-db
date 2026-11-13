@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3bfca24a61aca20fbdc2c68417b89d74701a459b",
+  "md5": "794f7759af642a443cc9ab148e204356",
+  "crc32": "0b54a4e9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PAWN1.D64"
+  ],
+  "screenscraper_id": "36691",
+  "title": "The Pawn",
+  "year": "1986",
+  "publisher": "Rainbird",
+  "developer": "Magnetic Scrolls",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "The Pawn war das erste Spiel von Magnetic Scrolls und spielt im Land Kerovnia. Der Spieler erwacht mit einem seltsamen Armband am Handgelenk und gerät zwischen die Fronten von Zauberern, einem König, Rebellen und einem Abenteurer, der ebenfalls seine eigenen Ziele verfolgt. Der Parser versteht für die damalige Zeit ungewöhnlich lange und verschachtelte Sätze, und viele Rätsel lassen sich auf mehreren Wegen lösen. Dazu kommen detaillierte Bilder zu zahlreichen Orten. Mit seinem trockenen Humor und der aufwendigen Technik setzte The Pawn neue Maßstäbe für Textabenteuer.\n\nZuerst 1985 für den Sinclair QL veröffentlicht; die C64-Fassung brachte Rainbird 1986 auf Diskette heraus, mit Bildern, die sich auch abschalten lassen. Gespielt wird über die Tastatur. Neben der Diskettenfassung gibt es EasyFlash-Umsetzungen ohne Nachladen von Diskette.\n\nText: Rob Steggles · Code: Anita Sinclair, Hugh Steers, Ken Gordon · Grafik: Geoff Quilley",
+  "texts": {
+    "de": "The Pawn war das erste Spiel von Magnetic Scrolls und spielt im Land Kerovnia. Der Spieler erwacht mit einem seltsamen Armband am Handgelenk und gerät zwischen die Fronten von Zauberern, einem König, Rebellen und einem Abenteurer, der ebenfalls seine eigenen Ziele verfolgt. Der Parser versteht für die damalige Zeit ungewöhnlich lange und verschachtelte Sätze, und viele Rätsel lassen sich auf mehreren Wegen lösen. Dazu kommen detaillierte Bilder zu zahlreichen Orten. Mit seinem trockenen Humor und der aufwendigen Technik setzte The Pawn neue Maßstäbe für Textabenteuer.\n\nZuerst 1985 für den Sinclair QL veröffentlicht; die C64-Fassung brachte Rainbird 1986 auf Diskette heraus, mit Bildern, die sich auch abschalten lassen. Gespielt wird über die Tastatur. Neben der Diskettenfassung gibt es EasyFlash-Umsetzungen ohne Nachladen von Diskette.\n\nText: Rob Steggles · Code: Anita Sinclair, Hugh Steers, Ken Gordon · Grafik: Geoff Quilley",
+    "en": "The Pawn was Magnetic Scrolls' first game and is set in the land of Kerovnia. The player wakes up with a strange wristband and gets caught between wizards, a king, rebels and an adventurer pursuing his own goals. The parser understands unusually long and complex sentences for its time, and many puzzles can be solved in several ways. Detailed pictures accompany many locations. With its dry humour and sophisticated technology, The Pawn set new standards for text adventures.\n\nFirst published in 1985 for the Sinclair QL; Rainbird released the C64 version in 1986 on disk, with pictures that can also be switched off. It is played with the keyboard. Besides the disk version, there are EasyFlash conversions without disk loading.\n\nWriting: Rob Steggles · Code: Anita Sinclair, Hugh Steers, Ken Gordon · Graphics: Geoff Quilley"
+  },
+  "images": {
+    "ss": "images/5c/5c3f348fd0af2c201c5242a658d724b018165c77.png"
+  }
+}

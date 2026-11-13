@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "09c27dfdd63423a1c6613f4485e9f0b8c9592a5f",
+  "md5": "c621d20f285a19742c4787bd6f32bef1",
+  "crc32": "7eafa115",
+  "size": 333744,
+  "format": "G64",
+  "files": [
+    "Gateway to Apshai.g64"
+  ],
+  "screenscraper_id": "112545",
+  "title": "Gateway to Apshai",
+  "year": "1983",
+  "publisher": "Epyx",
+  "developer": "The Connelley Group",
+  "genres": [
+    "Action / Abenteuer",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Gateway to Apshai ist die actionbetonte Vorgeschichte zu Temple of Apshai. Ein alter Priester erklärt den Helden zum Auserwählten, der den Tempel zurückerobern soll; zuvor muss er das vorgelagerte Labyrinth bezwingen. Acht Ebenen mit je sechzehn wählbaren Verliesen warten darauf, im Dunkeln Raum für Raum aufgedeckt zu werden, und auf jeder Ebene läuft eine Zeitbegrenzung. Unterwegs findet der Spieler bessere Waffen, Rüstungen, Tränke und Zauberrollen und kämpft gegen Ratten, Schlangen und Riesen. Die schnelle Joysticksteuerung machte das Rollenspielprinzip der Reihe auch für Actionspieler zugänglich.\n\nErschien 1983 bei Epyx als Steckmodul für C64, Atari und ColecoVision; spätere Ausgaben gab es auch auf Diskette und Kassette. Gespielt wird mit Joystick in Port 2. Neben dem Originalmodul und Cracks gibt es eine OneLoad64-Modulumsetzung.\n\nEntwicklung: The Connelley Group",
+  "texts": {
+    "de": "Gateway to Apshai ist die actionbetonte Vorgeschichte zu Temple of Apshai. Ein alter Priester erklärt den Helden zum Auserwählten, der den Tempel zurückerobern soll; zuvor muss er das vorgelagerte Labyrinth bezwingen. Acht Ebenen mit je sechzehn wählbaren Verliesen warten darauf, im Dunkeln Raum für Raum aufgedeckt zu werden, und auf jeder Ebene läuft eine Zeitbegrenzung. Unterwegs findet der Spieler bessere Waffen, Rüstungen, Tränke und Zauberrollen und kämpft gegen Ratten, Schlangen und Riesen. Die schnelle Joysticksteuerung machte das Rollenspielprinzip der Reihe auch für Actionspieler zugänglich.\n\nErschien 1983 bei Epyx als Steckmodul für C64, Atari und ColecoVision; spätere Ausgaben gab es auch auf Diskette und Kassette. Gespielt wird mit Joystick in Port 2. Neben dem Originalmodul und Cracks gibt es eine OneLoad64-Modulumsetzung.\n\nEntwicklung: The Connelley Group",
+    "en": "Gateway to Apshai is the action-oriented prequel to Temple of Apshai. An old priest declares the hero the chosen one who is to reclaim the temple; first, though, he must conquer the labyrinth in front of it. Eight levels with sixteen selectable dungeons each are uncovered room by room in the dark, and each level has a time limit. Along the way the player finds better weapons, armour, potions and spell scrolls and fights rats, snakes and giants. The fast joystick control opened up the series' role-playing formula to action players as well.\n\nReleased by Epyx in 1983 as a cartridge for the C64, Atari and ColecoVision; later editions also appeared on disk and tape. It is played with a joystick in port 2. Besides the original cartridge and cracks, there is a OneLoad64 cartridge conversion.\n\nDevelopment: The Connelley Group"
+  },
+  "images": {
+    "sstitle": "images/ae/aed146775b5552f7cc21a0aa266f8ea42f7890ab.png"
+  }
+}

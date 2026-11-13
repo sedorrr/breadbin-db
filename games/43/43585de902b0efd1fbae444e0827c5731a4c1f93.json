@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "43585de902b0efd1fbae444e0827c5731a4c1f93",
+  "md5": "0a26de00ef5501990a1ddd825f07e071",
+  "crc32": "2ddca3a4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "UNINVTD1.D64"
+  ],
+  "screenscraper_id": "36310",
+  "title": "Uninvited",
+  "year": "1989",
+  "publisher": "Mindscape",
+  "developer": "ICOM Simulations",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Nach einem Autounfall erwacht der Spieler vor einem alten Herrenhaus, sein Geschwister ist verschwunden, und der Wagen geht in Flammen auf. Im Haus, das einst einem Zauberer gehörte, spuken die Opfer seines abtrünnigen Lehrlings Dracan. Der Spieler erkundet Räume, liest Tagebücher und Schriftrollen, wendet Zauberformeln an und muss Dracan besiegen, um den Vermissten zu retten. Die Rätsel lassen sich in freier Reihenfolge lösen, doch die Zahl der Züge ist begrenzt, bevor der Fluch des Hauses zuschlägt. Wie Déjà Vu wird Uninvited über Befehlslisten und einen Zeiger statt über Texteingabe gespielt.\n\nDas Original erschien 1986 für den Macintosh; die C64-Fassung brachte Mindscape auf Diskette heraus, ihr fehlt der versteckte Galerieraum der anderen Fassungen. Bedient wird sie mit Joystick in Port 2.\n\nCode: Fred Allen, Joe Gaucher · Grafik: Karl Roelofs",
+  "texts": {
+    "de": "Nach einem Autounfall erwacht der Spieler vor einem alten Herrenhaus, sein Geschwister ist verschwunden, und der Wagen geht in Flammen auf. Im Haus, das einst einem Zauberer gehörte, spuken die Opfer seines abtrünnigen Lehrlings Dracan. Der Spieler erkundet Räume, liest Tagebücher und Schriftrollen, wendet Zauberformeln an und muss Dracan besiegen, um den Vermissten zu retten. Die Rätsel lassen sich in freier Reihenfolge lösen, doch die Zahl der Züge ist begrenzt, bevor der Fluch des Hauses zuschlägt. Wie Déjà Vu wird Uninvited über Befehlslisten und einen Zeiger statt über Texteingabe gespielt.\n\nDas Original erschien 1986 für den Macintosh; die C64-Fassung brachte Mindscape auf Diskette heraus, ihr fehlt der versteckte Galerieraum der anderen Fassungen. Bedient wird sie mit Joystick in Port 2.\n\nCode: Fred Allen, Joe Gaucher · Grafik: Karl Roelofs",
+    "en": "After a car crash the player wakes up in front of an old mansion; their sibling has vanished and the car bursts into flames. The house once belonged to a sorcerer and is haunted by the victims of his renegade apprentice Dracan. The player explores rooms, reads diaries and scrolls, casts spells and must defeat Dracan to rescue the missing sibling. The puzzles can be solved in any order, but the number of moves is limited before the curse of the house strikes. Like Déjà Vu, Uninvited is played through command lists and a pointer rather than text input.\n\nThe original appeared in 1986 for the Macintosh; Mindscape released the C64 version on disk, which lacks the hidden gallery room of the other versions. It is operated with a joystick in port 2.\n\nCode: Fred Allen, Joe Gaucher · Graphics: Karl Roelofs"
+  },
+  "images": {
+    "ss": "images/7a/7a54adc46c6359ba90235c01f2051b50c0a7d9e9.png",
+    "sstitle": "images/d8/d8ca7a2c7c033ed64dd2dca5a57ef0587bdfa11f.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "2b439e15115800e3e199c82f6fd938a7e2ca40d1",
+  "md5": "3eda601ebcec13069422511b29616358",
+  "crc32": "67477dde",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ROADRUNN.D64"
+  ],
+  "screenscraper_id": "36258",
+  "title": "Road Runner",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "developer": "Canvas",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Atari-Automaten von 1985 nach den Zeichentrickfilmen von Warner Bros.: Der Road Runner flitzt nach links über die Straße, während Wile E. Coyote ihn mit immer neuen Tricks zu fangen versucht. Unterwegs muss der Vogel regelmäßig Vogelfutter picken; wer fünf Häufchen auslässt, verliert ein Leben. Lastwagen, Kanonenkugeln, Minen und die eigenen Apparate des Kojoten können diesen selbst ausschalten und bringen Bonuspunkte. Das Spiel umfasst 16 Level, und wer in einem Level alles Futter aufpickt, erhält einen großen Bonus.\n\nDie C64-Umsetzung stammt von Canvas und erschien bei U.S. Gold auf Kassette und Diskette, in den USA bei Mindscape, in Spanien als „Corre Caminos“ bei Erbe. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870. Gesteuert wird per Joystick in Port 2.\n\nCode: Sean Townsend · Grafik: Martin Calvert · Musik: Fred Gray",
+  "texts": {
+    "de": "Umsetzung des Atari-Automaten von 1985 nach den Zeichentrickfilmen von Warner Bros.: Der Road Runner flitzt nach links über die Straße, während Wile E. Coyote ihn mit immer neuen Tricks zu fangen versucht. Unterwegs muss der Vogel regelmäßig Vogelfutter picken; wer fünf Häufchen auslässt, verliert ein Leben. Lastwagen, Kanonenkugeln, Minen und die eigenen Apparate des Kojoten können diesen selbst ausschalten und bringen Bonuspunkte. Das Spiel umfasst 16 Level, und wer in einem Level alles Futter aufpickt, erhält einen großen Bonus.\n\nDie C64-Umsetzung stammt von Canvas und erschien bei U.S. Gold auf Kassette und Diskette, in den USA bei Mindscape, in Spanien als „Corre Caminos“ bei Erbe. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870. Gesteuert wird per Joystick in Port 2.\n\nCode: Sean Townsend · Grafik: Martin Calvert · Musik: Fred Gray",
+    "en": "A conversion of Atari's 1985 arcade game based on the Warner Bros. cartoons: Road Runner dashes left along the road while Wile E. Coyote tries to catch him with ever new tricks. Along the way the bird has to peck birdseed regularly; missing five piles costs a life. Trucks, cannonballs, mines and the coyote's own contraptions can knock him out, earning bonus points. The game has 16 levels, and eating all the seed in a level earns a large bonus.\n\nThe C64 conversion was made by Canvas and released by U.S. Gold on cassette and disk, in the US by Mindscape and in Spain as \"Corre Caminos\" by Erbe. EasyFlash conversions also exist, including a MultiLoad64 version by $olo1870. Controlled by joystick in port 2.\n\nCode: Sean Townsend · Graphics: Martin Calvert · Music: Fred Gray"
+  },
+  "images": {
+    "ss": "images/f1/f1b9271bbf0cc6b0820eec63a7d4548c4c65b16e.png",
+    "sstitle": "images/7d/7dc30ad7a716b055acf3b81531ed765814337d8f.png"
+  }
+}

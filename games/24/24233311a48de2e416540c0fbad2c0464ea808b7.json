@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "24233311a48de2e416540c0fbad2c0464ea808b7",
+  "md5": "2c4e0a1da0c9c3f733a8077bcd1dc634",
+  "crc32": "833994ee",
+  "size": 254512,
+  "format": "CRT",
+  "files": [
+    "Elvira The Arcade Game (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36829",
+  "title": "Elvira: The Arcade Game",
+  "year": "1991",
+  "publisher": "Flair Software",
+  "developer": "Flair Software",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Diesmal ist Elvira selbst die Spielfigur. Sie muss die Unterwelt des Feuers und die arktische Erde bezwingen, bevor sie zum Schloss in Transsilvanien gelangt, das ihr rechtmäßig gehört. Unterwegs setzt sie Zaubersprüche und Waffen ein und sammelt Runensteine, Nahrung und Schatztruhen; Händler verkaufen gegen Runensteine Hinweise, wenn man nicht weiterkommt. Das seitlich scrollende Plattformspiel entstand in Zusammenarbeit mit Horror Soft, den Entwicklern der Elvira-Abenteuer.\n\nFlair Software veröffentlichte das Spiel 1991 für Amiga, Atari ST, PC und C64. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine MultiLoad64-Umsetzung von $olo1870 für EasyFlash.\n\nCode (C64): Ian Davison · Grafik: Mark Sample, Philip Nixon · Musik: Adam Gilmore",
+  "texts": {
+    "de": "Diesmal ist Elvira selbst die Spielfigur. Sie muss die Unterwelt des Feuers und die arktische Erde bezwingen, bevor sie zum Schloss in Transsilvanien gelangt, das ihr rechtmäßig gehört. Unterwegs setzt sie Zaubersprüche und Waffen ein und sammelt Runensteine, Nahrung und Schatztruhen; Händler verkaufen gegen Runensteine Hinweise, wenn man nicht weiterkommt. Das seitlich scrollende Plattformspiel entstand in Zusammenarbeit mit Horror Soft, den Entwicklern der Elvira-Abenteuer.\n\nFlair Software veröffentlichte das Spiel 1991 für Amiga, Atari ST, PC und C64. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine MultiLoad64-Umsetzung von $olo1870 für EasyFlash.\n\nCode (C64): Ian Davison · Grafik: Mark Sample, Philip Nixon · Musik: Adam Gilmore",
+    "en": "This time Elvira herself is the playable character. She has to conquer the Underworld of Fire and the Arctic Earth before she can reach the castle in Transylvania that rightfully belongs to her. Along the way she uses spells and weapons and collects rune stones, food and treasure chests; traders sell hints for rune stones when the player gets stuck. The side-scrolling platform game was made in cooperation with Horror Soft, the developers of the Elvira adventures.\n\nFlair Software released the game in 1991 for the Amiga, Atari ST, PC and C64. It is played with a joystick in port 2. There is also a MultiLoad64 conversion for EasyFlash by $olo1870.\n\nCode (C64): Ian Davison · Graphics: Mark Sample, Philip Nixon · Music: Adam Gilmore"
+  },
+  "images": {
+    "sstitle": "images/b9/b90d9950e59fb38281f52169469906af3e52e2dc.png"
+  }
+}

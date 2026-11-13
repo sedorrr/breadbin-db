@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3feab8162d46534fa2deae93409c471b7959c986",
+  "md5": "59378c84b06ab830436995a9a21347f4",
+  "crc32": "471fe5a7",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SAMSJOU3.D64"
+  ],
+  "screenscraper_id": "360038",
+  "title": "Sam's Journey",
+  "year": "2017",
+  "publisher": "Protovision",
+  "developer": "Knights of Bytes",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Der kleine Held Sam gerät unfreiwillig auf eine Reise durch eine fremde Welt. Das Jump 'n' Run scrollt in alle Richtungen und verteilt 27 große, verzweigte Abschnitte mit rund 2000 Bildschirmen auf drei Übersichtskarten. Sam kann laufen, springen, klettern und tauchen; sechs Kostüme verleihen ihm zusätzliche Fähigkeiten. Mit Konsolenspielen der 16-Bit-Zeit als Vorbild gilt Sam's Journey als eines der aufwendigsten neuen C64-Spiele.\n\nErschienen 2017 auf Diskette und als EasyFlash-Modul, außerdem als Download; die NTSC-Fassung gibt es nur auf Diskette und braucht eine REU. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chester Kollschen · Grafik: Stefan Gutsch · Musik: Alexander Ney",
+  "texts": {
+    "de": "Der kleine Held Sam gerät unfreiwillig auf eine Reise durch eine fremde Welt. Das Jump 'n' Run scrollt in alle Richtungen und verteilt 27 große, verzweigte Abschnitte mit rund 2000 Bildschirmen auf drei Übersichtskarten. Sam kann laufen, springen, klettern und tauchen; sechs Kostüme verleihen ihm zusätzliche Fähigkeiten. Mit Konsolenspielen der 16-Bit-Zeit als Vorbild gilt Sam's Journey als eines der aufwendigsten neuen C64-Spiele.\n\nErschienen 2017 auf Diskette und als EasyFlash-Modul, außerdem als Download; die NTSC-Fassung gibt es nur auf Diskette und braucht eine REU. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chester Kollschen · Grafik: Stefan Gutsch · Musik: Alexander Ney",
+    "en": "The little hero Sam is swept off on an unplanned journey through a strange world. The platformer scrolls in all directions and spreads 27 large, branching levels with around 2,000 screens across three overworld maps. Sam can run, jump, climb and dive; six costumes give him additional abilities. Modelled on console games of the 16-bit era, Sam's Journey is regarded as one of the most elaborate new C64 games.\n\nReleased in 2017 on disk and as an EasyFlash cartridge, as well as a download; the NTSC version is disk-only and requires a REU. It is controlled with a joystick in port 2.\n\nCode: Chester Kollschen · Graphics: Stefan Gutsch · Music: Alexander Ney"
+  },
+  "images": {
+    "sstitle": "images/b8/b831e68dc8ce04368e52d1361347e2ba5591882e.png"
+  }
+}

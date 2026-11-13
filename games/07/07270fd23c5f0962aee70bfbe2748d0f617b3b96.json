@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "07270fd23c5f0962aee70bfbe2748d0f617b3b96",
+  "md5": "fb5daa193daf1bfdeb5c26436b10b17b",
+  "crc32": "c2c465ed",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BATCH-E1.D64"
+  ],
+  "screenscraper_id": "35884",
+  "title": "Battle Chess",
+  "year": "1989",
+  "publisher": "Interplay",
+  "developer": "Interplay Productions",
+  "genres": [
+    "Brettspiele"
+  ],
+  "players": "1-2",
+  "synopsis": "Battle Chess ist ein Schachprogramm, das jede Figur als animierte Gestalt auf einem perspektivisch dargestellten Brett zeigt. Schlägt eine Figur eine andere, spielt sich eine kleine, oft humorvolle Kampfszene ab, die für jede Figurenpaarung anders ausfällt. Darunter liegt ein vollwertiges Schachprogramm mit mehreren Spielstärken; wer die Animationen leid ist, kann auf ein flaches Brett umschalten. Das Spiel machte Schach für viele Spieler erst unterhaltsam und wurde auf zahlreichen Systemen ein Erfolg.\n\nBattle Chess erschien 1988 zuerst für den Amiga, die C64-Fassung 1989 auf Diskette (zwei Seiten). Als Kopierschutz verlangt das Original eine Angabe aus der Anleitung. Es gibt EasyFlash-Umsetzungen, die das Nachladen der Animationen beschleunigen. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können gegeneinander antreten.\n\nCode: Allen Adham · Grafik: Scott Bieser, Todd J. Camasta",
+  "texts": {
+    "de": "Battle Chess ist ein Schachprogramm, das jede Figur als animierte Gestalt auf einem perspektivisch dargestellten Brett zeigt. Schlägt eine Figur eine andere, spielt sich eine kleine, oft humorvolle Kampfszene ab, die für jede Figurenpaarung anders ausfällt. Darunter liegt ein vollwertiges Schachprogramm mit mehreren Spielstärken; wer die Animationen leid ist, kann auf ein flaches Brett umschalten. Das Spiel machte Schach für viele Spieler erst unterhaltsam und wurde auf zahlreichen Systemen ein Erfolg.\n\nBattle Chess erschien 1988 zuerst für den Amiga, die C64-Fassung 1989 auf Diskette (zwei Seiten). Als Kopierschutz verlangt das Original eine Angabe aus der Anleitung. Es gibt EasyFlash-Umsetzungen, die das Nachladen der Animationen beschleunigen. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können gegeneinander antreten.\n\nCode: Allen Adham · Grafik: Scott Bieser, Todd J. Camasta",
+    "en": "Battle Chess is a chess program that shows every piece as an animated figure on a board drawn in perspective. Whenever one piece captures another, a short and often humorous fight scene plays out, different for each pairing of pieces. Underneath lies a complete chess engine with several skill levels; anyone tired of the animations can switch to a flat board. The game made chess entertaining for many players and became a success on numerous systems.\n\nBattle Chess first came out in 1988 for the Amiga; the C64 version followed in 1989 on disk (two sides). As copy protection, the original asks for information from the manual. There are EasyFlash conversions that speed up the loading of the animations. It is controlled with a joystick in port 2; two players can play against each other.\n\nCode: Allen Adham · Graphics: Scott Bieser, Todd J. Camasta"
+  },
+  "images": {
+    "ss": "images/70/70ea92588c8986e3612dad409fcc16460c229dd8.png",
+    "sstitle": "images/03/03675165347461a6456189b46340ef1ccb29ded0.png"
+  }
+}

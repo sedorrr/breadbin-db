@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "30a3dfd7c9c28c0380ed0337683a2c0ebcba9ff5",
+  "md5": "472bd408a12aa01b61392d015a15dc8f",
+  "crc32": "6bd3c595",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Kettle.crt"
+  ],
+  "screenscraper_id": "114060",
+  "title": "Kettle",
+  "year": "1986",
+  "publisher": "Alligata",
+  "developer": "Tony Crowther",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1-2",
+  "synopsis": "Labyrinthspiel von Tony Crowther, in dem der Spieler einen Wasserkessel durch 30 von Metalltüren getrennte Level steuert. In jedem Level ist der Schlüssel zur nächsten Tür in einem von vielen Tonkrügen versteckt; manche Krüge schießen Blasen, andere setzen Monster frei, die den Kessel verfolgen. Zur Abwehr verschießt der Kessel Teebeutel, und weil jede Wandberührung Energie kostet, verlangen die engen Gänge eine genaue Steuerung. Zu zweit wird auf geteiltem Bildschirm gleichzeitig gespielt.\n\nErschien bei Alligata auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick, RUN/STOP führt zurück ins Hauptmenü und N hält das Spiel an.\n\nCode: Tony Crowther · Grafik: Tony Crowther · Musik: Ben Daglish",
+  "texts": {
+    "de": "Labyrinthspiel von Tony Crowther, in dem der Spieler einen Wasserkessel durch 30 von Metalltüren getrennte Level steuert. In jedem Level ist der Schlüssel zur nächsten Tür in einem von vielen Tonkrügen versteckt; manche Krüge schießen Blasen, andere setzen Monster frei, die den Kessel verfolgen. Zur Abwehr verschießt der Kessel Teebeutel, und weil jede Wandberührung Energie kostet, verlangen die engen Gänge eine genaue Steuerung. Zu zweit wird auf geteiltem Bildschirm gleichzeitig gespielt.\n\nErschien bei Alligata auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick, RUN/STOP führt zurück ins Hauptmenü und N hält das Spiel an.\n\nCode: Tony Crowther · Grafik: Tony Crowther · Musik: Ben Daglish",
+    "en": "A maze game by Tony Crowther in which the player steers a kettle through 30 levels separated by metal doors. In each level the key to the next door is hidden in one of many clay jugs; some jugs fire bubbles, others release monsters that chase the kettle. The kettle defends itself by firing tea bags, and because every touch of a wall drains energy, the narrow passages demand precise control. Two players play at the same time on a split screen.\n\nReleased by Alligata on cassette; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick; RUN/STOP returns to the main menu and N pauses the game.\n\nCode: Tony Crowther · Graphics: Tony Crowther · Music: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/5e/5e1cea1cf375fc35ea4438d45c385946abd4868f.png",
+    "sstitle": "images/0c/0c85d43dceb7ef92b71488e98246d4d2f229cf37.png"
+  }
+}

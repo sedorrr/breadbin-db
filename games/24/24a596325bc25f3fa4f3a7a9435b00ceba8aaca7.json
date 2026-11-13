@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "24a596325bc25f3fa4f3a7a9435b00ceba8aaca7",
+  "md5": "d0b4ca0ce289ef3ff4889e47979c4088",
+  "crc32": "f7397d06",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "POWERSEA.D64"
+  ],
+  "screenscraper_id": "116256",
+  "title": "Power at Sea",
+  "year": "1988",
+  "publisher": "Accolade",
+  "developer": "Distinctive Software",
+  "genres": [
+    "Simulation",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Seekriegsspiel im Pazifik des Zweiten Weltkriegs: Der Spieler führt einen Flottenverband aus Schlachtschiff, Zerstörer und Truppentransporter in Richtung Leyte, um dort Truppen anzulanden. Auf einer Karte wird die Route geplant, während unterwegs Angriffe feindlicher Flugzeuge und Schiffe drohen. Diese werden in Actionszenen abgewehrt, etwa an der Flugabwehr oder den Schiffsgeschützen. Das Spiel verbindet einfache Strategie mit Geschicklichkeitsaufgaben.\n\nEntwickelt von Distinctive Software, veröffentlicht von Accolade auf Diskette. Gesteuert wird per Joystick in Port 2.\n\nCode: Don Mattrick, Jeff Sember, Hanno Lemke, Kevin Pickell · Grafik: John Boechler, Tony Lee · Musik: Kris Hatlelid",
+  "texts": {
+    "de": "Seekriegsspiel im Pazifik des Zweiten Weltkriegs: Der Spieler führt einen Flottenverband aus Schlachtschiff, Zerstörer und Truppentransporter in Richtung Leyte, um dort Truppen anzulanden. Auf einer Karte wird die Route geplant, während unterwegs Angriffe feindlicher Flugzeuge und Schiffe drohen. Diese werden in Actionszenen abgewehrt, etwa an der Flugabwehr oder den Schiffsgeschützen. Das Spiel verbindet einfache Strategie mit Geschicklichkeitsaufgaben.\n\nEntwickelt von Distinctive Software, veröffentlicht von Accolade auf Diskette. Gesteuert wird per Joystick in Port 2.\n\nCode: Don Mattrick, Jeff Sember, Hanno Lemke, Kevin Pickell · Grafik: John Boechler, Tony Lee · Musik: Kris Hatlelid",
+    "en": "A naval warfare game set in the Pacific during World War II: the player leads a task force of battleship, destroyer and troop transport towards Leyte to land troops there. The route is planned on a map, while attacks by enemy aircraft and ships threaten along the way. These are fought off in action scenes, for example at the anti-aircraft guns or the ship's main guns. The game combines simple strategy with skill-based tasks.\n\nDeveloped by Distinctive Software and published by Accolade on disk. Controlled by joystick in port 2.\n\nCode: Don Mattrick, Jeff Sember, Hanno Lemke, Kevin Pickell · Graphics: John Boechler, Tony Lee · Music: Kris Hatlelid"
+  },
+  "images": {
+    "sstitle": "images/ed/ed3b39acbeb05430eb85116c6c2498494e53a1d8.png"
+  }
+}

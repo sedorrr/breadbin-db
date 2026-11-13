@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1bb4f9f9dedb3b7195509ac7b8871221566f7c37",
+  "md5": "8dbef9b20ec8a369119fa9f0fce20a79",
+  "crc32": "617b6b89",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SCOOBYDO.D64"
+  ],
+  "screenscraper_id": "36195",
+  "title": "Scooby Doo",
+  "year": "1986",
+  "publisher": "Elite",
+  "developer": "Gargoyle Games",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Scooby-Doo muss in einem Spukschloss seine Freunde aus der Detektivbande befreien und wehrt sich dabei mit den Fäusten gegen Geister und andere Schreckgestalten. Das Spiel ist ein seitlich scrollendes Plattform- und Actionspiel, in dem Springen, Ducken und schnelles Zuschlagen gefragt sind. Ursprünglich hatte Elite einen interaktiven „Computer-Zeichentrickfilm“ angekündigt; dieses ehrgeizige Vorhaben wurde aufgegeben und durch das deutlich einfachere Spiel von Gargoyle Games ersetzt.\n\nDie C64-Fassung erschien 1986 bei Elite auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2. Auf dem C64 fiel das Echo verhaltener aus als bei der hoch gelobten Spectrum-Fassung.\n\nMusik: Peter Clarke, Mark Cooksey",
+  "texts": {
+    "de": "Scooby-Doo muss in einem Spukschloss seine Freunde aus der Detektivbande befreien und wehrt sich dabei mit den Fäusten gegen Geister und andere Schreckgestalten. Das Spiel ist ein seitlich scrollendes Plattform- und Actionspiel, in dem Springen, Ducken und schnelles Zuschlagen gefragt sind. Ursprünglich hatte Elite einen interaktiven „Computer-Zeichentrickfilm“ angekündigt; dieses ehrgeizige Vorhaben wurde aufgegeben und durch das deutlich einfachere Spiel von Gargoyle Games ersetzt.\n\nDie C64-Fassung erschien 1986 bei Elite auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2. Auf dem C64 fiel das Echo verhaltener aus als bei der hoch gelobten Spectrum-Fassung.\n\nMusik: Peter Clarke, Mark Cooksey",
+    "en": "Scooby-Doo has to free his friends from the mystery-solving gang inside a haunted castle, defending himself with his fists against ghosts and other ghouls. The game is a side-scrolling platform and action game that calls for jumping, ducking and quick punches. Elite had originally announced an interactive \"computer cartoon\"; that ambitious project was abandoned and replaced by this much simpler game from Gargoyle Games.\n\nThe C64 version was released by Elite in 1986 on cassette and disk. It is played with a joystick in port 2. On the C64 it was received less warmly than the highly praised Spectrum version.\n\nMusic: Peter Clarke, Mark Cooksey"
+  },
+  "images": {
+    "sstitle": "images/a0/a023853dd4d9d6101bebafef41157768e26b4e65.png"
+  }
+}

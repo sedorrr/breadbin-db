@@ -21,5 +21,9 @@
   "texts": {
     "de": "Zwei Ritter treten in einem Turnier gegeneinander an und versuchen, sich mit der Lanze aus dem Sattel zu heben. Die Spieler geben den Rittern Namen, das Duell läuft in Runden und wird über die Tastatur gesteuert. Es ist ein schlichtes Programm in BASIC und hat nichts mit dem gleichnamigen Williams-Automaten von 1982 zu tun.\n\nDas Programm erschien im März 1980 auf der Ausgabe 18 des Kassettenmagazins CURSOR für den Commodore PET und wurde später auch auf dem C64 weitergegeben. Es ist nur für zwei Spieler gedacht und wird über die Tastatur gesteuert.\n\nCode: Brian Sawyer",
     "en": "Two knights compete against each other in a tournament, trying to unseat each other with the lance. The players give the knights names; the duel runs in rounds and is controlled via the keyboard. It is a simple program in BASIC and has nothing to do with Williams's 1982 arcade game of the same name.\n\nThe program appeared in March 1980 on issue 18 of the cassette magazine CURSOR for the Commodore PET and was later also passed around on the C64. It is intended only for two players and is controlled via the keyboard.\n\nCode: Brian Sawyer"
+  },
+  "images": {
+    "ss": "images/5e/5ee63c6dd785560da44077f3a55da6f94dc9f339.png",
+    "sstitle": "images/1f/1f7b9dc99bc7114900b2b2430b6cc091fbe87998.png"
   }
 }

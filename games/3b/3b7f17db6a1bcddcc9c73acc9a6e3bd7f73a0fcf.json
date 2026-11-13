@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3b7f17db6a1bcddcc9c73acc9a6e3bd7f73a0fcf",
+  "md5": "db8462129ce0b7aa27680e871a797d0e",
+  "crc32": "0db0ebe2",
+  "size": 42393,
+  "format": "T64",
+  "files": [
+    "ALCAZAR.T64"
+  ],
+  "screenscraper_id": "109531",
+  "title": "Alcazar: The Forgotten Fortress",
+  "year": "1985",
+  "publisher": "Activision",
+  "developer": "Tom Loughry",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Auf dem Weg zur sagenhaften Festung Alcazar durchquert der Spieler eine Landkarte mit mehreren Burgen, deren Räume er von oben gesehen erkundet. In den Gängen warten Monster, Fallen und Schätze; Gegenstände wie Seil, Floß oder Waffen helfen, Hindernisse zu überwinden und unterwegs zu überleben. Der Aufbau der Burgen wechselt von Spiel zu Spiel, und der Schwierigkeitsgrad bestimmt, wie viele Burgen bis zum Ziel zu bewältigen sind. Damit gehört Alcazar zu den frühen Action-Abenteuern mit zufällig erzeugten Verliesen.\n\nTom Loughry schrieb das Spiel zuerst für Colecos Adam und das ColecoVision; die C64-Fassung erschien 1985 bei Activision auf Kassette und Diskette und gilt als eine der besten Umsetzungen. Gespielt wird mit Joystick in Port 2. Neben Original und Cracks gibt es eine OneLoad64-Modulumsetzung ohne Nachladen.\n\nCode: Tom Loughry",
+  "texts": {
+    "de": "Auf dem Weg zur sagenhaften Festung Alcazar durchquert der Spieler eine Landkarte mit mehreren Burgen, deren Räume er von oben gesehen erkundet. In den Gängen warten Monster, Fallen und Schätze; Gegenstände wie Seil, Floß oder Waffen helfen, Hindernisse zu überwinden und unterwegs zu überleben. Der Aufbau der Burgen wechselt von Spiel zu Spiel, und der Schwierigkeitsgrad bestimmt, wie viele Burgen bis zum Ziel zu bewältigen sind. Damit gehört Alcazar zu den frühen Action-Abenteuern mit zufällig erzeugten Verliesen.\n\nTom Loughry schrieb das Spiel zuerst für Colecos Adam und das ColecoVision; die C64-Fassung erschien 1985 bei Activision auf Kassette und Diskette und gilt als eine der besten Umsetzungen. Gespielt wird mit Joystick in Port 2. Neben Original und Cracks gibt es eine OneLoad64-Modulumsetzung ohne Nachladen.\n\nCode: Tom Loughry",
+    "en": "On the way to the legendary fortress of Alcazar, the player crosses a map dotted with castles whose rooms are explored from a top-down view. The corridors hold monsters, traps and treasure; items such as a rope, a raft or weapons help to overcome obstacles and survive the journey. The castle layouts change from game to game, and the difficulty level determines how many castles stand between the player and the goal. This makes Alcazar one of the early action adventures with randomly generated dungeons.\n\nTom Loughry first wrote the game for Coleco's Adam and the ColecoVision; the C64 version was released by Activision in 1985 on tape and disk and is considered one of the best versions. It is played with a joystick in port 2. Besides the original and cracks, there is a OneLoad64 cartridge conversion without loading breaks.\n\nCode: Tom Loughry"
+  },
+  "images": {
+    "ss": "images/c3/c3fa83795aeafbe27ceda73f0119bed947282627.png",
+    "sstitle": "images/8c/8cbda9c348a048054b08111aaa0d66b4c5f4d39e.png"
+  }
+}

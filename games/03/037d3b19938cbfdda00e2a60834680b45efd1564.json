@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "037d3b19938cbfdda00e2a60834680b45efd1564",
+  "md5": "9d3b93c9d005676faee1a0ef001e1a72",
+  "crc32": "bae98d8f",
+  "size": 29143,
+  "format": "PRG",
+  "files": [
+    "Silkworm.prg"
+  ],
+  "screenscraper_id": "36075",
+  "title": "Silkworm",
+  "year": "1989",
+  "publisher": "Virgin Mastertronic",
+  "developer": "The Sales Curve",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "In diesem horizontal scrollenden Shoot'em Up steuert ein Spieler einen Hubschrauber, ein zweiter gleichzeitig einen Jeep mit Maschinengewehr. Der Hubschrauber feuert nach vorn und schräg nach unten, der Jeep kann springen und sein Geschütz schwenken. Gerade das gemeinsame Spiel mit zwei unterschiedlichen Fahrzeugen, die sich gegenseitig Deckung geben, machte Silkworm beliebt. Vorlage ist der Tecmo-Automat von 1988.\n\nDie Umsetzungen für Heimcomputer entwickelte The Sales Curve, veröffentlicht wurden sie 1989 bei Virgin Mastertronic; auf dem C64 auf Kassette und Diskette, später auch auf einer Zeitschriften-Kassette. Daneben gibt es Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Der Nachfolger heißt SWIV.\n\nCode: Warren Mills · Grafik: Edward „Ned“ Langman · Musik: Barry Leitch",
+  "texts": {
+    "de": "In diesem horizontal scrollenden Shoot'em Up steuert ein Spieler einen Hubschrauber, ein zweiter gleichzeitig einen Jeep mit Maschinengewehr. Der Hubschrauber feuert nach vorn und schräg nach unten, der Jeep kann springen und sein Geschütz schwenken. Gerade das gemeinsame Spiel mit zwei unterschiedlichen Fahrzeugen, die sich gegenseitig Deckung geben, machte Silkworm beliebt. Vorlage ist der Tecmo-Automat von 1988.\n\nDie Umsetzungen für Heimcomputer entwickelte The Sales Curve, veröffentlicht wurden sie 1989 bei Virgin Mastertronic; auf dem C64 auf Kassette und Diskette, später auch auf einer Zeitschriften-Kassette. Daneben gibt es Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Der Nachfolger heißt SWIV.\n\nCode: Warren Mills · Grafik: Edward „Ned“ Langman · Musik: Barry Leitch",
+    "en": "In this horizontally scrolling shoot 'em up, one player controls a helicopter while a second can simultaneously drive a jeep with a mounted gun. The helicopter fires forwards and diagonally downwards, while the jeep can jump and swivel its gun. Above all, the co-operative mode with two very different vehicles covering each other made Silkworm popular. The basis is Tecmo's 1988 arcade game.\n\nThe home computer conversions were developed by The Sales Curve and published by Virgin Mastertronic in 1989; on the C64 on cassette and disk, later also on a magazine covertape. Cartridge conversions from the scene exist as well. It is played with a joystick in port 2. The sequel is SWIV.\n\nCode: Warren Mills · Graphics: Edward \"Ned\" Langman · Music: Barry Leitch"
+  },
+  "images": {
+    "ss": "images/1a/1ae6e77d437a7f2694fb1043ce03d2b9e158c9eb.png",
+    "sstitle": "images/90/90c4d38c83b5a342d7c83ae3331a18c9841910f7.png"
+  }
+}

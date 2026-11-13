@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0035b4f97ae6d6a1a4c17ee1d2d24a2ac5e803b3",
+  "md5": "28f52b4aa83be9a778851414a1494bc7",
+  "crc32": "a0a2c77c",
+  "size": 20232,
+  "format": "T64",
+  "files": [
+    "SPACEPI1.T64"
+  ],
+  "screenscraper_id": "114915",
+  "title": "Space-Pilot",
+  "year": "1984",
+  "publisher": "Kingsoft",
+  "developer": "Henrik Wening",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Mit einem zeitreisenden Jet kämpft sich der Spieler durch fünf Epochen der Luftfahrt: Doppeldecker und Zeppelin von 1919, Jagdflugzeuge und Bomber von 1940, Kampfhubschrauber von 1970, Düsenjäger von 1984 und schließlich Fluguntertassen im Jahr 2001. Der Bildschirm scrollt in alle Richtungen, das eigene Flugzeug bleibt in der Mitte und dreht sich. Nach einer bestimmten Zahl von Abschüssen erscheint ein großes Mutterschiff, dessen Zerstörung in die nächste Epoche führt. Das Spiel ist eine sehr enge Nachbildung des Konami-Automaten Time Pilot und war einer der frühen Erfolge von Kingsoft.\n\nSpace-Pilot erschien bei Kingsoft auf Kassette und Diskette, in Großbritannien bei Anirog; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur, zwei Spieler können abwechselnd spielen. Musik gibt es nicht, nur Soundeffekte. Eine Fassung für den C16 folgte ebenso wie der Nachfolger Space-Pilot II.\n\nCode: Henrik Wening · Grafik: Henrik Wening",
+  "texts": {
+    "de": "Mit einem zeitreisenden Jet kämpft sich der Spieler durch fünf Epochen der Luftfahrt: Doppeldecker und Zeppelin von 1919, Jagdflugzeuge und Bomber von 1940, Kampfhubschrauber von 1970, Düsenjäger von 1984 und schließlich Fluguntertassen im Jahr 2001. Der Bildschirm scrollt in alle Richtungen, das eigene Flugzeug bleibt in der Mitte und dreht sich. Nach einer bestimmten Zahl von Abschüssen erscheint ein großes Mutterschiff, dessen Zerstörung in die nächste Epoche führt. Das Spiel ist eine sehr enge Nachbildung des Konami-Automaten Time Pilot und war einer der frühen Erfolge von Kingsoft.\n\nSpace-Pilot erschien bei Kingsoft auf Kassette und Diskette, in Großbritannien bei Anirog; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur, zwei Spieler können abwechselnd spielen. Musik gibt es nicht, nur Soundeffekte. Eine Fassung für den C16 folgte ebenso wie der Nachfolger Space-Pilot II.\n\nCode: Henrik Wening · Grafik: Henrik Wening",
+    "en": "Flying a time-travelling jet, the player battles through five eras of aviation: biplanes and a zeppelin from 1919, fighters and bombers from 1940, attack helicopters from 1970, jet fighters from 1984 and finally flying saucers in the year 2001. The screen scrolls in all directions while the player's plane stays in the centre and rotates. After a set number of kills a large mothership appears, and destroying it leads to the next era. The game is a very close copy of Konami's Time Pilot arcade machine and was one of Kingsoft's early successes.\n\nSpace-Pilot was released by Kingsoft on cassette and disk, and in the UK by Anirog; cartridge conversions from the scene appeared later. It is played with a joystick in port 2 or the keyboard, and two players can take turns. There is no music, only sound effects. A C16 version followed, as did the sequel Space-Pilot II.\n\nCode: Henrik Wening · Graphics: Henrik Wening"
+  },
+  "images": {
+    "ss": "images/55/5591a2ec1a93ada166e90dc5e23d599f3092e24d.png",
+    "sstitle": "images/ba/bab5732ab93a51ffed883dae625b556b78926538.png"
+  }
+}

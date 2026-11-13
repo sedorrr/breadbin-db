@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "2fd72776d8fb05b56a3e3dc3bb89a49e87903732",
+  "md5": "521458aa6ce521ed63d15058118dee18",
+  "crc32": "d6f8d4f3",
+  "size": 32829,
+  "format": "PRG",
+  "files": [
+    "Slayer.prg"
+  ],
+  "screenscraper_id": "113066",
+  "title": "Slayer",
+  "year": "1988",
+  "publisher": "Rack-It (Hewson)",
+  "developer": "Imperial Software Design",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Raumschiff kämpft sich durch waagerecht scrollende Level voller Gegnerwellen und sammelt Extras für seine Bewaffnung. Das Spiel orientiert sich an den großen Automaten-Shoot'em-ups jener Zeit und bietet viele Gegner gleichzeitig auf dem Bildschirm bei flüssigem Scrolling. Für ein Billigspiel war Slayer technisch auffallend sauber umgesetzt und wurde entsprechend gut bewertet.\n\nSlayer erschien 1988 bei Hewsons Billiglabel Rack-It für den C64 und lag später Heftkassetten bei. Programmierer Gary Biasillo brachte von Ocean Erfahrung mit Sprite-Multiplexing und Scrolling mit. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Gary Biasillo · Grafik: Mike Williams, Stephen Robertson · Musik: Gary Biasillo",
+  "texts": {
+    "de": "Ein Raumschiff kämpft sich durch waagerecht scrollende Level voller Gegnerwellen und sammelt Extras für seine Bewaffnung. Das Spiel orientiert sich an den großen Automaten-Shoot'em-ups jener Zeit und bietet viele Gegner gleichzeitig auf dem Bildschirm bei flüssigem Scrolling. Für ein Billigspiel war Slayer technisch auffallend sauber umgesetzt und wurde entsprechend gut bewertet.\n\nSlayer erschien 1988 bei Hewsons Billiglabel Rack-It für den C64 und lag später Heftkassetten bei. Programmierer Gary Biasillo brachte von Ocean Erfahrung mit Sprite-Multiplexing und Scrolling mit. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Gary Biasillo · Grafik: Mike Williams, Stephen Robertson · Musik: Gary Biasillo",
+    "en": "A spaceship fights its way through horizontally scrolling levels full of enemy waves, collecting power-ups for its weapons. The game takes its cue from the big arcade shoot 'em ups of the time and puts many enemies on screen at once with smooth scrolling. For a budget title Slayer was technically remarkably polished and was reviewed accordingly well.\n\nSlayer was released in 1988 on Hewson's budget label Rack-It for the C64 and later appeared on magazine covertapes. Programmer Gary Biasillo brought experience with sprite multiplexing and scrolling from his time at Ocean. It is played with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Gary Biasillo · Graphics: Mike Williams, Stephen Robertson · Music: Gary Biasillo"
+  },
+  "images": {
+    "ss": "images/23/23f6feb39a43bfda4b3f2c8ec2cc30221c5e6f09.png",
+    "sstitle": "images/56/5663ea425b6096fdea1cd6ab5f28f214f4697ed7.png"
+  }
+}

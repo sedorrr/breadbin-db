@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3484af67f3c2344d6f5bae2013911ffa36f2902d",
+  "md5": "e29847db8a55800bee68bfdff8cdb1a6",
+  "crc32": "fc4e7c7a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "QUESTR2B.D64"
+  ],
+  "screenscraper_id": "116575",
+  "title": "Questron II",
+  "year": "1988",
+  "publisher": "SSI",
+  "developer": "Westwood Associates (Programmierung); Entwurf: Charles W. Dougherty, John Dougherty",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Questron II ist die Fortsetzung des Rollenspiels Questron und spielt in dessen Vorgeschichte. Der Held wird in die Vergangenheit geschickt, um sechs wahnsinnige Zauberer aufzuhalten, bevor sie das böse Buch der Magie erschaffen, das im ersten Teil die Welt bedrohte. Er erkundet eine Oberwelt mit Städten und Burgen, sammelt Geld und Ausrüstung, steigert seine Werte und dringt in Verliese vor, die aus der Ich-Perspektive gezeigt werden. Das Spiel setzt auf einen einzelnen Helden statt einer Gruppe und ist dadurch schnell zugänglich.\n\nErschien 1988 bei SSI für den C64 (auch C128) und weitere Systeme auf Diskette. Gesteuert wird mit Tastatur oder Joystick.\n\nEntwurf: Charles W. Dougherty, John Dougherty · Code: Ethan Grimes, Barry Green (Westwood Associates) · Musik: Paul Mudra",
+  "texts": {
+    "de": "Questron II ist die Fortsetzung des Rollenspiels Questron und spielt in dessen Vorgeschichte. Der Held wird in die Vergangenheit geschickt, um sechs wahnsinnige Zauberer aufzuhalten, bevor sie das böse Buch der Magie erschaffen, das im ersten Teil die Welt bedrohte. Er erkundet eine Oberwelt mit Städten und Burgen, sammelt Geld und Ausrüstung, steigert seine Werte und dringt in Verliese vor, die aus der Ich-Perspektive gezeigt werden. Das Spiel setzt auf einen einzelnen Helden statt einer Gruppe und ist dadurch schnell zugänglich.\n\nErschien 1988 bei SSI für den C64 (auch C128) und weitere Systeme auf Diskette. Gesteuert wird mit Tastatur oder Joystick.\n\nEntwurf: Charles W. Dougherty, John Dougherty · Code: Ethan Grimes, Barry Green (Westwood Associates) · Musik: Paul Mudra",
+    "en": "Questron II is the sequel to the role-playing game Questron and is set in its backstory. The hero is sent into the past to stop six mad sorcerers before they create the evil Book of Magic that threatened the world in the first game. He explores an overworld with towns and castles, gathers money and equipment, raises his attributes and ventures into dungeons shown in first-person view. The game uses a single hero instead of a party, which makes it quick to get into.\n\nReleased by SSI in 1988 for the C64 (also C128) and other systems on disk. It is controlled with keyboard or joystick.\n\nDesign: Charles W. Dougherty, John Dougherty · Code: Ethan Grimes, Barry Green (Westwood Associates) · Music: Paul Mudra"
+  },
+  "images": {
+    "ss": "images/6d/6dfa7ac963e0ecca1bbbcbc3729fe7e79c0ae269.png",
+    "sstitle": "images/77/77ba529c53f6059fbad531421201b7d0f3f91e12.png"
+  }
+}

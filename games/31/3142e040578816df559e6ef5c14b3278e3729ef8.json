@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3142e040578816df559e6ef5c14b3278e3729ef8",
+  "md5": "03b2f2f5ee5d41bb4d357c736f6d2dc5",
+  "crc32": "61d24691",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SPELLBRE.D64"
+  ],
+  "screenscraper_id": "36725",
+  "title": "Spellbreaker",
+  "year": "1985",
+  "publisher": "Infocom",
+  "developer": "Dave Lebling (Infocom)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Im letzten Teil der Enchanter-Trilogie ist der Spieler inzwischen Oberhaupt der Zauberergilde, doch überall im Land versagt die Magie. Bei einer Versammlung der Zauberer verwandelt ein Unbekannter alle Anwesenden außer ihm in Frösche, und er nimmt die Verfolgung auf. Im Mittelpunkt stehen magische Würfel, die als Tore zu verschiedenen Orten dienen und unterschieden, benannt und klug eingesetzt werden müssen. Spellbreaker gilt als das schwierigste Spiel der Reihe und richtet sich an erfahrene Abenteurer.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; das Spiel läuft mit Infocoms eigenem Interpreter und war mit Beilagen („Feelies“) verpackt. Gespielt wird über die Tastatur.\n\nAutor: Dave Lebling",
+  "texts": {
+    "de": "Im letzten Teil der Enchanter-Trilogie ist der Spieler inzwischen Oberhaupt der Zauberergilde, doch überall im Land versagt die Magie. Bei einer Versammlung der Zauberer verwandelt ein Unbekannter alle Anwesenden außer ihm in Frösche, und er nimmt die Verfolgung auf. Im Mittelpunkt stehen magische Würfel, die als Tore zu verschiedenen Orten dienen und unterschieden, benannt und klug eingesetzt werden müssen. Spellbreaker gilt als das schwierigste Spiel der Reihe und richtet sich an erfahrene Abenteurer.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; das Spiel läuft mit Infocoms eigenem Interpreter und war mit Beilagen („Feelies“) verpackt. Gespielt wird über die Tastatur.\n\nAutor: Dave Lebling",
+    "en": "In the final part of the Enchanter trilogy the player has become head of the Guild of Enchanters, yet magic is failing throughout the land. At a gathering of magicians a stranger turns everyone except him into frogs, and he sets off in pursuit. Central to the game are magic cubes that act as gateways to different places and have to be told apart, named and used wisely. Spellbreaker is considered the hardest game in the series and is aimed at experienced adventurers.\n\nReleased as a pure text adventure by Infocom for numerous systems, including the C64 on disk; the game runs on Infocom's own interpreter and came packaged with extras (“feelies”). It is played with the keyboard.\n\nAuthor: Dave Lebling"
+  },
+  "images": {
+    "ss": "images/2a/2ae51e5de9f9d0dd9dba39057f84542f0718fae4.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "3262a20aee24aa58402c881c50c58fc43aa6ae73",
+  "md5": "0a19eba5e4fa5e5533dfea2c009c34a3",
+  "crc32": "6827e961",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SHERLOK0.D64"
+  ],
+  "screenscraper_id": "110827",
+  "title": "Sherlock: The Riddle of the Crown Jewels",
+  "year": "1987",
+  "publisher": "Infocom",
+  "developer": "Bob Bates (Infocom)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "London im Jahr 1887, kurz vor dem goldenen Thronjubiläum Königin Victorias: Die Kronjuwelen sind aus dem Tower verschwunden, und Professor Moriarty steckt dahinter. Der Spieler übernimmt die Rolle von Dr. Watson und hat 48 Stunden Zeit, den Hinweisen zu folgen, die Holmes und Moriarty hinterlassen. Die Rätsel führen durch bekannte Orte Londons und spielen mit Anspielungen auf die Holmes-Erzählungen. Das Spiel war Bob Bates' erstes Werk und zugleich eines der letzten klassischen Textabenteuer von Infocom.\n\nErschien 1987 als reines Textabenteuer bei Infocom für mehrere Systeme, darunter den C64 auf zwei Diskettenseiten. Gespielt wird über die Tastatur.\n\nAutor: Bob Bates",
+  "texts": {
+    "de": "London im Jahr 1887, kurz vor dem goldenen Thronjubiläum Königin Victorias: Die Kronjuwelen sind aus dem Tower verschwunden, und Professor Moriarty steckt dahinter. Der Spieler übernimmt die Rolle von Dr. Watson und hat 48 Stunden Zeit, den Hinweisen zu folgen, die Holmes und Moriarty hinterlassen. Die Rätsel führen durch bekannte Orte Londons und spielen mit Anspielungen auf die Holmes-Erzählungen. Das Spiel war Bob Bates' erstes Werk und zugleich eines der letzten klassischen Textabenteuer von Infocom.\n\nErschien 1987 als reines Textabenteuer bei Infocom für mehrere Systeme, darunter den C64 auf zwei Diskettenseiten. Gespielt wird über die Tastatur.\n\nAutor: Bob Bates",
+    "en": "London, 1887, just before Queen Victoria's Golden Jubilee: the Crown Jewels have vanished from the Tower, and Professor Moriarty is behind it. The player takes the role of Dr Watson and has 48 hours to follow the clues left by Holmes and Moriarty. The puzzles lead through well-known London sites and play with references to the Holmes stories. The game was Bob Bates' first work and one of Infocom's last classic text adventures.\n\nReleased in 1987 as a pure text adventure by Infocom for several systems, including the C64 on two disk sides. It is played with the keyboard.\n\nAuthor: Bob Bates"
+  }
+}

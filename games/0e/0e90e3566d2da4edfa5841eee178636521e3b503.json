@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0e90e3566d2da4edfa5841eee178636521e3b503",
+  "md5": "3b3c5e06885da1cf24a4f97f5b770536",
+  "crc32": "1f053a04",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Re-Bounder.crt"
+  ],
+  "screenscraper_id": "36469",
+  "title": "Re-Bounder",
+  "year": "1987",
+  "publisher": "Gremlin Graphics",
+  "developer": "Chris Shrigley",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Nachfolger von Bounder: Der Spieler steuert einen springenden Tennisball über eine senkrecht scrollende Landschaft aus Plattformen, Lücken und Fallen, gesehen von oben. Jede Landung muss auf festem Grund erfolgen, sonst geht ein Leben verloren. Im Unterschied zum Vorgänger kann der Ball nun schießen und Extras einsammeln, die ihn verbessern; zahlreiche Gegner machen den Weg schwerer. Das Spiel verlangt gutes Timing und genaue Kenntnis der Strecken.\n\nErschien bei Gremlin Graphics auf Kassette und Diskette, später auch auf einer Kassette der Commodore Format (1993). Heute gibt es zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Chris Shrigley · Grafik: Terry Lloyd, Robert Toone, Steve Kerry, Marco Duroe · Musik: Ben Daglish",
+  "texts": {
+    "de": "Nachfolger von Bounder: Der Spieler steuert einen springenden Tennisball über eine senkrecht scrollende Landschaft aus Plattformen, Lücken und Fallen, gesehen von oben. Jede Landung muss auf festem Grund erfolgen, sonst geht ein Leben verloren. Im Unterschied zum Vorgänger kann der Ball nun schießen und Extras einsammeln, die ihn verbessern; zahlreiche Gegner machen den Weg schwerer. Das Spiel verlangt gutes Timing und genaue Kenntnis der Strecken.\n\nErschien bei Gremlin Graphics auf Kassette und Diskette, später auch auf einer Kassette der Commodore Format (1993). Heute gibt es zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Chris Shrigley · Grafik: Terry Lloyd, Robert Toone, Steve Kerry, Marco Duroe · Musik: Ben Daglish",
+    "en": "The sequel to Bounder: the player steers a bouncing tennis ball over a vertically scrolling landscape of platforms, gaps and traps, seen from above. Every landing has to be on solid ground or a life is lost. Unlike its predecessor, the ball can now shoot and collect power-ups that improve it, while numerous enemies make the way harder. The game demands good timing and close knowledge of the courses.\n\nReleased by Gremlin Graphics on cassette and disk, later also on a Commodore Format covertape (1993). Today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2.\n\nCode: Chris Shrigley · Graphics: Terry Lloyd, Robert Toone, Steve Kerry, Marco Duroe · Music: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/8b/8b17af178d222ca3203be0d730a2c5dbb4cd7ae8.png"
+  }
+}

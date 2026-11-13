@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "1368bb1e888db2b82da64beba88ff3c132a24aa9",
+  "md5": "b9a32badaf7efb4359c921d185d8a56c",
+  "crc32": "45bb1295",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Blagger.crt"
+  ],
+  "screenscraper_id": "36813",
+  "title": "Blagger",
+  "year": "1983",
+  "publisher": "Alligata Software",
+  "developer": "Antony Crowther",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "In Blagger steuert man den Einbrecher Roger the Dodger durch eine Reihe von Einzelbildschirmen voller Plattformen, Förderbänder, bröckelnder Böden und sich bewegender Gefahren. Auf jedem Bildschirm muss er alle Schlüssel einsammeln und danach den Tresor erreichen, bevor die Luft ausgeht. Die Sprünge verlangen genaues Timing, schon ein Fall aus zu großer Höhe kostet ein Leben. Das Spiel gehört zu den frühen britischen Plattformspielen in der Art von Manic Miner und begründete Tony Crowthers Ruf; es folgten Blagger Goes to Hollywood und Son of Blagger.\n\nDas Spiel erschien 1983 bei Alligata auf Kassette und wurde später mehrfach neu aufgelegt, u. a. in Italien. Unter den Cracks gibt es eine Fassung mit zuschaltbaren Hilfen per Zifferntasten. Außerdem gibt es Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nCode und Grafik: Antony Crowther",
+  "texts": {
+    "de": "In Blagger steuert man den Einbrecher Roger the Dodger durch eine Reihe von Einzelbildschirmen voller Plattformen, Förderbänder, bröckelnder Böden und sich bewegender Gefahren. Auf jedem Bildschirm muss er alle Schlüssel einsammeln und danach den Tresor erreichen, bevor die Luft ausgeht. Die Sprünge verlangen genaues Timing, schon ein Fall aus zu großer Höhe kostet ein Leben. Das Spiel gehört zu den frühen britischen Plattformspielen in der Art von Manic Miner und begründete Tony Crowthers Ruf; es folgten Blagger Goes to Hollywood und Son of Blagger.\n\nDas Spiel erschien 1983 bei Alligata auf Kassette und wurde später mehrfach neu aufgelegt, u. a. in Italien. Unter den Cracks gibt es eine Fassung mit zuschaltbaren Hilfen per Zifferntasten. Außerdem gibt es Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nCode und Grafik: Antony Crowther",
+    "en": "In Blagger the player guides the burglar Roger the Dodger through a series of single screens full of platforms, conveyor belts, crumbling floors and moving hazards. On each screen he has to collect all the keys and then reach the safe before his air runs out. The jumps demand precise timing, and even a fall from too great a height costs a life. It is one of the early British platform games in the vein of Manic Miner and established Tony Crowther's reputation; it was followed by Blagger Goes to Hollywood and Son of Blagger.\n\nThe game was released in 1983 by Alligata on cassette and was later reissued several times, including in Italy. Among the cracked versions there is one with optional aids toggled by the number keys. There are also cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick in port 2.\n\nCode and graphics: Antony Crowther"
+  },
+  "images": {
+    "ss": "images/62/626f59bc1c15cb56748c3d7b303a67f0a95d6a9d.png"
+  }
+}

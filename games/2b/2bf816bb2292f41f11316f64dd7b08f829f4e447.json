@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "2bf816bb2292f41f11316f64dd7b08f829f4e447",
+  "md5": "94f1ad0c3977ec4c79b3ee4f4102e491",
+  "crc32": "dc1d91fe",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BLOODMON.D64"
+  ],
+  "screenscraper_id": "110006",
+  "title": "Blood Money",
+  "year": "1990",
+  "publisher": "Psygnosis",
+  "developer": "DMA Design (Mike Dailly)",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "In vier Welten – Metall, Wasser, Eis und Feuer – steuert man jeweils ein anderes Gefährt: einen Hubschrauber, ein U-Boot, einen Raumanzug und ein Düsenflugzeug. Abgeschossene Gegner hinterlassen Geld, das in Läden gegen Waffen, Ausrüstung und Extraleben eingetauscht wird. Zwei Spieler können gleichzeitig antreten. Das Amiga-Original von DMA Design war 1989 ein Erfolg, und die C64-Umsetzung galt als erstaunlich nah an der 16-Bit-Vorlage.\n\nDie C64-Fassung erschien 1990 bei Psygnosis. Mike Dailly, später an Lemmings beteiligt, setzte das Spiel um und schrieb dafür neue Scroll- und Sprite-Routinen sowie eigene Kassettenlader. Gesteuert wird mit dem Joystick in Port 2, zu zweit mit zwei Joysticks.\n\nCode: Mike Dailly · Grafik: Tony Smith · Musik: Fredrik Segerfalk",
+  "texts": {
+    "de": "In vier Welten – Metall, Wasser, Eis und Feuer – steuert man jeweils ein anderes Gefährt: einen Hubschrauber, ein U-Boot, einen Raumanzug und ein Düsenflugzeug. Abgeschossene Gegner hinterlassen Geld, das in Läden gegen Waffen, Ausrüstung und Extraleben eingetauscht wird. Zwei Spieler können gleichzeitig antreten. Das Amiga-Original von DMA Design war 1989 ein Erfolg, und die C64-Umsetzung galt als erstaunlich nah an der 16-Bit-Vorlage.\n\nDie C64-Fassung erschien 1990 bei Psygnosis. Mike Dailly, später an Lemmings beteiligt, setzte das Spiel um und schrieb dafür neue Scroll- und Sprite-Routinen sowie eigene Kassettenlader. Gesteuert wird mit dem Joystick in Port 2, zu zweit mit zwei Joysticks.\n\nCode: Mike Dailly · Grafik: Tony Smith · Musik: Fredrik Segerfalk",
+    "en": "Across four worlds – metal, water, ice and fire – the player controls a different craft in each: a helicopter, a submarine, a spacesuit and a jet fighter. Destroyed enemies leave money behind, which can be spent in shops on weapons, equipment and extra lives. Two players can play at the same time. DMA Design's Amiga original was a hit in 1989, and the C64 conversion was considered remarkably close to its 16-bit source.\n\nThe C64 version was published by Psygnosis in 1990. Mike Dailly, who later worked on Lemmings, did the conversion, writing new scrolling and sprite routines as well as his own tape loaders. It is played with a joystick in port 2, two joysticks for two players.\n\nCode: Mike Dailly · Graphics: Tony Smith · Music: Fredrik Segerfalk"
+  }
+}

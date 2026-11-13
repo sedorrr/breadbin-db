@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "11e3465150ec85fb349ef6748d7a9cbd8b79bb18",
+  "md5": "0c224b85277c8c375dcf110dce031ff6",
+  "crc32": "05ad64f5",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Enlightenment - Druid II (J1).crt"
+  ],
+  "screenscraper_id": "36635",
+  "title": "Enlightenment: Druid II",
+  "year": "1987",
+  "publisher": "Firebird",
+  "developer": "Electralyte (Dene Carter)",
+  "genres": [
+    "Action / Labyrinth",
+    "Action / Abenteuer"
+  ],
+  "players": "1-2",
+  "synopsis": "In der Fortsetzung von Druid kehrt der Druide Hasrinaxx zurück, um den wiedererstarkten Dämonenfürsten Acamantor zu besiegen. Aus der Vogelperspektive zieht er durch Wälder, Kerker und Festungen, wehrt Monster mit Zaubersprüchen ab und sucht den Weg zur nächsten Ebene. Gegenüber dem Vorgänger gibt es deutlich mehr Zauber, die vorab ausgewählt und in begrenzter Zahl mitgeführt werden. Ein zweiter Spieler kann einen beschworenen Helfer steuern, sodass beide gemeinsam spielen.\n\nDas Spiel erschien auf Kassette und Diskette bei Firebird. Der Druide wird mit dem Joystick in Port 1 gesteuert, der Helfer des zweiten Spielers mit einem Joystick in Port 2.\n\nDesign: Dene Carter (Electralyte)",
+  "texts": {
+    "de": "In der Fortsetzung von Druid kehrt der Druide Hasrinaxx zurück, um den wiedererstarkten Dämonenfürsten Acamantor zu besiegen. Aus der Vogelperspektive zieht er durch Wälder, Kerker und Festungen, wehrt Monster mit Zaubersprüchen ab und sucht den Weg zur nächsten Ebene. Gegenüber dem Vorgänger gibt es deutlich mehr Zauber, die vorab ausgewählt und in begrenzter Zahl mitgeführt werden. Ein zweiter Spieler kann einen beschworenen Helfer steuern, sodass beide gemeinsam spielen.\n\nDas Spiel erschien auf Kassette und Diskette bei Firebird. Der Druide wird mit dem Joystick in Port 1 gesteuert, der Helfer des zweiten Spielers mit einem Joystick in Port 2.\n\nDesign: Dene Carter (Electralyte)",
+    "en": "In the sequel to Druid the druid Hasrinaxx returns to defeat the resurgent demon prince Acamantor. Seen from above, he travels through forests, dungeons and fortresses, fends off monsters with spells and searches for the way to the next level. Compared with its predecessor there are many more spells, which are chosen in advance and carried in limited numbers. A second player can control a summoned helper, so that both play together.\n\nThe game was released on tape and disk by Firebird. The druid is controlled with a joystick in port 1, the second player's helper with a joystick in port 2.\n\nDesign: Dene Carter (Electralyte)"
+  },
+  "images": {
+    "sstitle": "images/10/107c32c4d35da985cd65a062678d0e174d216b90.png"
+  }
+}

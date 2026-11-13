@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3af6cf33a374aa0a0520fbcdb815f5c1c6c64d10",
+  "md5": "f9bc8d9e25a7d0eae196fdbb0796f0fc",
+  "crc32": "7b8cb5e7",
+  "size": 262720,
+  "format": "CRT",
+  "files": [
+    "Altered Beast (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35838",
+  "title": "Altered Beast",
+  "year": "1989",
+  "publisher": "Activision",
+  "developer": "Software Studios",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Altered Beast ist die Umsetzung des Sega-Automaten von 1988. Ein von Zeus aus dem Grab erweckter Krieger kämpft sich durch seitlich scrollende Level voller Untoter und Dämonen, um Athene aus der Unterwelt zu retten. Bestimmte Gegner hinterlassen Kraftkugeln; nach drei davon verwandelt sich der Held in ein Tierwesen wie einen Werwolf und tritt so gegen den Endgegner an. Der Automat war vor allem durch seine Verwandlungen bekannt; die C64-Fassung wurde von der Presse eher kritisch aufgenommen.\n\nDie C64-Fassung erschien 1989 bei Activision auf Kassette und Diskette, entwickelt vom hauseigenen Studio Software Studios. Es gibt EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick; der erste Spieler nutzt Port 1, der zweite Port 2, beide spielen gleichzeitig.\n\nCode: Michael J. Archer · Grafik: Mark A. Jones · Musik: Martin Walker",
+  "texts": {
+    "de": "Altered Beast ist die Umsetzung des Sega-Automaten von 1988. Ein von Zeus aus dem Grab erweckter Krieger kämpft sich durch seitlich scrollende Level voller Untoter und Dämonen, um Athene aus der Unterwelt zu retten. Bestimmte Gegner hinterlassen Kraftkugeln; nach drei davon verwandelt sich der Held in ein Tierwesen wie einen Werwolf und tritt so gegen den Endgegner an. Der Automat war vor allem durch seine Verwandlungen bekannt; die C64-Fassung wurde von der Presse eher kritisch aufgenommen.\n\nDie C64-Fassung erschien 1989 bei Activision auf Kassette und Diskette, entwickelt vom hauseigenen Studio Software Studios. Es gibt EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick; der erste Spieler nutzt Port 1, der zweite Port 2, beide spielen gleichzeitig.\n\nCode: Michael J. Archer · Grafik: Mark A. Jones · Musik: Martin Walker",
+    "en": "Altered Beast is the conversion of Sega's 1988 arcade game. A warrior raised from the grave by Zeus fights his way through side-scrolling levels full of undead and demons to rescue Athena from the underworld. Certain enemies leave power orbs behind; after three of them the hero transforms into a beast such as a werewolf and takes on the end boss in that form. The arcade game was famous for its transformations; the C64 version received a rather critical reception from the press.\n\nThe C64 version was released in 1989 by Activision on cassette and disk, developed by its in-house studio Software Studios. There are EasyFlash conversions, including one by $olo1870 (MultiLoad64) that loads the additional parts from the cartridge. It is controlled with a joystick; player one uses port 1 and player two port 2, with both playing simultaneously.\n\nCode: Michael J. Archer · Graphics: Mark A. Jones · Music: Martin Walker"
+  },
+  "images": {
+    "sstitle": "images/f0/f087803f0a5b3259ae4d6f4e916ee4e71a5c934e.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "1c4c76160075af79f8c798534e218fc7838c89f6",
+  "md5": "dbb838d4240ad59f764ad8430f996472",
+  "crc32": "1503cdd5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SNOWSTRI.D64"
+  ],
+  "screenscraper_id": "36580",
+  "title": "Snow Strike",
+  "year": "1990",
+  "publisher": "Epyx",
+  "developer": "Incredible Technologies",
+  "genres": [
+    "Simulation",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Snow Strike ist ein actionbetontes Flugspiel, in dem ein Kampfjet vom Flugzeugträger aus gegen Drogenkartelle eingesetzt wird. Die Einsätze führen gegen Drogenlabore, Plantagen, Flugplätze und Transporte, wobei feindliche Jäger und Flugabwehr abzuwehren sind. Zu Start und Landung auf dem Träger kommen Luftkämpfe und Bodenangriffe in schneller Pseudo-3D-Darstellung. Das Spiel setzt eher auf Arcade-Action als auf genaue Flugsimulation.\n\nEpyx veröffentlichte die C64-Fassung 1990 auf Diskette; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Larry Hodgson, Robert Fuentes Jr. · Grafik: R. Scott Morrison · Musik: Kyle Johnson",
+  "texts": {
+    "de": "Snow Strike ist ein actionbetontes Flugspiel, in dem ein Kampfjet vom Flugzeugträger aus gegen Drogenkartelle eingesetzt wird. Die Einsätze führen gegen Drogenlabore, Plantagen, Flugplätze und Transporte, wobei feindliche Jäger und Flugabwehr abzuwehren sind. Zu Start und Landung auf dem Träger kommen Luftkämpfe und Bodenangriffe in schneller Pseudo-3D-Darstellung. Das Spiel setzt eher auf Arcade-Action als auf genaue Flugsimulation.\n\nEpyx veröffentlichte die C64-Fassung 1990 auf Diskette; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Larry Hodgson, Robert Fuentes Jr. · Grafik: R. Scott Morrison · Musik: Kyle Johnson",
+    "en": "Snow Strike is an action-oriented flight game in which a fighter jet operates from an aircraft carrier against drug cartels. Missions target drug labs, plantations, airfields and shipments, while enemy fighters and anti-aircraft fire have to be fended off. Take-off and carrier landings are joined by dogfights and ground attacks in fast pseudo-3D. The game favours arcade action over accurate flight simulation.\n\nEpyx released the C64 version in 1990 on disk; EasyFlash conversions from the scene exist as well. It is played with a joystick in port 2.\n\nCode: Larry Hodgson, Robert Fuentes Jr. · Graphics: R. Scott Morrison · Music: Kyle Johnson"
+  },
+  "images": {
+    "ss": "images/39/39727f0331296c93724d22147d85d84c0ecd0a9c.png",
+    "sstitle": "images/33/33903115708e6b46e2628ec6829b0a908741f365.png"
+  }
+}

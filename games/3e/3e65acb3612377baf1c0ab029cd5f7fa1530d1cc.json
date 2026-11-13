@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3e65acb3612377baf1c0ab029cd5f7fa1530d1cc",
+  "md5": "5e13930698934464d1ed63d8d37c3683",
+  "crc32": "d522c8c1",
+  "size": 26450,
+  "format": "PRG",
+  "files": [
+    "Fast Food.prg"
+  ],
+  "screenscraper_id": "36178",
+  "title": "Fast Food",
+  "year": "1990",
+  "publisher": "Codemasters",
+  "developer": "Oliver Twins (Entwurf); C64: Vision Software",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Dizzy, das Ei aus den Codemasters-Abenteuern, ist hier Hauptfigur eines Labyrinthspiels im Stil von Pac-Man. In jedem Irrgarten sammelt er Burger, Pommes, Getränke und andere Speisen ein und weicht dabei Monstern aus, die durch die Gänge streifen. Extras verschaffen kurzzeitig Vorteile. Ist das Labyrinth leer gefressen, geht es in den nächsten, schwierigeren Irrgarten.\n\nFast Food erschien 1989 für mehrere Rechner; die C64-Fassung kam laut GameBase 1990 bei Codemasters auf Kassette heraus. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik (C64): Jamie Irvine, Peter Goldsmith · Musik: Steve Barrett",
+  "texts": {
+    "de": "Dizzy, das Ei aus den Codemasters-Abenteuern, ist hier Hauptfigur eines Labyrinthspiels im Stil von Pac-Man. In jedem Irrgarten sammelt er Burger, Pommes, Getränke und andere Speisen ein und weicht dabei Monstern aus, die durch die Gänge streifen. Extras verschaffen kurzzeitig Vorteile. Ist das Labyrinth leer gefressen, geht es in den nächsten, schwierigeren Irrgarten.\n\nFast Food erschien 1989 für mehrere Rechner; die C64-Fassung kam laut GameBase 1990 bei Codemasters auf Kassette heraus. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik (C64): Jamie Irvine, Peter Goldsmith · Musik: Steve Barrett",
+    "en": "Dizzy, the egg from the Codemasters adventures, stars in a Pac-Man style maze game. In each maze he gobbles up burgers, fries, drinks and other food while avoiding monsters roaming the corridors. Power-ups give him a brief advantage. Once a maze has been cleared, he moves on to the next, harder one.\n\nFast Food came out in 1989 for several computers; according to GameBase the C64 version was released by Codemasters on tape in 1990. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode, graphics (C64): Jamie Irvine, Peter Goldsmith · Music: Steve Barrett"
+  },
+  "images": {
+    "sstitle": "images/7a/7a766bf4575c70555acd9d07f8c015f7f8826b7f.png"
+  }
+}

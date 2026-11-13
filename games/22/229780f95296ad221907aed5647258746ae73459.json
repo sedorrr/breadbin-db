@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "229780f95296ad221907aed5647258746ae73459",
+  "md5": "c0ca5184d4821570c685c8890a7a6e61",
+  "crc32": "891907d4",
+  "size": 229888,
+  "format": "CRT",
+  "files": [
+    "Spherical.crt"
+  ],
+  "screenscraper_id": "36185",
+  "title": "Spherical",
+  "year": "1989",
+  "publisher": "Rainbow Arts",
+  "developer": "Rainbow Arts",
+  "genres": [
+    "Puzzle",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Zauberer muss eine rollende Glaskugel durch jeden Level zum Ausgang lotsen. Dazu erschafft und entfernt er Steinblöcke, über die die Kugel rollt oder an denen sie abprallt, während Geister und Monster ihm Kraft rauben. Magische Gegenstände helfen weiter, nach jeweils zehn Leveln wartet ein Zwischengegner und auf Level 79 der Drache Mirgal. Das Spielprinzip lehnt sich an Solomon's Key an, verlangt aber durch die rollende Kugel mehr Geschick, und zwei Spieler können gleichzeitig zusammenarbeiten.\n\nSpherical erschien bei Rainbow Arts auf Diskette und Kassette, später auch als Neuauflage; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Die Musik schrieben Chris Hülsbeck und Ramiro Vaca.\n\nCode: Jörn Galka · Grafik: Bernd Buddrus, Andreas Escher · Musik: Chris Hülsbeck, Ramiro Vaca",
+  "texts": {
+    "de": "Ein Zauberer muss eine rollende Glaskugel durch jeden Level zum Ausgang lotsen. Dazu erschafft und entfernt er Steinblöcke, über die die Kugel rollt oder an denen sie abprallt, während Geister und Monster ihm Kraft rauben. Magische Gegenstände helfen weiter, nach jeweils zehn Leveln wartet ein Zwischengegner und auf Level 79 der Drache Mirgal. Das Spielprinzip lehnt sich an Solomon's Key an, verlangt aber durch die rollende Kugel mehr Geschick, und zwei Spieler können gleichzeitig zusammenarbeiten.\n\nSpherical erschien bei Rainbow Arts auf Diskette und Kassette, später auch als Neuauflage; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Die Musik schrieben Chris Hülsbeck und Ramiro Vaca.\n\nCode: Jörn Galka · Grafik: Bernd Buddrus, Andreas Escher · Musik: Chris Hülsbeck, Ramiro Vaca",
+    "en": "A wizard has to guide a rolling glass ball through each level to the exit. To do so he creates and removes stone blocks that the ball rolls across or bounces off, while ghosts and monsters drain his strength. Magic items help along the way, a boss appears after every ten levels and the dragon Mirgal waits on level 79. The concept borrows from Solomon's Key, but the rolling ball demands more dexterity, and two players can co-operate at the same time.\n\nSpherical was released by Rainbow Arts on disk and cassette, later also as a budget re-release; EasyFlash conversions from the scene exist as well. It is played with a joystick in port 2. The music was written by Chris Hülsbeck and Ramiro Vaca.\n\nCode: Jörn Galka · Graphics: Bernd Buddrus, Andreas Escher · Music: Chris Hülsbeck, Ramiro Vaca"
+  },
+  "images": {
+    "ss": "images/1b/1b87834a0b748f4db16601c2ef69ae5b5e4e0f50.png",
+    "sstitle": "images/ec/ec8bd15f434d31012116fcb7f549b7626cc0f2ab.png"
+  }
+}

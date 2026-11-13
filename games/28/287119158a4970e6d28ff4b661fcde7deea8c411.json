@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "287119158a4970e6d28ff4b661fcde7deea8c411",
+  "md5": "d583c4aa9280facec83846508faa1ec1",
+  "crc32": "1bf1b08b",
+  "size": 619118,
+  "format": "TAP",
+  "files": [
+    "Solomon's Key (Version 1).tap"
+  ],
+  "screenscraper_id": "35898",
+  "title": "Solomon's Key",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "developer": "Probe Software",
+  "genres": [
+    "Puzzle",
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "Der Zauberer Dana muss in jedem Raum den Schlüssel holen und die Ausgangstür erreichen. Dazu zaubert er Steinblöcke herbei oder lässt sie verschwinden, um Wege zu bauen und Monster aufzuhalten; Gegner lassen sich auch einsperren oder mit Feuerbällen ausschalten. Versteckte Bonusgegenstände und ein Zeitlimit belohnen genaues Planen. Die Mischung aus Denk- und Geschicklichkeitsspiel nach dem Tecmo-Automaten von 1986 gilt als zeitloser Klassiker und war Vorbild für spätere Titel wie Spherical.\n\nProbe Software setzte das Spiel für U.S. Gold um, erschienen auf Diskette und Kassette, später auch bei Kixx; dazu kommen Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick oder der Tastatur, zwei Spieler können abwechselnd spielen. Die C64-Musik ist eine SID-Bearbeitung der Automatenmelodie.\n\nMusik: David Whittaker (nach Michiharu Hasuya) · Titelbild: Paul Docherty",
+  "texts": {
+    "de": "Der Zauberer Dana muss in jedem Raum den Schlüssel holen und die Ausgangstür erreichen. Dazu zaubert er Steinblöcke herbei oder lässt sie verschwinden, um Wege zu bauen und Monster aufzuhalten; Gegner lassen sich auch einsperren oder mit Feuerbällen ausschalten. Versteckte Bonusgegenstände und ein Zeitlimit belohnen genaues Planen. Die Mischung aus Denk- und Geschicklichkeitsspiel nach dem Tecmo-Automaten von 1986 gilt als zeitloser Klassiker und war Vorbild für spätere Titel wie Spherical.\n\nProbe Software setzte das Spiel für U.S. Gold um, erschienen auf Diskette und Kassette, später auch bei Kixx; dazu kommen Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick oder der Tastatur, zwei Spieler können abwechselnd spielen. Die C64-Musik ist eine SID-Bearbeitung der Automatenmelodie.\n\nMusik: David Whittaker (nach Michiharu Hasuya) · Titelbild: Paul Docherty",
+    "en": "The wizard Dana has to fetch the key in each room and reach the exit door. To do so he conjures stone blocks into existence or makes them disappear, building paths and holding off monsters; enemies can also be trapped or destroyed with fireballs. Hidden bonus items and a time limit reward careful planning. This mix of puzzle and action game, based on Tecmo's 1986 arcade original, is considered a timeless classic and inspired later titles such as Spherical.\n\nProbe Software converted the game for U.S. Gold, released on disk and cassette and later by Kixx; cartridge conversions from the scene exist as well. It is played with a joystick or the keyboard, and two players can take turns. The C64 music is a SID arrangement of the arcade tune.\n\nMusic: David Whittaker (after Michiharu Hasuya) · Title screen: Paul Docherty"
+  },
+  "images": {
+    "ss": "images/18/18eed6e2bec933f9475f7daac22b210bd943f47b.png",
+    "sstitle": "images/4b/4b6876a1c4ab1dd7f8e7c8ec26846305be2e9378.png"
+  }
+}
