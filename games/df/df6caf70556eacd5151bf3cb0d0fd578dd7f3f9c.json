@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "df6caf70556eacd5151bf3cb0d0fd578dd7f3f9c",
+  "md5": "4f8c4055a1525aa195221706c18d5ef9",
+  "crc32": "a48a10fa",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Airwolf.crt"
+  ],
+  "screenscraper_id": "35855",
+  "title": "Airwolf",
+  "year": "1985",
+  "publisher": "Elite Systems",
+  "developer": "Elite Systems (Neil A. Bate)",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Nach der gleichnamigen Fernsehserie steuert der Spieler den Kampfhubschrauber Airwolf durch ein buntes Höhlenlabyrinth in der Wüste von Arizona, um fünf entführte amerikanische Wissenschaftler zu befreien und einzeln zur Basis zu bringen. Lässt man den Joystick los, sinkt der Hubschrauber; die Bordkanone hat unbegrenzt Munition. Ein Schild fängt Zusammenstöße ab, doch manche Gegner zerstören den Hubschrauber sofort, und es gibt nur ein Leben. Der hohe Schwierigkeitsgrad und die Titelmelodie der Serie sind vielen in Erinnerung geblieben.\n\nDie C64-Fassung ist ein eigenes, seitlich dargestelltes Spiel. Elite Systems veröffentlichte es 1985, später folgten Neuauflagen, unter anderem bei Encore. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Neil A. Bate · Grafik: Chris Harvey · Musik: Mark Cooksey (nach der Titelmelodie der Fernsehserie)",
+  "texts": {
+    "de": "Nach der gleichnamigen Fernsehserie steuert der Spieler den Kampfhubschrauber Airwolf durch ein buntes Höhlenlabyrinth in der Wüste von Arizona, um fünf entführte amerikanische Wissenschaftler zu befreien und einzeln zur Basis zu bringen. Lässt man den Joystick los, sinkt der Hubschrauber; die Bordkanone hat unbegrenzt Munition. Ein Schild fängt Zusammenstöße ab, doch manche Gegner zerstören den Hubschrauber sofort, und es gibt nur ein Leben. Der hohe Schwierigkeitsgrad und die Titelmelodie der Serie sind vielen in Erinnerung geblieben.\n\nDie C64-Fassung ist ein eigenes, seitlich dargestelltes Spiel. Elite Systems veröffentlichte es 1985, später folgten Neuauflagen, unter anderem bei Encore. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Neil A. Bate · Grafik: Chris Harvey · Musik: Mark Cooksey (nach der Titelmelodie der Fernsehserie)",
+    "en": "Based on the TV series of the same name, the player flies the Airwolf attack helicopter through a colourful cave labyrinth in the Arizona desert to rescue five kidnapped American scientists and carry them back to base one at a time. Releasing the joystick makes the helicopter sink; the cannon has unlimited ammunition. A shield absorbs collisions, but some enemies destroy the helicopter instantly, and there is only one life. The high difficulty and the series' theme tune have stayed in many players' memories.\n\nThe C64 version is a game of its own, shown in side view. Elite Systems released it in 1985, and re-releases followed, among them on Encore. It is played with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Neil A. Bate · Graphics: Chris Harvey · Music: Mark Cooksey (based on the TV series theme)"
+  },
+  "images": {
+    "ss": "images/b7/b7b701e59a26a91a157efc1d51ba5dbc2945da26.png",
+    "sstitle": "images/78/7880e604811b0a7c9f9096bb400a43e1390f596f.png"
+  }
+}

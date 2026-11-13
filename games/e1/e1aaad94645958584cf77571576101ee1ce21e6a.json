@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e1aaad94645958584cf77571576101ee1ce21e6a",
+  "md5": "540dc600c2c81076ee0709d203581c67",
+  "crc32": "59c25cfb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ATHENA.D64"
+  ],
+  "screenscraper_id": "109722",
+  "title": "Athena",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Imagine (Allan Shortt)",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Athena ist die Umsetzung des SNK-Automaten von 1986. Die Göttin Athena gerät in eine Fantasiewelt und muss sich durch mehrere seitlich scrollende Welten kämpfen, etwa Wald, Höhlen, Meer und Eiswelt. Unterwegs zerschlägt sie Steinblöcke und findet darin Waffen, Helme, Schilde und Rüstungsteile, die sie stärker machen, aber auch wieder verloren gehen können. Jede Welt endet mit einem Endgegner, und ein Zeitlimit drängt zur Eile. Das Spiel ist für seinen hohen Schwierigkeitsgrad bekannt.\n\nDie C64-Fassung erschien 1987 bei Imagine auf Kassette und Diskette. Neben der Originalfassung gibt es zahlreiche Cracks mit Trainern. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Allan Shortt · Grafik: Simon Butler · Musik: Martin Galway",
+  "texts": {
+    "de": "Athena ist die Umsetzung des SNK-Automaten von 1986. Die Göttin Athena gerät in eine Fantasiewelt und muss sich durch mehrere seitlich scrollende Welten kämpfen, etwa Wald, Höhlen, Meer und Eiswelt. Unterwegs zerschlägt sie Steinblöcke und findet darin Waffen, Helme, Schilde und Rüstungsteile, die sie stärker machen, aber auch wieder verloren gehen können. Jede Welt endet mit einem Endgegner, und ein Zeitlimit drängt zur Eile. Das Spiel ist für seinen hohen Schwierigkeitsgrad bekannt.\n\nDie C64-Fassung erschien 1987 bei Imagine auf Kassette und Diskette. Neben der Originalfassung gibt es zahlreiche Cracks mit Trainern. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Allan Shortt · Grafik: Simon Butler · Musik: Martin Galway",
+    "en": "Athena is the conversion of SNK's 1986 arcade game. The goddess Athena ends up in a fantasy world and has to fight her way through several side-scrolling worlds, such as forest, caves, sea and an ice world. Along the way she smashes stone blocks and finds weapons, helmets, shields and pieces of armour inside that make her stronger but can also be lost again. Each world ends with a boss, and a time limit keeps the pressure on. The game is known for its high difficulty.\n\nThe C64 version was released in 1987 by Imagine on cassette and disk. Besides the original there are numerous cracked versions with trainers. It is controlled with a joystick in port 2.\n\nCode: Allan Shortt · Graphics: Simon Butler · Music: Martin Galway"
+  },
+  "images": {
+    "sstitle": "images/5c/5c0c67f9c2fcee4e02327c0297c69761859f5445.png"
+  }
+}

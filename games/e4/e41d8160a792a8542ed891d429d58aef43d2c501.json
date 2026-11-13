@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "e41d8160a792a8542ed891d429d58aef43d2c501",
+  "md5": "0e69e2e54b54881a33b04fec5ed397fa",
+  "crc32": "d6d4d59e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "HESSIAN0.D64"
+  ],
+  "title": "Hessian",
+  "year": "2016",
+  "publisher": "Psytronik Software",
+  "developer": "Lasse Öörni (Cadaver, Covert Bitops)",
+  "genres": [
+    "Action / Abenteuer",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Hessian ist ein neues C64-Actionabenteuer von Lasse Öörni, dem Autor der Metal-Warrior-Reihe. Der Spieler übernimmt Kim, einen Wachmann eines Forschungskomplexes, der bei einem Angriff schwer verletzt und mit Nanomaschinen wiederhergestellt wird. In einer großen, frei erkundbaren Anlage kämpft er mit Schusswaffen gegen Roboter und Mutanten, findet Schlüsselkarten und baut seine Fähigkeiten durch Verbesserungen aus. Das Spiel verbindet flüssige Seitenansicht-Action mit einer Geschichte und gilt als eines der umfangreichsten neueren C64-Spiele.\n\nHessian erschien 2016 kostenlos als Download und zugleich bei Psytronik auf Diskette; es nutzt mehrere Diskettenseiten und lädt Bereiche nach. Gesteuert wird mit dem Joystick, ergänzt durch Tasten. Der Quellcode wurde offengelegt. EasyFlash-Umsetzungen vermeiden das Nachladen.\n\nCode, Grafik und Musik: Lasse Öörni · zusätzliche Musik: Péter Nagy-Miklós",
+  "texts": {
+    "de": "Hessian ist ein neues C64-Actionabenteuer von Lasse Öörni, dem Autor der Metal-Warrior-Reihe. Der Spieler übernimmt Kim, einen Wachmann eines Forschungskomplexes, der bei einem Angriff schwer verletzt und mit Nanomaschinen wiederhergestellt wird. In einer großen, frei erkundbaren Anlage kämpft er mit Schusswaffen gegen Roboter und Mutanten, findet Schlüsselkarten und baut seine Fähigkeiten durch Verbesserungen aus. Das Spiel verbindet flüssige Seitenansicht-Action mit einer Geschichte und gilt als eines der umfangreichsten neueren C64-Spiele.\n\nHessian erschien 2016 kostenlos als Download und zugleich bei Psytronik auf Diskette; es nutzt mehrere Diskettenseiten und lädt Bereiche nach. Gesteuert wird mit dem Joystick, ergänzt durch Tasten. Der Quellcode wurde offengelegt. EasyFlash-Umsetzungen vermeiden das Nachladen.\n\nCode, Grafik und Musik: Lasse Öörni · zusätzliche Musik: Péter Nagy-Miklós",
+    "en": "Hessian is a new C64 action adventure by Lasse Öörni, the author of the Metal Warrior series. The player takes the role of Kim, a security guard at a research complex who is badly injured in an attack and rebuilt with nanomachines. In a large, freely explorable facility he fights robots and mutants with firearms, finds key cards and improves his abilities through upgrades. The game combines fluid side-view action with a story and is regarded as one of the most extensive modern C64 games.\n\nHessian was released in 2016 as a free download and at the same time by Psytronik on disk; it uses several disk sides and loads areas as needed. It is controlled with a joystick, supplemented by keys. The source code has been published. EasyFlash conversions avoid the reloading.\n\nCode, graphics and music: Lasse Öörni · additional music: Péter Nagy-Miklós"
+  }
+}

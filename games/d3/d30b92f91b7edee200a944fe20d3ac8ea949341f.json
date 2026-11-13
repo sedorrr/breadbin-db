@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d30b92f91b7edee200a944fe20d3ac8ea949341f",
+  "md5": "1d79c122c6887b33e8ff8c288f63def9",
+  "crc32": "b2de0259",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TOTALREC.D64"
+  ],
+  "screenscraper_id": "35980",
+  "title": "Total Recall",
+  "year": "1991",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Das Spiel zum Film mit Arnold Schwarzenegger lässt Douglas Quaid herausfinden, wer er wirklich ist, und führt ihn von der Erde bis auf den Mars. Seitlich scrollende Plattformabschnitte, in denen Quaid sich gegen Agenten durchschlägt und Gegenstände findet, wechseln mit Fahrabschnitten in der Draufsicht, in denen er mit dem Wagen Verfolgern entkommt. Die Handlung folgt grob den Stationen des Films.\n\nOcean veröffentlichte Total Recall 1991 auf Kassette und Diskette; daneben gibt es eine EasyFlash-Umsetzung der Szene (MultiLoad64). Die Abschnitte werden nachgeladen. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: John Meegan · Grafik: Stephen Thomson · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Das Spiel zum Film mit Arnold Schwarzenegger lässt Douglas Quaid herausfinden, wer er wirklich ist, und führt ihn von der Erde bis auf den Mars. Seitlich scrollende Plattformabschnitte, in denen Quaid sich gegen Agenten durchschlägt und Gegenstände findet, wechseln mit Fahrabschnitten in der Draufsicht, in denen er mit dem Wagen Verfolgern entkommt. Die Handlung folgt grob den Stationen des Films.\n\nOcean veröffentlichte Total Recall 1991 auf Kassette und Diskette; daneben gibt es eine EasyFlash-Umsetzung der Szene (MultiLoad64). Die Abschnitte werden nachgeladen. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: John Meegan · Grafik: Stephen Thomson · Musik: Jonathan Dunn",
+    "en": "The game based on the Arnold Schwarzenegger film has Douglas Quaid discover who he really is, taking him from Earth to Mars. Side-scrolling platform stages, in which Quaid fights his way past agents and finds items, alternate with top-down driving stages where he escapes his pursuers by car. The story roughly follows the film's key scenes.\n\nOcean released Total Recall in 1991 on cassette and disk; an EasyFlash conversion from the scene (MultiLoad64) exists as well. The stages are loaded separately. It is played with a joystick in port 2.\n\nCode: John Meegan · Graphics: Stephen Thomson · Music: Jonathan Dunn"
+  },
+  "images": {
+    "ss": "images/36/36e9dcc0d3bcfcc8ed7709b5d364627669de59ae.png",
+    "sstitle": "images/fb/fbd4b1ffddeb5551b09e187ad87219eea291059c.png"
+  }
+}

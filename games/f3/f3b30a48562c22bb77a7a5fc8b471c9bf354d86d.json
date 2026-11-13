@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "f3b30a48562c22bb77a7a5fc8b471c9bf354d86d",
+  "md5": "7f4727d14d7d814f449f91c02d0fb823",
+  "crc32": "52d371dc",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "QUESTPR1.D64"
+  ],
+  "screenscraper_id": "116572",
+  "title": "Questprobe featuring The Hulk",
+  "year": "1984",
+  "publisher": "Adventure International",
+  "developer": "Scott Adams",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Questprobe featuring The Hulk ist das erste von drei Abenteuern, die Scott Adams mit Marvel-Figuren schrieb. Der Spieler wechselt zwischen Bruce Banner und dem Hulk, die jeweils andere Fähigkeiten haben, und muss für den geheimnisvollen Chief Examiner Edelsteine finden. Viele Rätsel lassen sich nur in einer der beiden Gestalten lösen, und die Verwandlung selbst ist Teil der Aufgaben. Zum Spiel erschien ein passendes Marvel-Comicheft.\n\nDie C64-Fassung zeigt zu jedem Ort ein Bild über dem Textfenster und erschien auf Diskette und Kassette, in Großbritannien bei Adventure International UK. Eingegeben wird über die Tastatur mit einem einfachen Parser.\n\nDesign und Code: Scott Adams",
+  "texts": {
+    "de": "Questprobe featuring The Hulk ist das erste von drei Abenteuern, die Scott Adams mit Marvel-Figuren schrieb. Der Spieler wechselt zwischen Bruce Banner und dem Hulk, die jeweils andere Fähigkeiten haben, und muss für den geheimnisvollen Chief Examiner Edelsteine finden. Viele Rätsel lassen sich nur in einer der beiden Gestalten lösen, und die Verwandlung selbst ist Teil der Aufgaben. Zum Spiel erschien ein passendes Marvel-Comicheft.\n\nDie C64-Fassung zeigt zu jedem Ort ein Bild über dem Textfenster und erschien auf Diskette und Kassette, in Großbritannien bei Adventure International UK. Eingegeben wird über die Tastatur mit einem einfachen Parser.\n\nDesign und Code: Scott Adams",
+    "en": "Questprobe featuring The Hulk is the first of three adventures Scott Adams wrote with Marvel characters. The player switches between Bruce Banner and the Hulk, who have different abilities, and has to find gems for the mysterious Chief Examiner. Many puzzles can only be solved in one of the two forms, and the transformation itself is part of the challenge. A matching Marvel comic book was published alongside the game.\n\nThe C64 version shows a picture of each location above the text window and was released on disk and tape, in the UK by Adventure International UK. Input is via the keyboard with a simple parser.\n\nDesign and code: Scott Adams"
+  },
+  "images": {
+    "sstitle": "images/41/41611387c8536367295188167d231d255af62913.png"
+  }
+}

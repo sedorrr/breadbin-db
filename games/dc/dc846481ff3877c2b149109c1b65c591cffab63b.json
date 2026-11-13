@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "dc846481ff3877c2b149109c1b65c591cffab63b",
+  "md5": "6ea22d7820be22dca5d255bd69428e1c",
+  "crc32": "b777e0c8",
+  "size": 864380,
+  "format": "TAP",
+  "files": [
+    "Stormlord (Hewson).tap"
+  ],
+  "screenscraper_id": "36179",
+  "title": "Stormlord",
+  "year": "1989",
+  "publisher": "Hewson",
+  "developer": "Raffaele Cecco (C64: Nick Jones)",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Eine böse Königin hat die Feen des Landes eingesperrt, und der Krieger Stormlord soll sie befreien. Er durchstreift ein Fantasy-Reich voller Gegner, trägt immer genau einen Gegenstand und tauscht ihn durch Berühren gegen einen anderen; mit dem richtigen Gegenstand öffnen sich neue Wege. Sind alle Feen eines Levels befreit, folgt eine Bonusrunde, in der zehn Tränen ein Extraleben bringen. Steigt der Mond in der Anzeige ganz auf, ist das Spiel vorbei. Detailreiche Grafik und die Gegenstandsrätsel machten Stormlord zu einem der bekanntesten Hewson-Titel.\n\nRaffaele Cecco entwarf Stormlord für den ZX Spectrum; die C64-Fassung programmierte Nick Jones, Hewson veröffentlichte sie 1989. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur; wie lange der Feuerknopf gedrückt wird, entscheidet zwischen Schuss und Schwerthieb. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Nick Jones · Grafik: Hugh Binns · Musik: Maniacs of Noise (Jeroen Tel u. a.)",
+  "texts": {
+    "de": "Eine böse Königin hat die Feen des Landes eingesperrt, und der Krieger Stormlord soll sie befreien. Er durchstreift ein Fantasy-Reich voller Gegner, trägt immer genau einen Gegenstand und tauscht ihn durch Berühren gegen einen anderen; mit dem richtigen Gegenstand öffnen sich neue Wege. Sind alle Feen eines Levels befreit, folgt eine Bonusrunde, in der zehn Tränen ein Extraleben bringen. Steigt der Mond in der Anzeige ganz auf, ist das Spiel vorbei. Detailreiche Grafik und die Gegenstandsrätsel machten Stormlord zu einem der bekanntesten Hewson-Titel.\n\nRaffaele Cecco entwarf Stormlord für den ZX Spectrum; die C64-Fassung programmierte Nick Jones, Hewson veröffentlichte sie 1989. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur; wie lange der Feuerknopf gedrückt wird, entscheidet zwischen Schuss und Schwerthieb. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Nick Jones · Grafik: Hugh Binns · Musik: Maniacs of Noise (Jeroen Tel u. a.)",
+    "en": "An evil queen has imprisoned the fairies of the land, and the warrior Stormlord sets out to free them. He roams a fantasy realm full of enemies, always carrying exactly one item and swapping it for another by touching it; the right item opens new paths. Once all fairies of a level are freed, a bonus round follows in which ten tears earn an extra life. If the moon in the status display rises completely, the game is over. Detailed graphics and the item puzzles made Stormlord one of Hewson's best-known titles.\n\nRaffaele Cecco designed Stormlord for the ZX Spectrum; Nick Jones programmed the C64 version, which Hewson released in 1989. It is played with a joystick in port 2 or the keyboard; how long the fire button is held decides between a shot and a sword swing. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Nick Jones · Graphics: Hugh Binns · Music: Maniacs of Noise (Jeroen Tel and others)"
+  },
+  "images": {
+    "ss": "images/15/1589dc285cc8a4805d29a11ee66bd68fe229d5ca.png",
+    "sstitle": "images/43/43fb6965b91792967f2c67771cc3af53993a4ce7.png"
+  }
+}

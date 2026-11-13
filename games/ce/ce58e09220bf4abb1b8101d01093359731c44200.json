@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "ce58e09220bf4abb1b8101d01093359731c44200",
+  "md5": "df8bbf9b665ba9496c91ecefa1026454",
+  "crc32": "c92020e0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Bureaucracy (1987)(Infocom)(Side A)[80 Columns Mode].d64"
+  ],
+  "screenscraper_id": "576573",
+  "title": "Bureaucracy",
+  "year": "1987",
+  "publisher": "Infocom",
+  "developer": "Infocom (Douglas Adams u. a.)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Nur für den Commodore 128 im 80-Zeichen-Modus – auf dem C64 läuft dieses Spiel nicht.\n\nBureaucracy ist eine Satire auf Behörden, Banken und Formulare, deren Idee und Text von Douglas Adams stammen. Der Spieler ist gerade umgezogen, doch seine Bank hat die neue Adresse nicht übernommen, und ein dringend benötigter Scheck kommt nicht an. Auf dem Weg zum Flughafen stolpert er von einer absurden Hürde zur nächsten. Eine Blutdruckanzeige steigt mit jedem Ärgernis; regt er sich zu sehr auf, endet das Spiel mit einem tödlichen Aneurysma. Der trockene Humor und die bewusst nervenaufreibenden Rätsel machen es zu einem der ungewöhnlichsten Infocom-Spiele.\n\nBureaucracy erschien 1987 als Textabenteuer mit Infocoms Interpreter für erweiterten Speicher; auf Commodore-Rechnern gibt es es nur für den C128, nicht für den C64. Die C128-Fassung läuft im 80-Zeichen-Modus und belegt zwei Diskettenseiten. Gespielt wird über die Tastatur.\n\nIdee und Text: Douglas Adams · Umsetzung: Infocom",
+  "texts": {
+    "de": "Nur für den Commodore 128 im 80-Zeichen-Modus – auf dem C64 läuft dieses Spiel nicht.\n\nBureaucracy ist eine Satire auf Behörden, Banken und Formulare, deren Idee und Text von Douglas Adams stammen. Der Spieler ist gerade umgezogen, doch seine Bank hat die neue Adresse nicht übernommen, und ein dringend benötigter Scheck kommt nicht an. Auf dem Weg zum Flughafen stolpert er von einer absurden Hürde zur nächsten. Eine Blutdruckanzeige steigt mit jedem Ärgernis; regt er sich zu sehr auf, endet das Spiel mit einem tödlichen Aneurysma. Der trockene Humor und die bewusst nervenaufreibenden Rätsel machen es zu einem der ungewöhnlichsten Infocom-Spiele.\n\nBureaucracy erschien 1987 als Textabenteuer mit Infocoms Interpreter für erweiterten Speicher; auf Commodore-Rechnern gibt es es nur für den C128, nicht für den C64. Die C128-Fassung läuft im 80-Zeichen-Modus und belegt zwei Diskettenseiten. Gespielt wird über die Tastatur.\n\nIdee und Text: Douglas Adams · Umsetzung: Infocom",
+    "en": "For the Commodore 128 in 80-column mode only – this game does not run on the C64.\n\nBureaucracy is a satire on red tape, banks and forms, conceived and written by Douglas Adams. The player has just moved house, but the bank has failed to record the new address, and an urgently needed cheque never arrives. On the way to the airport he stumbles from one absurd obstacle to the next. A blood pressure meter rises with every annoyance; if he gets too worked up, the game ends with a fatal aneurysm. The dry humour and deliberately exasperating puzzles make it one of Infocom's most unusual games.\n\nBureaucracy was released in 1987 as a text adventure using Infocom's interpreter for larger memory; on Commodore machines it exists only for the C128, not the C64. The C128 version runs in 80-column mode and takes up two disk sides. It is played with the keyboard.\n\nConcept and writing: Douglas Adams · Implementation: Infocom"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "cd69d0698e09d61c00cb2233085b40fe4d8e1560",
+  "md5": "ff65f3ca81cfb281b164142eea2344eb",
+  "crc32": "adf051ed",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MINDSHA1.D64"
+  ],
+  "screenscraper_id": "36461",
+  "title": "Mindshadow",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Interplay Productions",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Illustriertes Textadventure von Interplay: Der Spieler erwacht ohne Erinnerung an einem einsamen Strand und muss nach und nach herausfinden, wer er ist und wer ihn verraten hat. Die Suche führt über mehrere Schauplätze in verschiedenen Ländern. Befehle werden per Tastatur eingegeben, zu den meisten Orten gibt es ein Bild. Mindshadow war eines der ersten Spiele von Interplay und entstand im Auftrag von Activision.\n\nErschien bei Activision auf Diskette. Gesteuert wird über die Tastatur.\n\nCode: Rebecca Heineman",
+  "texts": {
+    "de": "Illustriertes Textadventure von Interplay: Der Spieler erwacht ohne Erinnerung an einem einsamen Strand und muss nach und nach herausfinden, wer er ist und wer ihn verraten hat. Die Suche führt über mehrere Schauplätze in verschiedenen Ländern. Befehle werden per Tastatur eingegeben, zu den meisten Orten gibt es ein Bild. Mindshadow war eines der ersten Spiele von Interplay und entstand im Auftrag von Activision.\n\nErschien bei Activision auf Diskette. Gesteuert wird über die Tastatur.\n\nCode: Rebecca Heineman",
+    "en": "An illustrated text adventure by Interplay: the player wakes up with no memory on a deserted beach and gradually has to find out who he is and who betrayed him. The search leads through several locations in different countries. Commands are typed on the keyboard, and most locations have a picture. Mindshadow was one of Interplay's first games and was made for Activision.\n\nReleased by Activision on disk. Controlled by keyboard.\n\nCode: Rebecca Heineman"
+  },
+  "images": {
+    "sstitle": "images/42/4252a2bec9a7c9feaae4cae5642f3dc9d3b628e1.png"
+  }
+}

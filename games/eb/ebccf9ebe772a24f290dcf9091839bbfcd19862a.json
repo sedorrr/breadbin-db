@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "ebccf9ebe772a24f290dcf9091839bbfcd19862a",
+  "md5": "6cf87620af5c844851e79e385aa51d5f",
+  "crc32": "19c7f3d8",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "Robocop 3.crt"
+  ],
+  "screenscraper_id": "36039",
+  "title": "Robocop 3",
+  "year": "1992",
+  "publisher": "Ocean",
+  "developer": "Probe Software",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Die Umsetzung des dritten RoboCop-Films verbindet zwei Spielarten. Am Anfang steht eine Schießbude, in der ein Fadenkreuz über die Straßen geführt wird; danach folgen seitlich scrollende Plattformabschnitte, in denen RoboCop läuft, springt und schießt. Zwischen den Abschnitten lassen sich mit gesammelten Reparaturpunkten beschädigte Körperteile des Cyborgs instand setzen.\n\nAuf dem C64 erschien RoboCop 3 1992 als Steckmodul, kurz vor dem Ende der kommerziellen C64-Zeit, und lief damit auch auf der Konsole C64GS. Daneben gibt es Diskettenfassungen aus der Szene. Gesteuert wird mit dem Joystick in Port 2. Die Musik von Jeroen Tel gilt als Höhepunkt der Fassung.\n\nCode: Neil Coxhead · Grafik: Hugh Riley · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Die Umsetzung des dritten RoboCop-Films verbindet zwei Spielarten. Am Anfang steht eine Schießbude, in der ein Fadenkreuz über die Straßen geführt wird; danach folgen seitlich scrollende Plattformabschnitte, in denen RoboCop läuft, springt und schießt. Zwischen den Abschnitten lassen sich mit gesammelten Reparaturpunkten beschädigte Körperteile des Cyborgs instand setzen.\n\nAuf dem C64 erschien RoboCop 3 1992 als Steckmodul, kurz vor dem Ende der kommerziellen C64-Zeit, und lief damit auch auf der Konsole C64GS. Daneben gibt es Diskettenfassungen aus der Szene. Gesteuert wird mit dem Joystick in Port 2. Die Musik von Jeroen Tel gilt als Höhepunkt der Fassung.\n\nCode: Neil Coxhead · Grafik: Hugh Riley · Musik: Jeroen Tel",
+    "en": "This adaptation of the third RoboCop film combines two styles of play. It opens with a shooting gallery in which a crosshair is moved across the streets, followed by side-scrolling platform sections in which RoboCop walks, jumps and shoots. Between stages, collected repair tokens can be used to fix damaged parts of the cyborg's body.\n\nOn the C64, RoboCop 3 was released in 1992 as a cartridge, shortly before the end of the machine's commercial life, which also made it compatible with the C64GS console. Disk versions from the scene exist as well. It is played with a joystick in port 2. Jeroen Tel's music is widely regarded as the highlight of this version.\n\nCode: Neil Coxhead · Graphics: Hugh Riley · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/74/74d4e7b1099c15481143e7addb12f883e31eb0fc.png",
+    "sstitle": "images/58/589d272da16beeb48112d7eb696e176374204e88.png"
+  }
+}

@@ -22,5 +22,8 @@
   "texts": {
     "de": "Umsetzung des Capcom-Automaten von 1989: Der Ninja Hiryu kämpft sich mit seinem Plasmaschwert durch Russland, Sibirien und weitere Schauplätze. Er klettert an Wänden und Decken, springt mit Salti über Gegner und sammelt Helfer und Verstärkungen ein. Die Heimcomputer-Fassungen verkauften sich gut, obwohl sie dem Automaten in Tempo und Umfang deutlich nachstehen.\n\nErschien auf Kassette und Diskette; dazu gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Gesteuert wird mit dem Joystick.\n\nCode: Paul Cole · Musik: Mark Tait",
     "en": "Conversion of the 1989 Capcom arcade machine: the ninja Hiryu fights his way with his plasma sword through Russia, Siberia and other locations. He climbs walls and ceilings, somersaults over enemies and collects helpers and power-ups. The home computer versions sold well, although they fall well short of the arcade machine in speed and scope.\n\nReleased on cassette and disk; there is also a MultiLoad64 EasyFlash conversion by $olo1870. Controlled with a joystick.\n\nCode: Paul Cole · Music: Mark Tait"
+  },
+  "images": {
+    "sstitle": "images/5b/5b79e1f5a267e31221b62efae1eb9437d434143b.png"
   }
 }

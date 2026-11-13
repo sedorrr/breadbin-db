@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d469e41cde36e998d0fc2e9ac6a02363d54f70e3",
+  "md5": "77aa4061b1d30fad56180785bb48de08",
+  "crc32": "615125ba",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Fire Ant.crt"
+  ],
+  "screenscraper_id": "36640",
+  "title": "Fire Ant",
+  "year": "1983",
+  "publisher": "Mogul Communications",
+  "developer": "Mike Wacker (Victory Software)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Eine Feuerameise soll ihre Königin befreien, die von Skorpionen in der achten Kammer eines unterirdischen Baus gefangen gehalten wird. Der Weg führt durch Gänge, in denen Skorpione patrouillieren, und durch Kammern, deren Durchgänge zugemauert sind. Gegenstände aus den Kammern, darunter Schlüssel, die nur in bestimmter Reihenfolge genommen werden können, öffnen den Weg. Das Spiel verbindet Geschicklichkeit mit kleinen Rätseln und gilt als frühe Mischung aus Arcade- und Abenteuerspiel.\n\nDie C64-Fassung erschien 1983 bei Mogul Communications auf Kassette und Diskette; später folgte eine Fassung für den Amstrad CPC. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik: Mike Wacker",
+  "texts": {
+    "de": "Eine Feuerameise soll ihre Königin befreien, die von Skorpionen in der achten Kammer eines unterirdischen Baus gefangen gehalten wird. Der Weg führt durch Gänge, in denen Skorpione patrouillieren, und durch Kammern, deren Durchgänge zugemauert sind. Gegenstände aus den Kammern, darunter Schlüssel, die nur in bestimmter Reihenfolge genommen werden können, öffnen den Weg. Das Spiel verbindet Geschicklichkeit mit kleinen Rätseln und gilt als frühe Mischung aus Arcade- und Abenteuerspiel.\n\nDie C64-Fassung erschien 1983 bei Mogul Communications auf Kassette und Diskette; später folgte eine Fassung für den Amstrad CPC. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik: Mike Wacker",
+    "en": "A fire ant has to rescue its queen, who is being held by scorpions in the eighth chamber of an underground nest. The way leads through tunnels patrolled by scorpions and through chambers whose passages have been sealed up. Items found in the chambers, including keys that can only be taken in a certain order, open the way. The game combines skill with small puzzles and is an early blend of arcade and adventure game.\n\nThe C64 version was released by Mogul Communications in 1983 on tape and disk; an Amstrad CPC version followed later. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode, graphics: Mike Wacker"
+  },
+  "images": {
+    "sstitle": "images/91/914747c938153b7586e9c2738184367fdecd7dbb.png"
+  }
+}

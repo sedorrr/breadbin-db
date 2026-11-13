@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "ea2409dec72cbdace35e89dcae32f412d8296e07",
+  "md5": "b07efebceb66b0ac41e784a6144ba0b5",
+  "crc32": "f7e460ea",
+  "size": 29905,
+  "format": "PRG",
+  "files": [
+    "Star Wars.prg"
+  ],
+  "screenscraper_id": "35852",
+  "title": "Star Wars",
+  "year": "1988",
+  "publisher": "Domark",
+  "developer": "Vektor Grafix",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Als Luke Skywalker greift der Spieler im X-Wing den Todesstern an. Jede Runde besteht aus drei Phasen: dem Kampf gegen TIE-Jäger im Weltraum, dem Flug über die Oberfläche mit ihren Geschütztürmen und dem Angriff im Graben, an dessen Ende der Schuss in den Abluftschacht sitzen muss. Die Darstellung in Vektorgrafik folgt dem Atari-Automaten von 1983, der als eine der gelungensten Umsetzungen des Films gilt. Mit jeder Runde steigt der Schwierigkeitsgrad.\n\nDomark veröffentlichte die Heimcomputer-Fassungen 1988, entwickelt von Vektor Grafix; in den USA erschien die C64-Fassung bei Brøderbund. Es gibt Kassetten- und Diskettenfassungen sowie Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Die Vektordarstellung des Automaten wurde auf dem C64 mit farbigen Linien neu umgesetzt.\n\nCode: Daniel James Gallagher, Ian Martin, Joe Booth · Grafik: John Cassells · Musik: David Whittaker",
+  "texts": {
+    "de": "Als Luke Skywalker greift der Spieler im X-Wing den Todesstern an. Jede Runde besteht aus drei Phasen: dem Kampf gegen TIE-Jäger im Weltraum, dem Flug über die Oberfläche mit ihren Geschütztürmen und dem Angriff im Graben, an dessen Ende der Schuss in den Abluftschacht sitzen muss. Die Darstellung in Vektorgrafik folgt dem Atari-Automaten von 1983, der als eine der gelungensten Umsetzungen des Films gilt. Mit jeder Runde steigt der Schwierigkeitsgrad.\n\nDomark veröffentlichte die Heimcomputer-Fassungen 1988, entwickelt von Vektor Grafix; in den USA erschien die C64-Fassung bei Brøderbund. Es gibt Kassetten- und Diskettenfassungen sowie Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Die Vektordarstellung des Automaten wurde auf dem C64 mit farbigen Linien neu umgesetzt.\n\nCode: Daniel James Gallagher, Ian Martin, Joe Booth · Grafik: John Cassells · Musik: David Whittaker",
+    "en": "As Luke Skywalker, the player attacks the Death Star in an X-wing. Each round consists of three phases: fighting TIE fighters in space, flying over the surface with its gun towers, and the trench run, at the end of which the shot into the exhaust port has to hit. The vector-style graphics follow Atari's 1983 arcade machine, considered one of the best adaptations of the film. The difficulty rises with every round.\n\nDomark published the home computer versions in 1988, developed by Vektor Grafix; in the USA the C64 version was released by Brøderbund. Cassette and disk versions exist, as well as cartridge conversions from the scene. It is played with a joystick in port 2. On the C64 the arcade game's vector look was recreated with coloured lines.\n\nCode: Daniel James Gallagher, Ian Martin, Joe Booth · Graphics: John Cassells · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/4c/4c1f82dd6cc5a0f2afc925dbd87b0af192a421c1.png",
+    "sstitle": "images/a6/a6ecfa8dfb96f8f7df29c234b73be2fafb9213eb.png"
+  }
+}

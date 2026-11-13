@@ -21,5 +21,8 @@
   "texts": {
     "de": "Ein horizontal scrollender Shoot'em Up von Manfred Trenz, dem Entwickler von Katakis und Turrican. Ein kleines Raumschiff kämpft sich durch Level mit großen Endgegnern und lässt sich mit eingesammelten Extras bis zu bildschirmfüllender Feuerkraft ausbauen. Die Grafik nutzt den C64 bis an seine Grenzen. Das Spiel erschien nicht im Handel, sondern auf der Diskette einer Zeitschrift des CP Verlags (Golden Disk 64).\n\nDiese Fassung liegt als T64-Datei aus einer Sammlung vor.\n\nCode: Manfred Trenz · Musik: Markus Siebold",
     "en": "A horizontally scrolling shoot 'em up by Manfred Trenz, the developer of Katakis and Turrican. A small spaceship fights its way through levels with large bosses and can be upgraded with collected power-ups to screen-filling firepower. The graphics push the C64 to its limits. The game was not sold in shops, but appeared on the disk of a magazine from CP Verlag (Golden Disk 64).\n\nThis version is a T64 file from a collection.\n\nCode: Manfred Trenz · Music: Markus Siebold"
+  },
+  "images": {
+    "sstitle": "images/a0/a06b62c8bb7abe6cc3e5dd8374e3f59395f5b2ef.png"
   }
 }

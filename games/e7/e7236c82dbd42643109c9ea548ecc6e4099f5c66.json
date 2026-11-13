@@ -22,5 +22,9 @@
   "texts": {
     "de": "Umsetzung des Atari-Automaten von 1980: Aus der Sicht eines Panzerkommandanten wird in einer Drahtgitter-Landschaft gegen feindliche Panzer, Raketen und Untertassen gekämpft. Ein Radar zeigt die Gegner, Hindernisse bieten Deckung. Battlezone war eines der ersten Spiele mit dreidimensionaler Ich-Perspektive.\n\nErschien als Modul von Atarisoft. Steuerung per Joystick in Port 2.\n\nEntwurf (Automat): Ed Rotberg",
     "en": "Conversion of Atari's 1980 arcade game: from the viewpoint of a tank commander, the player fights enemy tanks, missiles and saucers in a wireframe landscape. A radar shows the enemies, and obstacles provide cover. Battlezone was one of the first games with a three-dimensional first-person perspective.\n\nReleased as a cartridge by Atarisoft. Controlled with a joystick in port 2.\n\nDesign (arcade): Ed Rotberg"
+  },
+  "images": {
+    "ss": "images/ed/eddac68b48556c7913de27859b7c22b33bac1d93.png",
+    "sstitle": "images/cf/cf9b6abdc1bbbe9ae22244ac9049f534a84d94d9.png"
   }
 }

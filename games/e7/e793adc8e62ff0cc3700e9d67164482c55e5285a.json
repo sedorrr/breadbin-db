@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "e793adc8e62ff0cc3700e9d67164482c55e5285a",
+  "md5": "3f95edd464fb8ae0f945aa0adf566d0f",
+  "crc32": "152a0cc3",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Avenger - The Way of the Tiger.crt"
+  ],
+  "screenscraper_id": "36275",
+  "title": "Avenger",
+  "year": "1986",
+  "publisher": "Gremlin Graphics",
+  "developer": "Gremlin Graphics",
+  "genres": [
+    "Action / Abenteuer",
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Avenger, auch als „Way of the Tiger II“ bekannt, ist die Fortsetzung von The Way of the Tiger und beruht auf der gleichnamigen Spielbuchreihe. Der Ninja Avenger will den Tod seines Ziehvaters rächen und dringt in die Festung Quench Heart Keep ein, um den Bösewicht Yaemon zu stellen und die gestohlenen Schriftrollen zurückzuholen. Aus der Vogelperspektive durchstreift man ein großes Labyrinth aus Räumen, kämpft mit Fäusten, Wurfsternen und Schwert gegen Wachen und Ungeheuer und sammelt Schlüssel und Gegenstände. Anders als der Vorgänger ist es eher ein Action-Adventure als ein reines Kampfspiel.\n\nDas Spiel erschien bei Gremlin Graphics auf Kassette und Diskette. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung, jeweils unter dem Namen „Avenger – The Way of the Tiger“. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Jason H. Perkins, Mark Charles Rogers, Anthony Clarke · Grafik: Steve Kerry · Musik: Ben Daglish",
+  "texts": {
+    "de": "Avenger, auch als „Way of the Tiger II“ bekannt, ist die Fortsetzung von The Way of the Tiger und beruht auf der gleichnamigen Spielbuchreihe. Der Ninja Avenger will den Tod seines Ziehvaters rächen und dringt in die Festung Quench Heart Keep ein, um den Bösewicht Yaemon zu stellen und die gestohlenen Schriftrollen zurückzuholen. Aus der Vogelperspektive durchstreift man ein großes Labyrinth aus Räumen, kämpft mit Fäusten, Wurfsternen und Schwert gegen Wachen und Ungeheuer und sammelt Schlüssel und Gegenstände. Anders als der Vorgänger ist es eher ein Action-Adventure als ein reines Kampfspiel.\n\nDas Spiel erschien bei Gremlin Graphics auf Kassette und Diskette. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung, jeweils unter dem Namen „Avenger – The Way of the Tiger“. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Jason H. Perkins, Mark Charles Rogers, Anthony Clarke · Grafik: Steve Kerry · Musik: Ben Daglish",
+    "en": "Avenger, also known as \"Way of the Tiger II\", is the sequel to The Way of the Tiger and is based on the gamebook series of the same name. The ninja Avenger sets out to avenge the death of his foster father and enters the fortress of Quench Heart Keep to confront the villain Yaemon and recover the stolen scrolls. Seen from above, the player roams a large maze of rooms, fights guards and monsters with fists, throwing stars and sword, and collects keys and items. Unlike its predecessor it is more of an action adventure than a pure fighting game.\n\nThe game was released by Gremlin Graphics on cassette and disk. There are cartridge conversions from the OneLoad64 collection and a single-file PRG version, both named \"Avenger – The Way of the Tiger\". It is controlled with a joystick in port 2.\n\nCode: Jason H. Perkins, Mark Charles Rogers, Anthony Clarke · Graphics: Steve Kerry · Music: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/b8/b88cd1b7ab6ea1e9b2b31acf7be3e1e23cfaff98.png",
+    "sstitle": "images/ca/ca6a5deacde16bfc43cb38672dafeb0c9f3d1924.png"
+  }
+}

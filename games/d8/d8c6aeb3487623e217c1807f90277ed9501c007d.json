@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d8c6aeb3487623e217c1807f90277ed9501c007d",
+  "md5": "9e3687424605dc8e46aa01b181110dae",
+  "crc32": "57995129",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PHANT3A.D64"
+  ],
+  "screenscraper_id": "116126",
+  "title": "Phantasie III: The Wrath of Nikademus",
+  "year": "1987",
+  "publisher": "SSI",
+  "developer": "Winston Douglas Wood",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Im abschließenden Teil der Phantasie-Reihe will der Zauberer Nikademus die ganze Welt unterwerfen, und eine Heldengruppe soll ihn aufhalten. Neu ist ein Verletzungssystem, bei dem Kopf, Rumpf und einzelne Gliedmaßen getroffen, gebrochen oder sogar verloren werden können. Die Figuren lassen sich in vordere, mittlere und hintere Reihe stellen, was die rundenweisen Kämpfe taktischer macht. Zauber, Waffen und Ausrüstung sind gegenüber den Vorgängern erweitert. Am Ende entscheidet der Spieler, ob er Nikademus bekämpft oder sich ihm anschließt, und erlebt danach eines von zwei Enden.\n\nErschien 1987 bei SSI für den C64 und zahlreiche weitere Systeme auf Diskette; es gibt mehrere Programmversionen. Gesteuert wird mit Tastatur oder Joystick.\n\nEntwurf: Winston Douglas Wood",
+  "texts": {
+    "de": "Im abschließenden Teil der Phantasie-Reihe will der Zauberer Nikademus die ganze Welt unterwerfen, und eine Heldengruppe soll ihn aufhalten. Neu ist ein Verletzungssystem, bei dem Kopf, Rumpf und einzelne Gliedmaßen getroffen, gebrochen oder sogar verloren werden können. Die Figuren lassen sich in vordere, mittlere und hintere Reihe stellen, was die rundenweisen Kämpfe taktischer macht. Zauber, Waffen und Ausrüstung sind gegenüber den Vorgängern erweitert. Am Ende entscheidet der Spieler, ob er Nikademus bekämpft oder sich ihm anschließt, und erlebt danach eines von zwei Enden.\n\nErschien 1987 bei SSI für den C64 und zahlreiche weitere Systeme auf Diskette; es gibt mehrere Programmversionen. Gesteuert wird mit Tastatur oder Joystick.\n\nEntwurf: Winston Douglas Wood",
+    "en": "In the final part of the Phantasie series, the sorcerer Nikademus sets out to conquer the whole world, and a party of heroes must stop him. New is a wound system in which head, torso and individual limbs can be injured, broken or even lost. Characters can be placed in the front, middle or rear rank, making the turn-based battles more tactical. Spells, weapons and equipment are expanded compared with the earlier games. In the end the player decides whether to fight Nikademus or join him, leading to one of two endings.\n\nReleased by SSI in 1987 for the C64 and numerous other systems on disk; several program versions exist. It is controlled with keyboard or joystick.\n\nDesign: Winston Douglas Wood"
+  },
+  "images": {
+    "sstitle": "images/3a/3a23e34f642adb8cd1624eccc7f0d175b4089853.png"
+  }
+}

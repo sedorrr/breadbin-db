@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "cb4819843319a071a189792cc13ec8bd4b14adb7",
+  "md5": "5d5a8eb23d241eb40a967ce8520f18b4",
+  "crc32": "5ec226b5",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Robin of the Wood.crt"
+  ],
+  "screenscraper_id": "114774",
+  "title": "Robin of the Wood",
+  "year": "1985",
+  "publisher": "Odin Computer Graphics",
+  "developer": "Odin Computer Graphics",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Robin Hood soll den silbernen Pfeil zurückgewinnen, den der Sheriff von Nottingham seinem Vater geraubt hat. Dazu sammelt er im Sherwood Forest Goldsäcke und tauscht sie beim Waldgeist, einem sprechenden Baum, nacheinander gegen Schwert, Bogen und drei magische Pfeile ein. Soldaten des Sheriffs und allerlei Waldbewohner versperren den Weg durch den in viele Bildschirme aufgeteilten Wald. Mit den magischen Pfeilen geht es schließlich zum Bogenturnier in der Burg. Das Spiel fiel durch seine farbenfrohe Grafik auf und war einer der erfolgreichsten Titel von Odin.\n\nErschienen auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 1, die Tastatur lässt sich frei belegen. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung (C64): Marc Dawson · Musik: Fred Gray",
+  "texts": {
+    "de": "Robin Hood soll den silbernen Pfeil zurückgewinnen, den der Sheriff von Nottingham seinem Vater geraubt hat. Dazu sammelt er im Sherwood Forest Goldsäcke und tauscht sie beim Waldgeist, einem sprechenden Baum, nacheinander gegen Schwert, Bogen und drei magische Pfeile ein. Soldaten des Sheriffs und allerlei Waldbewohner versperren den Weg durch den in viele Bildschirme aufgeteilten Wald. Mit den magischen Pfeilen geht es schließlich zum Bogenturnier in der Burg. Das Spiel fiel durch seine farbenfrohe Grafik auf und war einer der erfolgreichsten Titel von Odin.\n\nErschienen auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 1, die Tastatur lässt sich frei belegen. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung (C64): Marc Dawson · Musik: Fred Gray",
+    "en": "Robin Hood has to win back the silver arrow that the Sheriff of Nottingham stole from his father. To do so he collects bags of gold in Sherwood Forest and trades them with the forest spirit, a talking tree, for a sword, a bow and finally three magic arrows. The sheriff's soldiers and all kinds of forest creatures block the way through a forest divided into many screens. With the magic arrows, the final destination is the archery contest at the castle. The game stood out for its colourful graphics and was one of Odin's most successful titles.\n\nReleased on tape and disk. It is controlled with a joystick in port 1, and the keyboard can be freely redefined. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nDevelopment (C64): Marc Dawson · Music: Fred Gray"
+  },
+  "images": {
+    "ss": "images/47/471c239914313beb5e89c53199a917b583906fa6.png",
+    "sstitle": "images/e9/e9db1b624d9f22cc7b3755da3b1b5cf943a7039f.png"
+  }
+}

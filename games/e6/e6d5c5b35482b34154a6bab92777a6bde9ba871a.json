@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e6d5c5b35482b34154a6bab92777a6bde9ba871a",
+  "md5": "f38aca1307080ec66bcfe668d20f0fbe",
+  "crc32": "186032bb",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Pyjamarama! (J1).crt"
+  ],
+  "screenscraper_id": "36698",
+  "title": "Pyjamarama",
+  "year": "1984",
+  "publisher": "Mikro-Gen",
+  "developer": "Mikro-Gen",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Zweites Spiel mit Wally Week nach Automania: Wally steckt in einem Albtraum fest und muss in seinem verwinkelten Haus die richtigen Gegenstände finden und einsetzen, um seinen Wecker in Gang zu bringen und rechtzeitig aufzuwachen. Er kann immer nur zwei Dinge gleichzeitig tragen, und viele Rätsel erschließen sich erst durch Ausprobieren. Durch die Räume streifen seltsame Wesen, die bei Berührung Energie kosten. Mit seinem Humor und den Rätseln gehört das Spiel zu den bekannten Arcade-Adventures der Zeit.\n\nErschien bei Mikro-Gen auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 1. Die Spectrum-Urfassung stammt von Chris Hinsley.",
+  "texts": {
+    "de": "Zweites Spiel mit Wally Week nach Automania: Wally steckt in einem Albtraum fest und muss in seinem verwinkelten Haus die richtigen Gegenstände finden und einsetzen, um seinen Wecker in Gang zu bringen und rechtzeitig aufzuwachen. Er kann immer nur zwei Dinge gleichzeitig tragen, und viele Rätsel erschließen sich erst durch Ausprobieren. Durch die Räume streifen seltsame Wesen, die bei Berührung Energie kosten. Mit seinem Humor und den Rätseln gehört das Spiel zu den bekannten Arcade-Adventures der Zeit.\n\nErschien bei Mikro-Gen auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 1. Die Spectrum-Urfassung stammt von Chris Hinsley.",
+    "en": "The second Wally Week game after Automania: Wally is stuck in a nightmare and must find and use the right objects in his rambling house to get his alarm clock going and wake up in time. He can only carry two things at once, and many puzzles only reveal themselves through trial and error. Strange creatures wander the rooms and drain energy on contact. With its humour and puzzles, it is one of the well-known arcade adventures of its time.\n\nReleased by Mikro-Gen on cassette; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 1. The original Spectrum version was written by Chris Hinsley."
+  },
+  "images": {
+    "ss": "images/b9/b9a6329a60f6b90593d857493b46307c9931e022.png",
+    "sstitle": "images/b7/b7650af6feae25b5844476d5bd30761a37ac6e0c.png"
+  }
+}

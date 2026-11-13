@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "f9b7841564b8814ccafa7b01e5cbd3f0a69eab81",
+  "md5": "4d7679288078e4ca2c4c1e07879b9ca2",
+  "crc32": "fd8668f1",
+  "size": 369424,
+  "format": "CRT",
+  "files": [
+    "Lotus Esprit Turbo Challenge (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36315",
+  "title": "Lotus Esprit Turbo Challenge",
+  "year": "1990",
+  "publisher": "Gremlin Graphics",
+  "developer": "Magnetic Fields",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-2",
+  "synopsis": "Rennspiel mit dem Lotus Esprit Turbo SE: Gefahren wird auf Rundkursen gegen 20 Computergegner, und wer unter die ersten zehn kommt, darf zum nächsten Rennen antreten. Der Tank muss im Blick behalten werden, Boxenstopps kosten Zeit. Die Rennen sind in drei Meisterschaften unterschiedlicher Schwierigkeit gegliedert, und gestartet wird jeweils in umgekehrter Reihenfolge des letzten Einlaufs. Besonders beliebt war das gleichzeitige Rennen zu zweit im geteilten Bildschirm.\n\nDie C64-Fassung erschien auf Kassette und Diskette. Gesteuert wird per Joystick, zu zweit mit zwei Joysticks. Daneben gibt es Umsetzungen als EasyFlash-Modul, darunter eine MultiLoad64-Umsetzung von $olo1870.\n\nEntwicklung: Magnetic Fields (Original: Shaun Southern, Andrew Morris) · Code (C64): Ashley Bennett",
+  "texts": {
+    "de": "Rennspiel mit dem Lotus Esprit Turbo SE: Gefahren wird auf Rundkursen gegen 20 Computergegner, und wer unter die ersten zehn kommt, darf zum nächsten Rennen antreten. Der Tank muss im Blick behalten werden, Boxenstopps kosten Zeit. Die Rennen sind in drei Meisterschaften unterschiedlicher Schwierigkeit gegliedert, und gestartet wird jeweils in umgekehrter Reihenfolge des letzten Einlaufs. Besonders beliebt war das gleichzeitige Rennen zu zweit im geteilten Bildschirm.\n\nDie C64-Fassung erschien auf Kassette und Diskette. Gesteuert wird per Joystick, zu zweit mit zwei Joysticks. Daneben gibt es Umsetzungen als EasyFlash-Modul, darunter eine MultiLoad64-Umsetzung von $olo1870.\n\nEntwicklung: Magnetic Fields (Original: Shaun Southern, Andrew Morris) · Code (C64): Ashley Bennett",
+    "en": "A racing game featuring the Lotus Esprit Turbo SE: races are held on circuits against 20 computer opponents, and anyone finishing in the top ten qualifies for the next race. Fuel has to be watched, and pit stops cost time. Races are grouped into three championships of differing difficulty, and each race starts in the reverse order of the previous finish. Particularly popular was the simultaneous two-player split-screen race.\n\nThe C64 version was released on tape and disk. It is controlled with a joystick, two joysticks for two players. There are also conversions as EasyFlash cartridges, including a MultiLoad64 conversion by $olo1870.\n\nDevelopment: Magnetic Fields (original: Shaun Southern, Andrew Morris) · Code (C64): Ashley Bennett"
+  },
+  "images": {
+    "sstitle": "images/c5/c54898e38826807cdaac0ca1b864697fb0faae28.png"
+  }
+}

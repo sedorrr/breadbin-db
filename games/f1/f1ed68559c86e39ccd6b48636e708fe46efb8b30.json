@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "f1ed68559c86e39ccd6b48636e708fe46efb8b30",
+  "md5": "5f9e77b43a7280eb02a7a2cea363eb97",
+  "crc32": "36f0a3a5",
+  "size": 149080,
+  "format": "T64",
+  "files": [
+    "TRAP1.T64"
+  ],
+  "screenscraper_id": "116729",
+  "title": "Trap",
+  "year": "1986",
+  "publisher": "Alligata Software",
+  "developer": "Antony Crowther",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Trap ist ein vertikal scrollendes Shoot'em Up von Tony Crowther, angesiedelt in ferner Zukunft. Zuerst muss das Schiff des Spielers einem Minenfeld ausweichen, dann geht es über ein Tal mit Flüssen, in dem eine vorgegebene Zahl von Gegnern, Booten und Laserschranken zerstört werden muss. In einem weiteren Abschnitt kämpft sich die Spielfigur zu Fuß durchs Gelände und sammelt Kugeln, mit denen sich ein stärkeres Schiff kaufen lässt. Besonders gelobt wurde die stimmungsvolle Musik von Ben Daglish.\n\nAlligata veröffentlichte Trap 1986 auf Kassette und Diskette; es ist auch unter dem Namen „Ratt+Trap“ bekannt. Später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Antony Crowther · Grafik: Antony Crowther · Musik: Ben Daglish",
+  "texts": {
+    "de": "Trap ist ein vertikal scrollendes Shoot'em Up von Tony Crowther, angesiedelt in ferner Zukunft. Zuerst muss das Schiff des Spielers einem Minenfeld ausweichen, dann geht es über ein Tal mit Flüssen, in dem eine vorgegebene Zahl von Gegnern, Booten und Laserschranken zerstört werden muss. In einem weiteren Abschnitt kämpft sich die Spielfigur zu Fuß durchs Gelände und sammelt Kugeln, mit denen sich ein stärkeres Schiff kaufen lässt. Besonders gelobt wurde die stimmungsvolle Musik von Ben Daglish.\n\nAlligata veröffentlichte Trap 1986 auf Kassette und Diskette; es ist auch unter dem Namen „Ratt+Trap“ bekannt. Später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Antony Crowther · Grafik: Antony Crowther · Musik: Ben Daglish",
+    "en": "Trap is a vertically scrolling shoot 'em up by Tony Crowther, set in the far future. First the player's ship has to get through a minefield, then it flies over a valley with rivers, where a set number of enemies, boats and laser barriers must be destroyed. In a further section the character fights on foot through the terrain and collects orbs that can be spent on a more powerful ship. Ben Daglish's atmospheric music drew particular praise.\n\nAlligata released Trap in 1986 on cassette and disk; it is also known as \"Ratt+Trap\". Cartridge conversions from the scene appeared later. It is played with a joystick in port 2.\n\nCode: Antony Crowther · Graphics: Antony Crowther · Music: Ben Daglish"
+  },
+  "images": {
+    "sstitle": "images/48/4878f59baa88905c68dfd2fc96e47353fd33e19b.png"
+  }
+}

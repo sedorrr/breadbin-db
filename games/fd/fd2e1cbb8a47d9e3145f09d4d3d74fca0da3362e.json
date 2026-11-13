@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "fd2e1cbb8a47d9e3145f09d4d3d74fca0da3362e",
+  "md5": "865c12b911fb2493f67724b94c287a6e",
+  "crc32": "d3062572",
+  "size": 336592,
+  "format": "CRT",
+  "files": [
+    "Summer Olympiad.crt"
+  ],
+  "screenscraper_id": "115520",
+  "title": "Summer Olympiad",
+  "year": "1988",
+  "publisher": "Tynesoft",
+  "developer": "Tynesoft",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-6",
+  "synopsis": "Summer Olympiad ist ein Mehrkampf-Sportspiel im Stil der damals beliebten Olympia-Spiele. Zu den Disziplinen gehören Fechten, Tontaubenschießen, Dreisprung, Kunstspringen und Hürdenlauf. Bis zu sechs Spieler treten abwechselnd gegeneinander an und sammeln Medaillen. Das Spiel erschien passend zu den Olympischen Sommerspielen 1988.\n\nTynesoft veröffentlichte die C64-Fassung auf Kassette und Diskette; in den USA erschien sie unter dem Titel „Summer Challenge“ auf zwei Disketten. Später entstanden EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2, die Disziplinen werden nachgeladen.\n\nCode: Ian Davison, Michael Hedley · Grafik: Michael J. Landreth · Musik: Wally Beben",
+  "texts": {
+    "de": "Summer Olympiad ist ein Mehrkampf-Sportspiel im Stil der damals beliebten Olympia-Spiele. Zu den Disziplinen gehören Fechten, Tontaubenschießen, Dreisprung, Kunstspringen und Hürdenlauf. Bis zu sechs Spieler treten abwechselnd gegeneinander an und sammeln Medaillen. Das Spiel erschien passend zu den Olympischen Sommerspielen 1988.\n\nTynesoft veröffentlichte die C64-Fassung auf Kassette und Diskette; in den USA erschien sie unter dem Titel „Summer Challenge“ auf zwei Disketten. Später entstanden EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2, die Disziplinen werden nachgeladen.\n\nCode: Ian Davison, Michael Hedley · Grafik: Michael J. Landreth · Musik: Wally Beben",
+    "en": "Summer Olympiad is a multi-event sports game in the style of the Olympic games popular at the time. The events include fencing, clay pigeon shooting, triple jump, diving and hurdles. Up to six players take turns competing for medals. The game was released to coincide with the 1988 Summer Olympics.\n\nTynesoft released the C64 version on cassette and disk; in the USA it appeared as \"Summer Challenge\" on two disks. EasyFlash conversions from the scene followed later. It is played with a joystick in port 2, and the events are loaded separately.\n\nCode: Ian Davison, Michael Hedley · Graphics: Michael J. Landreth · Music: Wally Beben"
+  },
+  "images": {
+    "sstitle": "images/48/488f7ec37660be7253042327a2da968dbece5585.png"
+  }
+}

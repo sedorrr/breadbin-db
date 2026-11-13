@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d138bbdab180bea2e1b95dbe474e1d27b3c57179",
+  "md5": "5054dbed142e8fa7e88cd5c9d840b53f",
+  "crc32": "66b78bf3",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Crossroads.crt"
+  ],
+  "screenscraper_id": "419580",
+  "title": "Crossroads",
+  "year": "1987",
+  "publisher": "COMPUTE! Publications",
+  "developer": "Steve Harter",
+  "genres": [
+    "Action / Labyrinth",
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "In einem Labyrinth aus Gängen und Kreuzungen treffen der Spieler und eine Vielzahl unterschiedlicher Monster aufeinander. Die Besonderheit: Die Kreaturen greifen nicht nur den Spieler an, sondern bekämpfen sich auch gegenseitig, sodass sich die Lage ständig ändert. Zwei Spieler können gleichzeitig antreten. Für ein Abtippspiel aus einer Zeitschrift bot Crossroads ungewöhnlich viel Tempo und Abwechslung.\n\nCrossroads wurde im Dezember 1987 in COMPUTE!'s Gazette (Ausgabe 54) als Listing in Maschinensprache veröffentlicht, das mit dem Prüfprogramm MLX eingetippt wurde. 1988 folgte Crossroads II: Pandemonium. Gesteuert wird mit dem Joystick. Daneben gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Steve Harter",
+  "texts": {
+    "de": "In einem Labyrinth aus Gängen und Kreuzungen treffen der Spieler und eine Vielzahl unterschiedlicher Monster aufeinander. Die Besonderheit: Die Kreaturen greifen nicht nur den Spieler an, sondern bekämpfen sich auch gegenseitig, sodass sich die Lage ständig ändert. Zwei Spieler können gleichzeitig antreten. Für ein Abtippspiel aus einer Zeitschrift bot Crossroads ungewöhnlich viel Tempo und Abwechslung.\n\nCrossroads wurde im Dezember 1987 in COMPUTE!'s Gazette (Ausgabe 54) als Listing in Maschinensprache veröffentlicht, das mit dem Prüfprogramm MLX eingetippt wurde. 1988 folgte Crossroads II: Pandemonium. Gesteuert wird mit dem Joystick. Daneben gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Steve Harter",
+    "en": "In a maze of corridors and crossings, the player meets a wide range of different monsters. The twist: the creatures do not only attack the player but also fight each other, so the situation keeps changing. Two players can play at the same time. For a magazine type-in, Crossroads offered unusual pace and variety.\n\nCrossroads was published in December 1987 in COMPUTE!'s Gazette (issue 54) as a machine-code listing that readers typed in with the MLX entry program. Crossroads II: Pandemonium followed in 1988. It is played with a joystick. There is also a OneLoad64 cartridge conversion.\n\nCode: Steve Harter"
+  },
+  "images": {
+    "ss": "images/1a/1adf59a9675292bed6f98648ac535153ecfca7cc.png"
+  }
+}

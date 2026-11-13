@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "f668586d4a3b132d960fd201c9e1dd5429ba5b2d",
+  "md5": "e0df710e2416738b3212a5c9608f6129",
+  "crc32": "cbcc45bc",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LORDSOC1.D64"
+  ],
+  "screenscraper_id": "114303",
+  "title": "Lords of Chaos",
+  "year": "1990",
+  "publisher": "Blade Software",
+  "developer": "Mythos Games",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1-4",
+  "synopsis": "Rundenbasiertes Strategiespiel von Julian Gollop und Nachfolger seines Spectrum-Klassikers Chaos. Bis zu vier Zauberer erkunden eine Szenariokarte, sammeln Schätze und magische Gegenstände, beschwören Kreaturen und bekämpfen einander mit Zaubersprüchen. Jeder Zug kostet Aktionspunkte, die klug auf Bewegung, Angriffe und Magie verteilt werden müssen; Erfahrung lässt die Zauberer zwischen den Szenarien stärker werden. Es baut auf Chaos und dem 1988 erschienenen Laser Squad auf und gilt als Bindeglied zu Gollops späterem X-COM.\n\nErschien bei Blade Software auf Diskette und Kassette, später zusammen mit dem Expansion Kit One mit weiteren Szenarien. Die C64-Fassung programmierte Nick Gollop. Gesteuert wird per Joystick in Port 2.\n\nCode: Nick Gollop · Grafik: Nick Gollop",
+  "texts": {
+    "de": "Rundenbasiertes Strategiespiel von Julian Gollop und Nachfolger seines Spectrum-Klassikers Chaos. Bis zu vier Zauberer erkunden eine Szenariokarte, sammeln Schätze und magische Gegenstände, beschwören Kreaturen und bekämpfen einander mit Zaubersprüchen. Jeder Zug kostet Aktionspunkte, die klug auf Bewegung, Angriffe und Magie verteilt werden müssen; Erfahrung lässt die Zauberer zwischen den Szenarien stärker werden. Es baut auf Chaos und dem 1988 erschienenen Laser Squad auf und gilt als Bindeglied zu Gollops späterem X-COM.\n\nErschien bei Blade Software auf Diskette und Kassette, später zusammen mit dem Expansion Kit One mit weiteren Szenarien. Die C64-Fassung programmierte Nick Gollop. Gesteuert wird per Joystick in Port 2.\n\nCode: Nick Gollop · Grafik: Nick Gollop",
+    "en": "A turn-based strategy game by Julian Gollop and the successor to his Spectrum classic Chaos. Up to four wizards explore a scenario map, collect treasure and magical items, summon creatures and fight each other with spells. Every turn costs action points that have to be spent wisely on movement, attacks and magic; experience makes the wizards stronger between scenarios. It builds on Chaos and on Laser Squad (1988) and is seen as a stepping stone towards Gollop's later X-COM.\n\nReleased by Blade Software on disk and cassette, later together with Expansion Kit One, which adds more scenarios. The C64 version was programmed by Nick Gollop. Controlled by joystick in port 2.\n\nCode: Nick Gollop · Graphics: Nick Gollop"
+  }
+}

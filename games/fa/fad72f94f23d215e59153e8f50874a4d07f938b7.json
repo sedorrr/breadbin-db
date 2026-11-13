@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "fad72f94f23d215e59153e8f50874a4d07f938b7",
+  "md5": "f3c481297086e8359adec14786818e61",
+  "crc32": "f0f9bc8e",
+  "size": 164224,
+  "format": "CRT",
+  "files": [
+    "Neverending Story (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36255",
+  "title": "The Neverending Story",
+  "year": "1985",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Grafik-Textadventure nach dem Film „Die unendliche Geschichte“: Als junger Krieger Atréju zieht der Spieler durch das Reich Phantásien, um die Ursache des alles verschlingenden Nichts zu finden und die Kindliche Kaiserin zu retten. Befehle werden per Tastatur eingegeben, zu den Orten gibt es Bilder. Das Abenteuer ist in mehrere nacheinander geladene Teile gegliedert, die den Stationen der Filmhandlung folgen.\n\nErschien bei Ocean auf Kassette und Diskette, in den USA bei Datasoft. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870. Gesteuert wird über die Tastatur.\n\nCode: Ian Weatherburn · Grafik: Steve Cain · Musik: Martin Galway",
+  "texts": {
+    "de": "Grafik-Textadventure nach dem Film „Die unendliche Geschichte“: Als junger Krieger Atréju zieht der Spieler durch das Reich Phantásien, um die Ursache des alles verschlingenden Nichts zu finden und die Kindliche Kaiserin zu retten. Befehle werden per Tastatur eingegeben, zu den Orten gibt es Bilder. Das Abenteuer ist in mehrere nacheinander geladene Teile gegliedert, die den Stationen der Filmhandlung folgen.\n\nErschien bei Ocean auf Kassette und Diskette, in den USA bei Datasoft. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870. Gesteuert wird über die Tastatur.\n\nCode: Ian Weatherburn · Grafik: Steve Cain · Musik: Martin Galway",
+    "en": "A graphic text adventure based on the film \"The NeverEnding Story\": as the young warrior Atreyu, the player travels through the land of Fantasia to find the cause of the all-consuming Nothing and save the Childlike Empress. Commands are typed on the keyboard, and the locations are illustrated. The adventure is divided into several parts loaded one after another, following the stages of the film's plot.\n\nReleased by Ocean on cassette and disk, and in the US by Datasoft. EasyFlash conversions also exist, including a MultiLoad64 version by $olo1870. Controlled by keyboard.\n\nCode: Ian Weatherburn · Graphics: Steve Cain · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/ab/ab4ec4c47bda4b65d2c2a5331aeb647ffa938271.png",
+    "sstitle": "images/91/9134a007e5e0763d3f33e27aca824acefb4b1491.png"
+  }
+}

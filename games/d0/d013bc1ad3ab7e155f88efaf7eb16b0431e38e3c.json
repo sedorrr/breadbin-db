@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d013bc1ad3ab7e155f88efaf7eb16b0431e38e3c",
+  "md5": "94aed711a08994d6c687fd265e34353a",
+  "crc32": "01859eae",
+  "size": 573492,
+  "format": "TAP",
+  "files": [
+    "Express Raider.tap"
+  ],
+  "screenscraper_id": "36614",
+  "title": "Express Raider",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "developer": "Data East",
+  "genres": [
+    "Action",
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Im Wilden Westen überfällt der Spieler als Bandit einen Zug. Abwechselnd geht es im Faustkampf über die Dächer der Waggons, wo Wachleute angreifen, und zu Pferd neben dem fahrenden Zug her, während auf Gegner in den Fenstern geschossen wird. Ziel ist es, sich bis nach vorn durchzuschlagen und die Beute zu sichern. Das Western-Thema hebt das Spiel von anderen Automaten-Prüglern seiner Zeit ab.\n\nData East brachte den Automaten 1986 heraus. Die C64-Umsetzung erschien 1987 in den USA bei Data East und in Europa bei U.S. Gold; als einzige Heimcomputerfassung scrollt sie, statt von Bild zu Bild umzuschalten. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nOriginal: Data East (Automat, 1986)",
+  "texts": {
+    "de": "Im Wilden Westen überfällt der Spieler als Bandit einen Zug. Abwechselnd geht es im Faustkampf über die Dächer der Waggons, wo Wachleute angreifen, und zu Pferd neben dem fahrenden Zug her, während auf Gegner in den Fenstern geschossen wird. Ziel ist es, sich bis nach vorn durchzuschlagen und die Beute zu sichern. Das Western-Thema hebt das Spiel von anderen Automaten-Prüglern seiner Zeit ab.\n\nData East brachte den Automaten 1986 heraus. Die C64-Umsetzung erschien 1987 in den USA bei Data East und in Europa bei U.S. Gold; als einzige Heimcomputerfassung scrollt sie, statt von Bild zu Bild umzuschalten. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nOriginal: Data East (Automat, 1986)",
+    "en": "In the Wild West the player, as a bandit, holds up a train. The action alternates between fistfights on the carriage roofs, where guards attack, and riding on horseback alongside the moving train while shooting at enemies in the windows. The goal is to fight through to the front and secure the loot. The Western theme sets it apart from other arcade brawlers of the time.\n\nData East released the arcade game in 1986. The C64 conversion was published in 1987 by Data East in the US and U.S. Gold in Europe; it is the only home computer version that scrolls instead of flipping screens. It is played with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nOriginal: Data East (arcade, 1986)"
+  },
+  "images": {
+    "ss": "images/98/98deaf2ecb4cf18ec7bd6df5a7c879bf2ee4f122.png",
+    "sstitle": "images/76/769f328777e5a7f92f71df73d14521262ffbaf36.png"
+  }
+}

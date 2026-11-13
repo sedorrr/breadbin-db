@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "fe1bd8cea1a823cbc1040a0e0626814f5b4924a2",
+  "md5": "ba1418969e156550b20458d82186633d",
+  "crc32": "80f90c05",
+  "size": 367554,
+  "format": "TAP",
+  "files": [
+    "Trailblazer (Mr Chip Software).tap"
+  ],
+  "screenscraper_id": "36436",
+  "title": "Trailblazer",
+  "year": "1986",
+  "publisher": "Gremlin Graphics",
+  "developer": "Shaun Southern",
+  "genres": [
+    "Geschicklichkeit",
+    "Rennen"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Ball rollt über eine Bahn aus farbigen Feldern, die in hohem Tempo auf den Spieler zuläuft. Die Farben haben unterschiedliche Wirkungen: Manche Felder beschleunigen oder bremsen den Ball, andere lassen ihn springen oder kehren die Steuerung um, und Löcher müssen übersprungen werden. Ziel ist es, jede Strecke innerhalb der Zeitvorgabe zu schaffen. Zu zweit fahren beide Spieler gleichzeitig im geteilten Bild. Das schnelle Pseudo-3D und das sofort verständliche Prinzip machten Trailblazer zu einem der bekanntesten Spiele von Gremlin Graphics.\n\nGremlin Graphics veröffentlichte Trailblazer 1986 für mehrere Heimcomputer; die C64-Fassung schrieb Shaun Southern selbst, in den USA erschien sie bei Mindscape. Gesteuert wird mit dem Joystick in Port 1 oder 2 oder über die Tastatur, im Zwei-Spieler-Modus mit zwei Joysticks. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode und Musik: Shaun Southern",
+  "texts": {
+    "de": "Ein Ball rollt über eine Bahn aus farbigen Feldern, die in hohem Tempo auf den Spieler zuläuft. Die Farben haben unterschiedliche Wirkungen: Manche Felder beschleunigen oder bremsen den Ball, andere lassen ihn springen oder kehren die Steuerung um, und Löcher müssen übersprungen werden. Ziel ist es, jede Strecke innerhalb der Zeitvorgabe zu schaffen. Zu zweit fahren beide Spieler gleichzeitig im geteilten Bild. Das schnelle Pseudo-3D und das sofort verständliche Prinzip machten Trailblazer zu einem der bekanntesten Spiele von Gremlin Graphics.\n\nGremlin Graphics veröffentlichte Trailblazer 1986 für mehrere Heimcomputer; die C64-Fassung schrieb Shaun Southern selbst, in den USA erschien sie bei Mindscape. Gesteuert wird mit dem Joystick in Port 1 oder 2 oder über die Tastatur, im Zwei-Spieler-Modus mit zwei Joysticks. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode und Musik: Shaun Southern",
+    "en": "A ball rolls along a track of coloured squares that rushes towards the player at high speed. The colours have different effects: some squares speed the ball up or slow it down, others make it jump or reverse the controls, and holes have to be jumped over. The aim is to finish each track within the time limit. Two players race simultaneously on a split screen. The fast pseudo-3D and the instantly understandable concept made Trailblazer one of Gremlin Graphics' best-known games.\n\nGremlin Graphics released Trailblazer in 1986 for several home computers; Shaun Southern wrote the C64 version himself, and Mindscape published it in the US. It is played with a joystick in port 1 or 2 or with the keyboard, with two joysticks in two-player mode. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode and music: Shaun Southern"
+  },
+  "images": {
+    "ss": "images/8e/8e209f94285b6d248e3aa7617141ec2a85ff145d.png",
+    "sstitle": "images/3b/3be88356c30ce05f1c2099ec0e2451c163fef116.png"
+  }
+}

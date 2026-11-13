@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "fa21a6c129a8b69acfe775d71b2550a0e1a2472f",
+  "md5": "1db4c02ceb2650f6c4dc4d152b58295c",
+  "crc32": "b9b815c0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ALIENSY0.D64"
+  ],
+  "screenscraper_id": "35977",
+  "title": "Alien Syndrome",
+  "year": "1988",
+  "publisher": "ACE",
+  "developer": "Tim Rogers",
+  "genres": [
+    "Action / Labyrinth",
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "Alien Syndrome ist die Umsetzung des Sega-Automaten von 1987. Die Soldaten Ricky und Mary dringen in von Außerirdischen besetzte Raumschiffe ein, um gefangene Besatzungsmitglieder zu befreien. Aus der Vogelperspektive kämpft man sich durch verwinkelte Gänge, sammelt bessere Waffen ein und muss alle Gefangenen finden, bevor eine Zeitbombe abläuft. Am Ende jedes Schiffs wartet ein großes Wächtermonster. Der Reiz liegt im gemeinsamen Spiel zu zweit und im Wettlauf gegen die Zeit.\n\nDie C64-Fassung erschien 1988 bei ACE in Europa und bei Mindscape in den USA, auf Diskette (zwei Seiten) und Kassette. Es gibt mehrere EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die auch die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können gleichzeitig spielen.\n\nCode: Tim Rogers · Grafik: Darrin Stubbington · Musik: Jeroen Kimmel",
+  "texts": {
+    "de": "Alien Syndrome ist die Umsetzung des Sega-Automaten von 1987. Die Soldaten Ricky und Mary dringen in von Außerirdischen besetzte Raumschiffe ein, um gefangene Besatzungsmitglieder zu befreien. Aus der Vogelperspektive kämpft man sich durch verwinkelte Gänge, sammelt bessere Waffen ein und muss alle Gefangenen finden, bevor eine Zeitbombe abläuft. Am Ende jedes Schiffs wartet ein großes Wächtermonster. Der Reiz liegt im gemeinsamen Spiel zu zweit und im Wettlauf gegen die Zeit.\n\nDie C64-Fassung erschien 1988 bei ACE in Europa und bei Mindscape in den USA, auf Diskette (zwei Seiten) und Kassette. Es gibt mehrere EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die auch die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können gleichzeitig spielen.\n\nCode: Tim Rogers · Grafik: Darrin Stubbington · Musik: Jeroen Kimmel",
+    "en": "Alien Syndrome is the conversion of Sega's 1987 arcade game. The soldiers Ricky and Mary board spaceships overrun by aliens to rescue captured crew members. Seen from above, they fight through winding corridors, pick up better weapons and must find all the hostages before a time bomb goes off. At the end of each ship a huge guardian monster awaits. The appeal lies in playing together as a pair and in the race against time.\n\nThe C64 version was released in 1988 by ACE in Europe and Mindscape in the US, on disk (two sides) and cassette. There are several EasyFlash conversions, including one by $olo1870 (MultiLoad64) that also loads the additional parts from the cartridge. It is controlled with a joystick in port 2; two players can play simultaneously.\n\nCode: Tim Rogers · Graphics: Darrin Stubbington · Music: Jeroen Kimmel"
+  },
+  "images": {
+    "sstitle": "images/2a/2aa4b600758ba15f4cd0cf836c28019a6e1fc03a.png"
+  }
+}

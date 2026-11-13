@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d531349b96fb1952c6713fbded5c89639adb01c7",
+  "md5": "2880cd539fe97ee9ae8fd5e8c54e8e14",
+  "crc32": "a6433315",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SPELLOFD.D64"
+  ],
+  "screenscraper_id": "122135",
+  "title": "Wizardry",
+  "year": "1985",
+  "publisher": "The Edge",
+  "developer": "Steven T. Chapman",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Dieses Wizardry ist nicht das bekannte Rollenspiel von Sir-Tech, sondern ein eigenständiges Grafikabenteuer von The Edge. Der Spieler steuert einen Zauberer durch eine räumlich wirkende Welt aus Gängen, Hallen und Gewölben, sammelt Gegenstände und Zaubersprüche und muss knifflige Rätsel lösen, um den bösen Gegenspieler zu bezwingen. Kämpfe gegen Kreaturen und das Wirken von Zaubern bringen Actionelemente ins Spiel, das lose an Dungeons & Dragons angelehnt ist. Die Fachpresse lobte Grafik und Musik, fand die Rätsel aber recht verschlüsselt.\n\nErschien 1985 in Europa bei The Edge auf Kassette und Diskette; in Nordamerika brachte Mindscape das Spiel 1986 unter dem Titel Spell of Destruction heraus. Gespielt wird mit Joystick in Port 2. Neben Originalen und Cracks gibt es eine OneLoad64-Modulumsetzung ohne Nachladen.\n\nCode und Grafik: Steven T. Chapman · Musik: Clever Music (Graham Jarvis, Rob Hartshorne)",
+  "texts": {
+    "de": "Dieses Wizardry ist nicht das bekannte Rollenspiel von Sir-Tech, sondern ein eigenständiges Grafikabenteuer von The Edge. Der Spieler steuert einen Zauberer durch eine räumlich wirkende Welt aus Gängen, Hallen und Gewölben, sammelt Gegenstände und Zaubersprüche und muss knifflige Rätsel lösen, um den bösen Gegenspieler zu bezwingen. Kämpfe gegen Kreaturen und das Wirken von Zaubern bringen Actionelemente ins Spiel, das lose an Dungeons & Dragons angelehnt ist. Die Fachpresse lobte Grafik und Musik, fand die Rätsel aber recht verschlüsselt.\n\nErschien 1985 in Europa bei The Edge auf Kassette und Diskette; in Nordamerika brachte Mindscape das Spiel 1986 unter dem Titel Spell of Destruction heraus. Gespielt wird mit Joystick in Port 2. Neben Originalen und Cracks gibt es eine OneLoad64-Modulumsetzung ohne Nachladen.\n\nCode und Grafik: Steven T. Chapman · Musik: Clever Music (Graham Jarvis, Rob Hartshorne)",
+    "en": "This Wizardry is not Sir-Tech's well-known role-playing game but a separate graphic adventure from The Edge. The player guides a wizard through a world of corridors, halls and vaults drawn with a sense of depth, collects items and spells and has to solve tricky puzzles to defeat the evil adversary. Fights with creatures and spellcasting add action elements to a game loosely inspired by Dungeons & Dragons. The press praised the graphics and music but found the puzzles rather obscure.\n\nReleased in Europe by The Edge in 1985 on tape and disk; in North America Mindscape published it in 1986 under the title Spell of Destruction. It is played with a joystick in port 2. Besides originals and cracks, there is a OneLoad64 cartridge conversion without loading breaks.\n\nCode and graphics: Steven T. Chapman · Music: Clever Music (Graham Jarvis, Rob Hartshorne)"
+  },
+  "images": {
+    "sstitle": "images/52/52ccd75000c855f52ce2e43c8738e4e80f9c0ddc.png"
+  }
+}

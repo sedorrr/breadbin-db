@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "eb8aa50494f5b34674e25630c7d80aaeef388d3e",
+  "md5": "f901035f49a5e9107f27d393009de09a",
+  "crc32": "a7725850",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Harrier Attack.crt"
+  ],
+  "screenscraper_id": "36648",
+  "title": "Harrier Attack",
+  "year": "1984",
+  "publisher": "Durell Software",
+  "developer": "Durell Software (C64: John Parkinson)",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Ein Sea Harrier startet von einem Flugzeugträger und fliegt nach rechts über eine seitlich scrollende Meeres- und Küstenlandschaft. Unterwegs greift er Schiffe und Bodenziele mit Bomben an, schießt feindliche Jäger ab und weicht Flugabwehrraketen aus; danach muss er sicher auf den Träger zurückkehren. Treibstoff und Bomben sind begrenzt. Das Spiel ist fiktiv, aber vom Falklandkrieg 1982 angeregt.\n\nHarrier Attack erschien 1983 für ZX Spectrum und Oric-1; die C64-Fassung von John Parkinson brachte Durell 1984 auf Kassette heraus. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik (C64): John Parkinson",
+  "texts": {
+    "de": "Ein Sea Harrier startet von einem Flugzeugträger und fliegt nach rechts über eine seitlich scrollende Meeres- und Küstenlandschaft. Unterwegs greift er Schiffe und Bodenziele mit Bomben an, schießt feindliche Jäger ab und weicht Flugabwehrraketen aus; danach muss er sicher auf den Träger zurückkehren. Treibstoff und Bomben sind begrenzt. Das Spiel ist fiktiv, aber vom Falklandkrieg 1982 angeregt.\n\nHarrier Attack erschien 1983 für ZX Spectrum und Oric-1; die C64-Fassung von John Parkinson brachte Durell 1984 auf Kassette heraus. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik (C64): John Parkinson",
+    "en": "A Sea Harrier takes off from an aircraft carrier and flies to the right over a side-scrolling sea and coastal landscape. Along the way it bombs ships and ground targets, shoots down enemy fighters and dodges anti-aircraft missiles; afterwards it has to land safely back on the carrier. Fuel and bombs are limited. The game is fictional but inspired by the 1982 Falklands War.\n\nHarrier Attack came out in 1983 for the ZX Spectrum and Oric-1; Durell released John Parkinson's C64 version on tape in 1984. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode, graphics (C64): John Parkinson"
+  },
+  "images": {
+    "ss": "images/95/959c5c04b72cdc858befd6757cf69a781c08515f.png"
+  }
+}

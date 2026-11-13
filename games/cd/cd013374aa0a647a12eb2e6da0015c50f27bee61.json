@@ -22,5 +22,8 @@
   "texts": {
     "de": "Ein Android läuft und springt durch zwölf seitlich scrollende Welten und schießt mit wechselbaren Waffen auf die Gegner. In jedem Level müssen Puzzleteile eingesammelt werden, bevor der Ausgang erreichbar ist. Mehrere Ebenen Parallaxe-Scrolling und große Hintergründe zeigten, was der C64 grafisch leisten konnte. Die Musik von Jeroen Tel trug zum Ruf des Spiels bei.\n\nDiese Datei enthält das Spiel als Diskettenabbild (D64); es gibt mehrere Fassungen (Original, Umsetzungen, Cracks).\n\nCode/Grafik: Mario van Zeist, Paul Cooper · Musik: Jeroen Tel",
     "en": "An android runs and jumps through twelve side-scrolling worlds, shooting at enemies with interchangeable weapons. In each level, puzzle pieces have to be collected before the exit can be reached. Several layers of parallax scrolling and large backgrounds showed what the C64 was capable of graphically. Jeroen Tel's music contributed to the game's reputation.\n\nThis file contains the game as a disk image (D64); there are several versions (original, conversions, cracks).\n\nCode/graphics: Mario van Zeist, Paul Cooper · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/dc/dc23b3f3559e76269b5ea90089f94ade433f37e3.png"
   }
 }

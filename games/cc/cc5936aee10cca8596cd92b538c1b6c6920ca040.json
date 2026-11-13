@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "cc5936aee10cca8596cd92b538c1b6c6920ca040",
+  "md5": "0c56c263ba21e4f4433dc0968991c6f7",
+  "crc32": "9c09c6a2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MEANSTRK.D64"
+  ],
+  "screenscraper_id": "115097",
+  "title": "Mean Streak",
+  "year": "1987",
+  "publisher": "Mirrorsoft",
+  "developer": "Dalali Software",
+  "genres": [
+    "Fahren",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "In Mean Streak fährt man ein bewaffnetes Turbo-Motorrad über die verlassene Ringautobahn M25, die im 23. Jahrhundert als Kampfstrecke dient. Die Strecke scrollt schräg über den Bildschirm. Gegnerische Fahrer versuchen, das eigene Motorrad abzudrängen; man wehrt sich mit Kanonen, Raketen und einer Ölspur, muss aber auch Ölflecken, Eisflächen und Trümmern ausweichen, und eine Berührung der Seitenmauern kostet ein Leben. Der Kurs ist in fünf Abschnitte geteilt, die nacheinander bewältigt werden müssen. Gelobt wurden vor allem die ungewöhnliche Streckenführung und das Rennen zu zweit, die Abwechslung dagegen weniger.\n\nDas Spiel erschien 1987 auf Kassette und Diskette und wurde später auf einer Heft-Kassette von Commodore Format neu aufgelegt. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können gleichzeitig fahren.\n\nMusik: Matt Gray",
+  "texts": {
+    "de": "In Mean Streak fährt man ein bewaffnetes Turbo-Motorrad über die verlassene Ringautobahn M25, die im 23. Jahrhundert als Kampfstrecke dient. Die Strecke scrollt schräg über den Bildschirm. Gegnerische Fahrer versuchen, das eigene Motorrad abzudrängen; man wehrt sich mit Kanonen, Raketen und einer Ölspur, muss aber auch Ölflecken, Eisflächen und Trümmern ausweichen, und eine Berührung der Seitenmauern kostet ein Leben. Der Kurs ist in fünf Abschnitte geteilt, die nacheinander bewältigt werden müssen. Gelobt wurden vor allem die ungewöhnliche Streckenführung und das Rennen zu zweit, die Abwechslung dagegen weniger.\n\nDas Spiel erschien 1987 auf Kassette und Diskette und wurde später auf einer Heft-Kassette von Commodore Format neu aufgelegt. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können gleichzeitig fahren.\n\nMusik: Matt Gray",
+    "en": "In Mean Streak the player rides an armed turbo motorbike along the abandoned M25 orbital motorway, which serves as a battle track in the 23rd century. The track scrolls diagonally across the screen. Rival riders try to knock the bike off course; the player fights back with guns, rockets and an oil spray, but also has to avoid oil slicks, ice patches and debris, and touching the side walls costs a life. The course is divided into five sections that have to be completed in turn. Reviewers praised the unusual track layout and the two-player race, but less so the variety.\n\nThe game was released in 1987 on cassette and disk and later reissued on a Commodore Format cover tape. There are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick in port 2; two players can ride at the same time.\n\nMusic: Matt Gray"
+  },
+  "images": {
+    "ss": "images/e4/e453ed1017298f77f29eac930612fbdec3fffb98.png",
+    "sstitle": "images/c9/c9b1d6bde5024df3216de1de5884058dff7bb76f.png"
+  }
+}

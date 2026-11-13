@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "cb46ea6a89694110007126fdcf2bc4db3b76fe2d",
+  "md5": "7d7e0102e4d228c1c598822964cbb1ef",
+  "crc32": "98cfc786",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Dino Eggs.crt"
+  ],
+  "screenscraper_id": "111606",
+  "title": "Dino Eggs",
+  "year": "1983",
+  "publisher": "Micro Fun",
+  "developer": "David H. Schroeder (Entwurf); C64: Leonard Bertoni",
+  "genres": [
+    "Plattform",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Der Zeitreisende Tim reist in die Urzeit, um Dinosauriereier einzusammeln und frisch geschlüpfte Jungtiere in die Zukunft zu retten. Auf Leitern, Ranken und Felsvorsprüngen bewegt er sich durch die Höhlenlandschaft, während Schlangen, Spinnen und Tausendfüßler ihn bedrohen. Die Dinosauriermutter versucht, ihn zu zertreten; ein aus Holzscheiten entzündetes Feuer hält sie fern. Herabgestoßene Felsbrocken erledigen Kleintiere, schwächen aber auch das Feuer. Über neun Stufen werden die Gefahren größer und das Holz knapper.\n\nDas Spiel erschien zuerst für den Apple II; die C64-Umsetzung von Leonard Bertoni kam 1983 bei Micro Fun auf Diskette. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nEntwurf: David H. Schroeder · Code, Grafik, Musik (C64): Leonard Bertoni",
+  "texts": {
+    "de": "Der Zeitreisende Tim reist in die Urzeit, um Dinosauriereier einzusammeln und frisch geschlüpfte Jungtiere in die Zukunft zu retten. Auf Leitern, Ranken und Felsvorsprüngen bewegt er sich durch die Höhlenlandschaft, während Schlangen, Spinnen und Tausendfüßler ihn bedrohen. Die Dinosauriermutter versucht, ihn zu zertreten; ein aus Holzscheiten entzündetes Feuer hält sie fern. Herabgestoßene Felsbrocken erledigen Kleintiere, schwächen aber auch das Feuer. Über neun Stufen werden die Gefahren größer und das Holz knapper.\n\nDas Spiel erschien zuerst für den Apple II; die C64-Umsetzung von Leonard Bertoni kam 1983 bei Micro Fun auf Diskette. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nEntwurf: David H. Schroeder · Code, Grafik, Musik (C64): Leonard Bertoni",
+    "en": "Time traveller Tim journeys into prehistory to collect dinosaur eggs and rescue newly hatched young by sending them to the future. He moves through the cave landscape on ladders, vines and ledges while snakes, spiders and centipedes threaten him. The mother dinosaur tries to stomp on him; a fire lit from stacked logs keeps her away. Boulders pushed down kill the small creatures but also dampen the fire. Over nine levels the dangers grow and the firewood gets scarcer.\n\nThe game first appeared on the Apple II; Leonard Bertoni's C64 conversion was released by Micro Fun on disk in 1983. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nDesign: David H. Schroeder · Code, graphics, music (C64): Leonard Bertoni"
+  },
+  "images": {
+    "ss": "images/4c/4c9681e0588e017987dcb02a1f0c97deab1ba284.png",
+    "sstitle": "images/cb/cbc173a919193910b3361ddc76a67184e055badf.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "f0af426903fe6a3f60ed5b26424b9b73461bdc77",
+  "md5": "82f8cb418c99c712277ab97d9b973091",
+  "crc32": "2aa20e96",
+  "size": 164224,
+  "format": "CRT",
+  "files": [
+    "Ninja Carnage.crt"
+  ],
+  "screenscraper_id": "502487",
+  "title": "Ninja Carnage",
+  "year": "2021",
+  "publisher": "Resistance",
+  "developer": "Oriens (Resistance)",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Ninja Carnage ist ein neues C64-Abenteuer, in dem ein Ninja einen Yakuza-Boss zur Strecke bringen will. Das Spiel mischt Textabenteuer und Zeigen-und-Klicken: In jedem Bild wählt der Spieler eine Handlung aus, und falsche Entscheidungen führen oft zu einem schnellen, meist komischen Tod. Wer durch Ausprobieren den richtigen Weg findet, kommt Szene für Szene weiter. Grafik und Musik wurden in der Szene gelobt, ebenso der schwarze Humor.\n\nDas Spiel erschien 2021 als Download von der Gruppe Resistance in sieben Sprachen. Gesteuert wird mit dem Joystick. Eine EasyFlash-Umsetzung erspart das Nachladen.\n\nCode: Oriens · Grafik: Fra, Grass · Musik: Dya",
+  "texts": {
+    "de": "Ninja Carnage ist ein neues C64-Abenteuer, in dem ein Ninja einen Yakuza-Boss zur Strecke bringen will. Das Spiel mischt Textabenteuer und Zeigen-und-Klicken: In jedem Bild wählt der Spieler eine Handlung aus, und falsche Entscheidungen führen oft zu einem schnellen, meist komischen Tod. Wer durch Ausprobieren den richtigen Weg findet, kommt Szene für Szene weiter. Grafik und Musik wurden in der Szene gelobt, ebenso der schwarze Humor.\n\nDas Spiel erschien 2021 als Download von der Gruppe Resistance in sieben Sprachen. Gesteuert wird mit dem Joystick. Eine EasyFlash-Umsetzung erspart das Nachladen.\n\nCode: Oriens · Grafik: Fra, Grass · Musik: Dya",
+    "en": "Ninja Carnage is a new C64 adventure in which a ninja sets out to take down a yakuza boss. The game mixes text adventure and point-and-click: in each scene the player picks an action, and wrong choices often lead to a quick, usually comic death. By trial and error the player finds the right path and progresses scene by scene. Graphics and music were praised in the scene, as was the dark humour.\n\nThe game was released in 2021 as a download by the group Resistance in seven languages. It is controlled with a joystick. An EasyFlash conversion avoids reloading.\n\nCode: Oriens · Graphics: Fra, Grass · Music: Dya"
+  },
+  "images": {
+    "sstitle": "images/a9/a96d21ab9c6edf679b06fbda9b16cdd5dc03f0e1.png"
+  }
+}

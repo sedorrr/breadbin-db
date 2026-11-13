@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ee0d6ae1f83ff8c8aaf8104349a34073cbb04a73",
+  "md5": "23a4cbf13629efd4e63e73b39e28003d",
+  "crc32": "bcf995eb",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Navy Moves (Part 2).crt"
+  ],
+  "screenscraper_id": "36594",
+  "title": "Navy Moves",
+  "year": "1988",
+  "publisher": "Dinamic",
+  "developer": "Dinamic",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Nachfolger von Army Moves aus Spanien: Ein Elitesoldat soll ein feindliches Atom-U-Boot unschädlich machen. Im ersten Teil springt er mit einem Schnellboot über Minen, taucht durch Gewässer voller Taucher und Meerestiere und kämpft sich an das U-Boot heran. Im zweiten Teil dringt er in das U-Boot ein, bekämpft die Besatzung und muss an Terminals die nötigen Befehle geben, um seinen Auftrag zu erfüllen. Das Spiel ist für seinen sehr hohen Schwierigkeitsgrad bekannt.\n\nErschien bei Dinamic in zwei getrennt geladenen Teilen; der zweite Teil verlangt einen Zugangscode, den man am Ende des ersten erhält. Heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt, je Teil ein Modul. Gesteuert wird per Joystick. Die C64-Fassung hat eigene Musik von Jeroen Tel (Maniacs of Noise).\n\nCode: Luis Mariano García Corral · Grafik: Jorge Azpiri, Roberto Herrera · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Nachfolger von Army Moves aus Spanien: Ein Elitesoldat soll ein feindliches Atom-U-Boot unschädlich machen. Im ersten Teil springt er mit einem Schnellboot über Minen, taucht durch Gewässer voller Taucher und Meerestiere und kämpft sich an das U-Boot heran. Im zweiten Teil dringt er in das U-Boot ein, bekämpft die Besatzung und muss an Terminals die nötigen Befehle geben, um seinen Auftrag zu erfüllen. Das Spiel ist für seinen sehr hohen Schwierigkeitsgrad bekannt.\n\nErschien bei Dinamic in zwei getrennt geladenen Teilen; der zweite Teil verlangt einen Zugangscode, den man am Ende des ersten erhält. Heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt, je Teil ein Modul. Gesteuert wird per Joystick. Die C64-Fassung hat eigene Musik von Jeroen Tel (Maniacs of Noise).\n\nCode: Luis Mariano García Corral · Grafik: Jorge Azpiri, Roberto Herrera · Musik: Jeroen Tel",
+    "en": "The Spanish sequel to Army Moves: an elite soldier has to put an enemy nuclear submarine out of action. In the first part he jumps a speedboat over mines, dives through waters full of frogmen and sea creatures and fights his way to the submarine. In the second part he gets inside the submarine, fights the crew and has to enter the right commands at terminals to complete his mission. The game is known for its very high difficulty.\n\nReleased by Dinamic in two separately loaded parts; the second part requires an access code given at the end of the first. Today there are also cartridge conversions from the OneLoad64 project, one cartridge per part. Controlled by joystick. The C64 version has its own music by Jeroen Tel (Maniacs of Noise).\n\nCode: Luis Mariano García Corral · Graphics: Jorge Azpiri, Roberto Herrera · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/5d/5d46d949d6d3cdff56eedfd78e0bf21ba2f1505d.png",
+    "sstitle": "images/96/962e31bc069ba949de99f1afaab7942ba6cc253b.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "eff6ed6fbe27729a58dfe955494499fe3e9403cc",
+  "md5": "bc7d6da8459d906d336849f4a3df62ab",
+  "crc32": "38238eaa",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Gunfright v1.10 (Rod & Emu - 2017).crt"
+  ],
+  "screenscraper_id": "502130",
+  "title": "Gunfright",
+  "year": "2017",
+  "publisher": "Rod & Emu Productions",
+  "developer": "Rod & Emu Productions (nach Ultimate Play the Game)",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "Als Sheriff Quickdraw sorgt man in der Westernstadt Black Rock für Ordnung und jagt gesuchte Banditen, die sich zwischen den Bürgern verstecken. Die Stadt wird in isometrischer Sicht gezeigt; Munition muss mit dem Kopfgeld gekauft werden, und unschuldige Passanten darf man nicht treffen. Zwischen den Runden gibt es ein Schießduell aus der Ich-Sicht, bei dem herumfliegende Geldbeutel abgeschossen werden. Das Spiel stammt aus der späten Phase von Ultimate Play the Game und nutzt deren Filmation-Grafik.\n\nDas Original erschien Ende 1985 für den ZX Spectrum und 1986 für Amstrad CPC und MSX; eine C64-Fassung gab es damals nicht. Diese inoffizielle Umsetzung veröffentlichten Rod & Emu 2017 frei, aufbauend auf Mariusz Wojcieszeks Übertragung des Z80-Codes auf den Atari 800; sie läuft auch auf C128 und Plus/4. Die Fassung 1.10 erschien kurz nach der ersten. Gesteuert wird per Joystick in Port 2. Neben dem Disk-Image gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Emu · Grafik: Emu, Steven Day · Musik: Saul Cross",
+  "texts": {
+    "de": "Als Sheriff Quickdraw sorgt man in der Westernstadt Black Rock für Ordnung und jagt gesuchte Banditen, die sich zwischen den Bürgern verstecken. Die Stadt wird in isometrischer Sicht gezeigt; Munition muss mit dem Kopfgeld gekauft werden, und unschuldige Passanten darf man nicht treffen. Zwischen den Runden gibt es ein Schießduell aus der Ich-Sicht, bei dem herumfliegende Geldbeutel abgeschossen werden. Das Spiel stammt aus der späten Phase von Ultimate Play the Game und nutzt deren Filmation-Grafik.\n\nDas Original erschien Ende 1985 für den ZX Spectrum und 1986 für Amstrad CPC und MSX; eine C64-Fassung gab es damals nicht. Diese inoffizielle Umsetzung veröffentlichten Rod & Emu 2017 frei, aufbauend auf Mariusz Wojcieszeks Übertragung des Z80-Codes auf den Atari 800; sie läuft auch auf C128 und Plus/4. Die Fassung 1.10 erschien kurz nach der ersten. Gesteuert wird per Joystick in Port 2. Neben dem Disk-Image gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Emu · Grafik: Emu, Steven Day · Musik: Saul Cross",
+    "en": "As Sheriff Quickdraw, the player keeps order in the western town of Black Rock, hunting wanted outlaws who hide among the townsfolk. The town is shown in isometric view; ammunition has to be bought with bounty money, and innocent passers-by must not be hit. Between rounds there is a first-person shooting gallery in which flying money bags are shot down. The game comes from the late period of Ultimate Play the Game and uses their Filmation graphics.\n\nThe original appeared in late 1985 for the ZX Spectrum and in 1986 for the Amstrad CPC and MSX; there was no C64 version at the time. This unofficial conversion was released for free by Rod & Emu in 2017, based on Mariusz Wojcieszek's translation of the Z80 code to the Atari 800; it also runs on the C128 and Plus/4. Version 1.10 followed shortly after the first release. It is controlled with a joystick in port 2. Besides the disk image there is a OneLoad64 cartridge conversion.\n\nCode: Emu · Graphics: Emu, Steven Day · Music: Saul Cross"
+  },
+  "images": {
+    "sstitle": "images/d6/d6889b223ed76f7c40820606483754ac53723ff8.png"
+  }
+}

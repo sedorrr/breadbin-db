@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "fe79991303da0027f8916a0f71e176e38bfa0065",
+  "md5": "4995ab14cb787794f4d25429577375a5",
+  "crc32": "f4105737",
+  "size": 238096,
+  "format": "CRT",
+  "files": [
+    "Bangkok Knights (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "109859",
+  "title": "Bangkok Knights",
+  "year": "1987",
+  "publisher": "System 3",
+  "developer": "System 3",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Bangkok Knights ist ein Kampfspiel im Thaiboxen (Muay Thai). Zwei auffallend große, comicartig gezeichnete Kämpfer treten gegeneinander an, wobei sie sich anders als in vielen Kampfspielen der Zeit frei in die Tiefe des Bildes bewegen können. Allein kämpft man sich durch eine Reihe von acht Gegnern an Schauplätzen wie Klippe, Dorf, Dschungel und den Straßen Bangkoks bis zum Finale im Lumpini-Stadion. Zwischen den Runden halten Rundenmädchen die Nummer hoch. Gelobt wurden vor allem Grafik und Musik, das Kampfsystem fanden manche Tester auf Dauer eintönig.\n\nDas Spiel erschien 1987 bei System 3 auf Diskette und Kassette; die Schauplätze werden einzeln nachgeladen. Es gibt eine EasyFlash-Umsetzung von $olo1870 (MultiLoad64), die die Nachladeteile vom Modul holt. Allein wird mit dem Joystick in Port 2 gespielt, zu zweit mit beiden Ports; im Titelbild lässt sich zwischen genauer und vereinfachter Steuerung wählen.\n\nCode: Nick Pelling · Grafik: Hugh Riley, Paul Docherty · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Bangkok Knights ist ein Kampfspiel im Thaiboxen (Muay Thai). Zwei auffallend große, comicartig gezeichnete Kämpfer treten gegeneinander an, wobei sie sich anders als in vielen Kampfspielen der Zeit frei in die Tiefe des Bildes bewegen können. Allein kämpft man sich durch eine Reihe von acht Gegnern an Schauplätzen wie Klippe, Dorf, Dschungel und den Straßen Bangkoks bis zum Finale im Lumpini-Stadion. Zwischen den Runden halten Rundenmädchen die Nummer hoch. Gelobt wurden vor allem Grafik und Musik, das Kampfsystem fanden manche Tester auf Dauer eintönig.\n\nDas Spiel erschien 1987 bei System 3 auf Diskette und Kassette; die Schauplätze werden einzeln nachgeladen. Es gibt eine EasyFlash-Umsetzung von $olo1870 (MultiLoad64), die die Nachladeteile vom Modul holt. Allein wird mit dem Joystick in Port 2 gespielt, zu zweit mit beiden Ports; im Titelbild lässt sich zwischen genauer und vereinfachter Steuerung wählen.\n\nCode: Nick Pelling · Grafik: Hugh Riley, Paul Docherty · Musik: Rob Hubbard",
+    "en": "Bangkok Knights is a Thai boxing (Muay Thai) fighting game. Two strikingly large, cartoon-style fighters face each other and, unlike in many fighting games of the time, can move freely into the depth of the screen. In single-player mode the player fights through a series of eight opponents at locations such as a cliff, a village, the jungle and the streets of Bangkok, up to the final at the Lumpini Stadium. Between rounds, ring girls hold up the round number. Graphics and music drew particular praise, while some reviewers found the fighting monotonous in the long run.\n\nThe game was released in 1987 by System 3 on disk and cassette; the locations are loaded separately. There is an EasyFlash conversion by $olo1870 (MultiLoad64) that loads the additional parts from the cartridge. Alone, the game is played with a joystick in port 2, two players use both ports; the title screen offers a choice between precise and simplified controls.\n\nCode: Nick Pelling · Graphics: Hugh Riley, Paul Docherty · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/59/59f965cedf9e7e9027d64f3124b20555ba912348.png",
+    "sstitle": "images/01/01146ede7be984c501946e7016dbe09039d0c389.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "f38078d3f129ed8a723d8455a1f6104dd041b4ce",
+  "md5": "77d56d05295242ea5c5c36c2d0d5292d",
+  "crc32": "aa44a7df",
+  "size": 34780,
+  "format": "PRG",
+  "files": [
+    "Quake Minus One.prg"
+  ],
+  "screenscraper_id": "116547",
+  "title": "Quake Minus One",
+  "year": "1985",
+  "publisher": "Beyond Software",
+  "developer": "Monolith (Warren Foulkes, Mike Singleton)",
+  "genres": [
+    "Strategie",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Die Terrorgruppe Robot Liberation Front hat das Kraftwerk Titan am Grund des Atlantiks besetzt, das Magma in Energie für die Industriestaaten umwandelt, und dort einen Sprengsatz platziert, der ein verheerendes Beben samt Flutwellen auslösen soll. Mit einem Unterwasserfahrzeug, das vom verbündeten Rechner Hermes aus startet, müssen Straßen und Knotenpunkte zurückerobert und die feindlich gewordenen Rechner Zeus, Poseidon, Vulcan und Ares bezwungen werden. Geplant wird auf einer Übersichtskarte, gekämpft in einer schnellen 3D-Ansicht, die auf der Landscaping-Technik von The Lords of Midnight aufbaut. Die Mischung aus Echtzeitstrategie und Action war ehrgeizig, galt wegen der knappen Anleitung aber als schwer zugänglich.\n\nQuake Minus One erschien 1985 bei Beyond unter dem neuen Label Monolith; eine geplante Spectrum-Fassung wurde nicht veröffentlicht. Gesteuert wird ausschließlich mit dem Joystick. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Warren Foulkes, Mike Singleton",
+  "texts": {
+    "de": "Die Terrorgruppe Robot Liberation Front hat das Kraftwerk Titan am Grund des Atlantiks besetzt, das Magma in Energie für die Industriestaaten umwandelt, und dort einen Sprengsatz platziert, der ein verheerendes Beben samt Flutwellen auslösen soll. Mit einem Unterwasserfahrzeug, das vom verbündeten Rechner Hermes aus startet, müssen Straßen und Knotenpunkte zurückerobert und die feindlich gewordenen Rechner Zeus, Poseidon, Vulcan und Ares bezwungen werden. Geplant wird auf einer Übersichtskarte, gekämpft in einer schnellen 3D-Ansicht, die auf der Landscaping-Technik von The Lords of Midnight aufbaut. Die Mischung aus Echtzeitstrategie und Action war ehrgeizig, galt wegen der knappen Anleitung aber als schwer zugänglich.\n\nQuake Minus One erschien 1985 bei Beyond unter dem neuen Label Monolith; eine geplante Spectrum-Fassung wurde nicht veröffentlicht. Gesteuert wird ausschließlich mit dem Joystick. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Warren Foulkes, Mike Singleton",
+    "en": "The terrorist Robot Liberation Front has seized Titan, a power plant on the floor of the Atlantic that turns magma into energy for the industrial nations, and planted a device meant to trigger a devastating earthquake and tidal waves. In an underwater craft launched from the friendly computer Hermes, the player has to recapture roads and junctions and defeat the hostile computers Zeus, Poseidon, Vulcan and Ares. Planning happens on an overview map, combat in a fast 3D view built on the landscaping technique of The Lords of Midnight. The mix of real-time strategy and action was ambitious but was considered hard to get into because of its sparse manual.\n\nQuake Minus One was released by Beyond in 1985 under its new Monolith label; a planned Spectrum version was never published. It is played with a joystick only. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Warren Foulkes, Mike Singleton"
+  },
+  "images": {
+    "ss": "images/59/598cb697655f23b885a8c3fd0466dc3a7f4ade1c.png",
+    "sstitle": "images/05/05d40d6b7db17c2a8f215a67a068a358adb17982.png"
+  }
+}

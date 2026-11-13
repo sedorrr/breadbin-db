@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d56d2ac4dd0441bae856e7aeee0e08a6e8e40bc0",
+  "md5": "a443476e0a0ad543bf8edc7ac7e4a3fe",
+  "crc32": "a0d282e6",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Dan Dare - Pilot of the Future.crt"
+  ],
+  "screenscraper_id": "36680",
+  "title": "Dan Dare: Pilot of the Future",
+  "year": "1986",
+  "publisher": "Virgin Games",
+  "developer": "Gang of Five",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Der Mekon hat einen ausgehöhlten Asteroiden auf Kurs zur Erde gebracht, und Dan Dare landet auf dessen Oberfläche, um ihn aufzuhalten. In der C64-Fassung prügelt sich Dan mit den Treen-Wachen, erkundet Oberfläche und unterirdische Seen, löst kleine Rätsel und befreit Digby und den Professor. Zum Schluss zerstört er mit einem Riesenlaser drei Großrechner, liefert sich ein Granatenduell mit dem Mekon und hat danach zwei Minuten zur Flucht. Die ganze Mission läuft in 25 Minuten Echtzeit ab und fängt die Stimmung der britischen Comicvorlage gut ein.\n\nDie C64-Fassung unterscheidet sich deutlich von den Spectrum- und CPC-Versionen, in denen Dan mit der Laserpistole Teile einer Bombe sammelt. Virgin Games veröffentlichte das Spiel 1986, in den USA erschien es bei Electronic Arts, später folgten Neuauflagen, unter anderem bei Ricochet. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Andrew Wilson · Grafik: Ian Mathias, Stu Jackson · Musik: Graham Marsh, Andrew Wilson",
+  "texts": {
+    "de": "Der Mekon hat einen ausgehöhlten Asteroiden auf Kurs zur Erde gebracht, und Dan Dare landet auf dessen Oberfläche, um ihn aufzuhalten. In der C64-Fassung prügelt sich Dan mit den Treen-Wachen, erkundet Oberfläche und unterirdische Seen, löst kleine Rätsel und befreit Digby und den Professor. Zum Schluss zerstört er mit einem Riesenlaser drei Großrechner, liefert sich ein Granatenduell mit dem Mekon und hat danach zwei Minuten zur Flucht. Die ganze Mission läuft in 25 Minuten Echtzeit ab und fängt die Stimmung der britischen Comicvorlage gut ein.\n\nDie C64-Fassung unterscheidet sich deutlich von den Spectrum- und CPC-Versionen, in denen Dan mit der Laserpistole Teile einer Bombe sammelt. Virgin Games veröffentlichte das Spiel 1986, in den USA erschien es bei Electronic Arts, später folgten Neuauflagen, unter anderem bei Ricochet. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Andrew Wilson · Grafik: Ian Mathias, Stu Jackson · Musik: Graham Marsh, Andrew Wilson",
+    "en": "The Mekon has set a hollowed-out asteroid on course for Earth, and Dan Dare lands on its surface to stop him. In the C64 version Dan fights the Treen guards with his fists, explores the surface and underground lakes, solves small puzzles and frees Digby and the Professor. Finally he destroys three supercomputers with a giant laser, fights a grenade duel with the Mekon and then has two minutes to escape. The whole mission runs in 25 minutes of real time and captures the mood of the British comic well.\n\nThe C64 version differs considerably from the Spectrum and CPC versions, in which Dan uses a laser pistol to collect parts of a bomb. Virgin Games released the game in 1986, Electronic Arts published it in the US, and re-releases followed, among them on Ricochet. It is played with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Andrew Wilson · Graphics: Ian Mathias, Stu Jackson · Music: Graham Marsh, Andrew Wilson"
+  },
+  "images": {
+    "ss": "images/d2/d266276792bb3ee5061ff28bb1eb049579f641aa.png",
+    "sstitle": "images/4e/4e023526f1393106cff39fda7ba66300abcd0693.png"
+  }
+}

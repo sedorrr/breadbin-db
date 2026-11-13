@@ -22,5 +22,9 @@
   "texts": {
     "de": "Ein Prinz muss binnen 60 Minuten aus den Kerkern des Großwesirs Jaffar entkommen und die Prinzessin retten. Die Figur bewegt sich mit fein abgestuften, rotoskopierten Animationen, klettert, hängt an Kanten und springt über Abgründe; Fallgitter, Stachelfallen und Schwertkämpfe mit Wachen fordern Geduld. Das Original von Jordan Mechner erschien 1989 für den Apple II; eine offizielle C64-Fassung gab es nie. Diese Umsetzung entstand 2011 als Fanprojekt und übernimmt Level und Ablauf des Originals.\n\nDiese Fassung ist die EasyFlash-Modulumsetzung von 2011; sie startet ohne Diskette.\n\nCode: Andreas Varga, Owen Crowley · Grafik: Mikael Backlund, Andreas Varga · Musik: Andreas Varga, Owen Crowley",
     "en": "A prince has to escape from the dungeons of the Grand Vizier Jaffar within 60 minutes and rescue the princess. The character moves with finely graduated, rotoscoped animations, climbs, hangs from ledges and jumps across chasms; portcullises, spike traps and sword fights with guards demand patience. Jordan Mechner's original was released in 1989 for the Apple II; there was never an official C64 version. This conversion was created in 2011 as a fan project and adopts the levels and sequence of the original.\n\nThis version is the EasyFlash cartridge conversion from 2011; it starts without a disk.\n\nCode: Andreas Varga, Owen Crowley · Graphics: Mikael Backlund, Andreas Varga · Music: Andreas Varga, Owen Crowley"
+  },
+  "images": {
+    "ss": "images/6d/6dfc3627b0db036c06664cc94ed098a73894dfe3.png",
+    "sstitle": "images/b3/b37fcf3106019d73aa4656eefb43bfb819a43c1c.png"
   }
 }

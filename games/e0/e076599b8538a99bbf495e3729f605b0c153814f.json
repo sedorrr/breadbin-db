@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e076599b8538a99bbf495e3729f605b0c153814f",
+  "md5": "e63681393956f4e3989c10011d7e964d",
+  "crc32": "f3819376",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Crystal Castles (Prototype).crt"
+  ],
+  "screenscraper_id": "36217",
+  "title": "Crystal Castles",
+  "year": "1986",
+  "publisher": "U.S. Gold (Thundervision)",
+  "developer": "Thundervision",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Crystal Castles ist die Umsetzung des Atari-Automaten von 1983 mit Bentley Bear in der Hauptrolle. In schräg von oben gezeigten Burgen sammelt der Bär Edelsteine ein, während Gegner wie wandelnde Bäume, Kristallkugeln und Edelsteinfresser ihn jagen oder ihm die Steine wegschnappen. Ein Zauberhut macht ihn kurz unverwundbar, und in bestimmten Wellen taucht die Hexe Berthilda auf. Geheime Sprünge und Warp-Zonen belohnen erfahrene Spieler.\n\nAuf dem C64 gibt es zwei Fassungen: eine inoffizielle von Thundervision, die um 1985/86 auftauchte, und die offizielle, 1986 bei U.S. Gold erschienene, die auf Atarisofts unveröffentlichter Modul-Umsetzung beruht. Statt des Trackballs am Automaten wird mit dem Joystick gespielt.\n\nArcade-Original: Franz Lanzinger (Atari)",
+  "texts": {
+    "de": "Crystal Castles ist die Umsetzung des Atari-Automaten von 1983 mit Bentley Bear in der Hauptrolle. In schräg von oben gezeigten Burgen sammelt der Bär Edelsteine ein, während Gegner wie wandelnde Bäume, Kristallkugeln und Edelsteinfresser ihn jagen oder ihm die Steine wegschnappen. Ein Zauberhut macht ihn kurz unverwundbar, und in bestimmten Wellen taucht die Hexe Berthilda auf. Geheime Sprünge und Warp-Zonen belohnen erfahrene Spieler.\n\nAuf dem C64 gibt es zwei Fassungen: eine inoffizielle von Thundervision, die um 1985/86 auftauchte, und die offizielle, 1986 bei U.S. Gold erschienene, die auf Atarisofts unveröffentlichter Modul-Umsetzung beruht. Statt des Trackballs am Automaten wird mit dem Joystick gespielt.\n\nArcade-Original: Franz Lanzinger (Atari)",
+    "en": "Crystal Castles is the conversion of Atari's 1983 arcade game starring Bentley Bear. In castles shown at an angle from above, the bear collects gems while enemies such as walking trees, crystal balls and gem eaters chase him or snatch the gems. A magic hat makes him briefly invulnerable, and in certain waves the witch Berthilda appears. Secret jumps and warp zones reward experienced players.\n\nThere are two C64 versions: an unofficial one by Thundervision that appeared around 1985/86, and the official one released by U.S. Gold in 1986, based on Atarisoft's unreleased cartridge conversion. Instead of the arcade trackball it is played with a joystick.\n\nArcade original: Franz Lanzinger (Atari)"
+  },
+  "images": {
+    "ss": "images/4e/4e1c238debfbb02892942fb63b4706308cfa0f59.png"
+  }
+}

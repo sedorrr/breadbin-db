@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "edbd32aee80f5d6080fd85b29072984ae56c6283",
+  "md5": "2655474107fab937d24927d94eb5e917",
+  "crc32": "aadb7b31",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Saboteur.crt"
+  ],
+  "screenscraper_id": "36093",
+  "title": "Saboteur!",
+  "year": "1986",
+  "publisher": "Durell Software",
+  "developer": "Clive Townsend (C64: Branko Špoljarić)",
+  "genres": [
+    "Action",
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Ein Ninja dringt in ein Lagerhaus ein, um eine Diskette mit den Namen von Rebellenführern zu stehlen, und muss anschließend mit einem Hubschrauber vom Dach entkommen. Unterwegs kämpft er mit Tritten, Schlägen und Wurfgegenständen gegen Wachen und Hunde, findet Waffen in Kisten und muss die ablaufende Zeit im Blick behalten. Die Verbindung von Kampfsport, der Erkundung eines großen Gebäudekomplexes und einem Zeitlimit machte Saboteur zu einem der bekanntesten Spiele von Durell.\n\nClive Townsend schrieb das Original 1985 für den ZX Spectrum; die C64-Umsetzung von Branko Špoljarić brachte Durell 1986 heraus, später erschien sie auch als Billigspiel bei Encore und in Durell-Sammlungen. Gesteuert wird mit dem Joystick. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nOriginal: Clive Townsend · C64-Umsetzung: Branko Špoljarić",
+  "texts": {
+    "de": "Ein Ninja dringt in ein Lagerhaus ein, um eine Diskette mit den Namen von Rebellenführern zu stehlen, und muss anschließend mit einem Hubschrauber vom Dach entkommen. Unterwegs kämpft er mit Tritten, Schlägen und Wurfgegenständen gegen Wachen und Hunde, findet Waffen in Kisten und muss die ablaufende Zeit im Blick behalten. Die Verbindung von Kampfsport, der Erkundung eines großen Gebäudekomplexes und einem Zeitlimit machte Saboteur zu einem der bekanntesten Spiele von Durell.\n\nClive Townsend schrieb das Original 1985 für den ZX Spectrum; die C64-Umsetzung von Branko Špoljarić brachte Durell 1986 heraus, später erschien sie auch als Billigspiel bei Encore und in Durell-Sammlungen. Gesteuert wird mit dem Joystick. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nOriginal: Clive Townsend · C64-Umsetzung: Branko Špoljarić",
+    "en": "A ninja infiltrates a warehouse to steal a disk containing the names of rebel leaders and then has to escape by helicopter from the roof. Along the way he fights guards and dogs with kicks, punches and thrown objects, finds weapons in crates and has to keep an eye on the clock. The combination of martial arts, exploring a large building complex and a time limit made Saboteur one of Durell's best-known games.\n\nClive Townsend wrote the original for the ZX Spectrum in 1985; Durell released Branko Špoljarić's C64 conversion in 1986, and it later appeared as an Encore budget title and in Durell compilations. It is played with a joystick. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nOriginal: Clive Townsend · C64 conversion: Branko Špoljarić"
+  },
+  "images": {
+    "ss": "images/40/40d72fc27095546d998a316c51d5d3f2a7b4c0f7.png",
+    "sstitle": "images/6f/6f852a8204856b2c8c7712b103efa97b5dcd1d8d.png"
+  }
+}

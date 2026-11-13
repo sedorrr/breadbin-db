@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "fef4bda9a77d76353748af54f1e3783700258864",
+  "md5": "b91e48bd85c04a1888838e599c78db82",
+  "crc32": "e6251f84",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CIRCUSG1.D64"
+  ],
+  "screenscraper_id": "36321",
+  "title": "Circus Games",
+  "year": "1988",
+  "publisher": "Tynesoft",
+  "developer": "Subway Software",
+  "genres": [
+    "Sport",
+    "Geschicklichkeit"
+  ],
+  "players": "1-4",
+  "synopsis": "Circus Games überträgt das Prinzip der Mehrkampf-Sportspiele in die Zirkusmanege. Statt Leichtathletik stehen vier Zirkusnummern auf dem Programm: Tigerdressur, Trapez, Seiltanz und Kunstreiten. Jede Disziplin verlangt eigenes Timing und Gleichgewichtsgefühl mit dem Joystick, und für gelungene Kunststücke gibt es Punkte. Bis zu vier Spieler treten nacheinander gegeneinander an. Das Spiel gehört zu den vielen Mehrkampfspielen, die nach dem Erfolg der Epyx-„Games“-Reihe entstanden.\n\nDas Spiel erschien 1988 bei Tynesoft auf Kassette und Diskette, auch für andere Rechner. Die Disziplinen werden einzeln nachgeladen. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Michael Hedley · Grafik: Michael J. Landreth, Kevin Preston, David Mowbrey · Musik: Nick Torkington",
+  "texts": {
+    "de": "Circus Games überträgt das Prinzip der Mehrkampf-Sportspiele in die Zirkusmanege. Statt Leichtathletik stehen vier Zirkusnummern auf dem Programm: Tigerdressur, Trapez, Seiltanz und Kunstreiten. Jede Disziplin verlangt eigenes Timing und Gleichgewichtsgefühl mit dem Joystick, und für gelungene Kunststücke gibt es Punkte. Bis zu vier Spieler treten nacheinander gegeneinander an. Das Spiel gehört zu den vielen Mehrkampfspielen, die nach dem Erfolg der Epyx-„Games“-Reihe entstanden.\n\nDas Spiel erschien 1988 bei Tynesoft auf Kassette und Diskette, auch für andere Rechner. Die Disziplinen werden einzeln nachgeladen. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Michael Hedley · Grafik: Michael J. Landreth, Kevin Preston, David Mowbrey · Musik: Nick Torkington",
+    "en": "Circus Games brings the multi-event sports game concept into the circus ring. Instead of athletics, four circus acts are on the bill: tiger taming, trapeze, tightrope walking and trick riding. Each event demands its own timing and sense of balance with the joystick, and successful stunts earn points. Up to four players compete one after another. It is one of the many multi-event games created in the wake of Epyx's \"Games\" series.\n\nThe game was released in 1988 by Tynesoft on cassette and disk, also for other computers. The events are loaded separately. It is controlled with a joystick in port 2.\n\nCode: Michael Hedley · Graphics: Michael J. Landreth, Kevin Preston, David Mowbrey · Music: Nick Torkington"
+  },
+  "images": {
+    "sstitle": "images/de/de8f99bca4a8706cba763b9a2f26f6d42e7db5aa.png"
+  }
+}

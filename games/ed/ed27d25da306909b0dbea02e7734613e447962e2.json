@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "ed27d25da306909b0dbea02e7734613e447962e2",
+  "md5": "df756578496deed699d6d96a1aaf958c",
+  "crc32": "0a41b4ba",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Mr. Do! (J1).crt"
+  ],
+  "screenscraper_id": "115365",
+  "title": "Mr. Do!",
+  "year": "1985",
+  "publisher": "Datasoft",
+  "developer": "Troy Lyndon",
+  "genres": [
+    "Arcade",
+    "Action / Labyrinth"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Universal-Automaten von 1982: Der Clown Mr. Do gräbt sich durch die Erde, sammelt Kirschen und erwehrt sich der verfolgenden Monster. Er kann einen springenden Kraftball werfen oder Äpfel untergraben, die herabfallen und Gegner zerquetschen. Ein Level ist geschafft, wenn alle Kirschen eingesammelt oder alle Monster besiegt sind; wer die Buchstaben des Wortes EXTRA erbeutet, bekommt ein zusätzliches Leben. Das Spiel gilt als einer der bekannten Labyrinth-Automaten der frühen 1980er Jahre.\n\nDie C64-Umsetzung erschien 1985 bei Datasoft auf Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Zwei Spieler spielen abwechselnd. Gesteuert wird per Joystick in Port 1.\n\nCode: Troy Lyndon · Grafik: Kelly Day, Russ Wolvek · Musik: John A. Fitzpatrick",
+  "texts": {
+    "de": "Umsetzung des Universal-Automaten von 1982: Der Clown Mr. Do gräbt sich durch die Erde, sammelt Kirschen und erwehrt sich der verfolgenden Monster. Er kann einen springenden Kraftball werfen oder Äpfel untergraben, die herabfallen und Gegner zerquetschen. Ein Level ist geschafft, wenn alle Kirschen eingesammelt oder alle Monster besiegt sind; wer die Buchstaben des Wortes EXTRA erbeutet, bekommt ein zusätzliches Leben. Das Spiel gilt als einer der bekannten Labyrinth-Automaten der frühen 1980er Jahre.\n\nDie C64-Umsetzung erschien 1985 bei Datasoft auf Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Zwei Spieler spielen abwechselnd. Gesteuert wird per Joystick in Port 1.\n\nCode: Troy Lyndon · Grafik: Kelly Day, Russ Wolvek · Musik: John A. Fitzpatrick",
+    "en": "A conversion of Universal's 1982 arcade game: the clown Mr. Do digs his way through the earth, collecting cherries and fending off pursuing monsters. He can throw a bouncing power ball or dig under apples, which fall and crush enemies. A level is completed when all cherries are collected or all monsters defeated; collecting the letters of the word EXTRA earns an extra life. It is regarded as one of the well-known maze arcade games of the early 1980s.\n\nThe C64 conversion was released by Datasoft in 1985 on disk; today there are also cartridge conversions from the OneLoad64 project. Two players take turns. Controlled by joystick in port 1.\n\nCode: Troy Lyndon · Graphics: Kelly Day, Russ Wolvek · Music: John A. Fitzpatrick"
+  },
+  "images": {
+    "ss": "images/c9/c9da874356d8bf15f8543324a8374f5d99ee7095.png",
+    "sstitle": "images/3d/3dcabb0b65af7ea66d3c29d758dc823bd2f1bcd8.png"
+  }
+}

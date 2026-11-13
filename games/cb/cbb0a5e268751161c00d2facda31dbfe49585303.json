@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "cbb0a5e268751161c00d2facda31dbfe49585303",
+  "md5": "da98bea53f416bfa63144cff31b99e29",
+  "crc32": "453fa266",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "RUNTHEGA.D64"
+  ],
+  "screenscraper_id": "116602",
+  "title": "Run the Gauntlet",
+  "year": "1989",
+  "publisher": "Ocean",
+  "developer": "Impact Software Development",
+  "genres": [
+    "Sport",
+    "Rennen"
+  ],
+  "players": "1-4",
+  "synopsis": "Das Spiel zur britischen Fernsehsendung „Run the Gauntlet“ lässt Teams aus Großbritannien, den USA, den Niederlanden und Australien in Wettbewerben mit Fahrzeugen antreten. Gefahren wird unter anderem mit Buggys, Quads, Jetskis und Luftkissenbooten, aus der Vogelperspektive über Land- und Wasserkurse. Dazwischen stehen Disziplinen ohne Fahrzeug wie „The Hill“, ein Hindernislauf zu Fuß. Die Mischung aus verschiedenen Fahrzeugen und kurzen Wettbewerben sorgt für Abwechslung, besonders mit mehreren Spielern.\n\nOcean veröffentlichte die C64-Fassung auf Diskette und Kassette, später auch als Neuauflage bei The Hit Squad; außerdem gibt es EasyFlash-Umsetzungen der Szene. Die Wettbewerbe werden nachgeladen. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Mark Charles Rogers, Chris Kerry · Grafik: Steve Kerry · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Das Spiel zur britischen Fernsehsendung „Run the Gauntlet“ lässt Teams aus Großbritannien, den USA, den Niederlanden und Australien in Wettbewerben mit Fahrzeugen antreten. Gefahren wird unter anderem mit Buggys, Quads, Jetskis und Luftkissenbooten, aus der Vogelperspektive über Land- und Wasserkurse. Dazwischen stehen Disziplinen ohne Fahrzeug wie „The Hill“, ein Hindernislauf zu Fuß. Die Mischung aus verschiedenen Fahrzeugen und kurzen Wettbewerben sorgt für Abwechslung, besonders mit mehreren Spielern.\n\nOcean veröffentlichte die C64-Fassung auf Diskette und Kassette, später auch als Neuauflage bei The Hit Squad; außerdem gibt es EasyFlash-Umsetzungen der Szene. Die Wettbewerbe werden nachgeladen. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Mark Charles Rogers, Chris Kerry · Grafik: Steve Kerry · Musik: Jonathan Dunn",
+    "en": "The game based on the British TV show \"Run the Gauntlet\" pits teams from Great Britain, the USA, the Netherlands and Australia against each other in vehicle contests. Buggies, quad bikes, jet skis and hovercraft are raced from a top-down view over land and water courses. In between there are events without vehicles, such as \"The Hill\", an obstacle run on foot. The mix of vehicles and short contests provides variety, especially with several players.\n\nOcean released the C64 version on disk and cassette, later also as a budget re-release by The Hit Squad; EasyFlash conversions from the scene exist as well. The events are loaded separately. It is played with a joystick in port 2.\n\nCode: Mark Charles Rogers, Chris Kerry · Graphics: Steve Kerry · Music: Jonathan Dunn"
+  },
+  "images": {
+    "sstitle": "images/cc/cc2ba63e6098948184f10b17a7211d5abd5af08c.png"
+  }
+}

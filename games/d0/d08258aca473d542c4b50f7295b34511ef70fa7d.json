@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d08258aca473d542c4b50f7295b34511ef70fa7d",
+  "md5": "ea1e2398bda6f591b78be42891bdd539",
+  "crc32": "5b9013f4",
+  "size": 123184,
+  "format": "CRT",
+  "files": [
+    "Galaxy Force II.crt"
+  ],
+  "screenscraper_id": "36312",
+  "title": "Galaxy Force II",
+  "year": "1990",
+  "publisher": "Activision",
+  "developer": "Software Studios",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Galaxy Force II ist die Umsetzung von Segas Automaten aus dem Jahr 1988, in dem der Spieler mit einem Raumjäger durch Weltraumsektoren, über Planetenoberflächen und durch enge Tunnel fliegt. Gegner werden anvisiert und mit Raketen abgeschossen, während die Energie ständig sinkt und zugleich als Zeitlimit dient. Am Automaten beeindruckte vor allem die schnelle Skalierung von Sprites in einer beweglichen Kabine. Die Heimfassungen versuchen, diesen Eindruck von Tiefe nachzubilden.\n\nAuf dem C64 erschien das Spiel 1990 bei Activision, teils unter dem Titel Galaxy Force; die Skalierung ist dort stark vereinfacht und ruckeliger als am Automaten. Gesteuert wird mit dem Joystick. Spätere EasyFlash-Umsetzungen sparen die Nachladezeiten der Diskettenfassung.\n\nCode (C64): Neil Coxhead · Entwicklung: Software Studios",
+  "texts": {
+    "de": "Galaxy Force II ist die Umsetzung von Segas Automaten aus dem Jahr 1988, in dem der Spieler mit einem Raumjäger durch Weltraumsektoren, über Planetenoberflächen und durch enge Tunnel fliegt. Gegner werden anvisiert und mit Raketen abgeschossen, während die Energie ständig sinkt und zugleich als Zeitlimit dient. Am Automaten beeindruckte vor allem die schnelle Skalierung von Sprites in einer beweglichen Kabine. Die Heimfassungen versuchen, diesen Eindruck von Tiefe nachzubilden.\n\nAuf dem C64 erschien das Spiel 1990 bei Activision, teils unter dem Titel Galaxy Force; die Skalierung ist dort stark vereinfacht und ruckeliger als am Automaten. Gesteuert wird mit dem Joystick. Spätere EasyFlash-Umsetzungen sparen die Nachladezeiten der Diskettenfassung.\n\nCode (C64): Neil Coxhead · Entwicklung: Software Studios",
+    "en": "Galaxy Force II is the conversion of Sega's 1988 arcade game in which the player flies a space fighter through deep space, over planet surfaces and through narrow tunnels. Enemies are locked on to and shot down with missiles, while energy keeps draining and doubles as the time limit. In the arcade the fast sprite scaling in a moving cabinet was the main attraction. The home versions try to recreate that sense of depth.\n\nOn the C64 the game was released in 1990 by Activision, partly under the title Galaxy Force; the scaling is heavily simplified and choppier than in the arcade. It is controlled with a joystick. Later EasyFlash conversions remove the loading times of the disk version.\n\nCode (C64): Neil Coxhead · Development: Software Studios"
+  },
+  "images": {
+    "ss": "images/26/26f4b867351f2b1cd91cdf2eafaf0b9512c36877.png"
+  }
+}

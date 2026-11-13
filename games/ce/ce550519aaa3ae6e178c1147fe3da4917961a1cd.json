@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ce550519aaa3ae6e178c1147fe3da4917961a1cd",
+  "md5": "191fbc83444bebd8b1556db6ead74c23",
+  "crc32": "1ff8afbb",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Lazer-Force.crt"
+  ],
+  "screenscraper_id": "114195",
+  "title": "Lazer Force",
+  "year": "1987",
+  "publisher": "Codemasters",
+  "developer": "Gavin Raeburn",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Senkrecht scrollender Shooter aus dem Budget-Programm von Codemasters. Der Spieler steuert ein Raumschiff aufwärts über eine Landschaft und schießt Gegnerformationen und Bodenziele ab. Das Spiel bietet klassische Ballerkost ohne große Neuerungen, wurde von der Presse aber als preiswerter, solide spielbarer Zeitvertreib bewertet.\n\nErschien bei Codemasters auf Kassette zum Budgetpreis; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Gavin Raeburn · Grafik: Gavin Raeburn · Musik: David Whittaker",
+  "texts": {
+    "de": "Senkrecht scrollender Shooter aus dem Budget-Programm von Codemasters. Der Spieler steuert ein Raumschiff aufwärts über eine Landschaft und schießt Gegnerformationen und Bodenziele ab. Das Spiel bietet klassische Ballerkost ohne große Neuerungen, wurde von der Presse aber als preiswerter, solide spielbarer Zeitvertreib bewertet.\n\nErschien bei Codemasters auf Kassette zum Budgetpreis; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Gavin Raeburn · Grafik: Gavin Raeburn · Musik: David Whittaker",
+    "en": "A vertically scrolling shooter from Codemasters' budget range. The player flies a spaceship upwards over a landscape, shooting enemy formations and ground targets. It offers classic shoot'em up fare without major innovations, but the press rated it as an inexpensive, solidly playable diversion.\n\nReleased by Codemasters on cassette at a budget price; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2.\n\nCode: Gavin Raeburn · Graphics: Gavin Raeburn · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/a3/a3ce883fba5f710df31df8b7f074b58dcca41dd1.png",
+    "sstitle": "images/5f/5f2a19957deff64d07172e46c51171a789222c0b.png"
+  }
+}

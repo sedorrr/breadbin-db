@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "f737a5819e6f810dd08680329be16e45c209c878",
+  "md5": "cc2a0a1389d3e4cdb3a9b57aec4f8ba6",
+  "crc32": "8b576580",
+  "size": 31478,
+  "format": "T64",
+  "files": [
+    "POLEPO2.T64"
+  ],
+  "screenscraper_id": "36405",
+  "title": "Pole Position II",
+  "year": "1988",
+  "publisher": "Mindscape",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Namco-Automaten von 1983, der Fortsetzung von Pole Position: Nach einer Qualifikationsrunde gegen die Uhr startet das Rennen, in dem möglichst viele Gegner überholt und die Runden in der vorgegebenen Zeit geschafft werden müssen. Statt einer gibt es vier Strecken zur Wahl: den Fuji Speedway, einen Ovalkurs nach dem Vorbild von Indianapolis, einen Stadtkurs am Meer nach dem Muster von Long Beach und Suzuka. Kollisionen mit Wagen oder Schildern enden in einer Explosion. Das Spielprinzip entspricht weitgehend dem Vorgänger.\n\nDie C64-Fassung erschien 1988 bei Mindscape. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nOriginal: Namco",
+  "texts": {
+    "de": "Umsetzung des Namco-Automaten von 1983, der Fortsetzung von Pole Position: Nach einer Qualifikationsrunde gegen die Uhr startet das Rennen, in dem möglichst viele Gegner überholt und die Runden in der vorgegebenen Zeit geschafft werden müssen. Statt einer gibt es vier Strecken zur Wahl: den Fuji Speedway, einen Ovalkurs nach dem Vorbild von Indianapolis, einen Stadtkurs am Meer nach dem Muster von Long Beach und Suzuka. Kollisionen mit Wagen oder Schildern enden in einer Explosion. Das Spielprinzip entspricht weitgehend dem Vorgänger.\n\nDie C64-Fassung erschien 1988 bei Mindscape. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nOriginal: Namco",
+    "en": "A conversion of Namco's 1983 arcade game, the sequel to Pole Position: after a qualifying lap against the clock comes the race, in which as many opponents as possible must be overtaken and the laps completed within the time limit. Instead of one there are four tracks to choose from: Fuji Speedway, an oval modelled on Indianapolis, a seaside street circuit after the pattern of Long Beach, and Suzuka. Collisions with cars or signs end in an explosion. The gameplay largely matches its predecessor.\n\nThe C64 version was released in 1988 by Mindscape. It is controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nOriginal: Namco"
+  },
+  "images": {
+    "ss": "images/0b/0b1c5166f56cfc731272202701bda547f57021ae.png",
+    "sstitle": "images/21/21836cd6b8acdba2af95faed46f1313a169456e2.png"
+  }
+}

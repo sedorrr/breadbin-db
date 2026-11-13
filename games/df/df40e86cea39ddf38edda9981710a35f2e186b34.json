@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "df40e86cea39ddf38edda9981710a35f2e186b34",
+  "md5": "ef52f3ab96c489e72b70f34b22863271",
+  "crc32": "6cfac6db",
+  "size": 16317,
+  "format": "T64",
+  "files": [
+    "INTBASK1.T64"
+  ],
+  "screenscraper_id": "106833",
+  "title": "International Basketball",
+  "year": "1985",
+  "publisher": "Commodore",
+  "developer": "Andrew Spencer",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Basketballspiel von Andrew Spencer, das auf dem Programmgerüst seines Fußballspiels International Soccer aufbaut. Gespielt wird gegen den Computer oder zu zweit gleichzeitig gegeneinander, mit großen, flüssig animierten Spielerfiguren auf einem seitlich gezeigten Platz. Die Steuerung kommt mit Joystick und einem Knopf aus, trotzdem lassen sich Pässe, Würfe und Sprünge gezielt einsetzen. Das Spiel erreichte 1985 Platz 2 der britischen C64-Charts und wurde von der Fachpresse als gelungene Sportsimulation gelobt.\n\nErschien auf Kassette bei Commodore in Europa; heute gibt es zusätzlich Modulumsetzungen, etwa aus dem OneLoad64-Projekt. Gesteuert wird per Joystick, im Zweispielermodus mit beiden Ports.\n\nCode: Andrew Spencer · Grafik: Andrew Spencer",
+  "texts": {
+    "de": "Basketballspiel von Andrew Spencer, das auf dem Programmgerüst seines Fußballspiels International Soccer aufbaut. Gespielt wird gegen den Computer oder zu zweit gleichzeitig gegeneinander, mit großen, flüssig animierten Spielerfiguren auf einem seitlich gezeigten Platz. Die Steuerung kommt mit Joystick und einem Knopf aus, trotzdem lassen sich Pässe, Würfe und Sprünge gezielt einsetzen. Das Spiel erreichte 1985 Platz 2 der britischen C64-Charts und wurde von der Fachpresse als gelungene Sportsimulation gelobt.\n\nErschien auf Kassette bei Commodore in Europa; heute gibt es zusätzlich Modulumsetzungen, etwa aus dem OneLoad64-Projekt. Gesteuert wird per Joystick, im Zweispielermodus mit beiden Ports.\n\nCode: Andrew Spencer · Grafik: Andrew Spencer",
+    "en": "A basketball game by Andrew Spencer, built on the code base of his football game International Soccer. It can be played against the computer or by two players at the same time, with large, smoothly animated players on a court seen from the side. The controls need only a joystick and one button, yet passes, shots and jumps can be used deliberately. The game reached number 2 in the UK C64 charts in 1985 and was praised by the press as a well-made sports simulation.\n\nReleased on cassette by Commodore in Europe; today there are also cartridge conversions, for example from the OneLoad64 project. Controlled by joystick, with both ports used in two-player mode.\n\nCode: Andrew Spencer · Graphics: Andrew Spencer"
+  },
+  "images": {
+    "ss": "images/e6/e65a03fc6836fb6b5c252beb9825c6127cffa18d.png",
+    "sstitle": "images/02/02370ae540af5594a705bd77fe1a6a61239be44d.png"
+  }
+}

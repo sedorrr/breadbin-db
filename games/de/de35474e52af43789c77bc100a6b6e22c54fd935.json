@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "de35474e52af43789c77bc100a6b6e22c54fd935",
+  "md5": "1dfcd82ec93d0d4bad1ca58304d316a8",
+  "crc32": "57e688fc",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Black Lamp.crt"
+  ],
+  "screenscraper_id": "109968",
+  "title": "Black Lamp",
+  "year": "1988",
+  "publisher": "Firebird",
+  "developer": "Software Creations",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "In Black Lamp zieht der Hofnarr Jack durch das Königreich Allegoria. Er liebt Prinzessin Grizelda, doch der König würde sie nur einem Helden geben – die Gelegenheit kommt, als Drachen die magische schwarze Lampe stehlen, die das Reich beschützt. Jack läuft, springt, klettert und schießt sich durch das Land, sucht neun verschiedenfarbige Lampen und bringt sie an ihren Platz zurück; die neunte, die schwarze Lampe, bewacht ein Drache, der am Ende besiegt werden muss. Gelobt wurden Grafik und Animation, bemängelt der hohe Schwierigkeitsgrad und die eigenwillige Steuerung.\n\nDas Spiel erschien 1988 bei Firebird auf Kassette und Diskette, auch für andere 8- und 16-Bit-Rechner. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Stephen Ruddy · Grafik: Andrew Threlfall, Paul Docherty · Musik: Tim Follin",
+  "texts": {
+    "de": "In Black Lamp zieht der Hofnarr Jack durch das Königreich Allegoria. Er liebt Prinzessin Grizelda, doch der König würde sie nur einem Helden geben – die Gelegenheit kommt, als Drachen die magische schwarze Lampe stehlen, die das Reich beschützt. Jack läuft, springt, klettert und schießt sich durch das Land, sucht neun verschiedenfarbige Lampen und bringt sie an ihren Platz zurück; die neunte, die schwarze Lampe, bewacht ein Drache, der am Ende besiegt werden muss. Gelobt wurden Grafik und Animation, bemängelt der hohe Schwierigkeitsgrad und die eigenwillige Steuerung.\n\nDas Spiel erschien 1988 bei Firebird auf Kassette und Diskette, auch für andere 8- und 16-Bit-Rechner. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Stephen Ruddy · Grafik: Andrew Threlfall, Paul Docherty · Musik: Tim Follin",
+    "en": "In Black Lamp, Jack the jester roams the kingdom of Allegoria. He is in love with Princess Grizelda, but the king would only give her to a hero – and the chance comes when dragons steal the magic black lamp that protects the realm. Jack runs, jumps, climbs and shoots his way through the land, searching for nine differently coloured lamps and returning them to their place; the ninth, the black lamp, is guarded by a dragon that has to be defeated in the end. Reviewers praised the graphics and animation but criticised the high difficulty and awkward controls.\n\nThe game was released in 1988 by Firebird on cassette and disk, also for other 8- and 16-bit computers. There are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick in port 2.\n\nCode: Stephen Ruddy · Graphics: Andrew Threlfall, Paul Docherty · Music: Tim Follin"
+  },
+  "images": {
+    "ss": "images/32/32fb8c73a1997145d65b5f5a9d1c14b9db4a010e.png",
+    "sstitle": "images/ce/cef20390c9ff44eb8ed4ee7f6a8327bd0c751b2a.png"
+  }
+}

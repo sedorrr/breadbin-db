@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "dbef66791e34dfddee170f9f142d6fb333727732",
+  "md5": "fc130e7499cb6f11a6b95a0742b466e4",
+  "crc32": "4423d006",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Trantor - The Last Storm Trooper.crt"
+  ],
+  "screenscraper_id": "36396",
+  "title": "Trantor: The Last Stormtrooper",
+  "year": "1987",
+  "publisher": "Go!",
+  "developer": "Probe Software",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Der Sturmtruppler Trantor überlebt als Einziger die Bruchlandung seines Raumschiffs auf einem feindlichen Planeten. In einer mehrstöckigen Basis, deren Ebenen durch Aufzüge verbunden sind, sucht er Buchstaben eines Codeworts, während ein strenger Countdown läuft; jeder gefundene Buchstabe setzt die Zeit zurück. Außerirdische und kleine Flugroboter zehren an seiner Kraft, er wehrt sie mit einem Flammenwerfer ab, dessen Treibstoff an Tankstellen nachgefüllt wird. In Schränken liegen Hamburger zur Stärkung und Uhren, die den Countdown zurücksetzen. Die großen, flüssig animierten Figuren waren 1987 ein Blickfang.\n\nErschienen auf Kassette und Diskette beim U.S.-Gold-Label Go!, später auch auf einer Zeitschriftenbeilage. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung: Probe Software",
+  "texts": {
+    "de": "Der Sturmtruppler Trantor überlebt als Einziger die Bruchlandung seines Raumschiffs auf einem feindlichen Planeten. In einer mehrstöckigen Basis, deren Ebenen durch Aufzüge verbunden sind, sucht er Buchstaben eines Codeworts, während ein strenger Countdown läuft; jeder gefundene Buchstabe setzt die Zeit zurück. Außerirdische und kleine Flugroboter zehren an seiner Kraft, er wehrt sie mit einem Flammenwerfer ab, dessen Treibstoff an Tankstellen nachgefüllt wird. In Schränken liegen Hamburger zur Stärkung und Uhren, die den Countdown zurücksetzen. Die großen, flüssig animierten Figuren waren 1987 ein Blickfang.\n\nErschienen auf Kassette und Diskette beim U.S.-Gold-Label Go!, später auch auf einer Zeitschriftenbeilage. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung: Probe Software",
+    "en": "Stormtrooper Trantor is the sole survivor when his spaceship crash-lands on a hostile planet. In a multi-storey base whose levels are linked by lifts, he searches for the letters of a code word while a strict countdown runs; each letter found resets the timer. Aliens and small flying robots drain his strength, and he fends them off with a flamethrower whose fuel is topped up at refuelling points. Lockers hold hamburgers for energy and clocks that reset the countdown. The large, smoothly animated characters were eye-catching in 1987.\n\nReleased on tape and disk on U.S. Gold's Go! label, later also on a magazine covertape. It is controlled with a joystick in port 2. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nDevelopment: Probe Software"
+  },
+  "images": {
+    "ss": "images/00/0042c343f58512704ef175cbe4f792ec463f43be.png",
+    "sstitle": "images/32/325f0e2191e6045e3f2c2aa22decd4c5848b361b.png"
+  }
+}

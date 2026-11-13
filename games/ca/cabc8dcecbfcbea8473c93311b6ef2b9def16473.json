@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "cabc8dcecbfcbea8473c93311b6ef2b9def16473",
+  "md5": "cb4a5f6ad3f1e053c8ae87c790dbb5d8",
+  "crc32": "077e00f9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "IRONL-E0.D64"
+  ],
+  "screenscraper_id": "36236",
+  "title": "Iron Lord",
+  "year": "1989",
+  "publisher": "Ubi Soft",
+  "developer": "Ubi Soft",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Mittelalterliches Abenteuer, in dem ein junger Ritter in seine Heimat zurückkehrt, deren Herrschaft ein machthungriger Onkel an sich gerissen hat. Um den Thronräuber zu stürzen, zieht der Spieler über eine Landkarte von Ort zu Ort, spricht mit Dorfbewohnern und gewinnt Verbündete für sein Heer. Dazu muss er sich in Geschicklichkeitsproben wie Bogenschießen, Armdrücken, einem Würfelspiel und Schwertkämpfen bewähren. Die Mischung aus Erkundung, Rätseln und Minispielen sowie die stimmungsvolle Präsentation machten das Spiel bekannt.\n\nDas Original erschien 1989 für den Atari ST; die C64-Fassung folgte 1990 bei Ubi Soft auf zwei Disketten, mit eigener Musik von Jeroen Tel. Daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2.\n\nCode: Yves Grolet, Laurent Larminier, Guy Mille · Grafik: Franck Sauer, Bruno Kortulewski, Marc Albinet · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Mittelalterliches Abenteuer, in dem ein junger Ritter in seine Heimat zurückkehrt, deren Herrschaft ein machthungriger Onkel an sich gerissen hat. Um den Thronräuber zu stürzen, zieht der Spieler über eine Landkarte von Ort zu Ort, spricht mit Dorfbewohnern und gewinnt Verbündete für sein Heer. Dazu muss er sich in Geschicklichkeitsproben wie Bogenschießen, Armdrücken, einem Würfelspiel und Schwertkämpfen bewähren. Die Mischung aus Erkundung, Rätseln und Minispielen sowie die stimmungsvolle Präsentation machten das Spiel bekannt.\n\nDas Original erschien 1989 für den Atari ST; die C64-Fassung folgte 1990 bei Ubi Soft auf zwei Disketten, mit eigener Musik von Jeroen Tel. Daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2.\n\nCode: Yves Grolet, Laurent Larminier, Guy Mille · Grafik: Franck Sauer, Bruno Kortulewski, Marc Albinet · Musik: Jeroen Tel",
+    "en": "A medieval adventure in which a young knight returns to his homeland, whose rule has been seized by a power-hungry uncle. To overthrow the usurper, the player travels from place to place across a map, talks to villagers and wins allies for his army. Along the way he has to prove himself in skill tests such as archery, arm wrestling, a dice game and sword fights. The mix of exploration, puzzles and mini-games, along with its atmospheric presentation, made the game well known.\n\nThe original came out on the Atari ST in 1989; the C64 version followed from Ubi Soft in 1990 on two disks, with its own music by Jeroen Tel. EasyFlash cartridge conversions also exist. Controlled by joystick in port 2.\n\nCode: Yves Grolet, Laurent Larminier, Guy Mille · Graphics: Franck Sauer, Bruno Kortulewski, Marc Albinet · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/fa/fa979b7e141e652292c4caa2ada6e88384ced14d.png",
+    "sstitle": "images/7a/7a353cbf4cd08e50b3f0d7e46998495bc86a46ae.png"
+  }
+}

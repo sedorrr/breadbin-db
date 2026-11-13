@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "cf072b17459718261de78f0abe45a82f2d6b9f12",
+  "md5": "663462a515e30dc581793119a1f00a8f",
+  "crc32": "2a4af3fb",
+  "size": 180640,
+  "format": "CRT",
+  "files": [
+    "Murder on the Mississippi (p1).crt",
+    "Murder on the Mississippi [EasyFlash].crt"
+  ],
+  "screenscraper_id": "115403",
+  "title": "Murder on the Mississippi",
+  "year": "1986",
+  "publisher": "Activision",
+  "developer": "Adam Bellin",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Kriminalabenteuer an Bord eines Raddampfers auf dem Mississippi: Der Detektiv Sir Charles Foxworth und sein Begleiter Regis Phelps müssen einen Mord aufklären, bevor das Schiff sein Ziel erreicht. Der Spieler läuft durch die Decks und Kabinen, untersucht Gegenstände und befragt die Passagiere über Menüs statt über eine Texteingabe. Aussagen werden in einem Notizbuch festgehalten und können anderen Verdächtigen vorgehalten werden. Am Ende muss der richtige Täter mit Beweisen überführt werden.\n\nErschien bei Activision auf Diskette, zuerst für den C64 und den Apple II. Daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 1.\n\nCode: Adam Bellin · Grafik: Hilary Mills · Musik: Ed Bogas",
+  "texts": {
+    "de": "Kriminalabenteuer an Bord eines Raddampfers auf dem Mississippi: Der Detektiv Sir Charles Foxworth und sein Begleiter Regis Phelps müssen einen Mord aufklären, bevor das Schiff sein Ziel erreicht. Der Spieler läuft durch die Decks und Kabinen, untersucht Gegenstände und befragt die Passagiere über Menüs statt über eine Texteingabe. Aussagen werden in einem Notizbuch festgehalten und können anderen Verdächtigen vorgehalten werden. Am Ende muss der richtige Täter mit Beweisen überführt werden.\n\nErschien bei Activision auf Diskette, zuerst für den C64 und den Apple II. Daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 1.\n\nCode: Adam Bellin · Grafik: Hilary Mills · Musik: Ed Bogas",
+    "en": "A murder mystery aboard a paddle steamer on the Mississippi: the detective Sir Charles Foxworth and his companion Regis Phelps have to solve a murder before the boat reaches its destination. The player walks through the decks and cabins, examines objects and questions passengers through menus instead of typed commands. Statements are recorded in a notebook and can be put to other suspects. In the end, the right culprit has to be convicted with evidence.\n\nReleased by Activision on disk, first for the C64 and the Apple II. EasyFlash cartridge conversions also exist. Controlled by joystick in port 1.\n\nCode: Adam Bellin · Graphics: Hilary Mills · Music: Ed Bogas"
+  },
+  "images": {
+    "ss": "images/8d/8d8863cc626d4cb8a7e2a60f0239829601e4af4f.png",
+    "sstitle": "images/2b/2b5909056091a0a3482e669b293846d370849d4e.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "db1cdd59dabbef95823a29131c3b197dbf5fd542",
+  "md5": "24a7d4bea88ea3057f688153eb651126",
+  "crc32": "217feba7",
+  "size": 44295,
+  "format": "T64",
+  "files": [
+    "REVSPLUS.T64"
+  ],
+  "screenscraper_id": "114727",
+  "title": "Revs",
+  "year": "1986",
+  "publisher": "Firebird",
+  "developer": "Geoff Crammond",
+  "genres": [
+    "Rennen",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Rennsimulation von Geoff Crammond, die einen Formel-3-Wagen aus der Fahrerperspektive mit für die damalige Zeit ungewöhnlich realistischem Fahrverhalten nachbildet. Gefahren wird auf nachgebildeten britischen Rennstrecken gegen computergesteuerte Gegner, mit Training, Qualifikation und Rennen. Gas, Bremse und Lenkung wollen fein dosiert sein, weshalb das Spiel eher Geduld als schnelle Reflexe verlangt. Crammond entwickelte daraus später die Reihe Formula One Grand Prix.\n\nDas Original erschien 1984 für den BBC Micro bei Acornsoft; die C64-Fassung erschien 1986 bei Firebird mit Silverstone und Brands Hatch. 1987 folgte Revs+ mit vier weiteren Strecken (Nürburgring, Snetterton, Donington Park, Oulton Park), digitaler Joysticksteuerung und Lenkhilfe. Es gibt Fassungen für Joystick (Port 2) und Tastatur; heute zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt.\n\nCode: Geoff Crammond",
+  "texts": {
+    "de": "Rennsimulation von Geoff Crammond, die einen Formel-3-Wagen aus der Fahrerperspektive mit für die damalige Zeit ungewöhnlich realistischem Fahrverhalten nachbildet. Gefahren wird auf nachgebildeten britischen Rennstrecken gegen computergesteuerte Gegner, mit Training, Qualifikation und Rennen. Gas, Bremse und Lenkung wollen fein dosiert sein, weshalb das Spiel eher Geduld als schnelle Reflexe verlangt. Crammond entwickelte daraus später die Reihe Formula One Grand Prix.\n\nDas Original erschien 1984 für den BBC Micro bei Acornsoft; die C64-Fassung erschien 1986 bei Firebird mit Silverstone und Brands Hatch. 1987 folgte Revs+ mit vier weiteren Strecken (Nürburgring, Snetterton, Donington Park, Oulton Park), digitaler Joysticksteuerung und Lenkhilfe. Es gibt Fassungen für Joystick (Port 2) und Tastatur; heute zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt.\n\nCode: Geoff Crammond",
+    "en": "A racing simulation by Geoff Crammond that recreates a Formula 3 car from the driver's seat, with handling that was unusually realistic for its time. Races take place on recreated British circuits against computer-controlled opponents, with practice, qualifying and race. Throttle, brakes and steering have to be applied carefully, so the game calls for patience more than quick reflexes. Crammond later developed the Formula One Grand Prix series from it.\n\nThe original was released by Acornsoft for the BBC Micro in 1984; the C64 version came out from Firebird in 1986 with Silverstone and Brands Hatch. Revs+ followed in 1987 with four more circuits (Nürburgring, Snetterton, Donington Park, Oulton Park), digital joystick control and steering assistance. There are versions for joystick (port 2) and keyboard; today there are also cartridge conversions from the OneLoad64 project.\n\nCode: Geoff Crammond"
+  },
+  "images": {
+    "sstitle": "images/40/402af27ce3a6c357f2ec1401c9c8682ea50b4fa3.png"
+  }
+}

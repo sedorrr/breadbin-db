@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "e0d029b447ecf5d3d1d44bbae6cf3b3ee9cd870d",
+  "md5": "72c15fd445aa0e05d7b5dab0d1bad85b",
+  "crc32": "dd451eb7",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Metro-Cross.crt"
+  ],
+  "screenscraper_id": "36220",
+  "title": "Metro-Cross",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "developer": "Probe Software",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Namco-Automaten von 1985: Ein Läufer muss in futuristischen Hallen eine Hindernisstrecke innerhalb eines knappen Zeitlimits durchqueren. Rutschige oder bremsende Bodenfelder, rollende Hindernisse, Hürden und Abgründe kosten Zeit, während Sprungbretter und Skateboards den Lauf beschleunigen. Getränkedosen am Boden lassen sich wegtreten und bringen Punkte oder Zeit. Das Spiel lebt vom Auswendiglernen der Strecken und von schnellen Reaktionen.\n\nDie C64-Umsetzung stammt von Probe Software und erschien in Europa bei U.S. Gold, in den USA bei Epyx; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Brian O'Shaughnessy · Grafik: Vakis Paraskeva · Musik: Brian O'Shaughnessy",
+  "texts": {
+    "de": "Umsetzung des Namco-Automaten von 1985: Ein Läufer muss in futuristischen Hallen eine Hindernisstrecke innerhalb eines knappen Zeitlimits durchqueren. Rutschige oder bremsende Bodenfelder, rollende Hindernisse, Hürden und Abgründe kosten Zeit, während Sprungbretter und Skateboards den Lauf beschleunigen. Getränkedosen am Boden lassen sich wegtreten und bringen Punkte oder Zeit. Das Spiel lebt vom Auswendiglernen der Strecken und von schnellen Reaktionen.\n\nDie C64-Umsetzung stammt von Probe Software und erschien in Europa bei U.S. Gold, in den USA bei Epyx; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Brian O'Shaughnessy · Grafik: Vakis Paraskeva · Musik: Brian O'Shaughnessy",
+    "en": "A conversion of Namco's 1985 arcade game: a runner has to cross an obstacle course in futuristic halls within a tight time limit. Slippery or slowing floor tiles, rolling obstacles, hurdles and gaps cost time, while springboards and skateboards speed up the run. Drink cans on the floor can be kicked away for points or extra time. The game depends on memorising the courses and on quick reactions.\n\nThe C64 conversion was made by Probe Software and released in Europe by U.S. Gold and in the US by Epyx; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2.\n\nCode: Brian O'Shaughnessy · Graphics: Vakis Paraskeva · Music: Brian O'Shaughnessy"
+  },
+  "images": {
+    "ss": "images/ca/ca0919b76111dc268331737badd37a76160cfc6d.png",
+    "sstitle": "images/84/846a5e013da87c84a843f94c69d2db214d4994b1.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d57b946001109d5be7ce24d124b0ddab2e729dc1",
+  "md5": "57691c1651775d19019bd79d3b353367",
+  "crc32": "93add4aa",
+  "size": 47236,
+  "format": "T64",
+  "files": [
+    "ARAC.T64"
+  ],
+  "screenscraper_id": "109648",
+  "title": "Arac",
+  "year": "1986",
+  "publisher": "Addictive Games",
+  "developer": "Paul O'Malley",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein kleiner Roboter namens Arac erkundet ein Höhlenlabyrinth aus über hundert Einzelbildern, um die verstreuten Teile des Kampfroboters Arachnidroid zusammenzusetzen. Mit einem Netz fängt er Höhlenbewohner ein, die ihm im Gegenzug für ihre Freilassung weiterhelfen. Ist der Arachnidroid vollständig, muss er im Zentrum der Höhlen drei chemische Reaktoren ausschalten. Die Mischung aus Geschicklichkeit, Erkundung und dem Einsatz der gefangenen Tiere hebt das Spiel von reinen Plattformspielen ab.\n\nArac erschien 1986 bei Addictive Games und wurde 1988 von Prism Leisure neu aufgelegt. Gesteuert wird mit dem Joystick in Port 1; Joystick und Tastatur lassen sich auch gleichzeitig verwenden. Musik gibt es keine, nur kurze Toneffekte. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul, die ohne Nachladen auskommt.\n\nCode: Paul O'Malley · Grafik: Paul O'Malley",
+  "texts": {
+    "de": "Ein kleiner Roboter namens Arac erkundet ein Höhlenlabyrinth aus über hundert Einzelbildern, um die verstreuten Teile des Kampfroboters Arachnidroid zusammenzusetzen. Mit einem Netz fängt er Höhlenbewohner ein, die ihm im Gegenzug für ihre Freilassung weiterhelfen. Ist der Arachnidroid vollständig, muss er im Zentrum der Höhlen drei chemische Reaktoren ausschalten. Die Mischung aus Geschicklichkeit, Erkundung und dem Einsatz der gefangenen Tiere hebt das Spiel von reinen Plattformspielen ab.\n\nArac erschien 1986 bei Addictive Games und wurde 1988 von Prism Leisure neu aufgelegt. Gesteuert wird mit dem Joystick in Port 1; Joystick und Tastatur lassen sich auch gleichzeitig verwenden. Musik gibt es keine, nur kurze Toneffekte. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul, die ohne Nachladen auskommt.\n\nCode: Paul O'Malley · Grafik: Paul O'Malley",
+    "en": "A small robot called Arac explores a cave labyrinth of more than a hundred flip screens to reassemble the scattered parts of the Arachnidroid combat robot. With a net he catches cave creatures, which help him in return for being released. Once the Arachnidroid is complete, it has to shut down three chemical reactors at the heart of the caves. The mix of dexterity, exploration and putting the captured creatures to use sets the game apart from plain platformers.\n\nArac was released by Addictive Games in 1986 and reissued by Prism Leisure in 1988. It is played with a joystick in port 1; joystick and keyboard can also be used at the same time. There is no music, only short sound effects. Besides the original and cracked versions there is a OneLoad64 cartridge conversion that runs without loading.\n\nCode: Paul O'Malley · Graphics: Paul O'Malley"
+  },
+  "images": {
+    "ss": "images/95/952946f8034a59bc23201f93b1473c11a155d5f5.png",
+    "sstitle": "images/15/15fa24ebda75f32664144906ba98729e302372f9.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "edec6d40c593de3e019d371ca1eb6f86d95aba49",
+  "md5": "7da7cc48d7262d9c1dcf22803ad56d49",
+  "crc32": "fd684a8a",
+  "size": 508960,
+  "format": "CRT",
+  "files": [
+    "F-14 Tomcat.crt",
+    "F-14 Tomcat [EasyFlash].crt"
+  ],
+  "screenscraper_id": "108836",
+  "title": "F-14 Tomcat",
+  "year": "1988",
+  "publisher": "Activision",
+  "developer": "Dynamix",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Eine Flugsimulation rund um den Marinejäger F-14 Tomcat, in der man als junger Pilot eine Ausbildung durchläuft und anschließend Einsätze fliegt. Zum Programm gehören Starts und Landungen auf dem Flugzeugträger, Übungsluftkämpfe und Kampfeinsätze, nach deren Erfolg man befördert wird. Cockpitanzeigen, Radar und Waffenwahl orientieren sich am echten Flugzeug, bleiben aber für einen Heimcomputer überschaubar. Das Spiel setzt eher auf Action als auf eine streng realistische Flugphysik.\n\nDie C64-Fassung erschien 1988 bei Activision auf Diskette und belegt mehrere Diskettenseiten, die während des Spiels nachgeladen werden. Gesteuert wird per Joystick in Port 2, ergänzt durch Tastaturbefehle. Daneben gibt es eine EasyFlash-Umsetzung als Modul, die das Diskettenwechseln erspart.\n\nCode: Kevin Ryan, Nick Skrepetos · Grafik: John Burton, Tom Collie, Darek Lukaszuk · Musik: Bryce Morsello",
+  "texts": {
+    "de": "Eine Flugsimulation rund um den Marinejäger F-14 Tomcat, in der man als junger Pilot eine Ausbildung durchläuft und anschließend Einsätze fliegt. Zum Programm gehören Starts und Landungen auf dem Flugzeugträger, Übungsluftkämpfe und Kampfeinsätze, nach deren Erfolg man befördert wird. Cockpitanzeigen, Radar und Waffenwahl orientieren sich am echten Flugzeug, bleiben aber für einen Heimcomputer überschaubar. Das Spiel setzt eher auf Action als auf eine streng realistische Flugphysik.\n\nDie C64-Fassung erschien 1988 bei Activision auf Diskette und belegt mehrere Diskettenseiten, die während des Spiels nachgeladen werden. Gesteuert wird per Joystick in Port 2, ergänzt durch Tastaturbefehle. Daneben gibt es eine EasyFlash-Umsetzung als Modul, die das Diskettenwechseln erspart.\n\nCode: Kevin Ryan, Nick Skrepetos · Grafik: John Burton, Tom Collie, Darek Lukaszuk · Musik: Bryce Morsello",
+    "en": "A flight simulation built around the F-14 Tomcat naval fighter, in which the player goes through training as a young pilot and then flies missions. The programme includes carrier take-offs and landings, practice dogfights and combat missions, with promotions for success. Cockpit instruments, radar and weapon selection are modelled on the real aircraft but kept manageable for a home computer. The game leans towards action rather than strictly realistic flight physics.\n\nThe C64 version was released by Activision in 1988 on disk and spans several disk sides that are loaded during play. It is controlled with a joystick in port 2, supplemented by keyboard commands. There is also an EasyFlash cartridge conversion that removes the need to swap disks.\n\nCode: Kevin Ryan, Nick Skrepetos · Graphics: John Burton, Tom Collie, Darek Lukaszuk · Music: Bryce Morsello"
+  },
+  "images": {
+    "ss": "images/39/3954fe03e160e3402f62229e29f15927109d9cd1.png",
+    "sstitle": "images/98/98264bbb2c58db2c3fea0799d3363ffe76af8959.png"
+  }
+}

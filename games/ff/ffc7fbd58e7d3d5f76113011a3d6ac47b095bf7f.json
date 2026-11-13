@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "ffc7fbd58e7d3d5f76113011a3d6ac47b095bf7f",
+  "md5": "a96d52d805adb15cb504ac0c077f61d8",
+  "crc32": "dbd179ce",
+  "size": 510562,
+  "format": "TAP",
+  "files": [
+    "Jinks.tap"
+  ],
+  "screenscraper_id": "36667",
+  "title": "Jinks",
+  "year": "1987",
+  "publisher": "Rainbow Arts",
+  "developer": "Diamond Software",
+  "genres": [
+    "Action / Breakout Spiele"
+  ],
+  "players": "1",
+  "synopsis": "Abwandlung des Breakout-Prinzips: Statt eine Mauer abzuräumen, lenkt der Spieler einen springenden Ball mit seinem Schläger durch waagerecht scrollende Level bis zum Ausgang. Unterwegs stören Hindernisse und Gegner, und der Schläger kann seine Form ändern, um den Ball gezielter abzulenken. Das Spiel verbindet Geschicklichkeit mit Erkundung und hebt sich damit von den vielen Arkanoid-Nachahmern seiner Zeit ab. Bekannt ist es auch für die Musik von Chris Hülsbeck.\n\nErschien bei Rainbow Arts auf Kassette und Diskette und später in Budget-Neuauflagen (u. a. Eurogold, Go!). Heute gibt es zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2, ein Highscore-Speicher ist eingebaut.\n\nCode: Bernd Lintermann · Grafik: Bernd Lintermann, Holger Flöttmann · Musik: Chris Hülsbeck",
+  "texts": {
+    "de": "Abwandlung des Breakout-Prinzips: Statt eine Mauer abzuräumen, lenkt der Spieler einen springenden Ball mit seinem Schläger durch waagerecht scrollende Level bis zum Ausgang. Unterwegs stören Hindernisse und Gegner, und der Schläger kann seine Form ändern, um den Ball gezielter abzulenken. Das Spiel verbindet Geschicklichkeit mit Erkundung und hebt sich damit von den vielen Arkanoid-Nachahmern seiner Zeit ab. Bekannt ist es auch für die Musik von Chris Hülsbeck.\n\nErschien bei Rainbow Arts auf Kassette und Diskette und später in Budget-Neuauflagen (u. a. Eurogold, Go!). Heute gibt es zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2, ein Highscore-Speicher ist eingebaut.\n\nCode: Bernd Lintermann · Grafik: Bernd Lintermann, Holger Flöttmann · Musik: Chris Hülsbeck",
+    "en": "A variation on the Breakout formula: instead of clearing a wall, the player uses a paddle to steer a bouncing ball through horizontally scrolling levels to the exit. Obstacles and enemies get in the way, and the paddle can change shape to deflect the ball more precisely. The game combines skill with exploration and stands apart from the many Arkanoid imitators of its time. It is also known for Chris Hülsbeck's music.\n\nReleased by Rainbow Arts on cassette and disk and later in budget re-releases (including Eurogold and Go!). Today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2; a high score saver is built in.\n\nCode: Bernd Lintermann · Graphics: Bernd Lintermann, Holger Flöttmann · Music: Chris Hülsbeck"
+  },
+  "images": {
+    "sstitle": "images/85/8514909e78129d2ee618254af89aef5dd6440a16.png"
+  }
+}

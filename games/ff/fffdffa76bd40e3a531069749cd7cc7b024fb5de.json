@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "fffdffa76bd40e3a531069749cd7cc7b024fb5de",
+  "md5": "7e097023b581f477730a9220e15dd8f8",
+  "crc32": "7528e902",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Kikstart II.crt"
+  ],
+  "screenscraper_id": "36601",
+  "title": "Kikstart II",
+  "year": "1987",
+  "publisher": "Mastertronic",
+  "developer": "Mr. Chip Software (Shaun Southern)",
+  "genres": [
+    "Rennen",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Der Nachfolger bleibt beim Motorrad-Trial: Mit Gas, Bremse, Hüpfern und Wheelies müssen Rampen, Tore, Telefonzellen, Reifen und andere Hindernisse bewältigt werden, manche nur auf eine bestimmte Art. Nach einem Sturz geht es mit einer Zeitstrafe weiter. Die Strecken sind in Fünfergruppen geordnet; gewonnen wird durch die schnellere Zeit oder die geringste Gesamtzeit. Neu ist ein Streckeneditor, mit dem sich eigene Kurse bauen, speichern und weitergeben lassen – das machte das Billigspiel besonders langlebig.\n\nKikstart II erschien 1987 bei Mastertronic als Billigspiel und erhielt sehr gute Wertungen, darunter 86 % in Zzap!64. Zu zweit wird gleichzeitig im geteilten Bild gefahren, allein gegen den Computer; gesteuert wird mit dem Joystick. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Shaun Southern · Grafik: Andrew Morris · Musik: Shaun Southern",
+  "texts": {
+    "de": "Der Nachfolger bleibt beim Motorrad-Trial: Mit Gas, Bremse, Hüpfern und Wheelies müssen Rampen, Tore, Telefonzellen, Reifen und andere Hindernisse bewältigt werden, manche nur auf eine bestimmte Art. Nach einem Sturz geht es mit einer Zeitstrafe weiter. Die Strecken sind in Fünfergruppen geordnet; gewonnen wird durch die schnellere Zeit oder die geringste Gesamtzeit. Neu ist ein Streckeneditor, mit dem sich eigene Kurse bauen, speichern und weitergeben lassen – das machte das Billigspiel besonders langlebig.\n\nKikstart II erschien 1987 bei Mastertronic als Billigspiel und erhielt sehr gute Wertungen, darunter 86 % in Zzap!64. Zu zweit wird gleichzeitig im geteilten Bild gefahren, allein gegen den Computer; gesteuert wird mit dem Joystick. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Shaun Southern · Grafik: Andrew Morris · Musik: Shaun Southern",
+    "en": "The sequel sticks with motorbike trials: using throttle, brake, hops and wheelies, riders must get past ramps, gates, phone boxes, tyres and other obstacles, some of which can only be cleared in a particular way. After a crash the ride continues with a time penalty. Courses are grouped in sets of five; races are won by the faster time or the lowest aggregate time. New is a course editor for building, saving and sharing custom tracks – which gave the budget game exceptional longevity.\n\nKikstart II was released by Mastertronic in 1987 as a budget title and received very good reviews, including 86% in Zzap!64. Two players race simultaneously on a split screen, a single player races the computer; it is played with a joystick. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Shaun Southern · Graphics: Andrew Morris · Music: Shaun Southern"
+  },
+  "images": {
+    "ss": "images/36/36a84dbca57f446c40e4a1a92f9becdd969c0ca9.png",
+    "sstitle": "images/74/74b7d04c64c281d6843ba4c3140e906f9e56cfec.png"
+  }
+}

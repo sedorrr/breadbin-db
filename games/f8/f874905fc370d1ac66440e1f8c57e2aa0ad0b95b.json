@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f874905fc370d1ac66440e1f8c57e2aa0ad0b95b",
+  "md5": "a1ca7e4e784a887fa66d1aec2273bb9d",
+  "crc32": "e5d1f637",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CARMENSD.D64"
+  ],
+  "screenscraper_id": "183159",
+  "title": "Where in the World is Carmen Sandiego?",
+  "year": "1986",
+  "publisher": "Brøderbund",
+  "developer": "Brøderbund (Gene Portwood, Lauren Elliott)",
+  "genres": [
+    "Lernspiel",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Als Ermittler einer Detektei verfolgt der Spieler die Diebe der Verbrecherorganisation V.I.L.E., die wertvolle Kulturgüter aus aller Welt stehlen. In jeder Stadt werden Zeugen befragt, deren Hinweise auf Flaggen, Währungen, Sprachen oder Sehenswürdigkeiten das nächste Reiseziel verraten; gleichzeitig wird eine Täterbeschreibung gesammelt, um einen Haftbefehl auszustellen. Die Zeit bis zum Ablauf der Frist ist begrenzt. Das Spiel verbindet Detektivgeschichte und Erdkunde und begründete eine der erfolgreichsten Lernspielreihen überhaupt.\n\nDie C64-Fassung erschien auf Diskette; der Packung lag ein Weltalmanach als Nachschlagewerk bei, der auch als Kopierschutz diente. Gesteuert wird per Tastatur und Joystick. Daneben gibt es eine Umsetzung als EasyFlash-Modul.\n\nEntwurf: Gene Portwood, Lauren Elliott",
+  "texts": {
+    "de": "Als Ermittler einer Detektei verfolgt der Spieler die Diebe der Verbrecherorganisation V.I.L.E., die wertvolle Kulturgüter aus aller Welt stehlen. In jeder Stadt werden Zeugen befragt, deren Hinweise auf Flaggen, Währungen, Sprachen oder Sehenswürdigkeiten das nächste Reiseziel verraten; gleichzeitig wird eine Täterbeschreibung gesammelt, um einen Haftbefehl auszustellen. Die Zeit bis zum Ablauf der Frist ist begrenzt. Das Spiel verbindet Detektivgeschichte und Erdkunde und begründete eine der erfolgreichsten Lernspielreihen überhaupt.\n\nDie C64-Fassung erschien auf Diskette; der Packung lag ein Weltalmanach als Nachschlagewerk bei, der auch als Kopierschutz diente. Gesteuert wird per Tastatur und Joystick. Daneben gibt es eine Umsetzung als EasyFlash-Modul.\n\nEntwurf: Gene Portwood, Lauren Elliott",
+    "en": "As an investigator for a detective agency, the player pursues the thieves of the criminal organisation V.I.L.E., who steal valuable treasures from all over the world. In each city, witnesses are questioned whose clues about flags, currencies, languages or landmarks reveal the next destination; at the same time a description of the suspect is built up in order to issue a warrant. Time until the deadline is limited. The game combines a detective story with geography and launched one of the most successful educational game series of all time.\n\nThe C64 version was released on disk; the box included a world almanac as a reference work, which also served as copy protection. It is controlled with keyboard and joystick. There is also a conversion as an EasyFlash cartridge.\n\nDesign: Gene Portwood, Lauren Elliott"
+  },
+  "images": {
+    "ss": "images/d7/d7149e222afd1e1f4a4be6c1aea7775002d18806.png"
+  }
+}

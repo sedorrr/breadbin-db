@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e15fb1c9e7fa613a852deee8b423050938ffa35b",
+  "md5": "6728f135bc6c442a80ed6446547524d1",
+  "crc32": "7fe389ae",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "JET-PAC.D64"
+  ],
+  "screenscraper_id": "133483",
+  "title": "Jet-Pac",
+  "year": "1984",
+  "publisher": "Tronic Verlag (Computronic)",
+  "developer": "Thomas Gösmann",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle C64-Umsetzung des Spectrum-Spiels Jetpac von Ultimate Play the Game. Ein Astronaut mit Raketenrucksack fliegt über einen einzelnen Bildschirm mit wenigen Plattformen, setzt seine Rakete aus Einzelteilen zusammen, sammelt Treibstoff ein und schießt dabei Wellen von Angreifern ab. Ist die Rakete betankt, geht es zum nächsten Planeten mit neuen Gegnern. Ultimate selbst hat keine C64-Fassung veröffentlicht, deshalb entstanden mehrere Nachbauten von Dritten.\n\nDiese Fassung von Thomas Gösmann erschien beim Tronic Verlag, unter anderem in der Zeitschrift Computronic (Ausgabe 3–4/1985), und 1985 in den Niederlanden bei Courbois Software. Gesteuert wird per Joystick in Port 2.\n\nCode: Thomas Gösmann · Grafik: Thomas Gösmann · Musik: Thomas Gösmann",
+  "texts": {
+    "de": "Inoffizielle C64-Umsetzung des Spectrum-Spiels Jetpac von Ultimate Play the Game. Ein Astronaut mit Raketenrucksack fliegt über einen einzelnen Bildschirm mit wenigen Plattformen, setzt seine Rakete aus Einzelteilen zusammen, sammelt Treibstoff ein und schießt dabei Wellen von Angreifern ab. Ist die Rakete betankt, geht es zum nächsten Planeten mit neuen Gegnern. Ultimate selbst hat keine C64-Fassung veröffentlicht, deshalb entstanden mehrere Nachbauten von Dritten.\n\nDiese Fassung von Thomas Gösmann erschien beim Tronic Verlag, unter anderem in der Zeitschrift Computronic (Ausgabe 3–4/1985), und 1985 in den Niederlanden bei Courbois Software. Gesteuert wird per Joystick in Port 2.\n\nCode: Thomas Gösmann · Grafik: Thomas Gösmann · Musik: Thomas Gösmann",
+    "en": "An unofficial C64 version of the Spectrum game Jetpac by Ultimate Play the Game. An astronaut with a jetpack flies around a single screen with a few platforms, assembles his rocket from separate parts, collects fuel and shoots down waves of attackers. Once the rocket is fuelled, he moves on to the next planet with new enemies. Ultimate never released a C64 version itself, so several third-party remakes appeared.\n\nThis version by Thomas Gösmann was published by Tronic Verlag, including in the magazine Computronic (issue 3–4/1985), and in 1985 in the Netherlands by Courbois Software. Controlled by joystick in port 2.\n\nCode: Thomas Gösmann · Graphics: Thomas Gösmann · Music: Thomas Gösmann"
+  },
+  "images": {
+    "sstitle": "images/ee/ee68adb4cebc285890fa515e8a21832c8d5a0835.png"
+  }
+}

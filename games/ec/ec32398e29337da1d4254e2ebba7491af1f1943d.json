@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ec32398e29337da1d4254e2ebba7491af1f1943d",
+  "md5": "8948101f5b931108c8a620d4b51bf0ee",
+  "crc32": "2068a836",
+  "size": 175531,
+  "format": "D64",
+  "files": [
+    "Gremlins.d64"
+  ],
+  "screenscraper_id": "430208",
+  "title": "Gremlins",
+  "year": "1984",
+  "publisher": "Atarisoft",
+  "developer": "Atarisoft",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Das Actionspiel zum Film zeigt in der Draufsicht einen einzelnen Bildschirm, auf dem Mogwai umherlaufen. Der Spieler sammelt sie ein und muss verhindern, dass sie nach Mitternacht Futter erwischen oder mit Wasser in Berührung kommen – sonst werden sie zu Gremlins, die ihn angreifen und bekämpft werden müssen. Eine Nacht dauert bis sechs Uhr morgens; wer vorher alle Mogwai eingesammelt und alle Gremlins besiegt hat, ist früher fertig. Das schlichte, aber hektische Prinzip setzt die Regeln aus dem Film geschickt in Spielmechanik um.\n\nAtarisoft brachte diese Draufsicht-Fassung 1984 für C64, Apple II und PC heraus; die Atari-2600-Fassung ist ein anderes Spiel, eine Fassung für das Atari 5200 erschien erst später bei Atari. Die C64-Fassung erschien auf Diskette. Gespielt wird allein oder zu zweit abwechselnd mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nHerausgeber: Atarisoft (einzelne Mitwirkende nicht belegt)",
+  "texts": {
+    "de": "Das Actionspiel zum Film zeigt in der Draufsicht einen einzelnen Bildschirm, auf dem Mogwai umherlaufen. Der Spieler sammelt sie ein und muss verhindern, dass sie nach Mitternacht Futter erwischen oder mit Wasser in Berührung kommen – sonst werden sie zu Gremlins, die ihn angreifen und bekämpft werden müssen. Eine Nacht dauert bis sechs Uhr morgens; wer vorher alle Mogwai eingesammelt und alle Gremlins besiegt hat, ist früher fertig. Das schlichte, aber hektische Prinzip setzt die Regeln aus dem Film geschickt in Spielmechanik um.\n\nAtarisoft brachte diese Draufsicht-Fassung 1984 für C64, Apple II und PC heraus; die Atari-2600-Fassung ist ein anderes Spiel, eine Fassung für das Atari 5200 erschien erst später bei Atari. Die C64-Fassung erschien auf Diskette. Gespielt wird allein oder zu zweit abwechselnd mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nHerausgeber: Atarisoft (einzelne Mitwirkende nicht belegt)",
+    "en": "This action game based on the film shows a single screen from above on which mogwai wander around. The player collects them and has to keep them from getting food after midnight or touching water – otherwise they turn into gremlins that attack and have to be fought off. A night lasts until six in the morning; collecting all mogwai and defeating all gremlins ends it early. The simple but hectic concept cleverly turns the film's rules into game mechanics.\n\nAtarisoft released this top-down version in 1984 for the C64, Apple II and PC; the Atari 2600 version is a different game, and an Atari 5200 version only came out later from Atari. The C64 version came on disk. It is played alone or by two players taking turns, with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nPublisher: Atarisoft (individual credits unknown)"
+  },
+  "images": {
+    "ss": "images/e6/e66bc9ac5f454fe9f4ff8c856a00c9e50775829e.png"
+  }
+}

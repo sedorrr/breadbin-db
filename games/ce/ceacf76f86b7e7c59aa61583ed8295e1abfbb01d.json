@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ceacf76f86b7e7c59aa61583ed8295e1abfbb01d",
+  "md5": "de409d1c6fcb28ca5ca6d38469ce2f14",
+  "crc32": "fbe340b1",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Jumpan Junior.crt"
+  ],
+  "screenscraper_id": "113338",
+  "title": "Jumpman Junior",
+  "year": "1983",
+  "publisher": "Epyx",
+  "developer": "Randy Glover",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1-4",
+  "synopsis": "Jumpman muss in zwölf Levels die Bomben einer Anlage entschärfen, indem er sie über Leitern, Seile und Plattformen erreicht und berührt. Jedes Level hat eigene Tücken und Gegner, und schon ein zu tiefer Sturz kostet ein Leben. Der Nachfolger des umfangreicheren Jumpman bietet zwölf völlig neue Level und wurde gekürzt, damit er auf ein Modul passt. Das präzise Springen und die einfallsreichen Levelideen machen ihn zu einem der bekanntesten frühen Plattformspiele auf dem C64.\n\nEpyx veröffentlichte Jumpman Junior 1983 als Modul für die Atari-8-Bit-Rechner und den C64; Randy Glover passte das auf die Atari-Hardware ausgelegte Spiel selbst an den C64 an. Bis zu vier Spieler treten abwechselnd an, gesteuert wird mit dem Joystick in Port 2. Neben dem Originalmodul sind Disketten- und Kassettenfassungen im Umlauf sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Randy Glover · Grafik: Randy Glover · Musik: Randy Glover",
+  "texts": {
+    "de": "Jumpman muss in zwölf Levels die Bomben einer Anlage entschärfen, indem er sie über Leitern, Seile und Plattformen erreicht und berührt. Jedes Level hat eigene Tücken und Gegner, und schon ein zu tiefer Sturz kostet ein Leben. Der Nachfolger des umfangreicheren Jumpman bietet zwölf völlig neue Level und wurde gekürzt, damit er auf ein Modul passt. Das präzise Springen und die einfallsreichen Levelideen machen ihn zu einem der bekanntesten frühen Plattformspiele auf dem C64.\n\nEpyx veröffentlichte Jumpman Junior 1983 als Modul für die Atari-8-Bit-Rechner und den C64; Randy Glover passte das auf die Atari-Hardware ausgelegte Spiel selbst an den C64 an. Bis zu vier Spieler treten abwechselnd an, gesteuert wird mit dem Joystick in Port 2. Neben dem Originalmodul sind Disketten- und Kassettenfassungen im Umlauf sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Randy Glover · Grafik: Randy Glover · Musik: Randy Glover",
+    "en": "Across twelve levels Jumpman has to defuse the bombs in a complex by reaching and touching them via ladders, ropes and platforms. Every level has its own hazards and enemies, and even a fall from too great a height costs a life. The follow-up to the larger Jumpman offers twelve entirely new levels and was trimmed down to fit on a cartridge. Precise jumping and inventive level ideas make it one of the best-known early platform games on the C64.\n\nEpyx released Jumpman Junior in 1983 as a cartridge for the Atari 8-bit computers and the C64; Randy Glover adapted the game, designed around the Atari hardware, to the C64 himself. Up to four players take turns, using a joystick in port 2. Besides the original cartridge, disk and tape versions circulate, as well as a OneLoad64 cartridge conversion.\n\nCode: Randy Glover · Graphics: Randy Glover · Music: Randy Glover"
+  },
+  "images": {
+    "ss": "images/58/580335b2ece26883f8864e93204dbc4468aaa3df.png"
+  }
+}

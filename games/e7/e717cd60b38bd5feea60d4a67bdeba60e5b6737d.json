@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e717cd60b38bd5feea60d4a67bdeba60e5b6737d",
+  "md5": "7d860bddd85bddc8b326fda27591f8ba",
+  "crc32": "c5626cdc",
+  "size": 21679,
+  "format": "T64",
+  "files": [
+    "WCCARNIV.T64"
+  ],
+  "screenscraper_id": "36780",
+  "title": "World Cup Carnival",
+  "year": "1986",
+  "publisher": "U.S. Gold",
+  "developer": "Artic Computing",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "World Cup Carnival war das offiziell lizenzierte Spiel zur Fußball-Weltmeisterschaft 1986 in Mexiko. Im Turniermodus treten ausgewählte Nationalmannschaften ab dem Viertelfinale gegeneinander an, die Paarungen werden zufällig gelost; dazu kommen Übungen wie Ballhochhalten und Elfmeterschießen. Gespielt wird mit sieben Feldspielern je Mannschaft in Seitenansicht. Technisch handelt es sich um eine leicht überarbeitete Fassung von Artic Computings World Cup II; wegen grober Grafik und hakeliger Steuerung wurde das Spiel von der Presse scharf kritisiert und gilt heute eher als Kuriosität.\n\nU.S. Gold veröffentlichte das Spiel auf Kassette und Diskette, auch in einer italienischen Fassung. Gesteuert wird mit dem Joystick in Port 1 oder der Tastatur; bis zu acht Spieler können abwechselnd, zwei gleichzeitig spielen.\n\nCode: John Prince · Grafik: John Prince · Musik: John Prince",
+  "texts": {
+    "de": "World Cup Carnival war das offiziell lizenzierte Spiel zur Fußball-Weltmeisterschaft 1986 in Mexiko. Im Turniermodus treten ausgewählte Nationalmannschaften ab dem Viertelfinale gegeneinander an, die Paarungen werden zufällig gelost; dazu kommen Übungen wie Ballhochhalten und Elfmeterschießen. Gespielt wird mit sieben Feldspielern je Mannschaft in Seitenansicht. Technisch handelt es sich um eine leicht überarbeitete Fassung von Artic Computings World Cup II; wegen grober Grafik und hakeliger Steuerung wurde das Spiel von der Presse scharf kritisiert und gilt heute eher als Kuriosität.\n\nU.S. Gold veröffentlichte das Spiel auf Kassette und Diskette, auch in einer italienischen Fassung. Gesteuert wird mit dem Joystick in Port 1 oder der Tastatur; bis zu acht Spieler können abwechselnd, zwei gleichzeitig spielen.\n\nCode: John Prince · Grafik: John Prince · Musik: John Prince",
+    "en": "World Cup Carnival was the officially licensed game for the 1986 World Cup in Mexico. In tournament mode, selected national teams compete from the quarter-finals onwards with randomly drawn pairings, alongside practice modes such as keepy-uppy and penalty shoot-outs. Matches are played side-on with seven outfield players per team. Technically it is a slightly reworked version of Artic Computing's World Cup II; because of its crude graphics and awkward controls it was savaged by the press and is regarded today more as a curiosity.\n\nU.S. Gold released the game on cassette and disk, including an Italian version. It is played with a joystick in port 1 or the keyboard; up to eight players can take turns, and two can play at once.\n\nCode: John Prince · Graphics: John Prince · Music: John Prince"
+  },
+  "images": {
+    "ss": "images/62/6243738916ae9efe9de57e180dd1b64d5047b5d2.png",
+    "sstitle": "images/c6/c68b83b95f2a326826f901bb66c4be77e19604f5.png"
+  }
+}

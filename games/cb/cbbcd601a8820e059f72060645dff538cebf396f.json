@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "cbbcd601a8820e059f72060645dff538cebf396f",
+  "md5": "69aadf3941ff219267e8974a29de18fa",
+  "crc32": "ff0bc7ec",
+  "size": 33542,
+  "format": "T64",
+  "files": [
+    "LORDSOM1.T64"
+  ],
+  "screenscraper_id": "114306",
+  "title": "The Lords of Midnight",
+  "year": "1985",
+  "publisher": "Beyond Software",
+  "developer": "Mike Singleton (C64: Antony Taglione, Malcolm Hallon)",
+  "genres": [
+    "Strategie",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Luxor der Mondprinz zieht mit seinen Verbündeten gegen den Hexenkönig Doomdark, der das Land Midnight mit ewigem Winter überzieht. Gewinnen lässt sich auf zwei Wegen: militärisch, indem die Heere der freien Völker Doomdarks Festung Ushgarak erobern, oder als Abenteuer, indem der junge Morkin die Eiskrone zerstört. Die Welt wird über die „Landscaping“-Technik aus der Sicht der Figuren gezeigt, mit Tausenden von Ansichten auf Berge, Wälder und Burgen. Die Verbindung aus Strategie, Abenteuer und erzählender Darstellung machte das Spiel zu einem Meilenstein.\n\nMike Singleton schrieb das Original 1984 für den ZX Spectrum; die C64-Umsetzung brachte Beyond 1985 heraus, in den USA erschien sie bei Mindscape. Die C64-Fassung hat keinen Ton und erhielt in Zzap!64 91 %. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nOriginal: Mike Singleton · C64-Umsetzung: Antony Taglione, Malcolm Hallon",
+  "texts": {
+    "de": "Luxor der Mondprinz zieht mit seinen Verbündeten gegen den Hexenkönig Doomdark, der das Land Midnight mit ewigem Winter überzieht. Gewinnen lässt sich auf zwei Wegen: militärisch, indem die Heere der freien Völker Doomdarks Festung Ushgarak erobern, oder als Abenteuer, indem der junge Morkin die Eiskrone zerstört. Die Welt wird über die „Landscaping“-Technik aus der Sicht der Figuren gezeigt, mit Tausenden von Ansichten auf Berge, Wälder und Burgen. Die Verbindung aus Strategie, Abenteuer und erzählender Darstellung machte das Spiel zu einem Meilenstein.\n\nMike Singleton schrieb das Original 1984 für den ZX Spectrum; die C64-Umsetzung brachte Beyond 1985 heraus, in den USA erschien sie bei Mindscape. Die C64-Fassung hat keinen Ton und erhielt in Zzap!64 91 %. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nOriginal: Mike Singleton · C64-Umsetzung: Antony Taglione, Malcolm Hallon",
+    "en": "Luxor the Moonprince and his allies march against the Witchking Doomdark, who has cast an eternal winter over the land of Midnight. The game can be won in two ways: militarily, by the armies of the free peoples capturing Doomdark's citadel of Ushgarak, or as an adventure, by young Morkin destroying the Ice Crown. The world is shown through the characters' eyes using the \"landscaping\" technique, with thousands of views of mountains, forests and keeps. Its combination of strategy, adventure and narrative presentation made the game a milestone.\n\nMike Singleton wrote the original for the ZX Spectrum in 1984; Beyond released the C64 conversion in 1985, and Mindscape published it in the US. The C64 version has no sound and scored 91% in Zzap!64. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nOriginal: Mike Singleton · C64 conversion: Antony Taglione, Malcolm Hallon"
+  },
+  "images": {
+    "ss": "images/1e/1e1a731b3172e24274bf33e546ede50c8f6123bb.png",
+    "sstitle": "images/5a/5ae89ff94a01d858b2a21cf061e07ae6646c8047.png"
+  }
+}

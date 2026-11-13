@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e560012fcd74f92c50a62dbb5d1ef2dd2ae5d3f1",
+  "md5": "344a960a141cf49af8a386a0b3a7598f",
+  "crc32": "995c454d",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Into the Eagle's Nest.crt"
+  ],
+  "screenscraper_id": "36047",
+  "title": "Into the Eagle's Nest",
+  "year": "1987",
+  "publisher": "Pandora",
+  "developer": "Andrew Challis",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Im Zweiten Weltkrieg dringt ein alliierter Soldat allein in die Festung Adlerhorst ein. Auf acht Ebenen, von oben gezeigt, sucht er drei gefangene Kameraden, sammelt Schätze und Munition und zündet auf jeder Etage einen Sprengsatz, um die Festung zu zerstören. Munition ist knapp, Holztüren lassen sich aufschießen, Stahltüren brauchen Schlüssel, und für die Aufzüge sind Ausweiskarten nötig. Das Spiel verbindet das Labyrinth-Prinzip von Gauntlet mit taktischem Vorgehen und war in Großbritannien ein Erfolg für das kleine Label Pandora.\n\nErschienen auf Kassette und Diskette, in den USA bei Mindscape. Gesteuert wird mit dem Joystick in Port 2; die Leertaste hält das Spiel an. Neben den Originalen gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Andrew Challis",
+  "texts": {
+    "de": "Im Zweiten Weltkrieg dringt ein alliierter Soldat allein in die Festung Adlerhorst ein. Auf acht Ebenen, von oben gezeigt, sucht er drei gefangene Kameraden, sammelt Schätze und Munition und zündet auf jeder Etage einen Sprengsatz, um die Festung zu zerstören. Munition ist knapp, Holztüren lassen sich aufschießen, Stahltüren brauchen Schlüssel, und für die Aufzüge sind Ausweiskarten nötig. Das Spiel verbindet das Labyrinth-Prinzip von Gauntlet mit taktischem Vorgehen und war in Großbritannien ein Erfolg für das kleine Label Pandora.\n\nErschienen auf Kassette und Diskette, in den USA bei Mindscape. Gesteuert wird mit dem Joystick in Port 2; die Leertaste hält das Spiel an. Neben den Originalen gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Andrew Challis",
+    "en": "During the Second World War, an Allied soldier infiltrates the Eagle's Nest fortress on his own. Across eight levels shown from above, he searches for three captured comrades, collects treasure and ammunition, and sets off a detonator on each floor to destroy the fortress. Ammunition is scarce, wooden doors can be shot open, steel doors need keys and the lifts require pass cards. The game combines the maze idea of Gauntlet with a more tactical approach and was a success in Britain for the small Pandora label.\n\nReleased on tape and disk, and by Mindscape in the USA. It is controlled with a joystick in port 2; the space bar pauses the game. Besides the originals there is a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode: Andrew Challis"
+  },
+  "images": {
+    "ss": "images/4b/4bd84b78398c25777f9693404723f9dfc9a9acae.png",
+    "sstitle": "images/20/203ad0ddc26a10bec0bbe5245fc6da5757a5bbee.png"
+  }
+}

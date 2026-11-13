@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "e9bc45a371d8b8174da565c962d2e15f17db2a10",
+  "md5": "3c3266323e60908a72af07e606921b75",
+  "crc32": "5dcd0724",
+  "size": 164224,
+  "format": "CRT",
+  "files": [
+    "Hostages (by hellboy73).crt"
+  ],
+  "screenscraper_id": "36074",
+  "title": "Hostages",
+  "year": "1989",
+  "publisher": "Infogrames",
+  "developer": "Infogrames",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Terroristen haben eine Botschaft in Paris besetzt, und eine Spezialeinheit soll die Geiseln befreien. Zuerst bringt man in einem seitlich scrollenden Abschnitt Scharfschützen in Stellung, die den Suchscheinwerfern der Terroristen ausweichen müssen. Danach gibt man mit dem Zielfernrohr Deckung, während ein Sturmtrupp sich vom Dach abseilt und durch die Fenster eindringt. Im letzten Teil durchsucht der Trupp das Gebäude, schaltet die Terroristen aus und rettet möglichst viele Geiseln. Am Ende bewertet ein Zeitungsbericht Tempo, Treffsicherheit und Verluste.\n\nHostages erschien 1988 zuerst für 16-Bit-Rechner; die C64-Fassung brachte Infogrames 1989 auf Kassette und Diskette heraus, in den USA erschien sie bei Mindscape als „Hostage: Rescue Mission“. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es MultiLoad64-Umsetzungen als Modul von hellboy73.\n\nCode: Philippe Campion, Harold Ovsec · Musik: Charles Callet",
+  "texts": {
+    "de": "Terroristen haben eine Botschaft in Paris besetzt, und eine Spezialeinheit soll die Geiseln befreien. Zuerst bringt man in einem seitlich scrollenden Abschnitt Scharfschützen in Stellung, die den Suchscheinwerfern der Terroristen ausweichen müssen. Danach gibt man mit dem Zielfernrohr Deckung, während ein Sturmtrupp sich vom Dach abseilt und durch die Fenster eindringt. Im letzten Teil durchsucht der Trupp das Gebäude, schaltet die Terroristen aus und rettet möglichst viele Geiseln. Am Ende bewertet ein Zeitungsbericht Tempo, Treffsicherheit und Verluste.\n\nHostages erschien 1988 zuerst für 16-Bit-Rechner; die C64-Fassung brachte Infogrames 1989 auf Kassette und Diskette heraus, in den USA erschien sie bei Mindscape als „Hostage: Rescue Mission“. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es MultiLoad64-Umsetzungen als Modul von hellboy73.\n\nCode: Philippe Campion, Harold Ovsec · Musik: Charles Callet",
+    "en": "Terrorists have seized an embassy in Paris, and a special forces team must free the hostages. First, snipers are moved into position in a side-scrolling section, dodging the terrorists' searchlights. Next, the player provides cover through a rifle scope while an assault team rappels from the roof and breaks in through the windows. In the final part the team searches the building, takes out the terrorists and rescues as many hostages as possible. At the end a newspaper report rates speed, accuracy and casualties.\n\nHostages first came out in 1988 for 16-bit computers; Infogrames released the C64 version in 1989 on tape and disk, and in the USA it appeared from Mindscape as \"Hostage: Rescue Mission\". It is controlled with a joystick in port 2. Besides the original there are MultiLoad64 cartridge conversions by hellboy73.\n\nCode: Philippe Campion, Harold Ovsec · Music: Charles Callet"
+  },
+  "images": {
+    "ss": "images/fd/fd218cd16a53905603d6299408492656fa328736.png",
+    "sstitle": "images/d2/d2fbe4ea050eed4479336199d79ff2df1c3e7f9f.png"
+  }
+}

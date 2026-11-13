@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e43c2449fa69119a6b6cce20784f630bce5e0dc1",
+  "md5": "b1d29e850bac150fdc1a69611e474633",
+  "crc32": "66630ae3",
+  "size": 25331,
+  "format": "PRG",
+  "files": [
+    "Saga of Erik the Viking, The.prg"
+  ],
+  "screenscraper_id": "36712",
+  "title": "The Saga of Erik the Viking",
+  "year": "1984",
+  "publisher": "Mosaic Publishing",
+  "developer": "Level 9 Computing",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "The Saga of Erik the Viking beruht lose auf dem Kinderbuch von Terry Jones aus dem Jahr 1983. Der Wikinger Erik zieht aus, um seine Familie zu finden, die von den finsteren Dogfighters entführt wurde, und begegnet dabei Figuren und Gegenständen aus dem Buch. Die Handlung des Spiels weicht jedoch von der Vorlage ab. Level 9 brachte seinen bewährten Parser und ein umfangreiches Rätselnetz ein.\n\nAuf dem C64 erschien das Spiel 1984 bei Mosaic auf Kassette (auch Diskette) und zeigt zu den Orten Bilder; spätere Modulumsetzungen packen die Kassettenfassung in ein Modul. Eingegeben wird über die Tastatur.\n\nDesign und Code: Pete Austin · Adventure-System: Mike Austin",
+  "texts": {
+    "de": "The Saga of Erik the Viking beruht lose auf dem Kinderbuch von Terry Jones aus dem Jahr 1983. Der Wikinger Erik zieht aus, um seine Familie zu finden, die von den finsteren Dogfighters entführt wurde, und begegnet dabei Figuren und Gegenständen aus dem Buch. Die Handlung des Spiels weicht jedoch von der Vorlage ab. Level 9 brachte seinen bewährten Parser und ein umfangreiches Rätselnetz ein.\n\nAuf dem C64 erschien das Spiel 1984 bei Mosaic auf Kassette (auch Diskette) und zeigt zu den Orten Bilder; spätere Modulumsetzungen packen die Kassettenfassung in ein Modul. Eingegeben wird über die Tastatur.\n\nDesign und Code: Pete Austin · Adventure-System: Mike Austin",
+    "en": "The Saga of Erik the Viking is loosely based on Terry Jones's 1983 children's book. The Viking Erik sets out to find his family, who have been kidnapped by the sinister Dogfighters, and meets characters and objects from the book along the way. The game's plot, however, differs from the original. Level 9 contributed its proven parser and an extensive web of puzzles.\n\nOn the C64 the game was released in 1984 by Mosaic on tape (also disk) and shows pictures of the locations; later cartridge conversions pack the tape version into a cartridge. Input is via the keyboard.\n\nDesign and code: Pete Austin · Adventure system: Mike Austin"
+  },
+  "images": {
+    "ss": "images/e2/e2f049a2f6eee3cfed077f6318fc045f148a1018.png"
+  }
+}

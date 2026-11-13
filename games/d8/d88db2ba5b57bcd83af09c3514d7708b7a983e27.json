@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d88db2ba5b57bcd83af09c3514d7708b7a983e27",
+  "md5": "5a29051eac1d9bfa985f1df92895ff27",
+  "crc32": "d15bbcc9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DEFLEKTR.D64"
+  ],
+  "screenscraper_id": "36611",
+  "title": "Deflektor",
+  "year": "1987",
+  "publisher": "Gremlin Graphics",
+  "developer": "Vortex Software (Costa Panayi); C64: Jason H. Perkins",
+  "genres": [
+    "Puzzle",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Auf 60 Einzelbildschirmen muss ein Laserstrahl durch Drehen von Spiegeln so gelenkt werden, dass er alle Zellen zerstört und anschließend den Empfänger erreicht. Hindernisse wie Minen, Polarisatoren, Prismen und Wände erschweren den Weg, und kleine Gremlins verstellen bereits ausgerichtete Spiegel. Gleichzeitig sinkt die Energie des Lasers, und wird der Strahl zu lange zurückgeworfen, überhitzt er. Das Spiel verbindet Knobelei mit Zeitdruck und gilt als einer der eigenständigsten Titel von Costa Panayi.\n\nDas Spiel entstand bei Vortex Software und erschien 1987 bei Gremlin Graphics für mehrere Rechner; die C64-Fassung kam auf Kassette und Diskette. Gesteuert wird mit Joystick in Port 2 oder per Tastatur. Neben den Originalen gibt es Cracks und eine Umsetzung als OneLoad64-Modul.\n\nCode: Jason H. Perkins · Grafik: Steve Kerry · Musik: Ben Daglish",
+  "texts": {
+    "de": "Auf 60 Einzelbildschirmen muss ein Laserstrahl durch Drehen von Spiegeln so gelenkt werden, dass er alle Zellen zerstört und anschließend den Empfänger erreicht. Hindernisse wie Minen, Polarisatoren, Prismen und Wände erschweren den Weg, und kleine Gremlins verstellen bereits ausgerichtete Spiegel. Gleichzeitig sinkt die Energie des Lasers, und wird der Strahl zu lange zurückgeworfen, überhitzt er. Das Spiel verbindet Knobelei mit Zeitdruck und gilt als einer der eigenständigsten Titel von Costa Panayi.\n\nDas Spiel entstand bei Vortex Software und erschien 1987 bei Gremlin Graphics für mehrere Rechner; die C64-Fassung kam auf Kassette und Diskette. Gesteuert wird mit Joystick in Port 2 oder per Tastatur. Neben den Originalen gibt es Cracks und eine Umsetzung als OneLoad64-Modul.\n\nCode: Jason H. Perkins · Grafik: Steve Kerry · Musik: Ben Daglish",
+    "en": "Across 60 single screens, a laser beam must be guided by rotating mirrors so that it destroys every cell and then reaches the receiver. Obstacles such as mines, polarisers, prisms and walls block the way, and little gremlins knock mirrors that have already been set out of alignment. Meanwhile the laser's energy drains, and if the beam is reflected back for too long it overheats. The game combines puzzling with time pressure and is regarded as one of Costa Panayi's most original titles.\n\nThe game was created by Vortex Software and published by Gremlin Graphics in 1987 for several computers; the C64 version came on tape and disk. It is controlled with a joystick in port 2 or the keyboard. Besides the originals there are cracks and a OneLoad64 cartridge conversion.\n\nCode: Jason H. Perkins · Graphics: Steve Kerry · Music: Ben Daglish"
+  },
+  "images": {
+    "sstitle": "images/40/404d5ba35f58445c0d7608624a4d96ba93e05101.png"
+  }
+}

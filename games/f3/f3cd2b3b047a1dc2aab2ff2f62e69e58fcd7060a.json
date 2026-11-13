@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f3cd2b3b047a1dc2aab2ff2f62e69e58fcd7060a",
+  "md5": "bb83264f71229452db970aa2a2e49b90",
+  "crc32": "5567b336",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Knightlore v1.10 (Rod & Emu - 2018).crt"
+  ],
+  "screenscraper_id": "500111",
+  "title": "Knight Lore",
+  "year": "2018",
+  "publisher": "Rod & Emu",
+  "developer": "Rod & Emu (Original: Ultimate Play the Game)",
+  "genres": [
+    "Action / Abenteuer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Der Abenteurer Sabreman ist mit einem Werwolf-Fluch belegt und hat vierzig Tage Zeit, im Schloss des Zauberers Melkhior die Zutaten für ein Gegenmittel zu finden. Das Schloss wird in isometrischer 3D-Darstellung gezeigt; Gegenstände lassen sich verschieben und stapeln, um Hindernisse zu überwinden, und nachts verwandelt sich Sabreman in einen Werwolf, was manche Bewohner gefährlicher macht. Das Spiel von Ultimate Play the Game begründete 1984 auf dem ZX Spectrum mit seiner Filmation-Technik das Genre der isometrischen Abenteuer.\n\nUltimate brachte nie eine C64-Fassung heraus. 2018 veröffentlichten Rod & Emu eine inoffizielle Umsetzung, die den Z80-Code des Spectrum-Originals vollständig auf den 6502 überträgt und alle Funktionen des Originals enthält; die Grafik ist wie beim Vorbild einfarbig. Die Fassung 1.10 brachte unter anderem eine neue Startmelodie im Stil des Originals. Neben der Diskettenfassung gibt es Umsetzungen als OneLoad64- und EasyFlash-Modul.\n\nC64-Umsetzung: Rod & Emu · Musik (Fassung 1.10): Saul · Original: Tim und Chris Stamper (Ultimate Play the Game)",
+  "texts": {
+    "de": "Der Abenteurer Sabreman ist mit einem Werwolf-Fluch belegt und hat vierzig Tage Zeit, im Schloss des Zauberers Melkhior die Zutaten für ein Gegenmittel zu finden. Das Schloss wird in isometrischer 3D-Darstellung gezeigt; Gegenstände lassen sich verschieben und stapeln, um Hindernisse zu überwinden, und nachts verwandelt sich Sabreman in einen Werwolf, was manche Bewohner gefährlicher macht. Das Spiel von Ultimate Play the Game begründete 1984 auf dem ZX Spectrum mit seiner Filmation-Technik das Genre der isometrischen Abenteuer.\n\nUltimate brachte nie eine C64-Fassung heraus. 2018 veröffentlichten Rod & Emu eine inoffizielle Umsetzung, die den Z80-Code des Spectrum-Originals vollständig auf den 6502 überträgt und alle Funktionen des Originals enthält; die Grafik ist wie beim Vorbild einfarbig. Die Fassung 1.10 brachte unter anderem eine neue Startmelodie im Stil des Originals. Neben der Diskettenfassung gibt es Umsetzungen als OneLoad64- und EasyFlash-Modul.\n\nC64-Umsetzung: Rod & Emu · Musik (Fassung 1.10): Saul · Original: Tim und Chris Stamper (Ultimate Play the Game)",
+    "en": "The adventurer Sabreman has been struck by a werewolf curse and has forty days to find the ingredients for a cure in the castle of the wizard Melkhior. The castle is shown in isometric 3D; objects can be pushed and stacked to get past obstacles, and at night Sabreman turns into a werewolf, which makes some inhabitants more dangerous. Ultimate Play the Game's 1984 ZX Spectrum game founded the genre of isometric adventures with its Filmation technique.\n\nUltimate never released a C64 version. In 2018 Rod & Emu released an unofficial conversion that translates the Spectrum original's Z80 code completely to the 6502 and includes all features of the original; like its source, the graphics are monochrome. Version 1.10 added, among other things, a new start tune in the style of the original. Besides the disk version there are OneLoad64 and EasyFlash cartridge conversions.\n\nC64 conversion: Rod & Emu · Music (version 1.10): Saul · Original: Tim and Chris Stamper (Ultimate Play the Game)"
+  },
+  "images": {
+    "ss": "images/40/40102579e1e90590e79cd6c2b40d93436149849f.png"
+  }
+}

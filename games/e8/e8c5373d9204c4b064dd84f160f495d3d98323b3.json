@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e8c5373d9204c4b064dd84f160f495d3d98323b3",
+  "md5": "a6c07dc0f294423d63f5be1b610071ac",
+  "crc32": "9f04bad6",
+  "size": 42824,
+  "format": "PRG",
+  "files": [
+    "Zim Sala Bim.prg"
+  ],
+  "screenscraper_id": "108851",
+  "title": "Zim Sala Bim",
+  "year": "1984",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software (Russell Grahame)",
+  "genres": [
+    "Action / Abenteuer",
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Das Dorf Zim Sala Bim ist ausgeraubt worden, und als letzter wehrfähiger Mann soll der Spieler das gestohlene Gold aus dem Palast des Sultans zurückholen. Das Spiel verbindet ein seitlich scrollendes Grafikabenteuer mit einer Texteingabe: Die Spielfigur wird mit Joystick oder Cursortasten durch die orientalisch gestaltete Welt bewegt, Handlungen gibt man als Zwei-Wort-Befehle ein. Diese Mischung aus Bewegung und Parser war 1984 ungewöhnlich und hob den Titel von reinen Textabenteuern ab.\n\nErschien bei Melbourne House auf Kassette; entwickelt wurde es im Haus von Beam Software. Gesteuert wird mit Joystick in Port 2 oder über die Tastatur, Befehle werden getippt. Neben Original und Cracks gibt es eine OneLoad64-Modulumsetzung, die das Spiel ohne Laden vom Band startet.\n\nCode und Grafik: Russell Grahame · Musik: Neil Brennan",
+  "texts": {
+    "de": "Das Dorf Zim Sala Bim ist ausgeraubt worden, und als letzter wehrfähiger Mann soll der Spieler das gestohlene Gold aus dem Palast des Sultans zurückholen. Das Spiel verbindet ein seitlich scrollendes Grafikabenteuer mit einer Texteingabe: Die Spielfigur wird mit Joystick oder Cursortasten durch die orientalisch gestaltete Welt bewegt, Handlungen gibt man als Zwei-Wort-Befehle ein. Diese Mischung aus Bewegung und Parser war 1984 ungewöhnlich und hob den Titel von reinen Textabenteuern ab.\n\nErschien bei Melbourne House auf Kassette; entwickelt wurde es im Haus von Beam Software. Gesteuert wird mit Joystick in Port 2 oder über die Tastatur, Befehle werden getippt. Neben Original und Cracks gibt es eine OneLoad64-Modulumsetzung, die das Spiel ohne Laden vom Band startet.\n\nCode und Grafik: Russell Grahame · Musik: Neil Brennan",
+    "en": "The village of Zim Sala Bim has been robbed, and as the last able-bodied man the player must recover the stolen gold from the Sultan's palace. The game combines a side-scrolling graphic adventure with text input: the character is moved through the Arabian-style world with joystick or cursor keys, while actions are entered as two-word commands. This blend of movement and parser was unusual in 1984 and set the title apart from pure text adventures.\n\nReleased by Melbourne House on tape and developed in-house by Beam Software. It is controlled with a joystick in port 2 or the keyboard, with commands typed in. Besides the original and cracks, there is a OneLoad64 cartridge conversion that starts the game without tape loading.\n\nCode and graphics: Russell Grahame · Music: Neil Brennan"
+  },
+  "images": {
+    "ss": "images/fa/fa0e673f1d0b45287fe983127a0f12ab402e2c76.png"
+  }
+}

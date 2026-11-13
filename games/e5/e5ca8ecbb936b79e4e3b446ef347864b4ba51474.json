@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e5ca8ecbb936b79e4e3b446ef347864b4ba51474",
+  "md5": "831f441e32992fdaec30e96f81d44de5",
+  "crc32": "338fc49b",
+  "size": 38392,
+  "format": "T64",
+  "files": [
+    "NUCLEARE.T64"
+  ],
+  "screenscraper_id": "115715",
+  "title": "Nuclear Embargo",
+  "year": "1986",
+  "publisher": "Eurogold",
+  "developer": "Raysoft",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Strategiespiel von Ray Urian (Raysoft) aus dem Programm von Eurogold, das sich um das Thema Atomwaffen dreht. Der Spieler muss in einem Wettlauf gegen die Zeit eine atomare Bedrohung abwenden und dabei seine Mittel geschickt einsetzen. Erfolgreiche Runden werden in einer Highscore-Liste festgehalten.\n\nErschien bei Eurogold (Softgold/Micropool) auf Kassette und Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Ray Urian · Grafik: Ray Urian",
+  "texts": {
+    "de": "Strategiespiel von Ray Urian (Raysoft) aus dem Programm von Eurogold, das sich um das Thema Atomwaffen dreht. Der Spieler muss in einem Wettlauf gegen die Zeit eine atomare Bedrohung abwenden und dabei seine Mittel geschickt einsetzen. Erfolgreiche Runden werden in einer Highscore-Liste festgehalten.\n\nErschien bei Eurogold (Softgold/Micropool) auf Kassette und Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Ray Urian · Grafik: Ray Urian",
+    "en": "A strategy game by Ray Urian (Raysoft) from the Eurogold range, built around the theme of nuclear weapons. In a race against time, the player has to avert a nuclear threat while making clever use of the available resources. Successful games are recorded in a high score table.\n\nReleased by Eurogold (Softgold/Micropool) on cassette and disk; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2.\n\nCode: Ray Urian · Graphics: Ray Urian"
+  },
+  "images": {
+    "ss": "images/56/563dbb3daeaebf7cfd6fe9ebaf4b3ae1b18d2a4b.png",
+    "sstitle": "images/07/07840c4ef4a96e7a744c2b0e62db0dea1d904626.png"
+  }
+}

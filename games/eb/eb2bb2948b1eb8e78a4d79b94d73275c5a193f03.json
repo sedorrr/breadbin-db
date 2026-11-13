@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "eb2bb2948b1eb8e78a4d79b94d73275c5a193f03",
+  "md5": "e6e835d446b91f354284c58f5b8ed826",
+  "crc32": "1d8f043a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SNOWBALL.D64"
+  ],
+  "screenscraper_id": "36723",
+  "title": "Snowball",
+  "year": "1983",
+  "publisher": "Level 9 Computing",
+  "developer": "Level 9 Computing (Pete, Mike und Nick Austin)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Snowball eröffnet die Silicon-Dream-Trilogie von Level 9. An Bord des riesigen Kolonieschiffs Snowball 9, das tiefgefrorene Siedler zu einem neuen Planeten bringt, wird die Agentin Kim Kimberley geweckt, weil das Schiff auf eine Katastrophe zusteuert. Kim muss sich durch das Schiff kämpfen und den Absturz verhindern. Das Spiel warb mit über 7000 Orten, von denen allerdings die meisten fast gleich aussehen; bemerkenswert ist auch, dass Kims Geschlecht bewusst offen bleibt.\n\nDie ursprüngliche C64-Fassung ist ein reines Textadventure auf Kassette und Diskette mit Level 9s A-Code-System; Bilder kamen erst in der Neuauflage Silicon Dreams (1986) hinzu. Eingegeben wird über die Tastatur.\n\nCode: Pete, Mike und Nick Austin · Mitarbeit: Ian Buxton",
+  "texts": {
+    "de": "Snowball eröffnet die Silicon-Dream-Trilogie von Level 9. An Bord des riesigen Kolonieschiffs Snowball 9, das tiefgefrorene Siedler zu einem neuen Planeten bringt, wird die Agentin Kim Kimberley geweckt, weil das Schiff auf eine Katastrophe zusteuert. Kim muss sich durch das Schiff kämpfen und den Absturz verhindern. Das Spiel warb mit über 7000 Orten, von denen allerdings die meisten fast gleich aussehen; bemerkenswert ist auch, dass Kims Geschlecht bewusst offen bleibt.\n\nDie ursprüngliche C64-Fassung ist ein reines Textadventure auf Kassette und Diskette mit Level 9s A-Code-System; Bilder kamen erst in der Neuauflage Silicon Dreams (1986) hinzu. Eingegeben wird über die Tastatur.\n\nCode: Pete, Mike und Nick Austin · Mitarbeit: Ian Buxton",
+    "en": "Snowball opens Level 9's Silicon Dream trilogy. Aboard the huge colony ship Snowball 9, which carries frozen settlers to a new planet, agent Kim Kimberley is woken because the ship is heading for disaster. Kim has to fight through the ship and prevent the crash. The game boasted more than 7000 locations, although most of them look almost the same; also notable is that Kim's gender is deliberately left open.\n\nThe original C64 version is a pure text adventure on tape and disk using Level 9's A-code system; pictures were only added in the Silicon Dreams reissue (1986). Input is via the keyboard.\n\nCode: Pete, Mike and Nick Austin · Additional work: Ian Buxton"
+  },
+  "images": {
+    "ss": "images/a2/a2708285e4b9c8f77bf7ce69a8310641a70b6dbc.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "df186da020df6f85ecaa2ee5165dbc362084226d",
+  "md5": "603dedb5971f1f4d21880ab8ff315956",
+  "crc32": "8400bc98",
+  "size": 139600,
+  "format": "CRT",
+  "files": [
+    "Addams Family (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35944",
+  "title": "The Addams Family",
+  "year": "1992",
+  "publisher": "Ocean",
+  "developer": "Ocean; C64-Umsetzung: Twilight",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "The Addams Family ist ein Jump 'n' Run nach dem Kinofilm von 1991. Gomez Addams durchsucht das weitläufige Familienanwesen, um Morticia, Wednesday, Pugsley, Granny und Onkel Fester aus der Gewalt des Anwalts Tully Alford zu befreien. Gegner werden meist durch Draufspringen besiegt, gefundene Gegenstände wie Golfbälle lassen sich werfen, und Schlüssel öffnen verschlossene Türen. Lurch und das „Eiskalte Händchen“ helfen unterwegs. Das Spiel erschien auf vielen Systemen und war vor allem auf 16-Bit-Rechnern und Konsolen erfolgreich.\n\nDie C64-Fassung wurde von Twilight umgesetzt und erschien 1992 bei Ocean, später auch als Billigausgabe bei The Hit Squad. Anders als die 16-Bit-Fassungen schaltet sie von Bildschirm zu Bildschirm um, statt zu scrollen. Es gibt eine EasyFlash-Umsetzung von $olo1870 (MultiLoad64), die auch die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick.\n\nCode (C64): Finlay Munro (Twilight) · Musik: Dean Evans (nach dem Thema von Vic Mizzy)",
+  "texts": {
+    "de": "The Addams Family ist ein Jump 'n' Run nach dem Kinofilm von 1991. Gomez Addams durchsucht das weitläufige Familienanwesen, um Morticia, Wednesday, Pugsley, Granny und Onkel Fester aus der Gewalt des Anwalts Tully Alford zu befreien. Gegner werden meist durch Draufspringen besiegt, gefundene Gegenstände wie Golfbälle lassen sich werfen, und Schlüssel öffnen verschlossene Türen. Lurch und das „Eiskalte Händchen“ helfen unterwegs. Das Spiel erschien auf vielen Systemen und war vor allem auf 16-Bit-Rechnern und Konsolen erfolgreich.\n\nDie C64-Fassung wurde von Twilight umgesetzt und erschien 1992 bei Ocean, später auch als Billigausgabe bei The Hit Squad. Anders als die 16-Bit-Fassungen schaltet sie von Bildschirm zu Bildschirm um, statt zu scrollen. Es gibt eine EasyFlash-Umsetzung von $olo1870 (MultiLoad64), die auch die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick.\n\nCode (C64): Finlay Munro (Twilight) · Musik: Dean Evans (nach dem Thema von Vic Mizzy)",
+    "en": "The Addams Family is a platform game based on the 1991 film. Gomez Addams searches the sprawling family mansion to rescue Morticia, Wednesday, Pugsley, Granny and Uncle Fester from the clutches of the lawyer Tully Alford. Enemies are mostly defeated by jumping on them, items such as golf balls can be thrown, and keys open locked doors. Lurch and Thing lend a hand along the way. The game appeared on many systems and was most successful on 16-bit computers and consoles.\n\nThe C64 version was converted by Twilight and released in 1992 by Ocean, later also as a budget release by The Hit Squad. Unlike the 16-bit versions it flips from screen to screen instead of scrolling. There is an EasyFlash conversion by $olo1870 (MultiLoad64) that also loads the additional parts from the cartridge. It is controlled with a joystick.\n\nCode (C64): Finlay Munro (Twilight) · Music: Dean Evans (after Vic Mizzy's theme)"
+  }
+}

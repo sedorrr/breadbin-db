@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "d35e2668b70661f2fa2e9676d18d8b68ed5826c5",
+  "md5": "4098c0aafb5cbfaa09c9e5e8f77f7c13",
+  "crc32": "bdf910d7",
+  "size": 303760,
+  "format": "CRT",
+  "files": [
+    "Dragon Breed.crt"
+  ],
+  "screenscraper_id": "36332",
+  "title": "Dragon Breed",
+  "year": "1990",
+  "publisher": "Activision",
+  "developer": "Digital Design",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "König Kayus reitet auf einem Drachen durch seitlich scrollende Landschaften, um das Reich vom bösen Zambaquous zu befreien. Der lange, unverwundbare Drachenschwanz dient als Schild und kann um den Reiter herumgeschwungen werden. Je nach eingesammeltem Kristall speit der Drache Feuer, Blitze oder andere Geschosse. In manchen Abschnitten steigt Kayus ab und kämpft zu Fuß weiter.\n\nDragon Breed ist die Umsetzung eines Irem-Automaten von 1989. Die C64-Fassung von Digital Design erschien 1990 bei Activision auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Daneben gibt es mehrere EasyFlash-Umsetzungen als Modul, darunter eine MultiLoad64-Fassung von $olo1870.\n\nCode: Ashley Routledge, David Saunders · Grafik: Ashley Routledge · Musik: Martin Walker",
+  "texts": {
+    "de": "König Kayus reitet auf einem Drachen durch seitlich scrollende Landschaften, um das Reich vom bösen Zambaquous zu befreien. Der lange, unverwundbare Drachenschwanz dient als Schild und kann um den Reiter herumgeschwungen werden. Je nach eingesammeltem Kristall speit der Drache Feuer, Blitze oder andere Geschosse. In manchen Abschnitten steigt Kayus ab und kämpft zu Fuß weiter.\n\nDragon Breed ist die Umsetzung eines Irem-Automaten von 1989. Die C64-Fassung von Digital Design erschien 1990 bei Activision auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Daneben gibt es mehrere EasyFlash-Umsetzungen als Modul, darunter eine MultiLoad64-Fassung von $olo1870.\n\nCode: Ashley Routledge, David Saunders · Grafik: Ashley Routledge · Musik: Martin Walker",
+    "en": "King Kayus rides a dragon through side-scrolling landscapes to free the realm from the evil Zambaquous. The dragon's long, invulnerable tail acts as a shield and can be swung around the rider. Depending on the crystal collected, the dragon breathes fire, lightning or other projectiles. In some stages Kayus dismounts and fights on foot.\n\nDragon Breed is a conversion of a 1989 Irem arcade machine. The C64 version by Digital Design was released by Activision in 1990 on tape and disk. It is controlled with a joystick in port 2. There are also several EasyFlash cartridge conversions, including a MultiLoad64 version by $olo1870.\n\nCode: Ashley Routledge, David Saunders · Graphics: Ashley Routledge · Music: Martin Walker"
+  }
+}

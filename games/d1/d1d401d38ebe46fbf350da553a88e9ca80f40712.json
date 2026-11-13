@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d1d401d38ebe46fbf350da553a88e9ca80f40712",
+  "md5": "feb9b4c3915728f200aeec8d497c79fb",
+  "crc32": "08ea76e2",
+  "size": 287344,
+  "format": "CRT",
+  "files": [
+    "Championship Wrestling.crt",
+    "Championship Wrestling [EasyFlash].crt"
+  ],
+  "screenscraper_id": "111045",
+  "title": "Championship Wrestling",
+  "year": "1986",
+  "publisher": "Epyx",
+  "developer": "Free Radical Software (Richard und Elaine Ditton)",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Championship Wrestling ist ein Wrestlingspiel von Epyx mit acht erfundenen Kämpfern wie The Berserker, Purple Hays, Zeke Weasel oder Colonel Rooski. Im Ring kämpfen zwei Wrestler gegeneinander und setzen Griffe, Würfe und Sprungangriffe ein, die über Joystickbewegungen und den Feuerknopf ausgelöst werden; auch Aktionen an den Seilen gehören dazu. Gewonnen wird durch Schultersieg, nachdem man den Gegner ausreichend geschwächt hat. Das Spiel war eines der ersten Wrestlingspiele für Heimcomputer.\n\nDas Spiel erschien 1986 bei Epyx, in Europa bei U.S. Gold, auf Diskette; auch für Apple II und Atari ST. Es gibt EasyFlash-Umsetzungen der Diskettenfassung, die das Nachladen ersparen. Gesteuert wird mit dem Joystick; zwei Spieler treten gleichzeitig gegeneinander an.\n\nEntwicklung: Free Radical Software · Design und Code: Richard und Elaine Ditton · Grafik: Timothy Skelly, Lonnie D. Ropp · Musik: David Thiel",
+  "texts": {
+    "de": "Championship Wrestling ist ein Wrestlingspiel von Epyx mit acht erfundenen Kämpfern wie The Berserker, Purple Hays, Zeke Weasel oder Colonel Rooski. Im Ring kämpfen zwei Wrestler gegeneinander und setzen Griffe, Würfe und Sprungangriffe ein, die über Joystickbewegungen und den Feuerknopf ausgelöst werden; auch Aktionen an den Seilen gehören dazu. Gewonnen wird durch Schultersieg, nachdem man den Gegner ausreichend geschwächt hat. Das Spiel war eines der ersten Wrestlingspiele für Heimcomputer.\n\nDas Spiel erschien 1986 bei Epyx, in Europa bei U.S. Gold, auf Diskette; auch für Apple II und Atari ST. Es gibt EasyFlash-Umsetzungen der Diskettenfassung, die das Nachladen ersparen. Gesteuert wird mit dem Joystick; zwei Spieler treten gleichzeitig gegeneinander an.\n\nEntwicklung: Free Radical Software · Design und Code: Richard und Elaine Ditton · Grafik: Timothy Skelly, Lonnie D. Ropp · Musik: David Thiel",
+    "en": "Championship Wrestling is a wrestling game from Epyx with eight fictional wrestlers such as The Berserker, Purple Hays, Zeke Weasel and Colonel Rooski. Two wrestlers face each other in the ring, using holds, throws and flying attacks triggered by joystick movements and the fire button; moves off the ropes are part of it too. A match is won by pinfall once the opponent has been sufficiently worn down. It was one of the first wrestling games for home computers.\n\nThe game was released in 1986 by Epyx, in Europe by U.S. Gold, on disk; it also appeared for the Apple II and Atari ST. There are EasyFlash conversions of the disk version that do away with further loading. It is controlled with a joystick; two players compete against each other at the same time.\n\nDevelopment: Free Radical Software · Design and code: Richard and Elaine Ditton · Graphics: Timothy Skelly, Lonnie D. Ropp · Music: David Thiel"
+  },
+  "images": {
+    "sstitle": "images/05/051a91550b9ff5bf741b093848ae270c52c902f1.png"
+  }
+}
