@@ -1,6 +1,6 @@
 {
-  "version": "0.8.2",
+  "version": "0.9.0",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Server wählbar (Breadbin-Server oder eigener), macOS-App fest signiert",
-  "notes_en": "Choose your server (Breadbin server or your own), macOS app signed with a fixed certificate"
+  "notes_de": "Erste öffentliche Fassung: Quelltext und Gemeinschaftsdaten offen, über 1 000 Spiele mit Beschreibungen",
+  "notes_en": "First public release: source code and community data open, more than 1,000 games with descriptions"
 }
