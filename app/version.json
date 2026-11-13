@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Erste öffentliche Fassung: Quelltext und Gemeinschaftsdaten offen, über 1 000 Spiele mit Beschreibungen",
-  "notes_en": "First public release: source code and community data open, more than 1,000 games with descriptions"
+  "notes_de": "Handbuch aktualisiert (auch auf der Webseite), deutsche Texte korrigiert",
+  "notes_en": "Manual updated (now also on the website), German text fixes"
 }
