@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b8b59fb94af8e8f510f78c2d2ba73176e178055a",
+  "md5": "01097797d33353e3c570414e0c862c1e",
+  "crc32": "660ece3c",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "Times of Lore.crt"
+  ],
+  "screenscraper_id": "36309",
+  "title": "Times of Lore",
+  "year": "1988",
+  "publisher": "Origin Systems",
+  "developer": "Chris Roberts (Origin Systems)",
+  "genres": [
+    "Rollenspiele",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Times of Lore verbindet ein Action-Rollenspiel in der Art von Zelda mit Elementen der Ultima-Reihe. Nach einem Aufstand liegt das Reich Albareth im Chaos, und der Spieler wählt zwischen Ritter, Amazone und Barbar, um drei verschollene Gegenstände zu finden und den König zu befreien. Die große Spielwelt wird aus der Vogelperspektive erkundet, Kämpfe laufen in Echtzeit, Gespräche und Aufträge über ein Symbolmenü. Es war das erste große Spiel von Chris Roberts, dem späteren Schöpfer von Wing Commander.\n\nDas Spiel erschien auf Kassette und Diskette; es wurde so angelegt, dass es vollständig in den Speicher passt, damit eine Kassettenfassung für Europa möglich war. Gesteuert wird mit dem Joystick in Port 2, die Leertaste öffnet das Menü.\n\nDesign und Code: Chris Roberts · Musik: Martin Galway",
+  "texts": {
+    "de": "Times of Lore verbindet ein Action-Rollenspiel in der Art von Zelda mit Elementen der Ultima-Reihe. Nach einem Aufstand liegt das Reich Albareth im Chaos, und der Spieler wählt zwischen Ritter, Amazone und Barbar, um drei verschollene Gegenstände zu finden und den König zu befreien. Die große Spielwelt wird aus der Vogelperspektive erkundet, Kämpfe laufen in Echtzeit, Gespräche und Aufträge über ein Symbolmenü. Es war das erste große Spiel von Chris Roberts, dem späteren Schöpfer von Wing Commander.\n\nDas Spiel erschien auf Kassette und Diskette; es wurde so angelegt, dass es vollständig in den Speicher passt, damit eine Kassettenfassung für Europa möglich war. Gesteuert wird mit dem Joystick in Port 2, die Leertaste öffnet das Menü.\n\nDesign und Code: Chris Roberts · Musik: Martin Galway",
+    "en": "Times of Lore combines a Zelda-style action role-playing game with elements of the Ultima series. After an uprising the realm of Albareth is in chaos, and the player chooses a knight, an amazon or a barbarian to find three lost artefacts and free the king. The large world is explored from a top-down view, combat takes place in real time, and conversations and quests use an icon menu. It was the first major game by Chris Roberts, later the creator of Wing Commander.\n\nThe game was released on tape and disk; it was designed to fit entirely into memory so that a tape version for Europe was possible. It is controlled with a joystick in port 2, and the space bar opens the menu.\n\nDesign and code: Chris Roberts · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/3f/3fba4461cc8b8ec5e2f4f1519974c6feba737093.png"
+  }
+}

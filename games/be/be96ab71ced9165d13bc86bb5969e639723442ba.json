@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "be96ab71ced9165d13bc86bb5969e639723442ba",
+  "md5": "a212f75671344169d2c38dfd4e135305",
+  "crc32": "0891626a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "RETURNTE.D64"
+  ],
+  "screenscraper_id": "36702",
+  "title": "Return to Eden",
+  "year": "1984",
+  "publisher": "Level 9 Computing",
+  "developer": "Level 9 Computing (Nick Austin, Tim Noyce, Chris Queen)",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Return to Eden ist der zweite Teil der Silicon-Dream-Trilogie von Level 9 und setzt direkt nach Snowball an. Kim Kimberley hat das Raumschiff Snowball 9 gerettet, wird aber der Sabotage beschuldigt und flieht auf den Planeten Eden. Dort wuchern feindselige Pflanzen, und Kim muss sich bis zur Roboterstadt Enoch durchschlagen. Mit etwa 250 Orten ist das Spiel kleiner als der Vorgänger, war aber das erste Level-9-Abenteuer mit Bildern.\n\nAuf dem C64 erschien das Spiel 1984 auf Kassette und Diskette; die Grafiken werden zu den Ortsbeschreibungen eingeblendet, eingegeben wird über die Tastatur. 1987 wurde es überarbeitet in der Sammlung Silicon Dreams erneut veröffentlicht.\n\nDesign: Nick Austin, Tim Noyce, Chris Queen",
+  "texts": {
+    "de": "Return to Eden ist der zweite Teil der Silicon-Dream-Trilogie von Level 9 und setzt direkt nach Snowball an. Kim Kimberley hat das Raumschiff Snowball 9 gerettet, wird aber der Sabotage beschuldigt und flieht auf den Planeten Eden. Dort wuchern feindselige Pflanzen, und Kim muss sich bis zur Roboterstadt Enoch durchschlagen. Mit etwa 250 Orten ist das Spiel kleiner als der Vorgänger, war aber das erste Level-9-Abenteuer mit Bildern.\n\nAuf dem C64 erschien das Spiel 1984 auf Kassette und Diskette; die Grafiken werden zu den Ortsbeschreibungen eingeblendet, eingegeben wird über die Tastatur. 1987 wurde es überarbeitet in der Sammlung Silicon Dreams erneut veröffentlicht.\n\nDesign: Nick Austin, Tim Noyce, Chris Queen",
+    "en": "Return to Eden is the second part of Level 9's Silicon Dream trilogy and picks up right after Snowball. Kim Kimberley has saved the starship Snowball 9 but is accused of sabotage and flees to the planet Eden. Hostile plant life runs rampant there, and Kim has to fight through to the robot city of Enoch. With about 250 locations it is smaller than its predecessor, but it was the first Level 9 adventure with pictures.\n\nThe C64 version came out in 1984 on tape and disk; pictures accompany the location descriptions, and input is via the keyboard. In 1987 a revised version was reissued in the Silicon Dreams compilation.\n\nDesign: Nick Austin, Tim Noyce, Chris Queen"
+  },
+  "images": {
+    "ss": "images/2c/2cc4d50925c347ad9ccdbe2e4aa54f0f141714ec.png"
+  }
+}

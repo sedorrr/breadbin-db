@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "86be130c47953be594341587f92525b253043a55",
+  "md5": "22ae57c06d65bfdb81d04435d0a608f0",
+  "crc32": "798c7e01",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Mikie.crt"
+  ],
+  "screenscraper_id": "36651",
+  "title": "Mikie",
+  "year": "1986",
+  "publisher": "Imagine",
+  "developer": "Imagine (Tony Pomfret)",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Konami-Automaten: Der Schüler Mikie sammelt in Klassenzimmer, Umkleide, Kantine, Turnhalle und auf dem Schulhof Herzen ein, die zusammen eine Botschaft an seine Freundin ergeben. Lehrer, Hausmeister und andere Verfolger sind ihm auf den Fersen; mit einem Hüftstoß schubst Mikie Mitschüler von ihren Stühlen oder wehrt Verfolger ab und hebt mit dem Feuerknopf Gegenstände auf. Jeder Abschnitt ist ein einzelner Bildschirm mit eigener Titelmelodie. Die heitere Schulthematik und Martin Galways Musik machten das Spiel beliebt.\n\nErschienen auf Kassette und Diskette, später als Neuauflage bei The Hit Squad. Gesteuert wird per Joystick, wahlweise per Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Tony Pomfret · Grafik: Steven Wahid, Andrew Sleigh · Musik: Martin Galway",
+  "texts": {
+    "de": "Umsetzung des Konami-Automaten: Der Schüler Mikie sammelt in Klassenzimmer, Umkleide, Kantine, Turnhalle und auf dem Schulhof Herzen ein, die zusammen eine Botschaft an seine Freundin ergeben. Lehrer, Hausmeister und andere Verfolger sind ihm auf den Fersen; mit einem Hüftstoß schubst Mikie Mitschüler von ihren Stühlen oder wehrt Verfolger ab und hebt mit dem Feuerknopf Gegenstände auf. Jeder Abschnitt ist ein einzelner Bildschirm mit eigener Titelmelodie. Die heitere Schulthematik und Martin Galways Musik machten das Spiel beliebt.\n\nErschienen auf Kassette und Diskette, später als Neuauflage bei The Hit Squad. Gesteuert wird per Joystick, wahlweise per Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Tony Pomfret · Grafik: Steven Wahid, Andrew Sleigh · Musik: Martin Galway",
+    "en": "A conversion of the Konami arcade game: schoolboy Mikie collects hearts in the classroom, locker room, canteen, gym and schoolyard which together spell out a message to his girlfriend. Teachers, the caretaker and other pursuers are on his heels; with a hip check Mikie shoves classmates off their chairs or fends off pursuers, and the fire button also picks up objects. Each stage is a single screen with its own title tune. The light-hearted school theme and Martin Galway's music made the game popular.\n\nReleased on tape and disk, later re-released by The Hit Squad. It is controlled with a joystick, or alternatively the keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode: Tony Pomfret · Graphics: Steven Wahid, Andrew Sleigh · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/cb/cbc9e0e59f330b6d4a27f46e9e3a9111f1f29ffd.png",
+    "sstitle": "images/fc/fcc6d02e2c85d9c9a7f77009a699a1f1ca99cd89.png"
+  }
+}

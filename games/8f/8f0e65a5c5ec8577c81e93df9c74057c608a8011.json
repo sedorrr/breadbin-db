@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8f0e65a5c5ec8577c81e93df9c74057c608a8011",
+  "md5": "ca5bc7ca0863ce9228db28a5254e2d15",
+  "crc32": "4f68815e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "RAMPART.D64"
+  ],
+  "screenscraper_id": "36303",
+  "title": "Rampart",
+  "year": "1992",
+  "publisher": "Domark",
+  "developer": "The Kremlin",
+  "genres": [
+    "Strategie",
+    "Action"
+  ],
+  "players": "1-3",
+  "synopsis": "Rampart ist die Umsetzung des Atari-Automatenspiels von 1990 und mischt Burgenbau, Geschützkampf und Puzzle. In jeder Runde feuert man zunächst mit den eigenen Kanonen auf feindliche Schiffe bzw. gegnerische Burgen, danach muss man unter Zeitdruck die beschädigten Mauern mit tetrisartigen Bauteilen schließen. Nur Burgen, die vollständig von Mauern umschlossen sind, zählen und liefern neue Kanonen. Die Verbindung aus schneller Aktion und räumlichem Denken machte das Spiel zu einem frühen Vorläufer heutiger Tower-Defense-Spiele.\n\nDie C64-Fassung erschien 1992 bei Domark (Lizenz von Tengen) auf Diskette und Kassette. Sie erlaubt bis zu drei Spieler gleichzeitig; zwei spielen mit Joysticks, der dritte mit der Tastatur. Im Einzelspielermodus kämpft man gegen anlandende Schiffe.\n\nCode: Christopher West · Grafik: Tony West · Musik: Allister Brimble",
+  "texts": {
+    "de": "Rampart ist die Umsetzung des Atari-Automatenspiels von 1990 und mischt Burgenbau, Geschützkampf und Puzzle. In jeder Runde feuert man zunächst mit den eigenen Kanonen auf feindliche Schiffe bzw. gegnerische Burgen, danach muss man unter Zeitdruck die beschädigten Mauern mit tetrisartigen Bauteilen schließen. Nur Burgen, die vollständig von Mauern umschlossen sind, zählen und liefern neue Kanonen. Die Verbindung aus schneller Aktion und räumlichem Denken machte das Spiel zu einem frühen Vorläufer heutiger Tower-Defense-Spiele.\n\nDie C64-Fassung erschien 1992 bei Domark (Lizenz von Tengen) auf Diskette und Kassette. Sie erlaubt bis zu drei Spieler gleichzeitig; zwei spielen mit Joysticks, der dritte mit der Tastatur. Im Einzelspielermodus kämpft man gegen anlandende Schiffe.\n\nCode: Christopher West · Grafik: Tony West · Musik: Allister Brimble",
+    "en": "Rampart is the conversion of Atari's 1990 arcade game and mixes castle building, artillery combat and puzzle elements. In each round the player first fires the cannons at enemy ships or rival castles, then has to repair the damaged walls with Tetris-like pieces against the clock. Only castles that are fully enclosed by walls count and provide new cannons. The blend of fast action and spatial thinking made the game an early forerunner of today's tower defence games.\n\nThe C64 version was released in 1992 by Domark (under licence from Tengen) on disk and cassette. It allows up to three players at once; two use joysticks and the third the keyboard. In single-player mode the player fights against landing ships.\n\nCode: Christopher West · Graphics: Tony West · Music: Allister Brimble"
+  },
+  "images": {
+    "sstitle": "images/55/55bbbc183865d738665853ebd6a955415f60ccde.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c74c7340a9e6738acac4e4049d2a846839f687d9",
+  "md5": "7611adf6584de1bc428b667c74bbf157",
+  "crc32": "98e408af",
+  "size": 270928,
+  "format": "CRT",
+  "files": [
+    "Apollo 18 - Mission to the Moon.crt"
+  ],
+  "screenscraper_id": "109641",
+  "title": "Apollo 18: Mission to the Moon",
+  "year": "1987",
+  "publisher": "Accolade",
+  "developer": "Artech Digital Productions",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Apollo 18: Mission to the Moon simuliert eine fiktive weitere Mondmission des Apollo-Programms von Start bis Landung im Meer. Die Mission ist in Abschnitte gegliedert: Start der Saturn-Rakete, Abtrennen der Stufen, Andocken an die Mondfähre, Landung auf dem Mond, Arbeiten auf der Oberfläche, Rückstart und Wiedereintritt. Jeder Abschnitt verlangt eine eigene Geschicklichkeits- oder Reaktionsaufgabe mit dem Joystick. Das Spiel versucht, den Ablauf einer echten Apollo-Mission nachvollziehbar zu machen.\n\nDas Spiel erschien 1987 bei Accolade auf Diskette (zwei Seiten). Es gibt eine EasyFlash-Umsetzung (Disk2EasyFlash) mit schnellem Laden. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Philip Armstrong, Lise Mendoza · Grafik: Grant Campbell · Musik: Paul Butler",
+  "texts": {
+    "de": "Apollo 18: Mission to the Moon simuliert eine fiktive weitere Mondmission des Apollo-Programms von Start bis Landung im Meer. Die Mission ist in Abschnitte gegliedert: Start der Saturn-Rakete, Abtrennen der Stufen, Andocken an die Mondfähre, Landung auf dem Mond, Arbeiten auf der Oberfläche, Rückstart und Wiedereintritt. Jeder Abschnitt verlangt eine eigene Geschicklichkeits- oder Reaktionsaufgabe mit dem Joystick. Das Spiel versucht, den Ablauf einer echten Apollo-Mission nachvollziehbar zu machen.\n\nDas Spiel erschien 1987 bei Accolade auf Diskette (zwei Seiten). Es gibt eine EasyFlash-Umsetzung (Disk2EasyFlash) mit schnellem Laden. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Philip Armstrong, Lise Mendoza · Grafik: Grant Campbell · Musik: Paul Butler",
+    "en": "Apollo 18: Mission to the Moon simulates a fictional further moon mission of the Apollo programme from launch to splashdown. The mission is split into stages: launch of the Saturn rocket, stage separation, docking with the lunar module, landing on the moon, work on the surface, lift-off and re-entry. Each stage requires its own test of skill or reaction with the joystick. The game tries to make the sequence of a real Apollo mission understandable.\n\nThe game was released in 1987 by Accolade on disk (two sides). There is an EasyFlash conversion (Disk2EasyFlash) with fast loading. It is controlled with a joystick in port 2.\n\nCode: Philip Armstrong, Lise Mendoza · Graphics: Grant Campbell · Music: Paul Butler"
+  },
+  "images": {
+    "ss": "images/40/40169d37499a3ca9286ccb2c352a8a3239f81a35.png",
+    "sstitle": "images/52/52e07c0702d1a1ae222f8c4b5263d211ea64dea1.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "9cddbc27208f8e2998165037953fc4946cd2712e",
+  "md5": "6688da3d172109178e2a38db979feb4e",
+  "crc32": "aaf985ce",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "KATAKIS0.D64"
+  ],
+  "title": "Katakis",
+  "year": "1988",
+  "publisher": "Rainbow Arts",
+  "developer": "Manfred Trenz",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Katakis ist ein horizontal scrollendes Ballerspiel von Manfred Trenz und gilt als eines der technisch eindrucksvollsten seiner Art auf dem C64. Mit einem Raumgleiter kämpft sich der Spieler durch zwölf Level voller Gegnerwellen und großer Endgegner, unterstützt von einem Satelliten und aufrüstbaren Waffen. Die Ähnlichkeit zu R-Type war so groß, dass Activision rechtlich einschritt; Trenz programmierte daraufhin die offizielle C64-Fassung von R-Type. Katakis wurde später unter dem Namen Denaris neu herausgebracht.\n\nDas Spiel erschien auf Diskette und Kassette. Denaris ist bis auf Name, Titelbild, einige Sprites und Farben inhaltlich gleich. Allein wird mit dem Joystick in Port 2 gespielt; im Teamwork-Modus steuert ein zweiter Spieler in Port 1 den Satelliten. EasyFlash-Umsetzungen ersparen das Nachladen.\n\nCode: Manfred Trenz · Grafik: Manfred Trenz, Andreas Escher · Musik: Chris Hülsbeck",
+  "texts": {
+    "de": "Katakis ist ein horizontal scrollendes Ballerspiel von Manfred Trenz und gilt als eines der technisch eindrucksvollsten seiner Art auf dem C64. Mit einem Raumgleiter kämpft sich der Spieler durch zwölf Level voller Gegnerwellen und großer Endgegner, unterstützt von einem Satelliten und aufrüstbaren Waffen. Die Ähnlichkeit zu R-Type war so groß, dass Activision rechtlich einschritt; Trenz programmierte daraufhin die offizielle C64-Fassung von R-Type. Katakis wurde später unter dem Namen Denaris neu herausgebracht.\n\nDas Spiel erschien auf Diskette und Kassette. Denaris ist bis auf Name, Titelbild, einige Sprites und Farben inhaltlich gleich. Allein wird mit dem Joystick in Port 2 gespielt; im Teamwork-Modus steuert ein zweiter Spieler in Port 1 den Satelliten. EasyFlash-Umsetzungen ersparen das Nachladen.\n\nCode: Manfred Trenz · Grafik: Manfred Trenz, Andreas Escher · Musik: Chris Hülsbeck",
+    "en": "Katakis is a horizontally scrolling shooter by Manfred Trenz and is regarded as one of the most technically impressive of its kind on the C64. In a space glider the player fights through twelve levels full of enemy waves and huge bosses, supported by a satellite and upgradeable weapons. The resemblance to R-Type was so strong that Activision took legal action; Trenz then programmed the official C64 version of R-Type. Katakis was later re-released under the name Denaris.\n\nThe game was released on disk and tape. Apart from the name, title screen, some sprites and colours, Denaris is identical in content. A single player uses a joystick in port 2; in teamwork mode a second player in port 1 controls the satellite. EasyFlash conversions avoid the reloading.\n\nCode: Manfred Trenz · Graphics: Manfred Trenz, Andreas Escher · Music: Chris Hülsbeck"
+  },
+  "images": {
+    "ss": "images/34/3442d2835880cf66f47c9acfec76f9c0c5961f11.png",
+    "sstitle": "images/a3/a3e5fbf2728c00aace3473a9483cf4c8bc252c8e.png"
+  }
+}

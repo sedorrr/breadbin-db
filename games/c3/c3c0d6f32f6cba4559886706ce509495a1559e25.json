@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "c3c0d6f32f6cba4559886706ce509495a1559e25",
+  "md5": "d9996614c54ca42312d42a72060f336e",
+  "crc32": "e3141ba9",
+  "size": 32136,
+  "format": "PRG",
+  "files": [
+    "Scarabaeus.prg"
+  ],
+  "screenscraper_id": "110640",
+  "title": "Scarabaeus",
+  "year": "1985",
+  "publisher": "Ariolasoft",
+  "developer": "Andromeda Software",
+  "genres": [
+    "Action / Abenteuer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Ein Archäologe durchsucht ein Pharaonengrab nach dem Scarabaeus, einem wertvollen Smaragd. Die Gänge werden in einer pseudo-dreidimensionalen Ansicht aus der Ich-Perspektive dargestellt; unterwegs drohen Wächtergeister und eine ablaufende Fackel. Es gilt, Hieroglyphen zu sammeln, acht Medizinflaschen zu finden und zum Schluss ein Schiebepuzzle zu lösen. Die Verbindung von Erkundung, Logik und Zeitdruck sowie die für 1985 eindrucksvolle Darstellung machten das Spiel bekannt.\n\nScarabaeus erschien bei Ariolasoft auf Diskette und Kassette, in den USA unter dem Titel „Invaders of the Lost Tomb“. Später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick. Entwickelt wurde das Spiel von einem ungarischen Team.\n\nCode: Peter Barna, Istvan Cseri, Laszlo Mocsay, Csaba Nagy, András Pohl (Andromeda Software)",
+  "texts": {
+    "de": "Ein Archäologe durchsucht ein Pharaonengrab nach dem Scarabaeus, einem wertvollen Smaragd. Die Gänge werden in einer pseudo-dreidimensionalen Ansicht aus der Ich-Perspektive dargestellt; unterwegs drohen Wächtergeister und eine ablaufende Fackel. Es gilt, Hieroglyphen zu sammeln, acht Medizinflaschen zu finden und zum Schluss ein Schiebepuzzle zu lösen. Die Verbindung von Erkundung, Logik und Zeitdruck sowie die für 1985 eindrucksvolle Darstellung machten das Spiel bekannt.\n\nScarabaeus erschien bei Ariolasoft auf Diskette und Kassette, in den USA unter dem Titel „Invaders of the Lost Tomb“. Später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick. Entwickelt wurde das Spiel von einem ungarischen Team.\n\nCode: Peter Barna, Istvan Cseri, Laszlo Mocsay, Csaba Nagy, András Pohl (Andromeda Software)",
+    "en": "An archaeologist searches a pharaoh's tomb for the Scarabaeus, a precious emerald. The corridors are shown in a pseudo-3D first-person view, with guardian spirits and a burning-down torch as threats. Hieroglyphs have to be collected, eight medicine bottles found and a sliding puzzle solved at the end. The combination of exploration, logic and time pressure, along with presentation that was impressive for 1985, made the game well known.\n\nScarabaeus was released by Ariolasoft on disk and cassette, and in the USA under the title \"Invaders of the Lost Tomb\". Cartridge conversions from the scene appeared later. It is played with a joystick. The game was developed by a Hungarian team.\n\nCode: Peter Barna, Istvan Cseri, Laszlo Mocsay, Csaba Nagy, András Pohl (Andromeda Software)"
+  },
+  "images": {
+    "ss": "images/62/620be948fe10c684ae1333c02792785450d77613.png",
+    "sstitle": "images/ec/ecf31f0ff900221ba6ad88dfbf6520e4a32b6f33.png"
+  }
+}

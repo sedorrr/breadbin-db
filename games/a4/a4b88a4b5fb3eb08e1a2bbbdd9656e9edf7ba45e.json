@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "a4b88a4b5fb3eb08e1a2bbbdd9656e9edf7ba45e",
+  "md5": "fb83c2a7f0681e7037c49ae0f4b07987",
+  "crc32": "16f093ca",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SUSPENDD.D64"
+  ],
+  "screenscraper_id": "36738",
+  "title": "Suspended",
+  "year": "1983",
+  "publisher": "Infocom",
+  "developer": "Michael Berlyn (Infocom)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "In Suspended liegt der Spieler im Kälteschlaf tief unter der Oberfläche des Planeten Contra und überwacht die Rechenanlage, die das Klima und den Verkehr der Welt regelt. Als ein Erdbeben die Anlage beschädigt, kann er nur über sechs Roboter mit unterschiedlichen Sinnen handeln: einer sieht, einer hört, einer tastet, einer kennt sich mit Rechnern aus und so weiter. Jeder Roboter beschreibt die Umgebung auf seine eigene, begrenzte Weise, und erst aus ihren Berichten ergibt sich ein vollständiges Bild. Während die Lage an der Oberfläche eskaliert, muss der Schaden mit diesen Helfern rechtzeitig behoben werden. Das ungewöhnliche Konzept machte Suspended zu einem der eigenwilligsten Infocom-Titel.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; das Spiel läuft mit Infocoms eigenem Interpreter und war mit Beilagen („Feelies“) verpackt. Gespielt wird über die Tastatur.\n\nAutor: Michael Berlyn",
+  "texts": {
+    "de": "In Suspended liegt der Spieler im Kälteschlaf tief unter der Oberfläche des Planeten Contra und überwacht die Rechenanlage, die das Klima und den Verkehr der Welt regelt. Als ein Erdbeben die Anlage beschädigt, kann er nur über sechs Roboter mit unterschiedlichen Sinnen handeln: einer sieht, einer hört, einer tastet, einer kennt sich mit Rechnern aus und so weiter. Jeder Roboter beschreibt die Umgebung auf seine eigene, begrenzte Weise, und erst aus ihren Berichten ergibt sich ein vollständiges Bild. Während die Lage an der Oberfläche eskaliert, muss der Schaden mit diesen Helfern rechtzeitig behoben werden. Das ungewöhnliche Konzept machte Suspended zu einem der eigenwilligsten Infocom-Titel.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; das Spiel läuft mit Infocoms eigenem Interpreter und war mit Beilagen („Feelies“) verpackt. Gespielt wird über die Tastatur.\n\nAutor: Michael Berlyn",
+    "en": "In Suspended the player lies in cryogenic sleep deep below the surface of the planet Contra, overseeing the computer complex that controls the world's climate and transport. When an earthquake damages the complex, he can only act through six robots with different senses: one sees, one hears, one touches, one understands computers, and so on. Each robot describes its surroundings in its own limited way, and only their combined reports give a complete picture. As the situation on the surface escalates, the damage must be repaired in time with these helpers. The unusual concept made Suspended one of Infocom's most idiosyncratic titles.\n\nReleased as a pure text adventure by Infocom for numerous systems, including the C64 on disk; the game runs on Infocom's own interpreter and came packaged with extras (“feelies”). It is played with the keyboard.\n\nAuthor: Michael Berlyn"
+  }
+}

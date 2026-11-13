@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "b5c009a9fb4e958a331e9afb7e7af0e2830f5d0d",
+  "md5": "d2d37ff1b0f126a9d712d86b9cf3a676",
+  "crc32": "5df76c31",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WINTCAMP.D64"
+  ],
+  "screenscraper_id": "109793",
+  "title": "Winter Camp",
+  "year": "1992",
+  "publisher": "Thalamus",
+  "developer": "John D. Ferrari",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ranger Maximus Maus muss ein Wintercamp vor einer Lawine bewahren, indem er eine gefährliche Schneekugel beseitigt. Dazu bewältigt er acht ganz unterschiedliche Abschnitte, darunter ein Eislauf-Rennen, Rettungseinsätze, eine Flussfahrt, eine Eishöhle mit Melodie-Rätsel, eine Skiabfahrt und eine Kletterpartie. Die Abschnitte scrollen teils horizontal, teils vertikal. Die große Abwechslung und die freundliche Comicgrafik prägen eines der letzten Spiele von Thalamus für den C64.\n\nWinter Camp erschien 1992 bei Thalamus auf Diskette und Kassette; daneben gibt es eine EasyFlash-Umsetzung der Szene (MultiLoad64). Gesteuert wird mit dem Joystick.\n\nCode: John D. Ferrari · Grafik: John D. Ferrari, Andy Roberts (Ladebild, Logo) · Musik: Mark Clements",
+  "texts": {
+    "de": "Ranger Maximus Maus muss ein Wintercamp vor einer Lawine bewahren, indem er eine gefährliche Schneekugel beseitigt. Dazu bewältigt er acht ganz unterschiedliche Abschnitte, darunter ein Eislauf-Rennen, Rettungseinsätze, eine Flussfahrt, eine Eishöhle mit Melodie-Rätsel, eine Skiabfahrt und eine Kletterpartie. Die Abschnitte scrollen teils horizontal, teils vertikal. Die große Abwechslung und die freundliche Comicgrafik prägen eines der letzten Spiele von Thalamus für den C64.\n\nWinter Camp erschien 1992 bei Thalamus auf Diskette und Kassette; daneben gibt es eine EasyFlash-Umsetzung der Szene (MultiLoad64). Gesteuert wird mit dem Joystick.\n\nCode: John D. Ferrari · Grafik: John D. Ferrari, Andy Roberts (Ladebild, Logo) · Musik: Mark Clements",
+    "en": "Ranger Maximus Mouse has to save a winter camp from an avalanche by getting rid of a dangerous snowball. To do so he tackles eight very different stages, including an ice-skating race, rescue missions, a river ride, an ice cave with a melody puzzle, a ski run and a climbing section. Some stages scroll horizontally, others vertically. The great variety and friendly cartoon graphics define one of Thalamus's last C64 games.\n\nWinter Camp was released by Thalamus in 1992 on disk and cassette; an EasyFlash conversion from the scene (MultiLoad64) exists as well. It is played with a joystick.\n\nCode: John D. Ferrari · Graphics: John D. Ferrari, Andy Roberts (loading screen, logo) · Music: Mark Clements"
+  }
+}

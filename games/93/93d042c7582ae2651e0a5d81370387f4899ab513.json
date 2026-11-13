@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "93d042c7582ae2651e0a5d81370387f4899ab513",
+  "md5": "53c48df9d336b2b99b5f8a6c0b08ea45",
+  "crc32": "5bfada66",
+  "size": 33296,
+  "format": "PRG",
+  "files": [
+    "Parallax.prg"
+  ],
+  "screenscraper_id": "116049",
+  "title": "Parallax",
+  "year": "1986",
+  "publisher": "Ocean",
+  "developer": "Sensible Software",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Fünf Astronauten erkunden einen Planeten, der von einem Computer beherrscht wird; als dessen Plan einer Invasion der Erde auffliegt, werden vier von ihnen gefangen genommen. Der verbliebene Astronaut fliegt in einem seitlich scrollenden Raumschiff über die Planetenoberfläche und landet an Hangars, in denen er zu Fuß Wissenschaftler betäubt, Ausweiskarten sammelt und so Passwörter für die fünf Zonen erlangt. Das Passwort der letzten Zone schaltet den Invasionscomputer ab. Als erstes großes Spiel von Sensible Software zeigte Parallax schon deren Gespür für Spielmechanik; Martin Galways Titelmusik gilt als eine seiner besten.\n\nErschienen auf Kassette und Diskette, in Nordamerika bei Mindscape. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Chris Yates · Grafik: Jon Hare · Musik: Martin Galway",
+  "texts": {
+    "de": "Fünf Astronauten erkunden einen Planeten, der von einem Computer beherrscht wird; als dessen Plan einer Invasion der Erde auffliegt, werden vier von ihnen gefangen genommen. Der verbliebene Astronaut fliegt in einem seitlich scrollenden Raumschiff über die Planetenoberfläche und landet an Hangars, in denen er zu Fuß Wissenschaftler betäubt, Ausweiskarten sammelt und so Passwörter für die fünf Zonen erlangt. Das Passwort der letzten Zone schaltet den Invasionscomputer ab. Als erstes großes Spiel von Sensible Software zeigte Parallax schon deren Gespür für Spielmechanik; Martin Galways Titelmusik gilt als eine seiner besten.\n\nErschienen auf Kassette und Diskette, in Nordamerika bei Mindscape. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Chris Yates · Grafik: Jon Hare · Musik: Martin Galway",
+    "en": "Five astronauts are exploring a planet ruled by a computer; when its plan to invade Earth is uncovered, four of them are captured. The remaining astronaut flies a side-scrolling spaceship over the planet's surface and lands at hangars, where on foot he drugs scientists, collects pass cards and thus obtains the passwords for the five zones. The password of the last zone shuts down the invasion computer. As Sensible Software's first major game, Parallax already showed their flair for game mechanics; Martin Galway's title music is regarded as one of his best.\n\nReleased on tape and disk, in North America by Mindscape. It is controlled with a joystick in port 2. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode: Chris Yates · Graphics: Jon Hare · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/48/48e10737bbca2df6ed0c9a069c3a8d900b19f3d2.png",
+    "sstitle": "images/95/9513c825642681d1191da3dc077e4d519353e88f.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "acd8bfa72b1236e22df86ff46e1dfd1d3c7ef732",
+  "md5": "1d393469fa8ec0eeaa8f9cfe766ba15b",
+  "crc32": "d3c263e8",
+  "size": 246304,
+  "format": "CRT",
+  "files": [
+    "Dynamite Dux (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "111812",
+  "title": "Dynamite Düx",
+  "year": "1989",
+  "publisher": "Activision",
+  "developer": "Core Design",
+  "genres": [
+    "Beat'em Up",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Dynamite Düx ist die Umsetzung eines Sega-Automaten von 1988 im Comicstil. Eine Ente muss ihre Besitzerin Lucy aus den Fängen des Zauberers Achacha retten und prügelt sich dazu durch bunte Level voller schräger Gegner wie Hunde und Krokodile. Neben Fausthieben lassen sich Waffen wie Bomben, Flammenwerfer oder Wasserpistolen aufsammeln. Der Reiz liegt im überdrehten Humor und den großen, farbenfrohen Figuren.\n\nDie C64-Fassung erschien 1989 bei Activision auf Kassette und Diskette und wurde von Core Design umgesetzt; die Hauptfigur heißt dort Ben. Gesteuert wird mit dem Joystick. EasyFlash-Umsetzungen ersparen das Nachladen.\n\nEntwicklung: Core Design",
+  "texts": {
+    "de": "Dynamite Düx ist die Umsetzung eines Sega-Automaten von 1988 im Comicstil. Eine Ente muss ihre Besitzerin Lucy aus den Fängen des Zauberers Achacha retten und prügelt sich dazu durch bunte Level voller schräger Gegner wie Hunde und Krokodile. Neben Fausthieben lassen sich Waffen wie Bomben, Flammenwerfer oder Wasserpistolen aufsammeln. Der Reiz liegt im überdrehten Humor und den großen, farbenfrohen Figuren.\n\nDie C64-Fassung erschien 1989 bei Activision auf Kassette und Diskette und wurde von Core Design umgesetzt; die Hauptfigur heißt dort Ben. Gesteuert wird mit dem Joystick. EasyFlash-Umsetzungen ersparen das Nachladen.\n\nEntwicklung: Core Design",
+    "en": "Dynamite Düx is the conversion of a cartoon-style 1988 Sega arcade game. A duck has to rescue his owner Lucy from the wizard Achacha and brawls his way through colourful levels full of odd enemies such as dogs and crocodiles. Besides punches, weapons like bombs, flamethrowers or water pistols can be picked up. The appeal lies in the zany humour and the large, colourful characters.\n\nThe C64 version was released in 1989 by Activision on tape and disk and was converted by Core Design; the main character is called Ben there. It is controlled with a joystick. EasyFlash conversions avoid reloading.\n\nDevelopment: Core Design"
+  },
+  "images": {
+    "ss": "images/eb/ebe0445680a5fc1b5e07d65e1a052c0aea6196ce.png",
+    "sstitle": "images/2f/2f92f34073641353ae2ed759547eeafe71ba2345.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "9314e3ec561f1b1bebbd585a85d752a229bc3612",
+  "md5": "57f86919bc6d30a2d5d20ba3f6f6bf7a",
+  "crc32": "3811202c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "COLOSSAL.D64"
+  ],
+  "screenscraper_id": "111171",
+  "title": "Colossal Adventure",
+  "year": "1983",
+  "publisher": "Level 9 Computing",
+  "developer": "Level 9 Computing (Pete, Mike und Nick Austin)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Level 9 setzte mit Colossal Adventure das klassische Höhlenabenteuer von Will Crowther und Don Woods um, das erste Textadventure überhaupt. Der Spieler erkundet ein weitläufiges Höhlensystem, sammelt Schätze, löst Rätsel und muss sich gegen Zwerge und einen Piraten behaupten. Die Austin-Brüder übernahmen die bekannte Vorlage weitgehend und hängten am Ende rund 70 zusätzliche Orte an. Das Spiel war der Grundstein von Level 9 und eröffnete die Reihe, die später als Jewels of Darkness neu erschien.\n\nDie ursprüngliche C64-Fassung ist ein reines Textadventure ohne Bilder und erschien auf Kassette und Diskette; gesteuert wird über die Tastatur mit einem Zwei-Wort-Parser. Erst die überarbeitete Fassung in Jewels of Darkness (1986) brachte Illustrationen mit.\n\nCode: Pete, Mike und Nick Austin (nach Crowther und Woods)",
+  "texts": {
+    "de": "Level 9 setzte mit Colossal Adventure das klassische Höhlenabenteuer von Will Crowther und Don Woods um, das erste Textadventure überhaupt. Der Spieler erkundet ein weitläufiges Höhlensystem, sammelt Schätze, löst Rätsel und muss sich gegen Zwerge und einen Piraten behaupten. Die Austin-Brüder übernahmen die bekannte Vorlage weitgehend und hängten am Ende rund 70 zusätzliche Orte an. Das Spiel war der Grundstein von Level 9 und eröffnete die Reihe, die später als Jewels of Darkness neu erschien.\n\nDie ursprüngliche C64-Fassung ist ein reines Textadventure ohne Bilder und erschien auf Kassette und Diskette; gesteuert wird über die Tastatur mit einem Zwei-Wort-Parser. Erst die überarbeitete Fassung in Jewels of Darkness (1986) brachte Illustrationen mit.\n\nCode: Pete, Mike und Nick Austin (nach Crowther und Woods)",
+    "en": "Colossal Adventure is Level 9's version of the classic cave adventure by Will Crowther and Don Woods, the very first text adventure. The player explores a sprawling cave system, gathers treasure, solves puzzles and deals with dwarves and a pirate. The Austin brothers kept the familiar original largely intact and added about 70 extra locations at the end. The game laid the foundation for Level 9 and opened the series that was later reissued as Jewels of Darkness.\n\nThe original C64 version is a pure text adventure without pictures and was released on tape and disk; it is played from the keyboard with a two-word parser. Only the revised version in Jewels of Darkness (1986) added illustrations.\n\nCode: Pete, Mike and Nick Austin (after Crowther and Woods)"
+  },
+  "images": {
+    "ss": "images/04/045812b4017ab647f2e0fec8ce42e9937f4470bb.png"
+  }
+}

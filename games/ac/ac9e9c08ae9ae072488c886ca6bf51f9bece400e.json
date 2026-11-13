@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "ac9e9c08ae9ae072488c886ca6bf51f9bece400e",
+  "md5": "cf6668a4b79434e75da2aabcd9e00710",
+  "crc32": "d8ad286d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PHANT1A.D64"
+  ],
+  "screenscraper_id": "116121",
+  "title": "Phantasie",
+  "year": "1985",
+  "publisher": "SSI",
+  "developer": "Winston Douglas Wood",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Eine Gruppe von bis zu sechs Abenteurern zieht über die Insel Gelnor, um die Schwarzen Ritter und ihren Herrn, den Zauberer Nikademus, zu besiegen. Erkundet werden Wildnis und Verliese aus der Draufsicht; in den Städten steigen die Figuren mit gesammelter Erfahrung auf, kaufen Ausrüstung und lernen Zauber. Die Kämpfe laufen rundenweise in einem eigenen Fenster ab, wobei jede Figur pro Runde eine Taktik wählt. Phantasie war zugänglicher als viele Rollenspiele seiner Zeit und begründete eine dreiteilige Reihe.\n\nErschien 1985 bei SSI für den C64 und viele andere Systeme auf Diskette; es gibt englische und deutsche Fassungen sowie unterschiedliche Programmversionen. Gesteuert wird mit Tastatur oder Joystick.\n\nEntwurf und Text: Winston Douglas Wood",
+  "texts": {
+    "de": "Eine Gruppe von bis zu sechs Abenteurern zieht über die Insel Gelnor, um die Schwarzen Ritter und ihren Herrn, den Zauberer Nikademus, zu besiegen. Erkundet werden Wildnis und Verliese aus der Draufsicht; in den Städten steigen die Figuren mit gesammelter Erfahrung auf, kaufen Ausrüstung und lernen Zauber. Die Kämpfe laufen rundenweise in einem eigenen Fenster ab, wobei jede Figur pro Runde eine Taktik wählt. Phantasie war zugänglicher als viele Rollenspiele seiner Zeit und begründete eine dreiteilige Reihe.\n\nErschien 1985 bei SSI für den C64 und viele andere Systeme auf Diskette; es gibt englische und deutsche Fassungen sowie unterschiedliche Programmversionen. Gesteuert wird mit Tastatur oder Joystick.\n\nEntwurf und Text: Winston Douglas Wood",
+    "en": "A party of up to six adventurers travels across the Isle of Gelnor to defeat the Black Knights and their master, the sorcerer Nikademus. Wilderness and dungeons are explored in a top-down view; in towns the characters level up with experience gained, buy equipment and learn spells. Combat is turn-based in a separate window, with each character choosing a tactic every round. Phantasie was more accessible than many role-playing games of its day and started a three-part series.\n\nReleased by SSI in 1985 for the C64 and many other systems on disk; there are English and German versions as well as different program releases. It is controlled with keyboard or joystick.\n\nDesign and writing: Winston Douglas Wood"
+  },
+  "images": {
+    "sstitle": "images/2e/2eb6d511176e0b103d130f954e83e328c842ba59.png"
+  }
+}

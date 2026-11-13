@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "b0aaeaccd6515bb9857541a6e59aaad3edd7bf1d",
+  "md5": "7468bce251b78548b4277c4239d863b0",
+  "crc32": "1ef98bf3",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Frogger II - Threedeep! (J1).crt"
+  ],
+  "screenscraper_id": "112226",
+  "title": "Frogger II: ThreeeDeep!",
+  "year": "1984",
+  "publisher": "Parker Brothers",
+  "developer": "Parker Brothers",
+  "genres": [
+    "Arcade",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Frogger II: ThreeeDeep! setzt das Prinzip von Frogger fort, verteilt es aber auf drei übereinanderliegende Ebenen: den Grund eines Teichs, die Wasseroberfläche und den Himmel über den Wolken. Auf jeder Ebene muss der Frosch innerhalb der Zeit sichere Ziele erreichen und dabei Fischen, Alligatoren, Haien, Drachen und anderen Gefahren ausweichen; Schildkröten, Enten oder Vögel dienen als Mitfahrgelegenheit. Mit jeder Runde kommen weitere Hindernisse hinzu. Anders als beim Vorbild war es kein Automatenspiel, sondern eine eigene Entwicklung von Parker Brothers für Heimsysteme.\n\nAuf dem C64 erschien das Spiel 1984 als Steckmodul; außerdem gibt es eine Diskettenfassung. In dieser Sammlung liegen neben dem Originalmodul auch Modulumsetzungen aus der OneLoad64-Sammlung, Diskettenabbilder und eine PRG-Fassung. Gesteuert wird mit dem Joystick in Port 1 oder 2; zwei Spieler spielen abwechselnd.\n\nEntwicklung: Parker Brothers (keine Einzelnamen belegt)",
+  "texts": {
+    "de": "Frogger II: ThreeeDeep! setzt das Prinzip von Frogger fort, verteilt es aber auf drei übereinanderliegende Ebenen: den Grund eines Teichs, die Wasseroberfläche und den Himmel über den Wolken. Auf jeder Ebene muss der Frosch innerhalb der Zeit sichere Ziele erreichen und dabei Fischen, Alligatoren, Haien, Drachen und anderen Gefahren ausweichen; Schildkröten, Enten oder Vögel dienen als Mitfahrgelegenheit. Mit jeder Runde kommen weitere Hindernisse hinzu. Anders als beim Vorbild war es kein Automatenspiel, sondern eine eigene Entwicklung von Parker Brothers für Heimsysteme.\n\nAuf dem C64 erschien das Spiel 1984 als Steckmodul; außerdem gibt es eine Diskettenfassung. In dieser Sammlung liegen neben dem Originalmodul auch Modulumsetzungen aus der OneLoad64-Sammlung, Diskettenabbilder und eine PRG-Fassung. Gesteuert wird mit dem Joystick in Port 1 oder 2; zwei Spieler spielen abwechselnd.\n\nEntwicklung: Parker Brothers (keine Einzelnamen belegt)",
+    "en": "Frogger II: ThreeeDeep! continues the idea of Frogger but spreads it over three stacked levels: the bottom of a pond, the water surface and the sky above the clouds. On each level the frog has to reach safe spots within the time limit while avoiding fish, alligators, sharks, dragons and other hazards; turtles, ducks and birds can be ridden. Every round adds further obstacles. Unlike its predecessor it was not an arcade game but Parker Brothers' own design for home systems.\n\nOn the C64 the game was released in 1984 on cartridge, and a disk version also exists. Alongside the original cartridge, this collection contains cartridge conversions from the OneLoad64 collection, disk images and a PRG version. It is played with a joystick in port 1 or 2; two players take turns.\n\nDevelopment: Parker Brothers (no individual names confirmed)"
+  },
+  "images": {
+    "ss": "images/38/38c41f7a05bcfc6ce2520ee81a420360c6497f4b.png",
+    "sstitle": "images/77/77512135ea8fbf0341341079d86eae24eec1ac68.png"
+  }
+}

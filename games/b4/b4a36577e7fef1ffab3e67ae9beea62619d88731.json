@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "b4a36577e7fef1ffab3e67ae9beea62619d88731",
+  "md5": "f49a19210907963322b9e508b68d3cce",
+  "crc32": "eb57dcf8",
+  "size": 43047,
+  "format": "T64",
+  "files": [
+    "SHERLOCK.T64"
+  ],
+  "screenscraper_id": "110825",
+  "title": "Sherlock",
+  "year": "1985",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software (Philip Mitchell)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "In der Rolle von Sherlock Holmes klärt der Spieler einen Doppelmord in Leatherhead in der Grafschaft Surrey auf. Die Figuren, darunter Dr. Watson und Inspektor Lestrade, handeln unabhängig vom Spieler und folgen eigenen Tagesabläufen, und die Zeit läuft mit: Wer zu Beginn trödelt, verpasst den Zug zum Tatort. Befragt, untersucht und kombiniert wird über den Parser Inglish, der ganze Sätze versteht. Als Nachfolger von Melbourne Houses The Hobbit übertrug Sherlock dessen lebendige Spielwelt auf einen Kriminalfall.\n\nDas Spiel erschien zuerst 1984 für den ZX Spectrum; die C64-Fassung brachte Melbourne House 1985 auf Kassette und Diskette heraus. Gespielt wird über die Tastatur.\n\nCode: Philip Mitchell u. a. · Musik (C64): Neil Brennan",
+  "texts": {
+    "de": "In der Rolle von Sherlock Holmes klärt der Spieler einen Doppelmord in Leatherhead in der Grafschaft Surrey auf. Die Figuren, darunter Dr. Watson und Inspektor Lestrade, handeln unabhängig vom Spieler und folgen eigenen Tagesabläufen, und die Zeit läuft mit: Wer zu Beginn trödelt, verpasst den Zug zum Tatort. Befragt, untersucht und kombiniert wird über den Parser Inglish, der ganze Sätze versteht. Als Nachfolger von Melbourne Houses The Hobbit übertrug Sherlock dessen lebendige Spielwelt auf einen Kriminalfall.\n\nDas Spiel erschien zuerst 1984 für den ZX Spectrum; die C64-Fassung brachte Melbourne House 1985 auf Kassette und Diskette heraus. Gespielt wird über die Tastatur.\n\nCode: Philip Mitchell u. a. · Musik (C64): Neil Brennan",
+    "en": "As Sherlock Holmes, the player investigates a double murder in Leatherhead, Surrey. The characters, including Dr Watson and Inspector Lestrade, act independently of the player and follow their own daily routines, and time keeps running: dawdling at the start means missing the train to the crime scene. Questioning, examining and deducing are done through the Inglish parser, which understands full sentences. As a successor to Melbourne House's The Hobbit, Sherlock carried its lively game world over to a murder case.\n\nThe game first appeared in 1984 for the ZX Spectrum; Melbourne House released the C64 version in 1985 on tape and disk. It is played with the keyboard.\n\nCode: Philip Mitchell et al. · Music (C64): Neil Brennan"
+  },
+  "images": {
+    "ss": "images/3d/3d171dbb4b166069081b66da8460f6cf6057a85b.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "829f8953048d81acb19a4c3ad3010c7d80e76d39",
+  "md5": "13e58aa1df66237c9bca3d7c74ec3abb",
+  "crc32": "abc7b225",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "XENON2.D64"
+  ],
+  "screenscraper_id": "36124",
+  "title": "Xenon",
+  "year": "1989",
+  "publisher": "Melbourne House",
+  "developer": "The Bitmap Brothers (Original)",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Senkrecht scrollendes Ballerspiel nach der Amiga- und Atari-ST-Vorlage der Bitmap Brothers. Das Besondere ist das Fahrzeug, das sich auf Knopfdruck zwischen einem Bodenpanzer und einem Flugzeug verwandelt; je nach Gegnern ist mal die eine, mal die andere Form im Vorteil. Abgeschossene Gegner hinterlassen Extras, die die Bewaffnung verstärken, und am Ende jedes Abschnitts wartet ein großer Endgegner. Xenon war das erste Spiel der Bitmap Brothers und begründete ihren Ruf.\n\nDie C64-Umsetzung erschien bei Melbourne House auf Kassette und Diskette und wurde von einem eigenen Team erstellt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode (C64): Chris Caress · Musik (C64): Paul Tonge",
+  "texts": {
+    "de": "Senkrecht scrollendes Ballerspiel nach der Amiga- und Atari-ST-Vorlage der Bitmap Brothers. Das Besondere ist das Fahrzeug, das sich auf Knopfdruck zwischen einem Bodenpanzer und einem Flugzeug verwandelt; je nach Gegnern ist mal die eine, mal die andere Form im Vorteil. Abgeschossene Gegner hinterlassen Extras, die die Bewaffnung verstärken, und am Ende jedes Abschnitts wartet ein großer Endgegner. Xenon war das erste Spiel der Bitmap Brothers und begründete ihren Ruf.\n\nDie C64-Umsetzung erschien bei Melbourne House auf Kassette und Diskette und wurde von einem eigenen Team erstellt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode (C64): Chris Caress · Musik (C64): Paul Tonge",
+    "en": "A vertically scrolling shoot'em up based on the Bitmap Brothers' Amiga and Atari ST original. Its distinctive feature is the craft, which transforms at the push of a button between a ground tank and an aircraft; depending on the enemies, one form or the other has the upper hand. Destroyed enemies leave power-ups that strengthen the weapons, and a large boss waits at the end of each stage. Xenon was the Bitmap Brothers' first game and established their reputation.\n\nThe C64 conversion was released by Melbourne House on tape and disk and was produced by a separate team. It is controlled with a joystick in port 2.\n\nCode (C64): Chris Caress · Music (C64): Paul Tonge"
+  },
+  "images": {
+    "sstitle": "images/e1/e110ec71342c3d8727198e7f9821817886a0bac3.png"
+  }
+}

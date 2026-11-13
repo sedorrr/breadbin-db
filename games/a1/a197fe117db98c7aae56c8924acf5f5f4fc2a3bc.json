@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a197fe117db98c7aae56c8924acf5f5f4fc2a3bc",
+  "md5": "fa8fd04a63219eed00c09646e5ec76dc",
+  "crc32": "7e84c191",
+  "size": 539014,
+  "format": "TAP",
+  "files": [
+    "Questprobe 3 - The Human Torch and the Thing.tap"
+  ],
+  "screenscraper_id": "35986",
+  "title": "Questprobe featuring Human Torch and the Thing",
+  "year": "1985",
+  "publisher": "Adventure International",
+  "developer": "Scott Adams",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Das dritte und letzte Questprobe-Abenteuer stellt zwei Mitglieder der Fantastic Four in den Mittelpunkt. Der Spieler wechselt zwischen der Fackel und dem Ding, deren gegensätzliche Kräfte – Feuer und Flug auf der einen, rohe Stärke auf der anderen Seite – sich bei den Rätseln ergänzen müssen. Ursprünglich war eine lange Reihe mit zahlreichen Marvel-Helden geplant, doch nach diesem Teil wurde sie eingestellt. Das Spiel erschien teils auch als Fantastic Four, Teil 1.\n\nDie C64-Fassung zeigt farbige Bilder, die in der Kassettenfassung im Speicher liegen und sofort erscheinen. Erschienen ist das Spiel auf Kassette und Diskette; eingegeben wird über die Tastatur.\n\nDesign und Code: Scott Adams",
+  "texts": {
+    "de": "Das dritte und letzte Questprobe-Abenteuer stellt zwei Mitglieder der Fantastic Four in den Mittelpunkt. Der Spieler wechselt zwischen der Fackel und dem Ding, deren gegensätzliche Kräfte – Feuer und Flug auf der einen, rohe Stärke auf der anderen Seite – sich bei den Rätseln ergänzen müssen. Ursprünglich war eine lange Reihe mit zahlreichen Marvel-Helden geplant, doch nach diesem Teil wurde sie eingestellt. Das Spiel erschien teils auch als Fantastic Four, Teil 1.\n\nDie C64-Fassung zeigt farbige Bilder, die in der Kassettenfassung im Speicher liegen und sofort erscheinen. Erschienen ist das Spiel auf Kassette und Diskette; eingegeben wird über die Tastatur.\n\nDesign und Code: Scott Adams",
+    "en": "The third and final Questprobe adventure focuses on two members of the Fantastic Four. The player switches between the Human Torch and the Thing, whose opposite powers – fire and flight on one side, sheer strength on the other – have to complement each other in the puzzles. A long series featuring many Marvel heroes was originally planned, but it was discontinued after this game. It was also sold as Fantastic Four, Part 1.\n\nThe C64 version shows coloured pictures, which in the tape version are held in memory and appear instantly. The game was released on tape and disk; input is via the keyboard.\n\nDesign and code: Scott Adams"
+  },
+  "images": {
+    "sstitle": "images/ac/ac555dfcc34406d18469a405416a8dbba971521e.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8d705c048d41191d91a25a2e99119b3cdbccf17f",
+  "md5": "aabbcf5550f6c6c8b0a383733646045d",
+  "crc32": "55da7a39",
+  "size": 29914,
+  "format": "T64",
+  "files": [
+    "LEGENDOK.T64"
+  ],
+  "screenscraper_id": "114212",
+  "title": "The Legend of Kage",
+  "year": "1986",
+  "publisher": "Imagine",
+  "developer": "Canvas",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Taito-Automaten von 1985: Der Ninja Kage muss Prinzessin Kiri aus der Gewalt eines bösen Zauberers befreien. Er kämpft sich durch einen Wald, durch Geheimgänge und über die Mauern einer Burg, wobei er mit Schwert und Wurfsternen gegen Scharen feindlicher Ninjas und Mönche antritt. Kennzeichnend sind die enorm hohen Sprünge, mit denen Kage bis in die Baumkronen gelangt. Wird die Prinzessin befreit, beginnt das Spiel im Wechsel der Jahreszeiten von vorn.\n\nDie C64-Fassung entstand bei Canvas und erschien bei Imagine auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 1. Der Ladebildschirm stammt von Simon Butler, die Verpackung von Bob Wakelin.\n\nCode: Paul Clansey · Grafik: Martin Calvert, Simon Butler · Musik: Fred Gray",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten von 1985: Der Ninja Kage muss Prinzessin Kiri aus der Gewalt eines bösen Zauberers befreien. Er kämpft sich durch einen Wald, durch Geheimgänge und über die Mauern einer Burg, wobei er mit Schwert und Wurfsternen gegen Scharen feindlicher Ninjas und Mönche antritt. Kennzeichnend sind die enorm hohen Sprünge, mit denen Kage bis in die Baumkronen gelangt. Wird die Prinzessin befreit, beginnt das Spiel im Wechsel der Jahreszeiten von vorn.\n\nDie C64-Fassung entstand bei Canvas und erschien bei Imagine auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 1. Der Ladebildschirm stammt von Simon Butler, die Verpackung von Bob Wakelin.\n\nCode: Paul Clansey · Grafik: Martin Calvert, Simon Butler · Musik: Fred Gray",
+    "en": "A conversion of Taito's 1985 arcade game: the ninja Kage must rescue Princess Kiri from an evil sorcerer. He fights his way through a forest, through secret passages and over the walls of a castle, using his sword and throwing stars against hordes of enemy ninjas and monks. Its trademark is Kage's enormous jumps, which take him up into the treetops. Once the princess is freed, the game starts again as the seasons change.\n\nThe C64 version was developed by Canvas and released by Imagine on cassette; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 1. The loading screen is by Simon Butler and the box art by Bob Wakelin.\n\nCode: Paul Clansey · Graphics: Martin Calvert, Simon Butler · Music: Fred Gray"
+  },
+  "images": {
+    "ss": "images/83/83bd241001df9c1855dba22ed71ca4efeb74f416.png",
+    "sstitle": "images/dc/dcd5f808508fb3018be40d4a5e526db188c62084.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "b0a793ad816a4d7300dfdad7f710725ba4b62a29",
+  "md5": "029672f75e56fd406f1161acf3c001dd",
+  "crc32": "68329c1c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GUILDOT0.D64"
+  ],
+  "screenscraper_id": "36622",
+  "title": "The Guild of Thieves",
+  "year": "1987",
+  "publisher": "Rainbird",
+  "developer": "Magnetic Scrolls",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Auch das zweite Spiel von Magnetic Scrolls spielt in Kerovnia. Der Spieler möchte in die Diebesgilde aufgenommen werden und muss als Probe ein Schloss samt Ländereien ausrauben, während ein Gildenmitglied in einem Boot wartet. Punkte gibt es für jedes erbeutete Wertstück, das bei der Bank abgeliefert wird. Die Rätsel sind vielfältig und humorvoll, der Parser versteht komplexe Eingaben, und zu vielen Orten gibt es aufwendige Bilder. The Guild of Thieves gilt als eines der besten Spiele des Studios.\n\nErschien 1987 bei Rainbird für zahlreiche Systeme, darunter den C64 auf Diskette, mit Beilagen wie einer Gildenzeitschrift. Gespielt wird über die Tastatur.\n\nText: Rob Steggles · Grafik: Geoff Quilley, Tristan Humphries",
+  "texts": {
+    "de": "Auch das zweite Spiel von Magnetic Scrolls spielt in Kerovnia. Der Spieler möchte in die Diebesgilde aufgenommen werden und muss als Probe ein Schloss samt Ländereien ausrauben, während ein Gildenmitglied in einem Boot wartet. Punkte gibt es für jedes erbeutete Wertstück, das bei der Bank abgeliefert wird. Die Rätsel sind vielfältig und humorvoll, der Parser versteht komplexe Eingaben, und zu vielen Orten gibt es aufwendige Bilder. The Guild of Thieves gilt als eines der besten Spiele des Studios.\n\nErschien 1987 bei Rainbird für zahlreiche Systeme, darunter den C64 auf Diskette, mit Beilagen wie einer Gildenzeitschrift. Gespielt wird über die Tastatur.\n\nText: Rob Steggles · Grafik: Geoff Quilley, Tristan Humphries",
+    "en": "Magnetic Scrolls' second game is also set in Kerovnia. The player wants to join the Guild of Thieves and, as a test, must rob a castle and its grounds while a guild member waits in a boat. Points are scored for every valuable deposited at the bank. The puzzles are varied and humorous, the parser understands complex input, and many locations have elaborate pictures. The Guild of Thieves is regarded as one of the studio's best games.\n\nReleased by Rainbird in 1987 for numerous systems, including the C64 on disk, with extras such as a guild magazine. It is played with the keyboard.\n\nWriting: Rob Steggles · Graphics: Geoff Quilley, Tristan Humphries"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c5122b7ab46dd6ecc0a23f5acca7e8ba4a1a37ae",
+  "md5": "3fc6581717d4c53f0ed7d952e4d1a677",
+  "crc32": "1c794f85",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Spellbound.crt"
+  ],
+  "screenscraper_id": "36720",
+  "title": "Spellbound",
+  "year": "1986",
+  "publisher": "Mastertronic",
+  "developer": "David Jones, Richard Darling",
+  "genres": [
+    "Abenteuer / Grafik",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Im zweiten Teil der Reihe um den Magic Knight muss der Ritter den Zauberer Gimbal befreien, der sich mit einem missglückten Spruch selbst gefangen hat, bevor die Zeit abläuft. Dabei trifft er auf mehrere Figuren, die ebenfalls in das Schloss teleportiert wurden; sie wollen versorgt, beschäftigt und am Ende nach Hause gebracht werden. Befehle wie Nehmen, Geben, Untersuchen oder Zaubern werden über ein verschachteltes Menüsystem gewählt statt eingetippt. Die Verbindung von Jump 'n' Run und Adventure mit Rätseln, die Gegenstände und Figuren verknüpfen, machte das Spiel zu einem bekannten Budget-Klassiker.\n\nSpellbound erschien bei Mastertronic (Label M.A.D.) auf Kassette und Diskette, auch ohne Kenntnis des Vorgängers Finders Keepers spielbar; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur, Feuer bzw. Leertaste öffnet das Menü. Die Räume werden als Einzelbilder im Hires-Bitmap-Modus dargestellt. Bekannt ist auch die Musik von Rob Hubbard.\n\nCode: Richard Darling · Konzept: David Jones · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Im zweiten Teil der Reihe um den Magic Knight muss der Ritter den Zauberer Gimbal befreien, der sich mit einem missglückten Spruch selbst gefangen hat, bevor die Zeit abläuft. Dabei trifft er auf mehrere Figuren, die ebenfalls in das Schloss teleportiert wurden; sie wollen versorgt, beschäftigt und am Ende nach Hause gebracht werden. Befehle wie Nehmen, Geben, Untersuchen oder Zaubern werden über ein verschachteltes Menüsystem gewählt statt eingetippt. Die Verbindung von Jump 'n' Run und Adventure mit Rätseln, die Gegenstände und Figuren verknüpfen, machte das Spiel zu einem bekannten Budget-Klassiker.\n\nSpellbound erschien bei Mastertronic (Label M.A.D.) auf Kassette und Diskette, auch ohne Kenntnis des Vorgängers Finders Keepers spielbar; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur, Feuer bzw. Leertaste öffnet das Menü. Die Räume werden als Einzelbilder im Hires-Bitmap-Modus dargestellt. Bekannt ist auch die Musik von Rob Hubbard.\n\nCode: Richard Darling · Konzept: David Jones · Musik: Rob Hubbard",
+    "en": "In the second game of the Magic Knight series, the knight has to free the wizard Gimbal, who trapped himself with a botched spell, before time runs out. Along the way he meets several characters who have also been teleported into the castle; they need to be looked after, kept busy and eventually sent home. Commands such as take, give, examine or cast are chosen from nested menus instead of being typed. The blend of platform game and adventure, with puzzles that link objects and characters, made it a well-known budget classic.\n\nSpellbound was released by Mastertronic (on its M.A.D. label) on cassette and disk and can be played without knowing its predecessor Finders Keepers; cartridge conversions from the scene appeared later. It is played with a joystick in port 2 or the keyboard, with fire or space opening the menu. The rooms are shown as flick screens in hi-res bitmap mode. Rob Hubbard's music is also well known.\n\nCode: Richard Darling · Concept: David Jones · Music: Rob Hubbard"
+  },
+  "images": {
+    "sstitle": "images/68/6840b788d93582a2625ecc4826d8cc812367e25f.png"
+  }
+}

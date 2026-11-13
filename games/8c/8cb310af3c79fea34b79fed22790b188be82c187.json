@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "8cb310af3c79fea34b79fed22790b188be82c187",
+  "md5": "3468146d30f1a4b65bad2f0c4127f2ba",
+  "crc32": "ef6b63e4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DEJAVU1.D64"
+  ],
+  "screenscraper_id": "111534",
+  "title": "Déjà Vu: A Nightmare Comes True!!",
+  "year": "1987",
+  "publisher": "Mindscape",
+  "developer": "ICOM Simulations",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler erwacht in einer Toilettenkabine einer Bar im Chicago der 1940er Jahre und weiß nicht mehr, wer er ist. Bald zeigt sich, dass ihm ein Mord angehängt werden soll, und er muss seine Erinnerung und seine Unschuld Stück für Stück zurückgewinnen. Gesteuert wird ohne Texteingabe: Befehle wie Untersuchen, Öffnen oder Benutzen werden aus einer Liste gewählt und auf Gegenstände im Bild angewendet. Déjà Vu gehört zu den MacVenture-Spielen von ICOM, die mit ihrer fensterbasierten Bedienung das Zeigen-und-Klicken-Abenteuer vorwegnahmen.\n\nDas Original erschien 1985 für den Macintosh; die C64-Fassung brachte Mindscape auf zwei Diskettenseiten heraus. Bedient wird sie mit Joystick in Port 2 über einen Zeiger.\n\nCode: Fred Allen, Joe Gaucher",
+  "texts": {
+    "de": "Der Spieler erwacht in einer Toilettenkabine einer Bar im Chicago der 1940er Jahre und weiß nicht mehr, wer er ist. Bald zeigt sich, dass ihm ein Mord angehängt werden soll, und er muss seine Erinnerung und seine Unschuld Stück für Stück zurückgewinnen. Gesteuert wird ohne Texteingabe: Befehle wie Untersuchen, Öffnen oder Benutzen werden aus einer Liste gewählt und auf Gegenstände im Bild angewendet. Déjà Vu gehört zu den MacVenture-Spielen von ICOM, die mit ihrer fensterbasierten Bedienung das Zeigen-und-Klicken-Abenteuer vorwegnahmen.\n\nDas Original erschien 1985 für den Macintosh; die C64-Fassung brachte Mindscape auf zwei Diskettenseiten heraus. Bedient wird sie mit Joystick in Port 2 über einen Zeiger.\n\nCode: Fred Allen, Joe Gaucher",
+    "en": "The player wakes up in a toilet stall of a bar in 1940s Chicago with no idea who he is. It soon turns out that someone is trying to frame him for murder, and he has to win back his memory and prove his innocence piece by piece. There is no text input: commands such as examine, open or operate are picked from a list and applied to objects in the picture. Déjà Vu is one of ICOM's MacVenture games, whose window-based interface anticipated the point-and-click adventure.\n\nThe original appeared in 1985 for the Macintosh; Mindscape released the C64 version on two disk sides. It is operated with a joystick in port 2 via a pointer.\n\nCode: Fred Allen, Joe Gaucher"
+  },
+  "images": {
+    "sstitle": "images/f1/f1bece853e9d617eb9074860f23e902a434553a5.png"
+  }
+}

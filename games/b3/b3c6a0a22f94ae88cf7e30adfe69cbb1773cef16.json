@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "b3c6a0a22f94ae88cf7e30adfe69cbb1773cef16",
+  "md5": "3f824c48816eb49183eb3521fcfbd48a",
+  "crc32": "12e9bb8c",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Zoids.crt"
+  ],
+  "screenscraper_id": "36146",
+  "title": "Zoids: The Battle Begins",
+  "year": "1986",
+  "publisher": "Martech",
+  "developer": "The Electronic Pencil Company, Binary Vision",
+  "genres": [
+    "Action",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Das Spiel nach der gleichnamigen Spielzeugreihe schickt den Spieler auf den Planeten Zoidstar. Die Landefähre des Erdenmenschen wurde abgeschossen, und die roten Zoids unter ihrem Anführer Redhorn haben die acht Teile der Superwaffe Zoidzilla in ihren Städten versteckt. Mit einem blauen Kampf-Zoid zieht der Spieler über eine Karte, greift Städte und feindliche Maschinen an und sammelt die Bruchstücke wieder ein. Gesteuert wird über eine Instrumententafel mit Symbolen, Radar und Kartenausschnitt statt über eine klassische Actionansicht. Bekannt ist der Titel vor allem für seine Musik von Rob Hubbard.\n\nErschien bei Martech auf Kassette und Diskette, in den USA bei Electric Dreams. Gespielt wird mit Joystick in Port 2. Neben Original und Cracks gibt es eine OneLoad64-Modulumsetzung ohne Nachladen.\n\nCode und Grafik: Paul Norris, Benni Notarianni, Rupert Bowater · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Das Spiel nach der gleichnamigen Spielzeugreihe schickt den Spieler auf den Planeten Zoidstar. Die Landefähre des Erdenmenschen wurde abgeschossen, und die roten Zoids unter ihrem Anführer Redhorn haben die acht Teile der Superwaffe Zoidzilla in ihren Städten versteckt. Mit einem blauen Kampf-Zoid zieht der Spieler über eine Karte, greift Städte und feindliche Maschinen an und sammelt die Bruchstücke wieder ein. Gesteuert wird über eine Instrumententafel mit Symbolen, Radar und Kartenausschnitt statt über eine klassische Actionansicht. Bekannt ist der Titel vor allem für seine Musik von Rob Hubbard.\n\nErschien bei Martech auf Kassette und Diskette, in den USA bei Electric Dreams. Gespielt wird mit Joystick in Port 2. Neben Original und Cracks gibt es eine OneLoad64-Modulumsetzung ohne Nachladen.\n\nCode und Grafik: Paul Norris, Benni Notarianni, Rupert Bowater · Musik: Rob Hubbard",
+    "en": "Based on the toy line of the same name, the game sends the player to the planet Zoidstar. The Earthman's landing craft has been shot down, and the red Zoids under their leader Redhorn have hidden the eight parts of the super weapon Zoidzilla in their cities. Piloting a blue battle Zoid, the player crosses a map, attacks cities and enemy machines and recovers the fragments. Control works through an icon-based instrument panel with radar and map section rather than a conventional action view. The title is best remembered for Rob Hubbard's music.\n\nReleased by Martech on tape and disk, and in the USA by Electric Dreams. It is played with a joystick in port 2. Besides the original and cracks, there is a OneLoad64 cartridge conversion without loading breaks.\n\nCode and graphics: Paul Norris, Benni Notarianni, Rupert Bowater · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/37/37ba39f6d1171c26ea7801f12fd5fe2fa8d1e6fa.png",
+    "sstitle": "images/51/51e1597cc6a8b18c861d29ce0177364a6e18e498.png"
+  }
+}

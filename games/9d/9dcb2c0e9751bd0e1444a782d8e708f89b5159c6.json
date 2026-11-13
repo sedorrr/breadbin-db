@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "9dcb2c0e9751bd0e1444a782d8e708f89b5159c6",
+  "md5": "391ebd92e5219ba4cac9241d64f841d7",
+  "crc32": "38deb1c6",
+  "size": 36772,
+  "format": "T64",
+  "files": [
+    "URIDIUM2.T64"
+  ],
+  "screenscraper_id": "123458",
+  "title": "Uridium 2",
+  "year": "1986",
+  "developer": "Graftgold (Andrew Braybrook)",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Eine wenig bekannte C64-Fassung, die unter dem Namen „Uridium 2“ im Umlauf ist und auf Andrew Braybrooks Uridium beruht. Wie im Original fliegt der Manta-Jäger über riesige Raumschiffe, schießt Abfangjäger und Bodenanlagen ab und landet am Ende jedes Schiffs, um es in einer kurzen Bonusrunde zu vernichten. Zwei Spieler spielen abwechselnd. Eine offiziell veröffentlichte C64-Fortsetzung dieses Namens ist nicht belegt; das bekannte Uridium 2 erschien 1993 nur für den Amiga.\n\nUnveröffentlicht bzw. nur als Crack im Umlauf. Gesteuert wird mit dem Joystick in Port 2.\n\nCode und Grafik: Andrew Braybrook · Musik: Steve Turner",
+  "texts": {
+    "de": "Eine wenig bekannte C64-Fassung, die unter dem Namen „Uridium 2“ im Umlauf ist und auf Andrew Braybrooks Uridium beruht. Wie im Original fliegt der Manta-Jäger über riesige Raumschiffe, schießt Abfangjäger und Bodenanlagen ab und landet am Ende jedes Schiffs, um es in einer kurzen Bonusrunde zu vernichten. Zwei Spieler spielen abwechselnd. Eine offiziell veröffentlichte C64-Fortsetzung dieses Namens ist nicht belegt; das bekannte Uridium 2 erschien 1993 nur für den Amiga.\n\nUnveröffentlicht bzw. nur als Crack im Umlauf. Gesteuert wird mit dem Joystick in Port 2.\n\nCode und Grafik: Andrew Braybrook · Musik: Steve Turner",
+    "en": "A little-known C64 version circulating under the name 'Uridium 2' and based on Andrew Braybrook's Uridium. As in the original, the Manta fighter flies over huge dreadnoughts, shooting down interceptors and surface installations, and lands at the end of each ship to destroy it in a short bonus round. Two players take turns. An officially released C64 sequel of this name is not documented; the well-known Uridium 2 was released in 1993 for the Amiga only.\n\nUnreleased, or circulating only as a crack. It is controlled with a joystick in port 2.\n\nCode and graphics: Andrew Braybrook · Music: Steve Turner"
+  },
+  "images": {
+    "sstitle": "images/f3/f3c2ebba04f46f3a967327d8208f15bdee1efb6c.png"
+  }
+}

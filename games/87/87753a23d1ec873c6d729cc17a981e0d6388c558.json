@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "87753a23d1ec873c6d729cc17a981e0d6388c558",
+  "md5": "dbc72ce0aa6d49f9b38c630cc1ba5e3f",
+  "crc32": "6b8cfd5b",
+  "size": 9857,
+  "format": "T64",
+  "files": [
+    "MISSIMP1.T64"
+  ],
+  "screenscraper_id": "115264",
+  "title": "Mission Impossible",
+  "year": "1979",
+  "publisher": "Adventure International",
+  "developer": "Scott Adams",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "In einem Atomkraftwerk ist eine Bombe versteckt, die den Reaktor zerstören soll, und der Spieler muss sie finden und entschärfen. Wie alle frühen Abenteuer von Scott Adams ist es ein reines Textspiel, gesteuert mit Zwei-Wort-Befehlen aus Verb und Hauptwort. Einige knifflige Rätsel machen es zu einem der schwierigeren Spiele der Reihe.\n\nDas Spiel entstand 1979 als drittes Abenteuer von Scott Adams und erschien zuerst für den TRS-80. Commodore brachte die Scott-Adams-Abenteuer zu Beginn der 1980er-Jahre für seine Heimcomputer heraus; später wurde das Spiel wegen der gleichnamigen Fernsehserie in „Secret Mission“ umbenannt und mit Grafiken neu aufgelegt. Gesteuert wird über die Tastatur.\n\nAutor: Scott Adams",
+  "texts": {
+    "de": "In einem Atomkraftwerk ist eine Bombe versteckt, die den Reaktor zerstören soll, und der Spieler muss sie finden und entschärfen. Wie alle frühen Abenteuer von Scott Adams ist es ein reines Textspiel, gesteuert mit Zwei-Wort-Befehlen aus Verb und Hauptwort. Einige knifflige Rätsel machen es zu einem der schwierigeren Spiele der Reihe.\n\nDas Spiel entstand 1979 als drittes Abenteuer von Scott Adams und erschien zuerst für den TRS-80. Commodore brachte die Scott-Adams-Abenteuer zu Beginn der 1980er-Jahre für seine Heimcomputer heraus; später wurde das Spiel wegen der gleichnamigen Fernsehserie in „Secret Mission“ umbenannt und mit Grafiken neu aufgelegt. Gesteuert wird über die Tastatur.\n\nAutor: Scott Adams",
+    "en": "A bomb has been hidden in a nuclear power plant to destroy the reactor, and the player has to find and defuse it. Like all of Scott Adams' early adventures it is a pure text game, controlled with two-word verb-noun commands. A few tricky puzzles make it one of the harder games in the series.\n\nThe game was written in 1979 as Scott Adams' third adventure and first appeared on the TRS-80. Commodore published the Scott Adams adventures for its home computers in the early 1980s; later the game was renamed \"Secret Mission\" because of the TV series of the same name and reissued with graphics. It is controlled with the keyboard.\n\nAuthor: Scott Adams"
+  },
+  "images": {
+    "ss": "images/45/45f967e9318561c3fb46c54fa76da5ae442dc186.png"
+  }
+}

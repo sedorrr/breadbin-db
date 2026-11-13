@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "8801dd36703d737c1be77dee960a19a4969aba9e",
+  "md5": "71633753b28ce852cc76e3792635ae63",
+  "crc32": "680441ee",
+  "size": 35616,
+  "format": "T64",
+  "files": [
+    "EUROGAME.T64"
+  ],
+  "screenscraper_id": "111952",
+  "title": "European Games",
+  "year": "1986",
+  "publisher": "Tynesoft",
+  "developer": "Ian Davison",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-4",
+  "synopsis": "Ein Mehrkampf-Sportspiel, in dem bis zu vier Teilnehmer in mehreren Disziplinen gegeneinander antreten, darunter Kraft- und Leichtathletikwettbewerbe wie Gewichtheben, Weitsprung und Hammerwurf sowie Wassersport. Wie bei vielen Spielen dieser Art entscheiden schnelles Joystickrütteln und das richtige Timing des Feuerknopfs über die Leistung. Punkte und Medaillen werden über alle Disziplinen gezählt. Das Spiel gehört zur Welle der Mehrkampfspiele, die nach dem Erfolg von Epyx' Sportspielen Mitte der 1980er-Jahre erschienen.\n\nDie C64-Fassung erschien 1986 bei Tynesoft auf Kassette; Tynesoft brachte das Spiel für andere Rechner auch als „Commonwealth Games“ heraus. Gesteuert wird per Joystick in Port 2.\n\nCode: Ian Davison · Grafik: David Croft, Kevin Blake",
+  "texts": {
+    "de": "Ein Mehrkampf-Sportspiel, in dem bis zu vier Teilnehmer in mehreren Disziplinen gegeneinander antreten, darunter Kraft- und Leichtathletikwettbewerbe wie Gewichtheben, Weitsprung und Hammerwurf sowie Wassersport. Wie bei vielen Spielen dieser Art entscheiden schnelles Joystickrütteln und das richtige Timing des Feuerknopfs über die Leistung. Punkte und Medaillen werden über alle Disziplinen gezählt. Das Spiel gehört zur Welle der Mehrkampfspiele, die nach dem Erfolg von Epyx' Sportspielen Mitte der 1980er-Jahre erschienen.\n\nDie C64-Fassung erschien 1986 bei Tynesoft auf Kassette; Tynesoft brachte das Spiel für andere Rechner auch als „Commonwealth Games“ heraus. Gesteuert wird per Joystick in Port 2.\n\nCode: Ian Davison · Grafik: David Croft, Kevin Blake",
+    "en": "A multi-event sports game in which up to four participants compete in several disciplines, including strength and athletics events such as weightlifting, long jump and hammer throw as well as water sports. As in many games of this kind, rapid joystick waggling and well-timed presses of the fire button decide the outcome. Points and medals are tallied across all events. The game belongs to the wave of multi-event titles that followed the success of Epyx's sports games in the mid-1980s.\n\nThe C64 version was released by Tynesoft in 1986 on tape; Tynesoft also published the game for other computers as \"Commonwealth Games\". It is controlled with a joystick in port 2.\n\nCode: Ian Davison · Graphics: David Croft, Kevin Blake"
+  },
+  "images": {
+    "sstitle": "images/b5/b55ffa8e3d10a89fc74912dc579acf3319a8be99.png"
+  }
+}

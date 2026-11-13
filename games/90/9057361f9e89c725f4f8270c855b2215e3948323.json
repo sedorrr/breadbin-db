@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "9057361f9e89c725f4f8270c855b2215e3948323",
+  "md5": "192dde7e5930a77b4ad57209f2358130",
+  "crc32": "4f6e1583",
+  "size": 865016,
+  "format": "TAP",
+  "files": [
+    "Yogi Bear (Version 2a).tap"
+  ],
+  "screenscraper_id": "36529",
+  "title": "Yogi Bear",
+  "year": "1987",
+  "publisher": "Piranha",
+  "developer": "Dalali Software",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein Jäger hat Boo-Boo gefangen, um ihn an einen Zirkus zu verkaufen, und Yogi Bär muss seinen Freund im Jellystone-Park finden, bevor die Zeit abläuft. In seitlich scrollenden Abschnitten springt und duckt sich Yogi an Schlangen, Fröschen, Jägern und Ranger Smith vorbei, Geysire und Flüsse sind zu überwinden. Die sinkende Energie füllt er mit Leckereien aus unbewachten Picknickkörben auf, Höhleneingänge bringen ihn an zufällige Stellen im Park. Zum Schluss muss er Trittsteine in der richtigen Reihenfolge überqueren, die von Boo-Boo hinterlassene Liebesäpfel verraten.\n\nPiranha veröffentlichte das Spiel 1987 auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Gelobt wurden vor allem die Grafik und die Figuren.\n\nEntwicklung: Dalali Software",
+  "texts": {
+    "de": "Ein Jäger hat Boo-Boo gefangen, um ihn an einen Zirkus zu verkaufen, und Yogi Bär muss seinen Freund im Jellystone-Park finden, bevor die Zeit abläuft. In seitlich scrollenden Abschnitten springt und duckt sich Yogi an Schlangen, Fröschen, Jägern und Ranger Smith vorbei, Geysire und Flüsse sind zu überwinden. Die sinkende Energie füllt er mit Leckereien aus unbewachten Picknickkörben auf, Höhleneingänge bringen ihn an zufällige Stellen im Park. Zum Schluss muss er Trittsteine in der richtigen Reihenfolge überqueren, die von Boo-Boo hinterlassene Liebesäpfel verraten.\n\nPiranha veröffentlichte das Spiel 1987 auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2. Gelobt wurden vor allem die Grafik und die Figuren.\n\nEntwicklung: Dalali Software",
+    "en": "A hunter has captured Boo-Boo to sell him to a circus, and Yogi Bear has to find his friend in Jellystone Park before time runs out. In side-scrolling stages Yogi jumps and ducks past snakes, frogs, hunters and Ranger Smith, and has to get across geysers and rivers. He tops up his draining energy with treats from unattended picnic baskets, and cave entrances take him to random places in the park. At the end he has to cross stepping stones in the right order, which is revealed by toffee apples left behind by Boo-Boo.\n\nPiranha released the game in 1987 on cassette and disk; cartridge conversions from the scene appeared later. It is played with a joystick in port 2. The graphics and characters in particular were praised.\n\nDevelopment: Dalali Software"
+  },
+  "images": {
+    "ss": "images/ff/ff1762638a7f600ff62abf2d02d45582ab2300bf.png",
+    "sstitle": "images/e5/e541969ac450ff4569d83b105daa658a68134a9d.png"
+  }
+}

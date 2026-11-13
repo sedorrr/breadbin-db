@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8331f39e8264ca1ef36ba433814add4016ef34d6",
+  "md5": "84215d2206e4cc6210c92cf7d3054cf4",
+  "crc32": "c64fa941",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MINDFGHT.D64"
+  ],
+  "screenscraper_id": "36598",
+  "title": "Mindfighter",
+  "year": "1988",
+  "publisher": "Activision",
+  "developer": "Abstract Concepts (Anna Popkess, Fergus McNeill)",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Mindfighter ist ein düsteres Abenteuer um einen Jungen mit übersinnlichen Kräften, der in eine Zukunft nach einem Atomkrieg versetzt wird. In der zerstörten Stadt Southampton muss er überleben und herausfinden, wie sich die Katastrophe abwenden lässt. Dem Spiel liegt ein eigener Roman von Anna Popkess bei, der die Vorgeschichte erzählt und Hinweise gibt. Mit seinem ernsten Thema hob es sich von den meist humorvollen Adventures jener Jahre ab.\n\nDie C64-Fassung erschien auf Kassette und Diskette und zeigt zu vielen Orten Bilder. Der Parser stammt aus einem neuen System von Tim Gilberts und seinem Team; eingegeben wird über die Tastatur.\n\nDesign und Roman: Anna Popkess · Code: Fergus McNeill",
+  "texts": {
+    "de": "Mindfighter ist ein düsteres Abenteuer um einen Jungen mit übersinnlichen Kräften, der in eine Zukunft nach einem Atomkrieg versetzt wird. In der zerstörten Stadt Southampton muss er überleben und herausfinden, wie sich die Katastrophe abwenden lässt. Dem Spiel liegt ein eigener Roman von Anna Popkess bei, der die Vorgeschichte erzählt und Hinweise gibt. Mit seinem ernsten Thema hob es sich von den meist humorvollen Adventures jener Jahre ab.\n\nDie C64-Fassung erschien auf Kassette und Diskette und zeigt zu vielen Orten Bilder. Der Parser stammt aus einem neuen System von Tim Gilberts und seinem Team; eingegeben wird über die Tastatur.\n\nDesign und Roman: Anna Popkess · Code: Fergus McNeill",
+    "en": "Mindfighter is a bleak adventure about a boy with psychic powers who is transported into a future after a nuclear war. In the ruined city of Southampton he has to survive and find out how the disaster can be prevented. The game comes with a novel by Anna Popkess that tells the background story and contains hints. With its serious subject it stood apart from the mostly humorous adventures of those years.\n\nThe C64 version was released on tape and disk and shows pictures for many locations. The parser comes from a new system by Tim Gilberts and his team; input is via the keyboard.\n\nDesign and novel: Anna Popkess · Code: Fergus McNeill"
+  },
+  "images": {
+    "ss": "images/0b/0b74fc884dfb19df6875498dcfbd349c58c205bd.png",
+    "sstitle": "images/d7/d741502e09c291d20c3f30fd6db74453c6690694.png"
+  }
+}

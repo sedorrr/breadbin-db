@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c376403e23f175acfab9f77407c6c6d88a4378bb",
+  "md5": "5e09c472264451a30b1addc1b1b5f77d",
+  "crc32": "9cb7045a",
+  "size": 21185,
+  "format": "T64",
+  "files": [
+    "ENCOUNT1.T64"
+  ],
+  "screenscraper_id": "111876",
+  "title": "Encounter",
+  "year": "1984",
+  "publisher": "Novagen",
+  "developer": "Paul Woakes",
+  "genres": [
+    "Shooter",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Auf einer mit Säulen übersäten Ebene jagt der Spieler in Ich-Perspektive Ufos und Lenkraketen, die er mit Hilfe eines Radars aufspürt. Die Säulen versperren den Weg und lenken Schüsse ab. Sind alle Gegner eines Levels erledigt, öffnet sich ein Sternentor; beim folgenden Flug durch einen Raketenschwarm kostet jeder Zusammenstoß einen Schild. Das an Ataris Battlezone erinnernde Spiel beeindruckte mit sehr schneller, flüssiger Pseudo-3D-Grafik und war Paul Woakes' erstes Spiel, noch vor Mercenary.\n\nEncounter erschien zuerst für die Atari-8-Bit-Rechner; die C64-Fassung schrieb ebenfalls Paul Woakes. In Europa veröffentlichte Novagen das Spiel, in den USA Synapse Software. Die Kassettenfassung gehörte zu den ersten Spielen mit dem Schnelllader Novaload. Gesteuert wird mit dem Joystick in Port 2; Musik gibt es keine, nur Toneffekte. Neben Original und Cracks gibt es Umsetzungen als OneLoad64- und EasyFlash-Modul.\n\nCode: Paul Woakes · Grafik: Paul Woakes",
+  "texts": {
+    "de": "Auf einer mit Säulen übersäten Ebene jagt der Spieler in Ich-Perspektive Ufos und Lenkraketen, die er mit Hilfe eines Radars aufspürt. Die Säulen versperren den Weg und lenken Schüsse ab. Sind alle Gegner eines Levels erledigt, öffnet sich ein Sternentor; beim folgenden Flug durch einen Raketenschwarm kostet jeder Zusammenstoß einen Schild. Das an Ataris Battlezone erinnernde Spiel beeindruckte mit sehr schneller, flüssiger Pseudo-3D-Grafik und war Paul Woakes' erstes Spiel, noch vor Mercenary.\n\nEncounter erschien zuerst für die Atari-8-Bit-Rechner; die C64-Fassung schrieb ebenfalls Paul Woakes. In Europa veröffentlichte Novagen das Spiel, in den USA Synapse Software. Die Kassettenfassung gehörte zu den ersten Spielen mit dem Schnelllader Novaload. Gesteuert wird mit dem Joystick in Port 2; Musik gibt es keine, nur Toneffekte. Neben Original und Cracks gibt es Umsetzungen als OneLoad64- und EasyFlash-Modul.\n\nCode: Paul Woakes · Grafik: Paul Woakes",
+    "en": "On a plain covered in pillars, the player hunts UFOs and homing missiles from a first-person view, locating them with a radar. The pillars block the way and deflect shots. Once all enemies of a level are destroyed, a stargate opens; during the following flight through a swarm of missiles every collision costs a shield. Reminiscent of Atari's Battlezone, the game impressed with very fast, smooth pseudo-3D graphics and was Paul Woakes' first game, before Mercenary.\n\nEncounter first appeared on Atari 8-bit computers; the C64 version was also written by Paul Woakes. Novagen published the game in Europe and Synapse Software in the US. The tape version was one of the first games to use the Novaload fast loader. It is played with a joystick in port 2; there is no music, only sound effects. Besides the original and cracked versions there are OneLoad64 and EasyFlash cartridge conversions.\n\nCode: Paul Woakes · Graphics: Paul Woakes"
+  },
+  "images": {
+    "sstitle": "images/b5/b557585dee4db47f227746fd9812fdacee011fba.png"
+  }
+}

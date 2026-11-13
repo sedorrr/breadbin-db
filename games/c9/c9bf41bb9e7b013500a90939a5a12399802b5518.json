@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c9bf41bb9e7b013500a90939a5a12399802b5518",
+  "md5": "77337409bfe18463c30c80851bfe42f8",
+  "crc32": "6d8d4f98",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Gemini Wing.crt"
+  ],
+  "screenscraper_id": "36338",
+  "title": "Gemini Wing",
+  "year": "1989",
+  "publisher": "Virgin Mastertronic",
+  "developer": "Imagitec Design",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Ein senkrecht scrollendes Ballerspiel, in dem ein kleines Kampfflugzeug gegen insektenartige Wesen und organische Gegner antritt. Besonderheit sind die Waffenkugeln: Abgeschossene Gegner hinterlassen sogenannte Gunballs, die sich als Kette an das Flugzeug hängen und nacheinander als Sonderwaffe abgefeuert werden können. Wer sie geschickt sammelt und einsetzt, übersteht auch die großen Endgegner. Die Abschnitte führen durch Wälder, Höhlen und fremdartige Landschaften.\n\nGemini Wing ist die Umsetzung eines Tecmo-Automaten von 1987. Die C64-Fassung von Imagitec Design erschien 1989 bei Virgin Mastertronic auf Kassette und Diskette und anders als der Automat nur für einen Spieler. Gesteuert wird per Joystick in Port 2. Daneben gibt es eine Disk2EasyFlash-Umsetzung als Modul.\n\nCode: Carl Wade · Grafik: Warren Lancashire, Chris Edwards · Musik: Barry Leitch",
+  "texts": {
+    "de": "Ein senkrecht scrollendes Ballerspiel, in dem ein kleines Kampfflugzeug gegen insektenartige Wesen und organische Gegner antritt. Besonderheit sind die Waffenkugeln: Abgeschossene Gegner hinterlassen sogenannte Gunballs, die sich als Kette an das Flugzeug hängen und nacheinander als Sonderwaffe abgefeuert werden können. Wer sie geschickt sammelt und einsetzt, übersteht auch die großen Endgegner. Die Abschnitte führen durch Wälder, Höhlen und fremdartige Landschaften.\n\nGemini Wing ist die Umsetzung eines Tecmo-Automaten von 1987. Die C64-Fassung von Imagitec Design erschien 1989 bei Virgin Mastertronic auf Kassette und Diskette und anders als der Automat nur für einen Spieler. Gesteuert wird per Joystick in Port 2. Daneben gibt es eine Disk2EasyFlash-Umsetzung als Modul.\n\nCode: Carl Wade · Grafik: Warren Lancashire, Chris Edwards · Musik: Barry Leitch",
+    "en": "A vertically scrolling shoot'em up in which a small fighter plane takes on insect-like creatures and organic foes. Its distinctive feature is the gunballs: destroyed enemies leave behind balls that attach to the plane as a chain and can be fired one after another as special weapons. Collecting and using them wisely is the key to surviving the big bosses. The stages lead through forests, caves and alien landscapes.\n\nGemini Wing is a conversion of a 1987 Tecmo arcade machine. The C64 version by Imagitec Design was released by Virgin Mastertronic in 1989 on tape and disk and, unlike the arcade, is single-player only. It is controlled with a joystick in port 2. There is also a Disk2EasyFlash cartridge conversion.\n\nCode: Carl Wade · Graphics: Warren Lancashire, Chris Edwards · Music: Barry Leitch"
+  },
+  "images": {
+    "sstitle": "images/6a/6a4631e27ed819668a4ae4aaf4861ba1816bfb91.png"
+  }
+}

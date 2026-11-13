@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c075a6a05ced24a50c1a52a4d337a7926b006531",
+  "md5": "cd27b3e143e9e4babecd4fb31691416f",
+  "crc32": "3c74cc32",
+  "size": 9688,
+  "format": "PRG",
+  "files": [
+    "Falcon Patrol (J1).prg"
+  ],
+  "screenscraper_id": "111996",
+  "title": "Falcon Patrol",
+  "year": "1983",
+  "publisher": "Virgin Games",
+  "developer": "Steve Lee",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Ein Senkrechtstarter verteidigt eine seitlich scrollende Landschaft gegen angreifende Kampfflugzeuge. Ein Radar zeigt, aus welcher Richtung die nächste Welle kommt. Treibstoff und Munition sind begrenzt und werden auf Landeplätzen aufgefüllt, die aber selbst angegriffen werden können. Das schnelle, einfach zu erlernende Spiel war einer der frühen Erfolge von Virgin Games auf dem C64.\n\nDie C64-Fassung erschien 1983 bei Virgin Games auf Kassette, in den USA bei Advantage. Gesteuert wird per Joystick in Port 1. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik, Musik: Steve Lee",
+  "texts": {
+    "de": "Ein Senkrechtstarter verteidigt eine seitlich scrollende Landschaft gegen angreifende Kampfflugzeuge. Ein Radar zeigt, aus welcher Richtung die nächste Welle kommt. Treibstoff und Munition sind begrenzt und werden auf Landeplätzen aufgefüllt, die aber selbst angegriffen werden können. Das schnelle, einfach zu erlernende Spiel war einer der frühen Erfolge von Virgin Games auf dem C64.\n\nDie C64-Fassung erschien 1983 bei Virgin Games auf Kassette, in den USA bei Advantage. Gesteuert wird per Joystick in Port 1. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik, Musik: Steve Lee",
+    "en": "A jump jet defends a side-scrolling landscape against attacking fighter planes. A radar shows the direction of the next wave. Fuel and ammunition are limited and are replenished on landing pads, which can themselves come under attack. The fast, easy-to-learn game was one of Virgin Games' early successes on the C64.\n\nThe C64 version was released by Virgin Games in 1983 on tape, and by Advantage in the USA. It is controlled with a joystick in port 1. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode, graphics, music: Steve Lee"
+  },
+  "images": {
+    "ss": "images/55/559667356192baf7932d0336b721a7afbfd982c5.png"
+  }
+}

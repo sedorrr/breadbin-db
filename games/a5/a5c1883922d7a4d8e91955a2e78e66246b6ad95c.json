@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a5c1883922d7a4d8e91955a2e78e66246b6ad95c",
+  "md5": "208d8b9cee8ecff4e2cbedba0bdc0d77",
+  "crc32": "22513c60",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "STARFLI4.D64"
+  ],
+  "screenscraper_id": "35930",
+  "title": "Starflight",
+  "year": "1989",
+  "publisher": "Electronic Arts",
+  "developer": "Binary Systems",
+  "genres": [
+    "Simulation",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Starflight ist ein offenes Weltraumabenteuer: Vom Heimatplaneten Arth aus übernimmt der Spieler ein Raumschiff, stellt eine Besatzung zusammen und bildet sie aus. Hunderte Sternsysteme mit vielen Planeten lassen sich frei bereisen, auf den Oberflächen werden mit einem Landefahrzeug Rohstoffe abgebaut und Lebensformen gesammelt, um Schiff und Ausrüstung zu verbessern. Dazu kommen Begegnungen mit fremden Völkern, die Gespräch, Handel oder Kampf erfordern. Nach und nach enthüllt sich, warum Sterne aufflammen und ganze Systeme vernichten. Das Spiel gilt als Wegbereiter späterer Weltraumspiele mit freier Erkundung.\n\nDas Original erschien 1986 für den IBM-PC; die C64-Fassung brachte Electronic Arts 1989 auf mehreren Disketten heraus. Gesteuert wird mit Joystick und Tastatur; Spielstände werden auf Diskette gesichert.\n\nEntwicklung: Binary Systems · Code: Alec Kercso u. a.",
+  "texts": {
+    "de": "Starflight ist ein offenes Weltraumabenteuer: Vom Heimatplaneten Arth aus übernimmt der Spieler ein Raumschiff, stellt eine Besatzung zusammen und bildet sie aus. Hunderte Sternsysteme mit vielen Planeten lassen sich frei bereisen, auf den Oberflächen werden mit einem Landefahrzeug Rohstoffe abgebaut und Lebensformen gesammelt, um Schiff und Ausrüstung zu verbessern. Dazu kommen Begegnungen mit fremden Völkern, die Gespräch, Handel oder Kampf erfordern. Nach und nach enthüllt sich, warum Sterne aufflammen und ganze Systeme vernichten. Das Spiel gilt als Wegbereiter späterer Weltraumspiele mit freier Erkundung.\n\nDas Original erschien 1986 für den IBM-PC; die C64-Fassung brachte Electronic Arts 1989 auf mehreren Disketten heraus. Gesteuert wird mit Joystick und Tastatur; Spielstände werden auf Diskette gesichert.\n\nEntwicklung: Binary Systems · Code: Alec Kercso u. a.",
+    "en": "Starflight is an open space adventure: from the home planet of Arth the player takes command of a starship, assembles a crew and trains it. Hundreds of star systems with many planets can be travelled freely; on planetary surfaces a terrain vehicle mines resources and collects life forms to upgrade the ship and its equipment. Encounters with alien races call for conversation, trade or combat. Gradually it becomes clear why stars are flaring up and wiping out entire systems. The game is seen as a pioneer of later space games built on free exploration.\n\nThe original appeared in 1986 for the IBM PC; Electronic Arts released the C64 version in 1989 on several disks. It is controlled with joystick and keyboard; saved games are stored on disk.\n\nDevelopment: Binary Systems · Code: Alec Kercso et al."
+  },
+  "images": {
+    "sstitle": "images/a2/a227bc7d55c5509ba7c039da84db809cacac9e2f.png"
+  }
+}

@@ -21,5 +21,8 @@
   "texts": {
     "de": "Laser Squad ist ein rundenbasiertes Taktikspiel, in dem ein kleiner Trupp Söldner Einsätze wie Attentate, Rettungen oder Sabotage erledigt. Jede Figur hat Aktionspunkte für Bewegen, Zielen, Schießen und Nachladen; Sichtlinien, Deckung und zerstörbare Wände spielen eine große Rolle. Gespielt wird gegen den Computer oder zu zweit an einem Rechner. Das Spiel von Julian Gollop gilt als direkter Vorläufer von UFO: Enemy Unknown (X-COM).\n\nDiese Fassung stammt aus einer Diskettensammlung und besteht aus einem Diskettenabbild.\n\nCode: Julian Gollop (C64-Umsetzung begonnen von Nick Gollop)",
     "en": "Laser Squad is a turn-based tactics game in which a small squad of mercenaries carries out missions such as assassinations, rescues or sabotage. Each figure has action points for moving, aiming, shooting and reloading; lines of sight, cover and destructible walls play a major role. It is played against the computer or by two players on one computer. Julian Gollop's game is regarded as the direct forerunner of UFO: Enemy Unknown (X-COM).\n\nThis version comes from a disk collection and consists of one disk image.\n\nCode: Julian Gollop (C64 conversion begun by Nick Gollop)"
+  },
+  "images": {
+    "sstitle": "images/3d/3d4f954e9cc738da73284df38ca326f9bd63ae45.png"
   }
 }

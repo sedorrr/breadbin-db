@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a45f3b2a075ce280dde476ecc0cf66008cd48b8c",
+  "md5": "662cc9ec57bca827d7598a38e3cfd597",
+  "crc32": "99515373",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Night Mission Pinball (J1).crt"
+  ],
+  "screenscraper_id": "115672",
+  "title": "Night Mission Pinball",
+  "year": "1983",
+  "publisher": "subLOGIC",
+  "developer": "Bruce Artwick",
+  "genres": [
+    "Flipper"
+  ],
+  "players": "1-4",
+  "synopsis": "Flippersimulation von Bruce Artwick, dem Entwickler des Flight Simulator. Der Tisch ist einem Bomber-Einsatz im Zweiten Weltkrieg nachempfunden, mit Zielen, Rampen und Bonusmissionen. Besonders ist die realistische Ballphysik für die damalige Zeit und die Möglichkeit, viele Eigenschaften des Tisches selbst einzustellen, etwa Neigung, Ballgeschwindigkeit, Abprallverhalten und die Empfindlichkeit der Tilt-Sperre. Bis zu vier Spieler können abwechselnd spielen.\n\nDas Original erschien 1982 für den Apple II, die C64-Fassung 1983 bei subLOGIC auf Diskette. Heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2 oder über die Tastatur; ein Highscore-Speicher ist eingebaut.\n\nCode: Bruce Artwick · Grafik: Bruce Artwick",
+  "texts": {
+    "de": "Flippersimulation von Bruce Artwick, dem Entwickler des Flight Simulator. Der Tisch ist einem Bomber-Einsatz im Zweiten Weltkrieg nachempfunden, mit Zielen, Rampen und Bonusmissionen. Besonders ist die realistische Ballphysik für die damalige Zeit und die Möglichkeit, viele Eigenschaften des Tisches selbst einzustellen, etwa Neigung, Ballgeschwindigkeit, Abprallverhalten und die Empfindlichkeit der Tilt-Sperre. Bis zu vier Spieler können abwechselnd spielen.\n\nDas Original erschien 1982 für den Apple II, die C64-Fassung 1983 bei subLOGIC auf Diskette. Heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2 oder über die Tastatur; ein Highscore-Speicher ist eingebaut.\n\nCode: Bruce Artwick · Grafik: Bruce Artwick",
+    "en": "A pinball simulation by Bruce Artwick, creator of Flight Simulator. The table is themed around a World War II bombing mission, with targets, ramps and bonus missions. It stands out for its realistic ball physics for the time and for letting players adjust many table properties themselves, such as tilt, ball speed, bounce and the sensitivity of the tilt mechanism. Up to four players can take turns.\n\nThe original came out on the Apple II in 1982; the C64 version was released by subLOGIC in 1983 on disk. Today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2 or keyboard; a high score saver is built in.\n\nCode: Bruce Artwick · Graphics: Bruce Artwick"
+  },
+  "images": {
+    "sstitle": "images/44/442fcaf133576eb7937094164d962ae5edb15f86.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a1540921d6d66b1cb0322be63f79b94887f31e7a",
+  "md5": "e2040a047911090f568d8e4a38c722da",
+  "crc32": "0b53048f",
+  "size": 28465,
+  "format": "T64",
+  "files": [
+    "STUNTSIM.T64"
+  ],
+  "screenscraper_id": "115482",
+  "title": "Stunt Bike Simulator",
+  "year": "1988",
+  "publisher": "Silverbird",
+  "developer": "Probe Software",
+  "genres": [
+    "Geschicklichkeit",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Als Stuntman Chad Adams muss der Spieler mit dem Motorrad fünf gefährliche Kunststücke meistern, um sich als Bester seines Fachs zu beweisen. Die seitlich scrollenden Aufgaben reichen vom Sprung durch brennende Reifen, bei dem man vom Sattel abspringt und wieder darauf landen muss, bis zum Griff nach einem tief schwebenden Hubschrauber. Das Motorrad fährt ständig, nur die Geschwindigkeit lässt sich regeln. Für jede Aufgabe gibt es drei Versuche innerhalb eines Zeitlimits, die Punkte sinken mit der Zeit.\n\nStunt Bike Simulator erschien 1988 beim Budget-Label Silverbird auf Kassette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: W. R. Burey · Musik: Giulio Zicchi",
+  "texts": {
+    "de": "Als Stuntman Chad Adams muss der Spieler mit dem Motorrad fünf gefährliche Kunststücke meistern, um sich als Bester seines Fachs zu beweisen. Die seitlich scrollenden Aufgaben reichen vom Sprung durch brennende Reifen, bei dem man vom Sattel abspringt und wieder darauf landen muss, bis zum Griff nach einem tief schwebenden Hubschrauber. Das Motorrad fährt ständig, nur die Geschwindigkeit lässt sich regeln. Für jede Aufgabe gibt es drei Versuche innerhalb eines Zeitlimits, die Punkte sinken mit der Zeit.\n\nStunt Bike Simulator erschien 1988 beim Budget-Label Silverbird auf Kassette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: W. R. Burey · Musik: Giulio Zicchi",
+    "en": "As stuntman Chad Adams, the player has to master five dangerous motorbike stunts to prove himself the best in the business. The side-scrolling tasks range from leaping through burning hoops, where the rider jumps off the saddle and has to land back on it, to grabbing a low-hovering helicopter. The bike is always moving; only its speed can be controlled. Each task allows three attempts within a time limit, and the score drops as time passes.\n\nStunt Bike Simulator was released in 1988 by the budget label Silverbird on cassette. It is played with a joystick in port 2.\n\nCode: W. R. Burey · Music: Giulio Zicchi"
+  },
+  "images": {
+    "ss": "images/6e/6ecfd2dbca58724256c1b152ea2eb7013fcae901.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "82cdb45d91140169f625be03db2c604198685fd1",
+  "md5": "0829c00b4cba6459fdde930610d8dd14",
+  "crc32": "701c183c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DDRAGON2.D64"
+  ],
+  "screenscraper_id": "35849",
+  "title": "Double Dragon II: The Revenge",
+  "year": "1989",
+  "publisher": "Virgin Mastertronic",
+  "developer": "Mike Hutchinson (C64)",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Die Brüder Billy und Jimmy Lee nehmen Rache an der Bande der Black Warriors, die Billys Freundin Marian getötet hat. In seitlich scrollenden Straßen, Hubschraubern und Lagerhallen prügeln sie sich durch Gegnerhorden, wobei Schläge und Tritte je nach Blickrichtung ausgelöst werden. Waffen wie Messer oder Ketten lassen sich aufheben. Zu zweit kann gleichzeitig gespielt werden.\n\nDie Fortsetzung von Double Dragon ist eine Umsetzung des Technos-Automaten von 1988; die C64-Fassung erschien 1989 bei Virgin Mastertronic auf Kassette und Diskette. Gesteuert wird per Joystick, der erste Spieler nutzt Port 1. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul, darunter eine MultiLoad64-Fassung von $olo1870.\n\nCode: Mike Hutchinson · Grafik: Rory Green · Musik: Dave Lowe",
+  "texts": {
+    "de": "Die Brüder Billy und Jimmy Lee nehmen Rache an der Bande der Black Warriors, die Billys Freundin Marian getötet hat. In seitlich scrollenden Straßen, Hubschraubern und Lagerhallen prügeln sie sich durch Gegnerhorden, wobei Schläge und Tritte je nach Blickrichtung ausgelöst werden. Waffen wie Messer oder Ketten lassen sich aufheben. Zu zweit kann gleichzeitig gespielt werden.\n\nDie Fortsetzung von Double Dragon ist eine Umsetzung des Technos-Automaten von 1988; die C64-Fassung erschien 1989 bei Virgin Mastertronic auf Kassette und Diskette. Gesteuert wird per Joystick, der erste Spieler nutzt Port 1. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul, darunter eine MultiLoad64-Fassung von $olo1870.\n\nCode: Mike Hutchinson · Grafik: Rory Green · Musik: Dave Lowe",
+    "en": "The brothers Billy and Jimmy Lee take revenge on the Black Warriors gang, who killed Billy's girlfriend Marian. On side-scrolling streets, in helicopters and warehouses they fight through hordes of enemies, with punches and kicks depending on the direction they face. Weapons such as knives or chains can be picked up. Two players can play simultaneously.\n\nThe sequel to Double Dragon is a conversion of Technos' 1988 arcade machine; the C64 version was released by Virgin Mastertronic in 1989 on tape and disk. It is controlled with a joystick, with the first player using port 1. Besides the original there are EasyFlash cartridge conversions, including a MultiLoad64 version by $olo1870.\n\nCode: Mike Hutchinson · Graphics: Rory Green · Music: Dave Lowe"
+  },
+  "images": {
+    "ss": "images/48/4816f22a6f84c36f41b5319b7e3d5d4ebbd9f8ff.png",
+    "sstitle": "images/e3/e31eddc012a8342d7c562487de77a5a0586e5545.png"
+  }
+}

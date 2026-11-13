@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "83348c525c606ebf19ab48ce1cf04c47e7aa1dcf",
+  "md5": "b3f9ffdb97b346f39c6408fdf9fb80d1",
+  "crc32": "c1fe973f",
+  "size": 147808,
+  "format": "CRT",
+  "files": [
+    "Crack Down.crt",
+    "Crack Down [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35997",
+  "title": "Crack Down",
+  "year": "1990",
+  "publisher": "U.S. Gold",
+  "developer": "Arc Developments (nach Sega)",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "Zwei Agenten dringen in eine weitläufige Anlage ein, um an festgelegten Punkten Sprengladungen anzubringen und vor Ablauf der Zeit wieder zu entkommen. Die Gänge werden von oben gezeigt, Gegner bekämpft man mit Gewehr, Spezialwaffen oder im Nahkampf, und man kann hinter Wänden in Deckung gehen. Eine Übersichtskarte zeigt, wo die nächsten Ladungen hingehören. Das Besondere ist das gleichzeitige Spiel zu zweit auf geteiltem Bildschirm, bei dem jeder Agent seinen eigenen Ausschnitt hat.\n\nCrack Down ist die Umsetzung eines Sega-Automaten von 1989. Die C64-Fassung entwickelte Arc Developments, U.S. Gold brachte sie 1990 auf Diskette und Kassette heraus; in Nordamerika erschien sie unter dem Sega-Namen. Der geteilte Bildschirm des Automaten blieb erhalten. Gespielt wird mit Joystick, zu zweit mit zwei Joysticks. Daneben gibt es EasyFlash-Umsetzungen als Modul.\n\nCode: Chris Coupe · Grafik: Paul Walker · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Zwei Agenten dringen in eine weitläufige Anlage ein, um an festgelegten Punkten Sprengladungen anzubringen und vor Ablauf der Zeit wieder zu entkommen. Die Gänge werden von oben gezeigt, Gegner bekämpft man mit Gewehr, Spezialwaffen oder im Nahkampf, und man kann hinter Wänden in Deckung gehen. Eine Übersichtskarte zeigt, wo die nächsten Ladungen hingehören. Das Besondere ist das gleichzeitige Spiel zu zweit auf geteiltem Bildschirm, bei dem jeder Agent seinen eigenen Ausschnitt hat.\n\nCrack Down ist die Umsetzung eines Sega-Automaten von 1989. Die C64-Fassung entwickelte Arc Developments, U.S. Gold brachte sie 1990 auf Diskette und Kassette heraus; in Nordamerika erschien sie unter dem Sega-Namen. Der geteilte Bildschirm des Automaten blieb erhalten. Gespielt wird mit Joystick, zu zweit mit zwei Joysticks. Daneben gibt es EasyFlash-Umsetzungen als Modul.\n\nCode: Chris Coupe · Grafik: Paul Walker · Musik: Mark Cooksey",
+    "en": "Two agents infiltrate a sprawling complex to plant explosive charges at set points and escape before time runs out. The corridors are shown from above; enemies are dealt with by rifle, special weapons or hand-to-hand, and the agents can take cover behind walls. An overview map shows where the next charges must go. Its standout feature is simultaneous two-player action on a split screen, with each agent getting a view of his own.\n\nCrack Down is a conversion of a 1989 Sega arcade machine. The C64 version was developed by Arc Developments and released by U.S. Gold in 1990 on disk and tape; in North America it appeared under the Sega name. The arcade's split screen was kept. It is played with a joystick, two joysticks for two players. There are also EasyFlash conversions as cartridges.\n\nCode: Chris Coupe · Graphics: Paul Walker · Music: Mark Cooksey"
+  },
+  "images": {
+    "sstitle": "images/61/6157db2920b195b8b9d21e5023577f4241aa0784.png"
+  }
+}

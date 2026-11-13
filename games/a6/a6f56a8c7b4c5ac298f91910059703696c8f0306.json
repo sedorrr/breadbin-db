@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a6f56a8c7b4c5ac298f91910059703696c8f0306",
+  "md5": "623622bcf07bb4c0f046c39759931468",
+  "crc32": "8d6c1256",
+  "size": 28574,
+  "format": "PRG",
+  "files": [
+    "Tarzan.prg"
+  ],
+  "screenscraper_id": "36754",
+  "title": "Tarzan",
+  "year": "1986",
+  "publisher": "Martech",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Tarzan muss Jane retten, die von einem Stamm gefangen gehalten wird und nach drei Tagen geopfert werden soll. Dazu sucht er im Dschungel sieben in Kisten versteckte Edelsteine, die „Augen des Regenbogens“, und bringt sie zurück. Unterwegs schwingt er sich an Lianen, kämpft gegen Eingeborene und Tiere und braucht Gegenstände wie Seil und Fackel, um weiterzukommen. Ein Tag endet, wenn die Energie aufgebraucht ist; die Mischung aus Erkundung, Kampf und Zeitdruck prägt das Spiel.\n\nMartech veröffentlichte Tarzan auf Kassette und Diskette, später auch bei Alternative Software; dazu kommen Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur. Die Musik von Rob Hubbard wird häufig hervorgehoben.\n\nCode: Mark Prosser · Grafik: Dave Dew · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Tarzan muss Jane retten, die von einem Stamm gefangen gehalten wird und nach drei Tagen geopfert werden soll. Dazu sucht er im Dschungel sieben in Kisten versteckte Edelsteine, die „Augen des Regenbogens“, und bringt sie zurück. Unterwegs schwingt er sich an Lianen, kämpft gegen Eingeborene und Tiere und braucht Gegenstände wie Seil und Fackel, um weiterzukommen. Ein Tag endet, wenn die Energie aufgebraucht ist; die Mischung aus Erkundung, Kampf und Zeitdruck prägt das Spiel.\n\nMartech veröffentlichte Tarzan auf Kassette und Diskette, später auch bei Alternative Software; dazu kommen Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur. Die Musik von Rob Hubbard wird häufig hervorgehoben.\n\nCode: Mark Prosser · Grafik: Dave Dew · Musik: Rob Hubbard",
+    "en": "Tarzan has to rescue Jane, who is being held by a tribe and will be sacrificed after three days. To save her he searches the jungle for seven gems hidden in crates, the \"Eyes of the Rainbow\", and brings them back. Along the way he swings on vines, fights natives and animals and needs items such as a rope and a torch to progress. A day ends when his energy runs out; the mix of exploration, combat and time pressure defines the game.\n\nMartech released Tarzan on cassette and disk, later also through Alternative Software; cartridge conversions from the scene exist as well. It is played with a joystick in port 2 or the keyboard. Rob Hubbard's music is often singled out.\n\nCode: Mark Prosser · Graphics: Dave Dew · Music: Rob Hubbard"
+  },
+  "images": {
+    "sstitle": "images/ab/abcd491f6498e577e5b117b81bc3285d5cf073bc.png"
+  }
+}

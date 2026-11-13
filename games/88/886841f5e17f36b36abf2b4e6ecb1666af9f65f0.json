@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "886841f5e17f36b36abf2b4e6ecb1666af9f65f0",
+  "md5": "e7a51772d6769ad63c2524b755dd24de",
+  "crc32": "d41fbcd3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MANDRA-E.D64"
+  ],
+  "screenscraper_id": "114482",
+  "title": "Mandragore",
+  "year": "1986",
+  "publisher": "Infogrames",
+  "developer": "Marc Cecchi",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Nach dem Tod des guten Königs Jorian hat der Zauberer Yarad-Nor das Land Mandragore an sich gerissen. Eine Gruppe von vier Helden – vorgefertigt oder selbst erschaffen aus Völkern wie Zwergen, Elfen und Halborks – soll das Geheimnis der zehn Burgen lüften und ihn stürzen. Die Wildnis wird von oben bereist, Burgen und Kämpfe werden in einer Seitenansicht gezeigt. Gesteuert wird über eine Liste von Verben, die jeweils einer Figur und einem Gegenstand zugeordnet werden; viele Rätsel verlangen die passende Figur für die passende Handlung. Mandragore war eines der ersten französischen Rollenspiele und ein großer Erfolg für Infogrames.\n\nDas Original erschien 1985 unter anderem für den Apple II; die C64-Fassung folgte 1986 auf Diskette. Gesteuert wird mit Tastatur und Joystick in Port 2. Neben der Diskettenfassung gibt es eine EasyFlash-Umsetzung ohne Diskettenzugriffe.\n\nCode: Marc Cecchi",
+  "texts": {
+    "de": "Nach dem Tod des guten Königs Jorian hat der Zauberer Yarad-Nor das Land Mandragore an sich gerissen. Eine Gruppe von vier Helden – vorgefertigt oder selbst erschaffen aus Völkern wie Zwergen, Elfen und Halborks – soll das Geheimnis der zehn Burgen lüften und ihn stürzen. Die Wildnis wird von oben bereist, Burgen und Kämpfe werden in einer Seitenansicht gezeigt. Gesteuert wird über eine Liste von Verben, die jeweils einer Figur und einem Gegenstand zugeordnet werden; viele Rätsel verlangen die passende Figur für die passende Handlung. Mandragore war eines der ersten französischen Rollenspiele und ein großer Erfolg für Infogrames.\n\nDas Original erschien 1985 unter anderem für den Apple II; die C64-Fassung folgte 1986 auf Diskette. Gesteuert wird mit Tastatur und Joystick in Port 2. Neben der Diskettenfassung gibt es eine EasyFlash-Umsetzung ohne Diskettenzugriffe.\n\nCode: Marc Cecchi",
+    "en": "After the death of the good King Jorian, the wizard Yarad-Nor has seized the land of Mandragore. A party of four heroes – premade or created from races such as dwarves, elves and half-orcs – is to uncover the secret of the ten castles and overthrow him. The wilderness is travelled in a top-down view, while castles and fights are shown from the side. Control is through a list of verbs, each assigned to a character and an object; many puzzles require the right character for the right action. Mandragore was one of the first French role-playing games and a big success for Infogrames.\n\nThe original appeared in 1985 for the Apple II, among others; the C64 version followed in 1986 on disk. It is controlled with keyboard and a joystick in port 2. Besides the disk version, there is an EasyFlash conversion without disk access.\n\nCode: Marc Cecchi"
+  },
+  "images": {
+    "sstitle": "images/21/2132a4a148aa91894c6affd754fa1aeb4d87fccd.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "97558eb25a44754b04b3f19118a47e4513c4f0e2",
+  "md5": "69159f0d2ba6e3bc3254cc9527ddb20f",
+  "crc32": "f17d96ee",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Super Pipeline (J1).crt"
+  ],
+  "screenscraper_id": "115574",
+  "title": "Super Pipeline",
+  "year": "1983",
+  "publisher": "Taskset",
+  "developer": "Taskset (Andy Walker)",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Vorarbeiter muss dafür sorgen, dass Wasser durch eine verschlungene Rohrleitung bis in das Fass am Ende fließt. Saboteure verstopfen die Leitung, und ein Helfer, der dem Vorarbeiter folgt, beseitigt die Pfropfen; der Vorarbeiter wehrt die Gegner mit seiner Pistole ab. Von der Decke fallende Käfer und in späteren Stufen ein Ungeheuer, das die Leitung entlangzieht, erschweren die Arbeit. Mit jeder Stufe wird die Leitung komplizierter. Das schnelle, ideenreiche Spielprinzip machte Super Pipeline zu einem der bekanntesten Titel des britischen Herstellers Taskset.\n\nErschienen auf Kassette und Diskette, später auch in Spielesammlungen. Gesteuert wird mit dem Joystick in Port 1. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Andy Walker · Musik: Paul Hodgson",
+  "texts": {
+    "de": "Ein Vorarbeiter muss dafür sorgen, dass Wasser durch eine verschlungene Rohrleitung bis in das Fass am Ende fließt. Saboteure verstopfen die Leitung, und ein Helfer, der dem Vorarbeiter folgt, beseitigt die Pfropfen; der Vorarbeiter wehrt die Gegner mit seiner Pistole ab. Von der Decke fallende Käfer und in späteren Stufen ein Ungeheuer, das die Leitung entlangzieht, erschweren die Arbeit. Mit jeder Stufe wird die Leitung komplizierter. Das schnelle, ideenreiche Spielprinzip machte Super Pipeline zu einem der bekanntesten Titel des britischen Herstellers Taskset.\n\nErschienen auf Kassette und Diskette, später auch in Spielesammlungen. Gesteuert wird mit dem Joystick in Port 1. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Andy Walker · Musik: Paul Hodgson",
+    "en": "A foreman has to make sure that water flows through a winding pipeline into the barrel at its end. Saboteurs plug up the pipe, and a helper who follows the foreman clears the plugs; the foreman fends off the enemies with his pistol. Bugs dropping from the ceiling and, in later levels, a monster patrolling the pipe make the job harder. With each level the pipeline grows more complicated. The fast, inventive gameplay made Super Pipeline one of the best-known titles of the British company Taskset.\n\nReleased on tape and disk, later also in compilations. It is controlled with a joystick in port 1. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode: Andy Walker · Music: Paul Hodgson"
+  },
+  "images": {
+    "ss": "images/01/01bacc303b55e89f044ae4895958bd6aec0dd988.png"
+  }
+}

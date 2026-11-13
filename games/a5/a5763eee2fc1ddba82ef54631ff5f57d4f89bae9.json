@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a5763eee2fc1ddba82ef54631ff5f57d4f89bae9",
+  "md5": "adddc2d3cef5d78d8c0b21bd07523d0c",
+  "crc32": "e4f8caca",
+  "size": 32188,
+  "format": "PRG",
+  "files": [
+    "Great Escape, The (J1).prg"
+  ],
+  "screenscraper_id": "36361",
+  "title": "The Great Escape",
+  "year": "1986",
+  "publisher": "Ocean",
+  "developer": "Denton Designs; C64: Trevor Inns",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Ein Kriegsgefangener sitzt 1942 in einem deutschen Lager und plant seine Flucht. Das Lager wird in isometrischer Sicht gezeigt, der Tagesablauf mit Appell, Mahlzeiten und Hofgang läuft auch ohne Zutun des Spielers weiter. Wer sich vom vorgesehenen Ablauf entfernt, macht die Wachen misstrauisch und sinkt in der Moral, die als Fahne angezeigt wird. Für die Flucht müssen Gegenstände wie Werkzeuge, Papiere und Verkleidung gefunden und klug eingesetzt werden, und es gibt mehrere Fluchtwege. Das Spiel gilt als eines der durchdachtesten isometrischen Abenteuer seiner Zeit.\n\nDas Spiel entwickelte Denton Designs zuerst für den ZX Spectrum; die C64-Umsetzung von Trevor Inns erschien 1986 bei Ocean auf Kassette und Diskette, in den USA bei Thunder Mountain. Gesteuert wird per Joystick; die OneLoad64-Modulfassung ist für Port 1 gekennzeichnet, andere Fassungen nutzen Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Trevor Inns · Entwurf (Spectrum): John Heap",
+  "texts": {
+    "de": "Ein Kriegsgefangener sitzt 1942 in einem deutschen Lager und plant seine Flucht. Das Lager wird in isometrischer Sicht gezeigt, der Tagesablauf mit Appell, Mahlzeiten und Hofgang läuft auch ohne Zutun des Spielers weiter. Wer sich vom vorgesehenen Ablauf entfernt, macht die Wachen misstrauisch und sinkt in der Moral, die als Fahne angezeigt wird. Für die Flucht müssen Gegenstände wie Werkzeuge, Papiere und Verkleidung gefunden und klug eingesetzt werden, und es gibt mehrere Fluchtwege. Das Spiel gilt als eines der durchdachtesten isometrischen Abenteuer seiner Zeit.\n\nDas Spiel entwickelte Denton Designs zuerst für den ZX Spectrum; die C64-Umsetzung von Trevor Inns erschien 1986 bei Ocean auf Kassette und Diskette, in den USA bei Thunder Mountain. Gesteuert wird per Joystick; die OneLoad64-Modulfassung ist für Port 1 gekennzeichnet, andere Fassungen nutzen Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Trevor Inns · Entwurf (Spectrum): John Heap",
+    "en": "A prisoner of war is held in a German camp in 1942 and plans his escape. The camp is shown in isometric view, and the daily routine of roll calls, meals and exercise carries on even without the player's input. Straying from the routine makes the guards suspicious and lowers morale, shown as a flag. Items such as tools, papers and disguises have to be found and used wisely, and there are several escape routes. The game is regarded as one of the most thoughtfully designed isometric adventures of its time.\n\nDenton Designs created the game first for the ZX Spectrum; Trevor Inns' C64 conversion was released by Ocean in 1986 on tape and disk, and by Thunder Mountain in the USA. It is controlled with a joystick; the OneLoad64 cartridge version is marked for port 1, while other versions use port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode: Trevor Inns · Design (Spectrum): John Heap"
+  },
+  "images": {
+    "ss": "images/3a/3a08072de818076d860a0df9a81d895b9af943ab.png",
+    "sstitle": "images/da/da1a98808973b9c8d9bab6f8cbf5b733f7a5edd0.png"
+  }
+}

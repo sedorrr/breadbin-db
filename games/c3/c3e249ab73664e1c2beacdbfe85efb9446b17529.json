@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c3e249ab73664e1c2beacdbfe85efb9446b17529",
+  "md5": "e91260f2e2558f8bbc95e23f47784157",
+  "crc32": "3cd1d0b2",
+  "size": 28263,
+  "format": "PRG",
+  "files": [
+    "Arkanoid - Revenge of Doh (J1).prg"
+  ],
+  "screenscraper_id": "36036",
+  "title": "Arkanoid: Revenge of Doh",
+  "year": "1988",
+  "publisher": "Imagine",
+  "developer": "Imagine (Allan Shortt)",
+  "genres": [
+    "Action / Breakout Spiele"
+  ],
+  "players": "1-4",
+  "synopsis": "Arkanoid: Revenge of Doh ist die Heimumsetzung von Taitos zweitem Arkanoid-Automaten. Wie im Vorgänger lenkt man das Raumschiff Vaus als Schläger am unteren Bildrand und zerschlägt mit einem abprallenden Ball die Steine jeder Runde. Herabfallende Kapseln bringen Hilfen wie einen Laser, einen breiteren Schläger oder mehrere Bälle; dazu kommen neue Kapseln und Steinarten. Am Ende mancher Runden darf man zwischen zwei Ausgängen wählen und bestimmt so den weiteren Weg bis zum Endkampf gegen Doh. Das Spiel gilt als eine der besten Breakout-Varianten auf dem C64.\n\nDie C64-Fassung erschien 1988 bei Imagine auf Kassette und Diskette. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Allan Shortt · Grafik: Stephen Wahid · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Arkanoid: Revenge of Doh ist die Heimumsetzung von Taitos zweitem Arkanoid-Automaten. Wie im Vorgänger lenkt man das Raumschiff Vaus als Schläger am unteren Bildrand und zerschlägt mit einem abprallenden Ball die Steine jeder Runde. Herabfallende Kapseln bringen Hilfen wie einen Laser, einen breiteren Schläger oder mehrere Bälle; dazu kommen neue Kapseln und Steinarten. Am Ende mancher Runden darf man zwischen zwei Ausgängen wählen und bestimmt so den weiteren Weg bis zum Endkampf gegen Doh. Das Spiel gilt als eine der besten Breakout-Varianten auf dem C64.\n\nDie C64-Fassung erschien 1988 bei Imagine auf Kassette und Diskette. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Allan Shortt · Grafik: Stephen Wahid · Musik: Jonathan Dunn",
+    "en": "Arkanoid: Revenge of Doh is the home conversion of Taito's second Arkanoid arcade game. As in its predecessor, the player steers the Vaus spacecraft as a paddle at the bottom of the screen and breaks the bricks of each round with a bouncing ball. Falling capsules provide help such as a laser, a wider paddle or multiple balls, along with new capsule and brick types. At the end of some rounds the player can choose between two exits, deciding the route to the final battle against Doh. It is regarded as one of the best Breakout variants on the C64.\n\nThe C64 version was released in 1988 by Imagine on cassette and disk. There are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick in port 1.\n\nCode: Allan Shortt · Graphics: Stephen Wahid · Music: Jonathan Dunn"
+  },
+  "images": {
+    "ss": "images/ee/eef1567a73fd7ac6b3e19e2d656da36089f55744.png",
+    "sstitle": "images/76/76f6e7bf56eb63ccf44380293905aa64cea2d5e7.png"
+  }
+}

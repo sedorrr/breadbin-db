@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "b1b7331f584ff18536c4370dffd12eb0d44147ea",
+  "md5": "f84eb14d229002ecd9189c6aa3533553",
+  "crc32": "2085e66e",
+  "size": 106768,
+  "format": "CRT",
+  "files": [
+    "Menace.crt"
+  ],
+  "screenscraper_id": "115142",
+  "title": "Menace",
+  "year": "1988",
+  "publisher": "Psyclapse",
+  "developer": "DMA Design",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Waagerecht scrollender Shooter und das erste veröffentlichte Spiel von DMA Design, den späteren Machern von Lemmings. Der Spieler fliegt gegen die Herrscher des künstlichen Planeten Draconia, die aus allen Teilen der Galaxis Ungeheuer zusammengetragen haben. Jeder Level ist einem dieser Herrscher gewidmet und endet mit einem großen Gegner. Abgeschossene Feinde hinterlassen Extras, mit denen sich das Schiff um Geschwindigkeit, Kanonen, Laser und Begleitschiffe erweitern lässt.\n\nDas Original erschien für den Amiga bei Psyclapse, einem Label von Psygnosis; die C64-Umsetzung stammt von Mr. Micro. Erschienen auf Diskette und Kassette; daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2, ein Highscore-Speicher ist eingebaut.\n\nCode: Greg Duddle · Grafik: James McDermott · Musik: David Whittaker",
+  "texts": {
+    "de": "Waagerecht scrollender Shooter und das erste veröffentlichte Spiel von DMA Design, den späteren Machern von Lemmings. Der Spieler fliegt gegen die Herrscher des künstlichen Planeten Draconia, die aus allen Teilen der Galaxis Ungeheuer zusammengetragen haben. Jeder Level ist einem dieser Herrscher gewidmet und endet mit einem großen Gegner. Abgeschossene Feinde hinterlassen Extras, mit denen sich das Schiff um Geschwindigkeit, Kanonen, Laser und Begleitschiffe erweitern lässt.\n\nDas Original erschien für den Amiga bei Psyclapse, einem Label von Psygnosis; die C64-Umsetzung stammt von Mr. Micro. Erschienen auf Diskette und Kassette; daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2, ein Highscore-Speicher ist eingebaut.\n\nCode: Greg Duddle · Grafik: James McDermott · Musik: David Whittaker",
+    "en": "A horizontally scrolling shooter and the first published game by DMA Design, who later created Lemmings. The player battles the rulers of the artificial planet Draconia, who have gathered monsters from all over the galaxy. Each level is dedicated to one of these rulers and ends with a large boss. Destroyed enemies leave power-ups that add speed, cannons, lasers and escort craft to the ship.\n\nThe original was released on the Amiga by Psyclapse, a Psygnosis label; the C64 conversion was made by Mr. Micro. Released on disk and cassette; EasyFlash cartridge conversions also exist. Controlled by joystick in port 2; a high score saver is built in.\n\nCode: Greg Duddle · Graphics: James McDermott · Music: David Whittaker"
+  },
+  "images": {
+    "sstitle": "images/e0/e012bad29defb82e5ed42aab757df34653f514ab.png"
+  }
+}

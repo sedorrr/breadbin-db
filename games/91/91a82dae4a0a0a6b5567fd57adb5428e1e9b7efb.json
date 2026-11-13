@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "91a82dae4a0a0a6b5567fd57adb5428e1e9b7efb",
+  "md5": "06ae9ca47799ddcdc034c5e2d28b9d2f",
+  "crc32": "59db1e31",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LUCIFER0.D64"
+  ],
+  "screenscraper_id": "114330",
+  "title": "Lucifer's Realm",
+  "year": "1984",
+  "publisher": "American Eagle Software",
+  "developer": "Jyym Pearson, Norm Sailer",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler stirbt gleich zu Beginn und findet sich in der Hölle wieder. Um zu entkommen, muss er sich durch die Unterwelt bewegen, wo er auf berüchtigte Gestalten der Geschichte trifft, darunter Diktatoren und Verbrecher. Die Orte werden als Bilder gezeigt, die Handlung wird über Texteingabe gesteuert. Lucifer's Realm gehört zu den bekannteren Grafikabenteuern von Jyym Pearson.\n\nUrsprünglich erschien 1982 ein reines Textabenteuer von Med Systems; die bebilderte Neufassung kam 1984 bei American Eagle Software unter anderem für den C64 auf Diskette heraus, in Großbritannien später bei All American Adventures. Gespielt wird über die Tastatur. Neben der Diskettenfassung gibt es eine EasyFlash-Umsetzung ohne Nachladen von Diskette.\n\nCode: Jyym Pearson, Norm Sailer · Grafik: Rick Incrocci",
+  "texts": {
+    "de": "Der Spieler stirbt gleich zu Beginn und findet sich in der Hölle wieder. Um zu entkommen, muss er sich durch die Unterwelt bewegen, wo er auf berüchtigte Gestalten der Geschichte trifft, darunter Diktatoren und Verbrecher. Die Orte werden als Bilder gezeigt, die Handlung wird über Texteingabe gesteuert. Lucifer's Realm gehört zu den bekannteren Grafikabenteuern von Jyym Pearson.\n\nUrsprünglich erschien 1982 ein reines Textabenteuer von Med Systems; die bebilderte Neufassung kam 1984 bei American Eagle Software unter anderem für den C64 auf Diskette heraus, in Großbritannien später bei All American Adventures. Gespielt wird über die Tastatur. Neben der Diskettenfassung gibt es eine EasyFlash-Umsetzung ohne Nachladen von Diskette.\n\nCode: Jyym Pearson, Norm Sailer · Grafik: Rick Incrocci",
+    "en": "The player dies right at the start and finds himself in Hell. To escape, he has to make his way through the underworld, where he meets infamous figures from history, including dictators and criminals. Locations are shown as pictures, while the action is driven by text input. Lucifer's Realm is one of Jyym Pearson's better-known graphic adventures.\n\nA pure text version first appeared in 1982 from Med Systems; the illustrated remake was released by American Eagle Software in 1984 for the C64, among others, on disk, and later in the UK by All American Adventures. It is played with the keyboard. Besides the disk version, there is an EasyFlash conversion without disk loading.\n\nCode: Jyym Pearson, Norm Sailer · Graphics: Rick Incrocci"
+  },
+  "images": {
+    "sstitle": "images/67/67ac5f9447efbad5068f9f4cbf638e0ccf38865a.png"
+  }
+}

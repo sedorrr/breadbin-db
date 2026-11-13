@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8b03edf65afabe418e6249690f824ff893c3d575",
+  "md5": "69accab209459bd952c6b5bade1c63e5",
+  "crc32": "f627a7b5",
+  "size": 41515,
+  "format": "T64",
+  "files": [
+    "XYBOTS.T64"
+  ],
+  "screenscraper_id": "117178",
+  "title": "Xybots",
+  "year": "1989",
+  "publisher": "Domark",
+  "genres": [
+    "Action / Labyrinth",
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "Xybots ist ein Labyrinth-Shooter nach dem Atari-Automaten von 1987. Zwei Kämpfer, Major Rock Hardy und Captain Ace Gunn, durchstreifen Ebene für Ebene ein Labyrinth voller Roboter und suchen den Ausgang; die Ansicht hinter der Spielfigur dreht sich bei jeder Wendung um 90 Grad mit. Unterwegs gesammelte Münzen werden zwischen den Ebenen in Ausrüstung wie stärkere Waffen oder Schilde investiert. Das gleichzeitige Spiel zu zweit im geteilten Bildschirm war ein besonderer Reiz.\n\nDomark veröffentlichte die C64-Umsetzung 1989 unter dem Label Tengen auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2, zwei Spieler können gleichzeitig spielen.\n\nCode: John Scott",
+  "texts": {
+    "de": "Xybots ist ein Labyrinth-Shooter nach dem Atari-Automaten von 1987. Zwei Kämpfer, Major Rock Hardy und Captain Ace Gunn, durchstreifen Ebene für Ebene ein Labyrinth voller Roboter und suchen den Ausgang; die Ansicht hinter der Spielfigur dreht sich bei jeder Wendung um 90 Grad mit. Unterwegs gesammelte Münzen werden zwischen den Ebenen in Ausrüstung wie stärkere Waffen oder Schilde investiert. Das gleichzeitige Spiel zu zweit im geteilten Bildschirm war ein besonderer Reiz.\n\nDomark veröffentlichte die C64-Umsetzung 1989 unter dem Label Tengen auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2, zwei Spieler können gleichzeitig spielen.\n\nCode: John Scott",
+    "en": "Xybots is a maze shooter based on Atari's 1987 arcade game. Two fighters, Major Rock Hardy and Captain Ace Gunn, explore a robot-infested maze level by level in search of the exit; the view behind the character rotates by 90 degrees with every turn. Coins collected along the way are spent between levels on equipment such as stronger weapons or shields. Simultaneous two-player action on a split screen was a particular attraction.\n\nDomark released the C64 conversion in 1989 under the Tengen label on cassette and disk; cartridge conversions from the scene appeared later. It is played with a joystick in port 2, and two players can play at the same time.\n\nCode: John Scott"
+  },
+  "images": {
+    "ss": "images/7d/7d920e239475744339f5224691baeac212b58dff.png",
+    "sstitle": "images/24/24fc3c48d16f89404233de8f04ccf419772e1b63.png"
+  }
+}

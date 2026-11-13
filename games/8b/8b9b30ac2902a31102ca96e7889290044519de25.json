@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "8b9b30ac2902a31102ca96e7889290044519de25",
+  "md5": "f1d99ae90236908b24d983a7738cdab1",
+  "crc32": "7f91cabf",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ENCHANT2.D64"
+  ],
+  "screenscraper_id": "36638",
+  "title": "Enchanter",
+  "year": "1983",
+  "publisher": "Infocom",
+  "developer": "Marc Blank, Dave Lebling (Infocom)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Als unerfahrener Zauberlehrling wird der Spieler vom Zirkel der Zauberer ausgesandt, den bösen Hexenmeister Krill aufzuhalten – gerade weil ein Anfänger dessen Aufmerksamkeit nicht auf sich zieht. Magie ist das Herzstück: Sprüche werden in Schriftrollen gefunden, ins Zauberbuch übertragen, vor dem Gebrauch eingeprägt und gezielt eingesetzt. Viele Rätsel verlangen, den richtigen Spruch im richtigen Moment zu wählen. Enchanter eröffnete die Enchanter-Trilogie, die an die Welt der Zork-Spiele anknüpft.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; das Spiel läuft mit Infocoms eigenem Interpreter und war mit Beilagen („Feelies“) verpackt. Gespielt wird über die Tastatur.\n\nAutoren: Marc Blank, Dave Lebling",
+  "texts": {
+    "de": "Als unerfahrener Zauberlehrling wird der Spieler vom Zirkel der Zauberer ausgesandt, den bösen Hexenmeister Krill aufzuhalten – gerade weil ein Anfänger dessen Aufmerksamkeit nicht auf sich zieht. Magie ist das Herzstück: Sprüche werden in Schriftrollen gefunden, ins Zauberbuch übertragen, vor dem Gebrauch eingeprägt und gezielt eingesetzt. Viele Rätsel verlangen, den richtigen Spruch im richtigen Moment zu wählen. Enchanter eröffnete die Enchanter-Trilogie, die an die Welt der Zork-Spiele anknüpft.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; das Spiel läuft mit Infocoms eigenem Interpreter und war mit Beilagen („Feelies“) verpackt. Gespielt wird über die Tastatur.\n\nAutoren: Marc Blank, Dave Lebling",
+    "en": "As an inexperienced apprentice magician, the player is sent by the Circle of Enchanters to stop the evil warlock Krill – precisely because a novice will not attract his attention. Magic is at the heart of the game: spells are found on scrolls, copied into the spell book, memorised before use and applied deliberately. Many puzzles hinge on choosing the right spell at the right moment. Enchanter opened the Enchanter trilogy, which builds on the world of the Zork games.\n\nReleased as a pure text adventure by Infocom for numerous systems, including the C64 on disk; the game runs on Infocom's own interpreter and came packaged with extras (“feelies”). It is played with the keyboard.\n\nAuthors: Marc Blank, Dave Lebling"
+  }
+}

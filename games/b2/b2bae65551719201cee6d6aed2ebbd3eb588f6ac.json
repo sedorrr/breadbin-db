@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b2bae65551719201cee6d6aed2ebbd3eb588f6ac",
+  "md5": "78a987c16db5b0d50fbf0ef55f4c920a",
+  "crc32": "295fb312",
+  "size": 532438,
+  "format": "TAP",
+  "files": [
+    "Fighter Pilot (Version 2a).tap"
+  ],
+  "screenscraper_id": "36643",
+  "title": "Fighter Pilot",
+  "year": "1984",
+  "publisher": "Digital Integration",
+  "developer": "Digital Integration (D. K. Marshall)",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Eine der frühen Kampfflugsimulationen für Heimcomputer, in der ein Düsenjäger aus dem Cockpit mit Instrumenten und einfacher Außensicht gesteuert wird. Es gibt Übungsmodi für Landeanflug, Starts und Luftkampf sowie einen Einsatzmodus, in dem vier eigene Flugplätze gegen feindliche Jäger verteidigt werden müssen. Vier Schwierigkeitsstufen sowie zuschaltbarer Seitenwind, Turbulenzen und Blindlandungen erhöhen die Anforderungen. Das Spiel machte Digital Integration als Spezialisten für Flugsimulationen bekannt.\n\nDas Spiel erschien zuerst 1983 für den ZX Spectrum; die C64-Fassung brachte Digital Integration 1984 auf Kassette und Diskette heraus. Gesteuert wird per Joystick und Tastatur. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nEntwurf: D. K. Marshall",
+  "texts": {
+    "de": "Eine der frühen Kampfflugsimulationen für Heimcomputer, in der ein Düsenjäger aus dem Cockpit mit Instrumenten und einfacher Außensicht gesteuert wird. Es gibt Übungsmodi für Landeanflug, Starts und Luftkampf sowie einen Einsatzmodus, in dem vier eigene Flugplätze gegen feindliche Jäger verteidigt werden müssen. Vier Schwierigkeitsstufen sowie zuschaltbarer Seitenwind, Turbulenzen und Blindlandungen erhöhen die Anforderungen. Das Spiel machte Digital Integration als Spezialisten für Flugsimulationen bekannt.\n\nDas Spiel erschien zuerst 1983 für den ZX Spectrum; die C64-Fassung brachte Digital Integration 1984 auf Kassette und Diskette heraus. Gesteuert wird per Joystick und Tastatur. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nEntwurf: D. K. Marshall",
+    "en": "One of the early combat flight simulations for home computers, in which a jet fighter is flown from the cockpit with instruments and a simple outside view. There are practice modes for landing approaches, take-offs and dogfights, plus a combat mode in which four friendly airfields must be defended against enemy fighters. Four difficulty levels and optional crosswinds, turbulence and blind landings raise the challenge. The game established Digital Integration as a flight simulation specialist.\n\nThe game first appeared in 1983 for the ZX Spectrum; Digital Integration released the C64 version in 1984 on tape and disk. It is controlled with joystick and keyboard. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nDesign: D. K. Marshall"
+  },
+  "images": {
+    "ss": "images/fc/fcc5635e25c7b1cbf045cf0c171606f6fdea7841.png",
+    "sstitle": "images/ad/ad6b600372d2ed0ffe3ae844b842b2eeba616aa8.png"
+  }
+}

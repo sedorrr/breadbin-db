@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "b16eeaea23779949b64ead42133602e8fa86cc73",
+  "md5": "bd75fdbf2767f07b329a0541c0a838a1",
+  "crc32": "a19a677e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TAUCETI.D64"
+  ],
+  "screenscraper_id": "36096",
+  "title": "Tau Ceti",
+  "year": "1986",
+  "publisher": "CRL",
+  "developer": "Pete Cooke (C64: John Twiddy)",
+  "genres": [
+    "Shooter",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Auf dem Planeten Tau Ceti III sind die Abwehranlagen einer Kolonie außer Kontrolle geraten. Der Spieler steuert einen bewaffneten Gleiter durch die Städte des Planeten, wahlweise in Tagsicht oder Infrarotansicht, und sammelt in den Reaktoranlagen 40 Teile von Kühlstäben. Über den Bordcomputer, der per Texteingabe bedient wird, werden daraus 20 Stäbe zusammengesetzt und schließlich im Hauptreaktor in Centralis eingesetzt. Die Mischung aus 3D-Kampf, Erkundung und Planung war 1985 ungewöhnlich und machte Pete Cookes Spiel zum Klassiker.\n\nDie C64-Fassung erschien 1986 auf Kassette und Diskette und hat keine Musik, nur Geräusche. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwurf: Pete Cooke · Code (C64): John Twiddy · Grafik: Jon Law",
+  "texts": {
+    "de": "Auf dem Planeten Tau Ceti III sind die Abwehranlagen einer Kolonie außer Kontrolle geraten. Der Spieler steuert einen bewaffneten Gleiter durch die Städte des Planeten, wahlweise in Tagsicht oder Infrarotansicht, und sammelt in den Reaktoranlagen 40 Teile von Kühlstäben. Über den Bordcomputer, der per Texteingabe bedient wird, werden daraus 20 Stäbe zusammengesetzt und schließlich im Hauptreaktor in Centralis eingesetzt. Die Mischung aus 3D-Kampf, Erkundung und Planung war 1985 ungewöhnlich und machte Pete Cookes Spiel zum Klassiker.\n\nDie C64-Fassung erschien 1986 auf Kassette und Diskette und hat keine Musik, nur Geräusche. Gesteuert wird per Joystick und Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwurf: Pete Cooke · Code (C64): John Twiddy · Grafik: Jon Law",
+    "en": "On the planet Tau Ceti III, the defence systems of a colony have run out of control. The player flies an armed skimmer through the planet's cities, in either day view or infrared view, and collects 40 cooling-rod parts from the reactor installations. Using the on-board computer, operated by typed commands, these are assembled into 20 rods that are finally inserted into the main reactor in Centralis. The mix of 3D combat, exploration and planning was unusual in 1985 and made Pete Cooke's game a classic.\n\nThe C64 version was released in 1986 on tape and disk and has no music, only sound effects. It is controlled with joystick and keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nDesign: Pete Cooke · Code (C64): John Twiddy · Graphics: Jon Law"
+  },
+  "images": {
+    "ss": "images/71/71d38c3641079c4bafb30b38009456b3faf99a5e.png",
+    "sstitle": "images/25/252b49bf444395f4cb794c5fe846ff5321709b73.png"
+  }
+}

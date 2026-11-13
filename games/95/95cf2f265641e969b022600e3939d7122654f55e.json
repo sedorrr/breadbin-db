@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "95cf2f265641e969b022600e3939d7122654f55e",
+  "md5": "cf565a0e7291722419dea29bda50af36",
+  "crc32": "9463c740",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Freddy Hardest (Part 1).crt"
+  ],
+  "screenscraper_id": "36360",
+  "title": "Freddy Hardest",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Dinamic",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Der Weltraumabenteurer Freddy Hardest muss nach einer Bruchlandung auf einem fremden Mond in eine feindliche Basis eindringen, um mit einem Raumschiff zu entkommen. Im ersten Teil kämpft er sich mit Tritten, Schlägen und einer Laserpistole über die Oberfläche, im zweiten durchsucht er das Innere der Basis. Den Zugangscode für den zweiten Teil erhält man erst nach dem Abschluss des ersten. Das Spiel gehört zu den bekanntesten Titeln des spanischen Studios Dinamic.\n\nDas Spiel erschien 1987 bei Dinamic und in Großbritannien bei Imagine, zuerst für den ZX Spectrum. Die C64-Fassung ist in zwei getrennt ladende Teile gegliedert. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie Umsetzungen beider Teile als OneLoad64-Module.\n\nCode (C64): Fernando Jiménez · Grafik, Musik (C64): Javier Cubedo",
+  "texts": {
+    "de": "Der Weltraumabenteurer Freddy Hardest muss nach einer Bruchlandung auf einem fremden Mond in eine feindliche Basis eindringen, um mit einem Raumschiff zu entkommen. Im ersten Teil kämpft er sich mit Tritten, Schlägen und einer Laserpistole über die Oberfläche, im zweiten durchsucht er das Innere der Basis. Den Zugangscode für den zweiten Teil erhält man erst nach dem Abschluss des ersten. Das Spiel gehört zu den bekanntesten Titeln des spanischen Studios Dinamic.\n\nDas Spiel erschien 1987 bei Dinamic und in Großbritannien bei Imagine, zuerst für den ZX Spectrum. Die C64-Fassung ist in zwei getrennt ladende Teile gegliedert. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie Umsetzungen beider Teile als OneLoad64-Module.\n\nCode (C64): Fernando Jiménez · Grafik, Musik (C64): Javier Cubedo",
+    "en": "After a crash landing on an alien moon, space adventurer Freddy Hardest has to break into an enemy base to escape on a spaceship. In the first part he fights his way across the surface with kicks, punches and a laser pistol; in the second he searches the interior of the base. The access code for the second part is only revealed after completing the first. It is one of the best-known titles from the Spanish studio Dinamic.\n\nThe game was released in 1987 by Dinamic, and by Imagine in Britain, first for the ZX Spectrum. The C64 version is split into two separately loading parts. It is controlled with a joystick in port 2. Besides the original there are cracks and OneLoad64 cartridge conversions of both parts.\n\nCode (C64): Fernando Jiménez · Graphics, music (C64): Javier Cubedo"
+  },
+  "images": {
+    "sstitle": "images/b3/b34ffd2b623f79efa365da0fb77a13343b769aff.png"
+  }
+}

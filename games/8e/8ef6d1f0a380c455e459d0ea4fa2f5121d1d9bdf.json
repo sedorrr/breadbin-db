@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "8ef6d1f0a380c455e459d0ea4fa2f5121d1d9bdf",
+  "md5": "37e7756d3bb4a4e2c99570d3a5ed8c43",
+  "crc32": "35feef20",
+  "size": 37225,
+  "format": "T64",
+  "files": [
+    "DEATHWI3.T64"
+  ],
+  "screenscraper_id": "111517",
+  "title": "Death Wish 3",
+  "year": "1987",
+  "publisher": "Gremlin Graphics",
+  "developer": "Gremlin Graphics (Peter Harrap, Shaun Hollingworth)",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Nach dem gleichnamigen Film mit Charles Bronson zieht Paul Kersey als Selbstjustizler durch ein von Banden beherrschtes Stadtviertel. Er läuft durch Straßen und betritt Gebäude, wobei er zwischen Pistole, Schrotflinte, Maschinengewehr und Panzerfaust wechseln kann. Ziel ist es, die Bandenmitglieder und vor allem ihre Anführer auszuschalten; wer zu viele Passanten oder Polizisten trifft, macht sich die Polizei zum Gegner. Das Spiel war wegen seiner drastischen Gewaltdarstellung umstritten und ist vor allem für seine Musik bekannt.\n\nDie C64-Fassung erschien 1987 bei Gremlin Graphics auf Kassette und Diskette und später auch in Spielesammlungen. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Peter Harrap, Shaun Hollingworth · Grafik: Steve Kerry, Marco Duroe · Musik: Ben Daglish",
+  "texts": {
+    "de": "Nach dem gleichnamigen Film mit Charles Bronson zieht Paul Kersey als Selbstjustizler durch ein von Banden beherrschtes Stadtviertel. Er läuft durch Straßen und betritt Gebäude, wobei er zwischen Pistole, Schrotflinte, Maschinengewehr und Panzerfaust wechseln kann. Ziel ist es, die Bandenmitglieder und vor allem ihre Anführer auszuschalten; wer zu viele Passanten oder Polizisten trifft, macht sich die Polizei zum Gegner. Das Spiel war wegen seiner drastischen Gewaltdarstellung umstritten und ist vor allem für seine Musik bekannt.\n\nDie C64-Fassung erschien 1987 bei Gremlin Graphics auf Kassette und Diskette und später auch in Spielesammlungen. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Peter Harrap, Shaun Hollingworth · Grafik: Steve Kerry, Marco Duroe · Musik: Ben Daglish",
+    "en": "Based on the Charles Bronson film of the same name, Paul Kersey roams a gang-ridden neighbourhood as a vigilante. He walks the streets and enters buildings, switching between a handgun, shotgun, machine gun and rocket launcher. The aim is to take out the gang members and above all their leaders; hitting too many passers-by or police officers turns the police against him. The game drew controversy for its graphic violence and is best remembered for its music.\n\nThe C64 version was released by Gremlin Graphics in 1987 on tape and disk and later appeared on compilations. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode: Peter Harrap, Shaun Hollingworth · Graphics: Steve Kerry, Marco Duroe · Music: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/f9/f914d90047454f8123204428502d93e8b86daba9.png",
+    "sstitle": "images/0d/0d88e4dfeb91a936fed18f233eae8766a6ae28aa.png"
+  }
+}

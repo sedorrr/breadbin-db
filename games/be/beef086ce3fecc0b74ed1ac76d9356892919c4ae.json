@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "beef086ce3fecc0b74ed1ac76d9356892919c4ae",
+  "md5": "98cd6e2177ff6407a189ea64457d2040",
+  "crc32": "2526752f",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Demon Attack (J1).crt"
+  ],
+  "screenscraper_id": "112432",
+  "title": "Demon Attack",
+  "year": "1984",
+  "publisher": "Imagic",
+  "developer": "Imagic (Entwurf: Rob Fulop)",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Am unteren Bildrand steht eine Laserkanone, über ihr flattern vogelartige Dämonen, die in Wellen angreifen und Geschosse herabregnen lassen. In späteren Wellen teilen sich getroffene Dämonen in kleinere Wesen, die im Sturzflug auf die Kanone zuschießen. Mit jeder Welle werden die Gegner schneller und ihre Angriffsmuster tückischer. Demon Attack war einer der erfolgreichsten Titel von Imagic und eine eigenständige Weiterentwicklung des Prinzips von Space Invaders.\n\nDas Spiel erschien zuerst 1982 für das Atari VCS; Imagic brachte danach Fassungen für weitere Systeme heraus, darunter den C64. Gesteuert wird per Joystick; die OneLoad64-Modulfassung ist für Joystick in Port 1 gekennzeichnet, andere Fassungen nutzen Port 2.\n\nEntwurf: Rob Fulop",
+  "texts": {
+    "de": "Am unteren Bildrand steht eine Laserkanone, über ihr flattern vogelartige Dämonen, die in Wellen angreifen und Geschosse herabregnen lassen. In späteren Wellen teilen sich getroffene Dämonen in kleinere Wesen, die im Sturzflug auf die Kanone zuschießen. Mit jeder Welle werden die Gegner schneller und ihre Angriffsmuster tückischer. Demon Attack war einer der erfolgreichsten Titel von Imagic und eine eigenständige Weiterentwicklung des Prinzips von Space Invaders.\n\nDas Spiel erschien zuerst 1982 für das Atari VCS; Imagic brachte danach Fassungen für weitere Systeme heraus, darunter den C64. Gesteuert wird per Joystick; die OneLoad64-Modulfassung ist für Joystick in Port 1 gekennzeichnet, andere Fassungen nutzen Port 2.\n\nEntwurf: Rob Fulop",
+    "en": "A laser cannon sits at the bottom of the screen while bird-like demons flap above it, attacking in waves and raining down shots. In later waves, demons that are hit split into smaller creatures that dive straight at the cannon. With every wave the enemies get faster and their attack patterns more devious. Demon Attack was one of Imagic's most successful titles and an inventive development of the Space Invaders formula.\n\nThe game first appeared in 1982 for the Atari VCS; Imagic then released versions for other systems, including the C64. It is controlled with a joystick; the OneLoad64 cartridge version is marked for a joystick in port 1, while other versions use port 2.\n\nDesign: Rob Fulop"
+  },
+  "images": {
+    "ss": "images/4e/4ea1dc17055c125047ecf95f0eb19561a89f63f9.png",
+    "sstitle": "images/27/2788e34c63c3cf5ca576e419788f2ae301466c30.png"
+  }
+}

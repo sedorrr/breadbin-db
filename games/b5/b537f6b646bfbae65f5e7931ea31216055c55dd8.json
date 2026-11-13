@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b537f6b646bfbae65f5e7931ea31216055c55dd8",
+  "md5": "b30993cb6288858e2fbc12b038f0914a",
+  "crc32": "080b73bc",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Seabase Delta.crt"
+  ],
+  "screenscraper_id": "110736",
+  "title": "Seabase Delta",
+  "year": "1986",
+  "publisher": "Firebird",
+  "developer": "Peter Torrance, Colin Liddle",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Seabase Delta ist die Fortsetzung von Subsunk. Der Reporter Ed Lines sitzt in einem U-Boot, das in eine verlassene feindliche Unterwasserbasis geschleppt wird, und muss von dort entkommen. Das Abenteuer lebt von britischem Humor, zahlreichen Wortspielen und kniffligen Gegenstandsrätseln. Für ein Billigspiel bot es viel Umfang und wurde von der Fachpresse gelobt.\n\nGeschrieben wurde das Spiel mit The Quill; die C64-Fassung zeigt Bilder zu den Orten und erschien als Kassette in der Budgetreihe von Firebird. Gesteuert wird über die Tastatur.\n\nDesign und Code: Peter Torrance, Colin Liddle",
+  "texts": {
+    "de": "Seabase Delta ist die Fortsetzung von Subsunk. Der Reporter Ed Lines sitzt in einem U-Boot, das in eine verlassene feindliche Unterwasserbasis geschleppt wird, und muss von dort entkommen. Das Abenteuer lebt von britischem Humor, zahlreichen Wortspielen und kniffligen Gegenstandsrätseln. Für ein Billigspiel bot es viel Umfang und wurde von der Fachpresse gelobt.\n\nGeschrieben wurde das Spiel mit The Quill; die C64-Fassung zeigt Bilder zu den Orten und erschien als Kassette in der Budgetreihe von Firebird. Gesteuert wird über die Tastatur.\n\nDesign und Code: Peter Torrance, Colin Liddle",
+    "en": "Seabase Delta is the sequel to Subsunk. Reporter Ed Lines is aboard a submarine that gets towed into a deserted enemy underwater base and has to escape from there. The adventure thrives on British humour, plenty of wordplay and tricky object puzzles. For a budget game it offered a lot and was praised by the press.\n\nThe game was written with The Quill; the C64 version shows pictures of the locations and was released on tape in Firebird's budget range. It is played from the keyboard.\n\nDesign and code: Peter Torrance, Colin Liddle"
+  },
+  "images": {
+    "ss": "images/39/39c2837a0ae75660f47381dbe60e2aba87780175.png",
+    "sstitle": "images/62/6243e5523f54c76e642aaf691f5975db0dd7e2ab.png"
+  }
+}

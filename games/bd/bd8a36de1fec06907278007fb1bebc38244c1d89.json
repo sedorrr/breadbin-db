@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "bd8a36de1fec06907278007fb1bebc38244c1d89",
+  "md5": "676bcc4711f07eae24f3dedba6dddf42",
+  "crc32": "950d3bac",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "ThunderCats.crt"
+  ],
+  "screenscraper_id": "36198",
+  "title": "ThunderCats: The Lost Eye of Thundera",
+  "year": "1987",
+  "publisher": "Elite",
+  "developer": "Gargoyle Games",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zur Zeichentrickserie: Lion-O, der Anführer der ThunderCats, soll das gestohlene Auge von Thundera zurückholen und unterwegs seine gefangenen Gefährten befreien. In seitlich scrollenden Abschnitten läuft und springt er über Plattformen und schlägt Mutanten und andere Schergen mit dem Schwert nieder; zeitweise steht auch eine Schusswaffe zur Verfügung. Einige Abschnitte enthalten Befreiungsaufträge, die über den weiteren Verlauf entscheiden. Bekannt ist die C64-Fassung vor allem für die eigenständige Titelmusik von Rob Hubbard, die nicht auf der Serienmelodie beruht.\n\nErschienen auf Kassette und Diskette, auch für Spectrum, Amstrad CPC und Amiga. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung: Gargoyle Games · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Spiel zur Zeichentrickserie: Lion-O, der Anführer der ThunderCats, soll das gestohlene Auge von Thundera zurückholen und unterwegs seine gefangenen Gefährten befreien. In seitlich scrollenden Abschnitten läuft und springt er über Plattformen und schlägt Mutanten und andere Schergen mit dem Schwert nieder; zeitweise steht auch eine Schusswaffe zur Verfügung. Einige Abschnitte enthalten Befreiungsaufträge, die über den weiteren Verlauf entscheiden. Bekannt ist die C64-Fassung vor allem für die eigenständige Titelmusik von Rob Hubbard, die nicht auf der Serienmelodie beruht.\n\nErschienen auf Kassette und Diskette, auch für Spectrum, Amstrad CPC und Amiga. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung: Gargoyle Games · Musik: Rob Hubbard",
+    "en": "A tie-in to the cartoon series: Lion-O, leader of the ThunderCats, has to recover the stolen Eye of Thundera and free his captured companions along the way. In side-scrolling stages he runs and jumps across platforms and cuts down mutants and other henchmen with his sword; at times a firearm is available as well. Some stages include rescue missions that affect how the game continues. The C64 version is best known for Rob Hubbard's original title music, which is not based on the series theme.\n\nReleased on tape and disk, also for the Spectrum, Amstrad CPC and Amiga. It is controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nDevelopment: Gargoyle Games · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/ff/ffa535194060aa5aa9c2531ebaaa8c1757e39b4b.png",
+    "sstitle": "images/80/80a2bec93c12229c04e3b3bfda8ae1e4d320ca4c.png"
+  }
+}

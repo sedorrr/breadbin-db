@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a51a2c203630724f6b09f25f0db0c12c401fba95",
+  "md5": "6793e98b624bc5d4bccc4fb0d9d6f8b2",
+  "crc32": "6b74d4a9",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Ghost Chaser (J1).crt"
+  ],
+  "screenscraper_id": "112578",
+  "title": "Ghost Chaser",
+  "year": "1984",
+  "publisher": "Artworx",
+  "developer": "Frank Cohen (Fanda)",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Abenteurer durchquert die sechzehn Räume eines Spukhauses, um die Schatzkammer zu erreichen. Geister in vielen Gestalten, von Tropfen und Glühwürmchen bis zu tödlichen Rasierklingen, stellen sich ihm in den Weg; er kann springen, sich ducken und an Rohren die Beine anziehen. Manche Räume sind verschlossen und brauchen einen Schlüssel. Gesammelte Steine vertreiben die Geister kurzzeitig, und Einfälle wie ein Gemälde, das dem Spieler nachblickt, oder aus Gräbern steigende Skelette sorgen für Gruselstimmung.\n\nDas Spiel erschien 1984 bei Artworx für Atari-8-Bit-Rechner und C64, in Europa vertrieb U.S. Gold. Gesteuert wird per Joystick; die OneLoad64-Modulfassung ist für Port 1 gekennzeichnet, andere Fassungen nutzen Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik, Musik: Frank Cohen",
+  "texts": {
+    "de": "Ein Abenteurer durchquert die sechzehn Räume eines Spukhauses, um die Schatzkammer zu erreichen. Geister in vielen Gestalten, von Tropfen und Glühwürmchen bis zu tödlichen Rasierklingen, stellen sich ihm in den Weg; er kann springen, sich ducken und an Rohren die Beine anziehen. Manche Räume sind verschlossen und brauchen einen Schlüssel. Gesammelte Steine vertreiben die Geister kurzzeitig, und Einfälle wie ein Gemälde, das dem Spieler nachblickt, oder aus Gräbern steigende Skelette sorgen für Gruselstimmung.\n\nDas Spiel erschien 1984 bei Artworx für Atari-8-Bit-Rechner und C64, in Europa vertrieb U.S. Gold. Gesteuert wird per Joystick; die OneLoad64-Modulfassung ist für Port 1 gekennzeichnet, andere Fassungen nutzen Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik, Musik: Frank Cohen",
+    "en": "An adventurer crosses the sixteen rooms of a haunted house to reach the treasure chamber. Ghosts in many forms, from drops and fireflies to deadly razor blades, block the way; he can jump, crouch and pull up his legs while hanging from pipes. Some rooms are locked and require a key. Collected stones drive the ghosts away for a while, and touches such as a painting whose eyes follow the player or skeletons rising from graves add to the spooky atmosphere.\n\nThe game was released by Artworx in 1984 for Atari 8-bit computers and the C64, with U.S. Gold distributing it in Europe. It is controlled with a joystick; the OneLoad64 cartridge version is marked for port 1, while other versions use port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode, graphics, music: Frank Cohen"
+  },
+  "images": {
+    "ss": "images/a0/a07fb4be84c864bd103e6c88db7e27ed3752163f.png",
+    "sstitle": "images/6d/6d08c79e1bbf6b269457196aa2c831aaa1d8ce6a.png"
+  }
+}

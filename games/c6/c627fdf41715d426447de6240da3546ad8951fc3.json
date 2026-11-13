@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c627fdf41715d426447de6240da3546ad8951fc3",
+  "md5": "0f21abc80e6c776f7f59f5d6c1a8eddb",
+  "crc32": "fded1643",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WAYOFTT1.D64"
+  ],
+  "screenscraper_id": "36783",
+  "title": "The Way of the Tiger",
+  "year": "1986",
+  "publisher": "Gremlin Graphics",
+  "developer": "Gremlin Graphics",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Ein junger Ninja muss sich in drei Kampfdisziplinen bewähren: im waffenlosen Zweikampf, im Stockkampf auf einem Baumstamm über einem Fluss und im Schwertkampf mit dem Samurai-Schwert. In jeder Disziplin trifft er nacheinander auf immer stärkere Gegner, die Kraftanzeigen beider Kämpfer entscheiden über den Ausgang. Große, gut animierte Figuren und ein scrollender Hintergrund mit mehreren Ebenen waren für 1986 bemerkenswert. Das Spiel beruht auf der gleichnamigen Spielbuchreihe; der Nachfolger heißt Avenger.\n\nGremlin Graphics veröffentlichte das Spiel auf Kassette und Diskette (zwei Disketten); die Disziplinen werden nachgeladen. Daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Jason H. Perkins, Chris Kerry · Grafik: Jason H. Perkins, Chris Kerry · Musik: Ben Daglish",
+  "texts": {
+    "de": "Ein junger Ninja muss sich in drei Kampfdisziplinen bewähren: im waffenlosen Zweikampf, im Stockkampf auf einem Baumstamm über einem Fluss und im Schwertkampf mit dem Samurai-Schwert. In jeder Disziplin trifft er nacheinander auf immer stärkere Gegner, die Kraftanzeigen beider Kämpfer entscheiden über den Ausgang. Große, gut animierte Figuren und ein scrollender Hintergrund mit mehreren Ebenen waren für 1986 bemerkenswert. Das Spiel beruht auf der gleichnamigen Spielbuchreihe; der Nachfolger heißt Avenger.\n\nGremlin Graphics veröffentlichte das Spiel auf Kassette und Diskette (zwei Disketten); die Disziplinen werden nachgeladen. Daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Jason H. Perkins, Chris Kerry · Grafik: Jason H. Perkins, Chris Kerry · Musik: Ben Daglish",
+    "en": "A young ninja has to prove himself in three combat disciplines: unarmed combat, pole fighting on a log above a river, and sword fighting with a samurai sword. In each discipline he faces a series of increasingly strong opponents, with both fighters' energy bars deciding the outcome. Large, well-animated characters and a multi-layer scrolling background were remarkable for 1986. The game is based on the gamebook series of the same name; its sequel is Avenger.\n\nGremlin Graphics released the game on cassette and disk (two disks); the disciplines are loaded separately. EasyFlash conversions from the scene exist as well. It is played with a joystick in port 2.\n\nCode: Jason H. Perkins, Chris Kerry · Graphics: Jason H. Perkins, Chris Kerry · Music: Ben Daglish"
+  },
+  "images": {
+    "sstitle": "images/35/358283741514d05460e81649890ca0182355b320.png"
+  }
+}

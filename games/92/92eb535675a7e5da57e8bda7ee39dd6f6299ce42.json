@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "92eb535675a7e5da57e8bda7ee39dd6f6299ce42",
+  "md5": "940e61f4063debdf04ff1bf039205ac9",
+  "crc32": "4107c7e3",
+  "size": 229888,
+  "format": "CRT",
+  "files": [
+    "Robocop II.crt"
+  ],
+  "screenscraper_id": "36120",
+  "title": "RoboCop 2",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Painting by Numbers",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum zweiten RoboCop-Film: Der Cyborg-Polizist geht in Detroit gegen den Drogenhändler Cain vor, der die Droge Nuke verbreitet. In seitlich scrollenden Abschnitten springt RoboCop über Plattformen, schießt auf Gangster und stellt Drogenlabore sicher; zwischendurch lockern Puzzle-Einlagen und Schießduelle Mann gegen Mann das Geschehen auf. Am Ende stellt er Cain zum Duell und muss danach gegen RoboCop 2 antreten, die neue Maschine, in der Cains Gehirn steckt.\n\nDie C64-Fassung erschien bei Ocean als Modul und auf Diskette und unterscheidet sich von den Amiga- und Konsolenfassungen. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine Umsetzung als EasyFlash-Modul.\n\nCode: Mark Rogers, Chris Kerry · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Spiel zum zweiten RoboCop-Film: Der Cyborg-Polizist geht in Detroit gegen den Drogenhändler Cain vor, der die Droge Nuke verbreitet. In seitlich scrollenden Abschnitten springt RoboCop über Plattformen, schießt auf Gangster und stellt Drogenlabore sicher; zwischendurch lockern Puzzle-Einlagen und Schießduelle Mann gegen Mann das Geschehen auf. Am Ende stellt er Cain zum Duell und muss danach gegen RoboCop 2 antreten, die neue Maschine, in der Cains Gehirn steckt.\n\nDie C64-Fassung erschien bei Ocean als Modul und auf Diskette und unterscheidet sich von den Amiga- und Konsolenfassungen. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine Umsetzung als EasyFlash-Modul.\n\nCode: Mark Rogers, Chris Kerry · Musik: Jonathan Dunn",
+    "en": "A tie-in to the second RoboCop film: the cyborg policeman takes on the drug dealer Cain in Detroit, who is spreading the drug Nuke. In side-scrolling stages RoboCop jumps across platforms, shoots gangsters and seizes drug labs; in between, puzzle sections and head-to-head shoot-outs break up the action. At the end he faces Cain in a showdown and then has to take on RoboCop 2, the new machine housing Cain's brain.\n\nThe C64 version was released by Ocean on cartridge and disk and differs from the Amiga and console versions. It is controlled with a joystick in port 2. There is also a conversion as an EasyFlash cartridge.\n\nCode: Mark Rogers, Chris Kerry · Music: Jonathan Dunn"
+  },
+  "images": {
+    "ss": "images/f6/f6213d52a0b2290f13e9c7266b6734dd4bd1b50c.png",
+    "sstitle": "images/a2/a2c657937a5eae6c684716a302a76ad29c7d5aa0.png"
+  }
+}

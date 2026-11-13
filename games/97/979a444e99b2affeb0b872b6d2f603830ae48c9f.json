@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "979a444e99b2affeb0b872b6d2f603830ae48c9f",
+  "md5": "bbe29bf15e176f576ae54b8f9035f733",
+  "crc32": "d9bf3440",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Magicland Dizzy.crt"
+  ],
+  "screenscraper_id": "36497",
+  "title": "Magicland Dizzy",
+  "year": "1990",
+  "publisher": "Codemasters",
+  "developer": "Big Red Software",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Zauberer Zaks ist zurück und hat Dizzys Freunde aus der Yolkfolk-Familie in Magicland mit Flüchen belegt. Dizzy muss sie einen nach dem anderen befreien, Diamanten einsammeln und schließlich Zaks besiegen. Das Spiel greift Figuren und Orte aus bekannten Märchen auf und bietet viele Gegenstandsrätsel auf einer großen, zusammenhängenden Karte. Als erstes Dizzy-Abenteuer wurde es nicht von den Oliver Twins selbst, sondern von Big Red Software umgesetzt.\n\nDie C64-Fassung erschien 1990 als Kassette bei Codemasters und später in Sammlungen. Gesteuert wird mit dem Joystick, Gegenstände werden über ein Menü gewählt.\n\nDesign: Neal Vincent, The Oliver Twins · Entwicklung: Big Red Software",
+  "texts": {
+    "de": "Der Zauberer Zaks ist zurück und hat Dizzys Freunde aus der Yolkfolk-Familie in Magicland mit Flüchen belegt. Dizzy muss sie einen nach dem anderen befreien, Diamanten einsammeln und schließlich Zaks besiegen. Das Spiel greift Figuren und Orte aus bekannten Märchen auf und bietet viele Gegenstandsrätsel auf einer großen, zusammenhängenden Karte. Als erstes Dizzy-Abenteuer wurde es nicht von den Oliver Twins selbst, sondern von Big Red Software umgesetzt.\n\nDie C64-Fassung erschien 1990 als Kassette bei Codemasters und später in Sammlungen. Gesteuert wird mit dem Joystick, Gegenstände werden über ein Menü gewählt.\n\nDesign: Neal Vincent, The Oliver Twins · Entwicklung: Big Red Software",
+    "en": "The wizard Zaks is back and has put curses on Dizzy's Yolkfolk friends in Magicland. Dizzy has to free them one by one, collect diamonds and finally defeat Zaks. The game borrows characters and places from well-known fairy tales and offers plenty of item puzzles on a large, continuous map. It was the first Dizzy adventure not made by the Oliver Twins themselves but by Big Red Software.\n\nThe C64 version was released in 1990 on tape by Codemasters and later in compilations. It is controlled with a joystick, and items are selected from a menu.\n\nDesign: Neal Vincent, The Oliver Twins · Development: Big Red Software"
+  },
+  "images": {
+    "ss": "images/2d/2d721cc88f699789b739ce8b4b9ba92aec1f081c.png",
+    "sstitle": "images/e2/e21867194fc937dc3212cce4251bd6957597ae30.png"
+  }
+}

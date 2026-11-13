@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c0d3d9e8651ea395d658b03550a4f2b40e8d020e",
+  "md5": "20498499066f147fe9606d8dc02f73fa",
+  "crc32": "c62b6bba",
+  "size": 443775,
+  "format": "TAP",
+  "files": [
+    "Lazy Jones.tap"
+  ],
+  "screenscraper_id": "114196",
+  "title": "Lazy Jones",
+  "year": "1984",
+  "publisher": "Terminal Software",
+  "developer": "David Whittaker",
+  "genres": [
+    "Arcade",
+    "Sammlung"
+  ],
+  "players": "1",
+  "synopsis": "Lazy Jones ist Hausmeister in einem Hotel und spielt lieber Computerspiele, als zu arbeiten. Auf drei Stockwerken liegen 18 Zimmer, und hinter den meisten Türen wartet ein kurzes Minispiel, etwa ein Weltraumschießen, ein Frogger-Verschnitt oder eine Breakout-Variante. Ziel ist, jedes Zimmer einmal zu besuchen, bevor die Zeit abläuft, und dabei den Kollegen auf den Fluren auszuweichen. Die Sammlung kleiner Spiele in einem Rahmenspiel war 1984 ungewöhnlich; die Titelmelodie wurde 1999 durch „Kernkraft 400“ von Zombie Nation weltbekannt.\n\nErschienen auf Kassette und Diskette. Gesteuert wird per Joystick, wahlweise auch per Tastatur. In jedem Zimmer spielt eine eigene Melodie. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode und Musik: David Whittaker",
+  "texts": {
+    "de": "Lazy Jones ist Hausmeister in einem Hotel und spielt lieber Computerspiele, als zu arbeiten. Auf drei Stockwerken liegen 18 Zimmer, und hinter den meisten Türen wartet ein kurzes Minispiel, etwa ein Weltraumschießen, ein Frogger-Verschnitt oder eine Breakout-Variante. Ziel ist, jedes Zimmer einmal zu besuchen, bevor die Zeit abläuft, und dabei den Kollegen auf den Fluren auszuweichen. Die Sammlung kleiner Spiele in einem Rahmenspiel war 1984 ungewöhnlich; die Titelmelodie wurde 1999 durch „Kernkraft 400“ von Zombie Nation weltbekannt.\n\nErschienen auf Kassette und Diskette. Gesteuert wird per Joystick, wahlweise auch per Tastatur. In jedem Zimmer spielt eine eigene Melodie. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode und Musik: David Whittaker",
+    "en": "Lazy Jones is a hotel caretaker who would rather play computer games than work. There are 18 rooms on three floors, and behind most doors waits a short mini-game, such as a space shooter, a Frogger lookalike or a Breakout variant. The goal is to visit every room once before time runs out while dodging colleagues in the corridors. A collection of small games inside a framing game was unusual in 1984; the title tune became world-famous in 1999 through 'Kernkraft 400' by Zombie Nation.\n\nReleased on tape and disk. It is controlled with a joystick, or alternatively the keyboard. Each room plays its own tune. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode and music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/cb/cbadcb0a83050ee88b5c41aeed3d6e7ea2ba75cb.png"
+  }
+}

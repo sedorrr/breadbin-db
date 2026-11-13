@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "bece7c9728eea21fdb4e075b74999c94996526d4",
+  "md5": "1c4f007ef2048088525171a8f6a0e59c",
+  "crc32": "593c1afe",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "Castle of Terror.crt"
+  ],
+  "screenscraper_id": "112410",
+  "title": "Castle of Terror",
+  "year": "1984",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Ein alter Mann in der Dorfschenke bittet darum, seine Tochter aus dem nahen Schloss des Grafen zu befreien – eines Vampirs. Unterwegs müssen Gegenstände gesammelt und an der richtigen Stelle eingesetzt werden. Befehle werden als Text eingegeben, dazu zeigt ein Bild den aktuellen Ort, ähnlich wie bei der C64-Fassung von The Hobbit. Berüchtigt ist das Spiel für den Grafen selbst: Viele Spieler versuchten vergeblich, ihn zu töten, was laut dem Autor gar nicht möglich ist, obwohl der Text es nahelegt.\n\nCastle of Terror entwickelte Beam Software in Melbourne; Melbourne House veröffentlichte es 1984 für C64 und ZX Spectrum. Gesteuert wird über die Tastatur. Neben Original und Cracks gibt es eine MultiLoad64-Umsetzung als Modul.\n\nText: Grahame Willis · Code: Peter Falconer · Grafik: Greg Holland · Musik: Neil Brennan",
+  "texts": {
+    "de": "Ein alter Mann in der Dorfschenke bittet darum, seine Tochter aus dem nahen Schloss des Grafen zu befreien – eines Vampirs. Unterwegs müssen Gegenstände gesammelt und an der richtigen Stelle eingesetzt werden. Befehle werden als Text eingegeben, dazu zeigt ein Bild den aktuellen Ort, ähnlich wie bei der C64-Fassung von The Hobbit. Berüchtigt ist das Spiel für den Grafen selbst: Viele Spieler versuchten vergeblich, ihn zu töten, was laut dem Autor gar nicht möglich ist, obwohl der Text es nahelegt.\n\nCastle of Terror entwickelte Beam Software in Melbourne; Melbourne House veröffentlichte es 1984 für C64 und ZX Spectrum. Gesteuert wird über die Tastatur. Neben Original und Cracks gibt es eine MultiLoad64-Umsetzung als Modul.\n\nText: Grahame Willis · Code: Peter Falconer · Grafik: Greg Holland · Musik: Neil Brennan",
+    "en": "An old man in the village tavern asks for his daughter to be rescued from the nearby castle of the Count – a vampire. Along the way, objects have to be collected and used in the right places. Commands are typed in as text, while a picture shows the current location, much like the C64 version of The Hobbit. The game is notorious for the Count himself: many players tried in vain to kill him, which according to the author is not possible at all, even though the text suggests otherwise.\n\nCastle of Terror was developed by Beam Software in Melbourne and published by Melbourne House in 1984 for the C64 and ZX Spectrum. It is controlled with the keyboard. Besides the original and cracked versions there is a MultiLoad64 cartridge conversion.\n\nWriting: Grahame Willis · Code: Peter Falconer · Graphics: Greg Holland · Music: Neil Brennan"
+  },
+  "images": {
+    "ss": "images/08/08fed383ff9278aefd08ba80f3a6bbe66b22faa6.png",
+    "sstitle": "images/32/32074a9117662d2eede40f29adc6fe2c3758694d.png"
+  }
+}

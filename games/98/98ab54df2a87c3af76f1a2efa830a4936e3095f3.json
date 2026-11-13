@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "98ab54df2a87c3af76f1a2efa830a4936e3095f3",
+  "md5": "4cb9bc4e9b2d10720f21b102e527cab5",
+  "crc32": "26ee2b0d",
+  "size": 569962,
+  "format": "TAP",
+  "files": [
+    "Super Scramble Simulator.tap"
+  ],
+  "screenscraper_id": "36387",
+  "title": "Super Scramble Simulator",
+  "year": "1989",
+  "publisher": "Gremlin Graphics",
+  "developer": "Magnetic Fields",
+  "genres": [
+    "Rennen",
+    "Geschicklichkeit"
+  ],
+  "players": "1-6",
+  "synopsis": "Super Scramble Simulator ist ein Motorrad-Trialspiel in Seitenansicht. Der Fahrer muss Strecken voller Hindernisse wie Baumstämme, Autowracks, Rampen und Wassergräben bewältigen, ohne zu stürzen und innerhalb des Zeitlimits. Gas, Gangwahl und Gewichtsverlagerung entscheiden darüber, ob das Motorrad sauber über ein Hindernis kommt oder sich überschlägt. Das feinfühlige Fahrverhalten verlangt viel Übung und hebt das Spiel von einfachen Motorrad-Rennspielen ab.\n\nGremlin Graphics veröffentlichte die C64-Fassung auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Shaun Southern · Grafik: Andrew Morris · Musik: Shaun Southern",
+  "texts": {
+    "de": "Super Scramble Simulator ist ein Motorrad-Trialspiel in Seitenansicht. Der Fahrer muss Strecken voller Hindernisse wie Baumstämme, Autowracks, Rampen und Wassergräben bewältigen, ohne zu stürzen und innerhalb des Zeitlimits. Gas, Gangwahl und Gewichtsverlagerung entscheiden darüber, ob das Motorrad sauber über ein Hindernis kommt oder sich überschlägt. Das feinfühlige Fahrverhalten verlangt viel Übung und hebt das Spiel von einfachen Motorrad-Rennspielen ab.\n\nGremlin Graphics veröffentlichte die C64-Fassung auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Shaun Southern · Grafik: Andrew Morris · Musik: Shaun Southern",
+    "en": "Super Scramble Simulator is a motorbike trials game shown from the side. The rider has to tackle courses full of obstacles such as logs, wrecked cars, ramps and water ditches without falling off and within the time limit. Throttle, gear selection and shifting the rider's weight decide whether the bike clears an obstacle cleanly or flips over. The delicate handling takes a lot of practice and sets the game apart from simple motorbike racers.\n\nGremlin Graphics released the C64 version on cassette and disk; cartridge conversions from the scene appeared later. It is played with a joystick in port 2.\n\nCode: Shaun Southern · Graphics: Andrew Morris · Music: Shaun Southern"
+  },
+  "images": {
+    "sstitle": "images/dc/dc046f34460a0aca12fce6eaf6a0f4d3954413ec.png"
+  }
+}

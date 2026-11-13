@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "9bbbaa5e02cfb38ce578dbcd53ff8ae6ea4b31dc",
+  "md5": "bcc599b88a447e84ac160cbeafdd086e",
+  "crc32": "cf9b3e2d",
+  "size": 246304,
+  "format": "CRT",
+  "files": [
+    "Tass Times in Tonetown.crt",
+    "Tass Times in Tone Town [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36478",
+  "title": "Tass Times in Tonetown",
+  "year": "1986",
+  "publisher": "Activision",
+  "developer": "Interplay Productions, Brainwave Creations",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Der Erfinder Gramps ist verschwunden, und in seiner Hütte findet der Spieler ein Reifengerät, das ihn samt Gramps' Hund Spot nach Tonetown versetzt – eine schrille Parallelwelt, die an die bunten achtziger Jahre erinnert. Spot entpuppt sich dort als berühmter Held Ennio, und gemeinsam suchen sie Gramps, den der skrupellose Unternehmer Franklin Snarl gefangen hält. Um in der modebewussten Stadt bestehen zu können, muss der Spieler „tass“ werden, also den richtigen Stil treffen. Befehle werden eingetippt oder durch Anklicken von Dingen im Bild ausgelöst. Der eigenwillige Humor und die verrückte Welt machen das Spiel unverwechselbar.\n\nErschien 1986 bei Activision für mehrere Systeme, darunter den C64 auf Diskette. Bedient wird mit Tastatur und Joystick in Port 2, der einen Zeiger im Bildfenster steuert. Neben der Diskettenfassung gibt es EasyFlash-Umsetzungen ohne Nachladen von Diskette.\n\nEntwurf: Michael Berlyn, Muffy McClung Berlyn · Code: Rebecca Heineman",
+  "texts": {
+    "de": "Der Erfinder Gramps ist verschwunden, und in seiner Hütte findet der Spieler ein Reifengerät, das ihn samt Gramps' Hund Spot nach Tonetown versetzt – eine schrille Parallelwelt, die an die bunten achtziger Jahre erinnert. Spot entpuppt sich dort als berühmter Held Ennio, und gemeinsam suchen sie Gramps, den der skrupellose Unternehmer Franklin Snarl gefangen hält. Um in der modebewussten Stadt bestehen zu können, muss der Spieler „tass“ werden, also den richtigen Stil treffen. Befehle werden eingetippt oder durch Anklicken von Dingen im Bild ausgelöst. Der eigenwillige Humor und die verrückte Welt machen das Spiel unverwechselbar.\n\nErschien 1986 bei Activision für mehrere Systeme, darunter den C64 auf Diskette. Bedient wird mit Tastatur und Joystick in Port 2, der einen Zeiger im Bildfenster steuert. Neben der Diskettenfassung gibt es EasyFlash-Umsetzungen ohne Nachladen von Diskette.\n\nEntwurf: Michael Berlyn, Muffy McClung Berlyn · Code: Rebecca Heineman",
+    "en": "The inventor Gramps has disappeared, and in his cabin the player finds a hoop device that transports him, together with Gramps' dog Spot, to Tonetown – a garish parallel world reminiscent of the colourful 1980s. There Spot turns out to be the famous hero Ennio, and together they search for Gramps, who is held captive by the ruthless tycoon Franklin Snarl. To get by in the fashion-conscious town, the player has to become “tass”, that is, hit the right style. Commands are typed in or triggered by clicking things in the picture. The quirky humour and the crazy world make the game unmistakable.\n\nReleased by Activision in 1986 for several systems, including the C64 on disk. It is operated with keyboard and a joystick in port 2 that moves a pointer in the picture window. Besides the disk version, there are EasyFlash conversions without disk loading.\n\nDesign: Michael Berlyn, Muffy McClung Berlyn · Code: Rebecca Heineman"
+  },
+  "images": {
+    "ss": "images/4a/4a26b822eaeb2e3592ce0efd0d828aa2934c18aa.png",
+    "sstitle": "images/11/11e46563b80c744e16a4417f30daca61cb28a7c6.png"
+  }
+}

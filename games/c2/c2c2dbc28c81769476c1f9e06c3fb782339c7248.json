@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "c2c2dbc28c81769476c1f9e06c3fb782339c7248",
+  "md5": "03c758b59d9795b24e2d6d404396b6d0",
+  "crc32": "1eae2722",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Space Harrier (both versions).crt"
+  ],
+  "screenscraper_id": "35934",
+  "title": "Space Harrier",
+  "year": "1987",
+  "publisher": "Elite",
+  "developer": "Chris Butler",
+  "genres": [
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Sega-Automaten von 1985: Der Held fliegt mit einer Laserkanone unter dem Arm durch die Fantasiewelt Dragonland und schießt auf Drachen, Riesenköpfe, Roboter und Säulen, die aus der Tiefe des Bildes auf ihn zukommen. Am Ende jedes Abschnitts wartet ein Endgegner. Der Automat beeindruckte mit schneller Pseudo-3D-Darstellung, die auf dem C64 nur mit Abstrichen nachzubilden war.\n\nDie C64-Fassung von Elite erschien auf Kassette und Diskette und hat 12 statt 18 Abschnitte, keine Bonusrunden und keine Fortsetzungsfunktion. In den USA erschien eine überarbeitete Fassung mit detaillierteren Gegnern und veränderten Klängen. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es Umsetzungen als EasyFlash-Modul, teils mit beiden Fassungen.\n\nCode: Chris Butler · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Umsetzung des Sega-Automaten von 1985: Der Held fliegt mit einer Laserkanone unter dem Arm durch die Fantasiewelt Dragonland und schießt auf Drachen, Riesenköpfe, Roboter und Säulen, die aus der Tiefe des Bildes auf ihn zukommen. Am Ende jedes Abschnitts wartet ein Endgegner. Der Automat beeindruckte mit schneller Pseudo-3D-Darstellung, die auf dem C64 nur mit Abstrichen nachzubilden war.\n\nDie C64-Fassung von Elite erschien auf Kassette und Diskette und hat 12 statt 18 Abschnitte, keine Bonusrunden und keine Fortsetzungsfunktion. In den USA erschien eine überarbeitete Fassung mit detaillierteren Gegnern und veränderten Klängen. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es Umsetzungen als EasyFlash-Modul, teils mit beiden Fassungen.\n\nCode: Chris Butler · Musik: Mark Cooksey",
+    "en": "A conversion of Sega's 1985 arcade game: the hero flies through the fantasy world of Dragonland with a laser cannon under his arm, shooting at dragons, giant heads, robots and pillars that come at him from the depths of the screen. A boss waits at the end of each stage. The arcade machine impressed with fast pseudo-3D graphics that the C64 could reproduce only with compromises.\n\nElite's C64 version was released on tape and disk and has 12 instead of 18 stages, no bonus rounds and no continue option. A reworked version with more detailed enemies and different sounds was released in the USA. It is controlled with a joystick in port 2. There are also conversions as EasyFlash cartridges, some containing both versions.\n\nCode: Chris Butler · Music: Mark Cooksey"
+  }
+}

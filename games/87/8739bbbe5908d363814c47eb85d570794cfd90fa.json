@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8739bbbe5908d363814c47eb85d570794cfd90fa",
+  "md5": "9861ddf438ec2478ca5e57e99f87f5b8",
+  "crc32": "e73bc797",
+  "size": 73425,
+  "format": "T64",
+  "files": [
+    "MISSIONE.T64"
+  ],
+  "screenscraper_id": "36682",
+  "title": "Mission Elevator",
+  "year": "1986",
+  "publisher": "Eurogold",
+  "developer": "Micropool",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Agentenspiel in einem Hotel: Der Spieler muss sich bis in den 62. Stock vorarbeiten und dort eine Bombe entschärfen, bevor der Countdown abläuft. Auf dem Weg nach oben fährt er mit Aufzügen, schießt feindliche Agenten ab und durchsucht Räume nach Hinweisen, die er für die Entschärfung braucht. Schlüssel öffnen verschlossene Türen und höhere Stockwerke, und wer zu oft getroffen wird, scheitert. Die Mischung aus Action, Suche und Zeitdruck machte das Spiel aus deutscher Entwicklung zu einem bekannten Titel.\n\nErschien bei Eurogold (Micropool) auf Kassette und Diskette, später auch als Budget-Neuauflage bei Kixx. Heute gibt es zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 1.\n\nCode: Rolf Lakämper · Grafik: Bettina Wiedner, Thorsten Mutschall",
+  "texts": {
+    "de": "Agentenspiel in einem Hotel: Der Spieler muss sich bis in den 62. Stock vorarbeiten und dort eine Bombe entschärfen, bevor der Countdown abläuft. Auf dem Weg nach oben fährt er mit Aufzügen, schießt feindliche Agenten ab und durchsucht Räume nach Hinweisen, die er für die Entschärfung braucht. Schlüssel öffnen verschlossene Türen und höhere Stockwerke, und wer zu oft getroffen wird, scheitert. Die Mischung aus Action, Suche und Zeitdruck machte das Spiel aus deutscher Entwicklung zu einem bekannten Titel.\n\nErschien bei Eurogold (Micropool) auf Kassette und Diskette, später auch als Budget-Neuauflage bei Kixx. Heute gibt es zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 1.\n\nCode: Rolf Lakämper · Grafik: Bettina Wiedner, Thorsten Mutschall",
+    "en": "A spy game set in a hotel: the player has to work his way up to the 62nd floor and defuse a bomb there before the countdown runs out. On the way up he rides elevators, shoots enemy agents and searches rooms for the clues needed to defuse the bomb. Keys open locked doors and higher floors, and being hit too often ends the mission. The mix of action, searching and time pressure made this German-developed game a well-known title.\n\nReleased by Eurogold (Micropool) on cassette and disk, later also as a budget re-release by Kixx. Today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 1.\n\nCode: Rolf Lakämper · Graphics: Bettina Wiedner, Thorsten Mutschall"
+  },
+  "images": {
+    "sstitle": "images/bf/bffcd6306271e6c6fd5615acf8878f535fde2665.png"
+  }
+}

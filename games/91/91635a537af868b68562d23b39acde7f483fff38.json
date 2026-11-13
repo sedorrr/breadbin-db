@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "91635a537af868b68562d23b39acde7f483fff38",
+  "md5": "249ae545dd6b29896c93c277ec7906c0",
+  "crc32": "00288925",
+  "size": 49593,
+  "format": "T64",
+  "files": [
+    "SPLITPRS.T64"
+  ],
+  "screenscraper_id": "36379",
+  "title": "Split Personalities",
+  "year": "1986",
+  "publisher": "Domark",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Split Personalities ist ein Schiebepuzzle mit Karikaturen bekannter Persönlichkeiten aus Politik und Unterhaltung der 1980er-Jahre. Die Bildteile kommen einzeln aus einer Öffnung ins Spielfeld und müssen dann verschoben werden, bis das Porträt vollständig ist. Einige Teile verändern das Bild oder wirken als Störung, und ein Zeitlimit treibt zur Eile. Der satirische Humor im Stil britischer Puppensendungen war ein Markenzeichen des Spiels.\n\nDomark veröffentlichte das Spiel auf Kassette und Diskette; es gibt eine europäische und eine kombinierte Fassung für PAL und NTSC, später auch Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Mark Greenshields · Grafik: Richard Naylor · Musik: David Whittaker",
+  "texts": {
+    "de": "Split Personalities ist ein Schiebepuzzle mit Karikaturen bekannter Persönlichkeiten aus Politik und Unterhaltung der 1980er-Jahre. Die Bildteile kommen einzeln aus einer Öffnung ins Spielfeld und müssen dann verschoben werden, bis das Porträt vollständig ist. Einige Teile verändern das Bild oder wirken als Störung, und ein Zeitlimit treibt zur Eile. Der satirische Humor im Stil britischer Puppensendungen war ein Markenzeichen des Spiels.\n\nDomark veröffentlichte das Spiel auf Kassette und Diskette; es gibt eine europäische und eine kombinierte Fassung für PAL und NTSC, später auch Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Mark Greenshields · Grafik: Richard Naylor · Musik: David Whittaker",
+    "en": "Split Personalities is a sliding puzzle featuring caricatures of well-known figures from 1980s politics and entertainment. The picture pieces enter the board one at a time through an opening and then have to be pushed around until the portrait is complete. Some pieces alter the picture or act as hindrances, and a time limit keeps up the pressure. Its satirical humour, in the style of British puppet shows, was the game's trademark.\n\nDomark released the game on cassette and disk; there is a European version and a combined PAL/NTSC version, and cartridge conversions from the scene appeared later. It is played with a joystick in port 2.\n\nCode: Mark Greenshields · Graphics: Richard Naylor · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/f1/f106c906704e8ef20aa0c0574f008aa5c60988f0.png",
+    "sstitle": "images/51/51c2412d3fcfcf3f4ce211a331c84c5a381bb86d.png"
+  }
+}

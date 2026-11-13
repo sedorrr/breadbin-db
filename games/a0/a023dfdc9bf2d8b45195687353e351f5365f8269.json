@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a023dfdc9bf2d8b45195687353e351f5365f8269",
+  "md5": "7171788702f211d0044b84980cb6c6b1",
+  "crc32": "f6f64b09",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DOMINAT1.D64"
+  ],
+  "screenscraper_id": "111649",
+  "title": "Dominator",
+  "year": "1989",
+  "publisher": "System 3",
+  "developer": "System 3 (Jason H. Perkins)",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Ein einzelnes Raumschiff fliegt durch die Eingeweide eines riesigen außerirdischen Organismus und kämpft gegen dessen biomechanische Abwehr. Die Abschnitte laufen in wechselnden Richtungen durch, an ihren Enden warten große Endgegner. Aufsammelbare Extras verstärken die Bewaffnung. Das Spiel zeichnet sich durch seine düstere, organische Grafik und die Musik von Matt Gray aus.\n\nDie C64-Fassung erschien 1989 bei System 3 auf Kassette und Diskette und lädt die Abschnitte nach. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul, darunter eine MultiLoad64-Fassung von $olo1870, die das Nachladen aus dem Modul erledigt.\n\nCode: Jason H. Perkins · Grafik: Hugh Riley, Paul Docherty · Musik: Matt Gray",
+  "texts": {
+    "de": "Ein einzelnes Raumschiff fliegt durch die Eingeweide eines riesigen außerirdischen Organismus und kämpft gegen dessen biomechanische Abwehr. Die Abschnitte laufen in wechselnden Richtungen durch, an ihren Enden warten große Endgegner. Aufsammelbare Extras verstärken die Bewaffnung. Das Spiel zeichnet sich durch seine düstere, organische Grafik und die Musik von Matt Gray aus.\n\nDie C64-Fassung erschien 1989 bei System 3 auf Kassette und Diskette und lädt die Abschnitte nach. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul, darunter eine MultiLoad64-Fassung von $olo1870, die das Nachladen aus dem Modul erledigt.\n\nCode: Jason H. Perkins · Grafik: Hugh Riley, Paul Docherty · Musik: Matt Gray",
+    "en": "A lone spaceship flies through the innards of a huge alien organism, fighting its biomechanical defences. The stages scroll in changing directions, with large bosses waiting at the end of each one. Collectable extras power up the ship's weapons. The game stands out for its dark, organic graphics and Matt Gray's music.\n\nThe C64 version was released by System 3 in 1989 on tape and disk and loads its stages in parts. It is controlled with a joystick in port 2. Besides the original there are EasyFlash cartridge conversions, including a MultiLoad64 version by $olo1870 that handles the loading from the cartridge.\n\nCode: Jason H. Perkins · Graphics: Hugh Riley, Paul Docherty · Music: Matt Gray"
+  },
+  "images": {
+    "ss": "images/e8/e883b5a27cfe12cec8db7ac064b29698cf28e41f.png",
+    "sstitle": "images/bb/bb9933773d260d6e0a9da55dfdbc00e36757b428.png"
+  }
+}

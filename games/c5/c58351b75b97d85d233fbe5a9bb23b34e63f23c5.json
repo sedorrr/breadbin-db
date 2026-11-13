@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "c58351b75b97d85d233fbe5a9bb23b34e63f23c5",
+  "md5": "58e0402304d1ab62c2a746f2032b9a74",
+  "crc32": "8ba1db3b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GARFIEL2.D64"
+  ],
+  "screenscraper_id": "36337",
+  "title": "Garfield: Winter's Tail",
+  "year": "1989",
+  "publisher": "The Edge",
+  "developer": "The Edge / Softek (C64: David Kirby)",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Garfield träumt sich auf eine Reise durch Norditalien und die Schweiz, wo er eine Lasagnefabrik und ein Huhn sucht, das Schokoladeneier legt. Das Spiel besteht aus drei Abschnitten: einer Skiabfahrt mit Hindernissen und anschließendem Lasagneessen, einem Knobelteil in einer Schokoladenfabrik, in dem Rohrleitungen richtig eingestellt werden müssen, und einer Fahrt auf Schlittschuhen über einen zugefrorenen See. Odie taucht in jedem Abschnitt auf und macht Garfield das Leben schwer. Geht die Energie aus, wacht Garfield auf.\n\nDie Fortsetzung von Big, Fat, Hairy Deal erschien 1989 bei The Edge für mehrere Rechner, darunter der C64 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Daneben gibt es eine Disk2EasyFlash-Umsetzung als Modul.\n\nCode: David Kirby · Grafik: Andy Howlet · Musik: Dave Lowe",
+  "texts": {
+    "de": "Garfield träumt sich auf eine Reise durch Norditalien und die Schweiz, wo er eine Lasagnefabrik und ein Huhn sucht, das Schokoladeneier legt. Das Spiel besteht aus drei Abschnitten: einer Skiabfahrt mit Hindernissen und anschließendem Lasagneessen, einem Knobelteil in einer Schokoladenfabrik, in dem Rohrleitungen richtig eingestellt werden müssen, und einer Fahrt auf Schlittschuhen über einen zugefrorenen See. Odie taucht in jedem Abschnitt auf und macht Garfield das Leben schwer. Geht die Energie aus, wacht Garfield auf.\n\nDie Fortsetzung von Big, Fat, Hairy Deal erschien 1989 bei The Edge für mehrere Rechner, darunter der C64 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Daneben gibt es eine Disk2EasyFlash-Umsetzung als Modul.\n\nCode: David Kirby · Grafik: Andy Howlet · Musik: Dave Lowe",
+    "en": "Garfield dreams of a trip through northern Italy and Switzerland, where he searches for a lasagne factory and a chicken that lays chocolate eggs. The game has three sections: a downhill ski run full of obstacles followed by a lasagne feast, a puzzle section in a chocolate factory where pipes must be set correctly, and a skate across a frozen lake. Odie appears in every section to make Garfield's life difficult. If his energy runs out, Garfield wakes up.\n\nThe sequel to Big, Fat, Hairy Deal was released by The Edge in 1989 for several computers, including the C64 on tape and disk. It is controlled with a joystick in port 2. There is also a Disk2EasyFlash cartridge conversion.\n\nCode: David Kirby · Graphics: Andy Howlet · Music: Dave Lowe"
+  },
+  "images": {
+    "ss": "images/e7/e7a3cbbb1155ba23a6f2880f280efdef4b8f4dab.png",
+    "sstitle": "images/00/006c8dcfd74db5f7b5091cc3359a2906b038f194.png"
+  }
+}

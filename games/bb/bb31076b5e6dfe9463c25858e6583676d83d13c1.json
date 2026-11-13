@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "bb31076b5e6dfe9463c25858e6583676d83d13c1",
+  "md5": "45ef331f24efd793085b3883d9e5a2ee",
+  "crc32": "c9bf3c3e",
+  "size": 36127,
+  "format": "PRG",
+  "files": [
+    "Questprobe 2 - Spider-Man.prg"
+  ],
+  "screenscraper_id": "116573",
+  "title": "Questprobe featuring Spider-Man",
+  "year": "1984",
+  "publisher": "Adventure International",
+  "developer": "Scott Adams",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Im zweiten Questprobe-Abenteuer schlüpft der Spieler in die Rolle von Spider-Man. Wieder gilt es, für den Chief Examiner Edelsteine zu sammeln, diesmal in einem Hochhaus, in dem zahlreiche bekannte Schurken aus den Comics lauern. Spider-Mans Spinnenkräfte wie das Klettern an Wänden und seine Netze sind der Schlüssel zu vielen Rätseln. Das Spiel gilt als der zugänglichste Teil der Reihe.\n\nDie C64-Fassung zeigt Bilder zu den Orten und erschien auf Diskette und Kassette bei Adventure International. Gesteuert wird über Texteingabe auf der Tastatur.\n\nDesign und Code: Scott Adams",
+  "texts": {
+    "de": "Im zweiten Questprobe-Abenteuer schlüpft der Spieler in die Rolle von Spider-Man. Wieder gilt es, für den Chief Examiner Edelsteine zu sammeln, diesmal in einem Hochhaus, in dem zahlreiche bekannte Schurken aus den Comics lauern. Spider-Mans Spinnenkräfte wie das Klettern an Wänden und seine Netze sind der Schlüssel zu vielen Rätseln. Das Spiel gilt als der zugänglichste Teil der Reihe.\n\nDie C64-Fassung zeigt Bilder zu den Orten und erschien auf Diskette und Kassette bei Adventure International. Gesteuert wird über Texteingabe auf der Tastatur.\n\nDesign und Code: Scott Adams",
+    "en": "In the second Questprobe adventure the player takes on the role of Spider-Man. Once again gems have to be collected for the Chief Examiner, this time in a high-rise building where numerous well-known villains from the comics lurk. Spider-Man's powers, such as wall-crawling and his webs, are the key to many puzzles. The game is considered the most accessible part of the series.\n\nThe C64 version shows pictures of the locations and was released on disk and tape by Adventure International. It is played by typing commands on the keyboard.\n\nDesign and code: Scott Adams"
+  },
+  "images": {
+    "sstitle": "images/66/6639ace3bff9b0712795c927b82b7cf289b5e0c5.png"
+  }
+}

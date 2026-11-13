@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "a5a7a4f23be67d5070ed556c9e20ccc3bb71ae89",
+  "md5": "485e18f7d1feb6a3c064dc418d048cb5",
+  "crc32": "43208746",
+  "size": 56843,
+  "format": "T64",
+  "files": [
+    "LIVEALD.T64"
+  ],
+  "screenscraper_id": "106812",
+  "title": "Live and Let Die",
+  "year": "1988",
+  "publisher": "Domark",
+  "developer": "Elite Systems",
+  "genres": [
+    "Action",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum James-Bond-Film „Leben und sterben lassen“: Bond steuert ein bewaffnetes Rennboot durch Flüsse und Küstengewässer, weicht Minen, Felsen und Hindernissen aus und schießt feindliche Boote, Hubschrauber und Stellungen ab. Die Strecke wird in einer Ansicht schräg von hinten gezeigt, ähnlich wie bei Rennspielen. Ziel ist es, das Drogenlabor des Schurken Dr. Kananga zu zerstören. Das Spiel entstand ursprünglich als eigenständiges Bootsspiel „Aquablast“ und wurde erst später mit der Bond-Lizenz versehen.\n\nEntwickelt von Elite Systems, veröffentlicht von Domark auf Kassette und Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Dave Thomas · Grafik: Bob Thomas · Musik: Mark Cooksey",
+  "texts": {
+    "de": "Spiel zum James-Bond-Film „Leben und sterben lassen“: Bond steuert ein bewaffnetes Rennboot durch Flüsse und Küstengewässer, weicht Minen, Felsen und Hindernissen aus und schießt feindliche Boote, Hubschrauber und Stellungen ab. Die Strecke wird in einer Ansicht schräg von hinten gezeigt, ähnlich wie bei Rennspielen. Ziel ist es, das Drogenlabor des Schurken Dr. Kananga zu zerstören. Das Spiel entstand ursprünglich als eigenständiges Bootsspiel „Aquablast“ und wurde erst später mit der Bond-Lizenz versehen.\n\nEntwickelt von Elite Systems, veröffentlicht von Domark auf Kassette und Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Dave Thomas · Grafik: Bob Thomas · Musik: Mark Cooksey",
+    "en": "A game based on the James Bond film \"Live and Let Die\": Bond pilots an armed speedboat along rivers and coastal waters, avoiding mines, rocks and obstacles while shooting enemy boats, helicopters and emplacements. The course is shown from behind at an angle, much like a racing game. The goal is to destroy the drug laboratory of the villain Dr. Kananga. The game began life as a standalone boat game called \"Aquablast\" and only later received the Bond licence.\n\nDeveloped by Elite Systems and published by Domark on cassette and disk; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2.\n\nCode: Dave Thomas · Graphics: Bob Thomas · Music: Mark Cooksey"
+  },
+  "images": {
+    "ss": "images/e6/e65ac742b61bea5e0da7b959938bf1b082d2d3d6.png",
+    "sstitle": "images/79/79d20b902e9ddbb86daa9d009c64f28c0f13869d.png"
+  }
+}

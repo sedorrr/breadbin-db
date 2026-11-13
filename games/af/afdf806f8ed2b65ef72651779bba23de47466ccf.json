@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "afdf806f8ed2b65ef72651779bba23de47466ccf",
+  "md5": "6c121a2042ba158665f2662a41bdc5b5",
+  "crc32": "04a5cf69",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "It's a Knockout.crt"
+  ],
+  "screenscraper_id": "114674",
+  "title": "It's a Knockout",
+  "year": "1986",
+  "publisher": "Ocean",
+  "developer": "Keith Purkiss",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-6",
+  "synopsis": "Umsetzung der britischen Fernsehshow „It's a Knockout“, die in Deutschland als „Spiel ohne Grenzen“ bekannt war. Mehrere Teilnehmer treten in einer Reihe von albernen Wettbewerben gegeneinander an, bei denen es weniger auf sportliches Können als auf Geschick, Timing und Durchhaltevermögen ankommt. Bis zu sechs Spieler können abwechselnd teilnehmen, was das Spiel vor allem für gesellige Runden interessant machte. Die Punkte aus den einzelnen Disziplinen entscheiden über den Gesamtsieger.\n\nErschien bei Ocean auf Kassette und Diskette; heute gibt es auch Modulumsetzungen, etwa aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2. Der Ladebildschirm stammt von Simon Butler.\n\nCode: Keith Purkiss · Grafik: Keith Purkiss, Simon Butler · Musik: Fred Gray",
+  "texts": {
+    "de": "Umsetzung der britischen Fernsehshow „It's a Knockout“, die in Deutschland als „Spiel ohne Grenzen“ bekannt war. Mehrere Teilnehmer treten in einer Reihe von albernen Wettbewerben gegeneinander an, bei denen es weniger auf sportliches Können als auf Geschick, Timing und Durchhaltevermögen ankommt. Bis zu sechs Spieler können abwechselnd teilnehmen, was das Spiel vor allem für gesellige Runden interessant machte. Die Punkte aus den einzelnen Disziplinen entscheiden über den Gesamtsieger.\n\nErschien bei Ocean auf Kassette und Diskette; heute gibt es auch Modulumsetzungen, etwa aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2. Der Ladebildschirm stammt von Simon Butler.\n\nCode: Keith Purkiss · Grafik: Keith Purkiss, Simon Butler · Musik: Fred Gray",
+    "en": "A conversion of the British TV show \"It's a Knockout\", known in Germany as \"Spiel ohne Grenzen\". Several contestants compete in a series of silly events in which skill, timing and stamina matter more than athletic ability. Up to six players can take part in turns, which made the game particularly suited to social sessions. The points from the individual events decide the overall winner.\n\nReleased by Ocean on cassette and disk; today there are also cartridge conversions, for example from the OneLoad64 project. Controlled by joystick in port 2. The loading screen is by Simon Butler.\n\nCode: Keith Purkiss · Graphics: Keith Purkiss, Simon Butler · Music: Fred Gray"
+  },
+  "images": {
+    "ss": "images/87/876bafd5a8866e2e93242c6b80ccfe0cc492da3e.png",
+    "sstitle": "images/f0/f0509d6bd44b78d068da36d623976a3738fddd52.png"
+  }
+}

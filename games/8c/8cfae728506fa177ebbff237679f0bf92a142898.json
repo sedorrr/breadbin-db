@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8cfae728506fa177ebbff237679f0bf92a142898",
+  "md5": "135ae3bb83ef30e15181d0b55b0dab00",
+  "crc32": "c481c0a2",
+  "size": 621156,
+  "format": "TAP",
+  "files": [
+    "Bubble Ghost.tap"
+  ],
+  "screenscraper_id": "36519",
+  "title": "Bubble Ghost",
+  "year": "1988",
+  "publisher": "Accolade / Infogrames",
+  "developer": "ERE Informatique (Christophe Andréani); C64: The Programming Partnership",
+  "genres": [
+    "Geschicklichkeit",
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "In Bubble Ghost steuert man ein kleines Gespenst, das eine empfindliche Seifenblase durch die Hallen eines Spukschlosses pusten muss. Die Blase platzt bei jeder Berührung mit Wänden, Kerzenflammen, Nadeln, Ventilatoren oder Strom. Das Gespenst selbst kann sich frei bewegen und drehen und bläst die Blase in die gewünschte Richtung, löscht Kerzen oder betätigt Schalter. Insgesamt sind 35 Räume zu durchqueren, wobei ein Zeitbonus zur Eile drängt. Die einfache Idee und die genaue Steuerung machten das Spiel zu einem beliebten Geduldsspiel.\n\nDas Spiel stammt von Christophe Andréani und erschien 1987 zuerst für den Atari ST. Die C64-Fassung kam 1988 auf Diskette und Kassette heraus (in Nordamerika bei Accolade, in Europa bei Infogrames). Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nIdee: Christophe Andréani · Entwicklung (C64): The Programming Partnership",
+  "texts": {
+    "de": "In Bubble Ghost steuert man ein kleines Gespenst, das eine empfindliche Seifenblase durch die Hallen eines Spukschlosses pusten muss. Die Blase platzt bei jeder Berührung mit Wänden, Kerzenflammen, Nadeln, Ventilatoren oder Strom. Das Gespenst selbst kann sich frei bewegen und drehen und bläst die Blase in die gewünschte Richtung, löscht Kerzen oder betätigt Schalter. Insgesamt sind 35 Räume zu durchqueren, wobei ein Zeitbonus zur Eile drängt. Die einfache Idee und die genaue Steuerung machten das Spiel zu einem beliebten Geduldsspiel.\n\nDas Spiel stammt von Christophe Andréani und erschien 1987 zuerst für den Atari ST. Die C64-Fassung kam 1988 auf Diskette und Kassette heraus (in Nordamerika bei Accolade, in Europa bei Infogrames). Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nIdee: Christophe Andréani · Entwicklung (C64): The Programming Partnership",
+    "en": "In Bubble Ghost the player controls a little ghost that has to blow a fragile soap bubble through the halls of a haunted castle. The bubble bursts on contact with walls, candle flames, needles, fans or electricity. The ghost itself can move and turn freely and blows the bubble in the desired direction, puts out candles or flips switches. There are 35 rooms to get through, with a time bonus encouraging haste. The simple idea and precise control made it a popular game of patience.\n\nThe game was created by Christophe Andréani and first appeared in 1987 on the Atari ST. The C64 version came out in 1988 on disk and cassette (published by Accolade in North America and Infogrames in Europe). There are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick in port 2.\n\nConcept: Christophe Andréani · Development (C64): The Programming Partnership"
+  },
+  "images": {
+    "sstitle": "images/32/324463ab804cc33cd409193458a3015b5584c16b.png"
+  }
+}

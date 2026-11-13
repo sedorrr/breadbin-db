@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "951e500926f9c8c488c97fbe2d80cd85f9c48ce0",
+  "md5": "92f20f46d85aa50f31ff475ede0fd766",
+  "crc32": "5012e454",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CASTWOLF.D64"
+  ],
+  "screenscraper_id": "110974",
+  "title": "Castle Wolfenstein",
+  "year": "1983",
+  "publisher": "Muse Software",
+  "developer": "Silas Warner",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "In Castle Wolfenstein ist man im Zweiten Weltkrieg als Kriegsgefangener in einer Burg eingesperrt und muss entkommen – am besten mit den geheimen Kriegsplänen. Aus der Draufsicht schleicht man durch Räume und Gänge, durchsucht Truhen nach Waffen, Munition, Granaten und Uniformen und weicht Wachen und SS-Männern aus oder schaltet sie aus. In einer erbeuteten Uniform kann man an einfachen Wachen vorbeigehen. Die Wachen rufen deutsche Befehle per Sprachausgabe. Das Spiel gilt als einer der Urahnen des Schleichspiels und als Vorläufer von Wolfenstein 3D.\n\nDas Spiel erschien 1981 für den Apple II, die C64-Fassung 1983 bei Muse Software auf Diskette. Zeitgenössische Kritik bemängelte die langsame Spielgeschwindigkeit und lange Ladezeiten der C64-Fassung. Gesteuert wird mit dem Joystick in Port 2 sowie der Tastatur.\n\nDesign und Code: Silas Warner",
+  "texts": {
+    "de": "In Castle Wolfenstein ist man im Zweiten Weltkrieg als Kriegsgefangener in einer Burg eingesperrt und muss entkommen – am besten mit den geheimen Kriegsplänen. Aus der Draufsicht schleicht man durch Räume und Gänge, durchsucht Truhen nach Waffen, Munition, Granaten und Uniformen und weicht Wachen und SS-Männern aus oder schaltet sie aus. In einer erbeuteten Uniform kann man an einfachen Wachen vorbeigehen. Die Wachen rufen deutsche Befehle per Sprachausgabe. Das Spiel gilt als einer der Urahnen des Schleichspiels und als Vorläufer von Wolfenstein 3D.\n\nDas Spiel erschien 1981 für den Apple II, die C64-Fassung 1983 bei Muse Software auf Diskette. Zeitgenössische Kritik bemängelte die langsame Spielgeschwindigkeit und lange Ladezeiten der C64-Fassung. Gesteuert wird mit dem Joystick in Port 2 sowie der Tastatur.\n\nDesign und Code: Silas Warner",
+    "en": "In Castle Wolfenstein the player is a prisoner of war held in a castle during the Second World War and has to escape – ideally with the secret war plans. Seen from above, the player sneaks through rooms and corridors, searches chests for weapons, ammunition, grenades and uniforms, and avoids or takes out guards and SS men. Wearing a captured uniform lets the player walk past ordinary guards. The guards shout German commands via speech output. The game is considered one of the ancestors of the stealth genre and a forerunner of Wolfenstein 3D.\n\nThe game first came out in 1981 for the Apple II; the C64 version followed in 1983 from Muse Software on disk. Contemporary criticism pointed to the slow pace and long loading times of the C64 version. It is controlled with a joystick in port 2 together with the keyboard.\n\nDesign and code: Silas Warner"
+  }
+}

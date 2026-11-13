@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b123f6576abe2ecc840d003f396fb04179d29221",
+  "md5": "3da837d57fea547a224d1ff8647003a6",
+  "crc32": "1719743f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MAILORDM.D64"
+  ],
+  "screenscraper_id": "114471",
+  "title": "Mail Order Monsters",
+  "year": "1985",
+  "publisher": "Electronic Arts",
+  "developer": "Paul Reiche III, Evan Robinson, Nicky Robinson",
+  "genres": [
+    "Action",
+    "Strategie"
+  ],
+  "players": "1-2",
+  "synopsis": "In Mail Order Monsters stellt sich der Spieler ein Monster aus dem Versandkatalog zusammen, rüstet es mit Waffen und Fähigkeiten aus und schickt es in Arenakämpfe. Siege bringen Geld für bessere Ausrüstung, und das eigene Monster lässt sich auf Diskette speichern und über viele Kämpfe weiterentwickeln. Gekämpft wird auf Karten mit Gelände wie Bergen und Wasser, das jedem Monstertyp andere Vor- und Nachteile bringt. Zwei Spieler können gleichzeitig gegeneinander antreten oder Capture the Flag spielen; allein gibt es Duelle gegen den Computer und eine Horde-Variante auf Punktejagd. Die Verbindung aus Monsterbaukasten und Echtzeitkampf machte das Spiel zu einem frühen Vorläufer vieler späterer Monster-Spiele.\n\nErschien 1985 bei Electronic Arts, in Europa bei Ariolasoft, auf Diskette; eine Atari-Fassung folgte. Gespielt wird mit Joystick. Neben der Diskettenfassung gibt es eine EasyFlash-Umsetzung, die das Spiel als Modul ohne Diskettenzugriffe startet.\n\nEntwurf: Paul Reiche III · Code: Evan Robinson, Nicky Robinson",
+  "texts": {
+    "de": "In Mail Order Monsters stellt sich der Spieler ein Monster aus dem Versandkatalog zusammen, rüstet es mit Waffen und Fähigkeiten aus und schickt es in Arenakämpfe. Siege bringen Geld für bessere Ausrüstung, und das eigene Monster lässt sich auf Diskette speichern und über viele Kämpfe weiterentwickeln. Gekämpft wird auf Karten mit Gelände wie Bergen und Wasser, das jedem Monstertyp andere Vor- und Nachteile bringt. Zwei Spieler können gleichzeitig gegeneinander antreten oder Capture the Flag spielen; allein gibt es Duelle gegen den Computer und eine Horde-Variante auf Punktejagd. Die Verbindung aus Monsterbaukasten und Echtzeitkampf machte das Spiel zu einem frühen Vorläufer vieler späterer Monster-Spiele.\n\nErschien 1985 bei Electronic Arts, in Europa bei Ariolasoft, auf Diskette; eine Atari-Fassung folgte. Gespielt wird mit Joystick. Neben der Diskettenfassung gibt es eine EasyFlash-Umsetzung, die das Spiel als Modul ohne Diskettenzugriffe startet.\n\nEntwurf: Paul Reiche III · Code: Evan Robinson, Nicky Robinson",
+    "en": "In Mail Order Monsters the player picks a monster from a mail-order catalogue, equips it with weapons and abilities and sends it into arena battles. Victories earn money for better gear, and the monster can be saved to disk and developed over many fights. Battles take place on maps with terrain such as mountains and water that gives each monster type different advantages and drawbacks. Two players can fight each other simultaneously or play capture the flag; solo play offers duels against the computer and a horde mode for high scores. The mix of monster construction kit and real-time combat made it an early forerunner of many later monster games.\n\nReleased in 1985 by Electronic Arts, and in Europe by Ariolasoft, on disk; an Atari version followed. It is played with a joystick. Besides the disk version, there is an EasyFlash conversion that runs the game as a cartridge without disk access.\n\nDesign: Paul Reiche III · Code: Evan Robinson, Nicky Robinson"
+  },
+  "images": {
+    "sstitle": "images/57/57ab5faa09a742994814104f0e1398ba46a6600a.png"
+  }
+}

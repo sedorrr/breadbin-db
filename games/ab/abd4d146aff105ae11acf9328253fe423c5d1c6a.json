@@ -21,5 +21,9 @@
   "texts": {
     "de": "Gordon Bennet hat sich den Luftkissen-Rasenmäher seines Nachbarn ausgeliehen und muss damit Rasenflächen mähen, ohne die Blumenbeete zu zerstören. Der verärgerte Nachbar und weitere Verfolger sind ihm auf den Fersen, während sein Hund helfen, aber auch Ärger machen kann. Wer zu lange braucht oder Beete beschädigt, bekommt Probleme. Das Spiel lebt von seinem schrägen britischen Humor und war einer der frühen Erfolge von Llamasoft.\n\nErschienen bei Llamasoft für den C64 auf Kassette und Diskette. Gesteuert wird per Joystick, bei der Modulfassung in Port 1. Neben den Originalen gibt es eine Umsetzung als OneLoad64-Modul, die das ganze Spiel ohne Nachladen aus dem Modul startet.\n\nCode: Jeff Minter",
     "en": "Gordon Bennet has borrowed his neighbour's hover lawnmower and has to mow lawns with it without destroying the flower beds. The angry neighbour and other pursuers are hot on his heels, while his dog can help but can also cause trouble. Taking too long or damaging beds leads to problems. The game thrives on its quirky British humour and was one of Llamasoft's early successes.\n\nReleased by Llamasoft for the C64 on tape and disk. Controlled via joystick, in port 1 for the cartridge version. Besides the originals, there is a conversion as a OneLoad64 cartridge, which starts the whole game from the cartridge without additional loading.\n\nCode: Jeff Minter"
+  },
+  "images": {
+    "ss": "images/78/786d216461851688bbec48cce1990d56b51a904d.png",
+    "sstitle": "images/f1/f1cbaf6304a9d1c224e2aa2e4fa97da4d976e3f1.png"
   }
 }

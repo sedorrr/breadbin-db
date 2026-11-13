@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "8d983d64fad023055fdd494b151e892e0c46a99f",
+  "md5": "d76bafd38f3321fb7206d2dab2612499",
+  "crc32": "d6154ae3",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Grand Prix Simulator.crt"
+  ],
+  "screenscraper_id": "36843",
+  "title": "Grand Prix Simulator",
+  "year": "1987",
+  "publisher": "Codemasters",
+  "developer": "Oliver Twins (Entwurf); C64: Adrian Sheppard",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Autorennspiel mit Draufsicht, in dem jede Strecke vollständig auf einen Bildschirm passt. Man fährt drei Runden gegen einen computergesteuerten Wagen oder gleichzeitig gegen einen zweiten Spieler; wer gewinnt, kommt auf die nächste Strecke, eine Niederlage oder ein Unfall beendet das Spiel. Bonusgegenstände auf der Bahn bringen Punkte, Ölflecken lassen den Wagen schleudern. Das preiswerte Spiel verkaufte sich auf allen Systemen zusammen über eine Viertelmillion Mal und erhielt eine Fortsetzung.\n\nDas Spiel erschien 1987 bei Codemasters für mehrere Rechner; die C64-Fassung programmierte Adrian Sheppard, sie kam auf Kassette. Gesteuert wird per Joystick, zu zweit mit zwei Joysticks. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Adrian Sheppard · Grafik: Adrian Sheppard, Steven Day · Musik: David Whittaker",
+  "texts": {
+    "de": "Ein Autorennspiel mit Draufsicht, in dem jede Strecke vollständig auf einen Bildschirm passt. Man fährt drei Runden gegen einen computergesteuerten Wagen oder gleichzeitig gegen einen zweiten Spieler; wer gewinnt, kommt auf die nächste Strecke, eine Niederlage oder ein Unfall beendet das Spiel. Bonusgegenstände auf der Bahn bringen Punkte, Ölflecken lassen den Wagen schleudern. Das preiswerte Spiel verkaufte sich auf allen Systemen zusammen über eine Viertelmillion Mal und erhielt eine Fortsetzung.\n\nDas Spiel erschien 1987 bei Codemasters für mehrere Rechner; die C64-Fassung programmierte Adrian Sheppard, sie kam auf Kassette. Gesteuert wird per Joystick, zu zweit mit zwei Joysticks. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Adrian Sheppard · Grafik: Adrian Sheppard, Steven Day · Musik: David Whittaker",
+    "en": "An overhead racing game in which each track fits entirely on one screen. Races last three laps against a computer-controlled car or, simultaneously, against a second player; winning moves on to the next track, while losing or crashing ends the game. Bonus items on the track score points, and oil slicks send the car into a spin. The budget game sold more than a quarter of a million copies across all systems and got a sequel.\n\nThe game was released by Codemasters in 1987 for several computers; the C64 version was programmed by Adrian Sheppard and came on tape. It is controlled with a joystick, two joysticks for two players. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode: Adrian Sheppard · Graphics: Adrian Sheppard, Steven Day · Music: David Whittaker"
+  },
+  "images": {
+    "sstitle": "images/65/65bc6c8234996deb6a392d42a7e72f6acc2c0c10.png"
+  }
+}

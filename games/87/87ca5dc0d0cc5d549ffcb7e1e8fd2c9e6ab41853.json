@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "87ca5dc0d0cc5d549ffcb7e1e8fd2c9e6ab41853",
+  "md5": "52da3af1cbab1e159c4d409eb49aac5d",
+  "crc32": "070ea5e3",
+  "size": 5802,
+  "format": "T64",
+  "files": [
+    "BREAKDAN.T64"
+  ],
+  "screenscraper_id": "110365",
+  "title": "Break Dance",
+  "year": "1984",
+  "publisher": "Epyx",
+  "developer": "Beck-Tech (Stephen Beck)",
+  "genres": [
+    "Geschicklichkeit",
+    "Gelegenheitsspiel"
+  ],
+  "players": "1-2",
+  "synopsis": "Angeregt von Filmen wie Flashdance und Beat Street dreht sich hier alles um Breakdance. Das Spiel besteht aus mehreren Teilen; im bekanntesten führt eine Computerfigur eine Folge von Tanzschritten vor, die der Spieler mit dem Joystick nachtanzen muss, und mit jeder Runde kommt ein Schritt hinzu, sodass das Gedächtnis zunehmend gefordert wird. Grafik und Musik entsprachen dem hohen Epyx-Standard, auch wenn manche Kritiker das Spiel auf Dauer als eintönig empfanden. Break Dance fing die Breakdance-Begeisterung der Mitte der 1980er-Jahre ein.\n\nBeck-Tech entwickelte Break Dance für den C64, Epyx veröffentlichte es 1984 in Nordamerika und Europa. Ein oder zwei Spieler tanzen abwechselnd, gesteuert wird mit dem Joystick in Port 2.\n\nDesign, Code, Grafik und Musik: Stephen Beck",
+  "texts": {
+    "de": "Angeregt von Filmen wie Flashdance und Beat Street dreht sich hier alles um Breakdance. Das Spiel besteht aus mehreren Teilen; im bekanntesten führt eine Computerfigur eine Folge von Tanzschritten vor, die der Spieler mit dem Joystick nachtanzen muss, und mit jeder Runde kommt ein Schritt hinzu, sodass das Gedächtnis zunehmend gefordert wird. Grafik und Musik entsprachen dem hohen Epyx-Standard, auch wenn manche Kritiker das Spiel auf Dauer als eintönig empfanden. Break Dance fing die Breakdance-Begeisterung der Mitte der 1980er-Jahre ein.\n\nBeck-Tech entwickelte Break Dance für den C64, Epyx veröffentlichte es 1984 in Nordamerika und Europa. Ein oder zwei Spieler tanzen abwechselnd, gesteuert wird mit dem Joystick in Port 2.\n\nDesign, Code, Grafik und Musik: Stephen Beck",
+    "en": "Inspired by films such as Flashdance and Beat Street, this game is all about breakdancing. It consists of several parts; in the best-known one a computer dancer performs a sequence of moves that the player has to copy with the joystick, and each round adds a move, putting the player's memory increasingly to the test. Graphics and music matched Epyx's high standards, although some critics found the game repetitive in the long run. Break Dance captured the breakdance craze of the mid-1980s.\n\nBeck-Tech developed Break Dance for the C64, and Epyx published it in 1984 in North America and Europe. One or two players dance in turns, using a joystick in port 2.\n\nDesign, code, graphics and music: Stephen Beck"
+  },
+  "images": {
+    "sstitle": "images/7d/7d4a9fae5298958652fb1d20f865839255767143.png"
+  }
+}

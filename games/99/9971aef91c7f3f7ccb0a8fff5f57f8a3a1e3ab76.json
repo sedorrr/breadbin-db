@@ -22,5 +22,8 @@
   "texts": {
     "de": "Fortsetzung von Impossible Mission: Der Agent dringt in die Festung von Elvin Atombender ein, die aus acht Türmen besteht. In Möbeln versteckte Zahlenteile ergeben die Codes der Türme, aus Tresoren geholte Tonfolgen müssen zu einer Melodie zusammengesetzt werden, die den Weg zu Elvin öffnet. Verschiedene Robotertypen schieben, legen Minen oder blockieren Aufzüge; Stürze und Berührungen kosten Zeit vom Acht-Stunden-Limit. Die Mischung aus Plattformaction und Rätselsuche führt das Prinzip des Vorgängers weiter.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile liegen im Modul, eine Diskette wird nicht gebraucht.\n\nEntwicklung: Novotrade",
     "en": "Sequel to Impossible Mission: the agent penetrates Elvin Atombender's fortress, which consists of eight towers. Number pieces hidden in furniture yield the codes of the towers, and tone sequences taken from safes have to be put together into a melody that opens the way to Elvin. Various types of robot push, lay mines or block lifts; falls and collisions cost time from the eight-hour limit. The mix of platform action and puzzle searching continues the principle of the predecessor.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the additional load parts are on the cartridge, and no disk is needed.\n\nDevelopment: Novotrade"
+  },
+  "images": {
+    "ss": "images/fd/fd5b89d78e3dde5bd58212820655a6672ac6c750.png"
   }
 }

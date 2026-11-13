@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8cf5c950a83fb59e53d3c0e7961b282f4d011dab",
+  "md5": "1231afda063a960f75db7f0986b0d9c7",
+  "crc32": "861adf40",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SUPDSLAY.D64"
+  ],
+  "screenscraper_id": "115550",
+  "title": "Super Dragon Slayer",
+  "year": "1988",
+  "publisher": "Codemasters",
+  "developer": "John D. Ferrari",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Ein junger Drachentöter zieht durch ein magisches Königreich, um die Diener des Drachenfürsten zu besiegen. In seitlich scrollenden Abschnitten springt er auf Plattformen, duckt sich unter Angreifern hindurch und wehrt fliegende Schädel, Augen, Dämonen und Drachen mit magischen Geschossen ab. Unterwegs gefundene Zauberbücher verleihen einmalig nutzbare Sprüche, deren Wirkung man erst ausprobieren muss, und Schriftrollen füllen die schwindende Energie auf. Das Spiel braucht etwas Eingewöhnung, belohnt Ausdauer aber mit wachsendem Umfang.\n\nCodemasters veröffentlichte Super Dragon Slayer 1988 zu einem höheren Preis als die üblichen Budget-Titel des Hauses, auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: John D. Ferrari · Grafik: John D. Ferrari, DIB · Musik: Barry Leitch",
+  "texts": {
+    "de": "Ein junger Drachentöter zieht durch ein magisches Königreich, um die Diener des Drachenfürsten zu besiegen. In seitlich scrollenden Abschnitten springt er auf Plattformen, duckt sich unter Angreifern hindurch und wehrt fliegende Schädel, Augen, Dämonen und Drachen mit magischen Geschossen ab. Unterwegs gefundene Zauberbücher verleihen einmalig nutzbare Sprüche, deren Wirkung man erst ausprobieren muss, und Schriftrollen füllen die schwindende Energie auf. Das Spiel braucht etwas Eingewöhnung, belohnt Ausdauer aber mit wachsendem Umfang.\n\nCodemasters veröffentlichte Super Dragon Slayer 1988 zu einem höheren Preis als die üblichen Budget-Titel des Hauses, auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: John D. Ferrari · Grafik: John D. Ferrari, DIB · Musik: Barry Leitch",
+    "en": "A young dragon slayer travels through a magical kingdom to defeat the servants of the Dragon Lord. In side-scrolling stages he jumps onto platforms, ducks under attackers and fends off flying skulls, eyes, demons and dragons with magic bolts. Spell books found along the way grant single-use spells whose effects have to be discovered by trying them, and scrolls replenish the draining energy. The game takes some getting used to but rewards persistence with growing depth.\n\nCodemasters released Super Dragon Slayer in 1988 at a higher price than the company's usual budget titles, on cassette and disk. It is played with a joystick in port 2.\n\nCode: John D. Ferrari · Graphics: John D. Ferrari, DIB · Music: Barry Leitch"
+  },
+  "images": {
+    "sstitle": "images/c1/c156f9209e75faa871df8c428978a47ae8533116.png"
+  }
+}

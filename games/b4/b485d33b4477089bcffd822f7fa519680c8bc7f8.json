@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "b485d33b4477089bcffd822f7fa519680c8bc7f8",
+  "md5": "dd8c4d04a5ef78ad3e0db69a0eb55e26",
+  "crc32": "d29c8f92",
+  "size": 32566,
+  "format": "PRG",
+  "files": [
+    "Carrier Command.prg"
+  ],
+  "screenscraper_id": "36014",
+  "title": "Carrier Command",
+  "year": "1989",
+  "publisher": "Rainbird",
+  "developer": "Realtime Games; C64-Fassung: Source the Software House",
+  "genres": [
+    "Strategie",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "In Carrier Command befehligt man einen hochgerüsteten Flugzeugträger in einer Inselwelt, um die man mit einem feindlichen Träger kämpft. Mit Amphibienpanzern und Flugzeugen, die man vom Träger aus einsetzt und auch selbst steuert, erobert man Inseln und baut auf ihnen Rohstoff-, Fabrik- und Verteidigungsstützpunkte auf. Das entstehende Versorgungsnetz liefert Nachschub, während der Gegner das Gleiche versucht. Das Spiel verband Echtzeitstrategie mit 3D-Fahrzeugsteuerung und galt 1988 als wegweisend.\n\nDas Original erschien 1988 für Atari ST und Amiga mit gefüllter Vektorgrafik. Die C64-Fassung kam 1989 bei Rainbird auf Kassette und Diskette heraus und wurde von Source the Software House umgesetzt; statt Vektorgrafik zeigt sie das Geschehen mit Sprites in der Draufsicht. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nEntwicklung (C64): Source the Software House",
+  "texts": {
+    "de": "In Carrier Command befehligt man einen hochgerüsteten Flugzeugträger in einer Inselwelt, um die man mit einem feindlichen Träger kämpft. Mit Amphibienpanzern und Flugzeugen, die man vom Träger aus einsetzt und auch selbst steuert, erobert man Inseln und baut auf ihnen Rohstoff-, Fabrik- und Verteidigungsstützpunkte auf. Das entstehende Versorgungsnetz liefert Nachschub, während der Gegner das Gleiche versucht. Das Spiel verband Echtzeitstrategie mit 3D-Fahrzeugsteuerung und galt 1988 als wegweisend.\n\nDas Original erschien 1988 für Atari ST und Amiga mit gefüllter Vektorgrafik. Die C64-Fassung kam 1989 bei Rainbird auf Kassette und Diskette heraus und wurde von Source the Software House umgesetzt; statt Vektorgrafik zeigt sie das Geschehen mit Sprites in der Draufsicht. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nEntwicklung (C64): Source the Software House",
+    "en": "In Carrier Command the player commands a heavily armed aircraft carrier in an archipelago contested by an enemy carrier. Using amphibious tanks and aircraft launched from the carrier – which can also be controlled directly – islands are captured and turned into resource, factory and defence bases. The resulting supply network provides reinforcements while the enemy attempts the same. The game combined real-time strategy with 3D vehicle control and was considered groundbreaking in 1988.\n\nThe original appeared in 1988 for the Atari ST and Amiga with filled vector graphics. The C64 version was released in 1989 by Rainbird on cassette and disk and was converted by Source the Software House; instead of vector graphics it shows the action with sprites from a top-down view. There are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick in port 2.\n\nDevelopment (C64): Source the Software House"
+  },
+  "images": {
+    "ss": "images/5c/5c5cf5a57590568268bed76eb7921547083c45fd.png",
+    "sstitle": "images/59/59a647fd8a5d4e4f34b6f4d7b00a4a1099b15042.png"
+  }
+}

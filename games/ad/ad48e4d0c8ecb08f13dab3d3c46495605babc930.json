@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ad48e4d0c8ecb08f13dab3d3c46495605babc930",
+  "md5": "ba68fd8594d7e51f99dc1d588f5d7aec",
+  "crc32": "71121ce2",
+  "size": 197056,
+  "format": "CRT",
+  "files": [
+    "Steel Ranger.crt"
+  ],
+  "screenscraper_id": "492233",
+  "title": "Steel Ranger",
+  "year": "2018",
+  "publisher": "Psytronik Software",
+  "developer": "Lasse Öörni (Cadaver, Covert Bitops)",
+  "genres": [
+    "Action / Abenteuer",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Steel Ranger ist ein Run-and-Gun-Abenteuer von Lasse Öörni im Stil eines Metroidvania. Im Jahr 2218 kämpft die Menschheit gegen eine feindselige Maschinenintelligenz, und der Spieler steuert einen kybernetischen Kämpfer durch eine große, zusammenhängend scrollende Welt. Neue Waffen und Systemverbesserungen öffnen nach und nach weitere Bereiche, dazu kommen Fallen, Endgegner und Gespräche mit Figuren. Das Spiel gilt als Weiterentwicklung von Metal Warrior und Hessian.\n\nSteel Ranger erschien bei Psytronik auf Diskette und Kassette, als Modul und als Download; es läuft auf PAL- und NTSC-Geräten. Gesteuert wird mit dem Joystick.\n\nCode, Grafik und Musik: Lasse Öörni",
+  "texts": {
+    "de": "Steel Ranger ist ein Run-and-Gun-Abenteuer von Lasse Öörni im Stil eines Metroidvania. Im Jahr 2218 kämpft die Menschheit gegen eine feindselige Maschinenintelligenz, und der Spieler steuert einen kybernetischen Kämpfer durch eine große, zusammenhängend scrollende Welt. Neue Waffen und Systemverbesserungen öffnen nach und nach weitere Bereiche, dazu kommen Fallen, Endgegner und Gespräche mit Figuren. Das Spiel gilt als Weiterentwicklung von Metal Warrior und Hessian.\n\nSteel Ranger erschien bei Psytronik auf Diskette und Kassette, als Modul und als Download; es läuft auf PAL- und NTSC-Geräten. Gesteuert wird mit dem Joystick.\n\nCode, Grafik und Musik: Lasse Öörni",
+    "en": "Steel Ranger is a Metroidvania-style run-and-gun adventure by Lasse Öörni. In the year 2218 humanity is fighting a hostile machine intelligence, and the player controls a cybernetic warrior through a large, continuously scrolling world. New weapons and system upgrades gradually open further areas, along with traps, bosses and conversations with characters. The game is regarded as a further development of Metal Warrior and Hessian.\n\nSteel Ranger was released by Psytronik on disk and tape, as a cartridge and as a download; it runs on PAL and NTSC machines. It is controlled with a joystick.\n\nCode, graphics and music: Lasse Öörni"
+  },
+  "images": {
+    "sstitle": "images/21/2115113d74784bcb74d140752490e6b61a47cf30.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "bc0b76bac26eec94fa7841b1c35ac053e9a59e1e",
+  "md5": "fe31e383f33dd9d8eff9939982139960",
+  "crc32": "68aeea79",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Zamzara.crt"
+  ],
+  "screenscraper_id": "109406",
+  "title": "Zamzara",
+  "year": "1988",
+  "publisher": "Rack-It",
+  "developer": "Jukka Tapanimäki",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Das außerirdische Wesen Zamzara muss aus einer Forschungsbasis fliehen, bevor die Selbstzerstörung nach 15 Minuten auslöst. Die 29 horizontal scrollenden Abschnitte sind über Teleporter verbunden; Zamzara läuft, springt und schießt sich durch zahlreiche Gegner, wobei aufgesammelte Waffen das Feuer verstärken. Bis zu 40 Sprites gleichzeitig und schnelle Action zeigen das technische Können des finnischen Programmierers Jukka Tapanimäki. Die Titelmusik von Charles Deenen gehört zu den bekannten Stücken auf dem C64.\n\nZamzara erschien 1988 beim Hewson-Budget-Label Rack-It auf Kassette und Diskette, später auch bei anderen Anbietern; dazu kommen Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur.\n\nCode: Jukka Tapanimäki · Musik: Charles Deenen",
+  "texts": {
+    "de": "Das außerirdische Wesen Zamzara muss aus einer Forschungsbasis fliehen, bevor die Selbstzerstörung nach 15 Minuten auslöst. Die 29 horizontal scrollenden Abschnitte sind über Teleporter verbunden; Zamzara läuft, springt und schießt sich durch zahlreiche Gegner, wobei aufgesammelte Waffen das Feuer verstärken. Bis zu 40 Sprites gleichzeitig und schnelle Action zeigen das technische Können des finnischen Programmierers Jukka Tapanimäki. Die Titelmusik von Charles Deenen gehört zu den bekannten Stücken auf dem C64.\n\nZamzara erschien 1988 beim Hewson-Budget-Label Rack-It auf Kassette und Diskette, später auch bei anderen Anbietern; dazu kommen Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur.\n\nCode: Jukka Tapanimäki · Musik: Charles Deenen",
+    "en": "The alien creature Zamzara has to escape from a research base before its self-destruct sequence goes off after 15 minutes. The 29 horizontally scrolling sections are linked by teleporters; Zamzara runs, jumps and shoots its way through numerous enemies, with collected weapons boosting its firepower. Up to 40 sprites on screen at once and fast action show off the technical skill of Finnish programmer Jukka Tapanimäki. Charles Deenen's title music is one of the better-known tunes on the C64.\n\nZamzara was released in 1988 on Hewson's budget label Rack-It on cassette and disk, later also by other publishers; cartridge conversions from the scene exist as well. It is played with a joystick in port 2 or the keyboard.\n\nCode: Jukka Tapanimäki · Music: Charles Deenen"
+  },
+  "images": {
+    "sstitle": "images/a9/a9f0535e968e419098965ed1e442a88282f6f43a.png"
+  }
+}

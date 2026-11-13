@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8bccc9c7741e116fd2f706fa08ebfe72b68b325a",
+  "md5": "6ba88493bd5bcaf9c2ef40e2bb6de35e",
+  "crc32": "f1779187",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Hacker II (J1).crt"
+  ],
+  "screenscraper_id": "36432",
+  "title": "Hacker II: The Doomsday Papers",
+  "year": "1986",
+  "publisher": "Activision",
+  "developer": "Steve Cartwright",
+  "genres": [
+    "Strategie",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Im Nachfolger von Hacker steuert man einen ferngelenkten Roboter durch eine streng bewachte Regierungsanlage, um die geheimen „Doomsday Papers“ aus einem Tresor zu stehlen. Der Blick auf das Geschehen läuft über einen Monitor mit vier Kanälen, auf dem die Bilder der Überwachungskameras erscheinen. Damit beobachtet man die Wachen, plant die Wege und kann Kamerabilder durch zuvor aufgezeichnete Bänder ersetzen – deren Zeitstempel muss aber zur Uhr passen, sonst fällt der Schwindel auf. Wird Alarm ausgelöst, macht ein Verfolgerroboter Jagd auf die eigenen Einheiten. Das Spiel lebt von Planung und Geduld und gehört zu den ungewöhnlichsten Schleichspielen der 8-Bit-Zeit.\n\nDas Spiel erschien auf Diskette und Kassette und wurde später auch auf Heft-Kassetten britischer Zeitschriften neu aufgelegt. Neben Original und Cracks gibt es Modulumsetzungen (CRT) aus der OneLoad64-Sammlung sowie eine einteilige PRG-Fassung, die ohne Nachladen auskommen. Gesteuert wird mit dem Joystick.\n\nDesign und Code: Steve Cartwright",
+  "texts": {
+    "de": "Im Nachfolger von Hacker steuert man einen ferngelenkten Roboter durch eine streng bewachte Regierungsanlage, um die geheimen „Doomsday Papers“ aus einem Tresor zu stehlen. Der Blick auf das Geschehen läuft über einen Monitor mit vier Kanälen, auf dem die Bilder der Überwachungskameras erscheinen. Damit beobachtet man die Wachen, plant die Wege und kann Kamerabilder durch zuvor aufgezeichnete Bänder ersetzen – deren Zeitstempel muss aber zur Uhr passen, sonst fällt der Schwindel auf. Wird Alarm ausgelöst, macht ein Verfolgerroboter Jagd auf die eigenen Einheiten. Das Spiel lebt von Planung und Geduld und gehört zu den ungewöhnlichsten Schleichspielen der 8-Bit-Zeit.\n\nDas Spiel erschien auf Diskette und Kassette und wurde später auch auf Heft-Kassetten britischer Zeitschriften neu aufgelegt. Neben Original und Cracks gibt es Modulumsetzungen (CRT) aus der OneLoad64-Sammlung sowie eine einteilige PRG-Fassung, die ohne Nachladen auskommen. Gesteuert wird mit dem Joystick.\n\nDesign und Code: Steve Cartwright",
+    "en": "In this sequel to Hacker, the player guides a remote-controlled robot through a heavily guarded government facility to steal the secret \"Doomsday Papers\" from a vault. The action is viewed on a four-channel monitor showing the feeds of the security cameras. It is used to watch the guards and plan routes, and camera feeds can be replaced with pre-recorded tapes – but their time stamp has to match the clock or the deception is noticed. If an alarm is raised, a pursuit robot hunts down the player's units. The game is all about planning and patience and is one of the most unusual stealth games of the 8-bit era.\n\nThe game was released on disk and cassette and later reissued on British magazine cover tapes. Besides the original and cracked versions there are cartridge conversions (CRT) from the OneLoad64 collection and a single-file PRG version that need no further loading. It is controlled with a joystick.\n\nDesign and code: Steve Cartwright"
+  },
+  "images": {
+    "ss": "images/6e/6e298059c015f322f1dd3715b3d8646178464a88.png"
+  }
+}

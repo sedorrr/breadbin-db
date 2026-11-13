@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8755c9956ebc00fe933b3d109fdef01287f49433",
+  "md5": "3e0707a8d836d7bea650f7d5f11a5ff7",
+  "crc32": "d15ba173",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Super Sprint - Tracks 1-4.crt"
+  ],
+  "screenscraper_id": "36306",
+  "title": "Super Sprint",
+  "year": "1987",
+  "publisher": "Electric Dreams",
+  "developer": "Catalyst Coders / Software Studios",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Atari-Automaten von 1986: Kleine Rennwagen fahren, von oben gesehen, auf acht Strecken, die jeweils komplett auf einen Bildschirm passen. Mit dem Joystick wird gelenkt, der Feuerknopf gibt Gas. Unterwegs liegen Schraubenschlüssel, die zwischen den Rennen gegen Verbesserungen an Haftung, Höchstgeschwindigkeit, Beschleunigung oder Punktewertung getauscht werden. Wer zu hart gegen eine Bande prallt, explodiert, und ein Hubschrauber bringt einen Ersatzwagen. Das schnelle Spiel zu zweit machte Super Sprint zu einem beliebten Partyspiel.\n\nErschienen auf Kassette und Diskette, später als Neuauflage bei The Hit Squad und auf einer Zeitschriftenbeilage. Zwei Spieler fahren gleichzeitig, gesteuert wird mit dem Joystick in Port 2. Bei den OneLoad64-Umsetzungen als EasyFlash-Modul sind die acht Strecken auf zwei Module (1–4 und 5–8) verteilt.\n\nCode: David Jolliff, Andrew Parton · Grafik: Mark Jones",
+  "texts": {
+    "de": "Umsetzung des Atari-Automaten von 1986: Kleine Rennwagen fahren, von oben gesehen, auf acht Strecken, die jeweils komplett auf einen Bildschirm passen. Mit dem Joystick wird gelenkt, der Feuerknopf gibt Gas. Unterwegs liegen Schraubenschlüssel, die zwischen den Rennen gegen Verbesserungen an Haftung, Höchstgeschwindigkeit, Beschleunigung oder Punktewertung getauscht werden. Wer zu hart gegen eine Bande prallt, explodiert, und ein Hubschrauber bringt einen Ersatzwagen. Das schnelle Spiel zu zweit machte Super Sprint zu einem beliebten Partyspiel.\n\nErschienen auf Kassette und Diskette, später als Neuauflage bei The Hit Squad und auf einer Zeitschriftenbeilage. Zwei Spieler fahren gleichzeitig, gesteuert wird mit dem Joystick in Port 2. Bei den OneLoad64-Umsetzungen als EasyFlash-Modul sind die acht Strecken auf zwei Module (1–4 und 5–8) verteilt.\n\nCode: David Jolliff, Andrew Parton · Grafik: Mark Jones",
+    "en": "A conversion of Atari's 1986 arcade game: small racing cars, seen from above, race on eight tracks that each fit entirely on one screen. The joystick steers and the fire button accelerates. Spanners lie on the track and can be traded between races for upgrades to grip, top speed, acceleration or score. Anyone who hits a barrier too hard explodes, and a helicopter delivers a replacement car. The fast two-player action made Super Sprint a popular party game.\n\nReleased on tape and disk, later re-released by The Hit Squad and on a magazine covertape. Two players race simultaneously; it is controlled with a joystick in port 2. In the OneLoad64 conversions as EasyFlash cartridges, the eight tracks are split across two cartridges (1–4 and 5–8).\n\nCode: David Jolliff, Andrew Parton · Graphics: Mark Jones"
+  },
+  "images": {
+    "ss": "images/50/506a2e009c5c3ec9716887f25496c26504db3dff.png",
+    "sstitle": "images/9c/9c77ac977bb20f64de3c3f95f6738cafb62c8f57.png"
+  }
+}

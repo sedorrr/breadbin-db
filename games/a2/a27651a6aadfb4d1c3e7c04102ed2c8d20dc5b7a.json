@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a27651a6aadfb4d1c3e7c04102ed2c8d20dc5b7a",
+  "md5": "7da715afe76bdf1c6094b5893a0ce289",
+  "crc32": "c5604e50",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Vindicators.crt"
+  ],
+  "screenscraper_id": "36773",
+  "title": "Vindicators",
+  "year": "1990",
+  "publisher": "Domark (Tengen)",
+  "developer": "Consult Software",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Atari-Automaten von 1988: Zwei Panzerfahrer kämpfen sich durch 14 Raumstationen des Tangent-Imperiums, die von oben gezeigt werden. Treibstoff wird laufend knapp und muss unterwegs aufgesammelt werden, eingesammelte Sterne lassen sich zwischen den Stationen gegen Verbesserungen wie stärkere Geschütze, Panzerung oder höhere Geschwindigkeit eintauschen. Der Turm des Panzers dreht sich unabhängig von der Fahrtrichtung. Am Automaten wurde das Spiel mit zwei Steuerknüppeln je Spieler bedient, was sich am Heimcomputer nur vereinfacht nachbilden ließ.\n\nDie C64-Fassung erschien bei Domark unter dem Label Tengen als Modul, später auch auf Kassette und Diskette sowie als Neuauflage bei The Hit Squad. Zwei Spieler spielen gleichzeitig, gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung (C64): Consult Software",
+  "texts": {
+    "de": "Umsetzung des Atari-Automaten von 1988: Zwei Panzerfahrer kämpfen sich durch 14 Raumstationen des Tangent-Imperiums, die von oben gezeigt werden. Treibstoff wird laufend knapp und muss unterwegs aufgesammelt werden, eingesammelte Sterne lassen sich zwischen den Stationen gegen Verbesserungen wie stärkere Geschütze, Panzerung oder höhere Geschwindigkeit eintauschen. Der Turm des Panzers dreht sich unabhängig von der Fahrtrichtung. Am Automaten wurde das Spiel mit zwei Steuerknüppeln je Spieler bedient, was sich am Heimcomputer nur vereinfacht nachbilden ließ.\n\nDie C64-Fassung erschien bei Domark unter dem Label Tengen als Modul, später auch auf Kassette und Diskette sowie als Neuauflage bei The Hit Squad. Zwei Spieler spielen gleichzeitig, gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung (C64): Consult Software",
+    "en": "A conversion of Atari's 1988 arcade game: two tank drivers fight their way through 14 space stations of the Tangent empire, seen from above. Fuel is constantly running low and has to be picked up along the way, and stars collected can be traded between stations for upgrades such as stronger guns, armour or higher speed. The tank's turret rotates independently of the direction of travel. In the arcade each player used two control sticks, which could only be imitated in simplified form on home computers.\n\nThe C64 version was released by Domark on its Tengen label as a cartridge, later also on tape and disk and as a re-release by The Hit Squad. Two players play simultaneously; it is controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nDevelopment (C64): Consult Software"
+  },
+  "images": {
+    "sstitle": "images/0e/0efd0adc0bea87578fb42177a7754ac37813506d.png"
+  }
+}

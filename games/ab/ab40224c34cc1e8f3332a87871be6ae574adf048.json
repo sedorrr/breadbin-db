@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "ab40224c34cc1e8f3332a87871be6ae574adf048",
+  "md5": "e43554d4178c9850e51de161c03725a8",
+  "crc32": "fe3722fa",
+  "size": 42373,
+  "format": "T64",
+  "files": [
+    "TRACKMAN.T64"
+  ],
+  "screenscraper_id": "35941",
+  "title": "Tracksuit Manager",
+  "year": "1988",
+  "publisher": "Goliath Games",
+  "developer": "Goliath Games",
+  "genres": [
+    "Sport",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "In diesem Fußball-Managerspiel übernimmt der Spieler eine Nationalmannschaft, die bei der Weltmeisterschaft 1986 gescheitert ist, und führt sie über die Europameisterschaft 1988 zur WM 1990. Aus einem großen Kreis von Spielern wird der Kader zusammengestellt, Aufstellung und Taktik werden vor jeder Partie festgelegt, Gegner lassen sich beobachten. Die Spiele selbst laufen als ausführlicher Textkommentar mit einer kleinen Grafik zur Ballposition ab. Gerade dieser Kommentar, der jede Partie spannend nacherzählt, machte das Spiel bekannt; es erreichte Platz zwei der britischen Verkaufscharts.\n\nGoliath Games veröffentlichte das Spiel auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 bzw. über Menüs.\n\nDesign: Doug Matthews · Code: J. Foster",
+  "texts": {
+    "de": "In diesem Fußball-Managerspiel übernimmt der Spieler eine Nationalmannschaft, die bei der Weltmeisterschaft 1986 gescheitert ist, und führt sie über die Europameisterschaft 1988 zur WM 1990. Aus einem großen Kreis von Spielern wird der Kader zusammengestellt, Aufstellung und Taktik werden vor jeder Partie festgelegt, Gegner lassen sich beobachten. Die Spiele selbst laufen als ausführlicher Textkommentar mit einer kleinen Grafik zur Ballposition ab. Gerade dieser Kommentar, der jede Partie spannend nacherzählt, machte das Spiel bekannt; es erreichte Platz zwei der britischen Verkaufscharts.\n\nGoliath Games veröffentlichte das Spiel auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 bzw. über Menüs.\n\nDesign: Doug Matthews · Code: J. Foster",
+    "en": "In this football management game the player takes charge of a national team that failed at the 1986 World Cup and leads it through the 1988 European Championship towards the 1990 World Cup. The squad is picked from a large pool of players, and line-up and tactics are set before each match, with opponents available for scouting. The matches themselves play out as detailed text commentary with a small graphic showing the ball's position. It was above all this commentary, which retells each match with real tension, that made the game well known; it reached number two in the UK sales charts.\n\nGoliath Games released the game on cassette and disk; cartridge conversions from the scene appeared later. It is controlled with a joystick in port 2 via menus.\n\nDesign: Doug Matthews · Code: J. Foster"
+  },
+  "images": {
+    "ss": "images/ea/eaf063c4801a7825bd3e835d9cd14d4da465bcb3.png",
+    "sstitle": "images/40/407de29b63f4e7561706ae3d6178cf429a3b59d0.png"
+  }
+}

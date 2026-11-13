@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a50960f270e654b24a8632eeb6e1982938e49f23",
+  "md5": "86207cdbdba27aaa8f5d34d96c993776",
+  "crc32": "c0162b8d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "VIGILANT.D64"
+  ],
+  "screenscraper_id": "36176",
+  "title": "Vigilante",
+  "year": "1989",
+  "publisher": "U.S. Gold",
+  "developer": "Emerald Software",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Der Vigilant muss seine Freundin Madonna aus den Händen einer Straßenbande befreien, die sie entführt hat. In fünf seitlich scrollenden Abschnitten durch die Straßen von New York prügelt er sich mit Faustschlägen und Tritten durch die Bandenmitglieder; ein Nunchaku, das gelegentlich auftaucht, erhöht die Reichweite. Am Ende jedes Abschnitts wartet ein Anführer. Vorlage ist der Irem-Automat von 1988, ein geistiger Nachfolger von Kung-Fu Master.\n\nEmerald Software setzte das Spiel für U.S. Gold um, erschienen 1989 auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Emerald Software",
+  "texts": {
+    "de": "Der Vigilant muss seine Freundin Madonna aus den Händen einer Straßenbande befreien, die sie entführt hat. In fünf seitlich scrollenden Abschnitten durch die Straßen von New York prügelt er sich mit Faustschlägen und Tritten durch die Bandenmitglieder; ein Nunchaku, das gelegentlich auftaucht, erhöht die Reichweite. Am Ende jedes Abschnitts wartet ein Anführer. Vorlage ist der Irem-Automat von 1988, ein geistiger Nachfolger von Kung-Fu Master.\n\nEmerald Software setzte das Spiel für U.S. Gold um, erschienen 1989 auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Emerald Software",
+    "en": "The Vigilante has to rescue his girlfriend Madonna from a street gang that has kidnapped her. Across five side-scrolling stages through the streets of New York he fights his way through gang members with punches and kicks; nunchaku, which turn up now and then, extend his reach. A gang leader waits at the end of each stage. The basis is Irem's 1988 arcade game, a spiritual successor to Kung-Fu Master.\n\nEmerald Software converted the game for U.S. Gold, released in 1989 on cassette and disk. It is played with a joystick in port 2.\n\nCode: Emerald Software"
+  },
+  "images": {
+    "sstitle": "images/10/10358a5cc3466dfbf40cb766bbcd89b379a3fec0.png"
+  }
+}

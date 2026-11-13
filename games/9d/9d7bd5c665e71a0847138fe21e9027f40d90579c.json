@@ -21,5 +21,9 @@
   "texts": {
     "de": "Spiel zum zweiten Ghostbusters-Film in drei Abschnitten: Zuerst seilt sich Ray in einen Schacht ab, um Schleimproben zu nehmen, und muss dabei Geister abwehren. Danach marschiert die Freiheitsstatue durch die Straßen New Yorks und schießt auf Geister, ehe die vier Ghostbusters im Museum gegen Vigo antreten. Die abwechslungsreichen Abschnitte machten es zu einer der besseren Filmumsetzungen.\n\nErschien auf Kassette und Diskette; außerdem gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Steuerung per Joystick in Port 2.\n\nCode: Paul Baker · Grafik: Stephen Green · Musik: David Whittaker",
     "en": "Game of the second Ghostbusters film in three sections: first Ray abseils down a shaft to take slime samples and has to fend off ghosts while doing so. Then the Statue of Liberty marches through the streets of New York shooting at ghosts, before the four Ghostbusters face Vigo in the museum. The varied sections made it one of the better film conversions.\n\nReleased on cassette and disk; there is also a MultiLoad64 EasyFlash conversion by $olo1870. Controlled by joystick in port 2.\n\nCode: Paul Baker · Graphics: Stephen Green · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/dc/dcebe9590f5b3af96651bc03248bd83bc00007b0.png",
+    "sstitle": "images/14/1453befd6c5c977ebc49b6794391627ab09c2619.png"
   }
 }

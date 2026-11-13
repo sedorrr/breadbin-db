@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "9176dc1b365c58e7ddc426e7b7dad46031aa8841",
+  "md5": "5e17559e2c6c04110d358ad76622edf5",
+  "crc32": "024fb411",
+  "size": 98560,
+  "format": "CRT",
+  "files": [
+    "Basil the Great Mouse Detective.crt"
+  ],
+  "screenscraper_id": "109872",
+  "title": "Basil the Great Mouse Detective",
+  "year": "1987",
+  "publisher": "Gremlin Graphics",
+  "developer": "Gremlin Graphics",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Basil the Great Mouse Detective ist das Spiel zum Disney-Zeichentrickfilm „Basil, der große Mäusedetektiv“. Der Mäusedetektiv Basil sucht seinen entführten Freund Dr. Dawson und folgt dazu den Spuren des Schurken Ratigan durch mehrere Schauplätze Londons. In seitlich angeordneten Räumen springt und klettert Basil umher, weicht Gegnern aus und sammelt Hinweise, von denen nur die richtigen zum Ziel führen. Das Spiel verbindet Plattform-Action mit leichter Detektivarbeit.\n\nDas Spiel erschien 1987 bei Gremlin Graphics auf Kassette und Diskette. Es gibt eine EasyFlash-Umsetzung (Disk2EasyFlash) mit schnellem Laden. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Bob Armour · Musik: Ben Daglish",
+  "texts": {
+    "de": "Basil the Great Mouse Detective ist das Spiel zum Disney-Zeichentrickfilm „Basil, der große Mäusedetektiv“. Der Mäusedetektiv Basil sucht seinen entführten Freund Dr. Dawson und folgt dazu den Spuren des Schurken Ratigan durch mehrere Schauplätze Londons. In seitlich angeordneten Räumen springt und klettert Basil umher, weicht Gegnern aus und sammelt Hinweise, von denen nur die richtigen zum Ziel führen. Das Spiel verbindet Plattform-Action mit leichter Detektivarbeit.\n\nDas Spiel erschien 1987 bei Gremlin Graphics auf Kassette und Diskette. Es gibt eine EasyFlash-Umsetzung (Disk2EasyFlash) mit schnellem Laden. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Bob Armour · Musik: Ben Daglish",
+    "en": "Basil the Great Mouse Detective is the game of the Disney animated film \"The Great Mouse Detective\". The mouse detective Basil searches for his kidnapped friend Dr. Dawson, following the trail of the villain Ratigan through several London locations. In side-on rooms Basil jumps and climbs about, avoids enemies and collects clues, of which only the right ones lead to the goal. The game combines platform action with light detective work.\n\nThe game was released in 1987 by Gremlin Graphics on cassette and disk. There is an EasyFlash conversion (Disk2EasyFlash) with fast loading. It is controlled with a joystick in port 2.\n\nCode: Bob Armour · Music: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/c7/c7e6e79c9b508c3346cb5bc598328e72b5fc631a.png",
+    "sstitle": "images/19/19ea7bb62b975643b75917a9e963a6fec4f402a7.png"
+  }
+}
