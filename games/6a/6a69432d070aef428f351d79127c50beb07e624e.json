@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "6a69432d070aef428f351d79127c50beb07e624e",
+  "md5": "3b1acf5917896b88862603f0a8487bc7",
+  "crc32": "a441f4b5",
+  "size": 344800,
+  "format": "CRT",
+  "files": [
+    "Twinworld.crt"
+  ],
+  "screenscraper_id": "36400",
+  "title": "Twinworld",
+  "year": "1990",
+  "publisher": "Ubi Soft",
+  "developer": "Blue Byte",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Der junge Ulopa muss die 23 Bruchstücke eines zerbrochenen Amuletts wiederfinden, um seine Welt zu retten. In 23 horizontal scrollenden Leveln springt er über Plattformen und wehrt sich mit drei Arten magischer Kugeln, die sich in Reichweite und Durchschlagskraft unterscheiden; eine Sorte prallt von Wänden ab. Verborgene Bereiche und Gegenstände lohnen das gründliche Erkunden. Das Spiel stammt ursprünglich vom deutschen Studio Blue Byte.\n\nUbi Soft veröffentlichte die C64-Fassung 1990 auf Kassette und Diskette (zwei Disketten); daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur.\n\nCode: James Byrne, James Hartshorn, Roger Taylor, Chris Newcombe, Ken Earl",
+  "texts": {
+    "de": "Der junge Ulopa muss die 23 Bruchstücke eines zerbrochenen Amuletts wiederfinden, um seine Welt zu retten. In 23 horizontal scrollenden Leveln springt er über Plattformen und wehrt sich mit drei Arten magischer Kugeln, die sich in Reichweite und Durchschlagskraft unterscheiden; eine Sorte prallt von Wänden ab. Verborgene Bereiche und Gegenstände lohnen das gründliche Erkunden. Das Spiel stammt ursprünglich vom deutschen Studio Blue Byte.\n\nUbi Soft veröffentlichte die C64-Fassung 1990 auf Kassette und Diskette (zwei Disketten); daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur.\n\nCode: James Byrne, James Hartshorn, Roger Taylor, Chris Newcombe, Ken Earl",
+    "en": "Young Ulopa has to recover the 23 fragments of a shattered amulet to save his world. Across 23 horizontally scrolling levels he jumps between platforms and defends himself with three kinds of magic balls that differ in range and power; one type bounces off walls. Hidden areas and items reward thorough exploration. The game was originally created by the German studio Blue Byte.\n\nUbi Soft released the C64 version in 1990 on cassette and disk (two disks); EasyFlash conversions from the scene exist as well. It is played with a joystick in port 2 or the keyboard.\n\nCode: James Byrne, James Hartshorn, Roger Taylor, Chris Newcombe, Ken Earl"
+  },
+  "images": {
+    "ss": "images/3c/3c207efea2aeb5957089e99520f8e6f8c66f479c.png"
+  }
+}

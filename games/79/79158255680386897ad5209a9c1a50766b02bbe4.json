@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "79158255680386897ad5209a9c1a50766b02bbe4",
+  "md5": "aa720fb3d913c1c43c6f13f274631f52",
+  "crc32": "1a6c3f9d",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Hampstead.crt"
+  ],
+  "screenscraper_id": "112755",
+  "title": "Hampstead",
+  "year": "1984",
+  "publisher": "Melbourne House",
+  "developer": "Peter Jones, Trevor Lever",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Hampstead ist eine Satire auf den gesellschaftlichen Aufstieg im England der 1980er-Jahre. Der Spieler beginnt in einer heruntergekommenen Sozialwohnung und will es bis in ein Haus im noblen Londoner Stadtteil Hampstead schaffen. Dazu braucht er die richtige Kleidung, eine gut bezahlte Stelle in der City und die passende Partnerin. Statt Drachen und Schätzen geht es um Statussymbole, was das Spiel von den Fantasy-Abenteuern seiner Zeit abhob.\n\nHampstead ist ein reines Textadventure ohne Bilder und erschien auf dem C64 zuerst, noch vor der Spectrum-Fassung, auf Kassette. Eingegeben wird über die Tastatur.\n\nDesign: Peter Jones, Trevor Lever",
+  "texts": {
+    "de": "Hampstead ist eine Satire auf den gesellschaftlichen Aufstieg im England der 1980er-Jahre. Der Spieler beginnt in einer heruntergekommenen Sozialwohnung und will es bis in ein Haus im noblen Londoner Stadtteil Hampstead schaffen. Dazu braucht er die richtige Kleidung, eine gut bezahlte Stelle in der City und die passende Partnerin. Statt Drachen und Schätzen geht es um Statussymbole, was das Spiel von den Fantasy-Abenteuern seiner Zeit abhob.\n\nHampstead ist ein reines Textadventure ohne Bilder und erschien auf dem C64 zuerst, noch vor der Spectrum-Fassung, auf Kassette. Eingegeben wird über die Tastatur.\n\nDesign: Peter Jones, Trevor Lever",
+    "en": "Hampstead is a satire on social climbing in 1980s England. The player starts in a run-down council flat and wants to end up with a house in the upmarket London district of Hampstead. That takes the right clothes, a well-paid job in the City and a suitable partner. Instead of dragons and treasure it is all about status symbols, which set the game apart from the fantasy adventures of its day.\n\nHampstead is a pure text adventure without pictures and appeared first on the C64, ahead of the Spectrum version, on tape. Input is via the keyboard.\n\nDesign: Peter Jones, Trevor Lever"
+  },
+  "images": {
+    "sstitle": "images/51/514e494bed37023dee3ff4b6b4337c4c74a8274d.png"
+  }
+}

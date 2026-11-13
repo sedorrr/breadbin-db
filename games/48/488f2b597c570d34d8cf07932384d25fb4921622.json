@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "488f2b597c570d34d8cf07932384d25fb4921622",
+  "md5": "50dbabbcdafc7be76abf32c1894caab6",
+  "crc32": "12c844cc",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Yie Ar Kung-Fu II (J1).crt"
+  ],
+  "screenscraper_id": "36125",
+  "title": "Yie Ar Kung-Fu II",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Imagine (Allan Shortt, David Collier)",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Fortsetzung des Konami-Kampfspiels: Lee Young, Sohn des Helden aus dem ersten Teil, tritt gegen Kaiser Yen Pei und seine Kriegsherren an, die er einen nach dem anderen im Zweikampf besiegen muss. Gekämpft wird mit Tritten und Schlägen vor wechselnden Hintergründen. Zwischen den Kämpfen tauchen kleine Gestalten auf, die Teeblätter zur Heilung oder Nudelschalen für kurze Unverwundbarkeit hinterlassen. Nach dem letzten Gegner beginnt der Durchgang erneut, es geht um Ausdauer und Punkte.\n\nErschienen auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 1; zwei Spieler können gegeneinander antreten. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Allan Shortt, David Collier · Grafik: Andrew Sleigh · Musik: Martin Galway",
+  "texts": {
+    "de": "Fortsetzung des Konami-Kampfspiels: Lee Young, Sohn des Helden aus dem ersten Teil, tritt gegen Kaiser Yen Pei und seine Kriegsherren an, die er einen nach dem anderen im Zweikampf besiegen muss. Gekämpft wird mit Tritten und Schlägen vor wechselnden Hintergründen. Zwischen den Kämpfen tauchen kleine Gestalten auf, die Teeblätter zur Heilung oder Nudelschalen für kurze Unverwundbarkeit hinterlassen. Nach dem letzten Gegner beginnt der Durchgang erneut, es geht um Ausdauer und Punkte.\n\nErschienen auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 1; zwei Spieler können gegeneinander antreten. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Allan Shortt, David Collier · Grafik: Andrew Sleigh · Musik: Martin Galway",
+    "en": "The sequel to Konami's fighting game: Lee Young, son of the hero of the first game, takes on Emperor Yen Pei and his warlords, whom he must defeat one after another in single combat. Fights use kicks and punches against changing backdrops. Between fights small figures appear and leave tea leaves for healing or noodle bowls for brief invulnerability. After the last opponent the cycle starts again, so it is about stamina and score.\n\nReleased on tape and disk. It is controlled with a joystick in port 1; two players can fight each other. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode: Allan Shortt, David Collier · Graphics: Andrew Sleigh · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/54/54f740857c493e0ee20df91cf18e14c28a84e7e0.png",
+    "sstitle": "images/38/383f0f16cc2e4f0b0743c6e42f3e55347e3cb7ec.png"
+  }
+}

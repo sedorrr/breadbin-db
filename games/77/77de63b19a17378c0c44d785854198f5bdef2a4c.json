@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "77de63b19a17378c0c44d785854198f5bdef2a4c",
+  "md5": "05c34d3814f8238eb211035c1f6d4b60",
+  "crc32": "094b2077",
+  "size": 229888,
+  "format": "CRT",
+  "files": [
+    "Mask of the Sun (De) (kb).crt"
+  ],
+  "screenscraper_id": "114509",
+  "title": "The Mask of the Sun",
+  "year": "1984",
+  "publisher": "Brøderbund",
+  "developer": "Ultrasoft (Alan Clark, Christopher Anson, Margaret Anson); C64: Scott Shumway",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Der Archäologe Mac Steele hat sich an einem Fundstück vergiftet, und nur die sagenhafte Maske der Sonne kann ihn heilen. Die Suche führt ihn nach Mexiko in alte Tempel und Pyramiden voller Fallen, Wächter und Rivalen, die ebenfalls hinter der Maske her sind. Gespielt wird über Texteingabe, die Orte sind als Bilder dargestellt, und bei bestimmten Ereignissen folgen kurze Animationen, die für ihre Zeit aufwendig waren. Die Vergiftung schreitet fort, sodass das Abenteuer unter Zeitdruck steht. Mit seinem Fortsetzungsspiel The Serpent's Star bildet es eine kleine Reihe um Mac Steele.\n\nDas Original erschien 1982 für den Apple II; die C64-Fassung kam 1984 bei Brøderbund und in Europa bei Ariolasoft auf mehreren Diskettenseiten heraus, es gibt englische und deutsche Fassungen. Gespielt wird über die Tastatur. Neben der Diskettenfassung gibt es EasyFlash-Umsetzungen, die ohne Nachladen von Diskette auskommen.\n\nEntwurf: Alan Clark, Christopher Anson, Margaret Anson · Code (C64): Scott Shumway",
+  "texts": {
+    "de": "Der Archäologe Mac Steele hat sich an einem Fundstück vergiftet, und nur die sagenhafte Maske der Sonne kann ihn heilen. Die Suche führt ihn nach Mexiko in alte Tempel und Pyramiden voller Fallen, Wächter und Rivalen, die ebenfalls hinter der Maske her sind. Gespielt wird über Texteingabe, die Orte sind als Bilder dargestellt, und bei bestimmten Ereignissen folgen kurze Animationen, die für ihre Zeit aufwendig waren. Die Vergiftung schreitet fort, sodass das Abenteuer unter Zeitdruck steht. Mit seinem Fortsetzungsspiel The Serpent's Star bildet es eine kleine Reihe um Mac Steele.\n\nDas Original erschien 1982 für den Apple II; die C64-Fassung kam 1984 bei Brøderbund und in Europa bei Ariolasoft auf mehreren Diskettenseiten heraus, es gibt englische und deutsche Fassungen. Gespielt wird über die Tastatur. Neben der Diskettenfassung gibt es EasyFlash-Umsetzungen, die ohne Nachladen von Diskette auskommen.\n\nEntwurf: Alan Clark, Christopher Anson, Margaret Anson · Code (C64): Scott Shumway",
+    "en": "Archaeologist Mac Steele has been poisoned by an artefact, and only the legendary Mask of the Sun can cure him. The search takes him to Mexico, into ancient temples and pyramids full of traps, guardians and rivals who are also after the mask. The game is played through text input, locations are shown as pictures, and certain events trigger short animations that were elaborate for their time. The poison keeps taking its toll, so the adventure runs against the clock. Together with its sequel The Serpent's Star it forms a small series around Mac Steele.\n\nThe original appeared in 1982 for the Apple II; the C64 version was released in 1984 by Brøderbund, and in Europe by Ariolasoft, on several disk sides, with English and German versions. It is played with the keyboard. Besides the disk version, there are EasyFlash conversions that need no disk loading.\n\nDesign: Alan Clark, Christopher Anson, Margaret Anson · Code (C64): Scott Shumway"
+  },
+  "images": {
+    "ss": "images/d9/d9440d064d5b4647e4989f393bbf90a84c1a4085.png",
+    "sstitle": "images/f0/f01a052e507efafc9a75fcb290c009a326953726.png"
+  }
+}

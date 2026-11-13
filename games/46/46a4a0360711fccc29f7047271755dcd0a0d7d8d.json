@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "46a4a0360711fccc29f7047271755dcd0a0d7d8d",
+  "md5": "1077ca7f4e99bab18eb471b4947247c0",
+  "crc32": "a4f81c01",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Jack the Nipper.crt"
+  ],
+  "screenscraper_id": "36629",
+  "title": "Jack the Nipper",
+  "year": "1986",
+  "publisher": "Gremlin Graphics",
+  "developer": "Gremlin Graphics",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Das Baby Jack will der frechste Bengel der Stadt werden. Es krabbelt durch Läden, Wohnhäuser, Polizeiwache, Museum und Park, sammelt Gegenstände und spielt damit an den richtigen Stellen Streiche; jeder gelungene Streich treibt den „Frechheitsmesser“ nach oben. Erwachsene jagen Jack, und nach mehreren Tracht Prügel ist das Spiel vorbei. Höchstens zwei Gegenstände lassen sich gleichzeitig tragen, sodass das Spiel auch ein Rätsel um die richtige Reihenfolge ist. Der freche Humor machte Jack the Nipper zu einem der bekanntesten Gremlin-Titel.\n\nErschienen auf Kassette und Diskette. Die Orte bestehen aus einzelnen, nicht scrollenden Bildern. Gesteuert wird mit dem Joystick in Port 2 oder per Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung (C64): Jason Perkins, Mark Rogers · Musik: Ben Daglish",
+  "texts": {
+    "de": "Das Baby Jack will der frechste Bengel der Stadt werden. Es krabbelt durch Läden, Wohnhäuser, Polizeiwache, Museum und Park, sammelt Gegenstände und spielt damit an den richtigen Stellen Streiche; jeder gelungene Streich treibt den „Frechheitsmesser“ nach oben. Erwachsene jagen Jack, und nach mehreren Tracht Prügel ist das Spiel vorbei. Höchstens zwei Gegenstände lassen sich gleichzeitig tragen, sodass das Spiel auch ein Rätsel um die richtige Reihenfolge ist. Der freche Humor machte Jack the Nipper zu einem der bekanntesten Gremlin-Titel.\n\nErschienen auf Kassette und Diskette. Die Orte bestehen aus einzelnen, nicht scrollenden Bildern. Gesteuert wird mit dem Joystick in Port 2 oder per Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwicklung (C64): Jason Perkins, Mark Rogers · Musik: Ben Daglish",
+    "en": "Baby Jack wants to become the naughtiest brat in town. He crawls through shops, houses, the police station, a museum and a park, collecting objects and using them to play pranks in the right places; each successful prank pushes up the 'Naughtyometer'. Adults chase Jack, and after several spankings the game is over. Only two objects can be carried at once, so the game is also a puzzle about doing things in the right order. Its cheeky humour made Jack the Nipper one of Gremlin's best-known titles.\n\nReleased on tape and disk. Locations consist of single, non-scrolling screens. It is controlled with a joystick in port 2 or with the keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nDevelopment (C64): Jason Perkins, Mark Rogers · Music: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/05/05da4d9a62395465ea5064ff26f7d9186705ae0f.png",
+    "sstitle": "images/db/db4efa277a0dcd4df5c50707e07e2719ff4debf0.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "4f7f8bbe39c68114fb48fd3c9deb19602024d7fa",
+  "md5": "97614600d877f692bb48b36e1776b9b5",
+  "crc32": "61b908d5",
+  "size": 106768,
+  "format": "CRT",
+  "files": [
+    "Bomberland.crt"
+  ],
+  "screenscraper_id": "150986",
+  "title": "Bomberland",
+  "year": "2013",
+  "publisher": "RGCD",
+  "developer": "Samar Productions (Michał Okowicki)",
+  "genres": [
+    "Action / Labyrinth",
+    "Geschicklichkeit"
+  ],
+  "players": "1-5",
+  "synopsis": "Ein neues C64-Spiel nach dem Vorbild von Bomberman: In labyrinthartigen Arenen legen die Figuren Bomben, um Mauern zu sprengen, Gegner zu erwischen und versteckte Extras wie größere Explosionen oder zusätzliche Bomben freizulegen. Allein wird eine Kampagne mit 36 Stufen gespielt, im Mehrspielermodus treten bis zu fünf Spieler gegeneinander an. Rund acht Jahre Entwicklungszeit stecken in dem Spiel, das als eine der gelungensten Bomberman-Umsetzungen für den C64 gilt.\n\nErschienen 2013 bei RGCD als 64-KB-Modul, dazu als Modulabbild zum Herunterladen. Gesteuert wird per Joystick oder Tastatur; für mehr als zwei Spieler ist ein Mehrspieleradapter (Protovision oder HIT) nötig. Auf dem C64GS ist nur das Spiel zu zweit möglich.\n\nCode und Grafik: Michał Okowicki · Musik: Owen Crowley",
+  "texts": {
+    "de": "Ein neues C64-Spiel nach dem Vorbild von Bomberman: In labyrinthartigen Arenen legen die Figuren Bomben, um Mauern zu sprengen, Gegner zu erwischen und versteckte Extras wie größere Explosionen oder zusätzliche Bomben freizulegen. Allein wird eine Kampagne mit 36 Stufen gespielt, im Mehrspielermodus treten bis zu fünf Spieler gegeneinander an. Rund acht Jahre Entwicklungszeit stecken in dem Spiel, das als eine der gelungensten Bomberman-Umsetzungen für den C64 gilt.\n\nErschienen 2013 bei RGCD als 64-KB-Modul, dazu als Modulabbild zum Herunterladen. Gesteuert wird per Joystick oder Tastatur; für mehr als zwei Spieler ist ein Mehrspieleradapter (Protovision oder HIT) nötig. Auf dem C64GS ist nur das Spiel zu zweit möglich.\n\nCode und Grafik: Michał Okowicki · Musik: Owen Crowley",
+    "en": "A new C64 game in the style of Bomberman: in maze-like arenas the characters plant bombs to blow up walls, catch opponents and uncover hidden extras such as bigger blasts or additional bombs. Alone, a campaign of 36 levels is played; in multiplayer mode up to five players compete against each other. Some eight years of development went into the game, which is regarded as one of the best Bomberman-style games for the C64.\n\nReleased in 2013 by RGCD as a 64 KB cartridge, plus a downloadable cartridge image. It is controlled with joystick or keyboard; more than two players require a multiplayer adapter (Protovision or HIT). On the C64GS only two-player games are possible.\n\nCode and graphics: Michał Okowicki · Music: Owen Crowley"
+  }
+}

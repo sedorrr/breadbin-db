@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "5004a35b47e45a6c0b8a3d7e22bac7bdfa59078c",
+  "md5": "3f2ce46433beefad73d41d3232a701ec",
+  "crc32": "bbe12615",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ZENJI.D64"
+  ],
+  "screenscraper_id": "108850",
+  "title": "Zenji",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Matthew Hubbard (Entwurf); C64-Umsetzung: Adam Bellin",
+  "genres": [
+    "Puzzle",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Zenji ist ein Denkspiel unter Zeitdruck: Ein Labyrinth besteht aus einzelnen Wegstücken, die zufällig verdreht liegen. Der Spieler steuert einen schwebenden Kopf über das Feld und dreht die Teile so, dass alle Wege mit der leuchtenden Quelle in der Mitte verbunden sind. Ist ein Stück angeschlossen, leuchtet es grün auf; sind alle verbunden, bevor die Zeit abläuft, folgt das nächste, größere Labyrinth. Flammen und Funken, die über die Wege wandern, machen das ruhige Prinzip zunehmend hektisch. Mit seiner schlichten Idee gilt Zenji als früher Vorläufer späterer Rohrleitungs-Puzzlespiele.\n\nMatthew Hubbard entwarf das Spiel ursprünglich für die Atari-Rechner; Activision brachte es 1984 für mehrere Systeme heraus, darunter den C64 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 1. Neben Originalen und Cracks ist das Spiel als Modulabbild sowie als OneLoad64-Modulumsetzung verbreitet, die ohne Nachladen startet.\n\nEntwurf: Matthew Hubbard · Code (C64): Adam Bellin",
+  "texts": {
+    "de": "Zenji ist ein Denkspiel unter Zeitdruck: Ein Labyrinth besteht aus einzelnen Wegstücken, die zufällig verdreht liegen. Der Spieler steuert einen schwebenden Kopf über das Feld und dreht die Teile so, dass alle Wege mit der leuchtenden Quelle in der Mitte verbunden sind. Ist ein Stück angeschlossen, leuchtet es grün auf; sind alle verbunden, bevor die Zeit abläuft, folgt das nächste, größere Labyrinth. Flammen und Funken, die über die Wege wandern, machen das ruhige Prinzip zunehmend hektisch. Mit seiner schlichten Idee gilt Zenji als früher Vorläufer späterer Rohrleitungs-Puzzlespiele.\n\nMatthew Hubbard entwarf das Spiel ursprünglich für die Atari-Rechner; Activision brachte es 1984 für mehrere Systeme heraus, darunter den C64 auf Kassette und Diskette. Gesteuert wird per Joystick in Port 1. Neben Originalen und Cracks ist das Spiel als Modulabbild sowie als OneLoad64-Modulumsetzung verbreitet, die ohne Nachladen startet.\n\nEntwurf: Matthew Hubbard · Code (C64): Adam Bellin",
+    "en": "Zenji is a puzzle game played against the clock. Each maze is made of separate path segments that start out rotated at random. The player guides a floating head across the board and turns the pieces until every path connects to the glowing source in the centre. A connected segment lights up green, and once everything is linked before time runs out, the next, larger maze follows. Flames and sparks travelling along the paths turn the calm idea into an increasingly hectic one. Its simple concept makes Zenji an early forerunner of later pipe-connecting puzzle games.\n\nMatthew Hubbard originally designed the game for the Atari computers; Activision released it in 1984 for several systems, including the C64 on tape and disk. It is played with a joystick in port 1. Besides originals and cracks, the game circulates as a cartridge image and as a OneLoad64 cartridge conversion that runs without loading breaks.\n\nDesign: Matthew Hubbard · Code (C64): Adam Bellin"
+  },
+  "images": {
+    "ss": "images/88/8861630e001f0de06684f79fbdebeae21ee22976.png",
+    "sstitle": "images/b0/b01875e7d8d5b149d4e2a1f5e85b11da3dd49e7b.png"
+  }
+}

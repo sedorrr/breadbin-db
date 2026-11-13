@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "65d336e7bf7ad9498e2fc7717567d31a7222801a",
+  "md5": "08bac7863e4d2d549af49f0f52e78f56",
+  "crc32": "0c3ef441",
+  "size": 73936,
+  "format": "CRT",
+  "files": [
+    "Psycho Soldier.crt"
+  ],
+  "screenscraper_id": "116326",
+  "title": "Psycho Soldier",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Source the Software House",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des SNK-Automaten von 1987: Die Schülerin Athena Asamiya kämpft mit übersinnlichen Kräften gegen Monster, die eine zerstörte Stadt bevölkern. Das waagerecht scrollende Spiel spielt auf mehreren Ebenen übereinander, zwischen denen Athena hin- und herspringt; aus zerschlagenen Steinblöcken gewinnt sie Energie für Psycho-Kräfte wie einen schützenden Feuerring. Der Automat war bekannt, weil er als eines der ersten Spiele ein gesungenes Titellied enthielt.\n\nDie C64-Umsetzung stammt von Source the Software House und erschien bei Imagine auf Kassette und Diskette; daneben gibt es eine EasyFlash-Umsetzung. Gesteuert wird per Joystick in Port 2. Die Presse bewertete die Umsetzung als mittelmäßig.\n\nCode: Michael Chilton · Musik: Paul Summers",
+  "texts": {
+    "de": "Umsetzung des SNK-Automaten von 1987: Die Schülerin Athena Asamiya kämpft mit übersinnlichen Kräften gegen Monster, die eine zerstörte Stadt bevölkern. Das waagerecht scrollende Spiel spielt auf mehreren Ebenen übereinander, zwischen denen Athena hin- und herspringt; aus zerschlagenen Steinblöcken gewinnt sie Energie für Psycho-Kräfte wie einen schützenden Feuerring. Der Automat war bekannt, weil er als eines der ersten Spiele ein gesungenes Titellied enthielt.\n\nDie C64-Umsetzung stammt von Source the Software House und erschien bei Imagine auf Kassette und Diskette; daneben gibt es eine EasyFlash-Umsetzung. Gesteuert wird per Joystick in Port 2. Die Presse bewertete die Umsetzung als mittelmäßig.\n\nCode: Michael Chilton · Musik: Paul Summers",
+    "en": "A conversion of SNK's 1987 arcade game: the schoolgirl Athena Asamiya uses psychic powers to fight monsters roaming a ruined city. The horizontally scrolling game takes place on several stacked levels between which Athena jumps; by smashing stone blocks she gains energy for psychic powers such as a protective ring of fire. The arcade machine was known as one of the first games with a sung theme song.\n\nThe C64 conversion was made by Source the Software House and released by Imagine on cassette and disk; there is also an EasyFlash conversion. Controlled by joystick in port 2. The press rated the conversion as average.\n\nCode: Michael Chilton · Music: Paul Summers"
+  },
+  "images": {
+    "ss": "images/a7/a72e4fde5ef4744993b015cf3c539c079c8925bb.png",
+    "sstitle": "images/6d/6df911950216c61f2ca867aac5a83cdca4a17fd1.png"
+  }
+}

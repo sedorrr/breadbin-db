@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "768a037cf04ce0888e1280e4e1cf39a5fea157d0",
+  "md5": "56e9c7d7fb2bb97b53be166e46bcd358",
+  "crc32": "d2eb0c81",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "VIZ.D64"
+  ],
+  "screenscraper_id": "110131",
+  "title": "Viz",
+  "year": "1991",
+  "publisher": "Virgin Games",
+  "developer": "Probe Software",
+  "genres": [
+    "Rennen",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Das Spiel zum britischen Satiremagazin Viz lässt drei seiner Comicfiguren, Johnny Fartpants, Biffa Bacon und Buster Gonad, in fünf Rennen quer durch die Stadt Fulchester gegeneinander antreten. Die seitlich scrollenden Strecken führen unter anderem durch einen Park, über die Hauptstraße und eine Baustelle bis an den Strand und in einen Nachtclub, jede Figur hat eigene Fähigkeiten. Vor jedem Rennen lassen sich in Minispielen Gutscheine verdienen, die unterwegs kurzzeitige Vorteile bringen. Der derbe Humor der Vorlage prägt Grafik und Aufmachung.\n\nVirgin veröffentlichte die von Probe entwickelte C64-Fassung 1991 auf Kassette (zwei Kassetten) und Diskette; die lange Nachladezeit der Kassettenfassung wurde kritisiert. Daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Daryl Bowers · Grafik: Lee Ames · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Das Spiel zum britischen Satiremagazin Viz lässt drei seiner Comicfiguren, Johnny Fartpants, Biffa Bacon und Buster Gonad, in fünf Rennen quer durch die Stadt Fulchester gegeneinander antreten. Die seitlich scrollenden Strecken führen unter anderem durch einen Park, über die Hauptstraße und eine Baustelle bis an den Strand und in einen Nachtclub, jede Figur hat eigene Fähigkeiten. Vor jedem Rennen lassen sich in Minispielen Gutscheine verdienen, die unterwegs kurzzeitige Vorteile bringen. Der derbe Humor der Vorlage prägt Grafik und Aufmachung.\n\nVirgin veröffentlichte die von Probe entwickelte C64-Fassung 1991 auf Kassette (zwei Kassetten) und Diskette; die lange Nachladezeit der Kassettenfassung wurde kritisiert. Daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Daryl Bowers · Grafik: Lee Ames · Musik: Jeroen Tel",
+    "en": "The game based on the British satirical magazine Viz pits three of its comic characters, Johnny Fartpants, Biffa Bacon and Buster Gonad, against each other in five races across the town of Fulchester. The side-scrolling courses lead through a park, along the High Street and across a building site to a beach and a nightclub, among other places, and each character has his own abilities. Before each race, tokens can be earned in mini-games that give short-term advantages during the race. The crude humour of the source material shapes the graphics and presentation.\n\nVirgin released the C64 version, developed by Probe, in 1991 on cassette (two tapes) and disk; the long loading times of the tape version drew criticism. EasyFlash conversions from the scene exist as well. It is played with a joystick in port 2.\n\nCode: Daryl Bowers · Graphics: Lee Ames · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/03/03c9b9a82b916ab38fa2234d776f6fc0a3b16e63.png",
+    "sstitle": "images/4e/4e6f5e35df7f3a5e0e51bc7c40db9606ae25d138.png"
+  }
+}

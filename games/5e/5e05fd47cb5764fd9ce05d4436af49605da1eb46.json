@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5e05fd47cb5764fd9ce05d4436af49605da1eb46",
+  "md5": "5a900f056866958ab183d7b1dd5f9049",
+  "crc32": "aeb96ea0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SHINOBI.D64"
+  ],
+  "screenscraper_id": "35842",
+  "title": "Shinobi",
+  "year": "1989",
+  "publisher": "Virgin Mastertronic",
+  "developer": "The Sales Curve / Random Access",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Shinobi ist die Umsetzung des Sega-Automaten von 1987. Der Ninja Joe Musashi soll die von einer Verbrecherorganisation entführten Kinder befreien und kämpft sich dazu mit Wurfsternen, Tritten und Schwerthieben durch Hafenanlagen, Straßen und Verstecke. Er kann zwischen zwei Ebenen der Kulisse springen und einmal je Level einen Ninjazauber einsetzen, der alle Gegner trifft. Zwischen den Missionen gibt es eine Bonusrunde, in der heranspringende Ninjas mit Wurfsternen abgewehrt werden.\n\nDie C64-Fassung erschien 1989 bei Virgin Mastertronic in Europa und bei Sega in Nordamerika, auf Kassette und Diskette; sie ist gegenüber dem Automaten gekürzt. Gesteuert wird mit dem Joystick. EasyFlash-Umsetzungen sparen die Ladezeiten.\n\nEntwicklung: The Sales Curve · Code (C64, laut Sega Retro): Simon Pick (Random Access)",
+  "texts": {
+    "de": "Shinobi ist die Umsetzung des Sega-Automaten von 1987. Der Ninja Joe Musashi soll die von einer Verbrecherorganisation entführten Kinder befreien und kämpft sich dazu mit Wurfsternen, Tritten und Schwerthieben durch Hafenanlagen, Straßen und Verstecke. Er kann zwischen zwei Ebenen der Kulisse springen und einmal je Level einen Ninjazauber einsetzen, der alle Gegner trifft. Zwischen den Missionen gibt es eine Bonusrunde, in der heranspringende Ninjas mit Wurfsternen abgewehrt werden.\n\nDie C64-Fassung erschien 1989 bei Virgin Mastertronic in Europa und bei Sega in Nordamerika, auf Kassette und Diskette; sie ist gegenüber dem Automaten gekürzt. Gesteuert wird mit dem Joystick. EasyFlash-Umsetzungen sparen die Ladezeiten.\n\nEntwicklung: The Sales Curve · Code (C64, laut Sega Retro): Simon Pick (Random Access)",
+    "en": "Shinobi is the conversion of Sega's 1987 arcade game. The ninja Joe Musashi has to free children kidnapped by a criminal organisation and fights his way through docks, streets and hideouts with throwing stars, kicks and sword strikes. He can jump between two layers of the scenery and use a ninja magic attack once per level that hits all enemies. Between missions there is a bonus round in which leaping ninjas are fended off with throwing stars.\n\nThe C64 version was released in 1989 by Virgin Mastertronic in Europe and by Sega in North America, on tape and disk; it is cut down compared with the arcade game. It is controlled with a joystick. EasyFlash conversions avoid the loading times.\n\nDevelopment: The Sales Curve · Code (C64, according to Sega Retro): Simon Pick (Random Access)"
+  },
+  "images": {
+    "sstitle": "images/e2/e29e73da1113d818d674d38873e7f8f0c732aaa7.png"
+  }
+}

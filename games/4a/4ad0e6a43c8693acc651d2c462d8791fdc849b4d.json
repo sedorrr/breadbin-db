@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4ad0e6a43c8693acc651d2c462d8791fdc849b4d",
+  "md5": "82a0c27b33a160626bddcb42c52b8b55",
+  "crc32": "62660a66",
+  "size": 35599,
+  "format": "PRG",
+  "files": [
+    "Return of the Jedi (J1).prg"
+  ],
+  "screenscraper_id": "35844",
+  "title": "Return of the Jedi",
+  "year": "1988",
+  "publisher": "Domark",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Das dritte Star-Wars-Spiel von Domark beruht auf dem Atari-Automaten von 1984 und ist anders als die Vorgänger in schräger, diagonal scrollender Ansicht gehalten. Prinzessin Leia flieht auf einem Speeder-Bike durch die Wälder von Endor, Chewbacca kämpft in einem erbeuteten AT-ST, und schließlich fliegt der Millennium Falcon in den zweiten Todesstern, um den Reaktor zu zerstören. Die Abschnitte wechseln sich ab und werden mit jeder Runde schwerer.\n\nDie C64-Fassung erschien bei Domark (in den USA mit Tengen) auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: C. A. Pimlott · Grafik: D. Howcroft · Musik: Dave Kelly",
+  "texts": {
+    "de": "Das dritte Star-Wars-Spiel von Domark beruht auf dem Atari-Automaten von 1984 und ist anders als die Vorgänger in schräger, diagonal scrollender Ansicht gehalten. Prinzessin Leia flieht auf einem Speeder-Bike durch die Wälder von Endor, Chewbacca kämpft in einem erbeuteten AT-ST, und schließlich fliegt der Millennium Falcon in den zweiten Todesstern, um den Reaktor zu zerstören. Die Abschnitte wechseln sich ab und werden mit jeder Runde schwerer.\n\nDie C64-Fassung erschien bei Domark (in den USA mit Tengen) auf Kassette und Diskette; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: C. A. Pimlott · Grafik: D. Howcroft · Musik: Dave Kelly",
+    "en": "Domark's third Star Wars game is based on Atari's 1984 arcade machine and, unlike its predecessors, uses a diagonally scrolling, angled view. Princess Leia flees through the forests of Endor on a speeder bike, Chewbacca fights in a captured AT-ST, and finally the Millennium Falcon flies into the second Death Star to destroy its reactor. The sections alternate and get harder with every round.\n\nThe C64 version was released by Domark (with Tengen in the USA) on cassette and disk; cartridge conversions from the scene appeared later. It is played with a joystick in port 1.\n\nCode: C. A. Pimlott · Graphics: D. Howcroft · Music: Dave Kelly"
+  },
+  "images": {
+    "ss": "images/72/7275c3d96fbfa828434c6a0fed7cd4caca50cea3.png",
+    "sstitle": "images/46/46f1cdd25c07c58aa6107f1149106b50d05ddc5a.png"
+  }
+}

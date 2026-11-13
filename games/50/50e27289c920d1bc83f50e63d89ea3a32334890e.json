@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "50e27289c920d1bc83f50e63d89ea3a32334890e",
+  "md5": "eccd8357e9bee450b39aecb5aa38be80",
+  "crc32": "1d86eb7a",
+  "size": 529112,
+  "format": "TAP",
+  "files": [
+    "Pac-Land.tap"
+  ],
+  "screenscraper_id": "35984",
+  "title": "Pac-Land",
+  "year": "1988",
+  "publisher": "Quicksilva",
+  "developer": "Gannon Design (Martin Gannon, Allan Ogg)",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Namco-Automaten von 1984: Pac-Man begleitet eine Fee durch Städte, Wälder, Gebirge und Wüsten zurück ins Feenland, verfolgt von den vier bekannten Geistern. Er springt über Hindernisse und Hydranten, frisst Kraftpillen, um die Geister zu jagen, und sammelt Früchte. Im Feenland erhält er Zauberschuhe und muss den ganzen Weg zurück zu seiner Familie bewältigen. Pac-Land war einer der ersten seitlich scrollenden Plattformautomaten und gilt als Vorbild für spätere Jump-'n'-Run-Spiele.\n\nDie C64-Fassung erschien auf Kassette und Diskette und umfasst 16 Abschnitte; einige Einzelheiten des Automaten, etwa das Mitfahren auf Fahrzeugen, fehlen. Zwei Spieler spielen abwechselnd. Gesteuert wird mit dem Joystick in Port 2 oder per Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Martin Gannon, Allan Ogg · Musik: Jason C. Brooke",
+  "texts": {
+    "de": "Umsetzung des Namco-Automaten von 1984: Pac-Man begleitet eine Fee durch Städte, Wälder, Gebirge und Wüsten zurück ins Feenland, verfolgt von den vier bekannten Geistern. Er springt über Hindernisse und Hydranten, frisst Kraftpillen, um die Geister zu jagen, und sammelt Früchte. Im Feenland erhält er Zauberschuhe und muss den ganzen Weg zurück zu seiner Familie bewältigen. Pac-Land war einer der ersten seitlich scrollenden Plattformautomaten und gilt als Vorbild für spätere Jump-'n'-Run-Spiele.\n\nDie C64-Fassung erschien auf Kassette und Diskette und umfasst 16 Abschnitte; einige Einzelheiten des Automaten, etwa das Mitfahren auf Fahrzeugen, fehlen. Zwei Spieler spielen abwechselnd. Gesteuert wird mit dem Joystick in Port 2 oder per Tastatur. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Martin Gannon, Allan Ogg · Musik: Jason C. Brooke",
+    "en": "A conversion of Namco's 1984 arcade game: Pac-Man escorts a fairy through towns, forests, mountains and deserts back to Fairyland, pursued by the four familiar ghosts. He jumps over obstacles and hydrants, eats power pills to chase the ghosts and collects fruit. In Fairyland he receives magic shoes and then has to make the whole journey back to his family. Pac-Land was one of the first side-scrolling platform arcade games and is seen as a model for later platformers.\n\nThe C64 version was released on tape and disk and has 16 stages; some arcade details, such as riding on vehicles, are missing. Two players take turns. It is controlled with a joystick in port 2 or the keyboard. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode: Martin Gannon, Allan Ogg · Music: Jason C. Brooke"
+  },
+  "images": {
+    "ss": "images/4d/4d9b9d21dd6a684baebb5bf4269b7a619942c42f.png",
+    "sstitle": "images/5d/5de02a8aea899fe7cd1efefb0dec3416baafe954.png"
+  }
+}

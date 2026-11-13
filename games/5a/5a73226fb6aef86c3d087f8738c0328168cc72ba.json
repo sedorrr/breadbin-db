@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5a73226fb6aef86c3d087f8738c0328168cc72ba",
+  "md5": "1bea999a8554642eb80c2aea1bbe1c69",
+  "crc32": "ce26907e",
+  "size": 41982,
+  "format": "PRG",
+  "files": [
+    "Speedball 2.prg"
+  ],
+  "screenscraper_id": "35863",
+  "title": "Speedball 2: Brutal Deluxe",
+  "year": "1991",
+  "publisher": "Image Works",
+  "developer": "The Bitmap Brothers (C64: Carl Muller)",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Fortsetzung des brutalen Zukunftssports der Bitmap Brothers: Die Mannschaft Brutal Deluxe tritt in einer metallenen Arena an, in der eine Stahlkugel ins gegnerische Tor befördert werden muss. Punkte gibt es auch für das Treffen von Bonusfeldern, Sternen und Multiplikatoren an den Banden sowie für das Ausschalten gegnerischer Spieler. Zwischen den Spielen wird mit verdientem Geld die Mannschaft verstärkt, Spieler werden gekauft und trainiert. Liga, Pokal und Freundschaftsspiele bieten langfristige Motivation.\n\nDie C64-Fassung erschien 1991 auf Diskette und Kassette und galt als besonders gelungene Umsetzung des Amiga-Spiels. Zwei Spieler treten gegeneinander an, gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Carl Muller · Grafik: Alan Tomkins · Musik: Martin Walker",
+  "texts": {
+    "de": "Fortsetzung des brutalen Zukunftssports der Bitmap Brothers: Die Mannschaft Brutal Deluxe tritt in einer metallenen Arena an, in der eine Stahlkugel ins gegnerische Tor befördert werden muss. Punkte gibt es auch für das Treffen von Bonusfeldern, Sternen und Multiplikatoren an den Banden sowie für das Ausschalten gegnerischer Spieler. Zwischen den Spielen wird mit verdientem Geld die Mannschaft verstärkt, Spieler werden gekauft und trainiert. Liga, Pokal und Freundschaftsspiele bieten langfristige Motivation.\n\nDie C64-Fassung erschien 1991 auf Diskette und Kassette und galt als besonders gelungene Umsetzung des Amiga-Spiels. Zwei Spieler treten gegeneinander an, gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: Carl Muller · Grafik: Alan Tomkins · Musik: Martin Walker",
+    "en": "The sequel to the Bitmap Brothers' brutal future sport: the team Brutal Deluxe competes in a metal arena where a steel ball has to be put into the opposing goal. Points are also scored by hitting bonus targets, stars and multipliers on the walls, and by taking out opposing players. Between matches the money earned is used to strengthen the team by buying and training players. League, cup and friendly matches provide long-term motivation.\n\nThe C64 version was released in 1991 on disk and tape and was considered an especially accomplished conversion of the Amiga game. Two players can play against each other; it is controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode: Carl Muller · Graphics: Alan Tomkins · Music: Martin Walker"
+  },
+  "images": {
+    "sstitle": "images/33/33f2d7d2fa2235832c40047cac5ff411bb215e51.png"
+  }
+}

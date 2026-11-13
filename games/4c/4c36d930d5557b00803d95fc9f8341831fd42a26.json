@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4c36d930d5557b00803d95fc9f8341831fd42a26",
+  "md5": "aea9ea760ddfbc32479ab3f7c8f357be",
+  "crc32": "a19238b9",
+  "size": 564986,
+  "format": "TAP",
+  "files": [
+    "Maziacs.tap"
+  ],
+  "screenscraper_id": "114578",
+  "title": "Maziacs",
+  "year": "1984",
+  "publisher": "dk'tronics",
+  "developer": "Don Priestley",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Labyrinthspiel nach einer Idee von Don Priestley: Der Spieler muss in einem großen, scrollenden Irrgarten einen Schatz finden und ihn zum Ausgangspunkt zurückbringen. Unterwegs lauern die Maziacs, gegen die er nur mit einem Schwert bestehen kann; jedes Schwert reicht für einen Kampf, und mit dem Schatz in der Hand kann er keine Waffe tragen. Angekettete Gefangene zeigen für kurze Zeit den Weg zum Ziel, Nahrung füllt die schwindenden Kräfte wieder auf. Das Spiel geht auf Priestleys ZX81-Spiel Mazogs zurück und war einer der bekannten Titel von dk'tronics.\n\nDas Original erschien für den ZX Spectrum, die C64-Fassung programmierte Andy French. Erschienen auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Andy French · Grafik: Andy French",
+  "texts": {
+    "de": "Labyrinthspiel nach einer Idee von Don Priestley: Der Spieler muss in einem großen, scrollenden Irrgarten einen Schatz finden und ihn zum Ausgangspunkt zurückbringen. Unterwegs lauern die Maziacs, gegen die er nur mit einem Schwert bestehen kann; jedes Schwert reicht für einen Kampf, und mit dem Schatz in der Hand kann er keine Waffe tragen. Angekettete Gefangene zeigen für kurze Zeit den Weg zum Ziel, Nahrung füllt die schwindenden Kräfte wieder auf. Das Spiel geht auf Priestleys ZX81-Spiel Mazogs zurück und war einer der bekannten Titel von dk'tronics.\n\nDas Original erschien für den ZX Spectrum, die C64-Fassung programmierte Andy French. Erschienen auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: Andy French · Grafik: Andy French",
+    "en": "A maze game based on an idea by Don Priestley: the player has to find a treasure in a large scrolling maze and bring it back to the starting point. Along the way the Maziacs lie in wait, and they can only be beaten with a sword; each sword lasts for one fight, and while carrying the treasure the player cannot hold a weapon. Chained prisoners briefly show the way to the goal, and food restores the dwindling strength. The game goes back to Priestley's ZX81 game Mazogs and was one of dk'tronics' best-known titles.\n\nThe original was made for the ZX Spectrum; the C64 version was programmed by Andy French. Released on cassette; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2.\n\nCode: Andy French · Graphics: Andy French"
+  },
+  "images": {
+    "ss": "images/79/7959d02cfa58b7dc7d2e233cd60a57a575fe8bc6.png",
+    "sstitle": "images/54/54e11dde340120e9a0bb3c0d3577290e00d44fbe.png"
+  }
+}

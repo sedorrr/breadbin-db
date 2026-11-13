@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "71b8f5220395fe933cf5a0849021a0123b74317a",
+  "md5": "afdd5770bbbfb8254f1e79d31407a996",
+  "crc32": "045d49d8",
+  "size": 15355,
+  "format": "PRG",
+  "files": [
+    "Pastfinder (J1).prg"
+  ],
+  "screenscraper_id": "116067",
+  "title": "Pastfinder",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "David Lubar",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Schräg scrollendes Actionspiel von David Lubar: Auf einem verstrahlten Planeten steuert der Spieler ein springendes Laufgerät, den Leeper, und sucht nach Artefakten einer untergegangenen Zivilisation. Die Fundstücke werden zur Basis gebracht, während Gegner, Hindernisse und die steigende Strahlenbelastung das Gerät bedrohen; zum Ausweichen kann der Leeper über Hindernisse springen und schießen. Die Kombination aus Erkundung und Shooter unterschied das Spiel von gewöhnlichen Ballerspielen.\n\nErschien bei Activision 1984 als Modul sowie auf Diskette und Kassette; heute gibt es zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 1.\n\nDesign: David Lubar · Code: Tim Wilson",
+  "texts": {
+    "de": "Schräg scrollendes Actionspiel von David Lubar: Auf einem verstrahlten Planeten steuert der Spieler ein springendes Laufgerät, den Leeper, und sucht nach Artefakten einer untergegangenen Zivilisation. Die Fundstücke werden zur Basis gebracht, während Gegner, Hindernisse und die steigende Strahlenbelastung das Gerät bedrohen; zum Ausweichen kann der Leeper über Hindernisse springen und schießen. Die Kombination aus Erkundung und Shooter unterschied das Spiel von gewöhnlichen Ballerspielen.\n\nErschien bei Activision 1984 als Modul sowie auf Diskette und Kassette; heute gibt es zusätzlich Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 1.\n\nDesign: David Lubar · Code: Tim Wilson",
+    "en": "A diagonally scrolling action game by David Lubar: on an irradiated planet, the player controls a jumping walker, the Leeper, searching for artefacts of a lost civilisation. The finds are brought back to base while enemies, obstacles and rising radiation threaten the vehicle; the Leeper can jump over obstacles and shoot. The combination of exploration and shooting set the game apart from ordinary shoot'em ups.\n\nReleased by Activision in 1984 on cartridge as well as disk and cassette; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 1.\n\nDesign: David Lubar · Code: Tim Wilson"
+  },
+  "images": {
+    "ss": "images/0f/0fc6edb01d2325e2c2bc15bbe4aa9bafdcd9ba8a.png",
+    "sstitle": "images/70/70bcfc31dee53fe2f5027b152bf285db88aa300c.png"
+  }
+}

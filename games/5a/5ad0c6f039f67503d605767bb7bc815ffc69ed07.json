@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "5ad0c6f039f67503d605767bb7bc815ffc69ed07",
+  "md5": "fd00ed5b18a7ea520c7aa8146c73dbe5",
+  "crc32": "dec1424c",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Blinky's Scary School.crt"
+  ],
+  "screenscraper_id": "109983",
+  "title": "Blinky's Scary School",
+  "year": "1990",
+  "publisher": "Zeppelin Games",
+  "developer": "Zeppelin Games",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Das kleine Gespenst Blinky mit den großen Stiefeln ist Musterschüler der Gruselschule und soll ein Schloss von den Abwehrvorrichtungen befreien, die der Geisterjäger Red Laird McTavish dort aufgebaut hat. Die seitlich scrollenden Ebenen sind von Plattformen durchzogen, Spinnen, Mäuse und anderes Getier machen Blinky das Leben schwer. Neben Geschicklichkeit sind Gegenstände zu sammeln und an die richtige Stelle zu bringen. Das niedliche Billigspiel erhielt gute Wertungen, die C64-Fassung etwa 83 % in C&VG.\n\nBlinky's Scary School erschien 1990 bei Zeppelin Games als Billigspiel, auch für ZX Spectrum, Amiga, Atari ST und Atari-8-Bit. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Ian Copeland · Grafik: Richard Beston · Musik: Adam Gilmore",
+  "texts": {
+    "de": "Das kleine Gespenst Blinky mit den großen Stiefeln ist Musterschüler der Gruselschule und soll ein Schloss von den Abwehrvorrichtungen befreien, die der Geisterjäger Red Laird McTavish dort aufgebaut hat. Die seitlich scrollenden Ebenen sind von Plattformen durchzogen, Spinnen, Mäuse und anderes Getier machen Blinky das Leben schwer. Neben Geschicklichkeit sind Gegenstände zu sammeln und an die richtige Stelle zu bringen. Das niedliche Billigspiel erhielt gute Wertungen, die C64-Fassung etwa 83 % in C&VG.\n\nBlinky's Scary School erschien 1990 bei Zeppelin Games als Billigspiel, auch für ZX Spectrum, Amiga, Atari ST und Atari-8-Bit. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Ian Copeland · Grafik: Richard Beston · Musik: Adam Gilmore",
+    "en": "The little ghost Blinky with the big boots is star pupil of the Scary School and has to clear a castle of the defences set up by the ghostbuster Red Laird McTavish. The side-scrolling levels are layered with platforms, and spiders, mice and other creatures make Blinky's life difficult. Besides dexterity, objects have to be collected and taken to the right place. The cute budget game was well received; the C64 version scored 83% in C&VG.\n\nBlinky's Scary School was released by Zeppelin Games in 1990 as a budget title, also for the ZX Spectrum, Amiga, Atari ST and Atari 8-bit. It is played with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Ian Copeland · Graphics: Richard Beston · Music: Adam Gilmore"
+  },
+  "images": {
+    "ss": "images/56/56ca03f1235d4f2b80287a45a1ad9c5606bf3119.png",
+    "sstitle": "images/a2/a2a8585f1ecf4292e641fa909f83026a94585d9a.png"
+  }
+}

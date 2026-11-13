@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "706e42edbf74200fe4361a388e8997149e914dcd",
+  "md5": "c785d9663234fc9d6f16f78d48056b07",
+  "crc32": "2058598e",
+  "size": 279136,
+  "format": "CRT",
+  "files": [
+    "Space Rogue [EasyFlash].crt"
+  ],
+  "screenscraper_id": "114921",
+  "title": "Space Rogue",
+  "year": "1989",
+  "publisher": "Origin Systems",
+  "developer": "Origin Systems (Paul Neurath)",
+  "genres": [
+    "Rollenspiele",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Ein Raumfahrer übernimmt nach einem Überfall ein kleines Raumschiff und schlägt sich als Händler, Kopfgeldjäger oder Pirat durch einen Sternenhaufen. Im All wird in 3D-Vektorgrafik geflogen und gekämpft, auf Stationen und Schiffen bewegt sich die Spielfigur dagegen in Draufsicht wie in einem Rollenspiel, spricht mit Personen, nimmt Aufträge an und rüstet das Schiff auf. Zwischen den Sternsystemen reist man durch Wurmlöcher, die Malir-Tore, und eine Geschichte um die außerirdischen Manchi zieht sich durch das Spiel. Space Rogue verband als eines der ersten Spiele Weltraumsimulation und Rollenspiel und gilt als Vorläufer von Wing Commander und Privateer.\n\nDie C64-Fassung erschien auf Diskette (zwei Diskettenseiten). Gesteuert wird per Joystick und Tastatur. Daneben gibt es Umsetzungen als EasyFlash-Modul, die ohne Diskettenwechsel auskommen.\n\nEntwurf: Paul Neurath",
+  "texts": {
+    "de": "Ein Raumfahrer übernimmt nach einem Überfall ein kleines Raumschiff und schlägt sich als Händler, Kopfgeldjäger oder Pirat durch einen Sternenhaufen. Im All wird in 3D-Vektorgrafik geflogen und gekämpft, auf Stationen und Schiffen bewegt sich die Spielfigur dagegen in Draufsicht wie in einem Rollenspiel, spricht mit Personen, nimmt Aufträge an und rüstet das Schiff auf. Zwischen den Sternsystemen reist man durch Wurmlöcher, die Malir-Tore, und eine Geschichte um die außerirdischen Manchi zieht sich durch das Spiel. Space Rogue verband als eines der ersten Spiele Weltraumsimulation und Rollenspiel und gilt als Vorläufer von Wing Commander und Privateer.\n\nDie C64-Fassung erschien auf Diskette (zwei Diskettenseiten). Gesteuert wird per Joystick und Tastatur. Daneben gibt es Umsetzungen als EasyFlash-Modul, die ohne Diskettenwechsel auskommen.\n\nEntwurf: Paul Neurath",
+    "en": "After an ambush, a space traveller takes over a small starship and makes a living as a trader, bounty hunter or pirate in a star cluster. In space, flight and combat are shown in 3D vector graphics, while on stations and ships the character moves in a top-down view like in a role-playing game, talks to people, takes on jobs and upgrades the ship. Travel between star systems uses wormholes, the Malir Gates, and a story involving the alien Manchi runs through the game. Space Rogue was one of the first games to combine space simulation and role-playing and is seen as a forerunner of Wing Commander and Privateer.\n\nThe C64 version was released on disk (two disk sides). It is controlled with joystick and keyboard. There are also conversions as EasyFlash cartridges that need no disk swapping.\n\nDesign: Paul Neurath"
+  },
+  "images": {
+    "ss": "images/b8/b81c9ff28a0e27077ed17afea87b92dee3f794b1.png"
+  }
+}

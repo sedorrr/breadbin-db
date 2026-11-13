@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7dd5062479dddefb31279d6016967ce993a80c11",
+  "md5": "ad677fab301de4e69589c18dc7b2f2bc",
+  "crc32": "4428dd85",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Hunchback II - Quasimodo's Revenge.crt"
+  ],
+  "screenscraper_id": "112932",
+  "title": "Hunchback II: Quasimodo's Revenge",
+  "year": "1984",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Hunchback: Quasimodo klettert erneut durch die Kathedrale, Bildschirm für Bildschirm hinauf bis zum Glockenturm. Jeder Bildschirm ist ein eigenes Geschicklichkeitsrätsel mit Seilen, Leitern und Plattformen, auf denen Feuerbälle, Kanonenkugeln und Wachen ausgewichen werden muss. Im letzten Bild müssen die Glocken zum Läuten gebracht werden. Im Unterschied zum Vorgänger ist das Spiel keine Umsetzung eines Automaten, sondern eine eigene Entwicklung von Ocean für Heimcomputer.\n\nDie C64-Fassung erschien hauptsächlich auf Kassette und wurde von der Spectrum-Fassung abgeleitet. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen startet.\n\nEntwicklung: Ocean",
+  "texts": {
+    "de": "Fortsetzung von Hunchback: Quasimodo klettert erneut durch die Kathedrale, Bildschirm für Bildschirm hinauf bis zum Glockenturm. Jeder Bildschirm ist ein eigenes Geschicklichkeitsrätsel mit Seilen, Leitern und Plattformen, auf denen Feuerbälle, Kanonenkugeln und Wachen ausgewichen werden muss. Im letzten Bild müssen die Glocken zum Läuten gebracht werden. Im Unterschied zum Vorgänger ist das Spiel keine Umsetzung eines Automaten, sondern eine eigene Entwicklung von Ocean für Heimcomputer.\n\nDie C64-Fassung erschien hauptsächlich auf Kassette und wurde von der Spectrum-Fassung abgeleitet. Gesteuert wird per Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul, die ohne Nachladen startet.\n\nEntwicklung: Ocean",
+    "en": "The sequel to Hunchback: Quasimodo once again climbs through the cathedral, screen by screen, up to the bell tower. Each screen is a self-contained skill puzzle with ropes, ladders and platforms on which fireballs, cannonballs and guards have to be dodged. On the final screen the bells must be set ringing. Unlike its predecessor, the game is not an arcade conversion but an original Ocean design for home computers.\n\nThe C64 version was released mainly on tape and was derived from the Spectrum version. It is controlled with a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge that starts without any further loading.\n\nDevelopment: Ocean"
+  },
+  "images": {
+    "ss": "images/69/6937772c557c5980321b3505ba9773c555e53a03.png",
+    "sstitle": "images/16/1607d0e2e5b57e98f0043953d82b406e36dfbca7.png"
+  }
+}

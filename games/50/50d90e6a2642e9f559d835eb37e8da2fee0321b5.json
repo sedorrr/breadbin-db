@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "50d90e6a2642e9f559d835eb37e8da2fee0321b5",
+  "md5": "38e95997d8544fccdc7aec44aaf4cad8",
+  "crc32": "f1803b9e",
+  "size": 33780,
+  "format": "T64",
+  "files": [
+    "CIBERGON.T64"
+  ],
+  "screenscraper_id": "36592",
+  "title": "NorthStar",
+  "year": "1988",
+  "publisher": "Gremlin Graphics",
+  "developer": "Sentient Software",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Die Erde ist überbevölkert, und die Raumstation NorthStar, die neuen Lebensraum bieten sollte, ist in die Hände Außerirdischer gefallen. Ein Kämpfer arbeitet sich durch seitlich scrollende Abschnitte voller Gegner, Geschütze und Hindernisse; der Sauerstoff ist knapp, und es stehen vier Leben zur Verfügung. Das Spiel erinnert an Exolon und lebt von seinem Tempo und der Musik von Ben Daglish.\n\nNorthStar erschien 1988 bei Gremlin Graphics unter anderem auch für ZX Spectrum und Atari ST und war später Teil der Sammlung „Mega Pack“. In Italien kursierte es auf einer Heftkassette unter dem Namen „Cibergon“. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nMusik: Ben Daglish",
+  "texts": {
+    "de": "Die Erde ist überbevölkert, und die Raumstation NorthStar, die neuen Lebensraum bieten sollte, ist in die Hände Außerirdischer gefallen. Ein Kämpfer arbeitet sich durch seitlich scrollende Abschnitte voller Gegner, Geschütze und Hindernisse; der Sauerstoff ist knapp, und es stehen vier Leben zur Verfügung. Das Spiel erinnert an Exolon und lebt von seinem Tempo und der Musik von Ben Daglish.\n\nNorthStar erschien 1988 bei Gremlin Graphics unter anderem auch für ZX Spectrum und Atari ST und war später Teil der Sammlung „Mega Pack“. In Italien kursierte es auf einer Heftkassette unter dem Namen „Cibergon“. Gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nMusik: Ben Daglish",
+    "en": "Earth is overpopulated, and the space station NorthStar, meant to offer new living space, has fallen into alien hands. A lone fighter battles through side-scrolling sections full of enemies, gun emplacements and obstacles; oxygen is limited, and there are four lives. The game is reminiscent of Exolon and thrives on its pace and Ben Daglish's music.\n\nNorthStar was released by Gremlin Graphics in 1988, also for the ZX Spectrum and Atari ST among others, and later became part of the \"Mega Pack\" compilation. In Italy it circulated on a magazine tape under the name \"Cibergon\". It is played with a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nMusic: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/94/94217e9129031e5294bc7f883543befb6112eecd.png",
+    "sstitle": "images/1c/1c24895a512c0e8c2b252f8d0b38b4b3f048a621.png"
+  }
+}

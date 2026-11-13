@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "5ffb9483733955e23b057ac53d7989badca1f127",
+  "md5": "6432b02ce8521b88999cfaa710034f04",
+  "crc32": "1cc5a7fd",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Miami Vice (J1).crt"
+  ],
+  "screenscraper_id": "36029",
+  "title": "Miami Vice",
+  "year": "1986",
+  "publisher": "Ocean",
+  "developer": "Canvas",
+  "genres": [
+    "Action",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zur gleichnamigen Fernsehserie: Als Sonny Crockett und Ricardo Tubbs fährt der Spieler in einem Sportwagen durch die Straßen von Miami. Über Hinweise erfährt er, wann und wo Drogengeschäfte stattfinden, und muss rechtzeitig vor Ort sein, um die Verdächtigen zu stellen; dabei kommt es zu Verfolgungsjagden und Schießereien. Wer zu spät kommt, verpasst die Übergabe. Das Spiel verbindet freies Herumfahren aus der Vogelperspektive mit Zeitdruck und Actioneinlagen.\n\nEntwickelt von Canvas, veröffentlicht von Ocean auf Kassette und Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2. Die Musik von Martin Galway greift das Thema der Serie auf.\n\nCode: Paul Clansey · Grafik: Pete Graylish, Dawn Drake · Musik: Martin Galway",
+  "texts": {
+    "de": "Spiel zur gleichnamigen Fernsehserie: Als Sonny Crockett und Ricardo Tubbs fährt der Spieler in einem Sportwagen durch die Straßen von Miami. Über Hinweise erfährt er, wann und wo Drogengeschäfte stattfinden, und muss rechtzeitig vor Ort sein, um die Verdächtigen zu stellen; dabei kommt es zu Verfolgungsjagden und Schießereien. Wer zu spät kommt, verpasst die Übergabe. Das Spiel verbindet freies Herumfahren aus der Vogelperspektive mit Zeitdruck und Actioneinlagen.\n\nEntwickelt von Canvas, veröffentlicht von Ocean auf Kassette und Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2. Die Musik von Martin Galway greift das Thema der Serie auf.\n\nCode: Paul Clansey · Grafik: Pete Graylish, Dawn Drake · Musik: Martin Galway",
+    "en": "A game based on the TV series: as Sonny Crockett and Ricardo Tubbs, the player drives a sports car through the streets of Miami. Tip-offs reveal when and where drug deals are taking place, and the player must get there in time to catch the suspects, which leads to car chases and shootouts. Arriving too late means missing the handover. The game combines free driving seen from above with time pressure and action scenes.\n\nDeveloped by Canvas and published by Ocean on cassette and disk; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2. Martin Galway's music draws on the series theme.\n\nCode: Paul Clansey · Graphics: Pete Graylish, Dawn Drake · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/cc/cc916b748022de63fa5cf37391c39cfc1eec9452.png",
+    "sstitle": "images/7d/7df0f8b5b24ce2ef419216aa44813d875be8f4ce.png"
+  }
+}

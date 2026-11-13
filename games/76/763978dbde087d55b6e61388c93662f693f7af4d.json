@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "763978dbde087d55b6e61388c93662f693f7af4d",
+  "md5": "ccdfb52a39dba9311d01beb388487945",
+  "crc32": "1f39efb0",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Glider Rider.crt"
+  ],
+  "screenscraper_id": "112616",
+  "title": "Glider Rider",
+  "year": "1986",
+  "publisher": "Quicksilva",
+  "developer": "Binary Design",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Auf einer künstlichen Insel der Terrororganisation Abraxas sollen zehn Reaktoren zerstört werden, indem man aus der Luft Granaten auf sie wirft. Dazu dient ein Motorrad, das sich in einen Hängegleiter verwandelt: Wer einen Hang hinunterfährt und plötzlich wendet, hebt ab, kann danach aber nur noch gleiten und nicht mehr steigen. Lasertürme schützen die Reaktoren und lassen sich über ihre Kontrolltürme zeitweise abschalten. Die Insel wird in isometrischer Sicht dargestellt; ein Sturz ins Meer ist tödlich.\n\nDie C64-Fassung erschien 1986 bei Quicksilva (Argus Press Software) auf Kassette und Diskette, entwickelt von Binary Design. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Michael Delves · Grafik: Pete Harrison, Ste Pickford · Musik: David Whittaker",
+  "texts": {
+    "de": "Auf einer künstlichen Insel der Terrororganisation Abraxas sollen zehn Reaktoren zerstört werden, indem man aus der Luft Granaten auf sie wirft. Dazu dient ein Motorrad, das sich in einen Hängegleiter verwandelt: Wer einen Hang hinunterfährt und plötzlich wendet, hebt ab, kann danach aber nur noch gleiten und nicht mehr steigen. Lasertürme schützen die Reaktoren und lassen sich über ihre Kontrolltürme zeitweise abschalten. Die Insel wird in isometrischer Sicht dargestellt; ein Sturz ins Meer ist tödlich.\n\nDie C64-Fassung erschien 1986 bei Quicksilva (Argus Press Software) auf Kassette und Diskette, entwickelt von Binary Design. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Michael Delves · Grafik: Pete Harrison, Ste Pickford · Musik: David Whittaker",
+    "en": "On an artificial island run by the terrorist Abraxas Corporation, ten reactors have to be destroyed by dropping grenades on them from the air. The tool for the job is a motorcycle that turns into a hang glider: riding down a slope and suddenly turning round launches it, after which it can only glide, not climb. Laser towers protect the reactors and can be temporarily disabled via their control towers. The island is shown in isometric view; falling into the sea is fatal.\n\nThe C64 version was released by Quicksilva (Argus Press Software) in 1986 on tape and disk, developed by Binary Design. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode: Michael Delves · Graphics: Pete Harrison, Ste Pickford · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/49/493a4b6194ec871066eafa278b53d2e0882ad7b2.png",
+    "sstitle": "images/24/2418dac7e1d834ce6b70fef6b61efc1b56bcab2c.png"
+  }
+}

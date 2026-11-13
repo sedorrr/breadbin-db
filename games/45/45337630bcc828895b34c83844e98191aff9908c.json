@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "45337630bcc828895b34c83844e98191aff9908c",
+  "md5": "5757eaad068ff254a673073224c7dc8c",
+  "crc32": "86d9902a",
+  "size": 156016,
+  "format": "CRT",
+  "files": [
+    "Combat School (p1).crt"
+  ],
+  "screenscraper_id": "36609",
+  "title": "Combat School",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Ocean (David A. Collier, Allan Shortt)",
+  "genres": [
+    "Sport",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Combat School ist die Umsetzung des Konami-Automaten von 1987 und versetzt die Mehrkampf-Idee von Track & Field in ein militärisches Ausbildungslager. Die Rekruten durchlaufen nacheinander Hindernisparcours, mehrere Schießstände, einen Iron-Man-Lauf, Armdrücken und einen Zweikampf mit dem Ausbilder. Viele Disziplinen verlangen schnelles Rütteln am Joystick, andere Zielgenauigkeit. Wer die Vorgabezeit oder Punktzahl verfehlt, scheidet aus. Zu zweit treten beide Spieler gleichzeitig gegeneinander an, was den Reiz des Spiels ausmacht.\n\nDie C64-Fassung erschien 1987 bei Ocean auf Kassette und Diskette, in den USA bei Konami unter dem Namen „Boot Camp“. Es gibt Cracks mit Trainern und eine EasyFlash-Umsetzung (Disk2EasyFlash) mit schnellem Laden. Gesteuert wird mit dem Joystick in Port 1, der zweite Spieler nutzt Port 2.\n\nCode: David A. Collier, Allan Shortt · Grafik: Simon Butler, Shaun Ridings · Musik: Martin Galway",
+  "texts": {
+    "de": "Combat School ist die Umsetzung des Konami-Automaten von 1987 und versetzt die Mehrkampf-Idee von Track & Field in ein militärisches Ausbildungslager. Die Rekruten durchlaufen nacheinander Hindernisparcours, mehrere Schießstände, einen Iron-Man-Lauf, Armdrücken und einen Zweikampf mit dem Ausbilder. Viele Disziplinen verlangen schnelles Rütteln am Joystick, andere Zielgenauigkeit. Wer die Vorgabezeit oder Punktzahl verfehlt, scheidet aus. Zu zweit treten beide Spieler gleichzeitig gegeneinander an, was den Reiz des Spiels ausmacht.\n\nDie C64-Fassung erschien 1987 bei Ocean auf Kassette und Diskette, in den USA bei Konami unter dem Namen „Boot Camp“. Es gibt Cracks mit Trainern und eine EasyFlash-Umsetzung (Disk2EasyFlash) mit schnellem Laden. Gesteuert wird mit dem Joystick in Port 1, der zweite Spieler nutzt Port 2.\n\nCode: David A. Collier, Allan Shortt · Grafik: Simon Butler, Shaun Ridings · Musik: Martin Galway",
+    "en": "Combat School is the conversion of Konami's 1987 arcade game and moves the multi-event idea of Track & Field into a military training camp. The recruits go through an obstacle course, several firing ranges, an iron man race, arm wrestling and a fight with the instructor in turn. Many events call for rapid joystick waggling, others for accurate aim. Anyone who misses the qualifying time or score is out. With two players both compete simultaneously, which is where much of the appeal lies.\n\nThe C64 version was released in 1987 by Ocean on cassette and disk, and in the US by Konami as \"Boot Camp\". There are cracked versions with trainers and an EasyFlash conversion (Disk2EasyFlash) with fast loading. It is controlled with a joystick in port 1, with the second player using port 2.\n\nCode: David A. Collier, Allan Shortt · Graphics: Simon Butler, Shaun Ridings · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/fd/fd637e75799b5f47d67344515686ae88275979b0.png",
+    "sstitle": "images/0c/0c9ed165a2c1ea743d48907e8992f896ec57ed28.png"
+  }
+}

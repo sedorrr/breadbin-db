@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "50ceb4417450c3f2cd996bafe3eaf010db4dd696",
+  "md5": "96afa4fe58bd787809d2fb052159861a",
+  "crc32": "7c39d46e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "KNIGHT1B.D64"
+  ],
+  "screenscraper_id": "36671",
+  "title": "Knight Games",
+  "year": "1986",
+  "publisher": "English Software",
+  "developer": "Jon Williams",
+  "genres": [
+    "Sport",
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Sammlung mittelalterlicher Zweikämpfe und Wettbewerbe, in denen Ritter etwa mit Schwert, Stangenwaffen oder Bogen gegeneinander antreten. Gespielt wird gegen den Computer oder zu zweit gleichzeitig, wobei jede Disziplin eigene Angriffe und Paraden kennt. Große, gut animierte Figuren und die passende, mittelalterlich klingende Musik von David Whittaker prägten das Spiel. Es gehört zu den bekannteren Mehrkampfspielen der mittleren 1980er Jahre.\n\nErschien bei English Software auf Kassette und Diskette, in den USA bei Mastertronic. Die Diskettenfassung lädt die Disziplinen einzeln nach; daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2, zu zweit mit beiden Ports.\n\nCode: Jon Williams · Grafik: Colin Brown · Musik: David Whittaker",
+  "texts": {
+    "de": "Sammlung mittelalterlicher Zweikämpfe und Wettbewerbe, in denen Ritter etwa mit Schwert, Stangenwaffen oder Bogen gegeneinander antreten. Gespielt wird gegen den Computer oder zu zweit gleichzeitig, wobei jede Disziplin eigene Angriffe und Paraden kennt. Große, gut animierte Figuren und die passende, mittelalterlich klingende Musik von David Whittaker prägten das Spiel. Es gehört zu den bekannteren Mehrkampfspielen der mittleren 1980er Jahre.\n\nErschien bei English Software auf Kassette und Diskette, in den USA bei Mastertronic. Die Diskettenfassung lädt die Disziplinen einzeln nach; daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2, zu zweit mit beiden Ports.\n\nCode: Jon Williams · Grafik: Colin Brown · Musik: David Whittaker",
+    "en": "A collection of medieval duels and contests in which knights face each other with weapons such as swords, polearms or bows. It can be played against the computer or by two players at the same time, and each event has its own attacks and parries. Large, well-animated figures and David Whittaker's fittingly medieval-sounding music defined the game. It is one of the better-known multi-event games of the mid-1980s.\n\nReleased by English Software on cassette and disk, and in the US by Mastertronic. The disk version loads the events separately; EasyFlash cartridge conversions also exist. Controlled by joystick in port 2, with both ports used for two players.\n\nCode: Jon Williams · Graphics: Colin Brown · Music: David Whittaker"
+  },
+  "images": {
+    "sstitle": "images/84/84806256404141af434dbc66825b5813be33d30c.png"
+  }
+}

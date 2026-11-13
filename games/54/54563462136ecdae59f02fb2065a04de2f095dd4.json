@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "54563462136ecdae59f02fb2065a04de2f095dd4",
+  "md5": "4830dd01ac7269884383cc49167bf317",
+  "crc32": "697a47a9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SKIORDI1.D64"
+  ],
+  "screenscraper_id": "36473",
+  "title": "Ski or Die",
+  "year": "1990",
+  "publisher": "Electronic Arts",
+  "developer": "Electronic Arts",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-6",
+  "synopsis": "Der Nachfolger von „Skate or Die!“ verlegt das Geschehen in den Schnee und bietet fünf Wintersport-Disziplinen mit einem Augenzwinkern: Skiakrobatik auf der Schanze, eine Abfahrt quer durchs Gelände, Snowboarden in der Halfpipe, eine Schneeballschlacht und ein Rennen auf Reifenschläuchen mit Rempeleien. Die Disziplinen lassen sich einzeln üben oder hintereinander bestreiten. Witzige Grafik und der lockere Ton machen den Reiz aus, mehrere Spieler können abwechselnd antreten.\n\nElectronic Arts veröffentlichte die C64-Fassung auf Diskette; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick, die Disziplinen werden nachgeladen. Einzelne Wettbewerbe erlauben zwei Spieler gleichzeitig.\n\nCode: Michael Abbot, Nana Chambers, Michael Kosaka · Musik: Dave Warhol",
+  "texts": {
+    "de": "Der Nachfolger von „Skate or Die!“ verlegt das Geschehen in den Schnee und bietet fünf Wintersport-Disziplinen mit einem Augenzwinkern: Skiakrobatik auf der Schanze, eine Abfahrt quer durchs Gelände, Snowboarden in der Halfpipe, eine Schneeballschlacht und ein Rennen auf Reifenschläuchen mit Rempeleien. Die Disziplinen lassen sich einzeln üben oder hintereinander bestreiten. Witzige Grafik und der lockere Ton machen den Reiz aus, mehrere Spieler können abwechselnd antreten.\n\nElectronic Arts veröffentlichte die C64-Fassung auf Diskette; daneben gibt es EasyFlash-Umsetzungen der Szene. Gesteuert wird mit dem Joystick, die Disziplinen werden nachgeladen. Einzelne Wettbewerbe erlauben zwei Spieler gleichzeitig.\n\nCode: Michael Abbot, Nana Chambers, Michael Kosaka · Musik: Dave Warhol",
+    "en": "The follow-up to \"Skate or Die!\" moves the action onto snow and offers five tongue-in-cheek winter sports events: aerial acrobatics off a jump, a downhill run across open terrain, snowboarding in a half-pipe, a snowball fight and an inner-tube race with plenty of shoving. The events can be practised individually or played in sequence. The humorous graphics and relaxed tone are its main appeal, and several players can take turns.\n\nElectronic Arts released the C64 version on disk; EasyFlash conversions from the scene exist as well. It is played with a joystick, and the events are loaded separately. Some events allow two players at once.\n\nCode: Michael Abbot, Nana Chambers, Michael Kosaka · Music: Dave Warhol"
+  },
+  "images": {
+    "ss": "images/95/95e471a101c6797fbea32d12e9c010119bb0beb3.png"
+  }
+}

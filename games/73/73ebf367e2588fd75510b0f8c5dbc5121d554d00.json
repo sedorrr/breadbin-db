@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "73ebf367e2588fd75510b0f8c5dbc5121d554d00",
+  "md5": "e1cfc45426ae98512e33ae13f5f5bcc3",
+  "crc32": "3838b20d",
+  "size": 45554,
+  "format": "T64",
+  "files": [
+    "KAYLETH.T64"
+  ],
+  "screenscraper_id": "114044",
+  "title": "Kayleth",
+  "year": "1986",
+  "publisher": "U.S. Gold / Adventure Soft UK",
+  "developer": "Stefan und Ann Ufnowski (Adventure Soft UK)",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Kayleth ist ein Science-Fiction-Abenteuer von Adventure Soft, das die britische Firma gemeinsam mit U.S. Gold herausbrachte. Der Spieler soll den Tyrannen Kayleth ausschalten, der die Bewohner des Heimatplaneten Zyron versklavt und dessen Umwelt zerstört. Neben Texteingabe zeigt das Spiel Bilder der Schauplätze, teils mit kleinen Animationen. Es gilt als eines der aufwendigeren britischen Grafikadventures seiner Zeit.\n\nAuf dem C64 erschien Kayleth auf Kassette und Diskette, vertrieben von U.S. Gold. Gesteuert wird über die Tastatur; spätere Modulumsetzungen packen das Kassettenspiel in ein einziges Modul.\n\nAutoren: Stefan und Ann Ufnowski",
+  "texts": {
+    "de": "Kayleth ist ein Science-Fiction-Abenteuer von Adventure Soft, das die britische Firma gemeinsam mit U.S. Gold herausbrachte. Der Spieler soll den Tyrannen Kayleth ausschalten, der die Bewohner des Heimatplaneten Zyron versklavt und dessen Umwelt zerstört. Neben Texteingabe zeigt das Spiel Bilder der Schauplätze, teils mit kleinen Animationen. Es gilt als eines der aufwendigeren britischen Grafikadventures seiner Zeit.\n\nAuf dem C64 erschien Kayleth auf Kassette und Diskette, vertrieben von U.S. Gold. Gesteuert wird über die Tastatur; spätere Modulumsetzungen packen das Kassettenspiel in ein einziges Modul.\n\nAutoren: Stefan und Ann Ufnowski",
+    "en": "Kayleth is a science fiction adventure by Adventure Soft, which the British company published together with U.S. Gold. The player has to eliminate the tyrant Kayleth, who enslaves the people of the home planet Zyron and destroys its environment. Alongside text input the game shows pictures of the locations, some with small animations. It is regarded as one of the more elaborate British graphic adventures of its time.\n\nOn the C64 Kayleth was released on tape and disk, distributed by U.S. Gold. It is played from the keyboard; later cartridge conversions pack the tape game into a single cartridge.\n\nAuthors: Stefan and Ann Ufnowski"
+  },
+  "images": {
+    "sstitle": "images/e5/e56db808165e736edf70b4243c522808d239ec99.png"
+  }
+}

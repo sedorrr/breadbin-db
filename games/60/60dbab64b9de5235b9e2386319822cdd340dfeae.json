@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "60dbab64b9de5235b9e2386319822cdd340dfeae",
+  "md5": "adcbc95e9a169934f3b479ab105d6a1e",
+  "crc32": "6b184581",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Empire Strikes Back, The.crt"
+  ],
+  "screenscraper_id": "35868",
+  "title": "The Empire Strikes Back",
+  "year": "1988",
+  "publisher": "Domark",
+  "developer": "Vektor Grafix",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Die Fortsetzung zu Star Wars folgt dem Atari-Automaten zum zweiten Film. Im Snowspeeder werden über dem Eisplaneten Hoth zuerst imperiale Suchdroiden abgeschossen, dann AT-AT-Kampfläufer mit dem Schleppseil zu Fall gebracht und AT-ST bekämpft. Danach folgt ein Weltraumkampf gegen TIE-Jäger, und zum Schluss steuert man den Millennium Falcon durch ein Asteroidenfeld. Die Darstellung in Vektorgrafik und die bekannten Filmszenen machten den Reiz des Spiels aus.\n\nDomark veröffentlichte die Umsetzung 1988 auf Kassette und Diskette, entwickelt von Vektor Grafix; später kamen Modulumsetzungen der Szene hinzu. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Mark Robinson, Ian Martin, Andy Craven · Grafik: Derrick Austin · Musik: David Whittaker",
+  "texts": {
+    "de": "Die Fortsetzung zu Star Wars folgt dem Atari-Automaten zum zweiten Film. Im Snowspeeder werden über dem Eisplaneten Hoth zuerst imperiale Suchdroiden abgeschossen, dann AT-AT-Kampfläufer mit dem Schleppseil zu Fall gebracht und AT-ST bekämpft. Danach folgt ein Weltraumkampf gegen TIE-Jäger, und zum Schluss steuert man den Millennium Falcon durch ein Asteroidenfeld. Die Darstellung in Vektorgrafik und die bekannten Filmszenen machten den Reiz des Spiels aus.\n\nDomark veröffentlichte die Umsetzung 1988 auf Kassette und Diskette, entwickelt von Vektor Grafix; später kamen Modulumsetzungen der Szene hinzu. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Mark Robinson, Ian Martin, Andy Craven · Grafik: Derrick Austin · Musik: David Whittaker",
+    "en": "The sequel to Star Wars follows Atari's arcade game based on the second film. Flying a snowspeeder over the ice planet Hoth, the player first shoots down Imperial probe droids, then trips AT-AT walkers with the tow cable and fights AT-STs. A space battle against TIE fighters follows, and finally the Millennium Falcon has to be steered through an asteroid field. The vector-style graphics and familiar scenes from the film were the game's main appeal.\n\nDomark released the conversion in 1988 on cassette and disk, developed by Vektor Grafix; cartridge conversions from the scene followed later. It is played with a joystick in port 2.\n\nCode: Mark Robinson, Ian Martin, Andy Craven · Graphics: Derrick Austin · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/43/43bcb02ff3bf56bbdad1e3ea12bafaf4dd793f3c.png",
+    "sstitle": "images/68/689619ffb49f80d34dce22a69c9e3081617259f3.png"
+  }
+}

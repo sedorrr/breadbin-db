@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5a8b5177a925ba3066c06aa549d7804716b77f30",
+  "md5": "ae3fca2ffdaea6756bfda8fee5f64dfd",
+  "crc32": "a2ef4be1",
+  "size": 399240,
+  "format": "TAP",
+  "files": [
+    "Mutant Monty.tap"
+  ],
+  "screenscraper_id": "129688",
+  "title": "Mutant Monty",
+  "year": "1984",
+  "publisher": "Artic Computing",
+  "developer": "John Prince",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Geschicklichkeitsspiel von Artic Computing, in dem die Figur Monty eine Reihe von Räumen durchquert und dabei Gold einsammelt. In jedem Raum bewegen sich Gegner auf festen Bahnen, denen Monty ausweichen muss; viele davon sind Anspielungen auf Figuren aus anderen bekannten Spielen der Zeit. Erst wenn alles eingesammelt ist, geht es in den nächsten Raum. Das Spiel verlangt vor allem gutes Timing.\n\nErschien bei Artic Computing auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: John Prince · Grafik: John Prince · Musik: John Prince",
+  "texts": {
+    "de": "Geschicklichkeitsspiel von Artic Computing, in dem die Figur Monty eine Reihe von Räumen durchquert und dabei Gold einsammelt. In jedem Raum bewegen sich Gegner auf festen Bahnen, denen Monty ausweichen muss; viele davon sind Anspielungen auf Figuren aus anderen bekannten Spielen der Zeit. Erst wenn alles eingesammelt ist, geht es in den nächsten Raum. Das Spiel verlangt vor allem gutes Timing.\n\nErschien bei Artic Computing auf Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.\n\nCode: John Prince · Grafik: John Prince · Musik: John Prince",
+    "en": "A skill game from Artic Computing in which the character Monty crosses a series of rooms, collecting gold along the way. In each room enemies move along fixed paths that Monty has to avoid; many of them are nods to characters from other well-known games of the time. Only when everything has been collected does Monty move on to the next room. The game mainly calls for good timing.\n\nReleased by Artic Computing on cassette; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2.\n\nCode: John Prince · Graphics: John Prince · Music: John Prince"
+  },
+  "images": {
+    "ss": "images/19/198477bc0ae5720d9c92eb1d00c4204ebd00edc9.png",
+    "sstitle": "images/36/3668bc87a13b518eea2222f7b3b40b8037916f03.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5a275c26cf0ab783a5b66ad026f922aaa7fccda2",
+  "md5": "5d1b4734939dc7ffb46f115ed6ef81e0",
+  "crc32": "4bb5cacc",
+  "size": 474040,
+  "format": "TAP",
+  "files": [
+    "Highway Encounter.tap"
+  ],
+  "screenscraper_id": "112864",
+  "title": "Highway Encounter",
+  "year": "1985",
+  "publisher": "Vortex Software",
+  "developer": "Costa Panayi (Entwurf); C64: Pedigree Software",
+  "genres": [
+    "Action",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Ein kleiner Roboter, ein sogenannter Vorton, muss eine Bombe, den Lasertron, über eine lange Schnellstraße bis zur Basis der Außerirdischen schieben. Die dreißig Abschnitte in isometrischer Sicht sind voller Fässer, Minen und angreifender Aliens, die man vor der Bombe aus dem Weg räumen muss. Die übrigen Vortons schieben die Bombe als Ersatzleben hinterher; wer sie an einer gefährlichen Stelle stehen lässt, kann sie alle auf einmal verlieren. Das Spiel verbindet Action mit vorausschauender Planung und gilt als Klassiker von Costa Panayi.\n\nDas Spiel erschien 1985 bei Vortex zuerst für den ZX Spectrum; die C64-Umsetzung entstand bei Pedigree Software und erschien auf Kassette. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nMusik (C64): Fred Gray",
+  "texts": {
+    "de": "Ein kleiner Roboter, ein sogenannter Vorton, muss eine Bombe, den Lasertron, über eine lange Schnellstraße bis zur Basis der Außerirdischen schieben. Die dreißig Abschnitte in isometrischer Sicht sind voller Fässer, Minen und angreifender Aliens, die man vor der Bombe aus dem Weg räumen muss. Die übrigen Vortons schieben die Bombe als Ersatzleben hinterher; wer sie an einer gefährlichen Stelle stehen lässt, kann sie alle auf einmal verlieren. Das Spiel verbindet Action mit vorausschauender Planung und gilt als Klassiker von Costa Panayi.\n\nDas Spiel erschien 1985 bei Vortex zuerst für den ZX Spectrum; die C64-Umsetzung entstand bei Pedigree Software und erschien auf Kassette. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nMusik (C64): Fred Gray",
+    "en": "A small robot called a Vorton has to push a bomb, the Lasertron, along a long highway to the aliens' base. The thirty isometric sections are full of barrels, mines and attacking aliens that must be cleared out of the way ahead of the bomb. The remaining Vortons push the bomb along behind as spare lives; leave it in a dangerous spot and they can all be lost at once. The game combines action with forward planning and is regarded as a Costa Panayi classic.\n\nThe game was released by Vortex in 1985, first for the ZX Spectrum; the C64 conversion was made by Pedigree Software and came on tape. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nMusic (C64): Fred Gray"
+  },
+  "images": {
+    "sstitle": "images/31/3100793064a373517463f3c1b09675085fea99a3.png"
+  }
+}

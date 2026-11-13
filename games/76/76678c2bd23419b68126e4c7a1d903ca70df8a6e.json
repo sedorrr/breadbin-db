@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "76678c2bd23419b68126e4c7a1d903ca70df8a6e",
+  "md5": "6d76bc76ecef43678cf9d1aeafa6e26b",
+  "crc32": "fe77a201",
+  "size": 254512,
+  "format": "CRT",
+  "files": [
+    "Chuck Rock (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36216",
+  "title": "Chuck Rock",
+  "year": "1992",
+  "publisher": "Genias",
+  "developer": "Genias (nach Core Design)",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Steinzeit-Jump-'n'-Run nach dem Amiga-Spiel von Core Design: Der dickbäuchige Höhlenmensch Chuck Rock muss seine Frau Ophelia befreien, die vom Rivalen Gary Gritter entführt wurde. Er wehrt Dinosaurier und andere Urzeittiere mit einem Bauchstoß ab, tritt zu und wirft Felsbrocken, die er auch als Trittstufen benutzt. Die Abschnitte führen durch Dschungel, Höhlen, Eis und unter Wasser. Der Humor und die großen Comicfiguren machten Chuck Rock zu einem bekannten Titel der frühen 1990er-Jahre.\n\nDie C64-Umsetzung stammt vom italienischen Team Genias; nachdem Core Design die Umsetzung für den britischen Markt abgesagt hatte, erschien sie 1992 nur in Italien. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es Umsetzungen als EasyFlash-Modul, darunter eine MultiLoad64-Umsetzung von $olo1870.\n\nCode: Luca Zarri, Marco Corazza · Grafik: Marco Corazza, Andrea Paselli · Musik: Paolo Predonzani",
+  "texts": {
+    "de": "Steinzeit-Jump-'n'-Run nach dem Amiga-Spiel von Core Design: Der dickbäuchige Höhlenmensch Chuck Rock muss seine Frau Ophelia befreien, die vom Rivalen Gary Gritter entführt wurde. Er wehrt Dinosaurier und andere Urzeittiere mit einem Bauchstoß ab, tritt zu und wirft Felsbrocken, die er auch als Trittstufen benutzt. Die Abschnitte führen durch Dschungel, Höhlen, Eis und unter Wasser. Der Humor und die großen Comicfiguren machten Chuck Rock zu einem bekannten Titel der frühen 1990er-Jahre.\n\nDie C64-Umsetzung stammt vom italienischen Team Genias; nachdem Core Design die Umsetzung für den britischen Markt abgesagt hatte, erschien sie 1992 nur in Italien. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es Umsetzungen als EasyFlash-Modul, darunter eine MultiLoad64-Umsetzung von $olo1870.\n\nCode: Luca Zarri, Marco Corazza · Grafik: Marco Corazza, Andrea Paselli · Musik: Paolo Predonzani",
+    "en": "A Stone Age platformer based on Core Design's Amiga game: the pot-bellied caveman Chuck Rock has to rescue his wife Ophelia, who has been kidnapped by his rival Gary Gritter. He fends off dinosaurs and other prehistoric creatures with a belly bump, kicks and throws boulders, which he also uses as stepping stones. Levels lead through jungle, caves, ice and underwater. Its humour and large cartoon characters made Chuck Rock a well-known title of the early 1990s.\n\nThe C64 conversion was made by the Italian team Genias; after Core Design cancelled the conversion for the British market, it was released in 1992 in Italy only. It is controlled with a joystick in port 2. There are also conversions as EasyFlash cartridges, including a MultiLoad64 conversion by $olo1870.\n\nCode: Luca Zarri, Marco Corazza · Graphics: Marco Corazza, Andrea Paselli · Music: Paolo Predonzani"
+  },
+  "images": {
+    "ss": "images/18/18598fcfc15a3ebe006442ec3db306d216e3d101.png",
+    "sstitle": "images/a8/a8307d6b1d99c77254eaf4c9988b5ac397c0ddfe.png"
+  }
+}

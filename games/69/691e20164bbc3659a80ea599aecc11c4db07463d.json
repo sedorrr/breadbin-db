@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "691e20164bbc3659a80ea599aecc11c4db07463d",
+  "md5": "558f1cfc1da364cbf5f38aec1637ec28",
+  "crc32": "318d7ed9",
+  "size": 246304,
+  "format": "CRT",
+  "files": [
+    "Out Run Europa.crt"
+  ],
+  "screenscraper_id": "36221",
+  "title": "Out Run Europa",
+  "year": "1991",
+  "publisher": "U.S. Gold",
+  "developer": "Probe Software",
+  "genres": [
+    "Rennen",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Ableger von Segas Out Run: Der Wagen des Helden wurde gestohlen, und er jagt den Dieben quer durch Europa hinterher, vorbei an Wegweisern nach Paris oder Berlin. Unterwegs wechselt das Fahrzeug zwischen Motorrad, Sportwagen von Ferrari und Porsche und Jetski, während die Polizei und andere Verfolger zu entkommen gilt. Wie beim Vorbild läuft eine strenge Zeitvorgabe bis zum nächsten Kontrollpunkt. Out Run Europa war eine eigenständige Fortsetzung für Heimcomputer, ohne Automatenvorlage.\n\nDie C64-Fassung erschien auf Kassette und Diskette (zwei Diskettenseiten). Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine MultiLoad64-Umsetzung von $olo1870 und weitere Umsetzungen als EasyFlash-Modul, die ohne Nachladen von Diskette auskommen.\n\nMusik (C64): Jeroen Tel",
+  "texts": {
+    "de": "Ableger von Segas Out Run: Der Wagen des Helden wurde gestohlen, und er jagt den Dieben quer durch Europa hinterher, vorbei an Wegweisern nach Paris oder Berlin. Unterwegs wechselt das Fahrzeug zwischen Motorrad, Sportwagen von Ferrari und Porsche und Jetski, während die Polizei und andere Verfolger zu entkommen gilt. Wie beim Vorbild läuft eine strenge Zeitvorgabe bis zum nächsten Kontrollpunkt. Out Run Europa war eine eigenständige Fortsetzung für Heimcomputer, ohne Automatenvorlage.\n\nDie C64-Fassung erschien auf Kassette und Diskette (zwei Diskettenseiten). Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es eine MultiLoad64-Umsetzung von $olo1870 und weitere Umsetzungen als EasyFlash-Modul, die ohne Nachladen von Diskette auskommen.\n\nMusik (C64): Jeroen Tel",
+    "en": "A spin-off of Sega's Out Run: the hero's car has been stolen, and he chases the thieves right across Europe, past signposts to Paris or Berlin. Along the way the vehicle changes between motorbike, Ferrari and Porsche sports cars and jet ski, while police and other pursuers have to be shaken off. As in the original, a strict time limit runs until the next checkpoint. Out Run Europa was a standalone sequel for home computers with no arcade original.\n\nThe C64 version was released on tape and disk (two disk sides). It is controlled with a joystick in port 2. There is also a MultiLoad64 conversion by $olo1870 and further conversions as EasyFlash cartridges that need no loading from disk.\n\nMusic (C64): Jeroen Tel"
+  }
+}

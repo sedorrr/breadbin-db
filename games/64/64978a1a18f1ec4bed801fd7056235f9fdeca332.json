@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "64978a1a18f1ec4bed801fd7056235f9fdeca332",
+  "md5": "b4691d4cd53877645e18c0ed163a41c8",
+  "crc32": "50a46497",
+  "size": 694156,
+  "format": "TAP",
+  "files": [
+    "Treasure Island Dizzy.tap"
+  ],
+  "screenscraper_id": "36314",
+  "title": "Treasure Island Dizzy",
+  "year": "1989",
+  "publisher": "Codemasters",
+  "developer": "The Oliver Twins (C64: Ian Gray)",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Im zweiten Dizzy-Spiel ist der Held auf einer Insel gestrandet und muss einen Weg nach Hause finden. Dabei sammelt er 30 Goldmünzen, taucht mit einem Schnorchel unter Wasser und kombiniert Fundstücke, um Hindernisse zu überwinden. Anders als im ersten Teil kann Dizzy mehrere Gegenstände tragen, hat aber nur ein einziges Leben, was das Spiel recht fordernd macht. Treasure Island Dizzy gilt als der Teil, mit dem die Reihe ihre feste Form fand.\n\nAuf dem C64 erschien das Spiel als Billigkassette bei Codemasters und später in Sammlungen; die Umsetzung hält sich eng an die Spectrum- und Amstrad-Vorlage. Gesteuert wird mit dem Joystick.\n\nDesign: The Oliver Twins (Philip und Andrew Oliver) · Code (C64): Ian Gray",
+  "texts": {
+    "de": "Im zweiten Dizzy-Spiel ist der Held auf einer Insel gestrandet und muss einen Weg nach Hause finden. Dabei sammelt er 30 Goldmünzen, taucht mit einem Schnorchel unter Wasser und kombiniert Fundstücke, um Hindernisse zu überwinden. Anders als im ersten Teil kann Dizzy mehrere Gegenstände tragen, hat aber nur ein einziges Leben, was das Spiel recht fordernd macht. Treasure Island Dizzy gilt als der Teil, mit dem die Reihe ihre feste Form fand.\n\nAuf dem C64 erschien das Spiel als Billigkassette bei Codemasters und später in Sammlungen; die Umsetzung hält sich eng an die Spectrum- und Amstrad-Vorlage. Gesteuert wird mit dem Joystick.\n\nDesign: The Oliver Twins (Philip und Andrew Oliver) · Code (C64): Ian Gray",
+    "en": "In the second Dizzy game the hero is stranded on an island and has to find a way home. Along the way he collects 30 gold coins, explores underwater with a snorkel and combines found objects to get past obstacles. Unlike the first game, Dizzy can carry several items but has only a single life, which makes the game fairly demanding. Treasure Island Dizzy is seen as the instalment in which the series found its lasting form.\n\nOn the C64 the game was released as a Codemasters budget tape and later in compilations; the conversion stays close to the Spectrum and Amstrad originals. It is controlled with a joystick.\n\nDesign: The Oliver Twins (Philip and Andrew Oliver) · Code (C64): Ian Gray"
+  },
+  "images": {
+    "ss": "images/b3/b38da8fd71d8239e762730cd2ba355bf45df25ff.png",
+    "sstitle": "images/cd/cd7f6cd94c5ddf17ef1eaea49e8b15e1b4bdf39a.png"
+  }
+}

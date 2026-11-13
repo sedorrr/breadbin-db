@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "70aaedba3ceca6a4a240974f95e1846639c7d89a",
+  "md5": "49cb87c9a691f1d12a4cf0dd8b9761a2",
+  "crc32": "b1a476b1",
+  "size": 14986,
+  "format": "PRG",
+  "files": [
+    "Xevious (J1).prg"
+  ],
+  "screenscraper_id": "36793",
+  "title": "Xevious",
+  "year": "1986",
+  "publisher": "U.S. Gold",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1-2",
+  "synopsis": "Mit dem Kampfflugzeug Solvalou fliegt der Spieler über eine vertikal scrollende Landschaft und bekämpft die Streitkräfte der Xevious. Zwei Waffen stehen bereit: ein Bordgeschütz gegen Flugziele und Bomben gegen Bodenziele, deren Einschlagpunkt ein Fadenkreuz vor dem Flugzeug anzeigt. Der Automat von Namco aus dem Jahr 1982 gilt als einer der ersten Vertikal-Shooter mit durchgehender, detailliert gestalteter Landschaft und versteckten Bonuszielen.\n\nU.S. Gold veröffentlichte die C64-Umsetzung auf Kassette und Diskette, in den USA erschien sie bei Mindscape; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 1. Zwei Spieler können abwechselnd spielen.\n\nMitwirkende der C64-Fassung: nicht belegt",
+  "texts": {
+    "de": "Mit dem Kampfflugzeug Solvalou fliegt der Spieler über eine vertikal scrollende Landschaft und bekämpft die Streitkräfte der Xevious. Zwei Waffen stehen bereit: ein Bordgeschütz gegen Flugziele und Bomben gegen Bodenziele, deren Einschlagpunkt ein Fadenkreuz vor dem Flugzeug anzeigt. Der Automat von Namco aus dem Jahr 1982 gilt als einer der ersten Vertikal-Shooter mit durchgehender, detailliert gestalteter Landschaft und versteckten Bonuszielen.\n\nU.S. Gold veröffentlichte die C64-Umsetzung auf Kassette und Diskette, in den USA erschien sie bei Mindscape; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 1. Zwei Spieler können abwechselnd spielen.\n\nMitwirkende der C64-Fassung: nicht belegt",
+    "en": "Flying the Solvalou fighter, the player crosses a vertically scrolling landscape and battles the forces of Xevious. Two weapons are available: a gun for airborne targets and bombs for ground targets, whose impact point is marked by a crosshair in front of the craft. Namco's 1982 arcade game is regarded as one of the first vertical shooters with a continuous, detailed landscape and hidden bonus targets.\n\nU.S. Gold released the C64 conversion on cassette and disk, and in the USA it was published by Mindscape; cartridge conversions from the scene appeared later. It is played with a joystick in port 1. Two players can take turns.\n\nC64 credits: not documented"
+  },
+  "images": {
+    "ss": "images/a6/a682b3b58ea3be16d1b102c7a07d12cae59f66be.png",
+    "sstitle": "images/d3/d3cb0447e2dd98bc2fd1c54cc92f9222c1c1dcca.png"
+  }
+}

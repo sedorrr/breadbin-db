@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "78a48296631007f6a8eb11e3fa3dc5b50cd8408d",
+  "md5": "4c146e90d8b6e9bd77a2c0a5be4dbf7d",
+  "crc32": "78e80b9d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "AFTERBU0.D64"
+  ],
+  "screenscraper_id": "418827",
+  "title": "Afterburner",
+  "year": "1988",
+  "publisher": "Activision",
+  "developer": "Sega (Automat); C64 Europa: Dalali Software (für Activision); C64 USA: Mindscape",
+  "genres": [
+    "Shooter",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Afterburner ist die Heimumsetzung von Segas Automatenhit After Burner, in dem man einen F-14-Kampfjet durch Wellen feindlicher Flugzeuge steuert. Die Sicht liegt hinter dem eigenen Flugzeug, Gegner kommen aus der Tiefe des Bildes, und man wehrt sich mit Bordkanone und zielsuchenden Raketen. Zwischen den Abschnitten wird in der Luft oder am Boden aufgetankt. Auf dem Automaten beeindruckte das Spiel durch Tempo und eine bewegliche Kabine, die Heimfassungen konnten dieses Tempo nur teilweise wiedergeben.\n\nFür den C64 gibt es zwei unterschiedliche Umsetzungen: die europäische Fassung von Activision (1988) und die US-Fassung von Mindscape (1989), die als eigenständige Programme entstanden sind. Beide erschienen auf Diskette, die europäische auch auf Kassette. Zusätzlich gibt es eine EasyFlash-Umsetzung der US-Fassung (Disk2EasyFlash). Gesteuert wird bei der europäischen Fassung mit dem Joystick in Port 1, bei der US-Fassung in Port 2; die Musik der US-Fassung läuft im PAL-Betrieb zu langsam.\n\nEuropäische Fassung – Entwicklung: Dalali Software · Code: Andy Mucho · Musik: Adam Gilmore; US-Fassung – Code: Scott M. Blum, Darrin Stubbington · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Afterburner ist die Heimumsetzung von Segas Automatenhit After Burner, in dem man einen F-14-Kampfjet durch Wellen feindlicher Flugzeuge steuert. Die Sicht liegt hinter dem eigenen Flugzeug, Gegner kommen aus der Tiefe des Bildes, und man wehrt sich mit Bordkanone und zielsuchenden Raketen. Zwischen den Abschnitten wird in der Luft oder am Boden aufgetankt. Auf dem Automaten beeindruckte das Spiel durch Tempo und eine bewegliche Kabine, die Heimfassungen konnten dieses Tempo nur teilweise wiedergeben.\n\nFür den C64 gibt es zwei unterschiedliche Umsetzungen: die europäische Fassung von Activision (1988) und die US-Fassung von Mindscape (1989), die als eigenständige Programme entstanden sind. Beide erschienen auf Diskette, die europäische auch auf Kassette. Zusätzlich gibt es eine EasyFlash-Umsetzung der US-Fassung (Disk2EasyFlash). Gesteuert wird bei der europäischen Fassung mit dem Joystick in Port 1, bei der US-Fassung in Port 2; die Musik der US-Fassung läuft im PAL-Betrieb zu langsam.\n\nEuropäische Fassung – Entwicklung: Dalali Software · Code: Andy Mucho · Musik: Adam Gilmore; US-Fassung – Code: Scott M. Blum, Darrin Stubbington · Musik: Jeroen Tel",
+    "en": "Afterburner is the home conversion of Sega's arcade hit After Burner, in which the player flies an F-14 fighter jet through waves of enemy aircraft. The view is from behind the player's plane, enemies come out of the depth of the screen, and the player fights back with cannon and homing missiles. Between stages the jet refuels in the air or on the ground. In the arcade the game impressed with its speed and a moving cabinet; the home versions could only partly capture that pace.\n\nThere are two different C64 conversions: the European version from Activision (1988) and the US version from Mindscape (1989), which were developed as separate programs. Both were released on disk, the European one on cassette too. In addition there is an EasyFlash conversion of the US version (Disk2EasyFlash). The European version is controlled with a joystick in port 1, the US version in port 2; the music of the US version plays too slowly on PAL machines.\n\nEuropean version – Development: Dalali Software · Code: Andy Mucho · Music: Adam Gilmore; US version – Code: Scott M. Blum, Darrin Stubbington · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/3f/3f3b2f741e39b31f9f2f853e44ebc7156dfc9c34.png",
+    "sstitle": "images/bd/bd3499079c6f19e385a8fede0205e850aba824ca.png"
+  }
+}

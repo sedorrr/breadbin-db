@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "777332011ed43ec1dfe4b3f34cb920f21e8a9fce",
+  "md5": "3adccc6d2765e85b1afdc0dc1b75a825",
+  "crc32": "ac9562a6",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Rygar.crt"
+  ],
+  "screenscraper_id": "35951",
+  "title": "Rygar",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Der Krieger Rygar kämpft sich durch horizontal scrollende Landschaften und wehrt Horden von Gegnern mit dem Diskarmor ab, einer an einem Seil befestigten Wurfscheibe. Aufgesammelte Extras erhöhen Reichweite und Schlagkraft der Waffe, sodass man im Verlauf auch größere Gegnergruppen auf Abstand halten kann. Gegner fallen dabei aus allen Richtungen ein, was schnelle Reaktionen verlangt. Vorlage ist der Tecmo-Automat von 1986.\n\nU.S. Gold brachte die C64-Umsetzung auf Kassette und Diskette heraus; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur, die Musik lässt sich mit F5 abschalten. Gegenüber dem Automaten sind die Figuren klein und das Scrolling schnell, die Farbgebung macht Gegner vor dem Hintergrund mitunter schwer erkennbar.\n\nCode: Vakis Paraskeva, Keith A. Purkiss · Musik: David Whittaker",
+  "texts": {
+    "de": "Der Krieger Rygar kämpft sich durch horizontal scrollende Landschaften und wehrt Horden von Gegnern mit dem Diskarmor ab, einer an einem Seil befestigten Wurfscheibe. Aufgesammelte Extras erhöhen Reichweite und Schlagkraft der Waffe, sodass man im Verlauf auch größere Gegnergruppen auf Abstand halten kann. Gegner fallen dabei aus allen Richtungen ein, was schnelle Reaktionen verlangt. Vorlage ist der Tecmo-Automat von 1986.\n\nU.S. Gold brachte die C64-Umsetzung auf Kassette und Diskette heraus; später entstanden Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur, die Musik lässt sich mit F5 abschalten. Gegenüber dem Automaten sind die Figuren klein und das Scrolling schnell, die Farbgebung macht Gegner vor dem Hintergrund mitunter schwer erkennbar.\n\nCode: Vakis Paraskeva, Keith A. Purkiss · Musik: David Whittaker",
+    "en": "The warrior Rygar battles through horizontally scrolling landscapes, fending off hordes of enemies with the Diskarmor, a throwing disc attached to a rope. Collected power-ups increase the weapon's range and strength, so that later on even larger groups of enemies can be kept at bay. Enemies come in from all directions, demanding quick reactions. The basis is Tecmo's 1986 arcade game.\n\nU.S. Gold released the C64 conversion on cassette and disk; cartridge conversions from the scene appeared later. It is played with a joystick in port 2 or the keyboard, and the music can be switched off with F5. Compared with the arcade game the sprites are small and the scrolling fast, and the colour scheme sometimes makes enemies hard to tell from the background.\n\nCode: Vakis Paraskeva, Keith A. Purkiss · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/68/68fa29d44ff6dc0b652da325770acefcf982fd4e.png",
+    "sstitle": "images/75/75c4cfeb8b40ba6e335bdcb5964e1da6881156a5.png"
+  }
+}

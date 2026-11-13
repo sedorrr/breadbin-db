@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7bf90a97d6101398b2a1d40b3f9a8e75459069dc",
+  "md5": "1661a6c5927cd5d3b1b52faa9e4ecd7e",
+  "crc32": "77ab8c6d",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Pipe Mania.crt"
+  ],
+  "screenscraper_id": "36168",
+  "title": "Pipe Mania",
+  "year": "1989",
+  "publisher": "Empire",
+  "developer": "The Assembly Line",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Denkspiel unter Zeitdruck: Aus einer Vorschauleiste kommen zufällige Rohrstücke, die der Spieler auf ein Raster setzt, um eine möglichst lange Leitung zu bauen. Nach kurzer Zeit beginnt eine Flüssigkeit zu fließen, und die Leitung muss ihr stets voraus sein; jedes Level verlangt eine Mindestlänge. Falsch gesetzte Teile lassen sich überschreiben, kosten aber Zeit und Punkte. Das einfache, aber fesselnde Prinzip wurde vielfach kopiert und machte das Spiel zum Klassiker.\n\nEntwickelt von The Assembly Line, in Europa bei Empire als Pipe Mania, in den USA bei Lucasfilm Games als Pipe Dream erschienen. Die C64-Fassung kam auf Kassette und Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2; zu zweit spielt man gleichzeitig gegeneinander mit zwei Joysticks.\n\nCode: Adrian Sheppard · Grafik: Kevin R. Ayre",
+  "texts": {
+    "de": "Denkspiel unter Zeitdruck: Aus einer Vorschauleiste kommen zufällige Rohrstücke, die der Spieler auf ein Raster setzt, um eine möglichst lange Leitung zu bauen. Nach kurzer Zeit beginnt eine Flüssigkeit zu fließen, und die Leitung muss ihr stets voraus sein; jedes Level verlangt eine Mindestlänge. Falsch gesetzte Teile lassen sich überschreiben, kosten aber Zeit und Punkte. Das einfache, aber fesselnde Prinzip wurde vielfach kopiert und machte das Spiel zum Klassiker.\n\nEntwickelt von The Assembly Line, in Europa bei Empire als Pipe Mania, in den USA bei Lucasfilm Games als Pipe Dream erschienen. Die C64-Fassung kam auf Kassette und Diskette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2; zu zweit spielt man gleichzeitig gegeneinander mit zwei Joysticks.\n\nCode: Adrian Sheppard · Grafik: Kevin R. Ayre",
+    "en": "A puzzle game against the clock: random pipe pieces come from a preview queue and the player places them on a grid to build as long a pipeline as possible. After a short while a liquid starts to flow, and the pipeline must always stay ahead of it; each level requires a minimum length. Misplaced pieces can be replaced, but this costs time and points. The simple yet gripping concept was widely copied and made the game a classic.\n\nDeveloped by The Assembly Line, released in Europe by Empire as Pipe Mania and in the US by Lucasfilm Games as Pipe Dream. The C64 version came out on cassette and disk; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2; two players compete simultaneously using two joysticks.\n\nCode: Adrian Sheppard · Graphics: Kevin R. Ayre"
+  },
+  "images": {
+    "ss": "images/6c/6c0c2f77c544886ec716be94cf00d92cdeea24cd.png",
+    "sstitle": "images/9e/9eb78b49ac9273f25d8dcbaaed9574c2e1fb6e03.png"
+  }
+}

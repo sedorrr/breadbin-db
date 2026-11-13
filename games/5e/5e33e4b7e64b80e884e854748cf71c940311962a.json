@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5e33e4b7e64b80e884e854748cf71c940311962a",
+  "md5": "c86b5cdb76063d520aca949e6e59da9e",
+  "crc32": "f481525a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PLANET3B.D64"
+  ],
+  "screenscraper_id": "116184",
+  "title": "Planetfall",
+  "year": "1983",
+  "publisher": "Infocom",
+  "developer": "Steve Meretzky (Infocom)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Als niederster Fähnrich der Stellar Patrol schrubbt der Spieler Decks, bis sein Raumschiff explodiert und er mit einer Rettungskapsel auf einem fremden Planeten landet. Die dortige Anlage ist verlassen, die Bewohner sind einer Seuche zum Opfer gefallen, und auch er selbst wird nach und nach krank. Begleitet wird er vom kindlichen Roboter Floyd, dessen Sprüche und Schicksal zu den bekanntesten Momenten der Spielgeschichte gehören. Steve Meretzky verband in seinem ersten Spiel Science-Fiction-Parodie, Zeitdruck und echte Gefühle.\n\nErschien 1983 als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; 1988 folgte eine Solid-Gold-Ausgabe mit eingebauten InvisiClues-Hilfen. Gespielt wird über die Tastatur.\n\nAutor: Steve Meretzky",
+  "texts": {
+    "de": "Als niederster Fähnrich der Stellar Patrol schrubbt der Spieler Decks, bis sein Raumschiff explodiert und er mit einer Rettungskapsel auf einem fremden Planeten landet. Die dortige Anlage ist verlassen, die Bewohner sind einer Seuche zum Opfer gefallen, und auch er selbst wird nach und nach krank. Begleitet wird er vom kindlichen Roboter Floyd, dessen Sprüche und Schicksal zu den bekanntesten Momenten der Spielgeschichte gehören. Steve Meretzky verband in seinem ersten Spiel Science-Fiction-Parodie, Zeitdruck und echte Gefühle.\n\nErschien 1983 als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; 1988 folgte eine Solid-Gold-Ausgabe mit eingebauten InvisiClues-Hilfen. Gespielt wird über die Tastatur.\n\nAutor: Steve Meretzky",
+    "en": "As the lowliest ensign of the Stellar Patrol, the player is scrubbing decks when his starship explodes and an escape pod carries him to an alien planet. The complex there is deserted, its inhabitants having fallen victim to a plague, and he himself gradually falls ill. He is accompanied by Floyd, a childlike robot whose quips and fate are among the best-known moments in game history. In his first game, Steve Meretzky combined science fiction parody, time pressure and genuine emotion.\n\nReleased in 1983 as a pure text adventure by Infocom for numerous systems, including the C64 on disk; a Solid Gold edition with built-in InvisiClues hints followed in 1988. It is played with the keyboard.\n\nAuthor: Steve Meretzky"
+  },
+  "images": {
+    "ss": "images/46/462a9444c2a5b0a87e944833103e1e54ee1bdf88.png"
+  }
+}

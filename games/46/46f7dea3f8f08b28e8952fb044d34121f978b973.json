@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "46f7dea3f8f08b28e8952fb044d34121f978b973",
+  "md5": "4caf2292e110faa6582ad013caf7fadd",
+  "crc32": "5735749d",
+  "size": 30099,
+  "format": "PRG",
+  "files": [
+    "ACE 2.prg"
+  ],
+  "screenscraper_id": "181867",
+  "title": "ACE 2",
+  "year": "1987",
+  "publisher": "Cascade Games",
+  "developer": "Ian Martin",
+  "genres": [
+    "Simulation",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "ACE 2 ist der Nachfolger der Flugsimulation ACE, legt den Schwerpunkt aber ganz auf das direkte Duell zweier Kampfjets. Der Bildschirm ist geteilt: Jeder Spieler sieht das Geschehen aus seinem eigenen Cockpit, mit Radar, Waffenwahl und Anzeigen. Ziel ist es, das gegnerische Flugzeug mit Raketen oder Bordkanone abzuschießen, bevor es einen selbst erwischt. Allein tritt man gegen einen computergesteuerten Gegner an, richtig zur Geltung kommt das Spiel aber mit zwei Spielern gleichzeitig. Die Musik von Rob Hubbard trägt zum guten Ruf bei.\n\nDas Spiel erschien 1987 auf Kassette und Diskette. Neben Cracks (teils mit Trainern und Optionsspeicher) gibt es Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit Joysticks; im Duell nutzt jeder Spieler einen eigenen Port.\n\nCode: Ian Martin · Grafik: Damon Redmond · Musik: Rob Hubbard",
+  "texts": {
+    "de": "ACE 2 ist der Nachfolger der Flugsimulation ACE, legt den Schwerpunkt aber ganz auf das direkte Duell zweier Kampfjets. Der Bildschirm ist geteilt: Jeder Spieler sieht das Geschehen aus seinem eigenen Cockpit, mit Radar, Waffenwahl und Anzeigen. Ziel ist es, das gegnerische Flugzeug mit Raketen oder Bordkanone abzuschießen, bevor es einen selbst erwischt. Allein tritt man gegen einen computergesteuerten Gegner an, richtig zur Geltung kommt das Spiel aber mit zwei Spielern gleichzeitig. Die Musik von Rob Hubbard trägt zum guten Ruf bei.\n\nDas Spiel erschien 1987 auf Kassette und Diskette. Neben Cracks (teils mit Trainern und Optionsspeicher) gibt es Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit Joysticks; im Duell nutzt jeder Spieler einen eigenen Port.\n\nCode: Ian Martin · Grafik: Damon Redmond · Musik: Rob Hubbard",
+    "en": "ACE 2 is the sequel to the flight simulation ACE but concentrates entirely on a head-to-head duel between two fighter jets. The screen is split: each player sees the action from their own cockpit, with radar, weapon selection and instruments. The aim is to shoot down the opposing aircraft with missiles or cannon before it strikes. Alone, the player faces a computer-controlled opponent, but the game really comes into its own with two players at once. Rob Hubbard's music adds to its good reputation.\n\nThe game was released in 1987 on cassette and disk. Besides cracked versions (some with trainers and an options saver) there are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with joysticks; in a duel each player uses a port of their own.\n\nCode: Ian Martin · Graphics: Damon Redmond · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/44/44060803bc124bac127d1ff9d56f5e57e762b168.png",
+    "sstitle": "images/3a/3a0460cb3c8ba3ff27f996c1f69d5eae24c50cd9.png"
+  }
+}

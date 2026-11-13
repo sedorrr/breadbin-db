@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "77fa0ffa9c42e6379394aa94eb8157c1d0f8f4fb",
+  "md5": "199f7f7d64b82bbbeaeaf08aa97e2909",
+  "crc32": "37f89e69",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Trinity (19xx)(Infocom)(Side A).d64"
+  ],
+  "screenscraper_id": "110295",
+  "title": "Trinity",
+  "year": "1986",
+  "publisher": "Infocom",
+  "developer": "Brian Moriarty",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Nur für den Commodore 128 im 80-Zeichen-Modus – auf dem C64 läuft dieses Spiel nicht.\n\nTrinity ist ein Textadventure von Brian Moriarty über das Atomzeitalter und gilt als eines der literarisch anspruchsvollsten Infocom-Spiele. Der Spieler ist ein Tourist in London, der in den Kensington Gardens den Beginn eines Atomkriegs erlebt und in eine seltsame Zwischenwelt entkommt. Von dort führen Tore zu Schauplätzen von Atomtests, bis hin zum ersten Test namens Trinity im Jahr 1945. Rätsel, Zeitreisen und ernste Themen sind eng miteinander verwoben.\n\nAuf Commodore-Rechnern erschien Trinity nur für den C128 im 128er-Modus mit 80-Zeichen-Bildschirm, da das Spiel für den C64 zu groß war; es liegt auf einer zweiseitigen Diskette mit Infocoms Interactive-Fiction-Plus-Interpreter. Eingegeben wird über die Tastatur.\n\nDesign und Code: Brian Moriarty",
+  "texts": {
+    "de": "Nur für den Commodore 128 im 80-Zeichen-Modus – auf dem C64 läuft dieses Spiel nicht.\n\nTrinity ist ein Textadventure von Brian Moriarty über das Atomzeitalter und gilt als eines der literarisch anspruchsvollsten Infocom-Spiele. Der Spieler ist ein Tourist in London, der in den Kensington Gardens den Beginn eines Atomkriegs erlebt und in eine seltsame Zwischenwelt entkommt. Von dort führen Tore zu Schauplätzen von Atomtests, bis hin zum ersten Test namens Trinity im Jahr 1945. Rätsel, Zeitreisen und ernste Themen sind eng miteinander verwoben.\n\nAuf Commodore-Rechnern erschien Trinity nur für den C128 im 128er-Modus mit 80-Zeichen-Bildschirm, da das Spiel für den C64 zu groß war; es liegt auf einer zweiseitigen Diskette mit Infocoms Interactive-Fiction-Plus-Interpreter. Eingegeben wird über die Tastatur.\n\nDesign und Code: Brian Moriarty",
+    "en": "For the Commodore 128 in 80-column mode only – this game does not run on the C64.\n\nTrinity is a text adventure by Brian Moriarty about the atomic age and is regarded as one of Infocom's most literary games. The player is a tourist in London who witnesses the start of a nuclear war in Kensington Gardens and escapes into a strange in-between world. From there, doors lead to the sites of nuclear tests, back to the first test, called Trinity, in 1945. Puzzles, time travel and serious themes are tightly interwoven.\n\nOn Commodore computers Trinity was released only for the C128 in 128 mode with an 80-column display, because the game was too large for the C64; it comes on a double-sided disk with Infocom's Interactive Fiction Plus interpreter. Input is via the keyboard.\n\nDesign and code: Brian Moriarty"
+  }
+}

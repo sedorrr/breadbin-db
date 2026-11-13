@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4c16dfe74cffb2d128132aefa65297792793e0f7",
+  "md5": "1335a10960fe7021abbf508978adc0d8",
+  "crc32": "e14c6620",
+  "size": 651462,
+  "format": "TAP",
+  "files": [
+    "720 Degrees (ERBE).tap"
+  ],
+  "screenscraper_id": "109402",
+  "title": "720°",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "developer": "Tiertex",
+  "genres": [
+    "Sport",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "720° ist die Umsetzung des Skateboard-Automaten von Atari Games aus dem Jahr 1986. Der Spieler fährt durch eine Vorstadt, nutzt Rampen und Hindernisse für Sprünge und Tricks und sammelt Punkte, um Eintrittskarten für vier Skateparks zu erhalten. Dort warten die Disziplinen Rampe, Abfahrt, Slalom und Sprung; mit dem gewonnenen Geld lässt sich die Ausrüstung verbessern. Ein Zeitlimit treibt zur Eile, denn bleibt der Spieler zu lange untätig, jagt ihn ein Bienenschwarm mit dem Ruf „Skate or die!“.\n\nDie europäische C64-Fassung erschien 1987 bei U.S. Gold auf Kassette und Diskette, später auch als Billigausgabe; in Nordamerika folgte eine eigene Fassung bei Mindscape. Gesteuert wird mit dem Joystick.\n\nEntwicklung (C64, Europa): Tiertex · Code laut Commodore User: Chris Butler",
+  "texts": {
+    "de": "720° ist die Umsetzung des Skateboard-Automaten von Atari Games aus dem Jahr 1986. Der Spieler fährt durch eine Vorstadt, nutzt Rampen und Hindernisse für Sprünge und Tricks und sammelt Punkte, um Eintrittskarten für vier Skateparks zu erhalten. Dort warten die Disziplinen Rampe, Abfahrt, Slalom und Sprung; mit dem gewonnenen Geld lässt sich die Ausrüstung verbessern. Ein Zeitlimit treibt zur Eile, denn bleibt der Spieler zu lange untätig, jagt ihn ein Bienenschwarm mit dem Ruf „Skate or die!“.\n\nDie europäische C64-Fassung erschien 1987 bei U.S. Gold auf Kassette und Diskette, später auch als Billigausgabe; in Nordamerika folgte eine eigene Fassung bei Mindscape. Gesteuert wird mit dem Joystick.\n\nEntwicklung (C64, Europa): Tiertex · Code laut Commodore User: Chris Butler",
+    "en": "720° is the conversion of Atari Games' 1986 skateboarding arcade game. The player skates through a suburb, uses ramps and obstacles for jumps and tricks and scores points to earn tickets for four skate parks. These hold the ramp, downhill, slalom and jump events; prize money can be spent on better equipment. A time limit keeps the pressure on, because if the player idles too long a swarm of bees gives chase with the cry “Skate or die!”.\n\nThe European C64 version was released in 1987 by U.S. Gold on tape and disk, later also as a budget release; North America got a separate version from Mindscape. It is controlled with a joystick.\n\nDevelopment (C64, Europe): Tiertex · Code according to Commodore User: Chris Butler"
+  },
+  "images": {
+    "sstitle": "images/88/887278fb7539d08e02767abf1b9dc5dcf3a11dbf.png"
+  }
+}

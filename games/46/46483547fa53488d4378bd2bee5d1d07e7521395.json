@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "46483547fa53488d4378bd2bee5d1d07e7521395",
+  "md5": "41553ce9c41170a91a5d1c6a111b0a92",
+  "crc32": "efe7db4c",
+  "size": 8791,
+  "format": "PRG",
+  "files": [
+    "Orbitron.prg"
+  ],
+  "screenscraper_id": "116470",
+  "title": "Orbitron",
+  "year": "1984",
+  "publisher": "Mastertronic",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Weltraum-Shooter aus dem Budget-Programm von Mastertronic. Als letzter Kampfpilot verteidigt der Spieler seinen Heimatplaneten Hyperion gegen angreifende Schiffe und Todeskapseln, während er rotierenden Sternhaufen und Kometen ausweichen muss. Werden Gegner einer Farbe abgeschossen, tauchen sie für eine Weile nicht wieder auf. Zwischen den Leveln wird die Musik schneller.\n\nErschien bei Mastertronic auf Kassette zum Budgetpreis und wurde mit dem Baukasten „The Games Creator“ erstellt; der Autor ist nicht bekannt. Heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.",
+  "texts": {
+    "de": "Weltraum-Shooter aus dem Budget-Programm von Mastertronic. Als letzter Kampfpilot verteidigt der Spieler seinen Heimatplaneten Hyperion gegen angreifende Schiffe und Todeskapseln, während er rotierenden Sternhaufen und Kometen ausweichen muss. Werden Gegner einer Farbe abgeschossen, tauchen sie für eine Weile nicht wieder auf. Zwischen den Leveln wird die Musik schneller.\n\nErschien bei Mastertronic auf Kassette zum Budgetpreis und wurde mit dem Baukasten „The Games Creator“ erstellt; der Autor ist nicht bekannt. Heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2.",
+    "en": "A space shooter from Mastertronic's budget range. As the last fighter pilot, the player defends his home planet Hyperion against attacking ships and death pods while dodging rotating star clusters and comets. Shooting down enemies of one colour keeps them from reappearing for a while. The music speeds up between levels.\n\nReleased by Mastertronic on cassette at a budget price and made with the construction kit \"The Games Creator\"; the author is unknown. Today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2."
+  },
+  "images": {
+    "ss": "images/94/94a71bcd6cd83beb4e8005924532516428bee33d.png"
+  }
+}

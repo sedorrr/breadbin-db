@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "6fb264a3a45880b9159eca14d274d3b33146a8ec",
+  "md5": "260edd3a517e8fceac7b91a17e77db84",
+  "crc32": "686203ad",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "Navy Seals.crt"
+  ],
+  "screenscraper_id": "36131",
+  "title": "Navy SEALs",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Spiel zum gleichnamigen Film: Lieutenant Dale Hawkins und seine Kampfschwimmereinheit sollen versteckte Stinger-Raketen in Feindeshand unschädlich machen. In seitlich scrollenden Abschnitten, unter anderem in Beirut, bringt er Sprengladungen an den Raketenkisten an und muss vor Ablauf der Zeit entkommen. Er kann sich an Vorsprüngen hochziehen, Leitern klettern, kriechen und in alle Richtungen springen; neben der Pistole finden sich in versteckten Kisten weitere Waffen. Unterwegs werden auch Geiseln befreit.\n\nDie C64-Fassung erschien bei Ocean als Modul. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: John Meegan · Grafik: Stephen Thomson · Musik: Matthew Cannon",
+  "texts": {
+    "de": "Spiel zum gleichnamigen Film: Lieutenant Dale Hawkins und seine Kampfschwimmereinheit sollen versteckte Stinger-Raketen in Feindeshand unschädlich machen. In seitlich scrollenden Abschnitten, unter anderem in Beirut, bringt er Sprengladungen an den Raketenkisten an und muss vor Ablauf der Zeit entkommen. Er kann sich an Vorsprüngen hochziehen, Leitern klettern, kriechen und in alle Richtungen springen; neben der Pistole finden sich in versteckten Kisten weitere Waffen. Unterwegs werden auch Geiseln befreit.\n\nDie C64-Fassung erschien bei Ocean als Modul. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: John Meegan · Grafik: Stephen Thomson · Musik: Matthew Cannon",
+    "en": "A tie-in to the film of the same name: Lieutenant Dale Hawkins and his SEAL unit are tasked with neutralising hidden Stinger missiles in enemy hands. In side-scrolling stages, including Beirut, he plants explosive charges on the missile crates and has to escape before time runs out. He can pull himself up on ledges, climb ladders, crawl and jump in any direction; besides his pistol, further weapons can be found in hidden crates. Hostages are also rescued along the way.\n\nThe C64 version was released by Ocean on cartridge. It is controlled with a joystick in port 2.\n\nCode: John Meegan · Graphics: Stephen Thomson · Music: Matthew Cannon"
+  },
+  "images": {
+    "sstitle": "images/ad/adcf0088c70bd68f12551e58865c988365a91533.png"
+  }
+}

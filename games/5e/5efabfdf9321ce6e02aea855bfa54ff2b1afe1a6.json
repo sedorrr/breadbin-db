@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5efabfdf9321ce6e02aea855bfa54ff2b1afe1a6",
+  "md5": "a23cf072a4d06ce6bbe1c8da29b0b30b",
+  "crc32": "f36fda2b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CRAZYCRS.D64"
+  ],
+  "screenscraper_id": "36835",
+  "title": "Crazy Cars",
+  "year": "1988",
+  "publisher": "Titus Software",
+  "developer": "Titus Software (C64: Jean-Charles Meyrignac)",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Bei einem Rennen quer durch die USA geht es gegen die Uhr über Landstraßen und Wüstenpisten; langsamere Fahrzeuge müssen überholt, Kuppen und Kurven gemeistert werden. Wer eine Etappe rechtzeitig schafft, steigt in einen stärkeren Wagen um, darunter Sportwagen wie Porsche, Lamborghini und Ferrari. Crazy Cars war der Auftakt der Rennspielreihe von Titus.\n\nDas Spiel erschien zuerst 1987 für 16-Bit-Rechner; die C64-Fassung brachte Titus 1988 heraus. Gesteuert wird mit dem Joystick in Port 2.\n\nCode (C64): Jean-Charles Meyrignac",
+  "texts": {
+    "de": "Bei einem Rennen quer durch die USA geht es gegen die Uhr über Landstraßen und Wüstenpisten; langsamere Fahrzeuge müssen überholt, Kuppen und Kurven gemeistert werden. Wer eine Etappe rechtzeitig schafft, steigt in einen stärkeren Wagen um, darunter Sportwagen wie Porsche, Lamborghini und Ferrari. Crazy Cars war der Auftakt der Rennspielreihe von Titus.\n\nDas Spiel erschien zuerst 1987 für 16-Bit-Rechner; die C64-Fassung brachte Titus 1988 heraus. Gesteuert wird mit dem Joystick in Port 2.\n\nCode (C64): Jean-Charles Meyrignac",
+    "en": "A race across the USA against the clock leads over country roads and desert tracks; slower vehicles have to be overtaken and crests and bends mastered. Finishing a stage in time earns a more powerful car, including sports cars such as a Porsche, Lamborghini and Ferrari. Crazy Cars was the start of Titus' racing series.\n\nThe game first appeared in 1987 on 16-bit computers; Titus released the C64 version in 1988. It is played with a joystick in port 2.\n\nCode (C64): Jean-Charles Meyrignac"
+  },
+  "images": {
+    "sstitle": "images/91/917ab0c5ca5c938e36fba7fa8ca2d98388193c58.png"
+  }
+}

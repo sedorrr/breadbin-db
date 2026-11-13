@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7317e791402a972a650be5fec36e38e9b42383ac",
+  "md5": "1133b625581e931f5dc31ed450c5870b",
+  "crc32": "b915d192",
+  "size": 303760,
+  "format": "CRT",
+  "files": [
+    "North & South.crt"
+  ],
+  "screenscraper_id": "115704",
+  "title": "North & South",
+  "year": "1991",
+  "publisher": "Infogrames",
+  "developer": "Infogrames",
+  "genres": [
+    "Strategie",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Humorvolles Strategiespiel über den Amerikanischen Bürgerkrieg nach der belgischen Comicreihe „Die Blauen Boys“ (Les Tuniques Bleues). Auf einer Karte der Vereinigten Staaten verschieben Nord- und Südstaaten abwechselnd ihre Armeen, besetzen Staaten und sichern sich Eisenbahnlinien und Goldnachschub. Treffen Truppen aufeinander oder wird ein Zug oder Fort angegriffen, wechselt das Spiel in Actionszenen, in denen Infanterie, Kavallerie und Kanonen direkt gesteuert werden. Gespielt wird gegen den Computer oder zu zweit; der Witz der Comicvorlage und die Verbindung von Strategie und Action machten es zum Klassiker.\n\nDas Original erschien 1989 für Amiga und Atari ST; die C64-Umsetzung stammt von Probe Software und erschien auf Diskette. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870. Gesteuert wird per Joystick in Port 2, zu zweit mit beiden Ports.\n\nCode: Daryl Bowers · Grafik: Lee Ames · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Humorvolles Strategiespiel über den Amerikanischen Bürgerkrieg nach der belgischen Comicreihe „Die Blauen Boys“ (Les Tuniques Bleues). Auf einer Karte der Vereinigten Staaten verschieben Nord- und Südstaaten abwechselnd ihre Armeen, besetzen Staaten und sichern sich Eisenbahnlinien und Goldnachschub. Treffen Truppen aufeinander oder wird ein Zug oder Fort angegriffen, wechselt das Spiel in Actionszenen, in denen Infanterie, Kavallerie und Kanonen direkt gesteuert werden. Gespielt wird gegen den Computer oder zu zweit; der Witz der Comicvorlage und die Verbindung von Strategie und Action machten es zum Klassiker.\n\nDas Original erschien 1989 für Amiga und Atari ST; die C64-Umsetzung stammt von Probe Software und erschien auf Diskette. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870. Gesteuert wird per Joystick in Port 2, zu zweit mit beiden Ports.\n\nCode: Daryl Bowers · Grafik: Lee Ames · Musik: Jeroen Tel",
+    "en": "A humorous strategy game about the American Civil War, based on the Belgian comic series \"Les Tuniques Bleues\" (The Bluecoats). On a map of the United States, North and South take turns moving their armies, occupying states and securing railways and gold supplies. When troops meet, or when a train or fort is attacked, the game switches to action scenes in which infantry, cavalry and cannons are controlled directly. It can be played against the computer or by two players; the wit of the comic and the blend of strategy and action made it a classic.\n\nThe original came out on the Amiga and Atari ST in 1989; the C64 conversion was made by Probe Software and released on disk. EasyFlash conversions also exist, including a MultiLoad64 version by $olo1870. Controlled by joystick in port 2, with both ports used for two players.\n\nCode: Daryl Bowers · Graphics: Lee Ames · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/9a/9a2127b3f910b8b528cfe2de155ef220e5ea4115.png"
+  }
+}

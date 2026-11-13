@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "5543796377e9624c22967ac5d73025c69be759d4",
+  "md5": "5e9d0be45ac4360cb77e33b3b570f4a9",
+  "crc32": "affb1dde",
+  "size": 180640,
+  "format": "CRT",
+  "files": [
+    "Hammerfist.crt"
+  ],
+  "screenscraper_id": "36542",
+  "title": "Hammerfist",
+  "year": "1990",
+  "publisher": "Activision",
+  "developer": "Vivid Image",
+  "genres": [
+    "Beat'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "In einer von einem Großkonzern beherrschten Zukunft kämpfen zwei holografische Klone gegen ihre Erschaffer: der kräftige Hammerfist mit einem Hammerarm und die akrobatische Metalisis. Man kann jederzeit zwischen beiden wechseln, wobei jede Figur eigene Fähigkeiten hat und manche Hindernisse nur mit der passenden überwunden werden. Die Abschnitte scrollen seitlich und sind voller Wachen, Roboter und Fallen. Grafisch gehörte das Spiel zu den aufwendigen C64-Titeln von Vivid Image.\n\nDie C64-Fassung erschien 1990 bei Activision auf Kassette und auf zwei Disketten. Gesteuert wird per Joystick in Port 2. Daneben gibt es eine Disk2EasyFlash-Umsetzung als Modul, die das Nachladen erspart.\n\nCode: John Twiddy · Grafik: Hugh Riley, Paul Docherty · Musik: Wally Beben",
+  "texts": {
+    "de": "In einer von einem Großkonzern beherrschten Zukunft kämpfen zwei holografische Klone gegen ihre Erschaffer: der kräftige Hammerfist mit einem Hammerarm und die akrobatische Metalisis. Man kann jederzeit zwischen beiden wechseln, wobei jede Figur eigene Fähigkeiten hat und manche Hindernisse nur mit der passenden überwunden werden. Die Abschnitte scrollen seitlich und sind voller Wachen, Roboter und Fallen. Grafisch gehörte das Spiel zu den aufwendigen C64-Titeln von Vivid Image.\n\nDie C64-Fassung erschien 1990 bei Activision auf Kassette und auf zwei Disketten. Gesteuert wird per Joystick in Port 2. Daneben gibt es eine Disk2EasyFlash-Umsetzung als Modul, die das Nachladen erspart.\n\nCode: John Twiddy · Grafik: Hugh Riley, Paul Docherty · Musik: Wally Beben",
+    "en": "In a future ruled by a mega-corporation, two holographic clones fight their creators: the muscular Hammerfist with a hammer arm and the acrobatic Metalisis. The player can switch between them at any time; each character has abilities of their own, and some obstacles can only be overcome with the right one. The side-scrolling stages are packed with guards, robots and traps. Graphically it was one of Vivid Image's most elaborate C64 titles.\n\nThe C64 version was released by Activision in 1990 on tape and on two disks. It is controlled with a joystick in port 2. There is also a Disk2EasyFlash cartridge conversion that avoids the loading.\n\nCode: John Twiddy · Graphics: Hugh Riley, Paul Docherty · Music: Wally Beben"
+  },
+  "images": {
+    "ss": "images/ae/ae058db353b8fe1ffb58b78df7db558b520fbec4.png",
+    "sstitle": "images/c1/c1db3e09a79abf878b8eae1437b9e7a0c0bc4bb0.png"
+  }
+}

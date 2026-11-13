@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "718c9027e511a290a37cf15e10176fc50c21edfb",
+  "md5": "3267e82485357c998dc0d21e8377dd05",
+  "crc32": "62e5dcaf",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Adventureland.crt"
+  ],
+  "screenscraper_id": "109527",
+  "title": "Adventureland",
+  "year": "1984",
+  "publisher": "Adventure International",
+  "developer": "Scott Adams; Grafikfassung: Brian Howarth",
+  "genres": [
+    "Abenteuer / Text",
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Adventureland ist das erste Textabenteuer von Scott Adams und eines der ersten kommerziellen Adventures für Heimcomputer überhaupt. In einer Märchenwelt mit Wald, Sumpf und Höhlen sucht man dreizehn verborgene Schätze und bringt sie an einen bestimmten Ort zurück. Eingaben bestehen aus einfachen Zwei-Wort-Befehlen wie „GO NORTH“ oder „GET LAMP“; viele Rätsel verlangen, Gegenstände an der richtigen Stelle zu benutzen. Das Spiel begründete die lange Reihe der Scott-Adams-Adventures.\n\nUrsprünglich 1978 für den TRS-80 geschrieben, erschien Adventureland auf dem C64 in mehreren Fassungen: als reine Textfassung und ab 1984 als „SAGA“-Fassung mit Bildern zu den Orten, umgesetzt von Brian Howarth (in den USA über Thunder Mountain vertrieben). Dazu gibt es Modulumsetzungen aus der OneLoad64-Sammlung. Gespielt wird über die Tastatur.\n\nSpieldesign: Scott Adams · Code (Grafikfassung): Brian Howarth",
+  "texts": {
+    "de": "Adventureland ist das erste Textabenteuer von Scott Adams und eines der ersten kommerziellen Adventures für Heimcomputer überhaupt. In einer Märchenwelt mit Wald, Sumpf und Höhlen sucht man dreizehn verborgene Schätze und bringt sie an einen bestimmten Ort zurück. Eingaben bestehen aus einfachen Zwei-Wort-Befehlen wie „GO NORTH“ oder „GET LAMP“; viele Rätsel verlangen, Gegenstände an der richtigen Stelle zu benutzen. Das Spiel begründete die lange Reihe der Scott-Adams-Adventures.\n\nUrsprünglich 1978 für den TRS-80 geschrieben, erschien Adventureland auf dem C64 in mehreren Fassungen: als reine Textfassung und ab 1984 als „SAGA“-Fassung mit Bildern zu den Orten, umgesetzt von Brian Howarth (in den USA über Thunder Mountain vertrieben). Dazu gibt es Modulumsetzungen aus der OneLoad64-Sammlung. Gespielt wird über die Tastatur.\n\nSpieldesign: Scott Adams · Code (Grafikfassung): Brian Howarth",
+    "en": "Adventureland is Scott Adams' first text adventure and one of the very first commercial adventure games for home computers. In a fairy-tale world of forest, swamp and caves the player searches for thirteen hidden treasures and brings them back to a particular place. Input consists of simple two-word commands such as \"GO NORTH\" or \"GET LAMP\"; many puzzles require using items in the right place. The game launched the long series of Scott Adams adventures.\n\nOriginally written in 1978 for the TRS-80, Adventureland appeared on the C64 in several versions: a text-only version and, from 1984, a \"SAGA\" version with pictures of the locations, converted by Brian Howarth (distributed in the US by Thunder Mountain). There are also cartridge conversions from the OneLoad64 collection. It is played with the keyboard.\n\nGame design: Scott Adams · Code (graphical version): Brian Howarth"
+  },
+  "images": {
+    "sstitle": "images/08/08d2a0e1a37a05a3adff6dc9cc8d9fae42b93224.png"
+  }
+}

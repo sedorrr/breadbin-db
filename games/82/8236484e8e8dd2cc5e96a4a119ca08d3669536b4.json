@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8236484e8e8dd2cc5e96a4a119ca08d3669536b4",
+  "md5": "630f6e6ce23356066ba78ea2c711e7f0",
+  "crc32": "e6dbd4fd",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Elidon.crt"
+  ],
+  "screenscraper_id": "111848",
+  "title": "Elidon",
+  "year": "1985",
+  "publisher": "Orpheus",
+  "developer": "Orpheus (Brian Brunswick, John B. Marshall)",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Eine Fee fliegt durch einen verwunschenen Wald aus über 300 Einzelbildern. Sie soll sieben Flaschen Zauberwasser finden, damit sieben Blumen zum Blühen bringen und die Blüten vor dem Ball in den Kranz der Feenkönigin flechten. Gegner rauben Energie oder bringen die Fee zum Absturz, Feenstaub füllt die Kraft wieder auf. Fackel, Panflöte und Schalmei helfen in dunklen Räumen und öffnen versperrte Wege. Die märchenhafte Stimmung und die ruhige, dreistimmige Musik heben Elidon von den üblichen Actionspielen ab.\n\nElidon erschien 1985 bei Orpheus für C64, Amstrad CPC und MSX. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur; die Musik lässt sich abschalten. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Brian Brunswick · Grafik: John B. Marshall · Musik: Jon Maskill",
+  "texts": {
+    "de": "Eine Fee fliegt durch einen verwunschenen Wald aus über 300 Einzelbildern. Sie soll sieben Flaschen Zauberwasser finden, damit sieben Blumen zum Blühen bringen und die Blüten vor dem Ball in den Kranz der Feenkönigin flechten. Gegner rauben Energie oder bringen die Fee zum Absturz, Feenstaub füllt die Kraft wieder auf. Fackel, Panflöte und Schalmei helfen in dunklen Räumen und öffnen versperrte Wege. Die märchenhafte Stimmung und die ruhige, dreistimmige Musik heben Elidon von den üblichen Actionspielen ab.\n\nElidon erschien 1985 bei Orpheus für C64, Amstrad CPC und MSX. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur; die Musik lässt sich abschalten. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Brian Brunswick · Grafik: John B. Marshall · Musik: Jon Maskill",
+    "en": "A fairy flies through an enchanted forest of more than 300 flip screens. She has to find seven bottles of magic water, use them to make seven flowers bloom and weave the blossoms into the Fairy Queen's wreath before the ball. Enemies drain her energy or make her fall, while fairy dust restores her strength. A torch, pan pipes and a shawm help in dark rooms and open blocked paths. The fairy-tale atmosphere and the calm three-voice music set Elidon apart from the usual action games.\n\nElidon was released by Orpheus in 1985 for the C64, Amstrad CPC and MSX. It is played with a joystick in port 2 or the keyboard; the music can be switched off. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Brian Brunswick · Graphics: John B. Marshall · Music: Jon Maskill"
+  },
+  "images": {
+    "ss": "images/10/10643053b9b7bd17d8104ea9c8d5e48df29b9090.png"
+  }
+}

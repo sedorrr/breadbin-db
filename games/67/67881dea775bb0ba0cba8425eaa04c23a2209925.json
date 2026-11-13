@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "67881dea775bb0ba0cba8425eaa04c23a2209925",
+  "md5": "bd3c5872f53c987f7a87e27b6615afae",
+  "crc32": "496cbbd5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DEUSMACH.D64"
+  ],
+  "screenscraper_id": "111579",
+  "title": "Deus Ex Machina",
+  "year": "1986",
+  "publisher": "Electric Dreams / Automata UK",
+  "developer": "Automata UK (Mel Croucher); C64-Fassung: Colin Jones",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Deus Ex Machina ist weniger ein klassisches Spiel als ein interaktives Kunstprojekt: Es begleitet ein Wesen von der Befruchtung über Kindheit, Erwachsenenalter und Alter bis zum Tod. Die einzelnen Lebensabschnitte bestehen aus kurzen, abstrakten Geschicklichkeitsaufgaben, deren Ergebnis eher über die Wertung als über das Weiterkommen entscheidet. Erdacht hat es Mel Croucher von Automata UK, der damit schon 1984 auf dem ZX Spectrum zeigen wollte, dass Computerspiele mehr sein können als Schießen und Punktejagd. Es gilt heute als eines der frühesten Beispiele für Spiele als Kunstform.\n\nZum Spiel gehört eine eigene Hörspiel- und Musikkassette, die parallel zum Programm abgespielt wird; Bild und Ton müssen zu Beginn von Hand synchronisiert werden. Auf dem C64 erschien das Spiel 1986 auf Kassette über Electric Dreams, umgesetzt von Colin Jones. Gesteuert wird mit dem Joystick (laut Datenbanken in Port 1) oder der Tastatur. Ohne die Begleitkassette fehlt ein wesentlicher Teil des Erlebnisses.\n\nIdee, Text und Musik: Mel Croucher · Code (C64): Colin Jones",
+  "texts": {
+    "de": "Deus Ex Machina ist weniger ein klassisches Spiel als ein interaktives Kunstprojekt: Es begleitet ein Wesen von der Befruchtung über Kindheit, Erwachsenenalter und Alter bis zum Tod. Die einzelnen Lebensabschnitte bestehen aus kurzen, abstrakten Geschicklichkeitsaufgaben, deren Ergebnis eher über die Wertung als über das Weiterkommen entscheidet. Erdacht hat es Mel Croucher von Automata UK, der damit schon 1984 auf dem ZX Spectrum zeigen wollte, dass Computerspiele mehr sein können als Schießen und Punktejagd. Es gilt heute als eines der frühesten Beispiele für Spiele als Kunstform.\n\nZum Spiel gehört eine eigene Hörspiel- und Musikkassette, die parallel zum Programm abgespielt wird; Bild und Ton müssen zu Beginn von Hand synchronisiert werden. Auf dem C64 erschien das Spiel 1986 auf Kassette über Electric Dreams, umgesetzt von Colin Jones. Gesteuert wird mit dem Joystick (laut Datenbanken in Port 1) oder der Tastatur. Ohne die Begleitkassette fehlt ein wesentlicher Teil des Erlebnisses.\n\nIdee, Text und Musik: Mel Croucher · Code (C64): Colin Jones",
+    "en": "Deus Ex Machina is less a conventional game than an interactive art piece: it follows a being from conception through childhood, adulthood and old age to death. Each stage of life is a short, abstract test of skill whose outcome affects the score rather than whether the player can carry on. It was conceived by Mel Croucher of Automata UK, who set out on the ZX Spectrum in 1984 to show that computer games could be more than shooting and chasing points. Today it is regarded as one of the earliest examples of games as an art form.\n\nThe game comes with its own audio cassette of narration and music that is played alongside the program; picture and sound have to be synchronised by hand at the start. On the C64 it was released on cassette in 1986 by Electric Dreams, converted by Colin Jones. It is controlled with a joystick (port 1 according to game databases) or the keyboard. Without the accompanying tape a large part of the experience is missing.\n\nConcept, script and music: Mel Croucher · Code (C64): Colin Jones"
+  },
+  "images": {
+    "sstitle": "images/84/84e4567e3c795831032fd5ae57cbe142a365d351.png"
+  }
+}

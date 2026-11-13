@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4b34cd58409195992c683cf66360f1cb4deb3565",
+  "md5": "6bb88760342e01b45233a2b64458b91d",
+  "crc32": "f3701664",
+  "size": 311968,
+  "format": "CRT",
+  "files": [
+    "Labyrinth.crt",
+    "Labyrinth [EasyFlash].crt"
+  ],
+  "screenscraper_id": "114138",
+  "title": "Labyrinth",
+  "year": "1986",
+  "publisher": "Activision",
+  "developer": "Lucasfilm Games",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Grafikadventure nach dem Film „Die Reise ins Labyrinth“ von Jim Henson. Der Spieler gibt zu Beginn Namen und Aussehen seiner Figur ein und wird vom Koboldkönig Jareth in dessen Labyrinth versetzt, wo er ihn innerhalb von 13 Stunden Spielzeit finden und besiegen muss. Statt einer Texteingabe wählt man Verben und Gegenstände aus zwei rollenden Wortlisten, während die Figur per Joystick durch die seitlich gezeigten Schauplätze läuft. Das Spiel war eines der ersten Projekte von Lucasfilm Games im Adventure-Bereich und gilt als Vorläufer der späteren Lucasfilm-Adventures; an frühen Entwürfen war Douglas Adams beteiligt.\n\nErschien bei Activision auf zwei Disketten; daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2.\n\nCode: David Fox · Grafik: Gary Winnick, Ken Macklin",
+  "texts": {
+    "de": "Grafikadventure nach dem Film „Die Reise ins Labyrinth“ von Jim Henson. Der Spieler gibt zu Beginn Namen und Aussehen seiner Figur ein und wird vom Koboldkönig Jareth in dessen Labyrinth versetzt, wo er ihn innerhalb von 13 Stunden Spielzeit finden und besiegen muss. Statt einer Texteingabe wählt man Verben und Gegenstände aus zwei rollenden Wortlisten, während die Figur per Joystick durch die seitlich gezeigten Schauplätze läuft. Das Spiel war eines der ersten Projekte von Lucasfilm Games im Adventure-Bereich und gilt als Vorläufer der späteren Lucasfilm-Adventures; an frühen Entwürfen war Douglas Adams beteiligt.\n\nErschien bei Activision auf zwei Disketten; daneben gibt es EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 2.\n\nCode: David Fox · Grafik: Gary Winnick, Ken Macklin",
+    "en": "A graphic adventure based on Jim Henson's film \"Labyrinth\". At the start the player enters a name and chooses the look of the character, who is then transported by the Goblin King Jareth into his labyrinth and must find and defeat him within 13 hours of game time. Instead of typing commands, the player picks verbs and objects from two scrolling word lists while walking the character through side-on locations with the joystick. It was one of Lucasfilm Games' first adventure projects and is seen as a forerunner of the later Lucasfilm adventures; Douglas Adams was involved in early design sessions.\n\nReleased by Activision on two disks; EasyFlash cartridge conversions also exist. Controlled by joystick in port 2.\n\nCode: David Fox · Graphics: Gary Winnick, Ken Macklin"
+  },
+  "images": {
+    "sstitle": "images/9e/9efb5165ce5cda65725a2760abc61735b096733d.png"
+  }
+}

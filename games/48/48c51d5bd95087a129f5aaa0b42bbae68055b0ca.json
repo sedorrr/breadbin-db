@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "48c51d5bd95087a129f5aaa0b42bbae68055b0ca",
+  "md5": "e545c535a86005daff8b1098ecbaffde",
+  "crc32": "77a2968a",
+  "size": 311968,
+  "format": "CRT",
+  "files": [
+    "Golden Axe (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "112630",
+  "title": "Golden Axe",
+  "year": "1990",
+  "publisher": "Virgin Mastertronic",
+  "developer": "Probe Software (Steve Crow, Mark Kelly)",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Sega-Automaten von 1989: Einer von drei Helden – ein Barbar, eine Amazone oder ein Zwerg – kämpft sich in fünf Abschnitten bis zur Burg des Tyrannen Death Adder vor, um die goldene Axt zurückzuholen. Neben Hieben und Sprungangriffen gibt es Zaubersprüche, deren Stärke von den eingesammelten Zaubertöpfen abhängt. Gegner können von ihren Reittieren gestoßen werden, die der Held dann selbst nutzt. Golden Axe gehört zu den bekanntesten Fantasy-Prügelspielen der Spielhallen.\n\nDie C64-Fassung erschien auf Diskette und Kassette. Gegenüber dem Automaten ist sie deutlich abgespeckt: weniger Figuren gleichzeitig auf dem Bildschirm und kein gemeinsames Spiel zu zweit. Gesteuert wird mit dem Joystick in Port 2. Es gibt außerdem eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul, die das Nachladen von Diskette überflüssig macht.\n\nCode: Steve Crow, Mark Kelly · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Umsetzung des Sega-Automaten von 1989: Einer von drei Helden – ein Barbar, eine Amazone oder ein Zwerg – kämpft sich in fünf Abschnitten bis zur Burg des Tyrannen Death Adder vor, um die goldene Axt zurückzuholen. Neben Hieben und Sprungangriffen gibt es Zaubersprüche, deren Stärke von den eingesammelten Zaubertöpfen abhängt. Gegner können von ihren Reittieren gestoßen werden, die der Held dann selbst nutzt. Golden Axe gehört zu den bekanntesten Fantasy-Prügelspielen der Spielhallen.\n\nDie C64-Fassung erschien auf Diskette und Kassette. Gegenüber dem Automaten ist sie deutlich abgespeckt: weniger Figuren gleichzeitig auf dem Bildschirm und kein gemeinsames Spiel zu zweit. Gesteuert wird mit dem Joystick in Port 2. Es gibt außerdem eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul, die das Nachladen von Diskette überflüssig macht.\n\nCode: Steve Crow, Mark Kelly · Musik: Jeroen Tel",
+    "en": "A conversion of Sega's 1989 arcade game: one of three heroes – a barbarian, an amazon or a dwarf – fights through five stages to the castle of the tyrant Death Adder to recover the golden axe. Besides blows and jump attacks there are magic spells whose power depends on the number of magic pots collected. Enemies can be knocked off their mounts, which the hero can then ride himself. Golden Axe is one of the best-known fantasy brawlers of the arcades.\n\nThe C64 version was released on disk and tape. It is clearly cut down compared with the arcade: fewer characters on screen at once and no simultaneous two-player mode. It is controlled with a joystick in port 2. There is also a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge, which removes the need to load from disk.\n\nCode: Steve Crow, Mark Kelly · Music: Jeroen Tel"
+  },
+  "images": {
+    "sstitle": "images/bb/bba4a8710a97e51af6c1d7cca3f4bc696183343f.png"
+  }
+}

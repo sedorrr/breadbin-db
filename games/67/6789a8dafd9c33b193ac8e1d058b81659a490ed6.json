@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "6789a8dafd9c33b193ac8e1d058b81659a490ed6",
+  "md5": "b824f90bf2e57b85928021760a462dbe",
+  "crc32": "e95cda5a",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Eliminator.crt"
+  ],
+  "screenscraper_id": "36840",
+  "title": "Eliminator",
+  "year": "1988",
+  "publisher": "Hewson",
+  "developer": "John Phillips (Entwurf); C64: Tim Rogers",
+  "genres": [
+    "Shoot'em Up",
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Ein schwer bewaffnetes Fahrzeug jagt in 3D-Sicht über eine schwebende Straße, auf der Hindernisse, Rampen und feindliche Geschütze lauern. In Tunnelabschnitten kann das Fahrzeug an die Decke wechseln und kopfüber weiterfahren. Gegner werden abgeschossen, aufgesammelte Extras verbessern die Waffen. Das Spiel verbindet Rennspiel und Ballerei mit hohem Tempo.\n\nEliminator erschien 1988 bei Hewson für mehrere Rechner; die C64-Umsetzung programmierte Tim Rogers, sie kam auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Tim Rogers · Grafik: Darrin Stubbington, Hugh Binns, Stephen Robertson · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Ein schwer bewaffnetes Fahrzeug jagt in 3D-Sicht über eine schwebende Straße, auf der Hindernisse, Rampen und feindliche Geschütze lauern. In Tunnelabschnitten kann das Fahrzeug an die Decke wechseln und kopfüber weiterfahren. Gegner werden abgeschossen, aufgesammelte Extras verbessern die Waffen. Das Spiel verbindet Rennspiel und Ballerei mit hohem Tempo.\n\nEliminator erschien 1988 bei Hewson für mehrere Rechner; die C64-Umsetzung programmierte Tim Rogers, sie kam auf Kassette und Diskette. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode: Tim Rogers · Grafik: Darrin Stubbington, Hugh Binns, Stephen Robertson · Musik: Jeroen Tel",
+    "en": "A heavily armed vehicle races in 3D view along a floating road full of obstacles, ramps and enemy guns. In tunnel sections the vehicle can switch to the ceiling and drive on upside down. Enemies are shot down and collected extras improve the weapons. The game combines racing and shooting at high speed.\n\nEliminator was released by Hewson in 1988 for several computers; the C64 conversion was programmed by Tim Rogers and came on tape and disk. It is controlled with a joystick in port 2. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode: Tim Rogers · Graphics: Darrin Stubbington, Hugh Binns, Stephen Robertson · Music: Jeroen Tel"
+  },
+  "images": {
+    "sstitle": "images/1a/1a13d210bf2b55b4bcaf859eb139129c709f8e42.png"
+  }
+}

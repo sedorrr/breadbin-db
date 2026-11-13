@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "7779ad166854f28f06404ee1ce420b73064a4668",
+  "md5": "667b8caa6e6ac46db1b1e1f25244db91",
+  "crc32": "66ee61fd",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Oil's Well.crt"
+  ],
+  "screenscraper_id": "116415",
+  "title": "Oil's Well",
+  "year": "1983",
+  "publisher": "Sierra On-Line",
+  "developer": "Thomas J. Mitchell (C64: R. B. Stuart)",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Ein Bohrkopf frisst sich durch unterirdische Gänge und sammelt Öltropfen; hinter ihm zieht sich die Rohrleitung bis zur Bohrstelle an der Oberfläche. Den Bohrkopf können die umherkriechenden Kreaturen nicht verletzen, wohl aber die Leitung – auf Knopfdruck zieht sich der Kopf deshalb blitzschnell zurück. In acht Leveln werden die Labyrinthe immer verzweigter und die Gegner zahlreicher. Das Spielprinzip übernimmt den Automaten Anteater und kleidet ihn in ein Öl-Thema.\n\nOil's Well erschien 1983 zuerst für die Atari-8-Bit-Rechner, die C64-Fassung folgte bei Sierra auf Diskette; außerdem gab es eine Modulfassung. Gesteuert wird mit dem Joystick in Port 1. Daneben gibt es eine Umsetzung als OneLoad64-Modul.\n\nDesign (Atari-Original): Thomas J. Mitchell · Code (C64): R. B. Stuart",
+  "texts": {
+    "de": "Ein Bohrkopf frisst sich durch unterirdische Gänge und sammelt Öltropfen; hinter ihm zieht sich die Rohrleitung bis zur Bohrstelle an der Oberfläche. Den Bohrkopf können die umherkriechenden Kreaturen nicht verletzen, wohl aber die Leitung – auf Knopfdruck zieht sich der Kopf deshalb blitzschnell zurück. In acht Leveln werden die Labyrinthe immer verzweigter und die Gegner zahlreicher. Das Spielprinzip übernimmt den Automaten Anteater und kleidet ihn in ein Öl-Thema.\n\nOil's Well erschien 1983 zuerst für die Atari-8-Bit-Rechner, die C64-Fassung folgte bei Sierra auf Diskette; außerdem gab es eine Modulfassung. Gesteuert wird mit dem Joystick in Port 1. Daneben gibt es eine Umsetzung als OneLoad64-Modul.\n\nDesign (Atari-Original): Thomas J. Mitchell · Code (C64): R. B. Stuart",
+    "en": "A drill head eats its way through underground tunnels collecting drops of oil, trailing a pipeline back to the rig on the surface. The crawling creatures cannot harm the drill head, but they can damage the pipe – so at the push of a button the head retracts in a flash. Over eight levels the mazes become more branched and the enemies more numerous. The concept takes the arcade game Anteater and gives it an oil theme.\n\nOil's Well first appeared in 1983 on Atari 8-bit computers; the C64 version followed from Sierra on disk, and there was also a cartridge version. It is played with a joystick in port 1. There is also a OneLoad64 cartridge conversion.\n\nDesign (Atari original): Thomas J. Mitchell · Code (C64): R. B. Stuart"
+  },
+  "images": {
+    "ss": "images/e1/e11384af8d270f4d64cdff1a65dbdf29caf931c3.png",
+    "sstitle": "images/b5/b53efbf1f6e7a8b75161450add06317b6640def2.png"
+  }
+}

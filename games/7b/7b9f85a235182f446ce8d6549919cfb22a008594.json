@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "7b9f85a235182f446ce8d6549919cfb22a008594",
+  "md5": "13f8ab4875f1d339fff2c9a5056f9579",
+  "crc32": "fc7d1edb",
+  "size": 89654,
+  "format": "T64",
+  "files": [
+    "BMXSIM1.T64"
+  ],
+  "screenscraper_id": "36052",
+  "title": "BMX Simulator",
+  "year": "1986",
+  "publisher": "Codemasters",
+  "developer": "Richard Darling",
+  "genres": [
+    "Rennen",
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "BMX Simulator ist ein Rennspiel aus der Draufsicht: Auf einer Strecke, die vollständig auf einen Bildschirm passt, fährt man mit dem BMX-Rad gegen einen Computerfahrer oder einen zweiten Spieler. Die sieben Strecken haben Rampen, Steilkurven und Bodenwellen, und von Strecke zu Strecke wird das Zeitlimit enger. Wer im Limit bleibt, kommt weiter, auch wenn er das Rennen verliert. Nach jedem Rennen lässt sich eine Wiederholung ansehen, auf Tastendruck in Zeitlupe. Das Spiel war einer der ersten großen Erfolge von Codemasters und begründete die „Simulator“-Reihe des Hauses.\n\nDas Spiel erschien 1986 als Billigtitel auf Kassette. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick (laut C64-Wiki Port 1) oder der Tastatur; zu zweit fahren beide Spieler gleichzeitig. Musik läuft nur im Titelmenü.\n\nCode und Grafik: Richard Darling · Musik: David Whittaker",
+  "texts": {
+    "de": "BMX Simulator ist ein Rennspiel aus der Draufsicht: Auf einer Strecke, die vollständig auf einen Bildschirm passt, fährt man mit dem BMX-Rad gegen einen Computerfahrer oder einen zweiten Spieler. Die sieben Strecken haben Rampen, Steilkurven und Bodenwellen, und von Strecke zu Strecke wird das Zeitlimit enger. Wer im Limit bleibt, kommt weiter, auch wenn er das Rennen verliert. Nach jedem Rennen lässt sich eine Wiederholung ansehen, auf Tastendruck in Zeitlupe. Das Spiel war einer der ersten großen Erfolge von Codemasters und begründete die „Simulator“-Reihe des Hauses.\n\nDas Spiel erschien 1986 als Billigtitel auf Kassette. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick (laut C64-Wiki Port 1) oder der Tastatur; zu zweit fahren beide Spieler gleichzeitig. Musik läuft nur im Titelmenü.\n\nCode und Grafik: Richard Darling · Musik: David Whittaker",
+    "en": "BMX Simulator is a top-down racing game: on a track that fits entirely on one screen the player races a BMX bike against a computer rider or a second player. The seven tracks feature ramps, banked curves and bumps, and the time limit gets tighter from track to track. Anyone who stays within the limit progresses, even after losing the race. After each race a replay can be watched, in slow motion at the press of a key. The game was one of Codemasters' first big hits and launched the company's \"Simulator\" series.\n\nThe game was released in 1986 as a budget title on cassette. There are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick (port 1 according to the C64-Wiki) or the keyboard; with two players both race at the same time. Music plays only on the title menu.\n\nCode and graphics: Richard Darling · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/55/55575d1ace9bf227c429c936bf50fbe53df387c0.png",
+    "sstitle": "images/19/19fb8ca28648cf0a98f9c46be256b959376b54f4.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "68e7c57f16f8f3d05bb0ea64ed5133b075f2c849",
+  "md5": "2d91cf7411f4644f3a56b138340828e7",
+  "crc32": "a1143df5",
+  "size": 98560,
+  "format": "CRT",
+  "files": [
+    "Mercs.crt"
+  ],
+  "screenscraper_id": "36508",
+  "title": "Mercs",
+  "year": "1991",
+  "publisher": "U.S. Gold",
+  "developer": "Tiertex",
+  "genres": [
+    "Shoot'em Up / Vertikal",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Mercs ist die Umsetzung des Capcom-Automaten von 1990, einer Fortsetzung von Commando. Eine Söldnertruppe soll einen entführten ehemaligen US-Präsidenten aus der Gewalt von Rebellen in einem afrikanischen Land befreien. Im senkrecht scrollenden Gelände schießt sich der Spieler durch Soldaten, Panzer und Hubschrauber, sammelt stärkere Waffen und setzt Bomben ein, die alle Gegner auf dem Bildschirm treffen. Fahrzeuge wie Jeeps und Boote lassen sich zeitweise übernehmen.\n\nDie C64-Fassung erschien 1991 bei U.S. Gold in Europa und wurde von Tiertex umgesetzt; an das Tempo des Automaten kommt sie nicht heran. Gesteuert wird mit dem Joystick. Eine EasyFlash-Umsetzung erspart das Nachladen.\n\nEntwicklung: Tiertex",
+  "texts": {
+    "de": "Mercs ist die Umsetzung des Capcom-Automaten von 1990, einer Fortsetzung von Commando. Eine Söldnertruppe soll einen entführten ehemaligen US-Präsidenten aus der Gewalt von Rebellen in einem afrikanischen Land befreien. Im senkrecht scrollenden Gelände schießt sich der Spieler durch Soldaten, Panzer und Hubschrauber, sammelt stärkere Waffen und setzt Bomben ein, die alle Gegner auf dem Bildschirm treffen. Fahrzeuge wie Jeeps und Boote lassen sich zeitweise übernehmen.\n\nDie C64-Fassung erschien 1991 bei U.S. Gold in Europa und wurde von Tiertex umgesetzt; an das Tempo des Automaten kommt sie nicht heran. Gesteuert wird mit dem Joystick. Eine EasyFlash-Umsetzung erspart das Nachladen.\n\nEntwicklung: Tiertex",
+    "en": "Mercs is the conversion of Capcom's 1990 arcade game, a sequel to Commando. A mercenary squad has to free a kidnapped former US president from rebels in an African country. Through vertically scrolling terrain the player shoots his way past soldiers, tanks and helicopters, picks up stronger weapons and uses bombs that hit every enemy on screen. Vehicles such as jeeps and boats can be commandeered for a while.\n\nThe C64 version was released in 1991 by U.S. Gold in Europe and was converted by Tiertex; it cannot match the pace of the arcade game. It is controlled with a joystick. An EasyFlash conversion avoids reloading.\n\nDevelopment: Tiertex"
+  },
+  "images": {
+    "ss": "images/b4/b473464bc192959fc71569f3377d6bb68585e031.png",
+    "sstitle": "images/66/66754a60a7f2f9268292cd0cf1c3f234932da27c.png"
+  }
+}

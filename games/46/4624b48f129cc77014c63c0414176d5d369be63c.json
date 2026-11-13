@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4624b48f129cc77014c63c0414176d5d369be63c",
+  "md5": "37487851e72185c24c240307b8a5cb2a",
+  "crc32": "02cd8572",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BRWTIME0.D64"
+  ],
+  "screenscraper_id": "110140",
+  "title": "Borrowed Time",
+  "year": "1985",
+  "publisher": "Activision",
+  "developer": "Interplay Productions; Geschichte: Subway Software",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Borrowed Time ist ein Krimiabenteuer im Stil der Detektivromane der dreißiger Jahre. Der Privatdetektiv Sam Harlow erfährt, dass jemand ihn umbringen lassen will, und muss herausfinden, wer hinter dem Mordauftrag steckt, bevor die Killer Erfolg haben. Die Orte sind als Bilder dargestellt, Befehle werden eingetippt oder über Listen und Anklicken im Bild gewählt. Gleich zu Beginn drängt die Zeit, denn wer zu lange zögert, wird erschossen. Kritiker lobten die filmische Inszenierung des Spiels.\n\nErschien 1985 bei Activision für mehrere Systeme, darunter den C64 auf Diskette; Mastertronic brachte es später als Billigausgabe unter dem Titel Time to Die heraus. Bedient wird mit Tastatur und Joystick in Port 2. Neben der Diskettenfassung gibt es eine EasyFlash-Umsetzung ohne Nachladen von Diskette.\n\nGeschichte: Subway Software (Bill Kunkel u. a.) · Code: Interplay Productions",
+  "texts": {
+    "de": "Borrowed Time ist ein Krimiabenteuer im Stil der Detektivromane der dreißiger Jahre. Der Privatdetektiv Sam Harlow erfährt, dass jemand ihn umbringen lassen will, und muss herausfinden, wer hinter dem Mordauftrag steckt, bevor die Killer Erfolg haben. Die Orte sind als Bilder dargestellt, Befehle werden eingetippt oder über Listen und Anklicken im Bild gewählt. Gleich zu Beginn drängt die Zeit, denn wer zu lange zögert, wird erschossen. Kritiker lobten die filmische Inszenierung des Spiels.\n\nErschien 1985 bei Activision für mehrere Systeme, darunter den C64 auf Diskette; Mastertronic brachte es später als Billigausgabe unter dem Titel Time to Die heraus. Bedient wird mit Tastatur und Joystick in Port 2. Neben der Diskettenfassung gibt es eine EasyFlash-Umsetzung ohne Nachladen von Diskette.\n\nGeschichte: Subway Software (Bill Kunkel u. a.) · Code: Interplay Productions",
+    "en": "Borrowed Time is a crime adventure in the style of 1930s detective fiction. Private eye Sam Harlow learns that someone wants him dead and has to find out who ordered the hit before the killers succeed. Locations are shown as pictures, and commands are typed in or chosen from lists and by clicking in the picture. Time is pressing right from the start, since anyone who hesitates too long gets shot. Critics praised the game's cinematic presentation.\n\nReleased by Activision in 1985 for several systems, including the C64 on disk; Mastertronic later reissued it as a budget title under the name Time to Die. It is operated with keyboard and a joystick in port 2. Besides the disk version, there is an EasyFlash conversion without disk loading.\n\nStory: Subway Software (Bill Kunkel et al.) · Code: Interplay Productions"
+  },
+  "images": {
+    "ss": "images/6c/6c0403a02ba4c0b9c0e5be3c3a7e984bf2fe8a84.png",
+    "sstitle": "images/7b/7b06d1c47f57b5ffd279eda2d544162f797fc30a.png"
+  }
+}

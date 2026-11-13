@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "557550c8f912f5100c46702c31c7ddd1770ed287",
+  "md5": "f694150a7f5163bb19c198f1abef2a5e",
+  "crc32": "cafbe0f0",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Gremlins - The Adventure.crt"
+  ],
+  "screenscraper_id": "36088",
+  "title": "Gremlins: The Adventure",
+  "year": "1985",
+  "publisher": "Adventure International",
+  "developer": "Brian Howarth",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Das Abenteuer folgt dem Film von 1984: Aus dem niedlichen Mogwai Gizmo sind durch Regelverstöße bösartige Gremlins hervorgegangen, die die Kleinstadt Kingston Falls heimsuchen. Der Spieler muss sie mit den Mitteln der Umgebung ausschalten, bevor sie sich weiter vermehren. Befehle werden als kurze Texte eingegeben, viele Orte sind bebildert. Das Spiel gilt als ungewöhnlich tödlich – unbedachte Schritte enden schnell – und war der erfolgreichste eigene Titel der britischen Adventure International.\n\nGremlins: The Adventure erschien 1985 bei Adventure International (UK) unter anderem für C64, ZX Spectrum, Amstrad CPC und BBC/Electron; die C64-Fassung hat Grafiken, einige andere Fassungen sind reine Textspiele. Es nutzt denselben Parser wie die übrigen Adventure-International-Spiele jener Zeit. Gesteuert wird über die Tastatur. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nText und Code: Brian Howarth · Grafik: Teoman Irmak",
+  "texts": {
+    "de": "Das Abenteuer folgt dem Film von 1984: Aus dem niedlichen Mogwai Gizmo sind durch Regelverstöße bösartige Gremlins hervorgegangen, die die Kleinstadt Kingston Falls heimsuchen. Der Spieler muss sie mit den Mitteln der Umgebung ausschalten, bevor sie sich weiter vermehren. Befehle werden als kurze Texte eingegeben, viele Orte sind bebildert. Das Spiel gilt als ungewöhnlich tödlich – unbedachte Schritte enden schnell – und war der erfolgreichste eigene Titel der britischen Adventure International.\n\nGremlins: The Adventure erschien 1985 bei Adventure International (UK) unter anderem für C64, ZX Spectrum, Amstrad CPC und BBC/Electron; die C64-Fassung hat Grafiken, einige andere Fassungen sind reine Textspiele. Es nutzt denselben Parser wie die übrigen Adventure-International-Spiele jener Zeit. Gesteuert wird über die Tastatur. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nText und Code: Brian Howarth · Grafik: Teoman Irmak",
+    "en": "The adventure follows the 1984 film: broken rules have turned the cute mogwai Gizmo's offspring into vicious gremlins that are wreaking havoc in the small town of Kingston Falls. The player has to deal with them using whatever the surroundings offer before they multiply further. Commands are entered as short text, and many locations are illustrated. The game is known as unusually deadly – careless moves end quickly – and was the most successful original title of the British Adventure International.\n\nGremlins: The Adventure was released in 1985 by Adventure International (UK) for the C64, ZX Spectrum, Amstrad CPC and BBC/Electron among others; the C64 version has graphics, while some other versions are text-only. It uses the same parser as the other Adventure International games of the time. It is controlled with the keyboard. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nWriting and code: Brian Howarth · Graphics: Teoman Irmak"
+  },
+  "images": {
+    "sstitle": "images/00/000aa603f20fc02d8f9332bbf6f513c1dc425f95.png"
+  }
+}

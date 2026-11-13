@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "624c039f1f82b2b4ac0c5d9be62c7f65ba312a33",
+  "md5": "8d25a8947bcb895ed9b4e7d8fffc8856",
+  "crc32": "8da7d235",
+  "size": 944667,
+  "format": "TAP",
+  "files": [
+    "Last V8 The.tap"
+  ],
+  "screenscraper_id": "36662",
+  "title": "The Last V8",
+  "year": "1985",
+  "publisher": "Mastertronic (M.A.D.)",
+  "developer": "David Darling, Richard Darling",
+  "genres": [
+    "Fahren",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Nach einem Atomkrieg ist der Fahrer des letzten V8 an der Oberfläche unterwegs und muss den Wagen rechtzeitig zurück in den unterirdischen Stützpunkt bringen, bevor der Strahlenschutz versagt. Die verwinkelten Straßen werden von oben gezeigt, jeder Aufprall kostet Zeit und Schutz. Das empfindliche Fahrverhalten macht das Spiel sehr schwer. Bekannt geblieben ist es vor allem durch die Musik von Rob Hubbard und als erster Titel der Mastertronic-Reihe M.A.D. (Mastertronic Added Dimension).\n\nErschienen auf Kassette und Diskette zum Budgetpreis; für den C128 gab es eine eigene erweiterte Fassung. Gesteuert wird mit dem Joystick in Port 2. Neben den Originalen gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: David Darling, Richard Darling · Grafik: Jim Wilson · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Nach einem Atomkrieg ist der Fahrer des letzten V8 an der Oberfläche unterwegs und muss den Wagen rechtzeitig zurück in den unterirdischen Stützpunkt bringen, bevor der Strahlenschutz versagt. Die verwinkelten Straßen werden von oben gezeigt, jeder Aufprall kostet Zeit und Schutz. Das empfindliche Fahrverhalten macht das Spiel sehr schwer. Bekannt geblieben ist es vor allem durch die Musik von Rob Hubbard und als erster Titel der Mastertronic-Reihe M.A.D. (Mastertronic Added Dimension).\n\nErschienen auf Kassette und Diskette zum Budgetpreis; für den C128 gab es eine eigene erweiterte Fassung. Gesteuert wird mit dem Joystick in Port 2. Neben den Originalen gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nCode: David Darling, Richard Darling · Grafik: Jim Wilson · Musik: Rob Hubbard",
+    "en": "After a nuclear war, the driver of the last V8 is out on the surface and must get the car back to the underground base before its radiation shielding fails. The winding roads are shown from above, and every collision costs time and shielding. The touchy handling makes the game very hard. It is remembered mainly for Rob Hubbard's music and as the first title of Mastertronic's M.A.D. (Mastertronic Added Dimension) range.\n\nReleased on tape and disk at budget price; the C128 got its own enhanced version. It is controlled with a joystick in port 2. Besides the originals there is a OneLoad64 conversion as an EasyFlash cartridge.\n\nCode: David Darling, Richard Darling · Graphics: Jim Wilson · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/08/081607837318c28f06a9fb0003e2f9f6e3cf7690.png",
+    "sstitle": "images/65/65375106d89983d4bbea8495abcf40b206444aa6.png"
+  }
+}

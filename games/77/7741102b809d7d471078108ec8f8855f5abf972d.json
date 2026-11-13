@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7741102b809d7d471078108ec8f8855f5abf972d",
+  "md5": "77b50a8fc6f6a1536ac83158f4d36e15",
+  "crc32": "f79072ad",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "4THPROT0.D64"
+  ],
+  "screenscraper_id": "112193",
+  "title": "The Fourth Protocol",
+  "year": "1985",
+  "publisher": "Hutchinson Computer Publishing",
+  "developer": "The Electronic Pencil Company (John Lambshead, Gordon Paterson)",
+  "genres": [
+    "Abenteuer",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "The Fourth Protocol beruht auf dem Spionageroman von Frederick Forsyth. Der Spieler übernimmt den MI5-Agenten John Preston, der einem sowjetischen Plan auf die Spur kommen muss, in Großbritannien eine Atombombe zu zünden. Die ersten beiden Teile werden über Symbole gesteuert: Akten lesen, Agenten auf Verdächtige ansetzen und Hinweise zusammenfügen. Der dritte Teil ist ein klassisches Textadventure; zweiter und dritter Teil sind erst mit einem Kennwort aus dem vorherigen Teil zugänglich.\n\nDas Spiel erschien auf Kassette und Diskette (auf dem C64 einen Monat nach der Spectrum-Fassung), die Diskettenfassung auf zwei Seiten. Die ersten beiden Teile werden mit Joystick oder Tasten über Symbole bedient, der dritte per Texteingabe.\n\nDesign: John Lambshead, Gordon Paterson · Code (C64, dritter Teil): John Gibbons",
+  "texts": {
+    "de": "The Fourth Protocol beruht auf dem Spionageroman von Frederick Forsyth. Der Spieler übernimmt den MI5-Agenten John Preston, der einem sowjetischen Plan auf die Spur kommen muss, in Großbritannien eine Atombombe zu zünden. Die ersten beiden Teile werden über Symbole gesteuert: Akten lesen, Agenten auf Verdächtige ansetzen und Hinweise zusammenfügen. Der dritte Teil ist ein klassisches Textadventure; zweiter und dritter Teil sind erst mit einem Kennwort aus dem vorherigen Teil zugänglich.\n\nDas Spiel erschien auf Kassette und Diskette (auf dem C64 einen Monat nach der Spectrum-Fassung), die Diskettenfassung auf zwei Seiten. Die ersten beiden Teile werden mit Joystick oder Tasten über Symbole bedient, der dritte per Texteingabe.\n\nDesign: John Lambshead, Gordon Paterson · Code (C64, dritter Teil): John Gibbons",
+    "en": "The Fourth Protocol is based on Frederick Forsyth's spy novel. The player takes the role of MI5 agent John Preston, who must uncover a Soviet plot to detonate a nuclear bomb in Britain. The first two parts are icon-driven: reading files, assigning agents to suspects and piecing together clues. The third part is a classic text adventure; the second and third parts can only be entered with a password from the previous part.\n\nThe game was released on tape and disk (on the C64 one month after the Spectrum version), the disk version on two sides. The first two parts are operated through icons with joystick or keys, the third by typing commands.\n\nDesign: John Lambshead, Gordon Paterson · Code (C64, third part): John Gibbons"
+  },
+  "images": {
+    "ss": "images/81/81816349930169b3e79a813c878bc73e1c7d8f61.png"
+  }
+}

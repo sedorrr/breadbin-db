@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "57d17f9e8d556696dd040259645b77d09207d9c9",
+  "md5": "74e584a534eaf8198e72e25493f0fc6f",
+  "crc32": "bcbc3ea8",
+  "size": 738784,
+  "format": "CRT",
+  "files": [
+    "Elvira - Mistress of the Dark (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36018",
+  "title": "Elvira: Mistress of the Dark",
+  "year": "1991",
+  "publisher": "Flair Software",
+  "developer": "Horror Soft (C64: Flair Software)",
+  "genres": [
+    "Abenteuer / Grafik",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Elvira hat ein altes Schloss geerbt, in dem ihre Vorfahrin, die Hexe Emelda, wiederauferstehen will. In Elviras Auftrag erkundet der Spieler das Schloss aus der Ich-Sicht, sammelt Gegenstände und Zutaten, aus denen Elvira Zaubersprüche braut, und muss Emeldas Rückkehr verhindern. Kämpfe gegen Untote und andere Schlossbewohner werden in Echtzeit ausgetragen. Die Mischung aus Grusel-Abenteuer, Rollenspiel-Elementen und schwarzem Humor rund um die Fernsehmoderatorin machte das Spiel zum bekanntesten Titel von Horror Soft.\n\nDas Spiel stammt von Horror Soft und erschien 1990 bei Accolade für Amiga, Atari ST und PC. Die C64-Fassung veröffentlichte Flair Software 1991 auf mehreren Disketten; bedient wird sie vollständig mit dem Joystick in Port 2. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870, die den Diskettenwechsel erspart.\n\nCode (C64): Bruce P. le Feaux · Grafik: Philip Nixon, Mark Sample, Paul Drummond, Kevin Preston · Musik: Sean Connolly",
+  "texts": {
+    "de": "Elvira hat ein altes Schloss geerbt, in dem ihre Vorfahrin, die Hexe Emelda, wiederauferstehen will. In Elviras Auftrag erkundet der Spieler das Schloss aus der Ich-Sicht, sammelt Gegenstände und Zutaten, aus denen Elvira Zaubersprüche braut, und muss Emeldas Rückkehr verhindern. Kämpfe gegen Untote und andere Schlossbewohner werden in Echtzeit ausgetragen. Die Mischung aus Grusel-Abenteuer, Rollenspiel-Elementen und schwarzem Humor rund um die Fernsehmoderatorin machte das Spiel zum bekanntesten Titel von Horror Soft.\n\nDas Spiel stammt von Horror Soft und erschien 1990 bei Accolade für Amiga, Atari ST und PC. Die C64-Fassung veröffentlichte Flair Software 1991 auf mehreren Disketten; bedient wird sie vollständig mit dem Joystick in Port 2. Daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870, die den Diskettenwechsel erspart.\n\nCode (C64): Bruce P. le Feaux · Grafik: Philip Nixon, Mark Sample, Paul Drummond, Kevin Preston · Musik: Sean Connolly",
+    "en": "Elvira has inherited an old castle in which her ancestor, the witch Emelda, is about to rise again. On Elvira's behalf the player explores the castle from a first-person view, collecting objects and ingredients from which Elvira brews spells, and has to prevent Emelda's return. Fights against undead and other inhabitants of the castle take place in real time. The blend of horror adventure, role-playing elements and dark humour built around the TV hostess made it Horror Soft's best-known game.\n\nThe game was developed by Horror Soft and released by Accolade in 1990 for the Amiga, Atari ST and PC. The C64 version was published by Flair Software in 1991 on several disks; it is operated entirely with a joystick in port 2. There are also EasyFlash conversions, including a MultiLoad64 version by $olo1870 that saves the disk swapping.\n\nCode (C64): Bruce P. le Feaux · Graphics: Philip Nixon, Mark Sample, Paul Drummond, Kevin Preston · Music: Sean Connolly"
+  }
+}

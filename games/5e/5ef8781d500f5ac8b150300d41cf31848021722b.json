@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5ef8781d500f5ac8b150300d41cf31848021722b",
+  "md5": "9fa9c51213b897b0ab36fe1ffcc6cbef",
+  "crc32": "e63538b2",
+  "size": 246304,
+  "format": "CRT",
+  "files": [
+    "Back to the Future Part II (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35910",
+  "title": "Back to the Future Part II",
+  "year": "1990",
+  "publisher": "Image Works",
+  "developer": "Image Works",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Back to the Future Part II ist das Spiel zum zweiten Teil der Filmreihe. Es folgt in mehreren Abschnitten der Handlung durch die Jahre 2015, 1985 und 1955 und wechselt dabei die Spielart: Verfolgungsjagden auf dem Hoverboard, Prügeleinlagen in Biffs verändertem Hill Valley und Puzzle-Abschnitte wechseln sich ab. Ziel ist es, Biffs Sportalmanach wieder an sich zu bringen und den Zeitstrom zu reparieren. Die Mischung bringt Abwechslung, die Fachpresse fand die einzelnen Teile aber unterschiedlich gelungen.\n\nDie C64-Fassung erschien 1990 bei Image Works (Mirrorsoft) auf Diskette (zwei Seiten) und Kassette. Es gibt mehrere EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die auch die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Jon Williams, Tom Pinnock, James Smart · Grafik: Steve Bedser · Musik: David Whittaker",
+  "texts": {
+    "de": "Back to the Future Part II ist das Spiel zum zweiten Teil der Filmreihe. Es folgt in mehreren Abschnitten der Handlung durch die Jahre 2015, 1985 und 1955 und wechselt dabei die Spielart: Verfolgungsjagden auf dem Hoverboard, Prügeleinlagen in Biffs verändertem Hill Valley und Puzzle-Abschnitte wechseln sich ab. Ziel ist es, Biffs Sportalmanach wieder an sich zu bringen und den Zeitstrom zu reparieren. Die Mischung bringt Abwechslung, die Fachpresse fand die einzelnen Teile aber unterschiedlich gelungen.\n\nDie C64-Fassung erschien 1990 bei Image Works (Mirrorsoft) auf Diskette (zwei Seiten) und Kassette. Es gibt mehrere EasyFlash-Umsetzungen, darunter eine von $olo1870 (MultiLoad64), die auch die Nachladeteile vom Modul holt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Jon Williams, Tom Pinnock, James Smart · Grafik: Steve Bedser · Musik: David Whittaker",
+    "en": "Back to the Future Part II is the game of the second film in the series. Over several stages it follows the story through 2015, 1985 and 1955, switching the style of play along the way: hoverboard chases, brawls in Biff's altered Hill Valley and puzzle sections alternate. The goal is to recover Biff's sports almanac and repair the timeline. The mix brings variety, though the press found the individual parts uneven.\n\nThe C64 version was released in 1990 by Image Works (Mirrorsoft) on disk (two sides) and cassette. There are several EasyFlash conversions, including one by $olo1870 (MultiLoad64) that also loads the additional parts from the cartridge. It is controlled with a joystick in port 2.\n\nCode: Jon Williams, Tom Pinnock, James Smart · Graphics: Steve Bedser · Music: David Whittaker"
+  },
+  "images": {
+    "sstitle": "images/6d/6d71b52dfef277944888ca98d3df34a5ac5d3066.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "514c693b3a1acce100c7f205ad880004cd54e277",
+  "md5": "e63c2321da33073c43fa2584079ab71e",
+  "crc32": "3a33e3a0",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Cauldron II.crt"
+  ],
+  "screenscraper_id": "36290",
+  "title": "Cauldron II: The Pumpkin Strikes Back",
+  "year": "1986",
+  "publisher": "Palace Software",
+  "developer": "Palace Software",
+  "genres": [
+    "Plattform",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Nach den Ereignissen des ersten Teils sinnt der Kürbis auf Rache an der Hexenkönigin. Er hüpft durch ihr Schloss, wobei Richtung und Höhe jedes Sprungs gesteuert werden; die Richtung lässt sich nur bei Bodenkontakt ändern. Sechs magische Gegenstände – Kelch, Axt, Schild, Krone, Schere und Zauberbuch – verleihen neue Fähigkeiten und öffnen den Weg in die Gemächer der Hexe, der am Ende eine Haarlocke abgeschnitten werden muss. Geister, Monster und Skelette zehren an der Zauberkraft, die zugleich Munition ist. Die eigenwillige Sprungsteuerung und die stimmungsvolle Halloween-Grafik machten das Spiel bekannt.\n\nDie C64-Fassung erschien 1986 als erste bei Palace Software, Spectrum und Amstrad CPC folgten. Gesteuert wird mit dem Joystick. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nDesign und Grafik: Steve Brown · Code: Stan Schembri, Richard Leinfellner · Musik: Richard Joseph",
+  "texts": {
+    "de": "Nach den Ereignissen des ersten Teils sinnt der Kürbis auf Rache an der Hexenkönigin. Er hüpft durch ihr Schloss, wobei Richtung und Höhe jedes Sprungs gesteuert werden; die Richtung lässt sich nur bei Bodenkontakt ändern. Sechs magische Gegenstände – Kelch, Axt, Schild, Krone, Schere und Zauberbuch – verleihen neue Fähigkeiten und öffnen den Weg in die Gemächer der Hexe, der am Ende eine Haarlocke abgeschnitten werden muss. Geister, Monster und Skelette zehren an der Zauberkraft, die zugleich Munition ist. Die eigenwillige Sprungsteuerung und die stimmungsvolle Halloween-Grafik machten das Spiel bekannt.\n\nDie C64-Fassung erschien 1986 als erste bei Palace Software, Spectrum und Amstrad CPC folgten. Gesteuert wird mit dem Joystick. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nDesign und Grafik: Steve Brown · Code: Stan Schembri, Richard Leinfellner · Musik: Richard Joseph",
+    "en": "After the events of the first game, the pumpkin seeks revenge on the Witch Queen. It bounces through her castle, with the player steering the direction and height of each bounce; the direction can only be changed while touching the ground. Six magic items – goblet, axe, shield, crown, scissors and book of spells – grant new abilities and open the way to the witch's chambers, where a lock of her hair must finally be cut off. Ghosts, monsters and skeletons drain the pumpkin's magic, which also serves as ammunition. The unusual bouncing control and the atmospheric Halloween graphics made the game well known.\n\nThe C64 version was the first to be released, by Palace Software in 1986, followed by the Spectrum and Amstrad CPC. It is played with a joystick. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nDesign and graphics: Steve Brown · Code: Stan Schembri, Richard Leinfellner · Music: Richard Joseph"
+  },
+  "images": {
+    "ss": "images/ea/ea03bed640854dd6b3ecd4f1db4ba07aff7fdc40.png",
+    "sstitle": "images/85/8524bcec69ffcaf17741f2c15cfcb29e314df3dc.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "81e9ca2bfdaabba06675ae816501e0ef943b1a9f",
+  "md5": "2ae7067c327d6b1003df32205b0d9f90",
+  "crc32": "e4b2b4ef",
+  "size": 175531,
+  "format": "D64",
+  "files": [
+    "Bazooka Bill.d64"
+  ],
+  "screenscraper_id": "109901",
+  "title": "Bazooka Bill",
+  "year": "1986",
+  "publisher": "Melbourne House",
+  "developer": "Arcade Machine Ltd.",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Bazooka Bill ist ein seitlich scrollendes Actionspiel in der Art von Green Beret. Der Soldat Bill soll General MacArthur auf den Philippinen befreien und kämpft sich dazu über mehrere Inseln, wobei Gegner von beiden Seiten kommen und Hubschrauber Bomben werfen. Fest zur Verfügung stehen nur die Fäuste; Messer, Maschinengewehr, Flammenwerfer und Bazooka werden unterwegs aufgesammelt und halten nur begrenzt. Zwischen den Inseln fliegt Bill in eigenen Abschnitten zur nächsten Station. Bei der Fachpresse kam das Spiel sehr unterschiedlich an – von freundlich bis zu einem Verriss in Zzap!64.\n\nDas Spiel erschien bei Melbourne House (Label Arcade) auf Kassette und Diskette, in Deutschland mit der Aufschrift „Colorado Bill“ auf der Packung und in den USA bei Spinnaker. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung, Diskettenabbilder und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Brian Post · Grafik: David O'Callaghan, Russel Comte · Musik: Neil Brennan",
+  "texts": {
+    "de": "Bazooka Bill ist ein seitlich scrollendes Actionspiel in der Art von Green Beret. Der Soldat Bill soll General MacArthur auf den Philippinen befreien und kämpft sich dazu über mehrere Inseln, wobei Gegner von beiden Seiten kommen und Hubschrauber Bomben werfen. Fest zur Verfügung stehen nur die Fäuste; Messer, Maschinengewehr, Flammenwerfer und Bazooka werden unterwegs aufgesammelt und halten nur begrenzt. Zwischen den Inseln fliegt Bill in eigenen Abschnitten zur nächsten Station. Bei der Fachpresse kam das Spiel sehr unterschiedlich an – von freundlich bis zu einem Verriss in Zzap!64.\n\nDas Spiel erschien bei Melbourne House (Label Arcade) auf Kassette und Diskette, in Deutschland mit der Aufschrift „Colorado Bill“ auf der Packung und in den USA bei Spinnaker. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung, Diskettenabbilder und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Brian Post · Grafik: David O'Callaghan, Russel Comte · Musik: Neil Brennan",
+    "en": "Bazooka Bill is a side-scrolling action game along the lines of Green Beret. The soldier Bill has to rescue General MacArthur in the Philippines and fights his way across several islands, with enemies coming from both sides and helicopters dropping bombs. Only his fists are permanently available; knife, machine gun, flamethrower and bazooka are picked up along the way and last only for a limited time. Between the islands Bill flies on to the next location in separate stages. The press response varied widely – from friendly to a savaging in Zzap!64.\n\nThe game was released by Melbourne House (Arcade label) on cassette and disk, in Germany with \"Colorado Bill\" on the box and in the US by Spinnaker. There are cartridge conversions from the OneLoad64 collection, disk images and a single-file PRG version. It is controlled with a joystick in port 2.\n\nCode: Brian Post · Graphics: David O'Callaghan, Russel Comte · Music: Neil Brennan"
+  },
+  "images": {
+    "ss": "images/7a/7a1a45762019399c4cc9e38ee9d6e6ae4e1caeba.png",
+    "sstitle": "images/4e/4e3ecb00cfa40de9d0f33165a2ceeb4261e0a4c6.png"
+  }
+}

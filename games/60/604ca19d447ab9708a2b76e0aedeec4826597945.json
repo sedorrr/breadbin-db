@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "604ca19d447ab9708a2b76e0aedeec4826597945",
+  "md5": "d5480caebafd3389fc7c3536f7693e9a",
+  "crc32": "d37ff691",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "KNIGHTOR.D64"
+  ],
+  "screenscraper_id": "114103",
+  "title": "Knight Orc",
+  "year": "1987",
+  "publisher": "Rainbird",
+  "developer": "Level 9 Computing (Pete, Mike und Nick Austin)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Knight Orc dreht die Rollen der Fantasy um: Der Spieler ist der Ork Grindleguts, der nach einem Gelage auf ein Pferd gebunden zu einem Turnier gegen einen menschlichen Ritter erwacht. Im weiteren Verlauf muss er sich in einer Welt voller selbstständig handelnder Figuren behaupten, die er auch um Hilfe bitten oder sich folgen lassen kann. Das Spiel führte Level 9s neues KAOS-System mit einem verbesserten Parser ein und besteht aus drei Teilen. Beigelegt war eine Novelle von Peter McBride, die die Vorgeschichte erzählt.\n\nAuf dem C64 erschien Knight Orc bei Rainbird auf Kassette und Diskette, die Diskettenfassung auf mehreren Seiten. Eingegeben wird über die Tastatur.\n\nCode: Pete, Mike und Nick Austin",
+  "texts": {
+    "de": "Knight Orc dreht die Rollen der Fantasy um: Der Spieler ist der Ork Grindleguts, der nach einem Gelage auf ein Pferd gebunden zu einem Turnier gegen einen menschlichen Ritter erwacht. Im weiteren Verlauf muss er sich in einer Welt voller selbstständig handelnder Figuren behaupten, die er auch um Hilfe bitten oder sich folgen lassen kann. Das Spiel führte Level 9s neues KAOS-System mit einem verbesserten Parser ein und besteht aus drei Teilen. Beigelegt war eine Novelle von Peter McBride, die die Vorgeschichte erzählt.\n\nAuf dem C64 erschien Knight Orc bei Rainbird auf Kassette und Diskette, die Diskettenfassung auf mehreren Seiten. Eingegeben wird über die Tastatur.\n\nCode: Pete, Mike und Nick Austin",
+    "en": "Knight Orc turns fantasy roles upside down: the player is the orc Grindleguts, who wakes after a drinking bout strapped to a horse for a joust against a human knight. From there he has to hold his own in a world full of independently acting characters, whom he can also ask for help or tell to follow him. The game introduced Level 9's new KAOS system with an improved parser and consists of three parts. It came with a novella by Peter McBride telling the background story.\n\nOn the C64 Knight Orc was released by Rainbird on tape and disk, the disk version on several sides. Input is via the keyboard.\n\nCode: Pete, Mike and Nick Austin"
+  },
+  "images": {
+    "ss": "images/76/76c3a6b5900a284ea882900345af8e6b75b384ab.png",
+    "sstitle": "images/4f/4f20a3eb4955ec68d07b82a5eecf1099e83bf3ed.png"
+  }
+}

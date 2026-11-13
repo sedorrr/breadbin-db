@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "51651c56be915d0527f8e00f80a254b26f1fcbdf",
+  "md5": "e4e11cef9e206345f94652d6b47d1e12",
+  "crc32": "9b04abde",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BUGSY.D64"
+  ],
+  "screenscraper_id": "110414",
+  "title": "Bugsy",
+  "year": "1986",
+  "publisher": "CRL",
+  "developer": "St. Bride's (Priscilla Langridge, Marianne Scarlett)",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Bugsy ist ein humorvolles Gangsterabenteuer: Der Spieler übernimmt den Hasen Bugsy Maroon, der sich im Chicago des Jahres 1922 vom Kleinganoven zum Herrscher der Unterwelt hocharbeiten will. Dazu gilt es, Geld zu beschaffen, Leute einzuschüchtern und Konkurrenten auszustechen. Geschrieben wurde es von St. Bride's, den Autorinnen von The Secret of St. Brides, mit dem für sie typischen schrägen Humor. Das Spiel besteht aus zwei Teilen, die nacheinander geladen werden.\n\nDie C64-Fassung entstand mit The Quill und zeigt zu vielen Orten einfache Bilder; erschienen ist sie auf Kassette (und Diskette) bei CRL nur in Europa. Gesteuert wird über die Tastatur.\n\nDesign: Priscilla Langridge, Marianne Scarlett",
+  "texts": {
+    "de": "Bugsy ist ein humorvolles Gangsterabenteuer: Der Spieler übernimmt den Hasen Bugsy Maroon, der sich im Chicago des Jahres 1922 vom Kleinganoven zum Herrscher der Unterwelt hocharbeiten will. Dazu gilt es, Geld zu beschaffen, Leute einzuschüchtern und Konkurrenten auszustechen. Geschrieben wurde es von St. Bride's, den Autorinnen von The Secret of St. Brides, mit dem für sie typischen schrägen Humor. Das Spiel besteht aus zwei Teilen, die nacheinander geladen werden.\n\nDie C64-Fassung entstand mit The Quill und zeigt zu vielen Orten einfache Bilder; erschienen ist sie auf Kassette (und Diskette) bei CRL nur in Europa. Gesteuert wird über die Tastatur.\n\nDesign: Priscilla Langridge, Marianne Scarlett",
+    "en": "Bugsy is a humorous gangster adventure: the player takes the role of Bugsy Maroon, a rabbit in 1922 Chicago who wants to work his way up from petty crook to boss of the underworld. That means raising money, intimidating people and outdoing rivals. It was written by St. Bride's, the authors of The Secret of St. Brides, with their typically offbeat humour. The game consists of two parts that are loaded one after the other.\n\nThe C64 version was made with The Quill and shows simple pictures for many locations; it was published by CRL on tape (and disk) in Europe only. It is played from the keyboard.\n\nDesign: Priscilla Langridge, Marianne Scarlett"
+  },
+  "images": {
+    "sstitle": "images/0d/0da5fac61115c4f46afb7db8db1ecc4ccf3029f1.png"
+  }
+}

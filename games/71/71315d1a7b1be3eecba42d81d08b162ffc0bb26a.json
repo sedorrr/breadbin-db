@@ -21,5 +21,9 @@
   "texts": {
     "de": "Q*bert hüpft über eine Pyramide aus Würfeln und färbt jede Oberseite, auf die er springt, in die Zielfarbe. Sind alle Würfel umgefärbt, folgt die nächste Runde, in späteren Stufen kippen Würfel auch wieder zurück. Die Schlange Coily, hüpfende Bälle und andere Gegner machen Jagd auf ihn; schwebende Scheiben am Rand bringen ihn in Sicherheit und locken Coily in den Abgrund. Der Automat von Gottlieb (1982) ist durch die diagonale Steuerung und die fluchende Hauptfigur bekannt geworden.\n\nParker Brothers veröffentlichte die C64-Fassung als Modul; in den USA brachte Data East sie 1985 auch auf Diskette und Kassette heraus. Zwei Spieler spielen abwechselnd. Der Joystick wird für die Diagonalsprünge schräg gehalten.",
     "en": "Q*bert hops across a pyramid of cubes and changes the top of each cube he lands on to the target colour. Once all cubes have changed colour, the next round follows; in later stages cubes also flip back again. Coily the snake, bouncing balls and other enemies hunt him; floating discs at the edge carry him to safety and lure Coily into the abyss. Gottlieb's arcade game (1982) became known for its diagonal controls and its swearing main character.\n\nParker Brothers released the C64 version as a cartridge; in the USA Data East also brought it out on disk and tape in 1985. Two players take turns. The joystick is held at an angle for the diagonal jumps."
+  },
+  "images": {
+    "ss": "images/4b/4b2547ffc780516b525082bc1fc2c267380a0ef2.png",
+    "sstitle": "images/d3/d36ae299b077deea16875c974e579ac7ad8a7f01.png"
   }
 }

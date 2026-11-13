@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "61e457d5e02a13223ebc484558fc696bb15d34aa",
+  "md5": "a9f85ba5a2a4912e8e4223079a1cdb6a",
+  "crc32": "ab61a142",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ROCKETR1.D64"
+  ],
+  "screenscraper_id": "114818",
+  "title": "Rocket Ranger",
+  "year": "1988",
+  "publisher": "Cinemaware",
+  "developer": "Cinemaware (Entwurf: Kellyn Beck)",
+  "genres": [
+    "Action / Abenteuer",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "In einem alternativen Jahr 1940 erobern die Nazis mit Hilfe des Mondminerals Lunarium die Welt. Der Rocket Ranger, ausgerüstet mit Raketenrucksack und Strahlenpistole, soll das verhindern. Vom Kriegsraum aus werden Agenten über die Weltkarte verteilt, um geheime Fabriken und Stützpunkte aufzuspüren; daraus ergeben sich Actionszenen wie Luftkämpfe gegen Jäger und Zeppeline, Feuergefechte am Boden und Faustkämpfe. Das Spiel ist im Stil der Kinoserien der 1930er- und 1940er-Jahre gestaltet und gehört zu den bekanntesten Cinemaware-Titeln.\n\nDie C64-Fassung erschien auf Diskette (mehrere Diskettenseiten), in Europa bei Mirrorsoft, und verlangt häufiges Diskettenwechseln. Für die Treibstoffberechnung liegt eine Codescheibe bei. Gesteuert wird per Joystick. Daneben gibt es eine Umsetzung als EasyFlash-Modul.\n\nMusik: Bob Lindstrom (Vorlage), Jim Simmons",
+  "texts": {
+    "de": "In einem alternativen Jahr 1940 erobern die Nazis mit Hilfe des Mondminerals Lunarium die Welt. Der Rocket Ranger, ausgerüstet mit Raketenrucksack und Strahlenpistole, soll das verhindern. Vom Kriegsraum aus werden Agenten über die Weltkarte verteilt, um geheime Fabriken und Stützpunkte aufzuspüren; daraus ergeben sich Actionszenen wie Luftkämpfe gegen Jäger und Zeppeline, Feuergefechte am Boden und Faustkämpfe. Das Spiel ist im Stil der Kinoserien der 1930er- und 1940er-Jahre gestaltet und gehört zu den bekanntesten Cinemaware-Titeln.\n\nDie C64-Fassung erschien auf Diskette (mehrere Diskettenseiten), in Europa bei Mirrorsoft, und verlangt häufiges Diskettenwechseln. Für die Treibstoffberechnung liegt eine Codescheibe bei. Gesteuert wird per Joystick. Daneben gibt es eine Umsetzung als EasyFlash-Modul.\n\nMusik: Bob Lindstrom (Vorlage), Jim Simmons",
+    "en": "In an alternative 1940, the Nazis conquer the world with the help of the lunar mineral Lunarium. The Rocket Ranger, equipped with a rocket pack and a ray gun, is meant to stop them. From the war room, agents are sent across the world map to track down secret factories and bases; this leads to action scenes such as dogfights against fighters and zeppelins, gunfights on the ground and fistfights. The game is styled after the cinema serials of the 1930s and 1940s and is one of the best-known Cinemaware titles.\n\nThe C64 version was released on disk (several disk sides), in Europe by Mirrorsoft, and requires frequent disk swapping. A code wheel is included for fuel calculations. It is controlled with a joystick. There is also a conversion as an EasyFlash cartridge.\n\nMusic: Bob Lindstrom (original score), Jim Simmons"
+  }
+}

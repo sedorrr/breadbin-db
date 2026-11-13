@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "59c16ce419cf08162676d972455b72ac44b24b5b",
+  "md5": "c84965d2cb8289bb296ac82e062a089e",
+  "crc32": "8773d985",
+  "size": 13246,
+  "format": "PRG",
+  "files": [
+    "Falcon Patrol II (J1).prg"
+  ],
+  "screenscraper_id": "111997",
+  "title": "Falcon Patrol II",
+  "year": "1984",
+  "publisher": "Virgin Games",
+  "developer": "Steve Lee",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "In der Fortsetzung von Falcon Patrol verteidigt der Senkrechtstarter erneut eine seitlich scrollende Landschaft, diesmal vor allem gegen Wellen von Kampfhubschraubern. Wie im Vorgänger behält man über ein Radar den Überblick und muss rechtzeitig zum Nachtanken und Aufmunitionieren landen. Die Gegner greifen aggressiver an und verlangen mehr Geschick als im ersten Teil.\n\nDie C64-Fassung erschien 1984 bei Virgin Games auf Kassette, in den USA bei Advantage/Artworx. Gesteuert wird per Joystick in Port 1. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik: Steve Lee · Musik: Dave Lee",
+  "texts": {
+    "de": "In der Fortsetzung von Falcon Patrol verteidigt der Senkrechtstarter erneut eine seitlich scrollende Landschaft, diesmal vor allem gegen Wellen von Kampfhubschraubern. Wie im Vorgänger behält man über ein Radar den Überblick und muss rechtzeitig zum Nachtanken und Aufmunitionieren landen. Die Gegner greifen aggressiver an und verlangen mehr Geschick als im ersten Teil.\n\nDie C64-Fassung erschien 1984 bei Virgin Games auf Kassette, in den USA bei Advantage/Artworx. Gesteuert wird per Joystick in Port 1. Neben dem Original gibt es Cracks sowie eine Umsetzung als OneLoad64-Modul.\n\nCode, Grafik: Steve Lee · Musik: Dave Lee",
+    "en": "In the sequel to Falcon Patrol, the jump jet again defends a side-scrolling landscape, this time mainly against waves of helicopter gunships. As in its predecessor, a radar keeps track of the action and the player has to land in time to refuel and rearm. The enemies attack more aggressively and demand more skill than in the first game.\n\nThe C64 version was released by Virgin Games in 1984 on tape, and by Advantage/Artworx in the USA. It is controlled with a joystick in port 1. Besides the original there are cracks and a OneLoad64 cartridge conversion.\n\nCode, graphics: Steve Lee · Music: Dave Lee"
+  },
+  "images": {
+    "ss": "images/eb/ebcdbccf7c16d8140e2cb1848b2c95e9fb736e1e.png",
+    "sstitle": "images/36/364db09a0f6bf37b3004088fea1820cd1b8b5f00.png"
+  }
+}

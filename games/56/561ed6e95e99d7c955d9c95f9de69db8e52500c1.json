@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "561ed6e95e99d7c955d9c95f9de69db8e52500c1",
+  "md5": "00691231897d9c88c66b9da91aa4a592",
+  "crc32": "1e07d839",
+  "size": 39005,
+  "format": "PRG",
+  "files": [
+    "Short Circuit.prg"
+  ],
+  "screenscraper_id": "36378",
+  "title": "Short Circuit",
+  "year": "1986",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Abenteuer",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Das Spiel zum Film „Nummer 5 lebt!“ besteht aus zwei Teilen. Im ersten Teil sucht der Roboter Nummer 5 in der Militäranlage Gegenstände und Programme, schaltet Alarmanlagen ab und baut einen Doppelgänger, um unbemerkt zu entkommen. Im zweiten Teil flieht er in einem seitlich scrollenden Actionabschnitt, weicht Tieren aus und macht Soldaten mit dem Laser kampfunfähig, statt sie zu töten. Die Verbindung von Abenteuer und Geschicklichkeit war für eine Filmumsetzung ungewöhnlich.\n\nOcean veröffentlichte Short Circuit auf Kassette und Diskette, später auch bei The Hit Squad; daneben gibt es Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur. Die Musik stammt von Martin Galway.\n\nCode: Johnny Meegan · Grafik: Karen Davies · Musik: Martin Galway",
+  "texts": {
+    "de": "Das Spiel zum Film „Nummer 5 lebt!“ besteht aus zwei Teilen. Im ersten Teil sucht der Roboter Nummer 5 in der Militäranlage Gegenstände und Programme, schaltet Alarmanlagen ab und baut einen Doppelgänger, um unbemerkt zu entkommen. Im zweiten Teil flieht er in einem seitlich scrollenden Actionabschnitt, weicht Tieren aus und macht Soldaten mit dem Laser kampfunfähig, statt sie zu töten. Die Verbindung von Abenteuer und Geschicklichkeit war für eine Filmumsetzung ungewöhnlich.\n\nOcean veröffentlichte Short Circuit auf Kassette und Diskette, später auch bei The Hit Squad; daneben gibt es Modulumsetzungen der Szene. Gesteuert wird mit dem Joystick in Port 2 oder der Tastatur. Die Musik stammt von Martin Galway.\n\nCode: Johnny Meegan · Grafik: Karen Davies · Musik: Martin Galway",
+    "en": "The game based on the film \"Short Circuit\" consists of two parts. In the first, the robot Number 5 searches the military complex for objects and programs, switches off alarm systems and builds a decoy double so he can slip away unnoticed. In the second he escapes through a side-scrolling action section, avoiding animals and disabling soldiers with his laser instead of killing them. Combining adventure and action was unusual for a film licence.\n\nOcean released Short Circuit on cassette and disk, later also through The Hit Squad; cartridge conversions from the scene exist as well. It is played with a joystick in port 2 or the keyboard. The music is by Martin Galway.\n\nCode: Johnny Meegan · Graphics: Karen Davies · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/40/406009886c82ab874113c6e49114023e990dfbf5.png",
+    "sstitle": "images/2e/2e46dcaf228d119fd3b8b753e7f89161a8908b7e.png"
+  }
+}

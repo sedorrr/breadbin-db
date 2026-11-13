@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5676c273f8c22aebac858876454b089c4372ce6e",
+  "md5": "0a27fed04dd7b9ea77a31a049e908045",
+  "crc32": "b0776e00",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "3D Pool.crt"
+  ],
+  "screenscraper_id": "106824",
+  "title": "3D Pool",
+  "year": "1989",
+  "publisher": "Firebird",
+  "developer": "Nick Pelling",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "3D Pool ist eine Poolbillard-Simulation, die den Tisch in echter 3D-Darstellung zeigt. Die Ansicht lässt sich frei um den Tisch drehen und neigen, so dass man jeden Stoß aus dem passenden Blickwinkel planen kann. Stoßstärke und Effet werden vor dem Stoß eingestellt, die Kugeln verhalten sich dabei recht glaubwürdig. Gegen den Computer tritt man in einem Turnier mit mehreren Gegnern an, angeführt vom Meisterspieler „Maltese Joe“ Barbara. Für ihre Zeit galt die flüssige Drehung des Tisches auf 8-Bit-Rechnern als beachtlich.\n\nDas Spiel erschien 1989 bei Firebird auf Kassette und Diskette, in manchen Ländern unter Titeln wie „Maltese Joe Plays 3-D Pool“ oder „Sharkey's 3D Pool“. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler treten abwechselnd an.\n\nCode und Grafik: Nick Pelling",
+  "texts": {
+    "de": "3D Pool ist eine Poolbillard-Simulation, die den Tisch in echter 3D-Darstellung zeigt. Die Ansicht lässt sich frei um den Tisch drehen und neigen, so dass man jeden Stoß aus dem passenden Blickwinkel planen kann. Stoßstärke und Effet werden vor dem Stoß eingestellt, die Kugeln verhalten sich dabei recht glaubwürdig. Gegen den Computer tritt man in einem Turnier mit mehreren Gegnern an, angeführt vom Meisterspieler „Maltese Joe“ Barbara. Für ihre Zeit galt die flüssige Drehung des Tisches auf 8-Bit-Rechnern als beachtlich.\n\nDas Spiel erschien 1989 bei Firebird auf Kassette und Diskette, in manchen Ländern unter Titeln wie „Maltese Joe Plays 3-D Pool“ oder „Sharkey's 3D Pool“. Es gibt Modulumsetzungen aus der OneLoad64-Sammlung und eine einteilige PRG-Fassung. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler treten abwechselnd an.\n\nCode und Grafik: Nick Pelling",
+    "en": "3D Pool is a pool simulation that shows the table in true 3D. The view can be rotated and tilted freely around the table, so every shot can be planned from the right angle. Power and spin are set before each shot, and the balls behave quite convincingly. Against the computer the player enters a tournament against several opponents, headed by the champion \"Maltese Joe\" Barbara. For its time, the smooth rotation of the table on 8-bit machines was considered remarkable.\n\nThe game was released in 1989 by Firebird on cassette and disk, in some countries under titles such as \"Maltese Joe Plays 3-D Pool\" or \"Sharkey's 3D Pool\". There are cartridge conversions from the OneLoad64 collection and a single-file PRG version. It is controlled with a joystick in port 2; two players take turns.\n\nCode and graphics: Nick Pelling"
+  },
+  "images": {
+    "sstitle": "images/99/99d55d3961a6d68b042e91fa42755a02d7d1fc37.png"
+  }
+}

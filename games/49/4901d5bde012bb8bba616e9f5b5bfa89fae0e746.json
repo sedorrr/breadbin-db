@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4901d5bde012bb8bba616e9f5b5bfa89fae0e746",
+  "md5": "34aeb29ca60dc5aaad1118936258a010",
+  "crc32": "53da509d",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Master of the Lamps.crt"
+  ],
+  "screenscraper_id": "36656",
+  "title": "Master of the Lamps",
+  "year": "1985",
+  "publisher": "Activision",
+  "developer": "Peter Kaminski",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Ein junger Prinz muss die Geister aus zerbrochenen Lampen zurück in ihr Gefängnis bringen, um sein Königreich zu retten. Jeder Abschnitt beginnt mit einem Flug auf dem fliegenden Teppich durch einen in die Tiefe führenden Tunnel, in dem Hindernisse geschickt umflogen werden müssen. Danach folgt ein Musikrätsel: Der Geist schlägt eine Tonfolge auf Gongs an, die der Spieler in der richtigen Reihenfolge wiederholen muss. Die Verbindung von Flugsequenzen mit Gedächtnis- und Musikaufgaben machte das Spiel ungewöhnlich.\n\nErschien bei Activision auf Diskette und Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2. Die Idee und die Musik stammen von Russell Lieblich.\n\nCode: Peter Kaminski · Musik: Russell Lieblich",
+  "texts": {
+    "de": "Ein junger Prinz muss die Geister aus zerbrochenen Lampen zurück in ihr Gefängnis bringen, um sein Königreich zu retten. Jeder Abschnitt beginnt mit einem Flug auf dem fliegenden Teppich durch einen in die Tiefe führenden Tunnel, in dem Hindernisse geschickt umflogen werden müssen. Danach folgt ein Musikrätsel: Der Geist schlägt eine Tonfolge auf Gongs an, die der Spieler in der richtigen Reihenfolge wiederholen muss. Die Verbindung von Flugsequenzen mit Gedächtnis- und Musikaufgaben machte das Spiel ungewöhnlich.\n\nErschien bei Activision auf Diskette und Kassette; heute gibt es auch Modulumsetzungen aus dem OneLoad64-Projekt. Gesteuert wird per Joystick in Port 2. Die Idee und die Musik stammen von Russell Lieblich.\n\nCode: Peter Kaminski · Musik: Russell Lieblich",
+    "en": "A young prince must return the genies from broken lamps to their prison to save his kingdom. Each section begins with a flight on a magic carpet through a tunnel leading into the distance, where obstacles have to be dodged skilfully. Then comes a musical puzzle: the genie strikes a sequence of notes on gongs, which the player has to repeat in the correct order. The combination of flying sequences with memory and music tasks made the game unusual.\n\nReleased by Activision on disk and cassette; today there are also cartridge conversions from the OneLoad64 project. Controlled by joystick in port 2. The concept and music are by Russell Lieblich.\n\nCode: Peter Kaminski · Music: Russell Lieblich"
+  },
+  "images": {
+    "sstitle": "images/e2/e2a102caf012ed18178198119ba3a2623d04f08f.png"
+  }
+}

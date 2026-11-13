@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5ce6fdd23d61b44ccb34d4b4561b3278c0dc6ec1",
+  "md5": "87c75a412365098bf4acd7063a7327ca",
+  "crc32": "ae381174",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LANCELOT.D64"
+  ],
+  "screenscraper_id": "114148",
+  "title": "Lancelot",
+  "year": "1988",
+  "publisher": "Mandarin Software",
+  "developer": "Level 9 Computing (Pete Austin)",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Lancelot erzählt die Artussage aus der Sicht des berühmtesten Ritters der Tafelrunde. Zunächst muss sich Lancelot am Hof bewähren und tritt gegen den Schwarzen Ritter an, hinter dem sich König Artus selbst verbirgt. Danach befreit er verschollene Ritter, die vielfach von aufständischen Fürsten gefangen gehalten werden, um die Tafelrunde zu vervollständigen, und zieht schließlich mit Galahad auf die Suche nach dem Heiligen Gral. Das Spiel ist in drei Teile gegliedert und hält sich eng an die mittelalterlichen Vorlagen.\n\nErschien 1988 bei Mandarin Software für zahlreiche Systeme; auf dem C64 gibt es eine Kassettenfassung als reines Textabenteuer in drei getrennten Teilen und eine Diskettenfassung mit Bildern. Gespielt wird über die Tastatur.\n\nEntwurf: Pete Austin · Text: Christina Erskine, Peter McBride",
+  "texts": {
+    "de": "Lancelot erzählt die Artussage aus der Sicht des berühmtesten Ritters der Tafelrunde. Zunächst muss sich Lancelot am Hof bewähren und tritt gegen den Schwarzen Ritter an, hinter dem sich König Artus selbst verbirgt. Danach befreit er verschollene Ritter, die vielfach von aufständischen Fürsten gefangen gehalten werden, um die Tafelrunde zu vervollständigen, und zieht schließlich mit Galahad auf die Suche nach dem Heiligen Gral. Das Spiel ist in drei Teile gegliedert und hält sich eng an die mittelalterlichen Vorlagen.\n\nErschien 1988 bei Mandarin Software für zahlreiche Systeme; auf dem C64 gibt es eine Kassettenfassung als reines Textabenteuer in drei getrennten Teilen und eine Diskettenfassung mit Bildern. Gespielt wird über die Tastatur.\n\nEntwurf: Pete Austin · Text: Christina Erskine, Peter McBride",
+    "en": "Lancelot tells the Arthurian legend from the point of view of the most famous Knight of the Round Table. First Lancelot must prove himself at court and faces the Black Knight, who turns out to be King Arthur himself. He then frees missing knights, many held by rebel lords, to complete the Round Table, and finally sets out with Galahad in search of the Holy Grail. The game is divided into three parts and sticks closely to the medieval sources.\n\nReleased by Mandarin Software in 1988 for numerous systems; on the C64 there is a tape version as a pure text adventure in three separate parts and a disk version with pictures. It is played with the keyboard.\n\nDesign: Pete Austin · Writing: Christina Erskine, Peter McBride"
+  },
+  "images": {
+    "ss": "images/73/734f03767be865a304719301ea60b1689f7b78de.png"
+  }
+}

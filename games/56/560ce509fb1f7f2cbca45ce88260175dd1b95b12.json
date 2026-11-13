@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "560ce509fb1f7f2cbca45ce88260175dd1b95b12",
+  "md5": "a7cb9fdf4a23982e11356881ead53eb7",
+  "crc32": "400de3eb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GNOMERA1.D64"
+  ],
+  "screenscraper_id": "36842",
+  "title": "Gnome Ranger",
+  "year": "1987",
+  "publisher": "Level 9 Computing",
+  "developer": "Level 9 (Pete Austin)",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Die Gnomin Ingrid Bottomlow hat ihre Familie mit ungnomischem Verhalten wie einem Universitätsstudium verärgert und wird durch eine fehlerhafte Zauberschriftrolle weit fort aus ihrem Dorf versetzt. Nun muss sie den Heimweg finden. Eine Besonderheit ist der Umgang mit anderen Figuren: Ihnen lassen sich Befehle erteilen, und viele Rätsel lösen sich nur, wenn man Tiere und Bewohner für sich arbeiten lässt. Das Spiel ist in drei Abschnitte gegliedert und voller trockenem Humor. Mit Ingrid's Back folgte 1988 eine Fortsetzung.\n\nErschien 1987 bei Level 9 für zahlreiche Systeme, auf dem C64 auf Kassette und Diskette; die Diskettenfassung zeigt Bilder zu vielen Orten. Gespielt wird über die Tastatur.\n\nEntwurf: Pete Austin · Code: Mike Austin · Grafik: Godfrey Dowson, Neil Strudwick",
+  "texts": {
+    "de": "Die Gnomin Ingrid Bottomlow hat ihre Familie mit ungnomischem Verhalten wie einem Universitätsstudium verärgert und wird durch eine fehlerhafte Zauberschriftrolle weit fort aus ihrem Dorf versetzt. Nun muss sie den Heimweg finden. Eine Besonderheit ist der Umgang mit anderen Figuren: Ihnen lassen sich Befehle erteilen, und viele Rätsel lösen sich nur, wenn man Tiere und Bewohner für sich arbeiten lässt. Das Spiel ist in drei Abschnitte gegliedert und voller trockenem Humor. Mit Ingrid's Back folgte 1988 eine Fortsetzung.\n\nErschien 1987 bei Level 9 für zahlreiche Systeme, auf dem C64 auf Kassette und Diskette; die Diskettenfassung zeigt Bilder zu vielen Orten. Gespielt wird über die Tastatur.\n\nEntwurf: Pete Austin · Code: Mike Austin · Grafik: Godfrey Dowson, Neil Strudwick",
+    "en": "The gnome Ingrid Bottomlow has annoyed her family with ungnomely behaviour such as going to university and is sent far away from her village by a faulty magic scroll. Now she has to find her way home. A special feature is how she deals with other characters: they can be given orders, and many puzzles can only be solved by getting animals and locals to work for her. The game is divided into three sections and full of dry humour. A sequel, Ingrid's Back, followed in 1988.\n\nReleased by Level 9 in 1987 for numerous systems, on the C64 on tape and disk; the disk version shows pictures for many locations. It is played with the keyboard.\n\nDesign: Pete Austin · Code: Mike Austin · Graphics: Godfrey Dowson, Neil Strudwick"
+  },
+  "images": {
+    "ss": "images/78/782541d59805d915d6045ca78a0e1a1c2400af77.png",
+    "sstitle": "images/10/1025f609aa8f9a669601a4f1b88714ea5f7067c2.png"
+  }
+}

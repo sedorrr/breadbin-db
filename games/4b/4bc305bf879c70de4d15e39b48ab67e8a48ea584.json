@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4bc305bf879c70de4d15e39b48ab67e8a48ea584",
+  "md5": "23f81bf4f702a06dee55ba0a11abc6b4",
+  "crc32": "935219ff",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "IMPOSSA1.D64"
+  ],
+  "screenscraper_id": "36797",
+  "title": "Impossamole",
+  "year": "1990",
+  "publisher": "Gremlin Graphics",
+  "developer": "Core Design",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Monty Mole, der Maulwurf aus Gremlins bekannter Reihe, wird von Außerirdischen mit Superheldenkräften und Umhang ausgestattet, um ihnen heilige Schriftrollen zurückzuholen. Er läuft seitlich durch die Abschnitte, klettert Leitern und setzt Waffen und einen fliegenden Tritt gegen allerlei Kreaturen ein. Die ersten vier Welten, der Orient, die Klondike-Minen, eine Eiswelt und der Amazonas-Dschungel, lassen sich in beliebiger Reihenfolge spielen; danach öffnet sich die fünfte und letzte. Das Spiel ist der sechste und letzte Teil der Monty-Mole-Reihe.\n\nDie C64-Fassung erschien 1990 bei Gremlin Graphics auf Kassette und Diskette, entwickelt von Core Design. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul (MultiLoad64 von $olo1870).\n\nMusik: Barry Leitch",
+  "texts": {
+    "de": "Monty Mole, der Maulwurf aus Gremlins bekannter Reihe, wird von Außerirdischen mit Superheldenkräften und Umhang ausgestattet, um ihnen heilige Schriftrollen zurückzuholen. Er läuft seitlich durch die Abschnitte, klettert Leitern und setzt Waffen und einen fliegenden Tritt gegen allerlei Kreaturen ein. Die ersten vier Welten, der Orient, die Klondike-Minen, eine Eiswelt und der Amazonas-Dschungel, lassen sich in beliebiger Reihenfolge spielen; danach öffnet sich die fünfte und letzte. Das Spiel ist der sechste und letzte Teil der Monty-Mole-Reihe.\n\nDie C64-Fassung erschien 1990 bei Gremlin Graphics auf Kassette und Diskette, entwickelt von Core Design. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul (MultiLoad64 von $olo1870).\n\nMusik: Barry Leitch",
+    "en": "Monty Mole, the mole from Gremlin's well-known series, is given superhero powers and a cape by aliens so that he can retrieve their sacred scrolls. He runs through side-on stages, climbs ladders and uses weapons and a flying kick against all kinds of creatures. The first four worlds, the Orient, the Klondike mines, an ice world and the Amazon jungle, can be played in any order; then the fifth and final one opens up. It is the sixth and last game in the Monty Mole series.\n\nThe C64 version was released by Gremlin Graphics in 1990 on tape and disk, developed by Core Design. It is controlled with a joystick in port 2. Besides the original there are EasyFlash cartridge conversions (MultiLoad64 by $olo1870).\n\nMusic: Barry Leitch"
+  },
+  "images": {
+    "ss": "images/a3/a36b784b5088a7ca9fc231f167868da57266caf9.png"
+  }
+}

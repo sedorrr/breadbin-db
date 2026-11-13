@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "55366cb2ccd1df57e9369299143d7353b1fc462e",
+  "md5": "e4ccad2b33a2ce40375559456ed7d617",
+  "crc32": "3f7c843a",
+  "size": 503329,
+  "format": "TAP",
+  "files": [
+    "Skool Daze (Version 1).tap"
+  ],
+  "screenscraper_id": "113031",
+  "title": "Skool Daze",
+  "year": "1985",
+  "publisher": "Microsphere",
+  "developer": "David Reidy, Helen Reidy, Keith Warrington",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Schüler Eric will sein schlechtes Zeugnis aus dem Tresor des Direktors holen. Dazu muss er alle Wappenschilder im Schulgebäude treffen und den Lehrern die Buchstaben der Tresorkombination entlocken. Nebenbei läuft ein vollständiger Schulalltag mit Stundenplan, Mitschülern und Lehrern, die Strafarbeiten verteilen; zu viele Strafzeilen beenden das Spiel. Die Figuren lassen sich zu Beginn umbenennen. Die lebendige, frei ablaufende Schulwelt und der britische Humor machten Skool Daze zu einem Kultspiel.\n\nDie C64-Fassung erschien 1985 auf Kassette und folgt eng der Spectrum-Vorlage. Gesteuert wird per Tastatur oder Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwurf: David Reidy, Helen Reidy · Grafik: Keith Warrington",
+  "texts": {
+    "de": "Der Schüler Eric will sein schlechtes Zeugnis aus dem Tresor des Direktors holen. Dazu muss er alle Wappenschilder im Schulgebäude treffen und den Lehrern die Buchstaben der Tresorkombination entlocken. Nebenbei läuft ein vollständiger Schulalltag mit Stundenplan, Mitschülern und Lehrern, die Strafarbeiten verteilen; zu viele Strafzeilen beenden das Spiel. Die Figuren lassen sich zu Beginn umbenennen. Die lebendige, frei ablaufende Schulwelt und der britische Humor machten Skool Daze zu einem Kultspiel.\n\nDie C64-Fassung erschien 1985 auf Kassette und folgt eng der Spectrum-Vorlage. Gesteuert wird per Tastatur oder Joystick. Daneben gibt es eine OneLoad64-Umsetzung als EasyFlash-Modul.\n\nEntwurf: David Reidy, Helen Reidy · Grafik: Keith Warrington",
+    "en": "Schoolboy Eric wants to retrieve his bad school report from the headmaster's safe. To do so he has to hit all the shields in the school building and coax the letters of the safe combination out of the teachers. Meanwhile a complete school day runs its course, with a timetable, classmates and teachers handing out lines; too many lines end the game. The characters can be renamed at the start. The lively, free-running school world and the British humour made Skool Daze a cult game.\n\nThe C64 version was released in 1985 on tape and closely follows the Spectrum original. It is controlled with the keyboard or a joystick. There is also a OneLoad64 conversion as an EasyFlash cartridge.\n\nDesign: David Reidy, Helen Reidy · Graphics: Keith Warrington"
+  },
+  "images": {
+    "ss": "images/71/71cb7c3b3c612b6667d65b09de8d39ee208abc3a.png",
+    "sstitle": "images/69/69125ee16772e86bd74adf5e46d4e6886da662a2.png"
+  }
+}

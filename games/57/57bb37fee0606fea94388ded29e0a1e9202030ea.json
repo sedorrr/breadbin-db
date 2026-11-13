@@ -19,5 +19,9 @@
   "texts": {
     "de": "Das Spiel folgt dem Prinzip des Konami-Automaten Scramble von 1981, eines der ersten waagerecht scrollenden Ballerspiele: Ein Raumschiff fliegt dicht über eine zerklüftete Landschaft, weicht dem Gelände aus und bekämpft Raketen und Bodenziele mit Schüssen und Bomben. Die Steuerung verlangt vor allem genaues Manövrieren in engen Passagen.\n\nEs handelt sich um eine kleine, nicht lizenzierte C64-Nachbildung, die als Kassetten- bzw. Szenefassung überliefert ist; Herausgeber und Erscheinungsjahr sind unbekannt. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Frank G. Tout · Grafik: Frank G. Tout · Musik: Frank G. Tout",
     "en": "The game follows the concept of Konami's 1981 arcade game Scramble, one of the first horizontally scrolling shooters: a spaceship flies low over a rugged landscape, avoids the terrain and fights missiles and ground targets with shots and bombs. The controls above all demand precise manoeuvring in narrow passages.\n\nThis is a small, unlicensed C64 clone that has survived as a cassette or scene version; publisher and year of release are unknown. Controlled with the joystick in port 2.\n\nCode: Frank G. Tout · Graphics: Frank G. Tout · Music: Frank G. Tout"
+  },
+  "images": {
+    "ss": "images/c4/c471ac60a750689f5ce1d7730c2f14abf9e65163.png",
+    "sstitle": "images/e6/e6591687652f9b01352959c6b4749c1c5ac7b0f9.png"
   }
 }

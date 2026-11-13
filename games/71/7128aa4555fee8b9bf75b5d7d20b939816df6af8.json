@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7128aa4555fee8b9bf75b5d7d20b939816df6af8",
+  "md5": "7c2d51cdd8e96c717168be94606983cf",
+  "crc32": "649db8fd",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CONAN1.D64"
+  ],
+  "screenscraper_id": "111227",
+  "title": "Conan",
+  "year": "1984",
+  "publisher": "Datasoft",
+  "developer": "Eric Robinson, Eric Parker (Original); C64: Ron J. Fortier, John Butrovich",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Der Barbar Conan kämpft sich durch die Festung des Zauberers Volta, die aus sieben gefahrvollen Räumen besteht. Seine wichtigste Waffe ist ein Schwert, das er wirft und das wie ein Bumerang zu ihm zurückkehrt; damit erledigt er Fledermäuse, Skorpione und andere Wächter. In jedem Raum gilt es, Edelsteine und Schlüssel einzusammeln und Fallen, Lava und einstürzenden Böden auszuweichen. Ein Falke begleitet den Helden und taucht in manchen Räumen als Helfer auf. Das Spiel gehört zu den frühen Lizenzspielen um Robert E. Howards Figur und verbindet Plattformsprünge mit Geschicklichkeitseinlagen.\n\nUrsprünglich für den Apple II entwickelt (dort als „Conan: Hall of Volta“), erschien die C64-Fassung 1984 bei Datasoft auf Diskette. Gesteuert wird per Joystick in Port 2.\n\nCode: Ron J. Fortier, John Butrovich · Musik: John A. Fitzpatrick",
+  "texts": {
+    "de": "Der Barbar Conan kämpft sich durch die Festung des Zauberers Volta, die aus sieben gefahrvollen Räumen besteht. Seine wichtigste Waffe ist ein Schwert, das er wirft und das wie ein Bumerang zu ihm zurückkehrt; damit erledigt er Fledermäuse, Skorpione und andere Wächter. In jedem Raum gilt es, Edelsteine und Schlüssel einzusammeln und Fallen, Lava und einstürzenden Böden auszuweichen. Ein Falke begleitet den Helden und taucht in manchen Räumen als Helfer auf. Das Spiel gehört zu den frühen Lizenzspielen um Robert E. Howards Figur und verbindet Plattformsprünge mit Geschicklichkeitseinlagen.\n\nUrsprünglich für den Apple II entwickelt (dort als „Conan: Hall of Volta“), erschien die C64-Fassung 1984 bei Datasoft auf Diskette. Gesteuert wird per Joystick in Port 2.\n\nCode: Ron J. Fortier, John Butrovich · Musik: John A. Fitzpatrick",
+    "en": "The barbarian Conan fights his way through the fortress of the wizard Volta, made up of seven trap-filled rooms. His main weapon is a sword that he throws and that returns to him like a boomerang, dispatching bats, scorpions and other guardians. In each room he has to collect gems and keys while avoiding traps, lava and collapsing floors. A falcon accompanies the hero and appears in some rooms to help him. It is one of the early licensed games based on Robert E. Howard's character, mixing platform jumps with tests of skill.\n\nOriginally developed for the Apple II (as \"Conan: Hall of Volta\"), the C64 version was released by Datasoft on disk in 1984. It is controlled with a joystick in port 2.\n\nCode: Ron J. Fortier, John Butrovich · Music: John A. Fitzpatrick"
+  },
+  "images": {
+    "sstitle": "images/da/da12f5c41f2ffc8d5d4b0e863471f5f353affb90.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5bf7a3701a862e96b8eb11a450d22bfc78d0f472",
+  "md5": "4623ff665d2aef11f57e1447208dc016",
+  "crc32": "c71b1d19",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "INDOORS1.D64"
+  ],
+  "screenscraper_id": "113180",
+  "title": "Indoor Sports",
+  "year": "1986",
+  "publisher": "Mindscape",
+  "developer": "SportTime",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-4",
+  "synopsis": "Eine Sammlung von vier Hallen- und Kneipensportarten: Bowling, Darts, Tischeishockey (Airhockey) und Tischtennis. Bis zu vier Spieler können gegeneinander antreten oder gegen den Rechner spielen. Jede Disziplin hat eine eigene Steuerung, etwa das Zielen und Dosieren beim Dartwurf oder das Ausrichten der Kugel beim Bowling. Die abwechslungsreiche Zusammenstellung eignet sich besonders für gesellige Runden.\n\nDie C64-Fassung erschien 1986 bei Mindscape auf Diskette; die US-Ausgabe enthielt zusätzlich „Superstar Ping-Pong“. Gesteuert wird per Joystick in Port 2. Daneben gibt es mehrere EasyFlash-Umsetzungen als Modul.\n\nCode: Simon Ffinch, Daniel Lucas, Ed Ringler · Musik: John A. Fitzpatrick",
+  "texts": {
+    "de": "Eine Sammlung von vier Hallen- und Kneipensportarten: Bowling, Darts, Tischeishockey (Airhockey) und Tischtennis. Bis zu vier Spieler können gegeneinander antreten oder gegen den Rechner spielen. Jede Disziplin hat eine eigene Steuerung, etwa das Zielen und Dosieren beim Dartwurf oder das Ausrichten der Kugel beim Bowling. Die abwechslungsreiche Zusammenstellung eignet sich besonders für gesellige Runden.\n\nDie C64-Fassung erschien 1986 bei Mindscape auf Diskette; die US-Ausgabe enthielt zusätzlich „Superstar Ping-Pong“. Gesteuert wird per Joystick in Port 2. Daneben gibt es mehrere EasyFlash-Umsetzungen als Modul.\n\nCode: Simon Ffinch, Daniel Lucas, Ed Ringler · Musik: John A. Fitzpatrick",
+    "en": "A collection of four indoor and pub sports: bowling, darts, table ice hockey (air hockey) and table tennis. Up to four players can compete against each other or against the computer. Each event has its own controls, such as aiming and judging the strength of a dart throw or lining up the ball in bowling. The varied mix is especially suited to social sessions.\n\nThe C64 version was released by Mindscape in 1986 on disk; the US edition also included \"Superstar Ping-Pong\". It is controlled with a joystick in port 2. There are also several EasyFlash cartridge conversions.\n\nCode: Simon Ffinch, Daniel Lucas, Ed Ringler · Music: John A. Fitzpatrick"
+  },
+  "images": {
+    "sstitle": "images/41/41de83668cd1294864f8ea02898aa2a281537af4.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "4bd6808ea57b615fbd3277b9620822e83f64383b",
+  "md5": "bc865de94d875755cdf4a0c3562b3a89",
+  "crc32": "70545ac2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ZORK2-G.D64"
+  ],
+  "screenscraper_id": "109435",
+  "title": "Zork II: The Wizard of Frobozz",
+  "year": "1981",
+  "publisher": "Infocom",
+  "developer": "Infocom (Marc Blank, Dave Lebling)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Zork II setzt das Abenteuer im Großen Unterirdischen Reich fort, das in Zork I begonnen hat. Der Spieler erkundet weitere Höhlen, sammelt Schätze und bekommt es mit dem launischen Zauberer von Frobozz zu tun, der ihn immer wieder mit Zaubersprüchen behindert. Zu den bekannten Rätseln gehören ein Drache, eine gefangene Prinzessin und ein Dämon, der für Schätze Wünsche erfüllt. Wie alle Infocom-Spiele besticht es durch einen für damalige Verhältnisse sehr leistungsfähigen Parser und pointierte Texte.\n\nDie C64-Fassung ist ein reines Textadventure auf Diskette und läuft mit Infocoms Interpreter, der die Spieldaten von der Diskette nachlädt. Eingegeben wird über die Tastatur in ganzen Sätzen.\n\nDesign und Code: Marc Blank, Dave Lebling",
+  "texts": {
+    "de": "Zork II setzt das Abenteuer im Großen Unterirdischen Reich fort, das in Zork I begonnen hat. Der Spieler erkundet weitere Höhlen, sammelt Schätze und bekommt es mit dem launischen Zauberer von Frobozz zu tun, der ihn immer wieder mit Zaubersprüchen behindert. Zu den bekannten Rätseln gehören ein Drache, eine gefangene Prinzessin und ein Dämon, der für Schätze Wünsche erfüllt. Wie alle Infocom-Spiele besticht es durch einen für damalige Verhältnisse sehr leistungsfähigen Parser und pointierte Texte.\n\nDie C64-Fassung ist ein reines Textadventure auf Diskette und läuft mit Infocoms Interpreter, der die Spieldaten von der Diskette nachlädt. Eingegeben wird über die Tastatur in ganzen Sätzen.\n\nDesign und Code: Marc Blank, Dave Lebling",
+    "en": "Zork II continues the adventure in the Great Underground Empire that began in Zork I. The player explores further caves, collects treasure and has to deal with the capricious Wizard of Frobozz, who keeps hindering him with spells. Well-known puzzles include a dragon, a captive princess and a demon who grants wishes in exchange for treasure. Like all Infocom games it stands out for a parser that was very capable for its time and for sharp writing.\n\nThe C64 version is a pure text adventure on disk and runs with Infocom's interpreter, which loads game data from the disk as needed. Input is via the keyboard in full sentences.\n\nDesign and code: Marc Blank, Dave Lebling"
+  }
+}

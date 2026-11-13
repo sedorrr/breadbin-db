@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "74cbc3fd4102296b9b8b3c7e14f14f9c8ccba8d2",
+  "md5": "cb9d3e4ad82f058d556817bd8a498f11",
+  "crc32": "78d8b433",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Mind Forever Voyaging, A (19xx)(Infocom)(Side B).d64"
+  ],
+  "screenscraper_id": "570804",
+  "title": "A Mind Forever Voyaging",
+  "year": "1985",
+  "publisher": "Infocom",
+  "developer": "Steve Meretzky (Infocom)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Nur für den Commodore 128 im 80-Zeichen-Modus – auf dem C64 läuft dieses Spiel nicht.\n\nDer Spieler ist PRISM, die erste künstliche Intelligenz mit eigenem Bewusstsein, die bislang glaubte, ein gewöhnlicher Mensch zu sein. Im Auftrag der Regierung soll sie ein umstrittenes Reformprogramm prüfen, indem sie die Kleinstadt Rockvil in South Dakota Jahrzehnte in die Zukunft simuliert und dort als Bürger lebt. Mit jedem Zeitsprung zeigen sich die Folgen der Politik deutlicher, bis die Simulation in Unterdrückung und Verfall endet. Statt vieler Rätsel steht das Beobachten und Aufzeichnen im Vordergrund. Steve Meretzkys ernstes politisches Werk gilt als eines der ambitioniertesten Infocom-Spiele.\n\nDas Spiel nutzt Infocoms Interpreter für erweiterten Speicher; auf Commodore-Rechnern gibt es es nur für den C128, nicht für den C64. Die C128-Fassung belegt zwei Diskettenseiten. Gespielt wird über die Tastatur.\n\nAutor: Steve Meretzky",
+  "texts": {
+    "de": "Nur für den Commodore 128 im 80-Zeichen-Modus – auf dem C64 läuft dieses Spiel nicht.\n\nDer Spieler ist PRISM, die erste künstliche Intelligenz mit eigenem Bewusstsein, die bislang glaubte, ein gewöhnlicher Mensch zu sein. Im Auftrag der Regierung soll sie ein umstrittenes Reformprogramm prüfen, indem sie die Kleinstadt Rockvil in South Dakota Jahrzehnte in die Zukunft simuliert und dort als Bürger lebt. Mit jedem Zeitsprung zeigen sich die Folgen der Politik deutlicher, bis die Simulation in Unterdrückung und Verfall endet. Statt vieler Rätsel steht das Beobachten und Aufzeichnen im Vordergrund. Steve Meretzkys ernstes politisches Werk gilt als eines der ambitioniertesten Infocom-Spiele.\n\nDas Spiel nutzt Infocoms Interpreter für erweiterten Speicher; auf Commodore-Rechnern gibt es es nur für den C128, nicht für den C64. Die C128-Fassung belegt zwei Diskettenseiten. Gespielt wird über die Tastatur.\n\nAutor: Steve Meretzky",
+    "en": "For the Commodore 128 in 80-column mode only – this game does not run on the C64.\n\nThe player is PRISM, the first self-aware artificial intelligence, who until now believed it was an ordinary human. On behalf of the government it is to test a controversial reform programme by simulating the small town of Rockvil, South Dakota, decades into the future and living there as a citizen. With every leap in time the consequences of the policy become clearer, until the simulation ends in oppression and decay. Instead of many puzzles, the focus is on observing and recording. Steve Meretzky's serious political work is regarded as one of Infocom's most ambitious games.\n\nThe game uses Infocom's interpreter for larger memory; on Commodore machines it exists only for the C128, not the C64. The C128 version takes up two disk sides. It is played with the keyboard.\n\nAuthor: Steve Meretzky"
+  }
+}

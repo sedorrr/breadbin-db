@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "6a054e3e1a20a52a2748f18aa6482eee6ac390d1",
+  "md5": "f9dea827328ddc917277fa97963720b3",
+  "crc32": "28b6083a",
+  "size": 238096,
+  "format": "CRT",
+  "files": [
+    "Galactic Games (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "112497",
+  "title": "Galactic Games",
+  "year": "1987",
+  "publisher": "Activision",
+  "developer": "Tigress Marketing",
+  "genres": [
+    "Sport",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein augenzwinkerndes Mehrkampfspiel, das die Olympischen Spiele auf einen fernen Planeten verlegt und von außerirdischen Teilnehmern bestreiten lässt. Die fünf Disziplinen heißen 100-Meter-Schlängeln, Weltraumhockey, Kopfwerfen, Metamorph-Marathon und Psycho-Judo und haben jeweils eigene Steuerungen. Statt nur am Joystick zu rütteln, verlangen manche Wettbewerbe Gefühl und Taktik. Zu zweit kann gegeneinander angetreten werden.\n\nDie C64-Fassung erschien 1987 bei Activision auf Kassette und Diskette und lädt die Disziplinen nach. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul (MultiLoad64 von $olo1870).\n\nGrafik: Martin Chatfield",
+  "texts": {
+    "de": "Ein augenzwinkerndes Mehrkampfspiel, das die Olympischen Spiele auf einen fernen Planeten verlegt und von außerirdischen Teilnehmern bestreiten lässt. Die fünf Disziplinen heißen 100-Meter-Schlängeln, Weltraumhockey, Kopfwerfen, Metamorph-Marathon und Psycho-Judo und haben jeweils eigene Steuerungen. Statt nur am Joystick zu rütteln, verlangen manche Wettbewerbe Gefühl und Taktik. Zu zweit kann gegeneinander angetreten werden.\n\nDie C64-Fassung erschien 1987 bei Activision auf Kassette und Diskette und lädt die Disziplinen nach. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul (MultiLoad64 von $olo1870).\n\nGrafik: Martin Chatfield",
+    "en": "A tongue-in-cheek multi-event game that moves the Olympics to a distant planet, contested by alien athletes. The five events are the 100 metre slither, space hockey, head throwing, the metamorph marathon and psychic judo, each with its own controls. Rather than simple joystick waggling, some events call for finesse and tactics. Two players can compete against each other.\n\nThe C64 version was released by Activision in 1987 on tape and disk and loads the events separately. It is controlled with a joystick in port 2. Besides the original there are EasyFlash cartridge conversions (MultiLoad64 by $olo1870).\n\nGraphics: Martin Chatfield"
+  }
+}

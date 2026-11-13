@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5182821573f2687ed9d1d73ae78fe68b9881401f",
+  "md5": "963e5cdcb1080ee2714ebbe3d681269c",
+  "crc32": "8c378220",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WISHBRI1.D64"
+  ],
+  "screenscraper_id": "36143",
+  "title": "Wishbringer",
+  "year": "1985",
+  "publisher": "Infocom",
+  "developer": "Brian Moriarty (Infocom)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Als Postbote im verschlafenen Küstenort Festeron soll der Spieler einen geheimnisvollen Brief zustellen und gerät dabei in eine verzauberte Parallelwelt, in der eine böse Herrscherin regiert. Hilfe verspricht der magische Stein Wishbringer, mit dem sich einige Wünsche erfüllen lassen. Jedes Rätsel lässt sich entweder mit einem Wunsch oder auf normalem Weg lösen, wodurch das Spiel Anfängern leicht und Kennern eine Herausforderung bietet. Wishbringer war ausdrücklich als Einstieg in Infocoms Textabenteuer gedacht.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; beigelegt war unter anderem ein leuchtender Plastikstein. 1988 folgte eine Solid-Gold-Ausgabe mit eingebauten InvisiClues-Hilfen. Gespielt wird über die Tastatur.\n\nAutor: Brian Moriarty",
+  "texts": {
+    "de": "Als Postbote im verschlafenen Küstenort Festeron soll der Spieler einen geheimnisvollen Brief zustellen und gerät dabei in eine verzauberte Parallelwelt, in der eine böse Herrscherin regiert. Hilfe verspricht der magische Stein Wishbringer, mit dem sich einige Wünsche erfüllen lassen. Jedes Rätsel lässt sich entweder mit einem Wunsch oder auf normalem Weg lösen, wodurch das Spiel Anfängern leicht und Kennern eine Herausforderung bietet. Wishbringer war ausdrücklich als Einstieg in Infocoms Textabenteuer gedacht.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; beigelegt war unter anderem ein leuchtender Plastikstein. 1988 folgte eine Solid-Gold-Ausgabe mit eingebauten InvisiClues-Hilfen. Gespielt wird über die Tastatur.\n\nAutor: Brian Moriarty",
+    "en": "As a postal clerk in the sleepy seaside town of Festeron, the player is sent to deliver a mysterious letter and ends up in an enchanted parallel world ruled by an evil queen. Help comes from the magic stone Wishbringer, which can grant a handful of wishes. Every puzzle can be solved either with a wish or the ordinary way, so the game is easy for beginners yet challenging for experts. Wishbringer was explicitly designed as an introduction to Infocom's text adventures.\n\nReleased as a pure text adventure by Infocom for numerous systems, including the C64 on disk; the package included, among other things, a glowing plastic stone. A Solid Gold edition with built-in InvisiClues hints followed in 1988. It is played with the keyboard.\n\nAuthor: Brian Moriarty"
+  },
+  "images": {
+    "ss": "images/20/20afacd855972ba00fed1f0421b7c235f449b40c.png"
+  }
+}

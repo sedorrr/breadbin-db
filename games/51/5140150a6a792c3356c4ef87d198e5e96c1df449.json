@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5140150a6a792c3356c4ef87d198e5e96c1df449",
+  "md5": "576e2bdbfa21e5e7222becad2018d271",
+  "crc32": "a5deedad",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Chopper Command (Antonio Savona - 2019).crt"
+  ],
+  "screenscraper_id": "492788",
+  "title": "Chopper Command",
+  "year": "2019",
+  "publisher": "Antonio Savona (freie Veröffentlichung)",
+  "developer": "Antonio Savona",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Chopper Command ist eine 2019 erschienene, möglichst getreue C64-Umsetzung des Atari-2600-Spiels von Activision aus dem Jahr 1982. Man fliegt einen Hubschrauber über eine seitlich scrollende Wüste und beschützt einen Konvoi von Lastwagen vor feindlichen Hubschraubern und Düsenjägern. Ein Radar am unteren Bildrand zeigt die Lage im ganzen Gebiet, ähnlich wie bei Defender. Eine Runde ist geschafft, wenn alle Angreifer einer Welle abgeschossen sind; je mehr Lastwagen überleben, desto höher der Bonus. Das schlichte, schnelle Spielprinzip des Vorbilds blieb erhalten.\n\nDie Umsetzung erschien 2019 kostenlos über die CSDb und war die erste einer Reihe von Atari-2600-Umsetzungen dieses Teams (es folgte Keystone Kapers). Neben der PRG-Fassung gibt es Modulumsetzungen aus der OneLoad64-Sammlung. Gesteuert wird mit dem Joystick.\n\nCode: Antonio Savona · Grafik: Steven Day · Musik: Saul Cross · Soundeffekte: Flemming Martins",
+  "texts": {
+    "de": "Chopper Command ist eine 2019 erschienene, möglichst getreue C64-Umsetzung des Atari-2600-Spiels von Activision aus dem Jahr 1982. Man fliegt einen Hubschrauber über eine seitlich scrollende Wüste und beschützt einen Konvoi von Lastwagen vor feindlichen Hubschraubern und Düsenjägern. Ein Radar am unteren Bildrand zeigt die Lage im ganzen Gebiet, ähnlich wie bei Defender. Eine Runde ist geschafft, wenn alle Angreifer einer Welle abgeschossen sind; je mehr Lastwagen überleben, desto höher der Bonus. Das schlichte, schnelle Spielprinzip des Vorbilds blieb erhalten.\n\nDie Umsetzung erschien 2019 kostenlos über die CSDb und war die erste einer Reihe von Atari-2600-Umsetzungen dieses Teams (es folgte Keystone Kapers). Neben der PRG-Fassung gibt es Modulumsetzungen aus der OneLoad64-Sammlung. Gesteuert wird mit dem Joystick.\n\nCode: Antonio Savona · Grafik: Steven Day · Musik: Saul Cross · Soundeffekte: Flemming Martins",
+    "en": "Chopper Command is a 2019 C64 conversion, as faithful as possible, of Activision's 1982 Atari 2600 game. The player flies a helicopter over a side-scrolling desert and protects a convoy of trucks from enemy helicopters and jets. A radar at the bottom of the screen shows the situation across the whole area, much like Defender. A round is complete when every attacker in a wave has been shot down; the more trucks survive, the higher the bonus. The simple, fast gameplay of the original has been preserved.\n\nThe conversion was released free of charge via CSDb in 2019 and was the first of a series of Atari 2600 conversions by this team (Keystone Kapers followed). Besides the PRG version there are cartridge conversions from the OneLoad64 collection. It is controlled with a joystick.\n\nCode: Antonio Savona · Graphics: Steven Day · Music: Saul Cross · Sound effects: Flemming Martins"
+  },
+  "images": {
+    "ss": "images/ad/ad39e3c62e5f00f30255bcc5dd7ea8c0d6daa2c8.png",
+    "sstitle": "images/52/5211744bd5c9c15538d2bb5e210a85560a715d47.png"
+  }
+}

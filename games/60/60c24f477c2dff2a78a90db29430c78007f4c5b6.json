@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "60c24f477c2dff2a78a90db29430c78007f4c5b6",
+  "md5": "b351243363f9c396a64ce2eb5e407548",
+  "crc32": "21ecd8d0",
+  "size": 15240,
+  "format": "PRG",
+  "files": [
+    "Aztec Challenge.prg"
+  ],
+  "screenscraper_id": "109752",
+  "title": "Aztec Challenge",
+  "year": "1983",
+  "publisher": "Cosmi",
+  "developer": "Paul Norman",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein aztekischer Krieger muss eine Reihe von Prüfungen bestehen, von denen jede ein anderes Spielprinzip hat. Gleich zu Beginn läuft er durch eine Gasse, in der von beiden Seiten Speere auf ihn geworfen werden; später folgen unter anderem die Stufen einer Pyramide. Paul Norman verstand seine Spiele als kleine interaktive Filme, und die treibende Musik und die schnellen Wechsel zwischen den sieben Abschnitten machen den Reiz aus. Aztec Challenge gehört zu den frühen C64-Spielen, die mit Musik und Abwechslung auffielen.\n\nDie C64-Fassung ist ein eigenständiges Spiel von Paul Norman und hat mit dem gleichnamigen Atari-Titel von Cosmi kaum etwas gemein. Cosmi veröffentlichte es 1983; ein oder zwei Spieler treten abwechselnd an, gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Paul Norman · Grafik: Paul Norman · Musik: Paul Norman",
+  "texts": {
+    "de": "Ein aztekischer Krieger muss eine Reihe von Prüfungen bestehen, von denen jede ein anderes Spielprinzip hat. Gleich zu Beginn läuft er durch eine Gasse, in der von beiden Seiten Speere auf ihn geworfen werden; später folgen unter anderem die Stufen einer Pyramide. Paul Norman verstand seine Spiele als kleine interaktive Filme, und die treibende Musik und die schnellen Wechsel zwischen den sieben Abschnitten machen den Reiz aus. Aztec Challenge gehört zu den frühen C64-Spielen, die mit Musik und Abwechslung auffielen.\n\nDie C64-Fassung ist ein eigenständiges Spiel von Paul Norman und hat mit dem gleichnamigen Atari-Titel von Cosmi kaum etwas gemein. Cosmi veröffentlichte es 1983; ein oder zwei Spieler treten abwechselnd an, gesteuert wird mit dem Joystick in Port 2. Neben Original und Cracks gibt es eine Umsetzung als OneLoad64-Modul.\n\nCode: Paul Norman · Grafik: Paul Norman · Musik: Paul Norman",
+    "en": "An Aztec warrior has to pass a series of trials, each with a different style of play. Right at the start he runs down an alley while spears are thrown at him from both sides; later stages include the steps of a pyramid. Paul Norman saw his games as small interactive movies, and the driving music and quick changes between the seven stages are what make it appealing. Aztec Challenge is one of the early C64 games that stood out for its music and variety.\n\nThe C64 version is a game of its own by Paul Norman and has little in common with Cosmi's Atari title of the same name. Cosmi released it in 1983; one or two players take turns, using a joystick in port 2. Besides the original and cracked versions there is a OneLoad64 cartridge conversion.\n\nCode: Paul Norman · Graphics: Paul Norman · Music: Paul Norman"
+  },
+  "images": {
+    "ss": "images/8e/8e5c3ec9abf29b22ba34dbd9ec41e1ac0f998223.png",
+    "sstitle": "images/95/958bdcfccc604fbf92904f2b22c0beb6395e43a5.png"
+  }
+}
