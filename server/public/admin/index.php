@@ -183,6 +183,8 @@ if ($admin) {
   .zahl b { display: block; font-size: 22px; color: var(--accent); font-variant-numeric: tabular-nums; }
   .zahl span { font-size: 12px; color: var(--muted); }
   .balken { display: grid; grid-template-columns: 60px 1fr 50px; gap: 6px; align-items: center; font-size: 13px; }
+  .balken > span:first-child { overflow-wrap: anywhere; }
+  .balken.breit { grid-template-columns: minmax(0, 290px) 1fr 60px; }
   .balken i { display: block; height: 8px; border-radius: 3px; background: var(--accent); min-width: 2px; }
   .statistik summary { cursor: pointer; font-weight: 600; }
 </style>
@@ -306,7 +308,7 @@ if ($admin) {
     <p class="meta">Downloads je Paket (30 Tage / insgesamt)</p>
     <div style="display:grid; gap:4px">
       <?php $mg = max(array_map(fn($r) => (int)$r['a'], $gesamt)); foreach ($gesamt as $r): ?>
-        <div class="balken"><span><?= h($r['schluessel']) ?></span><i style="width:<?= round((int)$r['a'] / max(1, $mg) * 100) ?>%"></i><span><?= (int)($dl30[$r['schluessel']] ?? 0) ?> / <?= (int)$r['a'] ?></span></div>
+        <div class="balken breit"><span><?= h($r['schluessel']) ?></span><i style="width:<?= round((int)$r['a'] / max(1, $mg) * 100) ?>%"></i><span><?= (int)($dl30[$r['schluessel']] ?? 0) ?> / <?= (int)$r['a'] ?></span></div>
       <?php endforeach ?>
     </div>
     <?php endif ?>
