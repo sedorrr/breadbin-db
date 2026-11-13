@@ -6,3 +6,9 @@
   </FilesMatch>
 </IfModule>
 Options -Indexes
+
+# Anonyme Nutzungszählung: version.json über version.php ausliefern (zählt App-Abrufe), siehe server/lib/zaehler.php
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^version\.json$ version.php [L]
+</IfModule>

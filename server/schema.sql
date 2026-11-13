@@ -19,3 +19,23 @@ CREATE TABLE IF NOT EXISTS beitraege (
 
 CREATE INDEX beitraege_status ON beitraege (status, eingang);
 CREATE INDEX beitraege_ip ON beitraege (ip_hash, eingang);
+
+-- Anonyme Nutzungszählung (lib/zaehler.php legt die Tabellen auch selbst an).
+-- Anonymous usage counting (lib/zaehler.php also creates these tables itself).
+CREATE TABLE IF NOT EXISTS nutzung_tag (
+  tag        DATE NOT NULL,
+  art        VARCHAR(20) NOT NULL,     -- app, webseite, download
+  schluessel VARCHAR(80) NOT NULL,     -- App-Version bzw. Dateiname
+  aufrufe    INT UNSIGNED NOT NULL DEFAULT 0,
+  eindeutig  INT UNSIGNED NOT NULL DEFAULT 0,  -- verschiedene Absender an diesem Tag
+  PRIMARY KEY (tag, art, schluessel)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+-- Tagesprüfsummen (IP + täglich wechselnder Wert), werden nach einem Tag gelöscht.
+CREATE TABLE IF NOT EXISTS nutzung_einmal (
+  tag        DATE NOT NULL,
+  art        VARCHAR(20) NOT NULL,
+  schluessel VARCHAR(80) NOT NULL,
+  hash       CHAR(64) NOT NULL,
+  PRIMARY KEY (tag, art, schluessel, hash)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

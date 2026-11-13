@@ -73,3 +73,12 @@ Stage 3 for a plain PHP + MySQL web space. **3a:** the workflow `spiegel.yml` up
 `public/admin/` lets the maintainer review, accept or reject them. Setup: import `schema.sql`, copy
 `config.example.php` to `config.php`, upload `server/` as `/breadbin/`. Tested locally with Docker
 (PHP 8.3, MariaDB 11), not yet on the real web space.
+
+## Nutzungszählung (anonym)
+
+`lib/zaehler.php` zählt Tageszahlen: Abrufe von `version.json` durch die App (User-Agent `Breadbin/<Version>`;
+`tools/seite/version.php`, eingehängt per `.htaccess` im Datenordner), Besuche der Webseite (Abruf mit `Origin`) und
+Downloads (`tools/seite/dl.php?f=<Paket>` zählt und leitet auf `breadbin.8bitcavern.de/download/` weiter). Gespeichert
+werden nur Zähler je Tag; für „eindeutig“ eine Prüfsumme aus IP, `salt` und Datum, die nach einem Tag gelöscht wird.
+Die Tabellen `nutzung_tag` / `nutzung_einmal` legt der Zähler beim ersten Abruf selbst an. Anzeige: Prüfseite → „Nutzung“.
+Ohne `config.php` oder Datenbank wird `version.json` trotzdem ausgeliefert.

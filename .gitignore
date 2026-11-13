@@ -2,3 +2,5 @@ dist/
 .DS_Store
 server/config.php
 server/daten/*.zip
+
+tools/__pycache__/

@@ -252,6 +252,75 @@ if ($admin) {
     <?php endif ?>
     <p class="meta">Öffentliche Übersicht mit Suche: <a href="https://breadbindb.8bitcavern.de/">breadbindb.8bitcavern.de</a></p>
   </details>
+  <?php
+    // Nutzung (anonyme Tageszahlen aus lib/zaehler.php; Tabellen entstehen beim ersten Abruf)
+    $nz = null;
+    try {
+        $q = db()->query("SELECT tag, art, schluessel, aufrufe, eindeutig FROM nutzung_tag
+                           WHERE tag >= CURDATE() - INTERVAL 30 DAY ORDER BY tag DESC");
+        $nz = $q->fetchAll();
+        $gesamt = db()->query("SELECT art, schluessel, SUM(aufrufe) a FROM nutzung_tag WHERE art = 'download'
+                               GROUP BY art, schluessel ORDER BY a DESC")->fetchAll();
+    } catch (Throwable $e) { $nz = null; }
+    if ($nz !== null):
+        $tage = []; $vers = []; $dl30 = []; $web30 = 0;
+        $woche = gmdate('Y-m-d', time() - 6 * 86400);
+        foreach ($nz as $r) {
+            $t = $r['tag'];
+            $tage[$t] ??= ['inst' => 0, 'starts' => 0, 'web' => 0, 'dl' => 0];
+            if ($r['art'] === 'app') {
+                $tage[$t]['inst'] += (int)$r['eindeutig']; $tage[$t]['starts'] += (int)$r['aufrufe'];
+                if ($t >= $woche) { $vers[$r['schluessel']] = max($vers[$r['schluessel']] ?? 0, (int)$r['eindeutig']); }
+            } elseif ($r['art'] === 'webseite') {
+                $tage[$t]['web'] += (int)$r['eindeutig']; $web30 += (int)$r['eindeutig'];
+            } elseif ($r['art'] === 'download') {
+                $tage[$t]['dl'] += (int)$r['aufrufe']; $dl30[$r['schluessel']] = ($dl30[$r['schluessel']] ?? 0) + (int)$r['aufrufe'];
+            }
+        }
+        $heute = $tage[gmdate('Y-m-d')]['inst'] ?? 0;
+        $w = array_filter($tage, fn($k) => $k >= $woche, ARRAY_FILTER_USE_KEY);
+        $max7 = $w ? max(array_column($w, 'inst')) : 0;
+        $schnitt7 = $w ? round(array_sum(array_column($w, 'inst')) / 7, 1) : 0;
+        arsort($vers);
+  ?>
+  <details class="karte statistik" open>
+    <summary>Nutzung</summary>
+    <p class="meta">Anonyme Tageszahlen: Abrufe der Update-Prüfung durch die App (höchstens einer je Installation und Tag),
+      Besuche der Webseite und Downloads. Gespeichert werden nur Zähler, keine IP-Adressen.</p>
+    <div class="zahlen">
+      <div class="zahl"><b><?= $heute ?></b><span>Installationen heute</span></div>
+      <div class="zahl"><b><?= $max7 ?></b><span>höchstens an einem Tag (7 Tage)</span></div>
+      <div class="zahl"><b><?= h((string)$schnitt7) ?></b><span>Schnitt je Tag (7 Tage)</span></div>
+      <div class="zahl"><b><?= array_sum($dl30) ?></b><span>Downloads (30 Tage)</span></div>
+      <div class="zahl"><b><?= $web30 ?></b><span>Webseitenbesuche (30 Tage)</span></div>
+    </div>
+    <?php if ($vers): ?>
+    <p class="meta">Versionen (7 Tage, Installationen am stärksten Tag)</p>
+    <div style="display:grid; gap:4px">
+      <?php $mv = max($vers); foreach ($vers as $v => $n): ?>
+        <div class="balken"><span><?= h((string)$v) ?></span><i style="width:<?= round($n / max(1, $mv) * 100) ?>%"></i><span><?= $n ?></span></div>
+      <?php endforeach ?>
+    </div>
+    <?php endif ?>
+    <?php if ($gesamt): ?>
+    <p class="meta">Downloads je Paket (30 Tage / insgesamt)</p>
+    <div style="display:grid; gap:4px">
+      <?php $mg = max(array_map(fn($r) => (int)$r['a'], $gesamt)); foreach ($gesamt as $r): ?>
+        <div class="balken"><span><?= h($r['schluessel']) ?></span><i style="width:<?= round((int)$r['a'] / max(1, $mg) * 100) ?>%"></i><span><?= (int)($dl30[$r['schluessel']] ?? 0) ?> / <?= (int)$r['a'] ?></span></div>
+      <?php endforeach ?>
+    </div>
+    <?php endif ?>
+    <?php if ($tage): ?>
+    <p class="meta">Letzte Tage (Installationen · App-Starts · Webseite · Downloads)</p>
+    <table class="meta" style="border-collapse:collapse">
+      <?php foreach (array_slice($tage, 0, 14, true) as $t => $r): ?>
+        <tr><td style="padding-right:12px"><?= h(date('d.m.', strtotime((string)$t))) ?></td><td style="padding-right:12px"><?= $r['inst'] ?></td>
+          <td style="padding-right:12px"><?= $r['starts'] ?></td><td style="padding-right:12px"><?= $r['web'] ?></td><td><?= $r['dl'] ?></td></tr>
+      <?php endforeach ?>
+    </table>
+    <?php else: ?><p class="meta">Noch keine Abrufe gezählt.</p><?php endif ?>
+  </details>
+  <?php endif ?>
   <?php if (!$liste): ?><p class="meta">Keine Beiträge mit Status „<?= h($zeige) ?>“.</p><?php endif ?>
   <?php foreach ($liste as $b):
       $pfad = $c['daten_dir'] . '/' . $b['datei'];

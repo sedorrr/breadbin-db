@@ -24,6 +24,7 @@ function db(): PDO
         $pdo = new PDO($c['db_dsn'], $c['db_user'], $c['db_password'], [
             PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
             PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+            PDO::ATTR_TIMEOUT => 3,
         ]);
     }
     return $pdo;
