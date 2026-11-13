@@ -25,6 +25,9 @@
   header { padding-block: 28px 8px; display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: 12px; }
   h1 { margin: 0; font: 700 clamp(28px, 5vw, 40px)/1.1 ui-monospace, "SF Mono", Menlo, Consolas, monospace; letter-spacing: -0.5px; color: var(--accent); }
   .lede { margin: 6px 0 0; color: var(--muted); max-width: 60ch; }
+  .nav { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .home { display: inline-block; background: var(--accent); color: var(--bg); border-radius: 6px; padding: 6px 12px; font-weight: 600; font-size: 14px; text-decoration: none; }
+  .home:hover { filter: brightness(1.1); }
   .lang { background: none; border: 1px solid var(--line); color: var(--fg); border-radius: 6px; padding: 4px 10px; cursor: pointer; font: inherit; font-size: 14px; }
   .mono { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
   .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; margin-top: 20px; }
@@ -79,7 +82,10 @@
       <h1>Breadbin-DB</h1>
       <p class="lede" data-t="lede">Gemeinschaftsdaten für Breadbin: selbst geschriebene Angaben und Bildschirmfotos zu C64-Spielen.</p>
     </div>
-    <button class="lang" id="lang" type="button">English</button>
+    <div class="nav">
+      <a class="home" href="https://breadbin.8bitcavern.de/" data-t="home">Breadbin-App herunterladen →</a>
+      <button class="lang" id="lang" type="button">English</button>
+    </div>
   </header>
 
   <section class="stats" id="stats" aria-live="polite">
@@ -106,7 +112,7 @@
   <footer>
     <div><span data-t="license">Daten und Bilder unter</span> <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" id="lic">CC BY-SA 4.0</a>.
       <span data-t="dl">Alles auf einmal:</span> <a href="breadbin-db.zip">breadbin-db.zip</a></div>
-    <div><span data-t="app">Lesen und ergänzen mit der Desktop-App Breadbin</span> – <a href="https://8bitcavern.de">8bitcavern.de</a></div>
+    <div><span data-t="app">Lesen und ergänzen mit der Desktop-App Breadbin</span> – <a href="https://breadbin.8bitcavern.de/">breadbin.8bitcavern.de</a> · <a href="https://github.com/sedorrr/breadbin-db">GitHub</a></div>
   </footer>
 </div>
 <script>
@@ -116,7 +122,7 @@ const EN = {
   games: "Games", files: "Files", withimg: "with picture", stand: "Updated",
   byformat: "By format", bydecade: "By release year", search: "Search", allformats: "All formats",
   onlyimg: "picture only", showmore: "Show more", license: "Data and pictures under",
-  dl: "Everything at once:", app: "Read and extend it with the Breadbin desktop app",
+  dl: "Everything at once:", home: "Get the Breadbin app →", app: "Read and extend it with the Breadbin desktop app",
   ph: "Title, publisher, developer, genre, year …", unknown: "unknown",
   n: (a, b) => b === undefined ? `${a} games` : `${a} of ${b} games`,
   dev: "Developer", players: "Players", noimg: "no picture",
