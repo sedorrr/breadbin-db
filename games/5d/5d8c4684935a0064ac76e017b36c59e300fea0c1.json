@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "5d8c4684935a0064ac76e017b36c59e300fea0c1",
+  "md5": "b9f86e4b639c76b35699b122f4d6372d",
+  "crc32": "a78f9a82",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "(1476) DINGSDA 2.D64"
+  ],
+  "title": "Dingsda",
+  "year": "1992",
+  "publisher": "PCSL Software GmbH",
+  "developer": "Digital Excess",
+  "genres": [
+    "Quiz"
+  ],
+  "images": {
+    "ss": "images/1d/1da41aef381311ac67225e7a82e342f2c7cf5b16.png",
+    "sstitle": "images/50/50974bf62b2ed7a06fc3b31b9ac16ad60e7c19fd.png"
+  }
+}

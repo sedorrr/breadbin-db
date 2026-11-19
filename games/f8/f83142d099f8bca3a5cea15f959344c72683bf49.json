@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "f83142d099f8bca3a5cea15f959344c72683bf49",
+  "md5": "40b0ac9748290037a32a49fe7488a29a",
+  "crc32": "f256aa11",
+  "size": 1034272,
+  "format": "CRT",
+  "files": [
+    "a_pig_quest_v102_+9_[trex].crt"
+  ],
+  "title": "A Pig Quest",
+  "year": "2023",
+  "publisher": "Protovison",
+  "developer": "Piggy 18",
+  "genres": [
+    "Platformer"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/06/06dd6a469bc419d04bac245d387855c5e6baab52.png",
+    "sstitle": "images/7a/7abb1bb73e3864f9cde767c3c8e9e72f30d1b6d2.png"
+  }
+}

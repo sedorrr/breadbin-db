@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "sha1": "5eb1c376a30f0df1bb954241cc2ab6efbaa6665a",
+  "md5": "63eec1a280e6297a9933b68638eecc87",
+  "crc32": "53296a01",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SAMANFOX.D64"
+  ],
+  "title": "SAMANFOX",
+  "images": {
+    "ss": "images/6c/6cc58f947c654add8667dd0386c85e25f399ce27.png",
+    "sstitle": "images/e3/e3c052c42a212488c98c081be62764f8586abf27.png"
+  }
+}
