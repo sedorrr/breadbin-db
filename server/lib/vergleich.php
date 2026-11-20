@@ -9,7 +9,8 @@ const VG_FELDER = [
     'genres' => 'Genres', 'players' => 'Spieler', 'text_de' => 'Beschreibung (DE)', 'text_en' => 'Beschreibung (EN)',
     'screenscraper_id' => 'ScreenScraper-Nr.',
 ];
-const VG_BILDARTEN = ['sstitle' => 'Titelbild', 'ss' => 'Spielszene', 'box-2D' => 'Verpackung'];
+const VG_BILDARTEN = ['sstitle' => 'Titelbild', 'ss' => 'Spielszene', 'ss2' => 'Spielszene 2', 'ss3' => 'Spielszene 3',
+    'ss4' => 'Spielszene 4', 'box-2D' => 'Verpackung'];
 
 /** Pfad des Stands: `stand_zip` aus config.php, sonst der Spiegel neben dem Annahme-Ordner. */
 function stand_pfad(array $c): string
@@ -118,8 +119,8 @@ function vergleiche(array $neu, ?array $alt): array
     }
     $bilder = [];
     foreach (array_keys(VG_BILDARTEN) as $art) {
-        $a = (string)($alt['images'][$art] ?? '');
-        $n = (string)($neu['images'][$art] ?? '');
+        $a = (string)(bb_alle_bilder($alt)[$art] ?? '');
+        $n = (string)(bb_alle_bilder($neu)[$art] ?? '');
         if ($a !== $n) {
             $bilder[$art] = [$a, $n];
         }

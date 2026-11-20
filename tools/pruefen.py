@@ -10,6 +10,8 @@ import hashlib, json, os, re, sys
 ROOT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), "..")
 HEX = re.compile(r"^[0-9a-f]+$")
 KINDS = {"sstitle", "ss", "box-2D"}
+# Weitere Spielszenen (ab Breadbin 0.9.4) im eigenen Feld more_images – ältere Fassungen überlesen es.
+EXTRA_KINDS = {"ss2", "ss3", "ss4"}
 EXTS = {"png": b"\x89PNG", "jpg": b"\xff\xd8\xff", "gif": b"GIF8", "webp": b"RIFF"}
 MAX_IMAGE = 8 * 1024 * 1024
 MAX_JSON = 256 * 1024
@@ -95,16 +97,21 @@ def check_games():
             sid = g.get("screenscraper_id", "")
             if sid and not (isinstance(sid, str) and sid.isdigit()):
                 bad(rel, "screenscraper_id nur Ziffern / digits only")
-            for kind, img in (g.get("images") or {}).items():
-                if kind not in KINDS:
-                    bad(rel, f"unbekannte Bildart {kind} / unknown picture type")
-                m = re.match(r"^images/([0-9a-f]{2})/([0-9a-f]{40})\.(png|jpg|gif|webp)$", img or "")
-                if not m or not m.group(2).startswith(m.group(1)):
-                    bad(rel, f"ungültiger Bildpfad {img} / invalid picture path")
+            for field, kinds in (("images", KINDS), ("more_images", EXTRA_KINDS)):
+                imgs = g.get(field, {})
+                if not isinstance(imgs, dict):
+                    bad(rel, f"{field} muss ein Objekt sein / must be an object")
                     continue
-                used_images.add(img)
-                if not os.path.isfile(os.path.join(ROOT, img)):
-                    bad(rel, f"Bild fehlt {img} / picture missing")
+                for kind, img in imgs.items():
+                    if kind not in kinds:
+                        bad(rel, f"unbekannte Bildart {kind} / unknown picture type")
+                    m = re.match(r"^images/([0-9a-f]{2})/([0-9a-f]{40})\.(png|jpg|gif|webp)$", img or "")
+                    if not m or not m.group(2).startswith(m.group(1)):
+                        bad(rel, f"ungültiger Bildpfad {img} / invalid picture path")
+                        continue
+                    used_images.add(img)
+                    if not os.path.isfile(os.path.join(ROOT, img)):
+                        bad(rel, f"Bild fehlt {img} / picture missing")
     return count, used_images
 
 

@@ -52,6 +52,7 @@ def benutzte_bilder():
                 except Exception:  # noqa: BLE001 – meldet pruefen.py
                     continue
                 used.update((g.get("images") or {}).values())
+                used.update((g.get("more_images") or {}).values())
     return used
 
 

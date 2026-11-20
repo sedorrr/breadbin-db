@@ -4,6 +4,16 @@
 declare(strict_types=1);
 
 const BB_KINDS = ['sstitle', 'ss', 'box-2D'];
+// Weitere Spielszenen (ab Breadbin 0.9.4) stehen im eigenen Feld more_images – ältere Fassungen überlesen es.
+const BB_EXTRA_KINDS = ['ss2', 'ss3', 'ss4'];
+
+/** Alle Bilder eines Spiels (images und more_images) als Bildart => Pfad. */
+function bb_alle_bilder(array $g): array
+{
+    $a = is_array($g['images'] ?? null) ? $g['images'] : [];
+    $b = is_array($g['more_images'] ?? null) ? $g['more_images'] : [];
+    return $a + $b;
+}
 const BB_MAGIC = ['png' => "\x89PNG", 'jpg' => "\xFF\xD8\xFF", 'gif' => 'GIF8', 'webp' => 'RIFF'];
 const BB_MAX_JSON = 262144;
 const BB_MAX_IMAGE = 8388608;
@@ -67,7 +77,7 @@ function pruefe_beitrag(string $zipPfad): array
             }
             $fehler = pruefe_spiel($rel, $g, $t[2]);
             array_push($probleme, ...$fehler);
-            foreach (($g['images'] ?? []) as $bild) {
+            foreach (bb_alle_bilder($g) as $bild) {
                 if (is_string($bild)) {
                     $benutzt[$bild] = true;
                 }
@@ -154,12 +164,21 @@ function pruefe_spiel(string $rel, array $g, string $sha1Pfad): array
     if ($sid !== '' && !(is_string($sid) && ctype_digit($sid))) {
         $p[] = "$rel: screenscraper_id nur Ziffern / digits only";
     }
-    foreach (($g['images'] ?? []) as $art => $bild) {
-        if (!in_array($art, BB_KINDS, true)) {
-            $p[] = "$rel: unbekannte Bildart $art / unknown picture type";
+    foreach (['images' => BB_KINDS, 'more_images' => BB_EXTRA_KINDS] as $feld => $arten) {
+        if (!isset($g[$feld])) {
+            continue;
         }
-        if (!is_string($bild) || !preg_match('#^images/([0-9a-f]{2})/\1[0-9a-f]{38}\.(png|jpg|gif|webp)$#', $bild)) {
-            $p[] = "$rel: ungültiger Bildpfad / invalid picture path";
+        if (!is_array($g[$feld])) {
+            $p[] = "$rel: $feld muss ein Objekt sein / must be an object";
+            continue;
+        }
+        foreach ($g[$feld] as $art => $bild) {
+            if (!in_array($art, $arten, true)) {
+                $p[] = "$rel: unbekannte Bildart $art / unknown picture type";
+            }
+            if (!is_string($bild) || !preg_match('#^images/([0-9a-f]{2})/\1[0-9a-f]{38}\.(png|jpg|gif|webp)$#', $bild)) {
+                $p[] = "$rel: ungültiger Bildpfad / invalid picture path";
+            }
         }
     }
     return $p;

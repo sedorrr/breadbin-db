@@ -74,10 +74,12 @@ function mit_edits(array $g, ?array $e): array
         }
     }
     foreach (($e['drop_images'] ?? []) as $art) {
-        unset($g['images'][$art]);
+        unset($g['images'][$art], $g['more_images'][$art]);
     }
-    if (isset($g['images']) && !$g['images']) {
-        unset($g['images']);
+    foreach (['images', 'more_images'] as $feld) {
+        if (isset($g[$feld]) && !$g[$feld]) {
+            unset($g[$feld]);
+        }
     }
     return $g;
 }
@@ -91,7 +93,7 @@ function zip_auswahl(string $quelle, array $erg, ?array $sha1s, array $edits = [
     $bilder = [];
     foreach ($sha1s as $sha1) {
         $g = mit_edits($erg['spiele'][$sha1] ?? [], $edits[$sha1] ?? null);
-        foreach (($g['images'] ?? []) as $bild) {
+        foreach (bb_alle_bilder($g) as $bild) {
             $bilder[$bild] = true;
         }
     }

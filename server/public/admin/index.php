@@ -107,7 +107,7 @@ if ($admin) {
                 }
                 $genres = array_values(array_filter(array_map(fn($x) => mb_substr(trim($x), 0, 60), explode(',', (string)($_POST['genres'] ?? '')))));
                 $e['genres'] = array_slice($genres, 0, 20);
-                $e['drop_images'] = array_values(array_intersect(BB_KINDS, (array)($_POST['drop'] ?? [])));
+                $e['drop_images'] = array_values(array_intersect(array_merge(BB_KINDS, BB_EXTRA_KINDS), (array)($_POST['drop'] ?? [])));
                 $ed[$sha1] = $e;
             }
             file_put_contents(edits_pfad($c, $b), json_encode($ed, JSON_UNESCAPED_UNICODE));
@@ -379,7 +379,7 @@ if ($admin) {
           <?php [$tde, $ten] = texte($g); ?>
           <?php if ($tde !== ''): ?><div><span class="chip">DE</span> <?= nl2br(h($tde)) ?></div><?php endif ?>
           <?php if ($ten !== ''): ?><div lang="en"><span class="chip">EN</span> <?= nl2br(h($ten)) ?></div><?php endif ?>
-          <div class="bilder"><?php foreach (($g['images'] ?? []) as $art => $bild): ?>
+          <div class="bilder"><?php foreach (bb_alle_bilder($g) as $art => $bild): ?>
             <img src="?id=<?= (int)$b['id'] ?>&amp;bild=<?= h(rawurlencode($bild)) ?>" alt="<?= h($art) ?>" title="<?= h($art) ?>">
           <?php endforeach ?></div>
           <?php if ($neu): ?>
@@ -399,10 +399,10 @@ if ($admin) {
                 <label>Genres (mit Komma getrennt) <input name="genres" value="<?= h(implode(', ', $g['genres'] ?? [])) ?>"></label>
                 <label>Beschreibung (Deutsch) <textarea name="synopsis" rows="5" maxlength="20000"><?= h($tde) ?></textarea></label>
                 <label>Beschreibung (Englisch) <textarea name="synopsis_en" rows="5" maxlength="20000" lang="en"><?= h($ten) ?></textarea></label>
-                <?php if (!empty($orig['images'])): ?>
+                <?php if (bb_alle_bilder($orig)): ?>
                   <div class="meta">Bilder weglassen:
-                    <?php foreach ($orig['images'] as $art => $bild): ?>
-                      <label><input type="checkbox" name="drop[]" value="<?= h($art) ?>" <?= in_array($art, $ed[$sha1]['drop_images'] ?? [], true) ? 'checked' : '' ?>> <?= h(['sstitle' => 'Titelbild', 'ss' => 'Spielszene', 'box-2D' => 'Verpackung'][$art] ?? $art) ?></label>
+                    <?php foreach (bb_alle_bilder($orig) as $art => $bild): ?>
+                      <label><input type="checkbox" name="drop[]" value="<?= h($art) ?>" <?= in_array($art, $ed[$sha1]['drop_images'] ?? [], true) ? 'checked' : '' ?>> <?= h(VG_BILDARTEN[$art] ?? $art) ?></label>
                     <?php endforeach ?>
                   </div>
                 <?php endif ?>
