@@ -6,7 +6,7 @@ declare(strict_types=1);
 $ziel = 'https://breadbin.8bitcavern.de/download/';
 $f = (string)($_GET['f'] ?? '');
 $lib = __DIR__ . '/../breadbin/annahme/lib/zaehler.php';
-$erlaubt = ['Breadbin_universal.dmg', 'Breadbin_x64-setup.exe', 'Breadbin_x64_en-US.msi',
+$erlaubt = ['Breadbin_universal.dmg', 'Breadbin_x64-setup.exe', 'Breadbin_x64_en-US.msi', 'Breadbin_x64-portable.zip',
             'Breadbin_amd64.AppImage', 'Breadbin_amd64.deb', 'Breadbin.x86_64.rpm'];
 if (!in_array($f, $erlaubt, true)) {
     http_response_code(404);

@@ -64,7 +64,7 @@ function zaehle(string $art, string $schluessel): void
 function download_dateien(): array
 {
     return [
-        'Breadbin_universal.dmg', 'Breadbin_x64-setup.exe', 'Breadbin_x64_en-US.msi',
+        'Breadbin_universal.dmg', 'Breadbin_x64-setup.exe', 'Breadbin_x64_en-US.msi', 'Breadbin_x64-portable.zip',
         'Breadbin_amd64.AppImage', 'Breadbin_amd64.deb', 'Breadbin.x86_64.rpm',
     ];
 }
