@@ -1,6 +1,6 @@
 {
-  "version": "0.9.1",
+  "version": "0.9.2",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Handbuch aktualisiert (auch auf der Webseite), deutsche Texte korrigiert",
-  "notes_en": "Manual updated (now also on the website), German text fixes"
+  "notes_de": "Spiele im Emulator (VICE) starten, tragbare Windows-Fassung für den USB-Stick",
+  "notes_en": "Launch games in an emulator (VICE), portable Windows version for a USB stick"
 }
