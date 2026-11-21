@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "f7bde9ef5b2d767057456109ad04774e62d0fa61",
+  "md5": "32c3bde1fc2fdece615790ece1703a65",
+  "crc32": "60d47e43",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Huarong Road +2D [Shadow].d64"
+  ],
+  "title": "Huarong Road +2D",
+  "year": "2026",
+  "publisher": "flat4ware",
+  "developer": "flat4ware",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des chinesischen Schiebepuzzles Huarong Road (Klotski): Der große Stein, der Cao Cao darstellt, muss zwischen den übrigen Blöcken hindurch zum Ausgang geschoben werden. Es gibt sechs Startaufstellungen; Ziel ist eine Lösung mit möglichst wenigen Zügen.\n\nCrack-Fassung von Shadow (Stormfront) vom 7. November 2026 (D64) mit Intro, zwei Trainer-Optionen und Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Umsetzung des chinesischen Schiebepuzzles Huarong Road (Klotski): Der große Stein, der Cao Cao darstellt, muss zwischen den übrigen Blöcken hindurch zum Ausgang geschoben werden. Es gibt sechs Startaufstellungen; Ziel ist eine Lösung mit möglichst wenigen Zügen.\n\nCrack-Fassung von Shadow (Stormfront) vom 7. November 2026 (D64) mit Intro, zwei Trainer-Optionen und Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Version of the Chinese sliding block puzzle Huarong Road (Klotski): the large block representing Cao Cao has to be slid past the other blocks to the exit. There are six starting layouts; the goal is to solve each in as few moves as possible.\n\nCrack by Shadow (Stormfront) from 7 November 2026 (D64) with intro, two trainer options and docs. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/94/94d79064a04fbc444bea5257b05c4e042ff9c188.png",
+    "sstitle": "images/25/25a0b34f28f41bed265f6caa00f75113ae851bbf.png"
+  }
+}

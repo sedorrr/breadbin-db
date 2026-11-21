@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "sha1": "f495cd561f71e56e831f5e6e46dbcbbf3bcdef77",
+  "md5": "2098312c7461dee7746ea2f7306ce108",
+  "crc32": "7343d776",
+  "size": 262720,
+  "format": "CRT",
+  "files": [
+    "SCI - Chase HQ II.crt",
+    "Chase HQ II.crt"
+  ],
+  "screenscraper_id": "112510",
+  "title": "S.C.I. – Special Criminal Investigation",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Probe Software",
+  "genres": [
+    "Rennen",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Die Fortsetzung von Chase H.Q. nach dem Taito-Automaten von 1989: Als Ermittler der Sondereinheit jagt man im Sportwagen flüchtige Verbrecher durch den Verkehr. Diesmal sitzt ein Beifahrer mit im Wagen und schießt während der Fahrt auf die Gangster, während man ihnen zugleich mit dem eigenen Auto zusetzt. Jeder Abschnitt muss in einer Zeitgrenze geschafft werden, Turboschübe helfen beim Aufholen. Gegenüber dem Vorgänger kam damit das Schießen hinzu.\n\nDie C64-Fassung erschien auf Kassette und Diskette sowie als Modul von Ocean (auch unter dem Titel „Chase H.Q. II“). Gesteuert wird mit dem Joystick in Port 2. Die Umsetzung stammt von Probe Software.",
+  "texts": {
+    "de": "Die Fortsetzung von Chase H.Q. nach dem Taito-Automaten von 1989: Als Ermittler der Sondereinheit jagt man im Sportwagen flüchtige Verbrecher durch den Verkehr. Diesmal sitzt ein Beifahrer mit im Wagen und schießt während der Fahrt auf die Gangster, während man ihnen zugleich mit dem eigenen Auto zusetzt. Jeder Abschnitt muss in einer Zeitgrenze geschafft werden, Turboschübe helfen beim Aufholen. Gegenüber dem Vorgänger kam damit das Schießen hinzu.\n\nDie C64-Fassung erschien auf Kassette und Diskette sowie als Modul von Ocean (auch unter dem Titel „Chase H.Q. II“). Gesteuert wird mit dem Joystick in Port 2. Die Umsetzung stammt von Probe Software.",
+    "en": "The sequel to Chase H.Q., based on Taito's 1989 arcade game: as an officer of a special unit, the player hunts escaping criminals through traffic in a sports car. This time a partner rides along and shoots at the gangsters while the player rams them with the car. Each stage must be completed within a time limit, and turbo boosts help to catch up. Shooting is the main addition compared with the predecessor.\n\nThe C64 version was released on tape and disk as well as on an Ocean cartridge (also titled \"Chase H.Q. II\"). It is played with a joystick in port 2. The conversion was done by Probe Software."
+  },
+  "images": {
+    "ss": "images/c2/c2c271ad712340e6b7ed4815ccef5e5dc56006b5.png",
+    "sstitle": "images/88/881ea22508c2306de7b8d8e6425b8932eac35215.png"
+  }
+}

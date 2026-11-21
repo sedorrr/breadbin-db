@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "f9d0aa3ff4f591ac5044ca1ebcf552309e6ed472",
+  "md5": "b8bed5d4a5615e490e6f57c8658ab55d",
+  "crc32": "bfcdef88",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Starbraze II +3D [BLZ].d64"
+  ],
+  "title": "Starbraze II +3D",
+  "year": "2026",
+  "publisher": "Code-E-Books",
+  "developer": "Code-E-Books",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Horizontal scrollender Weltraum-Shooter und Fortsetzung von Starbraze. Die Erde gilt als gefallen, die Varkon halten die Menschheit für ausgelöscht: Man startet aus den Schluchten von Varkonia Prime, kämpft sich an Schildgeneratoren vorbei und über Helios und den „Bloody Orbit“ bis in den Kern der Raumstation Varkon-Omega und entkommt, bevor sie explodiert. Sechs Level mit je einem Endgegner, Parallax-Sterne, mehr Gegner als Sprites dank Zeichengrafik, die Bewaffnung wächst mit eingesammelten Kapseln.\n\nMusik und Effekte über den SID, wählbar im Titel.\n\nCrack-Fassung von Blazon vom 19. November 2026 (D64) mit Intro, drei Trainern (unbegrenzte Schiffe, unbegrenzte Schilde, Levelsprung mit C=) und Infoseiten; Levels werden von Diskette nachgeladen. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Horizontal scrollender Weltraum-Shooter und Fortsetzung von Starbraze. Die Erde gilt als gefallen, die Varkon halten die Menschheit für ausgelöscht: Man startet aus den Schluchten von Varkonia Prime, kämpft sich an Schildgeneratoren vorbei und über Helios und den „Bloody Orbit“ bis in den Kern der Raumstation Varkon-Omega und entkommt, bevor sie explodiert. Sechs Level mit je einem Endgegner, Parallax-Sterne, mehr Gegner als Sprites dank Zeichengrafik, die Bewaffnung wächst mit eingesammelten Kapseln.\n\nMusik und Effekte über den SID, wählbar im Titel.\n\nCrack-Fassung von Blazon vom 19. November 2026 (D64) mit Intro, drei Trainern (unbegrenzte Schiffe, unbegrenzte Schilde, Levelsprung mit C=) und Infoseiten; Levels werden von Diskette nachgeladen. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Horizontally scrolling space shooter and sequel to Starbraze. Earth is thought to have fallen and the Varkon believe mankind is extinct: you take off from the canyons of Varkonia Prime, fight past shield generators and across Helios and the \"Bloody Orbit\" into the core of the space station Varkon-Omega and escape before it blows up. Six levels each with a boss, parallax stars, more enemies than there are sprites thanks to character graphics, and weapons that grow with the capsules you collect.\n\nMusic and sound effects on the SID, selectable on the title screen.\n\nCrack by Blazon from 19 November 2026 (D64) with intro, three trainers (unlimited ships, unlimited shields, level skip with C=) and info pages; levels are loaded from disk. The original release is also in the database."
+  },
+  "images": {
+    "sstitle": "images/bb/bbcd69449275e586ddd0fece5527b28b848db9ca.png"
+  }
+}
