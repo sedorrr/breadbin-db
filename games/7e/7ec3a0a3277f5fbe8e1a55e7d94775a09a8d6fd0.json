@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "7ec3a0a3277f5fbe8e1a55e7d94775a09a8d6fd0",
+  "md5": "96912ce55e8e2eb5b9dcf5c144a27920",
+  "crc32": "866e1794",
+  "size": 25039,
+  "format": "PRG",
+  "files": [
+    "Red Max (J1).prg"
+  ],
+  "screenscraper_id": "114758",
+  "title": "Red Max",
+  "year": "1986",
+  "publisher": "Codemasters",
+  "developer": "David Darling",
+  "genres": [
+    "Action",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Red Max ist ein von oben gesehenes Actionspiel, in dem ein Motorradfahrer durch eine frei scrollende Landschaft fährt, um gefangene Freunde zu befreien. Unterwegs gilt es, Gegnern und Hindernissen auszuweichen und den richtigen Weg durch das Gelände zu finden. Die Steuerung ist ungewöhnlich: Der Feuerknopf gibt Gas, Loslassen bremst. Das Spiel gehört zu den ersten Veröffentlichungen von Codemasters und erinnert vom Aufbau her an The Last V8.\n\nDas Spiel erschien als Budgettitel auf Kassette und später in Sammlungen auf Diskette; heute ist es auch als Modulumsetzung (OneLoad64) verbreitet. Gesteuert wird mit dem Joystick, die Modulfassungen sind für Port 1 eingerichtet. Die Musik stammt von David Whittaker.\n\nCode: David Darling · Musik: David Whittaker",
+  "texts": {
+    "de": "Red Max ist ein von oben gesehenes Actionspiel, in dem ein Motorradfahrer durch eine frei scrollende Landschaft fährt, um gefangene Freunde zu befreien. Unterwegs gilt es, Gegnern und Hindernissen auszuweichen und den richtigen Weg durch das Gelände zu finden. Die Steuerung ist ungewöhnlich: Der Feuerknopf gibt Gas, Loslassen bremst. Das Spiel gehört zu den ersten Veröffentlichungen von Codemasters und erinnert vom Aufbau her an The Last V8.\n\nDas Spiel erschien als Budgettitel auf Kassette und später in Sammlungen auf Diskette; heute ist es auch als Modulumsetzung (OneLoad64) verbreitet. Gesteuert wird mit dem Joystick, die Modulfassungen sind für Port 1 eingerichtet. Die Musik stammt von David Whittaker.\n\nCode: David Darling · Musik: David Whittaker",
+    "en": "Red Max is a top-down action game in which a motorcyclist rides through a freely scrolling landscape to rescue captured friends. Along the way the player has to avoid enemies and obstacles and find the right route through the terrain. The controls are unusual: the fire button accelerates and releasing it brakes. The game was among the first releases from Codemasters and is structured much like The Last V8.\n\nIt appeared as a budget title on cassette and later on disk in compilations; today it is also common as a cartridge conversion (OneLoad64). It is played with a joystick; the cartridge versions are set up for port 1. The music was written by David Whittaker.\n\nCode: David Darling · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/7d/7dff96805b5ae66cd54c16ab425e48118cadfb4c.png",
+    "sstitle": "images/b6/b6c66a90cac3f6e729503d8acf8bff355875e49a.png"
+  }
+}

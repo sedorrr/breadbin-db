@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "0901cd05d683ff8c9332567752d9b6a67daa508e",
+  "md5": "c53006ffe8313421966e7017518ccc15",
+  "crc32": "bfbf9b4d",
+  "size": 42889,
+  "format": "PRG",
+  "files": [
+    "nessy.prg"
+  ],
+  "title": "Nessy: Echoes of the Loch",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Abenteuer-Actionspiel von Tansoft am Loch Ness im Jahr 1987: Eine Karte zeigt acht Stationen von Fort Augustus über Urquhart bis Inverness. Der Spieler folgt der Spur seines Vaters, sucht in jedem Abschnitt drei Runen, um ein Tor zu öffnen, und taucht dafür mit einem Boot bzw. unter Wasser. Die Bildschirmtexte sind (in dieser Fassung) deutsch.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+  "texts": {
+    "de": "Abenteuer-Actionspiel von Tansoft am Loch Ness im Jahr 1987: Eine Karte zeigt acht Stationen von Fort Augustus über Urquhart bis Inverness. Der Spieler folgt der Spur seines Vaters, sucht in jedem Abschnitt drei Runen, um ein Tor zu öffnen, und taucht dafür mit einem Boot bzw. unter Wasser. Die Bildschirmtexte sind (in dieser Fassung) deutsch.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+    "en": "Adventure action game by Tansoft set at Loch Ness in 1987: a map shows eight stations from Fort Augustus via Urquhart to Inverness. The player follows the trail of his father, looks for three runes in each section to open a gate, and dives with a boat or underwater to do so. The on-screen texts are in German (in this version).\n\nOriginal from Tansoft's itch.io page, as D64 and PRG."
+  },
+  "images": {
+    "ss": "images/fa/fa9731b7f9e1299b79a54bb82b5bc35aa477be4e.png",
+    "sstitle": "images/8e/8e6ab7a6369e05fd0d7362b002256d8297e94a32.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "54343f686b7b45ab9e1907833d620f3b8c2fc124",
+  "md5": "5003fe6d7774c771700c0ec5a579a25b",
+  "crc32": "00e9b358",
+  "size": 30582,
+  "format": "PRG",
+  "files": [
+    "ai-moustache+.prg"
+  ],
+  "title": "Moustache Machos +3",
+  "year": "2026",
+  "publisher": "Vesa Heikkinen",
+  "developer": "Vesa Heikkinen",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein komödiantisches Kommando-Actionspiel für einen oder zwei Spieler: General Moustache hat allen Schnurrbartwachs der Welt gestohlen, und zwei Schnurrbart-Helden kämpfen sich durch fünf Gebiete – Dschungel, Fluss, Wüstenbasis, Frostpass und die Festung des Generals. Unterwegs warten Jeeps, Panzer, Kanonenboote und Endgegner wie Colonel Coconut oder Admiral Rubber Duck; Soldaten lassen Extras fallen (Extraleben, Granaten, Dauerfeuer, Schutzschild). Jeeps und Boote lassen sich entern, Gefangene befreien, und nach dem Tag- folgt eine schwerere Nachtrunde.\n\nSpieler 1 steuert mit dem Joystick in Port 2, Feuer schießt; P pausiert, Q beendet. Laut Titel frei zum Weitergeben, nicht zum Verkauf.\n\nCrack-Fassung von AIliens vom 20. November 2026 (PRG) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Ein komödiantisches Kommando-Actionspiel für einen oder zwei Spieler: General Moustache hat allen Schnurrbartwachs der Welt gestohlen, und zwei Schnurrbart-Helden kämpfen sich durch fünf Gebiete – Dschungel, Fluss, Wüstenbasis, Frostpass und die Festung des Generals. Unterwegs warten Jeeps, Panzer, Kanonenboote und Endgegner wie Colonel Coconut oder Admiral Rubber Duck; Soldaten lassen Extras fallen (Extraleben, Granaten, Dauerfeuer, Schutzschild). Jeeps und Boote lassen sich entern, Gefangene befreien, und nach dem Tag- folgt eine schwerere Nachtrunde.\n\nSpieler 1 steuert mit dem Joystick in Port 2, Feuer schießt; P pausiert, Q beendet. Laut Titel frei zum Weitergeben, nicht zum Verkauf.\n\nCrack-Fassung von AIliens vom 20. November 2026 (PRG) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+    "en": "A comic commando action game for one or two players: General Moustache has stolen all the moustache wax in the world, and two moustachioed heroes fight their way through five areas – jungle, river, desert base, frosty pass and the general's fortress. Along the way there are jeeps, tanks, gunboats and bosses such as Colonel Coconut or Admiral Rubber Duck; soldiers drop pick-ups (extra life, grenades, rapid fire, shield). Jeeps and boats can be commandeered, prisoners freed, and the day shift is followed by a harder night shift.\n\nPlayer 1 uses the joystick in port 2, fire shoots; P pauses, Q quits. According to the title screen it is free to share, not for sale.\n\nCrack by AIliens from 20 November 2026 (PRG) with intro and trainer. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/cd/cd4f5fc5ffc9fee1732e5273dcb5c9892dd98645.png",
+    "sstitle": "images/75/75bd3c987d19a502f7ef7cc202811a0cf794db9a.png"
+  }
+}

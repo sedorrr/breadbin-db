@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "1cfd4480b6128f0ad234074cce40c221939589c4",
+  "md5": "e9f54932697993f2a8bb3017fd0de147",
+  "crc32": "9f627881",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Basilisk.d64"
+  ],
+  "title": "Basilisk",
+  "year": "2026",
+  "publisher": "Psytronik Software",
+  "developer": "Alf Yngve",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "In einem verlassenen Schloss in einem abgelegenen Bergtal im Osten Frankreichs soll ein Basilisk hausen, dessen Blick tötet – und einen Schatz bewachen. Man arbeitet sich durch das Schloss, ohne in die Blicklinie der Basilisken zu geraten; ein Kruzifix blendet große Exemplare kurz und vernichtet kleine, wenn der Zeitpunkt stimmt. Durch Wände können Basilisken nicht sehen, dazu kommen Fallen, giftige Pfützen, Fledermäuse, Rieseninsekten und versteckte Schatztruhen.\n\nEntstanden mit dem Shoot-'Em-Up Construction Kit samt eigenen Code-Erweiterungen; Extraleben alle 10 000 Punkte.\n\nOriginal von der Seite des SEUCK Compo 2026 von TND, als D64.",
+  "texts": {
+    "de": "In einem verlassenen Schloss in einem abgelegenen Bergtal im Osten Frankreichs soll ein Basilisk hausen, dessen Blick tötet – und einen Schatz bewachen. Man arbeitet sich durch das Schloss, ohne in die Blicklinie der Basilisken zu geraten; ein Kruzifix blendet große Exemplare kurz und vernichtet kleine, wenn der Zeitpunkt stimmt. Durch Wände können Basilisken nicht sehen, dazu kommen Fallen, giftige Pfützen, Fledermäuse, Rieseninsekten und versteckte Schatztruhen.\n\nEntstanden mit dem Shoot-'Em-Up Construction Kit samt eigenen Code-Erweiterungen; Extraleben alle 10 000 Punkte.\n\nOriginal von der Seite des SEUCK Compo 2026 von TND, als D64.",
+    "en": "A basilisk whose gaze kills is said to live in an abandoned castle in a remote mountain valley in eastern France – guarding a treasure. You make your way through the castle without being caught in the basilisks' line of sight; a crucifix briefly blinds large ones and destroys small ones if timed right. Basilisks cannot see through walls, and there are also traps, toxic puddles, bats, giant bugs and hidden treasure chests.\n\nMade with the Shoot-'Em-Up Construction Kit plus code modifications; a bonus life every 10,000 points.\n\nOriginal from the TND SEUCK Compo 2026 page, as a D64."
+  },
+  "images": {
+    "sstitle": "images/fd/fd7993adf42b106fa513c6d691d59dbee93e0796.png"
+  }
+}

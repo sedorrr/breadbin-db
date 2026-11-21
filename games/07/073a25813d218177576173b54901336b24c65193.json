@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "073a25813d218177576173b54901336b24c65193",
+  "md5": "cfbc6d07e6fdaf729df923715f4a9fa1",
+  "crc32": "9028ddf3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "journey-1.0.1.d64"
+  ],
+  "title": "The Journey: Shadows of Vael",
+  "year": "2026",
+  "publisher": "Iron Lantern Games",
+  "developer": "Ron Kinney (Iron Lantern Games)",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Rundenbasierter Dungeon Crawler für einen Spieler. Man erschafft einen Helden aus fünf Klassen (Kämpfer, Paladin, Kleriker, Dieb, Magier), rüstet sich in der Stadt aus und erkundet eine zusammenhängende Welt aus 21 Gebieten mit drei Städten, Wäldern, Pässen, Höhlen und Ruinen. Drei Endgegner lassen sich in beliebiger Reihenfolge besiegen; Fallen, Zustandseffekte und Fernkämpfer machen das Vorankommen schwer, der Tod hat Folgen.\n\nSpeichern und Laden auf Diskette, Joystick in Port 2.\n\nOriginal von der itch.io-Seite des Autors, als D64 (laut Dateiname Version 1.0.1).",
+  "texts": {
+    "de": "Rundenbasierter Dungeon Crawler für einen Spieler. Man erschafft einen Helden aus fünf Klassen (Kämpfer, Paladin, Kleriker, Dieb, Magier), rüstet sich in der Stadt aus und erkundet eine zusammenhängende Welt aus 21 Gebieten mit drei Städten, Wäldern, Pässen, Höhlen und Ruinen. Drei Endgegner lassen sich in beliebiger Reihenfolge besiegen; Fallen, Zustandseffekte und Fernkämpfer machen das Vorankommen schwer, der Tod hat Folgen.\n\nSpeichern und Laden auf Diskette, Joystick in Port 2.\n\nOriginal von der itch.io-Seite des Autors, als D64 (laut Dateiname Version 1.0.1).",
+    "en": "Turn-based single-player dungeon crawler. You create a hero from five classes (fighter, paladin, cleric, thief, mage), gear up in town and explore a connected world of 21 areas with three towns, forests, mountain passes, caverns and ruins. Three bosses can be defeated in any order; traps, status effects and ranged enemies make progress hard, and death has consequences.\n\nSaving and loading to disk, joystick in port 2.\n\nOriginal from the author's itch.io page, as a D64 (version 1.0.1 according to the file name)."
+  },
+  "images": {
+    "sstitle": "images/8f/8f683f8554e8f5b9cc5f30911285c701535d1794.png"
+  }
+}

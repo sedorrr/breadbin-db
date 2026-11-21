@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0cef1f94d937ea7cdc6a221111e167fead860bea",
+  "md5": "895bc0d45527f2f68a70aef8110cf543",
+  "crc32": "ab7aa295",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Wordvaders+2D[HF+EX].d64"
+  ],
+  "title": "Wordvaders",
+  "year": "2026",
+  "publisher": "Antibody Software",
+  "developer": "Antibody Software",
+  "genres": [
+    "Lernspiel",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Tipp-Spiel im Stil eines Invasionsspiels: Angreifende Wörter rücken auf mehreren Bahnen vor und werden durch schnelles, fehlerfreies Eintippen abgeschossen. Manche tragen einen Schild, der zuerst weggetippt werden muss. Fehlerfreies Tippen füllt einen Multiplikator, jeder Fehler leert ihn; erreicht ein Wort die Laserabwehr, ist das Spiel vorbei.\n\nDas Wörterbuch umfasst rund 6000 Wörter, gespeichert mit einem eigenen Verfahren über häufige Buchstabenpaare (spart etwa 55 % Speicher). Technisch nutzt das Spiel einen Sprite-Multiplexer, Sprites im oberen und unteren Rand und den Extended Color Mode für die Sprechblasen. Gesteuert wird über die Tastatur. Diese D64 ist die Crack-Fassung von Excess und Hokuto Force vom 4. November 2026 mit zwei Trainer-Optionen und Doku.",
+  "texts": {
+    "de": "Tipp-Spiel im Stil eines Invasionsspiels: Angreifende Wörter rücken auf mehreren Bahnen vor und werden durch schnelles, fehlerfreies Eintippen abgeschossen. Manche tragen einen Schild, der zuerst weggetippt werden muss. Fehlerfreies Tippen füllt einen Multiplikator, jeder Fehler leert ihn; erreicht ein Wort die Laserabwehr, ist das Spiel vorbei.\n\nDas Wörterbuch umfasst rund 6000 Wörter, gespeichert mit einem eigenen Verfahren über häufige Buchstabenpaare (spart etwa 55 % Speicher). Technisch nutzt das Spiel einen Sprite-Multiplexer, Sprites im oberen und unteren Rand und den Extended Color Mode für die Sprechblasen. Gesteuert wird über die Tastatur. Diese D64 ist die Crack-Fassung von Excess und Hokuto Force vom 4. November 2026 mit zwei Trainer-Optionen und Doku.",
+    "en": "Typing game in the style of an invasion shooter: attacking words advance along several lanes and are shot down by typing them quickly and accurately. Some carry a shield that has to be typed away first. Accurate typing fills a multiplier, every mistake empties it; if a word reaches the laser defence wall, the game is over.\n\nThe dictionary holds about 6,000 words, stored with a custom scheme based on frequent letter pairs (saving about 55% of memory). Technically the game uses a sprite multiplexer, sprites in the top and bottom borders and extended colour mode for the speech bubbles. Played with the keyboard. This D64 is the Excess and Hokuto Force crack from 4 November 2026 with two trainer options and docs."
+  },
+  "images": {
+    "ss": "images/f9/f9ab57eee827eaf88774ae7bd1023ea1e8f40684.png",
+    "sstitle": "images/bd/bdd7e1518fee91b43944152dabdb0f16f82a1bd6.png"
+  }
+}

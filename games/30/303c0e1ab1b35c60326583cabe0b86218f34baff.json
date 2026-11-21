@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "303c0e1ab1b35c60326583cabe0b86218f34baff",
+  "md5": "f75267ac86b7a758339aa085ac1ad765",
+  "crc32": "d8a97618",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Rolling Panda +1T[HF+EX].d64"
+  ],
+  "title": "Rolling Panda",
+  "year": "2026",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Spiel um einen rollenden Panda, geschrieben in Vision BASIC 1.1. Angaben zum genauen Spielablauf liegen nicht vor.\n\nDiese D64 ist die Crack-Fassung von Excess und Hokuto Force vom 16. November 2026 mit einer Trainer-Option und Übersetzung („+1T“); dabei wurde ein Fehler behoben, durch den der Feuerknopf während des Spiels ins BASIC zurückführte.",
+  "texts": {
+    "de": "Kleines Spiel um einen rollenden Panda, geschrieben in Vision BASIC 1.1. Angaben zum genauen Spielablauf liegen nicht vor.\n\nDiese D64 ist die Crack-Fassung von Excess und Hokuto Force vom 16. November 2026 mit einer Trainer-Option und Übersetzung („+1T“); dabei wurde ein Fehler behoben, durch den der Feuerknopf während des Spiels ins BASIC zurückführte.",
+    "en": "Small game about a rolling panda, written in Vision BASIC 1.1. No details about the exact gameplay are available.\n\nThis D64 is the Excess and Hokuto Force crack from 16 November 2026 with one trainer option and a translation (\"+1T\"); it fixes a bug where pressing fire during play dropped back to BASIC."
+  },
+  "images": {
+    "ss": "images/e4/e4a8823a16dfa32a3227856f56052d0c0f4af1c7.png"
+  }
+}

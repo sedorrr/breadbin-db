@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "a4f11bc71af38d99c15ed75a154488e347acbaff",
+  "md5": "ca6312880e5f0c1a8b38213c9de471c2",
+  "crc32": "56b05512",
+  "size": 20281,
+  "format": "PRG",
+  "files": [
+    "heroes.prg"
+  ],
+  "title": "Heroes of Sokoban",
+  "year": "2026",
+  "publisher": "Emanuele Feronato",
+  "developer": "Emanuele Feronato",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Kistenschiebe-Puzzle nach dem gleichnamigen PuzzleScript-Spiel von Jonah Ostroff. Drei Helden müssen gemeinsam die Ausgänge erreichen, wobei jeder von ihnen Kisten auf eine andere Weise bewegen kann. Enthalten sind alle 22 Level des Vorbilds; neu ist ein Levelcode-System, mit dem sich der Fortschritt fortsetzen lässt.\n\nSteuerung mit den Cursortasten.\n\nOriginal von der itch.io-Seite des Autors, mit Quelltext zum frei wählbaren Preis veröffentlicht; als D64 und PRG.",
+  "texts": {
+    "de": "Kistenschiebe-Puzzle nach dem gleichnamigen PuzzleScript-Spiel von Jonah Ostroff. Drei Helden müssen gemeinsam die Ausgänge erreichen, wobei jeder von ihnen Kisten auf eine andere Weise bewegen kann. Enthalten sind alle 22 Level des Vorbilds; neu ist ein Levelcode-System, mit dem sich der Fortschritt fortsetzen lässt.\n\nSteuerung mit den Cursortasten.\n\nOriginal von der itch.io-Seite des Autors, mit Quelltext zum frei wählbaren Preis veröffentlicht; als D64 und PRG.",
+    "en": "Box-pushing puzzle based on Jonah Ostroff's PuzzleScript game of the same name. Three heroes have to reach the exits together, and each of them moves crates in a different way. All 22 levels of the original are included; new is a level code system that lets players resume their progress.\n\nControlled with the cursor keys.\n\nOriginal from the author's itch.io page, released with source code as pay-what-you-want; as D64 and PRG."
+  },
+  "images": {
+    "ss": "images/fc/fc76423a49a3168dec85b629ed2162e637f78188.png"
+  }
+}

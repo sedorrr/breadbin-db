@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "1280dbbecc084054c85712f4bf3e4e388a1b5421",
+  "md5": "d7eccc22ce76b3ed2e8947e496b99c0e",
+  "crc32": "f3848354",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BRICK-BREACH.d64"
+  ],
+  "title": "Brick Breach",
+  "year": "2026",
+  "publisher": "MetaTone Games",
+  "developer": "Bruno Christensen",
+  "genres": [
+    "Action / Breakout Spiele"
+  ],
+  "players": "1",
+  "synopsis": "Breakout um 90 Grad gedreht: Der Schläger steht links, die Steine bilden rechts eine von zehn zufällig gewählten Figuren wie Diamant, Rakete, Invader, Totenkopf oder Reaktor. Weiße Panzersteine brauchen zwei Treffer, und mit jeder Runde wird der Ball etwas schneller. Trifft man den pulsierenden Kern einer Figur, fallen alle übrigen Steine von innen nach außen weg. Extras verlängern kurz den Schläger, bringen ein Leben oder schließen die Rückwand für einige Sekunden.\n\nD64-Diskette (auch als PRG erschienen), Fassung V0.10 vom 17.11.2026, Preis frei wählbar. Steuerung mit Joystick in Port 2 oder Tasten (hoch/runter bzw. W/S, Leertaste); PAL, laut Autor nur in VICE getestet. Drei Leben, Bestwert bleibt bis zum Neuladen.",
+  "texts": {
+    "de": "Breakout um 90 Grad gedreht: Der Schläger steht links, die Steine bilden rechts eine von zehn zufällig gewählten Figuren wie Diamant, Rakete, Invader, Totenkopf oder Reaktor. Weiße Panzersteine brauchen zwei Treffer, und mit jeder Runde wird der Ball etwas schneller. Trifft man den pulsierenden Kern einer Figur, fallen alle übrigen Steine von innen nach außen weg. Extras verlängern kurz den Schläger, bringen ein Leben oder schließen die Rückwand für einige Sekunden.\n\nD64-Diskette (auch als PRG erschienen), Fassung V0.10 vom 17.11.2026, Preis frei wählbar. Steuerung mit Joystick in Port 2 oder Tasten (hoch/runter bzw. W/S, Leertaste); PAL, laut Autor nur in VICE getestet. Drei Leben, Bestwert bleibt bis zum Neuladen.",
+    "en": "Breakout turned by 90 degrees: the paddle sits on the left, and on the right the bricks form one of ten randomly chosen shapes such as a diamond, rocket, invader, skull or reactor. White armoured bricks need two hits, and the ball gets a little faster each round. Hit the pulsing core of a shape and all remaining bricks drop away from the inside out. Power-ups briefly lengthen the paddle, give an extra life or close the back wall for a few seconds.\n\nD64 disk (also released as PRG), version 0.10 of 17 Nov 2026, name your own price. Controlled with a joystick in port 2 or keys (up/down or W/S, space); PAL, only tested in VICE according to the author. Three lives; the high score is kept until the game is reloaded."
+  },
+  "images": {
+    "ss": "images/c1/c11fdf0f3a5e07cdccbb437500110499fa5119e9.png",
+    "sstitle": "images/f6/f6855d42120e30e5f4fc393806a064c389191dad.png"
+  }
+}

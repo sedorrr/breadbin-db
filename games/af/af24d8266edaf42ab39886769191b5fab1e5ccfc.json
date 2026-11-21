@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "af24d8266edaf42ab39886769191b5fab1e5ccfc",
+  "md5": "5eb555903caf60826a8bf43e536bdbe3",
+  "crc32": "1ec475c5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Planet Pulse 2 +1D.d64"
+  ],
+  "title": "Planet Pulse 2",
+  "year": "2026",
+  "publisher": "Ready64",
+  "developer": "Ready64",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Landespiel: Eine Raumfähre muss auf verschiedenen Planeten sicher aufsetzen, die sich unter anderem in ihrer Schwerkraft unterscheiden. Gewertet wird nach der Landezeit.\n\nDiese D64 ist die Crack-Fassung von Cracker Force Nijmegen vom 5. November 2026 mit einer Trainer-Option und Doku; das Intro nennt „(C) 2026 Ready 64“. Bestzeiten werden nicht auf Diskette gespeichert.",
+  "texts": {
+    "de": "Landespiel: Eine Raumfähre muss auf verschiedenen Planeten sicher aufsetzen, die sich unter anderem in ihrer Schwerkraft unterscheiden. Gewertet wird nach der Landezeit.\n\nDiese D64 ist die Crack-Fassung von Cracker Force Nijmegen vom 5. November 2026 mit einer Trainer-Option und Doku; das Intro nennt „(C) 2026 Ready 64“. Bestzeiten werden nicht auf Diskette gespeichert.",
+    "en": "Lander game: a craft has to touch down safely on various planets, which differ among other things in their gravity. Scoring is based on the landing time.\n\nThis D64 is the Cracker Force Nijmegen crack from 5 November 2026 with one trainer option and docs; the intro credits \"(C) 2026 Ready 64\". Best times are not saved to disk."
+  },
+  "images": {
+    "ss": "images/5d/5da5aa786fae03bc281bef5cabac19bc3ec89687.png",
+    "sstitle": "images/dd/dd6e662b9f666eba987db01c41875aff6033a3a2.png"
+  }
+}

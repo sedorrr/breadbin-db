@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a42b6d823160f85bd06d34b1118f8b58b568be2f",
+  "md5": "9e750806ca26b34552c1a4cf112abac0",
+  "crc32": "6cb4b7ec",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Frogger.crt"
+  ],
+  "screenscraper_id": "116385",
+  "title": "Frogger",
+  "year": "1983",
+  "publisher": "Parker Brothers",
+  "developer": "Parker Brothers",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "In der Umsetzung des Sega/Konami-Automaten von 1981 bringt man Frösche sicher über eine viel befahrene Straße und anschließend über einen Fluss in ihre Uferbuchten. Auf der Straße weicht man Autos und Lastwagen aus, auf dem Fluss hüpft man über Baumstämme und Schildkröten, die zeitweise abtauchen. Sind alle fünf Buchten besetzt, beginnt die nächste, schnellere Runde. Das leicht verständliche, aber fordernde Spielprinzip machte Frogger zu einem der bekanntesten Automatenspiele.\n\nFür den C64 gibt es zwei offizielle Umsetzungen: diese von Parker Brothers als Modul und eine von Sierra On-Line auf Diskette. Bei der Modulfassung spielt man allein mit dem Joystick in Port 1, zu zweit abwechselnd mit zwei Joysticks; mit den Funktionstasten startet man, wählt eine langsame oder schnelle Geschwindigkeit und die Spielerzahl.",
+  "texts": {
+    "de": "In der Umsetzung des Sega/Konami-Automaten von 1981 bringt man Frösche sicher über eine viel befahrene Straße und anschließend über einen Fluss in ihre Uferbuchten. Auf der Straße weicht man Autos und Lastwagen aus, auf dem Fluss hüpft man über Baumstämme und Schildkröten, die zeitweise abtauchen. Sind alle fünf Buchten besetzt, beginnt die nächste, schnellere Runde. Das leicht verständliche, aber fordernde Spielprinzip machte Frogger zu einem der bekanntesten Automatenspiele.\n\nFür den C64 gibt es zwei offizielle Umsetzungen: diese von Parker Brothers als Modul und eine von Sierra On-Line auf Diskette. Bei der Modulfassung spielt man allein mit dem Joystick in Port 1, zu zweit abwechselnd mit zwei Joysticks; mit den Funktionstasten startet man, wählt eine langsame oder schnelle Geschwindigkeit und die Spielerzahl.",
+    "en": "In this conversion of the 1981 Sega/Konami arcade game, frogs have to be guided safely across a busy road and then a river into their homes on the far bank. On the road, cars and lorries must be dodged; on the river, the frog hops across logs and turtles that occasionally dive. Once all five homes are filled, the next, faster round begins. Its easy-to-grasp yet demanding concept made Frogger one of the best-known arcade games.\n\nThere are two official C64 conversions: this cartridge by Parker Brothers and a disk version by Sierra On-Line. On the cartridge version a single player uses a joystick in port 1, two players take turns with two joysticks; the function keys start the game, choose slow or fast speed and set the number of players."
+  },
+  "images": {
+    "ss": "images/2e/2ed895e6ecc42918869bb3141f39a3d4bc243095.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "f224f3169bd229563e2a0a945aa321e451c7aa71",
+  "md5": "b56ecaa0c0a09f7f94d2fb47567cf671",
+  "crc32": "a2587d32",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FISH0.D64"
+  ],
+  "screenscraper_id": "112096",
+  "title": "Fish!",
+  "year": "1988",
+  "publisher": "Rainbird",
+  "developer": "Magnetic Scrolls",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "In diesem Textabenteuer von Magnetic Scrolls ist man ein Geheimagent zwischen den Dimensionen, der zu Beginn im Körper eines Goldfischs steckt. Eine Bande namens „Seven Deadly Fins“ will die Hydropole, die Quelle allen Wassers, in ihre Gewalt bringen, und man muss ihre Pläne über mehrere Welten hinweg vereiteln. Das Spiel lebt von britischem Wortwitz, absurden Situationen und einem leistungsfähigen Parser, der auch längere Sätze versteht. Es gilt als eines der humorvollsten Abenteuer der Firma.\n\nDie C64-Fassung erschien auf Diskette; gesteuert wird ausschließlich über Tastatureingaben. Das Spiel kam auch für zahlreiche andere Rechner heraus.\n\nSpielidee: John Molloy, Phil South, Pete Kemp, Rob Steggles",
+  "texts": {
+    "de": "In diesem Textabenteuer von Magnetic Scrolls ist man ein Geheimagent zwischen den Dimensionen, der zu Beginn im Körper eines Goldfischs steckt. Eine Bande namens „Seven Deadly Fins“ will die Hydropole, die Quelle allen Wassers, in ihre Gewalt bringen, und man muss ihre Pläne über mehrere Welten hinweg vereiteln. Das Spiel lebt von britischem Wortwitz, absurden Situationen und einem leistungsfähigen Parser, der auch längere Sätze versteht. Es gilt als eines der humorvollsten Abenteuer der Firma.\n\nDie C64-Fassung erschien auf Diskette; gesteuert wird ausschließlich über Tastatureingaben. Das Spiel kam auch für zahlreiche andere Rechner heraus.\n\nSpielidee: John Molloy, Phil South, Pete Kemp, Rob Steggles",
+    "en": "In this Magnetic Scrolls text adventure the player is an interdimensional secret agent who starts out in the body of a goldfish. A gang called the Seven Deadly Fins plans to seize the Hydropond, the source of all water, and their scheme has to be foiled across several worlds. The game thrives on British wordplay, absurd situations and a capable parser that understands longer sentences. It is regarded as one of the company's most humorous adventures.\n\nThe C64 version was released on disk and is played entirely through typed commands. The game was also released for many other computers.\n\nDesign: John Molloy, Phil South, Pete Kemp, Rob Steggles"
+  }
+}

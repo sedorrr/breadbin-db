@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "0aa432102b472b9b5e827629bacdb8f4864337e3",
+  "md5": "bc008c02c362a1c08e635f0734116501",
+  "crc32": "3c9a144e",
+  "size": 25534,
+  "format": "T64",
+  "files": [
+    "COLLAPSE.T64"
+  ],
+  "screenscraper_id": "112416",
+  "title": "Collapse",
+  "year": "1985",
+  "publisher": "Firebird",
+  "developer": "Nalin Sharma",
+  "genres": [
+    "Geschicklichkeit",
+    "Puzzle"
+  ],
+  "players": "1-4",
+  "synopsis": "In Collapse steuert der Spieler den Maulwurf Zen durch 96 Bildschirme voller grauer Stäbe und Brücken. Zuerst läuft Zen über die Stäbe und färbt sie blau, dann setzt er seinen magischen Rotix in Gang, der die gefärbten Stäbe zum Einsturz bringt. Im Zaubermodus schwebt Zen und kann Brückenteile bauen, um höher gelegene Stäbe zu erreichen. Zwei Kreaturen kosten bei Berührung Zeit, Edelsteine bringen neue; jeder Bildschirm muss vor Ablauf der Uhr geschafft werden.\n\nDas Spiel erschien bei Firebird auf Kassette; heute ist auch eine OneLoad64-Modulumsetzung verbreitet. Bis zu vier Spieler wechseln sich ab, gesteuert wird mit dem Joystick in Port 2.\n\nCode: Nalin Sharma · Grafik: Nalin Sharma",
+  "texts": {
+    "de": "In Collapse steuert der Spieler den Maulwurf Zen durch 96 Bildschirme voller grauer Stäbe und Brücken. Zuerst läuft Zen über die Stäbe und färbt sie blau, dann setzt er seinen magischen Rotix in Gang, der die gefärbten Stäbe zum Einsturz bringt. Im Zaubermodus schwebt Zen und kann Brückenteile bauen, um höher gelegene Stäbe zu erreichen. Zwei Kreaturen kosten bei Berührung Zeit, Edelsteine bringen neue; jeder Bildschirm muss vor Ablauf der Uhr geschafft werden.\n\nDas Spiel erschien bei Firebird auf Kassette; heute ist auch eine OneLoad64-Modulumsetzung verbreitet. Bis zu vier Spieler wechseln sich ab, gesteuert wird mit dem Joystick in Port 2.\n\nCode: Nalin Sharma · Grafik: Nalin Sharma",
+    "en": "In Collapse the player guides Zen the mole through 96 screens full of grey sticks and bridges. First Zen walks over the sticks to turn them blue, then he sets his magic Rotix moving, which brings the coloured sticks crashing down. In magic mode Zen floats and can build bridge sections to reach higher sticks. Two creatures cost time on contact, while jewels add more; every screen has to be cleared before the clock runs out.\n\nThe game was published by Firebird on cassette; a OneLoad64 cartridge conversion is common today. Up to four players take turns, using a joystick in port 2.\n\nCode: Nalin Sharma · Graphics: Nalin Sharma"
+  },
+  "images": {
+    "ss": "images/c4/c4d97755fe44753f9aec149c4881c1c963f76ee4.png",
+    "sstitle": "images/ef/ef7cb971c7e545502a5f2e944ae0d3f6e381bc27.png"
+  }
+}

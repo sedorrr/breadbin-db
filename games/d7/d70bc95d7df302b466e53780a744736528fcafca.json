@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d70bc95d7df302b466e53780a744736528fcafca",
+  "md5": "5ec9e3279e75f52915ad9a106c96f260",
+  "crc32": "871d3e1d",
+  "size": 4264,
+  "format": "PRG",
+  "files": [
+    "VOIDSTRIKER.prg"
+  ],
+  "title": "Void Striker",
+  "year": "2026",
+  "publisher": "Laimer",
+  "developer": "Laimer",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Einfaches Weltraum-Ballerspiel: Das eigene Schiff bewegt sich am linken Bildrand nur auf und ab und schießt auf heranfliegende Gegner. Punkte, Bestwert, Level und Leben stehen in einer Leiste rechts; der Schwierigkeitsgrad ist im Titelmenü wählbar.\n\nJoystick in Port 2 (hoch/runter, Feuer). Weitere Angaben zum Spielablauf liegen nicht vor.\n\nOriginal von der Seite laimer.top, als PRG.",
+  "texts": {
+    "de": "Einfaches Weltraum-Ballerspiel: Das eigene Schiff bewegt sich am linken Bildrand nur auf und ab und schießt auf heranfliegende Gegner. Punkte, Bestwert, Level und Leben stehen in einer Leiste rechts; der Schwierigkeitsgrad ist im Titelmenü wählbar.\n\nJoystick in Port 2 (hoch/runter, Feuer). Weitere Angaben zum Spielablauf liegen nicht vor.\n\nOriginal von der Seite laimer.top, als PRG.",
+    "en": "Simple space shooter: your ship only moves up and down along the left edge of the screen and fires at approaching enemies. Score, high score, level and lives are shown in a panel on the right; the difficulty can be chosen in the title menu.\n\nJoystick in port 2 (up/down, fire). No further details on the gameplay are available.\n\nOriginal from laimer.top, as a PRG."
+  },
+  "images": {
+    "ss": "images/28/28a46934ac889dac9c7905d841ed7e595ce47a2e.png",
+    "sstitle": "images/b8/b8af4e4f4aa7ba938d70c0f2316c27272e405793.png"
+  }
+}

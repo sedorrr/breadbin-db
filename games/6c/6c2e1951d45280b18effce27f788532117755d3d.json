@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "6c2e1951d45280b18effce27f788532117755d3d",
+  "md5": "aa7ae255b24b68fa7d61fd8607aeefef",
+  "crc32": "c9a5e0d3",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Battle of Britain.crt"
+  ],
+  "screenscraper_id": "109889",
+  "title": "Battle of Britain",
+  "year": "1985",
+  "publisher": "PSS (Personal Software Services)",
+  "developer": "PSS",
+  "genres": [
+    "Strategie",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Der Spieler führt das Fighter Command der Royal Air Force im Sommer 1940 und verteidigt Städte, Flugplätze und Radarstationen gegen die Angriffe der Luftwaffe. Auf einer in Echtzeit ablaufenden Karte, die sich anhalten lässt, werden 18 Staffeln auf neun Flugplätzen gestartet und auf die feindlichen Verbände gelenkt; Treibstoff und Munition sind begrenzt, getroffene Flugplätze und Radarstationen fallen aus. Begegnet eine Staffel dem Feind, kann der Spieler selbst einen Luftkampf fliegen oder ein Flakgeschütz bedienen. Zur Wahl stehen Übung, ein einzelner Großangriff und ein mehrwöchiger Feldzug.\n\nDas Spiel erschien 1985 für C64, ZX Spectrum und Amstrad CPC auf Kassette und Diskette, in den USA bei Firebird. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit Joystick oder Tastatur.\n\nMusik: Rob Hubbard",
+  "texts": {
+    "de": "Der Spieler führt das Fighter Command der Royal Air Force im Sommer 1940 und verteidigt Städte, Flugplätze und Radarstationen gegen die Angriffe der Luftwaffe. Auf einer in Echtzeit ablaufenden Karte, die sich anhalten lässt, werden 18 Staffeln auf neun Flugplätzen gestartet und auf die feindlichen Verbände gelenkt; Treibstoff und Munition sind begrenzt, getroffene Flugplätze und Radarstationen fallen aus. Begegnet eine Staffel dem Feind, kann der Spieler selbst einen Luftkampf fliegen oder ein Flakgeschütz bedienen. Zur Wahl stehen Übung, ein einzelner Großangriff und ein mehrwöchiger Feldzug.\n\nDas Spiel erschien 1985 für C64, ZX Spectrum und Amstrad CPC auf Kassette und Diskette, in den USA bei Firebird. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit Joystick oder Tastatur.\n\nMusik: Rob Hubbard",
+    "en": "The player commands the Royal Air Force's Fighter Command in the summer of 1940, defending towns, airfields and radar stations against Luftwaffe raids. On a real-time map that can be paused, 18 squadrons based at nine airfields are launched and directed towards enemy formations; fuel and ammunition are limited, and damaged airfields and radar stations go out of action. When a squadron meets the enemy, the player can fly the dogfight personally or man an anti-aircraft gun. Training, a single blitz and a campaign lasting several weeks are available.\n\nThe game was released in 1985 for the C64, ZX Spectrum and Amstrad CPC on tape and disk, in the USA by Firebird. Cracks and cartridge conversions, for example for OneLoad64, are in circulation. It is controlled with joystick or keyboard.\n\nMusic: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/c5/c580077cd11cc362d9f35132cbca1ca560d5b417.png"
+  }
+}

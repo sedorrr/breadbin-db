@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "03de8c91128281c9e3a8ff0221ba516145b12ce2",
+  "md5": "409fde7b4a664694b322ffcd94d3a146",
+  "crc32": "f9b8afaf",
+  "size": 14355,
+  "format": "PRG",
+  "files": [
+    "ai-swordodyssey+.prg"
+  ],
+  "title": "Sword Odyssey",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Seitlich gesehenes Schwertkampf-Actionspiel von Tansoft: Ein Held mit Schwert kämpft sich durch Level (1-1 usw.) mit Plattformen und Gegnern; die Level werden mit Aufforderungen wie „Smash them all“ eingeleitet. Das Titelbild zeigt den Helden vor einer Burg mit Rakete und Planet. Laut itch.io-Seite für C64 und C128 gedacht.\n\nCrack-Fassung von AIliens vom 6. November 2026 (PRG, einzelne Datei) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Seitlich gesehenes Schwertkampf-Actionspiel von Tansoft: Ein Held mit Schwert kämpft sich durch Level (1-1 usw.) mit Plattformen und Gegnern; die Level werden mit Aufforderungen wie „Smash them all“ eingeleitet. Das Titelbild zeigt den Helden vor einer Burg mit Rakete und Planet. Laut itch.io-Seite für C64 und C128 gedacht.\n\nCrack-Fassung von AIliens vom 6. November 2026 (PRG, einzelne Datei) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Side-on sword-fighting action game by Tansoft: a sword-wielding hero fights through levels (1-1 and so on) with platforms and enemies; levels are introduced with prompts such as \"Smash them all\". The title screen shows the hero in front of a castle with a rocket and a planet. According to the itch.io page it is meant for the C64 and C128.\n\nCrack by AIliens from 6 November 2026 (PRG, single file) with intro and trainer. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/a9/a9a34ba76bdb1b51cb69ff6e52fbb16ce73c37e4.png",
+    "sstitle": "images/0c/0c4b8e0e0ba48528fd03ee169e48bda2083b60dc.png"
+  }
+}

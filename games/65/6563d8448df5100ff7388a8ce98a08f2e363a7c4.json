@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "6563d8448df5100ff7388a8ce98a08f2e363a7c4",
+  "md5": "7872d7febe4b44529cd1d4eee76697d5",
+  "crc32": "d2583032",
+  "size": 21588,
+  "format": "PRG",
+  "files": [
+    "ai-nessy+.prg"
+  ],
+  "title": "Nessy: Echoes of the Loch",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Abenteuer-Actionspiel von Tansoft am Loch Ness im Jahr 1987: Eine Karte zeigt acht Stationen von Fort Augustus über Urquhart bis Inverness. Der Spieler folgt der Spur seines Vaters, sucht in jedem Abschnitt drei Runen, um ein Tor zu öffnen, und taucht dafür mit einem Boot bzw. unter Wasser. Die Bildschirmtexte sind (in dieser Fassung) deutsch.\n\nCrack-Fassung von AIliens vom 15. November 2026 (PRG, einzelne Datei) mit Intro und Trainer; der Trainer bietet unendliche Leben. Die Bildschirmtexte sind in dieser Fassung deutsch. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Abenteuer-Actionspiel von Tansoft am Loch Ness im Jahr 1987: Eine Karte zeigt acht Stationen von Fort Augustus über Urquhart bis Inverness. Der Spieler folgt der Spur seines Vaters, sucht in jedem Abschnitt drei Runen, um ein Tor zu öffnen, und taucht dafür mit einem Boot bzw. unter Wasser. Die Bildschirmtexte sind (in dieser Fassung) deutsch.\n\nCrack-Fassung von AIliens vom 15. November 2026 (PRG, einzelne Datei) mit Intro und Trainer; der Trainer bietet unendliche Leben. Die Bildschirmtexte sind in dieser Fassung deutsch. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Adventure action game by Tansoft set at Loch Ness in 1987: a map shows eight stations from Fort Augustus via Urquhart to Inverness. The player follows the trail of his father, looks for three runes in each section to open a gate, and dives with a boat or underwater to do so. The on-screen texts are in German (in this version).\n\nCrack by AIliens from 15 November 2026 (PRG, single file) with intro and trainer; the trainer offers infinite lives. The on-screen texts in this version are in German. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/fa/fa9731b7f9e1299b79a54bb82b5bc35aa477be4e.png",
+    "sstitle": "images/8e/8e6ab7a6369e05fd0d7362b002256d8297e94a32.png"
+  }
+}

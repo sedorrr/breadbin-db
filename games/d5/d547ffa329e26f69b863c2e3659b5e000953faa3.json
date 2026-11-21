@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d547ffa329e26f69b863c2e3659b5e000953faa3",
+  "md5": "33addd234fe61fb05b4cf69b5f84876e",
+  "crc32": "4651a3f4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "pixel-miner.d64"
+  ],
+  "title": "Pixel Miner",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Plattformspiel von Tansoft in der Art von „Manic Miner“: Ein Bergmann sammelt in Höhlen aus Ziegel- und Leiterebenen Gold ein und weicht dabei Gegnern aus; der erste Abschnitt heißt „Copper Caves“. Bestenliste und drei Schwierigkeitsstufen; laut Titelbild für C64 und C128.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+  "texts": {
+    "de": "Plattformspiel von Tansoft in der Art von „Manic Miner“: Ein Bergmann sammelt in Höhlen aus Ziegel- und Leiterebenen Gold ein und weicht dabei Gegnern aus; der erste Abschnitt heißt „Copper Caves“. Bestenliste und drei Schwierigkeitsstufen; laut Titelbild für C64 und C128.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+    "en": "Platform game by Tansoft in the style of \"Manic Miner\": a miner collects gold in caves made of brick and ladder levels while avoiding enemies; the first stage is called \"Copper Caves\". High score and three difficulty levels; according to the title screen for the C64 and C128.\n\nOriginal from Tansoft's itch.io page, as D64 and PRG."
+  },
+  "images": {
+    "ss": "images/cc/cc932c6d1d66d2dc3b39891692922ac8cf17a751.png",
+    "sstitle": "images/3c/3cb65a0753ea483a3bf5051ec8e11ac726e24a4b.png"
+  }
+}

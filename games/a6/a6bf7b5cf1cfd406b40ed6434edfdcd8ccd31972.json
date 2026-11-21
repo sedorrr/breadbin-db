@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a6bf7b5cf1cfd406b40ed6434edfdcd8ccd31972",
+  "md5": "f6606af6962c1073dc0a06362ebb8019",
+  "crc32": "2bc1d25f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "westfall.d64"
+  ],
+  "title": "Westfall Showdown",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Western-Schießspiel von Tansoft: Ein Revolverheld steht vor einer Wüstenkulisse mit Tafelbergen und Kakteen und schießt auf Banditen, die von allen Seiten auftauchen; Trefferpunkte (HP), Punktzahl und Levelanzeige stehen oben im Bild. Das Spiel spielt unter anderem in der Wüste von Arizona.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+  "texts": {
+    "de": "Western-Schießspiel von Tansoft: Ein Revolverheld steht vor einer Wüstenkulisse mit Tafelbergen und Kakteen und schießt auf Banditen, die von allen Seiten auftauchen; Trefferpunkte (HP), Punktzahl und Levelanzeige stehen oben im Bild. Das Spiel spielt unter anderem in der Wüste von Arizona.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+    "en": "Western shooting game by Tansoft: a gunslinger stands in front of a desert backdrop of mesas and cacti and shoots bandits who appear from all sides; hit points (HP), score and level are shown at the top. Among other places the game is set in the Arizona desert.\n\nOriginal from Tansoft's itch.io page, as D64 and PRG."
+  },
+  "images": {
+    "ss": "images/83/8367af1dedcd5b7b5aa2710c880348e6f6f7f7b6.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "d5e34858b90b5f4b85afbcdd52b8505ba9898e17",
+  "md5": "0ec84e5c65b84da78e6573187d311877",
+  "crc32": "52a61123",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SKYFOX2B.D64"
+  ],
+  "screenscraper_id": "110875",
+  "title": "Skyfox II: The Cygnus Conflict",
+  "year": "1987",
+  "publisher": "Electronic Arts",
+  "developer": "Dynamix",
+  "genres": [
+    "Simulation",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Skyfox: Der Spieler steuert einen Raumjäger durch das Cygnus-System und verteidigt die Föderation gegen die angreifenden Xenomorphs. Die Einsätze reichen von Begleitschutz über Angriffe auf Basen bis zu Kämpfen gegen ganze Flotten; geflogen wird in Cockpitansicht mit 3D-Vektorgrafik und Radar. Damit wechselte die Reihe vom Luftkampf über einer Landschaft in den Weltraum.\n\nErschienen 1987 bei Electronic Arts auf Diskette (zwei Diskettenseiten). Gesteuert wird mit dem Joystick in Port 2 sowie über Tastaturbefehle.\n\nCode: Kevin Ryan, Damon Slye, Jeff Tunnell · Grafik: John Burton, Darek Lukaszuk · Musik: Dave Warhol",
+  "texts": {
+    "de": "Fortsetzung von Skyfox: Der Spieler steuert einen Raumjäger durch das Cygnus-System und verteidigt die Föderation gegen die angreifenden Xenomorphs. Die Einsätze reichen von Begleitschutz über Angriffe auf Basen bis zu Kämpfen gegen ganze Flotten; geflogen wird in Cockpitansicht mit 3D-Vektorgrafik und Radar. Damit wechselte die Reihe vom Luftkampf über einer Landschaft in den Weltraum.\n\nErschienen 1987 bei Electronic Arts auf Diskette (zwei Diskettenseiten). Gesteuert wird mit dem Joystick in Port 2 sowie über Tastaturbefehle.\n\nCode: Kevin Ryan, Damon Slye, Jeff Tunnell · Grafik: John Burton, Darek Lukaszuk · Musik: Dave Warhol",
+    "en": "Sequel to Skyfox: the player flies a space fighter through the Cygnus system, defending the Federation against the invading Xenomorphs. Missions range from escort duty and attacks on bases to battles against entire fleets; the view is from the cockpit with 3D vector graphics and radar. With this the series moved from air combat over a landscape into space.\n\nReleased in 1987 by Electronic Arts on disk (two disk sides). It is controlled with a joystick in port 2 plus keyboard commands.\n\nCode: Kevin Ryan, Damon Slye, Jeff Tunnell · Graphics: John Burton, Darek Lukaszuk · Music: Dave Warhol"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "ab95d1ff65cf0b9446fa67c4f80446eecb899771",
+  "md5": "2e786d6c9c20021e39a6c3d718536c9d",
+  "crc32": "1343ee16",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "guzzler-v1-2.d64"
+  ],
+  "title": "Guzzler",
+  "year": "2026",
+  "publisher": "Divoratore",
+  "developer": "Divoratore",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle Fan-Umsetzung des Tehkan-Automaten Guzzler (1983). In einem Labyrinth löscht man Feuer und weicht Monstern aus; die Figur fasst bis zu drei Wasserladungen und füllt an Pfützen nach – je leerer, desto schneller ist sie. Getränke füllen sofort auf und frieren Feuer kurz ein. 16 Level (die 15 des Originals plus ein neues Level 16 mit Endgegner), dazu Blumenfeld, Boni, Glücksrad und Bestenliste.\n\nFassung V1.2 als EasyFlash-CRT und D64 (Rundendaten werden nachgeladen). Joystick in Port 2, Taste 5 wirft eine Münze ein, 1 startet. In Assembler geschrieben, mit Multicolor-Bitmap-Hintergründen; kostenlos.",
+  "texts": {
+    "de": "Inoffizielle Fan-Umsetzung des Tehkan-Automaten Guzzler (1983). In einem Labyrinth löscht man Feuer und weicht Monstern aus; die Figur fasst bis zu drei Wasserladungen und füllt an Pfützen nach – je leerer, desto schneller ist sie. Getränke füllen sofort auf und frieren Feuer kurz ein. 16 Level (die 15 des Originals plus ein neues Level 16 mit Endgegner), dazu Blumenfeld, Boni, Glücksrad und Bestenliste.\n\nFassung V1.2 als EasyFlash-CRT und D64 (Rundendaten werden nachgeladen). Joystick in Port 2, Taste 5 wirft eine Münze ein, 1 startet. In Assembler geschrieben, mit Multicolor-Bitmap-Hintergründen; kostenlos.",
+    "en": "Unofficial fan conversion of the Tehkan arcade game Guzzler (1983). In a maze you put out fires and avoid monsters; your character holds up to three loads of water and refills at puddles – the emptier it is, the faster it moves. Drinks refill it at once and briefly freeze the fires. 16 levels (the 15 of the original plus a new level 16 with a boss), plus a flower field, bonuses, a wheel of fortune and a high score table.\n\nVersion 1.2 as EasyFlash CRT and D64 (round data is loaded from disk). Joystick in port 2, key 5 inserts a coin, 1 starts. Written in assembly with multicolour bitmap backgrounds; free."
+  },
+  "images": {
+    "sstitle": "images/d0/d02491f6cb808c1159a36ef70ac036af7731160d.png"
+  }
+}

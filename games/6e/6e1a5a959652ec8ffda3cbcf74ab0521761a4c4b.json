@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "6e1a5a959652ec8ffda3cbcf74ab0521761a4c4b",
+  "md5": "2c90c1b6873e3ff70d7e3b2a858144c8",
+  "crc32": "992b7890",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Zig Zag.crt"
+  ],
+  "screenscraper_id": "109481",
+  "title": "Zig Zag",
+  "year": "1987",
+  "publisher": "Mirrorsoft",
+  "developer": "Antony Crowther",
+  "genres": [
+    "Shoot'em Up",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Zig Zag ist ein Labyrinth-Shooter von Antony Crowther, der Elemente von Zaxxon mit einem Erkundungsspiel verbindet. Der Spieler bewegt sich durch ein großes, schräg von oben dargestelltes Labyrinth aus Mauern und Gängen, jagt Gegner und sucht den Weg zum Ziel jeder Stufe. Die eigenwillige Art, sich durch die Gänge zu bewegen, und die räumliche Darstellung hoben das Spiel von üblichen Labyrinthspielen ab; Zzap!64 sah darin Crowthers Rückkehr zu alter Form.\n\nDas Spiel erschien bei Mirrorsoft auf Diskette und Kassette, in Nordamerika 1988 bei Spectrum HoloByte. Gesteuert wird mit dem Joystick in Port 2; eine OneLoad64-Modulumsetzung ist verbreitet.\n\nCode: Antony Crowther · Musik: Antony Crowther",
+  "texts": {
+    "de": "Zig Zag ist ein Labyrinth-Shooter von Antony Crowther, der Elemente von Zaxxon mit einem Erkundungsspiel verbindet. Der Spieler bewegt sich durch ein großes, schräg von oben dargestelltes Labyrinth aus Mauern und Gängen, jagt Gegner und sucht den Weg zum Ziel jeder Stufe. Die eigenwillige Art, sich durch die Gänge zu bewegen, und die räumliche Darstellung hoben das Spiel von üblichen Labyrinthspielen ab; Zzap!64 sah darin Crowthers Rückkehr zu alter Form.\n\nDas Spiel erschien bei Mirrorsoft auf Diskette und Kassette, in Nordamerika 1988 bei Spectrum HoloByte. Gesteuert wird mit dem Joystick in Port 2; eine OneLoad64-Modulumsetzung ist verbreitet.\n\nCode: Antony Crowther · Musik: Antony Crowther",
+    "en": "Zig Zag is a maze shooter by Antony Crowther that combines elements of Zaxxon with exploration. The player moves through a large maze of walls and corridors shown at an angle from above, hunting enemies and searching for the way to each stage's goal. The distinctive way of moving through the corridors and the three-dimensional presentation set it apart from typical maze games; Zzap!64 saw it as Crowther's return to form.\n\nThe game was published by Mirrorsoft on disk and cassette, and in North America in 1988 by Spectrum HoloByte. It is played with a joystick in port 2; a OneLoad64 cartridge conversion is common.\n\nCode: Antony Crowther · Music: Antony Crowther"
+  }
+}

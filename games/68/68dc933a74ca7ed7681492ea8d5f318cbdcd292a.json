@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "68dc933a74ca7ed7681492ea8d5f318cbdcd292a",
+  "md5": "20ba55a36f026025061953cb57ed37b6",
+  "crc32": "324382a0",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Shamus.crt"
+  ],
+  "screenscraper_id": "110772",
+  "title": "Shamus",
+  "year": "1983",
+  "publisher": "Synapse Software",
+  "developer": "Synapse Software",
+  "genres": [
+    "Action / Labyrinth",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Ein Detektiv durchstreift ein Labyrinth aus vielen Räumen auf vier Ebenen, um den „Shadow“ zu stellen. Unterwegs schießt er auf Roboter und andere Gegner, sammelt Schlüssel für verschlossene Türen und Extraleben und muss vor dem auftauchenden Schatten fliehen, solange er ihn nicht besiegen kann. Das Spiel verbindet schnelle Robotron-artige Schießereien mit Erkundung und galt als einer der Synapse-Klassiker.\n\nDas Original von Cathryn Mataga erschien zuerst für die Atari-8-Bit-Rechner, die C64-Fassung 1983 bei Synapse auf Diskette und Kassette. Gesteuert wird mit dem Joystick in Port 1. Es gibt Szenefassungen mit Trainer und Highscore-Speicher sowie eine OneLoad64-Modulumsetzung.\n\nCode: Jack L. Thornton Jr. · Vorlage: Cathryn (William) Mataga",
+  "texts": {
+    "de": "Ein Detektiv durchstreift ein Labyrinth aus vielen Räumen auf vier Ebenen, um den „Shadow“ zu stellen. Unterwegs schießt er auf Roboter und andere Gegner, sammelt Schlüssel für verschlossene Türen und Extraleben und muss vor dem auftauchenden Schatten fliehen, solange er ihn nicht besiegen kann. Das Spiel verbindet schnelle Robotron-artige Schießereien mit Erkundung und galt als einer der Synapse-Klassiker.\n\nDas Original von Cathryn Mataga erschien zuerst für die Atari-8-Bit-Rechner, die C64-Fassung 1983 bei Synapse auf Diskette und Kassette. Gesteuert wird mit dem Joystick in Port 1. Es gibt Szenefassungen mit Trainer und Highscore-Speicher sowie eine OneLoad64-Modulumsetzung.\n\nCode: Jack L. Thornton Jr. · Vorlage: Cathryn (William) Mataga",
+    "en": "A detective roams a maze of many rooms across four levels to track down \"the Shadow\". Along the way he shoots robots and other enemies, collects keys for locked doors and extra lives, and must flee from the Shadow when it appears unless he can defeat it. The game combines fast Robotron-style shooting with exploration and was regarded as one of Synapse's classics.\n\nCathryn Mataga's original first appeared on Atari 8-bit computers; the C64 version was released in 1983 by Synapse on disk and tape. It is controlled with a joystick in port 1. There are scene versions with trainers and high score saving as well as a OneLoad64 cartridge conversion.\n\nCode: Jack L. Thornton Jr. · Original design: Cathryn (William) Mataga"
+  },
+  "images": {
+    "sstitle": "images/e8/e8717da24f50a0ce6007a21cad081448d05e159d.png"
+  }
+}

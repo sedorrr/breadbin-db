@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "ad09c8f6042f2626e5d241f475fd022f6aa5e06d",
+  "md5": "88f18926c028589dcf1fa019c7eec875",
+  "crc32": "74d44add",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Surface +4D [Shadow].d64"
+  ],
+  "title": "Surface +4D",
+  "year": "2026",
+  "publisher": "Ditlew",
+  "developer": "Ditlew",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Plattformspiel aus Sicht eines Speedrunners, angelehnt an Klassiker wie Rick Dangerous und neuere wie Sherwood: Eine einsame Figur sucht den Weg nach draußen und braucht dafür Tempo und Gedächtnis. Viele Räume sehen sich zum Verwechseln ähnlich, unterscheiden sich aber in Kleinigkeiten, die man sich merken muss; das Spiel ist ausdrücklich schwer und verlangt viele Anläufe. Eine eingebaute Stoppuhr misst die Zeit für die Bestenliste.\n\nSpielarten: Normal (10 Räume), Extended (20 Räume, seit Version 1.2), eine Kampagne (seit 1.1) und ein Modus, der die Räume bei jedem Lauf neu mischt. Die Grafik arbeitet bewusst nur mit Graustufen, der Ton ist schlicht gehalten.\n\nCrack-Fassung von Shadow vom 11. November 2026 (D64) mit Intro, vier Trainern (endlose Leben, keine Kollision, endloses Licht, Neustart im selben Raum) und Doku. Das Original ist ebenfalls in der Datenbank.\n\nCode, Grafik, Ton: Ditlew",
+  "texts": {
+    "de": "Plattformspiel aus Sicht eines Speedrunners, angelehnt an Klassiker wie Rick Dangerous und neuere wie Sherwood: Eine einsame Figur sucht den Weg nach draußen und braucht dafür Tempo und Gedächtnis. Viele Räume sehen sich zum Verwechseln ähnlich, unterscheiden sich aber in Kleinigkeiten, die man sich merken muss; das Spiel ist ausdrücklich schwer und verlangt viele Anläufe. Eine eingebaute Stoppuhr misst die Zeit für die Bestenliste.\n\nSpielarten: Normal (10 Räume), Extended (20 Räume, seit Version 1.2), eine Kampagne (seit 1.1) und ein Modus, der die Räume bei jedem Lauf neu mischt. Die Grafik arbeitet bewusst nur mit Graustufen, der Ton ist schlicht gehalten.\n\nCrack-Fassung von Shadow vom 11. November 2026 (D64) mit Intro, vier Trainern (endlose Leben, keine Kollision, endloses Licht, Neustart im selben Raum) und Doku. Das Original ist ebenfalls in der Datenbank.\n\nCode, Grafik, Ton: Ditlew",
+    "en": "Platform game seen from a speedrunner's point of view, inspired by classics such as Rick Dangerous and newer ones such as Sherwood: a lone figure looks for the way out and needs both speed and memory. Many rooms look deceptively alike but differ in small details that have to be remembered; the game is explicitly hard and takes many attempts. A built-in timer records the time for the high score list.\n\nModes: Normal (10 rooms), Extended (20 rooms, since version 1.2), a campaign (since 1.1) and a mode that shuffles the rooms on every run. The graphics deliberately use only shades of grey, and the sound is kept simple.\n\nCrack by Shadow from 11 November 2026 (D64) with intro, four trainers (endless lives, no collision, endless light, respawn in the same room) and docs. The original release is also in the database.\n\nCode, graphics, sound: Ditlew"
+  },
+  "images": {
+    "sstitle": "images/f6/f6bf780d86be08a52321935a8b075514ea76aa05.png"
+  }
+}

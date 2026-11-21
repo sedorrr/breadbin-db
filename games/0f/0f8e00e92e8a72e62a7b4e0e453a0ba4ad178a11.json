@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0f8e00e92e8a72e62a7b4e0e453a0ba4ad178a11",
+  "md5": "d04298ee65e34f40f351a64acabef2f7",
+  "crc32": "9aa02e63",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "NIGHTSHI.D64"
+  ],
+  "screenscraper_id": "35946",
+  "title": "Night Shift",
+  "year": "1990",
+  "publisher": "U.S. Gold / Lucasfilm Games",
+  "developer": "Attention to Detail",
+  "genres": [
+    "Puzzle",
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "In Night Shift arbeitet Fred oder Fiona Fixit in der Nachtschicht einer Spielzeugfabrik und muss die riesige Produktionsmaschine B.E.A.S.T. am Laufen halten. Jede Schicht verlangt eine bestimmte Menge fertiger Figuren in der richtigen Farbe und Form, bevor die Zeit abläuft. Dazu wird per Fahrrad Strom erzeugt, Kessel werden angezündet, Förderbänder eingestellt und Schädlinge wie Lemminge vertrieben. Mit jeder Schicht kommen neue Werkzeuge und Aufgaben hinzu, Passwörter erlauben den späteren Wiedereinstieg. Die Mischung aus Plattformspiel und Fließband-Knobelei war für ein Lucasfilm-Spiel ungewöhnlich.\n\nDie C64-Fassung erschien bei U.S. Gold auf Diskette und Kassette und wurde von Software Studios umgesetzt. Gespielt wird mit dem Joystick in Port 2, zu zweit abwechselnd. Verbreitet ist auch eine MultiLoad64-EasyFlash-Umsetzung von $olo1870.\n\nCode: John Mullins · Grafik: Nick Cook · Musik: David Lowe",
+  "texts": {
+    "de": "In Night Shift arbeitet Fred oder Fiona Fixit in der Nachtschicht einer Spielzeugfabrik und muss die riesige Produktionsmaschine B.E.A.S.T. am Laufen halten. Jede Schicht verlangt eine bestimmte Menge fertiger Figuren in der richtigen Farbe und Form, bevor die Zeit abläuft. Dazu wird per Fahrrad Strom erzeugt, Kessel werden angezündet, Förderbänder eingestellt und Schädlinge wie Lemminge vertrieben. Mit jeder Schicht kommen neue Werkzeuge und Aufgaben hinzu, Passwörter erlauben den späteren Wiedereinstieg. Die Mischung aus Plattformspiel und Fließband-Knobelei war für ein Lucasfilm-Spiel ungewöhnlich.\n\nDie C64-Fassung erschien bei U.S. Gold auf Diskette und Kassette und wurde von Software Studios umgesetzt. Gespielt wird mit dem Joystick in Port 2, zu zweit abwechselnd. Verbreitet ist auch eine MultiLoad64-EasyFlash-Umsetzung von $olo1870.\n\nCode: John Mullins · Grafik: Nick Cook · Musik: David Lowe",
+    "en": "In Night Shift, Fred or Fiona Fixit works the night shift at a toy factory and has to keep the huge production machine B.E.A.S.T. running. Each shift demands a set number of finished figures in the right colour and shape before time runs out. To get there the player pedals a bicycle for power, lights boilers, adjusts conveyor belts and chases off pests such as lemmings. Each shift adds new tools and tasks, and passwords allow continuing later. The blend of platform game and production-line puzzle was unusual for a Lucasfilm game.\n\nThe C64 version was published by U.S. Gold on disk and cassette and converted by Software Studios. It is played with a joystick in port 2, with two players taking turns. A MultiLoad64 EasyFlash conversion by $olo1870 is also common.\n\nCode: John Mullins · Graphics: Nick Cook · Music: David Lowe"
+  },
+  "images": {
+    "ss": "images/92/92d66ecd5f636c52cfbc783fc1e15ce8769a25aa.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "b3a3e911abcbcc78f3a4653dc92208906f1bef42",
+  "md5": "73663814bb885a4316c6dcffc9a26ada",
+  "crc32": "27a5de47",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "banana-guy.d64"
+  ],
+  "title": "Banana Guy",
+  "year": "2026",
+  "publisher": "zeus074",
+  "developer": "Mirco Gaggiottini (zeus074)",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Flussfahrt mit Bananen: Man lädt an Anlegestellen Bananen auf und bringt sie rechtzeitig zum Markt, während Schmuggler angreifen. Bananen dienen auch als Wurfgeschosse; im Fluss lauern Minen und große Boote, und der Fluss wird enger. Am Ende jeder Runde wartet der Schmugglerboss, nach drei Runden mit steigender Schwierigkeit ist das Spiel geschafft.\n\nJoystick in Port 2: vorwärts beschleunigt, zurück bremst, Feuer wirft Bananen; Sprache Englisch oder Italienisch.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Flussfahrt mit Bananen: Man lädt an Anlegestellen Bananen auf und bringt sie rechtzeitig zum Markt, während Schmuggler angreifen. Bananen dienen auch als Wurfgeschosse; im Fluss lauern Minen und große Boote, und der Fluss wird enger. Am Ende jeder Runde wartet der Schmugglerboss, nach drei Runden mit steigender Schwierigkeit ist das Spiel geschafft.\n\nJoystick in Port 2: vorwärts beschleunigt, zurück bremst, Feuer wirft Bananen; Sprache Englisch oder Italienisch.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+    "en": "A river run with bananas: you load bananas at the piers and get them to the market in time while smugglers attack. Bananas also serve as missiles; mines and big boats lurk in the river, and the river gets narrower. Each round ends with the smuggler boss, and after three rounds of increasing difficulty the game is won.\n\nJoystick in port 2: forward accelerates, back brakes, fire throws bananas; language English or Italian.\n\nOriginal from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "ss": "images/ac/acdfca468094118841a9bd273acf3b117ac996f3.png",
+    "sstitle": "images/2a/2a4098c61942d0768095319f0359bfa481c3323c.png"
+  }
+}

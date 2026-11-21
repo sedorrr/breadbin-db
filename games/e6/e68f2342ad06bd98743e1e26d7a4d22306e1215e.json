@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e68f2342ad06bd98743e1e26d7a4d22306e1215e",
+  "md5": "19806c25145d3cf3054a05b815dd7ca6",
+  "crc32": "0f6afb6d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Nightcat+2(AI).d64"
+  ],
+  "title": "Nightcat +2",
+  "year": "2026",
+  "publisher": "Laimer",
+  "developer": "Laimer",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Eine schwarze Katze zieht nachts über die Dächer der Altstadt und stibitzt Fisch von den Fensterbänken, um den nächsten Level zu erreichen. Hunde bewachen die Höfe, Fledermäuse kreisen um die Schornsteine; Feuer springt, Regenrohre lassen sich hochklettern. Im Titel sind Spielvarianten wählbar (neun oder drei Leben, schläfrige oder grimmige Hunde).\n\nJoystick, Feuer springt.\n\nCrack-Fassung von Aldi Industries vom 8. November 2026 (D64) mit Intro, zwei Trainern (endlose Leben, unverwundbar) und scherzhafter Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Eine schwarze Katze zieht nachts über die Dächer der Altstadt und stibitzt Fisch von den Fensterbänken, um den nächsten Level zu erreichen. Hunde bewachen die Höfe, Fledermäuse kreisen um die Schornsteine; Feuer springt, Regenrohre lassen sich hochklettern. Im Titel sind Spielvarianten wählbar (neun oder drei Leben, schläfrige oder grimmige Hunde).\n\nJoystick, Feuer springt.\n\nCrack-Fassung von Aldi Industries vom 8. November 2026 (D64) mit Intro, zwei Trainern (endlose Leben, unverwundbar) und scherzhafter Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "A black cat prowls over the rooftops of the old town at night, stealing fish from windowsills to reach the next level. Dogs guard the yards and bats circle the chimneys; fire jumps and drainpipes can be climbed. Game variants can be chosen on the title screen (nine or three lives, sleepy or grumpy dogs).\n\nJoystick, fire jumps.\n\nCrack by Aldi Industries from 8 November 2026 (D64) with intro, two trainers (endless lives, invulnerability) and joke docs. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/bf/bfb540a2be76cfe6922e2c80beac3677fd9561bf.png",
+    "sstitle": "images/17/17db4eadf3fa46c0a2a3c3f3a8c030e87a772108.png"
+  }
+}

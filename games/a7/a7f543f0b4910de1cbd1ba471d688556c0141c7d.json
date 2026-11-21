@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a7f543f0b4910de1cbd1ba471d688556c0141c7d",
+  "md5": "c1ca5d2a84094d5d8faecb3c7205a3e2",
+  "crc32": "b9665071",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Samegame 64 +2D [HF+EX].d64"
+  ],
+  "title": "SameGame 64 +2D",
+  "year": "2026",
+  "publisher": "Emanuele Feronato",
+  "developer": "Emanuele Feronato",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung von „Chain Shot!“ (Kuniaki Moribe, 1985), besser bekannt als SameGame: Auf einem Brett mit 20 Spalten, 10 Reihen und vier Farben werden zusammenhängende Gruppen ab zwei gleichfarbigen Steinen entfernt. Darüberliegende Steine fallen nach, leere Spalten rücken von rechts auf. Eine Gruppe aus n Steinen bringt Level × n × (n − 1) Punkte; ist das Brett leer, folgt das nächste Level, ist keine Gruppe mehr übrig, endet das Spiel.\n\nHires-Steine, ein Sprite-Cursor und sichtbar Feld für Feld fallende Steine mit Geräuscheffekten.\n\nCrack-Fassung von Excess und Hokuto Force vom 9. November 2026 (D64) mit zwei Trainer-Optionen und Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Umsetzung von „Chain Shot!“ (Kuniaki Moribe, 1985), besser bekannt als SameGame: Auf einem Brett mit 20 Spalten, 10 Reihen und vier Farben werden zusammenhängende Gruppen ab zwei gleichfarbigen Steinen entfernt. Darüberliegende Steine fallen nach, leere Spalten rücken von rechts auf. Eine Gruppe aus n Steinen bringt Level × n × (n − 1) Punkte; ist das Brett leer, folgt das nächste Level, ist keine Gruppe mehr übrig, endet das Spiel.\n\nHires-Steine, ein Sprite-Cursor und sichtbar Feld für Feld fallende Steine mit Geräuscheffekten.\n\nCrack-Fassung von Excess und Hokuto Force vom 9. November 2026 (D64) mit zwei Trainer-Optionen und Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Version of \"Chain Shot!\" (Kuniaki Moribe, 1985), better known as SameGame: on a board with 20 columns, 10 rows and four colours, connected groups of two or more tiles of the same colour are removed. Tiles above fall down and empty columns close up from the right. A group of n tiles scores level × n × (n − 1) points; clearing the board leads to the next level, and when no group is left the game ends.\n\nHires tiles, a sprite cursor and tiles that visibly drop one cell at a time, with sound effects.\n\nCrack by Excess and Hokuto Force from 9 November 2026 (D64) with two trainer options and docs. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/e7/e7076fd19d6f9bc538eb38338e02ea37e222445e.png",
+    "sstitle": "images/3b/3b7c67e5ff51db748b2b193cd386a2b7d1c5424b.png"
+  }
+}

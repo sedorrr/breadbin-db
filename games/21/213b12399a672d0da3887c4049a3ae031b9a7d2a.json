@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "213b12399a672d0da3887c4049a3ae031b9a7d2a",
+  "md5": "25b583e5bba840cac23b9bccfd996b23",
+  "crc32": "a7121882",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "YESPRIM0.D64"
+  ],
+  "screenscraper_id": "36145",
+  "title": "Yes, Prime Minister",
+  "year": "1987",
+  "publisher": "Mosaic Publishing",
+  "developer": "Oxford Digital Enterprises",
+  "genres": [
+    "Strategie",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Yes, Prime Minister beruht auf der gleichnamigen BBC-Fernsehserie. Der Spieler übernimmt die Rolle von Premierminister Jim Hacker und muss eine Woche in der Downing Street überstehen. Termine, Akten, Anrufe und Gespräche mit Sir Humphrey und Bernard verlangen ständig Entscheidungen, die sich auf die Beliebtheit des Regierungschefs auswirken. Der Reiz liegt im trockenen Humor der Vorlage und darin, die oft doppeldeutigen Ratschläge der Beamten richtig einzuschätzen.\n\nDas Spiel erschien auf Diskette; die Woche ist in einzelne Tage aufgeteilt, die nacheinander nachgeladen werden. Bedient wird es über Menüs mit dem Joystick in Port 2.",
+  "texts": {
+    "de": "Yes, Prime Minister beruht auf der gleichnamigen BBC-Fernsehserie. Der Spieler übernimmt die Rolle von Premierminister Jim Hacker und muss eine Woche in der Downing Street überstehen. Termine, Akten, Anrufe und Gespräche mit Sir Humphrey und Bernard verlangen ständig Entscheidungen, die sich auf die Beliebtheit des Regierungschefs auswirken. Der Reiz liegt im trockenen Humor der Vorlage und darin, die oft doppeldeutigen Ratschläge der Beamten richtig einzuschätzen.\n\nDas Spiel erschien auf Diskette; die Woche ist in einzelne Tage aufgeteilt, die nacheinander nachgeladen werden. Bedient wird es über Menüs mit dem Joystick in Port 2.",
+    "en": "Yes, Prime Minister is based on the BBC television series of the same name. The player takes on the role of Prime Minister Jim Hacker and has to survive a week in Downing Street. Appointments, files, phone calls and conversations with Sir Humphrey and Bernard constantly call for decisions that affect the Prime Minister's popularity. The appeal lies in the dry humour of the source material and in correctly reading the officials' often ambiguous advice.\n\nThe game was released on disk; the week is split into individual days that are loaded one after another. It is operated through menus using a joystick in port 2."
+  }
+}

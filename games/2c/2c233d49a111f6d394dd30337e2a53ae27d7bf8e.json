@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "2c233d49a111f6d394dd30337e2a53ae27d7bf8e",
+  "md5": "7bf4450d4b648e5c813d3a9bb946c4ab",
+  "crc32": "b78380cd",
+  "size": 19247,
+  "format": "PRG",
+  "files": [
+    "The Pumpkids.prg"
+  ],
+  "title": "The Pumpkids",
+  "year": "2026",
+  "publisher": "Pretzel Logic",
+  "developer": "Pretzel Logic",
+  "genres": [
+    "Plattform",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Plattform-Puzzle mit Halloween-Thema: Die Pumpkids haben sich in einem Spukschloss verirrt und müssen in jedem Level den Sarg auf der rechten Seite erreichen, der sie hinausführt (Joystick nach unten). Nicht immer sind zu Beginn alle Pumpkids da – fehlende müssen erst im Level gesucht werden.\n\nUrsprünglich Bonusspiel der Demo „Breadbin of Horror“ (The Pumpkins, Platz 3 im Demo-Wettbewerb der Zoo 2026), danach einzeln veröffentlicht. Steuerung per Joystick.\n\nOriginal von der itch.io-Seite des Autors als PRG.",
+  "texts": {
+    "de": "Kleines Plattform-Puzzle mit Halloween-Thema: Die Pumpkids haben sich in einem Spukschloss verirrt und müssen in jedem Level den Sarg auf der rechten Seite erreichen, der sie hinausführt (Joystick nach unten). Nicht immer sind zu Beginn alle Pumpkids da – fehlende müssen erst im Level gesucht werden.\n\nUrsprünglich Bonusspiel der Demo „Breadbin of Horror“ (The Pumpkins, Platz 3 im Demo-Wettbewerb der Zoo 2026), danach einzeln veröffentlicht. Steuerung per Joystick.\n\nOriginal von der itch.io-Seite des Autors als PRG.",
+    "en": "Small Halloween-themed platform puzzler: the Pumpkids are lost in a haunted castle and in each level must reach the coffin on the right, which leads them out (joystick down). Not all Pumpkids are always present at the start – missing ones have to be found in the level first.\n\nOriginally a bonus game in the demo \"Breadbin of Horror\" (The Pumpkins, 3rd place in the demo competition at Zoo 2026), later released on its own. Joystick controlled.\n\nOriginal from the author's itch.io page as a PRG."
+  },
+  "images": {
+    "ss": "images/17/17ebc8945dd7a6c05182b02e25388494ebfa3863.png",
+    "sstitle": "images/03/030d96f8dd4cfaa0a2ac6c064c582925cbb9b4fd.png"
+  }
+}

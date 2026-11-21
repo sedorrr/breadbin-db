@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8de92b26e491b24fbc058a3420610c0e74c6fa68",
+  "md5": "48cca442178a2bd97bdf4c18a0a315f7",
+  "crc32": "2ecf5b7e",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Snare (Beyond Belief) (J1).crt"
+  ],
+  "screenscraper_id": "116611",
+  "title": "Snare",
+  "year": "1993",
+  "publisher": "Beyond Belief",
+  "developer": "Fantasy 2000 Software (The Ghost)",
+  "genres": [
+    "Puzzle",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "In diesem Denk- und Geschicklichkeitsspiel sprengt sich der Spieler mit Bomben den Weg durch dreißig Bildschirme und sammelt alle Edelsteine ein, um den Abschnitt abzuschließen. Für die meisten Bilder gibt es mehrere Lösungswege, einige lassen sich nur auf eine Weise schaffen. Manche Abschnitte haben eine knappe Zeitvorgabe. Gegenstände im Spielfeld können helfen oder schaden – etwa zusätzliche Zeit bringen oder Monster freisetzen –, was sich erst beim Auslösen zeigt; weil sie bei jedem Versuch am gleichen Platz liegen, wird das Merken ihrer Wirkung Teil des Spiels.\n\nDas Spiel erschien 1993 beim Billiglabel Beyond Belief für C64 und ZX Spectrum, für den C64 auf Kassette. Es ist nicht zu verwechseln mit dem gleichnamigen Thalamus-Spiel von 1989. Neben Cracks gibt es Modulumsetzungen, etwa für OneLoad64; gesteuert wird mit dem Joystick in Port 1.\n\nCode: The Ghost · Grafik: The Ghost · Musik: The Ghost",
+  "texts": {
+    "de": "In diesem Denk- und Geschicklichkeitsspiel sprengt sich der Spieler mit Bomben den Weg durch dreißig Bildschirme und sammelt alle Edelsteine ein, um den Abschnitt abzuschließen. Für die meisten Bilder gibt es mehrere Lösungswege, einige lassen sich nur auf eine Weise schaffen. Manche Abschnitte haben eine knappe Zeitvorgabe. Gegenstände im Spielfeld können helfen oder schaden – etwa zusätzliche Zeit bringen oder Monster freisetzen –, was sich erst beim Auslösen zeigt; weil sie bei jedem Versuch am gleichen Platz liegen, wird das Merken ihrer Wirkung Teil des Spiels.\n\nDas Spiel erschien 1993 beim Billiglabel Beyond Belief für C64 und ZX Spectrum, für den C64 auf Kassette. Es ist nicht zu verwechseln mit dem gleichnamigen Thalamus-Spiel von 1989. Neben Cracks gibt es Modulumsetzungen, etwa für OneLoad64; gesteuert wird mit dem Joystick in Port 1.\n\nCode: The Ghost · Grafik: The Ghost · Musik: The Ghost",
+    "en": "In this puzzle and skill game the player bombs a way through thirty screens and collects all the gems to complete each stage. Most screens can be solved in more than one way, while a few allow only one solution. Some stages have a tight time limit. Objects on the playfield can help or hinder – adding time or releasing monsters, for example – which only becomes clear once they are triggered; since they are in the same place on every attempt, remembering their effects becomes part of the game.\n\nThe game was released in 1993 by the budget label Beyond Belief for the C64 and ZX Spectrum, on tape for the C64. It should not be confused with the Thalamus game of the same name from 1989. Besides cracks there are cartridge conversions, for example for OneLoad64; it is controlled with a joystick in port 1.\n\nCode: The Ghost · Graphics: The Ghost · Music: The Ghost"
+  },
+  "images": {
+    "sstitle": "images/7f/7f269ddb032bbbc532b9bede818b6256d5e33c4b.png"
+  }
+}

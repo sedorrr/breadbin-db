@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "4654d6bd77ff8e0abedbea39b045cf47f3069d8e",
+  "md5": "75bf0964f6497f2b4363676e7dc9aed1",
+  "crc32": "446e06ca",
+  "size": 23861,
+  "format": "PRG",
+  "files": [
+    "ai-neonnights+.prg"
+  ],
+  "title": "Neon Nights",
+  "year": "2026",
+  "publisher": "codebiters",
+  "developer": "codebiters",
+  "genres": [
+    "Flipper"
+  ],
+  "players": "1",
+  "synopsis": "Flipperspiel mit Neon-Thema von codebiters. Weitere Angaben zum Tisch liegen nicht vor.\n\nCrack-Fassung von AIliens vom 7. November 2026 (PRG, einzelne Datei) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Flipperspiel mit Neon-Thema von codebiters. Weitere Angaben zum Tisch liegen nicht vor.\n\nCrack-Fassung von AIliens vom 7. November 2026 (PRG, einzelne Datei) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Neon-themed pinball game by codebiters. No further details about the table are available.\n\nCrack by AIliens from 7 November 2026 (PRG, single file) with intro and trainer. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/1e/1e43d704451839270198b7fb36f064bf904e11ff.png",
+    "sstitle": "images/9f/9f50846d86640e0f877f053a372990561e6bf46c.png"
+  }
+}

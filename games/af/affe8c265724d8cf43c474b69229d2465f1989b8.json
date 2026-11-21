@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "affe8c265724d8cf43c474b69229d2465f1989b8",
+  "md5": "f459383ee6d6e7541954d789b1ea58be",
+  "crc32": "56f0e775",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "liquidlogic.d64"
+  ],
+  "title": "Liquid Logic",
+  "year": "2026",
+  "publisher": "revive8bit",
+  "developer": "revive8bit",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Sortierpuzzle mit Flüssigkeiten: Farbige Flüssigkeiten werden zwischen Flaschen umgegossen, bis jede Flasche nur noch eine Farbe enthält. Die Flüssigkeit fließt als Teilchenstrom mit Schwerkraft und Spritzern, der Pegel steigt zeilenweise. Auf itch.io heißt das Spiel „Liquic Logic“.\n\nOriginal von der itch.io-Seite des Autors zum frei wählbaren Preis, als D64.",
+  "texts": {
+    "de": "Sortierpuzzle mit Flüssigkeiten: Farbige Flüssigkeiten werden zwischen Flaschen umgegossen, bis jede Flasche nur noch eine Farbe enthält. Die Flüssigkeit fließt als Teilchenstrom mit Schwerkraft und Spritzern, der Pegel steigt zeilenweise. Auf itch.io heißt das Spiel „Liquic Logic“.\n\nOriginal von der itch.io-Seite des Autors zum frei wählbaren Preis, als D64.",
+    "en": "Liquid sorting puzzle: coloured liquids are poured between bottles until each bottle contains only one colour. The liquid flows as a stream of particles with gravity and splashes, and the level rises line by line. On itch.io the game is titled \"Liquic Logic\".\n\nOriginal from the author's itch.io page as pay-what-you-want, as a D64."
+  },
+  "images": {
+    "ss": "images/cd/cd47274c7393a0fe8c3bcda4f73eb90faac768df.png",
+    "sstitle": "images/d9/d9f87445f0440d5e9617d13db8e54f8f8734ec8b.png"
+  }
+}

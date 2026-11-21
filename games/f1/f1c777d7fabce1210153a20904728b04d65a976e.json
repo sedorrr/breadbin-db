@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "f1c777d7fabce1210153a20904728b04d65a976e",
+  "md5": "992c529f068db7ae4110aea65f67f99e",
+  "crc32": "fef66df2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Scotogno Soccer +1D [Shadow].d64"
+  ],
+  "title": "Scotogno Soccer +1D",
+  "year": "2026",
+  "publisher": "Linobob",
+  "developer": "Linobob",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Fußballspiel in der Draufsicht, Mann gegen Mann: allein gegen den Computer oder zu zweit an einem C64. Acht Nationalmannschaften mit unterschiedlichen Stärken (Tempo, Schusskraft, Ballkontrolle, Abwehr), neun Schwierigkeitsstufen und ein K.-o.-Pokal mit Viertel-, Halbfinale und Finale. Geschossen wird in acht Richtungen, ohne Ball wird gegrätscht; dazu kommen „Whitewash“-Abbruch bei 6:0, eine Regel gegen Zeitspiel, wahlweise Power-ups und Erfolge, die über ein Passwort gesichert werden – alles mit viel Augenzwinkern.\n\nSpieler 1 Joystick Port 2, Spieler 2 Port 1; F3 Pause, RUN/STOP beendet. Menüs Englisch oder Italienisch, Spielfeld Rasen oder Halle.\n\nCrack-Fassung von Shadow vom 5. November 2026 (D64, Version 1.1) mit Trainer und Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Fußballspiel in der Draufsicht, Mann gegen Mann: allein gegen den Computer oder zu zweit an einem C64. Acht Nationalmannschaften mit unterschiedlichen Stärken (Tempo, Schusskraft, Ballkontrolle, Abwehr), neun Schwierigkeitsstufen und ein K.-o.-Pokal mit Viertel-, Halbfinale und Finale. Geschossen wird in acht Richtungen, ohne Ball wird gegrätscht; dazu kommen „Whitewash“-Abbruch bei 6:0, eine Regel gegen Zeitspiel, wahlweise Power-ups und Erfolge, die über ein Passwort gesichert werden – alles mit viel Augenzwinkern.\n\nSpieler 1 Joystick Port 2, Spieler 2 Port 1; F3 Pause, RUN/STOP beendet. Menüs Englisch oder Italienisch, Spielfeld Rasen oder Halle.\n\nCrack-Fassung von Shadow vom 5. November 2026 (D64, Version 1.1) mit Trainer und Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Top-down football game, one against one: alone against the computer or two players on one C64. Eight national teams with different strengths (speed, shot power, ball control, defence), nine difficulty levels and a knockout cup with quarter-finals, semi-finals and final. You shoot in eight directions and slide tackle when away from the ball; there is also a \"whitewash\" stop at 6-0, an anti-time-wasting rule, optional power-ups and achievements saved via a password – all with plenty of humour.\n\nPlayer 1 uses joystick port 2, player 2 port 1; F3 pauses, RUN/STOP quits. Menus in English or Italian, grass pitch or indoor hall.\n\nCrack by Shadow from 5 November 2026 (D64, version 1.1) with trainer and docs. The original release is also in the database."
+  },
+  "images": {
+    "sstitle": "images/66/6610352b1268e99c7c3e86bf0d9c7dd994862316.png"
+  }
+}

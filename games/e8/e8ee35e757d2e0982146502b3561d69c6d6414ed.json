@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e8ee35e757d2e0982146502b3561d69c6d6414ed",
+  "md5": "bd6d224e9c5a7915840a1df19a76f4b1",
+  "crc32": "3056965e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "shortfuse.d64"
+  ],
+  "title": "Short Fuse",
+  "year": "2026",
+  "publisher": "Orbit Leisure",
+  "developer": "Orbit Leisure",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Ein Bombenräumspiel nach dem Minesweeper-Prinzip, verpackt als augenzwinkernde Parodie auf Filmumsetzungen der Achtzigerjahre. Als Inspektor Frank Stone von Scotland Yard deckt man ein Feld aus Quadraten auf; jede aufgedeckte Zahl verrät, wie viele Bomben angrenzen. Verdächtige Felder lassen sich markieren, dazu gibt es einen Scanner und Freispiele, zwischen den Runden kommentieren Zeitungsschlagzeilen den Fall des „Mad Bomber“ quer durch London.\n\nVon Orbit Leisure. Steuerung per Joystick, mit Q/A/O/P oder Cursortasten; Feuer bzw. Leertaste deckt auf.\n\nOriginal von der itch.io-Seite des Autors, als D64 und PRG.",
+  "texts": {
+    "de": "Ein Bombenräumspiel nach dem Minesweeper-Prinzip, verpackt als augenzwinkernde Parodie auf Filmumsetzungen der Achtzigerjahre. Als Inspektor Frank Stone von Scotland Yard deckt man ein Feld aus Quadraten auf; jede aufgedeckte Zahl verrät, wie viele Bomben angrenzen. Verdächtige Felder lassen sich markieren, dazu gibt es einen Scanner und Freispiele, zwischen den Runden kommentieren Zeitungsschlagzeilen den Fall des „Mad Bomber“ quer durch London.\n\nVon Orbit Leisure. Steuerung per Joystick, mit Q/A/O/P oder Cursortasten; Feuer bzw. Leertaste deckt auf.\n\nOriginal von der itch.io-Seite des Autors, als D64 und PRG.",
+    "en": "A bomb disposal game built on the Minesweeper principle, dressed up as a tongue-in-cheek parody of 1980s movie tie-ins. As Inspector Frank Stone of Scotland Yard you uncover a grid of squares; each number tells how many bombs are adjacent. Suspicious squares can be flagged, a scanner and free guesses help out, and between rounds newspaper headlines comment on the hunt for the \"Mad Bomber\" across London.\n\nBy Orbit Leisure. Controlled by joystick, Q/A/O/P or cursor keys; fire or space uncovers a square.\n\nOriginal from the author's itch.io page, as D64 and PRG."
+  },
+  "images": {
+    "ss": "images/b8/b86d8b28c09cc54c56c7340a16c2ccfe6a5ae4f8.png",
+    "sstitle": "images/09/0986dd4ea030621c7e9a24b1b564e24a52bd3700.png"
+  }
+}

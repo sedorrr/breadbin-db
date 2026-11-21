@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a4e9ef8f346762db582413ffd0c756b4d3da5930",
+  "md5": "a845fb48a922bbaab1683c145d279970",
+  "crc32": "b59e94ae",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "2400ad.d64"
+  ],
+  "title": "2400 A.D.",
+  "year": "2026",
+  "publisher": "Digital Fantasy Creations",
+  "developer": "thall72",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle Fan-Umsetzung von Origins Science-Fiction-Rollenspiel 2400 A.D. (Chuck Bueche, 1987). Die außerirdischen Tzorg beherrschen die Stadt Metropolis mit Robotern; als Kontaktmann des Untergrunds muss man die Zentralsteuerung abschalten und dabei Patrouillen, Wachroboter, Passwörter und Tunnel meistern. Der Spielcode der Apple-II-Fassung läuft unverändert auf einer C64-Nachbildung der Apple-Hardware; die Grafik stammt aus der MS-DOS-Fassung und wurde in Multicolor neu gezeichnet, der Spieler besteht aus sieben Sprites.\n\nFassung 1.0 vom 13.11.2026 als D64 (Schnelllader, nur ein Laufwerk 1541/1570/1571 am Bus; Ultimate und SD2IEC ungetestet) und EasyFlash-CRT. CTRL+S speichert den Charakter auf die Diskette bzw. in den Modul-Flash. Für NTSC gebaut, läuft auch auf PAL; Joystick in Port 2 oder Apple-Tastenbefehle. Beiliegend Referenzkarte, Originalhandbuch und Stadtplan als PDF.\n\nSpieldesign: Chuck Bueche · Musik: Jeroen Tel · Soundeffekte: Charles Deenen · C64-Umsetzung: thall72",
+  "texts": {
+    "de": "Inoffizielle Fan-Umsetzung von Origins Science-Fiction-Rollenspiel 2400 A.D. (Chuck Bueche, 1987). Die außerirdischen Tzorg beherrschen die Stadt Metropolis mit Robotern; als Kontaktmann des Untergrunds muss man die Zentralsteuerung abschalten und dabei Patrouillen, Wachroboter, Passwörter und Tunnel meistern. Der Spielcode der Apple-II-Fassung läuft unverändert auf einer C64-Nachbildung der Apple-Hardware; die Grafik stammt aus der MS-DOS-Fassung und wurde in Multicolor neu gezeichnet, der Spieler besteht aus sieben Sprites.\n\nFassung 1.0 vom 13.11.2026 als D64 (Schnelllader, nur ein Laufwerk 1541/1570/1571 am Bus; Ultimate und SD2IEC ungetestet) und EasyFlash-CRT. CTRL+S speichert den Charakter auf die Diskette bzw. in den Modul-Flash. Für NTSC gebaut, läuft auch auf PAL; Joystick in Port 2 oder Apple-Tastenbefehle. Beiliegend Referenzkarte, Originalhandbuch und Stadtplan als PDF.\n\nSpieldesign: Chuck Bueche · Musik: Jeroen Tel · Soundeffekte: Charles Deenen · C64-Umsetzung: thall72",
+    "en": "Unofficial fan conversion of Origin's science fiction role-playing game 2400 A.D. (Chuck Bueche, 1987). The alien Tzorg rule the city of Metropolis with robots; as a contact of the underground you have to shut down the central control, dealing with patrols, guard robots, passwords and tunnels. The Apple II game code runs unchanged on a C64 stand-in for the Apple hardware; the graphics come from the MS-DOS version, redrawn in multicolour, and the player is made of seven sprites.\n\nVersion 1.0 of 13 Nov 2026 as D64 (fast loader, needs a single 1541/1570/1571 on the bus; Ultimate and SD2IEC untested) and EasyFlash CRT. CTRL+S saves the character to the disk or to the cartridge flash. Built for NTSC, also runs on PAL; joystick in port 2 or the Apple keyboard commands. Reference card, original manual and city map included as PDFs.\n\nGame design: Chuck Bueche · Music: Jeroen Tel · Sound effects: Charles Deenen · C64 port: thall72"
+  },
+  "images": {
+    "ss": "images/52/52a7c2a529ccf846b7284d3ff63d008769f8664a.png",
+    "sstitle": "images/b4/b4f0b9cd0b683d400993771483ee20e16c0414c3.png"
+  }
+}

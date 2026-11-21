@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c88b0b9b94ed22ba8b06c4f87a97fb237938845b",
+  "md5": "053c9c6d8a6081afe8ccca160bc37ebc",
+  "crc32": "368be0e5",
+  "size": 6533,
+  "format": "PRG",
+  "files": [
+    "ai-moonballoon+.prg"
+  ],
+  "title": "Moonlit Balloon",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Geschicklichkeitsspiel von Tansoft: Ein Heißluftballon schwebt nachts über eine Stadt und muss Hindernissen und Gegnern ausweichen; ein späterer Abschnitt heißt „Pyramid Sands“. Drei Schwierigkeitsstufen (leicht, normal, ultra).\n\nGesteuert wird mit W/A/S/D und Leertaste oder dem Joystick in Port 2.\n\nCrack-Fassung von AIliens vom 5. November 2026 (PRG, einzelne Datei) mit Intro und Trainer; laut Startbildschirm beginnt das Spiel mit Feuer, der Trainer bietet unendliche Leben. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Geschicklichkeitsspiel von Tansoft: Ein Heißluftballon schwebt nachts über eine Stadt und muss Hindernissen und Gegnern ausweichen; ein späterer Abschnitt heißt „Pyramid Sands“. Drei Schwierigkeitsstufen (leicht, normal, ultra).\n\nGesteuert wird mit W/A/S/D und Leertaste oder dem Joystick in Port 2.\n\nCrack-Fassung von AIliens vom 5. November 2026 (PRG, einzelne Datei) mit Intro und Trainer; laut Startbildschirm beginnt das Spiel mit Feuer, der Trainer bietet unendliche Leben. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Skill game by Tansoft: a hot-air balloon floats over a city at night and has to avoid obstacles and enemies; a later stage is called \"Pyramid Sands\". Three difficulty levels (easy, normal, ultra).\n\nControls: W/A/S/D and space, or a joystick in port 2.\n\nCrack by AIliens from 5 November 2026 (PRG, single file) with intro and trainer; according to the start screen, fire starts the game, and the trainer offers infinite lives. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/fb/fb7877de5fd26ecfee276abc274caa2c4186ba68.png",
+    "sstitle": "images/a5/a5aac2f1b048bf6c98e7b1b7cd49ab18aca41c4b.png"
+  }
+}

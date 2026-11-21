@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "9b7bd920bbb0579b656ca04a34ee893bfb78b442",
+  "md5": "e964a2c70ee2152bf6626a893a173fba",
+  "crc32": "128d8f04",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FablePhobia4_TheSmallerAlice_EN.d64"
+  ],
+  "title": "FablePhobia 4: The Smaller Alice",
+  "year": "2026",
+  "publisher": "FablePhobia",
+  "developer": "FablePhobia",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Düsteres Märchen-Grafikadventure mit schwarzem Humor. Alice trinkt einen Trank der „Other Alice“ und ist plötzlich nur noch wenige Zentimeter groß: Riesiges Gras, Insekten und seltsame Begegnungen warten, und die Hexe, der der Trank gehört, verfolgt eigene Pläne. Gespielt wird über Dialoge, Entscheidungen und Erkundung. Vierter Teil der Reihe nach „The Borrowed Morning“, „The Lost Wolf“ und „The Wrong Map“, ohne Vorkenntnisse spielbar.\n\nAcht D64-Disketten, je eine pro Sprache (Deutsch, Englisch, Französisch, Spanisch, Italienisch, Polnisch, Portugiesisch, Niederländisch), erschienen am 20.11.2026. Kostenlos (Preis frei wählbar), dazu ein vierseitiges PDF der „Mini Edition“.",
+  "texts": {
+    "de": "Düsteres Märchen-Grafikadventure mit schwarzem Humor. Alice trinkt einen Trank der „Other Alice“ und ist plötzlich nur noch wenige Zentimeter groß: Riesiges Gras, Insekten und seltsame Begegnungen warten, und die Hexe, der der Trank gehört, verfolgt eigene Pläne. Gespielt wird über Dialoge, Entscheidungen und Erkundung. Vierter Teil der Reihe nach „The Borrowed Morning“, „The Lost Wolf“ und „The Wrong Map“, ohne Vorkenntnisse spielbar.\n\nAcht D64-Disketten, je eine pro Sprache (Deutsch, Englisch, Französisch, Spanisch, Italienisch, Polnisch, Portugiesisch, Niederländisch), erschienen am 20.11.2026. Kostenlos (Preis frei wählbar), dazu ein vierseitiges PDF der „Mini Edition“.",
+    "en": "Dark fairy-tale graphic adventure with black humour. Alice drinks a potion belonging to the \"Other Alice\" and suddenly is only a few centimetres tall: giant grass, insects and strange encounters await, and the witch who owns the potion has plans of her own. The game is played through dialogue, choices and exploration. Fourth part of the series after \"The Borrowed Morning\", \"The Lost Wolf\" and \"The Wrong Map\", playable without prior knowledge.\n\nEight D64 disks, one per language (German, English, French, Spanish, Italian, Polish, Portuguese, Dutch), released on 20 Nov 2026. Free (name your own price), plus a four-page \"Mini Edition\" PDF."
+  },
+  "images": {
+    "ss": "images/59/59ad4f1e3b4ce61c2188ad7b6d1643ea854c5330.png",
+    "sstitle": "images/57/57f1d240b2c654009a2cae8af8ec4f4d86489c4c.png"
+  }
+}

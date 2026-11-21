@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a684b142b624dde838b75a1d484b39ee5fc43d2c",
+  "md5": "e5ee9dfa7b42c15539d9a0e8769f86ce",
+  "crc32": "43f7f66d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "jack.d64"
+  ],
+  "title": "Jack the Ninja",
+  "year": "2026",
+  "publisher": "AnninaGames",
+  "developer": "AnninaGames",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Plattformspiel auf Zeit: Jedes Level soll so schnell wie möglich und mit möglichst wenigen Toden geschafft werden. Es gibt mehrere Levelpakete, zu denen jeweils eigene Bestzeiten auf der Diskette gespeichert werden. Eine Vorschaufassung war bereits 2016 erschienen.\n\nOriginal kostenlos von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Kleines Plattformspiel auf Zeit: Jedes Level soll so schnell wie möglich und mit möglichst wenigen Toden geschafft werden. Es gibt mehrere Levelpakete, zu denen jeweils eigene Bestzeiten auf der Diskette gespeichert werden. Eine Vorschaufassung war bereits 2016 erschienen.\n\nOriginal kostenlos von der itch.io-Seite des Autors, als D64.",
+    "en": "Small time-trial platformer: each level should be completed as quickly as possible while dying as rarely as possible. There are several level packs, each with its own best-time file saved to disk. A preview version had already appeared in 2016.\n\nOriginal from the author's itch.io page, free, as a D64."
+  },
+  "images": {
+    "ss": "images/5f/5fdb2f97e6c5af9cf4426123e56e051e886ac79f.png",
+    "sstitle": "images/ee/ee2b85ae91fc2ef2eadca98a452568fb284e15e6.png"
+  }
+}

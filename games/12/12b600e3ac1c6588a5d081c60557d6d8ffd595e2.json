@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "12b600e3ac1c6588a5d081c60557d6d8ffd595e2",
+  "md5": "42adc72c113fde6d561dd1ca0f5840be",
+  "crc32": "4c4978d1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Fresh Coat +2D [Shadow].d64"
+  ],
+  "title": "Fresh Coat",
+  "year": "2026",
+  "publisher": "JJ",
+  "developer": "JJ",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Labyrinth-Arcadespiel: Als Maler streicht man jede Bodenfläche eines Labyrinths neu; ist alles gestrichen, geht es ins nächste. Acht Labyrinthe wiederholen sich danach in schwererer Fassung. Larven verfolgen den Maler und verschmieren die Farbe, eine Krähe mit schmutzigen Füßen hinterlässt Spuren. Gegen Larven hilft eine Bombe, die beim Verlassen scharf wird.\n\nD64-Diskette, Crack-Fassung der Gruppe Shadow (11.11.2026) mit Intro, zwei Trainern (endlose Leben, unverwundbar) und Doku („+2D“). Joystick in Port 2 oder WASD, Feuer bzw. Leertaste legt eine Bombe. Für PAL gebaut, läuft auch auf NTSC (etwas schneller). Erstellt mit Nano 64.",
+  "texts": {
+    "de": "Labyrinth-Arcadespiel: Als Maler streicht man jede Bodenfläche eines Labyrinths neu; ist alles gestrichen, geht es ins nächste. Acht Labyrinthe wiederholen sich danach in schwererer Fassung. Larven verfolgen den Maler und verschmieren die Farbe, eine Krähe mit schmutzigen Füßen hinterlässt Spuren. Gegen Larven hilft eine Bombe, die beim Verlassen scharf wird.\n\nD64-Diskette, Crack-Fassung der Gruppe Shadow (11.11.2026) mit Intro, zwei Trainern (endlose Leben, unverwundbar) und Doku („+2D“). Joystick in Port 2 oder WASD, Feuer bzw. Leertaste legt eine Bombe. Für PAL gebaut, läuft auch auf NTSC (etwas schneller). Erstellt mit Nano 64.",
+    "en": "Paint-the-maze arcade game: as a painter you give every floor tile of a maze a fresh coat; once everything is painted you move on to the next maze. After eight mazes they repeat in harder form. Grubs chase the painter and smear the paint, and a crow with muddy feet leaves prints. A bomb that arms as you step off it deals with the grubs.\n\nD64 disk, cracked version by Shadow (11 Nov 2026) with intro, two trainers (endless lives, invincibility) and docs (\"+2D\"). Joystick in port 2 or WASD, fire or space drops a bomb. Built for PAL, also runs on NTSC (somewhat faster). Made with Nano 64."
+  }
+}

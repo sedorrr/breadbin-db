@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "39cb6a277cd21fce06781da89b0b6e9da9ebeee3",
+  "md5": "29699a66abf21e87d5385818bae4dc93",
+  "crc32": "cb748f09",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "scotognosoccer_v1_1.d64"
+  ],
+  "title": "Scotogno Soccer",
+  "year": "2026",
+  "publisher": "Linobob",
+  "developer": "Linobob",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Fußballspiel in der Draufsicht, Mann gegen Mann: allein gegen den Computer oder zu zweit an einem C64. Acht Nationalmannschaften mit unterschiedlichen Stärken (Tempo, Schusskraft, Ballkontrolle, Abwehr), neun Schwierigkeitsstufen und ein K.-o.-Pokal mit Viertel-, Halbfinale und Finale. Geschossen wird in acht Richtungen, ohne Ball wird gegrätscht; dazu kommen „Whitewash“-Abbruch bei 6:0, eine Regel gegen Zeitspiel, wahlweise Power-ups und Erfolge, die über ein Passwort gesichert werden – alles mit viel Augenzwinkern.\n\nSpieler 1 Joystick Port 2, Spieler 2 Port 1; F3 Pause, RUN/STOP beendet. Menüs Englisch oder Italienisch, Spielfeld Rasen oder Halle.\n\nOriginal in Version 1.1 von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Fußballspiel in der Draufsicht, Mann gegen Mann: allein gegen den Computer oder zu zweit an einem C64. Acht Nationalmannschaften mit unterschiedlichen Stärken (Tempo, Schusskraft, Ballkontrolle, Abwehr), neun Schwierigkeitsstufen und ein K.-o.-Pokal mit Viertel-, Halbfinale und Finale. Geschossen wird in acht Richtungen, ohne Ball wird gegrätscht; dazu kommen „Whitewash“-Abbruch bei 6:0, eine Regel gegen Zeitspiel, wahlweise Power-ups und Erfolge, die über ein Passwort gesichert werden – alles mit viel Augenzwinkern.\n\nSpieler 1 Joystick Port 2, Spieler 2 Port 1; F3 Pause, RUN/STOP beendet. Menüs Englisch oder Italienisch, Spielfeld Rasen oder Halle.\n\nOriginal in Version 1.1 von der itch.io-Seite des Autors, als D64.",
+    "en": "Top-down football game, one against one: alone against the computer or two players on one C64. Eight national teams with different strengths (speed, shot power, ball control, defence), nine difficulty levels and a knockout cup with quarter-finals, semi-finals and final. You shoot in eight directions and slide tackle when away from the ball; there is also a \"whitewash\" stop at 6-0, an anti-time-wasting rule, optional power-ups and achievements saved via a password – all with plenty of humour.\n\nPlayer 1 uses joystick port 2, player 2 port 1; F3 pauses, RUN/STOP quits. Menus in English or Italian, grass pitch or indoor hall.\n\nOriginal, version 1.1, from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "sstitle": "images/66/6610352b1268e99c7c3e86bf0d9c7dd994862316.png"
+  }
+}

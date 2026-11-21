@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "4cf23cd5fa7ea0919dc91049b4fc5ac5c9248109",
+  "md5": "5d96a78c4086d18b942c98d1a5bf0fc4",
+  "crc32": "7d123f93",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Maniac Mansion [Side A].d64"
+  ],
+  "screenscraper_id": "35850",
+  "title": "Maniac Mansion",
+  "year": "1987",
+  "publisher": "Lucasfilm Games / Activision",
+  "developer": "Lucasfilm Games",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Eine Gruppe Jugendlicher dringt in das Anwesen der Familie Edison ein, um die entführte Sandy aus den Händen des verrückten Dr. Fred zu befreien. Neben Dave stellt man zwei von mehreren Begleitern zusammen, die jeweils eigene Fähigkeiten mitbringen; je nach Auswahl ergeben sich andere Lösungswege und verschiedene Enden. Statt Befehle einzutippen, setzt man Sätze aus Verben und Gegenständen per Zeiger zusammen und wechselt zwischen den Figuren. Das Spiel war das erste mit der SCUMM-Technik von Lucasfilm und prägte das Genre der Grafikabenteuer mit Mausbedienung über Jahre; der schräge Humor und die Zwischensequenzen machten es zum Klassiker.\n\nDie C64-Fassung ist die ursprüngliche Ausgabe und erschien auf zwei Diskettenseiten; zum Spielen braucht man außerdem eine eigene Spielstanddiskette. Gesteuert wird mit dem Joystick oder der Tastatur, die Funktionstasten wählen die Figuren. Später erschienen Umsetzungen für andere Rechner, in Deutschland vertrieb Softgold das Spiel.\n\nCode: Ron Gilbert, David Fox, Carl Mey · Grafik: Gary Winnick · Musik: Chris Grigg, David Lawrence",
+  "texts": {
+    "de": "Eine Gruppe Jugendlicher dringt in das Anwesen der Familie Edison ein, um die entführte Sandy aus den Händen des verrückten Dr. Fred zu befreien. Neben Dave stellt man zwei von mehreren Begleitern zusammen, die jeweils eigene Fähigkeiten mitbringen; je nach Auswahl ergeben sich andere Lösungswege und verschiedene Enden. Statt Befehle einzutippen, setzt man Sätze aus Verben und Gegenständen per Zeiger zusammen und wechselt zwischen den Figuren. Das Spiel war das erste mit der SCUMM-Technik von Lucasfilm und prägte das Genre der Grafikabenteuer mit Mausbedienung über Jahre; der schräge Humor und die Zwischensequenzen machten es zum Klassiker.\n\nDie C64-Fassung ist die ursprüngliche Ausgabe und erschien auf zwei Diskettenseiten; zum Spielen braucht man außerdem eine eigene Spielstanddiskette. Gesteuert wird mit dem Joystick oder der Tastatur, die Funktionstasten wählen die Figuren. Später erschienen Umsetzungen für andere Rechner, in Deutschland vertrieb Softgold das Spiel.\n\nCode: Ron Gilbert, David Fox, Carl Mey · Grafik: Gary Winnick · Musik: Chris Grigg, David Lawrence",
+    "en": "A group of teenagers breaks into the Edison family mansion to rescue the kidnapped Sandy from the mad Dr. Fred. Alongside Dave, the player chooses two companions from a larger cast, each with their own abilities; different teams open up different solutions and several endings. Instead of typing commands, sentences are built from verbs and objects with a pointer, and control can switch between the characters. It was the first game built on Lucasfilm's SCUMM engine and shaped point-and-click adventures for years; its offbeat humour and cutscenes made it a classic.\n\nThe C64 version is the original release and came on two disk sides; a separate save disk is needed for play. It is controlled by joystick or keyboard, with the function keys selecting the characters. Conversions for other computers followed, and in Germany the game was distributed by Softgold.\n\nCode: Ron Gilbert, David Fox, Carl Mey · Graphics: Gary Winnick · Music: Chris Grigg, David Lawrence"
+  },
+  "images": {
+    "sstitle": "images/37/37bafd42825037c555ae6ccddf9ce2bac4418b36.png"
+  }
+}

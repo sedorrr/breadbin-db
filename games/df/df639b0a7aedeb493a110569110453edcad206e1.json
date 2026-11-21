@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "df639b0a7aedeb493a110569110453edcad206e1",
+  "md5": "5dee15ddc2ba2ba399cd1033aac61d08",
+  "crc32": "6fe54e19",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Dam Busters, The.crt"
+  ],
+  "screenscraper_id": "36684",
+  "title": "The Dam Busters",
+  "year": "1984",
+  "publisher": "U.S. Gold",
+  "developer": "Sydney Development Corporation",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Das Spiel stellt den Angriff der Lancaster-Bomber auf die deutschen Talsperren im Zweiten Weltkrieg nach. Der Spieler wechselt zwischen allen sieben Besatzungsplätzen – Pilot, Navigator, Bordschütze, Bombenschütze, Ingenieur und weitere – und muss Nachtjäger, Sperrballons, Flak und Suchscheinwerfer abwehren sowie Notfälle wie Motorbrände bewältigen. Wer einen Platz bei einem Ereignis unbesetzt lässt, verliert womöglich das Besatzungsmitglied. Höhepunkt ist der Zielanflug mit der Rollbombe, die über den Stausee springt. Drei Einsätze stehen zur Wahl, vom Übungsflug bis zum Start in England.\n\nDas Spiel erschien 1984 für C64 und ColecoVision, in Europa bei U.S. Gold, in Nordamerika bei Accolade, später auch als Billigfassung; für den C64 auf Kassette und Diskette. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit Joystick in Port 2 und Tastatur, über die die Besatzungsplätze gewählt werden.\n\nCode: J. Stuart Easterbrook · Grafik: Grant Campbell · Musik: Gary J. Sabin",
+  "texts": {
+    "de": "Das Spiel stellt den Angriff der Lancaster-Bomber auf die deutschen Talsperren im Zweiten Weltkrieg nach. Der Spieler wechselt zwischen allen sieben Besatzungsplätzen – Pilot, Navigator, Bordschütze, Bombenschütze, Ingenieur und weitere – und muss Nachtjäger, Sperrballons, Flak und Suchscheinwerfer abwehren sowie Notfälle wie Motorbrände bewältigen. Wer einen Platz bei einem Ereignis unbesetzt lässt, verliert womöglich das Besatzungsmitglied. Höhepunkt ist der Zielanflug mit der Rollbombe, die über den Stausee springt. Drei Einsätze stehen zur Wahl, vom Übungsflug bis zum Start in England.\n\nDas Spiel erschien 1984 für C64 und ColecoVision, in Europa bei U.S. Gold, in Nordamerika bei Accolade, später auch als Billigfassung; für den C64 auf Kassette und Diskette. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit Joystick in Port 2 und Tastatur, über die die Besatzungsplätze gewählt werden.\n\nCode: J. Stuart Easterbrook · Grafik: Grant Campbell · Musik: Gary J. Sabin",
+    "en": "The game recreates the attack by Lancaster bombers on the German dams in the Second World War. The player switches between all seven crew positions – pilot, navigator, gunners, bomb aimer, engineer and others – and has to fend off night fighters, barrage balloons, flak and searchlights while dealing with emergencies such as engine fires. Leaving a position unattended during an event can cost that crew member's life. The highlight is the bombing run with the bouncing bomb skipping across the reservoir. Three missions are available, from a practice run to a start in England.\n\nThe game was released in 1984 for the C64 and ColecoVision, published in Europe by U.S. Gold and in North America by Accolade, later also as a budget release; for the C64 on tape and disk. Cracks and cartridge conversions, for example for OneLoad64, are in circulation. It is controlled with a joystick in port 2 plus the keyboard, which selects the crew positions.\n\nCode: J. Stuart Easterbrook · Graphics: Grant Campbell · Music: Gary J. Sabin"
+  },
+  "images": {
+    "ss": "images/db/db914aa1c274758a5e0edceae0494f6c8f6aa6de.png",
+    "sstitle": "images/03/03d4b328954efdfb2e65be3cda57086e39b7b3c0.png"
+  }
+}

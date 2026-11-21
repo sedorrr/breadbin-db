@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b352b00001a9a24bd4f498f92d07f27a9b681420",
+  "md5": "e7cd9b8317a125230139a460c7065cde",
+  "crc32": "f158f7bd",
+  "size": 27559,
+  "format": "PRG",
+  "files": [
+    "cragbound+4-bk.prg"
+  ],
+  "title": "Cragbound",
+  "year": "2026",
+  "publisher": "Pier Shaw",
+  "developer": "Pier Shaw",
+  "genres": [
+    "Geschicklichkeit",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Kletterspiel: Man beginnt am Fuß einer Felswand und muss nach oben gelangen, mit Abschnitten wie „First Steps“, „Rattlestone Wall“, „Granite Apron“ und „Mossy Ledges“. Ein Seil wird eingeholt oder ausgegeben, man springt, klettert und kann sich festgraben; eine Ausdaueranzeige begrenzt die Kraft.\n\nPRG-Datei, Vorabfassung V0.4, Crack-Fassung der Gruppe Bad Karma (18.11.2026) mit Intro und vier Trainern („+4“, u. a. unendliche Ausdauer, Levelsprung mit F1, Startabschnitt wählbar). Joystick in Port 2: hoch springen/klettern/einholen, runter Seil ausgeben, runter+Feuer graben.",
+  "texts": {
+    "de": "Kletterspiel: Man beginnt am Fuß einer Felswand und muss nach oben gelangen, mit Abschnitten wie „First Steps“, „Rattlestone Wall“, „Granite Apron“ und „Mossy Ledges“. Ein Seil wird eingeholt oder ausgegeben, man springt, klettert und kann sich festgraben; eine Ausdaueranzeige begrenzt die Kraft.\n\nPRG-Datei, Vorabfassung V0.4, Crack-Fassung der Gruppe Bad Karma (18.11.2026) mit Intro und vier Trainern („+4“, u. a. unendliche Ausdauer, Levelsprung mit F1, Startabschnitt wählbar). Joystick in Port 2: hoch springen/klettern/einholen, runter Seil ausgeben, runter+Feuer graben.",
+    "en": "Climbing game: you start at the foot of a rock face and have to reach the top, with sections such as \"First Steps\", \"Rattlestone Wall\", \"Granite Apron\" and \"Mossy Ledges\". A rope is reeled in or paid out, you jump, climb and can dig in; a stamina bar limits your strength.\n\nPRG file, pre-release version 0.4, cracked version by Bad Karma (18 Nov 2026) with intro and four trainers (\"+4\", including infinite stamina, level skip with F1, selectable starting section). Joystick in port 2: up jumps/climbs/reels in, down pays out rope, down+fire digs."
+  },
+  "images": {
+    "ss": "images/f8/f85338993b991dda43034b2f640b8050466abd5c.png",
+    "sstitle": "images/b0/b076dbf35c6668e14d3e878e927c6c507110919f.png"
+  }
+}

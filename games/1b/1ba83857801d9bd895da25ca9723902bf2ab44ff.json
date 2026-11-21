@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "1ba83857801d9bd895da25ca9723902bf2ab44ff",
+  "md5": "ef9100b8405db813b0df9e86cbe1cdfd",
+  "crc32": "d2f8fbf7",
+  "size": 28966,
+  "format": "PRG",
+  "files": [
+    "ai-karatefinal+.prg"
+  ],
+  "title": "Karate Final Round",
+  "year": "2026",
+  "publisher": "Ready 64",
+  "developer": "Ready 64",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Karate-Turnier: Acht Meister treffen sich, man wählt einen Kämpfer und muss Viertelfinale, Halbfinale und Finale gewinnen, um Weltmeister zu werden. Gekämpft wird an Schauplätzen wie einer Dojo-Halle, am Fuji, auf der Chinesischen Mauer, in einem indischen Palast, am Strand in Brasilien und im Mondtempel. Eine Runde dauert 60 Sekunden, gewertet wird „best of 3“; Blocken hält Schläge und hohe Tritte auf, Fußfegern muss man ausweichen.\n\nPRG-Datei, Crack-Fassung der Gruppe AIliens (07.11.2026) mit Intro und Trainer. Joystick in Port 2 (Feuer plus Richtung für verschiedene Schläge und Tritte) oder Tastatur (A/D gehen, J/I/M/K/L/W Angriffe); P Pause, Q beendet das Turnier.",
+  "texts": {
+    "de": "Karate-Turnier: Acht Meister treffen sich, man wählt einen Kämpfer und muss Viertelfinale, Halbfinale und Finale gewinnen, um Weltmeister zu werden. Gekämpft wird an Schauplätzen wie einer Dojo-Halle, am Fuji, auf der Chinesischen Mauer, in einem indischen Palast, am Strand in Brasilien und im Mondtempel. Eine Runde dauert 60 Sekunden, gewertet wird „best of 3“; Blocken hält Schläge und hohe Tritte auf, Fußfegern muss man ausweichen.\n\nPRG-Datei, Crack-Fassung der Gruppe AIliens (07.11.2026) mit Intro und Trainer. Joystick in Port 2 (Feuer plus Richtung für verschiedene Schläge und Tritte) oder Tastatur (A/D gehen, J/I/M/K/L/W Angriffe); P Pause, Q beendet das Turnier.",
+    "en": "Karate tournament: eight masters meet, you pick a fighter and have to win the quarter-final, semi-final and final to become world champion. Fights take place in settings such as a dojo hall, Mount Fuji, the Great Wall of China, an Indian palace, a beach in Brazil and the moon temple. A round lasts 60 seconds, best of three; blocking stops punches and high kicks, while leg sweeps have to be jumped.\n\nPRG file, cracked version by AIliens (7 Nov 2026) with intro and trainer. Joystick in port 2 (fire plus direction for different punches and kicks) or keyboard (A/D walk, J/I/M/K/L/W attacks); P pauses, Q quits the tournament."
+  },
+  "images": {
+    "ss": "images/fc/fc2b9a11096eb144ad22110d6379d6dcba8c9504.png",
+    "sstitle": "images/5e/5e17d1d43cf8223760066891fc1272ffc5eba66a.png"
+  }
+}

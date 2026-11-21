@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d410b8b442bb7b961637510e08dc4facb9ceffae",
+  "md5": "5b50e4153cd69dcd7ad146a754f56c28",
+  "crc32": "f058a1cf",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BADDUDES.D64"
+  ],
+  "screenscraper_id": "36155",
+  "title": "Dragon Ninja",
+  "year": "1988",
+  "publisher": "Imagine Software",
+  "developer": "Ocean Software",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Data-East-Automaten: Nachdem Ninjas den Präsidenten entführt haben, prügelt sich ein Held durch Straßen, über Lastwagen und durch Kanäle. Gegner kommen von beiden Seiten und werden mit Schlägen und Tritten bekämpft; der Spieler kann zwischen einer oberen und unteren Ebene springen, Waffen aufsammeln und einen aufgeladenen Spezialschlag einsetzen. Am Ende jedes Abschnitts wartet ein Endgegner.\n\nDie C64-Umsetzung stammt von Ocean und erschien in Europa als Dragon Ninja bei Imagine, in den USA als Bad Dudes vs. Dragon Ninja bei Data East (Diskette und Kassette, später Budget-Neuauflage bei The Hit Squad). Anders als der Automat ist sie nur für einen Spieler; gesteuert wird mit dem Joystick in Port 2. Es gibt auch EasyFlash-Umsetzungen.\n\nCode: David A. Collier · Grafik: Stephen Wahid, John Palmer · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Umsetzung des Data-East-Automaten: Nachdem Ninjas den Präsidenten entführt haben, prügelt sich ein Held durch Straßen, über Lastwagen und durch Kanäle. Gegner kommen von beiden Seiten und werden mit Schlägen und Tritten bekämpft; der Spieler kann zwischen einer oberen und unteren Ebene springen, Waffen aufsammeln und einen aufgeladenen Spezialschlag einsetzen. Am Ende jedes Abschnitts wartet ein Endgegner.\n\nDie C64-Umsetzung stammt von Ocean und erschien in Europa als Dragon Ninja bei Imagine, in den USA als Bad Dudes vs. Dragon Ninja bei Data East (Diskette und Kassette, später Budget-Neuauflage bei The Hit Squad). Anders als der Automat ist sie nur für einen Spieler; gesteuert wird mit dem Joystick in Port 2. Es gibt auch EasyFlash-Umsetzungen.\n\nCode: David A. Collier · Grafik: Stephen Wahid, John Palmer · Musik: Jonathan Dunn",
+    "en": "Conversion of Data East's arcade game: after ninjas kidnap the president, a hero brawls his way through streets, over trucks and through sewers. Enemies attack from both sides and are fought with punches and kicks; the player can jump between an upper and a lower level, pick up weapons and use a charged special punch. A boss waits at the end of every stage.\n\nThe C64 conversion was made by Ocean and released in Europe as Dragon Ninja by Imagine and in the US as Bad Dudes vs. Dragon Ninja by Data East (disk and tape, later a budget re-release by The Hit Squad). Unlike the arcade machine it is single-player only; it is controlled with a joystick in port 2. EasyFlash conversions also exist.\n\nCode: David A. Collier · Graphics: Stephen Wahid, John Palmer · Music: Jonathan Dunn"
+  },
+  "images": {
+    "sstitle": "images/98/98ec2277721e53728716c658537818f9fef86e70.png"
+  }
+}

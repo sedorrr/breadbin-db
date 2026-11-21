@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e9c11dc076b772687a8818c010ae475c3675ea0e",
+  "md5": "ff4d84815b063df762dc2e78f60c8c71",
+  "crc32": "488377a5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Evil_Planet.d64"
+  ],
+  "title": "Evil Planet",
+  "year": "2026",
+  "publisher": "Hyper-Soft",
+  "developer": "A. N. Madsen",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Titelbild und Texte nennen „Hyper-Soft presents Evil Planet“, eine Produktion von A. N. Madsen mit Musik von Rob Hubbard. Im Spiel werden Gebiete freigekämpft („Area cleared“, „Now rush area …“), eine Anzeige zeigt die Gegnerstärke, gezählt werden Leben und „Balls“. Genauere Angaben zum Spielablauf liegen nicht vor.\n\nD64-Diskette, Crack-Fassung von HeMa! und Troep (14.11.2026) mit Intro und zwei Trainern (unbegrenzte Leben, unbegrenzte Bälle). Joystick, Feuer startet. Herkunft und Entstehungsjahr des Originals sind unklar.",
+  "texts": {
+    "de": "Titelbild und Texte nennen „Hyper-Soft presents Evil Planet“, eine Produktion von A. N. Madsen mit Musik von Rob Hubbard. Im Spiel werden Gebiete freigekämpft („Area cleared“, „Now rush area …“), eine Anzeige zeigt die Gegnerstärke, gezählt werden Leben und „Balls“. Genauere Angaben zum Spielablauf liegen nicht vor.\n\nD64-Diskette, Crack-Fassung von HeMa! und Troep (14.11.2026) mit Intro und zwei Trainern (unbegrenzte Leben, unbegrenzte Bälle). Joystick, Feuer startet. Herkunft und Entstehungsjahr des Originals sind unklar.",
+    "en": "The title screen and texts read \"Hyper-Soft presents Evil Planet\", an A. N. Madsen production with music by Rob Hubbard. In the game you clear areas (\"Area cleared\", \"Now rush area …\"), a gauge shows enemy power, and lives and \"balls\" are counted. No further details on the gameplay are available.\n\nD64 disk, cracked version by HeMa! and Troep (14 Nov 2026) with intro and two trainers (unlimited lives, unlimited balls). Joystick, fire starts. The origin and year of the original are unclear."
+  },
+  "images": {
+    "ss": "images/e1/e1e0acad9b082bf38f897a7e00c2726f29dfb7a4.png",
+    "sstitle": "images/20/2061b9f9f969ca8b56e0012723dbe88db8c7a972.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "01a4cb5285bcdeda99955ecc42687187d94d5c44",
+  "md5": "a14218cf0a4457320f4bad2c00db05b8",
+  "crc32": "3a8722e2",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Nemesis.crt"
+  ],
+  "screenscraper_id": "140603",
+  "title": "Nemesis: The Final Challenge",
+  "year": "1985",
+  "publisher": "Konami",
+  "developer": "Konami (C64: Simon Pick)",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-4",
+  "synopsis": "Die Heimcomputerfassung von Konamis Automaten Nemesis (in Japan und Nordamerika Gradius) schickt ein Raumschiff durch seitlich scrollende Abschnitte voller Gegnerwellen, Vulkane, Steinköpfe und Festungen bis zum Endgegner. Kennzeichen der Reihe ist die Waffenleiste am unteren Bildrand: Eingesammelte Kapseln rücken die Auswahl weiter, und der Spieler entscheidet selbst, wann er Geschwindigkeit, Raketen, Doppelschuss, Laser, Begleiter oder Schutzschild aktiviert. Dieses System machte das Spiel zum Vorbild vieler späterer Shoot'em Ups.\n\nDie C64-Umsetzung erschien in Europa 1986/87 unter dem Titel „Nemesis: The Final Challenge“, in den USA als „Gradius“, jeweils auf Kassette und Diskette; dazu kommen Cracks und Modulumsetzungen. Gegenüber dem Automaten ist die Grafik vereinfacht, das Waffensystem bleibt erhalten. Gesteuert wird mit dem Joystick in Port 2, mehrere Spieler spielen abwechselnd.\n\nCode: Simon Pick · Grafik: Simon Pick, STU",
+  "texts": {
+    "de": "Die Heimcomputerfassung von Konamis Automaten Nemesis (in Japan und Nordamerika Gradius) schickt ein Raumschiff durch seitlich scrollende Abschnitte voller Gegnerwellen, Vulkane, Steinköpfe und Festungen bis zum Endgegner. Kennzeichen der Reihe ist die Waffenleiste am unteren Bildrand: Eingesammelte Kapseln rücken die Auswahl weiter, und der Spieler entscheidet selbst, wann er Geschwindigkeit, Raketen, Doppelschuss, Laser, Begleiter oder Schutzschild aktiviert. Dieses System machte das Spiel zum Vorbild vieler späterer Shoot'em Ups.\n\nDie C64-Umsetzung erschien in Europa 1986/87 unter dem Titel „Nemesis: The Final Challenge“, in den USA als „Gradius“, jeweils auf Kassette und Diskette; dazu kommen Cracks und Modulumsetzungen. Gegenüber dem Automaten ist die Grafik vereinfacht, das Waffensystem bleibt erhalten. Gesteuert wird mit dem Joystick in Port 2, mehrere Spieler spielen abwechselnd.\n\nCode: Simon Pick · Grafik: Simon Pick, STU",
+    "en": "The home computer version of Konami's arcade game Nemesis (Gradius in Japan and North America) sends a spaceship through side-scrolling stages full of enemy waves, volcanoes, stone heads and fortresses up to the final boss. The hallmark of the series is the weapon bar at the bottom of the screen: collected capsules move the selection along, and the player decides when to activate speed, missiles, double shot, laser, options or shield. This system made the game a model for many later shoot'em ups.\n\nThe C64 conversion was released in Europe in 1986/87 as \"Nemesis: The Final Challenge\" and in the USA as \"Gradius\", on tape and disk; cracks and cartridge conversions exist as well. Compared to the arcade the graphics are simplified, but the weapon system is retained. It is controlled with a joystick in port 2; several players take turns.\n\nCode: Simon Pick · Graphics: Simon Pick, STU"
+  },
+  "images": {
+    "ss": "images/4b/4b2d3fa0acca531fd5c91b85f493b12852c32a22.png",
+    "sstitle": "images/57/57a52132742dd4469ec66e5586831fd01a1413b5.png"
+  }
+}

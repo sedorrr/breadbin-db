@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "e7283fc341151f27b5d64b3430560813770016c3",
+  "md5": "1f00ca010a06587dcf01bfd6079fe98c",
+  "crc32": "21e7f78d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "xi-coastdefense+.d64"
+  ],
+  "title": "Coastal Defense 64: Promontory",
+  "year": "2026",
+  "publisher": "codebiters",
+  "developer": "codebiters",
+  "genres": [
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Man bedient ein Flakgeschütz auf einer Landzunge über einem Hafen und wehrt Wellen von Jägern, Bombern, Kanonenbooten und Zerstörern ab. Die Granaten platzen dort, wo das Visier beim Schuss stand, schnelle Ziele muss man also vorhalten. Blinkt „Incoming“, sollte man in Deckung gehen – aus der Deckung heraus kann man aber nicht feuern, und jeder durchgekommene Feind beschädigt den Hafen. Eigene Schiffe und Flugzeuge (grün mit weißen Abzeichen) dürfen nicht getroffen werden.\n\nJoystick in Port 2 oder Tastatur (WASD/Cursor zielen, RETURN feuert, Leertaste Deckung, P Pause), PAL und NTSC, Menüs in Englisch, Spanisch, Italienisch und Deutsch.\n\nCrack-Fassung von AIliens vom 20. November 2026 (D64) mit Intro; die Bestenliste wird auf Diskette gespeichert. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Man bedient ein Flakgeschütz auf einer Landzunge über einem Hafen und wehrt Wellen von Jägern, Bombern, Kanonenbooten und Zerstörern ab. Die Granaten platzen dort, wo das Visier beim Schuss stand, schnelle Ziele muss man also vorhalten. Blinkt „Incoming“, sollte man in Deckung gehen – aus der Deckung heraus kann man aber nicht feuern, und jeder durchgekommene Feind beschädigt den Hafen. Eigene Schiffe und Flugzeuge (grün mit weißen Abzeichen) dürfen nicht getroffen werden.\n\nJoystick in Port 2 oder Tastatur (WASD/Cursor zielen, RETURN feuert, Leertaste Deckung, P Pause), PAL und NTSC, Menüs in Englisch, Spanisch, Italienisch und Deutsch.\n\nCrack-Fassung von AIliens vom 20. November 2026 (D64) mit Intro; die Bestenliste wird auf Diskette gespeichert. Das Original ist ebenfalls in der Datenbank.",
+    "en": "You man an anti-aircraft gun on a headland above a harbour and fight off waves of fighters, bombers, gunboats and destroyers. Shells burst where the sight was when you fired, so fast targets have to be led. When \"Incoming\" flashes you should take cover – but you cannot fire from cover, and every enemy that slips past damages the harbour. Friendly ships and planes (green with white markings) must not be hit.\n\nJoystick in port 2 or keyboard (WASD/cursor keys aim, RETURN fires, space takes cover, P pauses), PAL and NTSC, menus in English, Spanish, Italian and German.\n\nCrack by AIliens from 20 November 2026 (D64) with intro; high scores are saved to disk. The original release is also in the database."
+  },
+  "images": {
+    "sstitle": "images/02/02304fbf8837a1836de7ea1046c5bf4b9417787a.png"
+  }
+}

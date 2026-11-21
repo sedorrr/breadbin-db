@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "25cc4e730be615ec9f3d5e00324fa7b20e46d4ef",
+  "md5": "d117d017c69d34af60bbfb8e61b723a1",
+  "crc32": "5252a03e",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Grand Prix Simulator II.crt"
+  ],
+  "screenscraper_id": "36560",
+  "title": "Grand Prix Simulator 2",
+  "year": "1989",
+  "publisher": "Codemasters",
+  "developer": "The Oliver Twins",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-3",
+  "synopsis": "Fortsetzung des Rennspiels Grand Prix Simulator: Kleine Rennwagen fahren aus der Vogelperspektive über Strecken, die vollständig auf einen Bildschirm passen. Bis zu drei Spieler treten gleichzeitig gegeneinander oder gegen den Computer an; Ölflecken, Sprungschanzen und andere Hindernisse sorgen für Abwechslung. Als preiswertes Budgetspiel mit schnellem Mehrspielerspaß war es bei Codemasters typisch und sehr beliebt.\n\nErschienen 1989 als Budgetspiel auf Kassette; dazu gibt es Diskettenfassungen und eine OneLoad64-Modulumsetzung. Gesteuert wird mit Joystick, für den dritten Spieler zusätzlich über die Tastatur.\n\nMusik: Steve Barrett",
+  "texts": {
+    "de": "Fortsetzung des Rennspiels Grand Prix Simulator: Kleine Rennwagen fahren aus der Vogelperspektive über Strecken, die vollständig auf einen Bildschirm passen. Bis zu drei Spieler treten gleichzeitig gegeneinander oder gegen den Computer an; Ölflecken, Sprungschanzen und andere Hindernisse sorgen für Abwechslung. Als preiswertes Budgetspiel mit schnellem Mehrspielerspaß war es bei Codemasters typisch und sehr beliebt.\n\nErschienen 1989 als Budgetspiel auf Kassette; dazu gibt es Diskettenfassungen und eine OneLoad64-Modulumsetzung. Gesteuert wird mit Joystick, für den dritten Spieler zusätzlich über die Tastatur.\n\nMusik: Steve Barrett",
+    "en": "Sequel to the racing game Grand Prix Simulator: small racing cars drive over tracks seen from above, each of which fits completely on one screen. Up to three players race simultaneously against each other or the computer; oil slicks, ramps and other obstacles add variety. As an inexpensive budget title with quick multiplayer fun, it was typical of Codemasters and very popular.\n\nReleased in 1989 as a budget title on tape; there are also disk versions and a OneLoad64 cartridge conversion. It is controlled by joystick, with the keyboard used for the third player.\n\nMusic: Steve Barrett"
+  },
+  "images": {
+    "ss": "images/9d/9dbf54ba122ad1456e107cc7ac0c5327c04c5fc0.png",
+    "sstitle": "images/07/0740c8fb55208077df72edc40b3cabe14927f454.png"
+  }
+}

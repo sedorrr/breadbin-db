@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "63da8ba6f24c586db0cc149280febb9aedc7fc91",
+  "md5": "4deba3f8fbf41ba98d636fc13821e36b",
+  "crc32": "a7b2faec",
+  "size": 26229,
+  "format": "PRG",
+  "files": [
+    "Thrust II.prg"
+  ],
+  "screenscraper_id": "132678",
+  "title": "Thrust II",
+  "year": "1987",
+  "publisher": "Firebird",
+  "developer": "Ian Gray, Lee Braine",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Wie im Vorgänger Thrust steuert der Spieler ein Raumschiff mit Schub und Drehung gegen die Schwerkraft durch ein unterirdisches Höhlensystem. Statt einzelner Abschnitte gibt es nun eine zusammenhängende Welt, in der Kugeln unterschiedlicher Masse verteilt sind. Mit dem Traktorstrahl hängt man sie an das Schiff und bringt sie zu einer Verarbeitungsanlage, bevor sie explodieren; die pendelnde Last verändert dabei das Flugverhalten spürbar. Das Spiel gilt als schwerer als der Vorgänger.\n\nThrust II erschien bei Firebird im Billigsegment, für den C64 1988 auf Kassette (Spectrum und Amstrad CPC schon 1987); später lag es dem Heft Commodore Zone bei. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Ian Gray, Lee Braine · Grafik: Gary Penn · Musik: Dave Korn",
+  "texts": {
+    "de": "Wie im Vorgänger Thrust steuert der Spieler ein Raumschiff mit Schub und Drehung gegen die Schwerkraft durch ein unterirdisches Höhlensystem. Statt einzelner Abschnitte gibt es nun eine zusammenhängende Welt, in der Kugeln unterschiedlicher Masse verteilt sind. Mit dem Traktorstrahl hängt man sie an das Schiff und bringt sie zu einer Verarbeitungsanlage, bevor sie explodieren; die pendelnde Last verändert dabei das Flugverhalten spürbar. Das Spiel gilt als schwerer als der Vorgänger.\n\nThrust II erschien bei Firebird im Billigsegment, für den C64 1988 auf Kassette (Spectrum und Amstrad CPC schon 1987); später lag es dem Heft Commodore Zone bei. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Ian Gray, Lee Braine · Grafik: Gary Penn · Musik: Dave Korn",
+    "en": "As in its predecessor Thrust, the player steers a spaceship using thrust and rotation against gravity through an underground cave system. Instead of separate levels there is now one connected world with orbs of different mass scattered around it. Using the tractor beam, the ship picks them up and carries them to a processor before they explode; the swinging load noticeably changes how the ship handles. The game is considered harder than its predecessor.\n\nThrust II was released by Firebird as a budget title, for the C64 in 1988 on tape (Spectrum and Amstrad CPC already in 1987); later it was included with Commodore Zone magazine. Cracks and cartridge conversions, for example for OneLoad64, are in circulation. It is controlled with a joystick in port 2.\n\nCode: Ian Gray, Lee Braine · Graphics: Gary Penn · Music: Dave Korn"
+  },
+  "images": {
+    "ss": "images/1d/1de50fd0131973f4efd9673ca8ccfe5b66851567.png",
+    "sstitle": "images/58/582827aefe9dd0881ff5c78f77fa6b3040c64b25.png"
+  }
+}

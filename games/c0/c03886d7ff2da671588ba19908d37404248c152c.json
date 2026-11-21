@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c03886d7ff2da671588ba19908d37404248c152c",
+  "md5": "e078576c88808969b03236e86573f217",
+  "crc32": "38ef9835",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Jack the Ninja+2D[HF+EX].d64"
+  ],
+  "title": "Jack the Ninja +2D",
+  "year": "2026",
+  "publisher": "AnninaGames",
+  "developer": "AnninaGames",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Plattformspiel auf Zeit: Jedes Level soll so schnell wie möglich und mit möglichst wenigen Toden geschafft werden. Es gibt mehrere Levelpakete, zu denen jeweils eigene Bestzeiten auf der Diskette gespeichert werden. Eine Vorschaufassung war bereits 2016 erschienen.\n\nCrack-Fassung von Excess und Hokuto Force vom 4. November 2026 (D64) mit zwei Trainer-Optionen und Doku; auf der Diskette liegen das offizielle Levelpaket und „Pack 1“ samt Bestzeitdateien (die mitgelieferten Zeiten sind absichtlich schwer zu schlagen; löscht man die Dateien, beginnt die Liste leer). Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Kleines Plattformspiel auf Zeit: Jedes Level soll so schnell wie möglich und mit möglichst wenigen Toden geschafft werden. Es gibt mehrere Levelpakete, zu denen jeweils eigene Bestzeiten auf der Diskette gespeichert werden. Eine Vorschaufassung war bereits 2016 erschienen.\n\nCrack-Fassung von Excess und Hokuto Force vom 4. November 2026 (D64) mit zwei Trainer-Optionen und Doku; auf der Diskette liegen das offizielle Levelpaket und „Pack 1“ samt Bestzeitdateien (die mitgelieferten Zeiten sind absichtlich schwer zu schlagen; löscht man die Dateien, beginnt die Liste leer). Das Original ist ebenfalls in der Datenbank.",
+    "en": "Small time-trial platformer: each level should be completed as quickly as possible while dying as rarely as possible. There are several level packs, each with its own best-time file saved to disk. A preview version had already appeared in 2016.\n\nCrack by Excess and Hokuto Force from 4 November 2026 (D64) with two trainer options and docs; the disk holds the official level pack and \"Pack 1\" with their best-time files (the supplied times are deliberately hard to beat; deleting the files starts with an empty list). The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/5f/5fdb2f97e6c5af9cf4426123e56e051e886ac79f.png",
+    "sstitle": "images/ee/ee2b85ae91fc2ef2eadca98a452568fb284e15e6.png"
+  }
+}

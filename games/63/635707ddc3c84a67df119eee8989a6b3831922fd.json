@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "635707ddc3c84a67df119eee8989a6b3831922fd",
+  "md5": "e5eab7bf5d89eb37abbfaab7addc7007",
+  "crc32": "f69a5cc2",
+  "size": 7411,
+  "format": "PRG",
+  "files": [
+    "BLUELUNG.prg"
+  ],
+  "title": "Blue Lung",
+  "year": "2026",
+  "publisher": "Laimer",
+  "developer": "Laimer",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Tauchspiel: Man taucht vom Schiff aus hinab, sammelt Perlen in seinen Beutel und bringt die Ausbeute zurück an Bord, bevor die Luft ausgeht. Haie und Quallen sind gefährlich. Vor dem Start lassen sich Anzahl der Haie, Luftvorrat, Taucherzahl und Starttiefe einstellen.\n\nJoystick, Feuer startet den Tauchgang.\n\nOriginal von der Seite laimer.top, als PRG.",
+  "texts": {
+    "de": "Tauchspiel: Man taucht vom Schiff aus hinab, sammelt Perlen in seinen Beutel und bringt die Ausbeute zurück an Bord, bevor die Luft ausgeht. Haie und Quallen sind gefährlich. Vor dem Start lassen sich Anzahl der Haie, Luftvorrat, Taucherzahl und Starttiefe einstellen.\n\nJoystick, Feuer startet den Tauchgang.\n\nOriginal von der Seite laimer.top, als PRG.",
+    "en": "Diving game: you dive down from your ship, collect pearls in your bag and bring the haul back aboard before your air runs out. Sharks and jellyfish are dangerous. Before starting you can set the number of sharks, the air supply, the number of divers and the starting depth.\n\nJoystick, fire starts the dive.\n\nOriginal from laimer.top, as a PRG."
+  },
+  "images": {
+    "ss": "images/fa/faf08d665eaf2cc725ebc8ffe48f963f0ab9bb4a.png",
+    "sstitle": "images/10/1035bded61916f6fa88876c939d24dfe0dbd4e1d.png"
+  }
+}

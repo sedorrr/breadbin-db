@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "b0eb3675e0d84a99bd125a7a68cec87e7a1ad328",
+  "md5": "ac468d87f54a6f6278f0a09e9d520141",
+  "crc32": "a6059660",
+  "size": 156016,
+  "format": "CRT",
+  "files": [
+    "wolf64.crt"
+  ],
+  "title": "Wolfenstein 64",
+  "year": "2026",
+  "publisher": "Steve McCrea (kweepa)",
+  "developer": "Steve McCrea (kweepa)",
+  "genres": [
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle C64-Umsetzung des Ego-Shooters Wolfenstein 3D. Man entkommt aus einem Nazi-Kerker, anfangs nur mit Messer und erbeuteter Pistole, öffnet Türen, findet Geheimwände durch Dagegenlaufen und sammelt Waffen, Munition und Gesundheit ein. Enthalten ist die erste Episode mit acht Levels, Boss- und Geheimlevel; eine Karte lässt sich einblenden.\n\nEine Vorschau erschien im August 2026. Steuerung mit Tastatur (WASD bzw. IJKL, Leertaste feuert, 1–4 Waffenwahl, F1 Karte, F5/F7 Schnellspeichern/-laden), Joystick in Port 2 oder Maus in Port 1.\n\nOriginal von der itch.io-Seite des Autors als Modul (CRT).",
+  "texts": {
+    "de": "Inoffizielle C64-Umsetzung des Ego-Shooters Wolfenstein 3D. Man entkommt aus einem Nazi-Kerker, anfangs nur mit Messer und erbeuteter Pistole, öffnet Türen, findet Geheimwände durch Dagegenlaufen und sammelt Waffen, Munition und Gesundheit ein. Enthalten ist die erste Episode mit acht Levels, Boss- und Geheimlevel; eine Karte lässt sich einblenden.\n\nEine Vorschau erschien im August 2026. Steuerung mit Tastatur (WASD bzw. IJKL, Leertaste feuert, 1–4 Waffenwahl, F1 Karte, F5/F7 Schnellspeichern/-laden), Joystick in Port 2 oder Maus in Port 1.\n\nOriginal von der itch.io-Seite des Autors als Modul (CRT).",
+    "en": "Unofficial C64 conversion of the first-person shooter Wolfenstein 3D. You escape from a Nazi dungeon, at first armed only with a knife and a stolen pistol, open doors, find secret walls by pushing against them and pick up weapons, ammo and health. The first episode is included, with eight levels plus a boss level and a secret level; a map can be shown.\n\nA preview appeared in August 2026. Controlled by keyboard (WASD or IJKL, space fires, 1–4 select weapon, F1 map, F5/F7 quick save/load), joystick in port 2 or mouse in port 1.\n\nOriginal from the author's itch.io page as a cartridge (CRT)."
+  },
+  "images": {
+    "ss": "images/ce/ce90b5b98b4fbe68ca2fced9bd2478f39c8d296d.png",
+    "sstitle": "images/25/25d0e1085f6a2e00079507085f8899c9940e4549.png"
+  }
+}

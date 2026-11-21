@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d05674c500e1a99813bb9877946b374383535066",
+  "md5": "5f445e68faf9868fa4e7dad6081dbc15",
+  "crc32": "984430f4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "neonnights.d64"
+  ],
+  "title": "Neon Nights",
+  "year": "2026",
+  "publisher": "codebiters",
+  "developer": "codebiters",
+  "genres": [
+    "Flipper"
+  ],
+  "players": "1",
+  "synopsis": "Flipperspiel mit Neon-Thema von codebiters. Weitere Angaben zum Tisch liegen nicht vor.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Flipperspiel mit Neon-Thema von codebiters. Weitere Angaben zum Tisch liegen nicht vor.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+    "en": "Neon-themed pinball game by codebiters. No further details about the table are available.\n\nOriginal from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "ss": "images/1e/1e43d704451839270198b7fb36f064bf904e11ff.png",
+    "sstitle": "images/9f/9f50846d86640e0f877f053a372990561e6bf46c.png"
+  }
+}

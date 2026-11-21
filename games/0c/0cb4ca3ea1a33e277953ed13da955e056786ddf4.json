@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0cb4ca3ea1a33e277953ed13da955e056786ddf4",
+  "md5": "0354bbfe64185eefcbe2406cb9b40bb5",
+  "crc32": "e132230d",
+  "size": 16162,
+  "format": "PRG",
+  "files": [
+    "Sorcery.prg"
+  ],
+  "screenscraper_id": "36152",
+  "title": "Sorcery",
+  "year": "1984",
+  "publisher": "Virgin Games",
+  "developer": "Gang of Five",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Ein fliegender Zauberer muss seine gefangenen Gefährten aus der Gewalt eines Nekromanten befreien. Dazu schwebt er durch zahlreiche Bildschirme voller Türen, Gegenstände und Ungeheuer. Jeweils ein Gegenstand lässt sich tragen; der richtige öffnet bestimmte Türen oder vernichtet bestimmte Gegner. Berührungen mit Feinden zehren an der Energie, die sich an einem Zauberkessel auffrischen lässt, und eine Zeitanzeige drängt zur Eile. Das Spiel gehört zu den bekannten Arcade-Abenteuern der Zeit nach dem Vorbild von Atic Atac.\n\nSorcery stammt ursprünglich vom ZX Spectrum (Martin Wheeler); die C64-Fassung entstand bei Virgins Entwicklergruppe Gang of Five und erschien auf Kassette und Diskette, in den USA bei Advantage/Artworx. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Andrew Wilson · Grafik: Ian Mathias",
+  "texts": {
+    "de": "Ein fliegender Zauberer muss seine gefangenen Gefährten aus der Gewalt eines Nekromanten befreien. Dazu schwebt er durch zahlreiche Bildschirme voller Türen, Gegenstände und Ungeheuer. Jeweils ein Gegenstand lässt sich tragen; der richtige öffnet bestimmte Türen oder vernichtet bestimmte Gegner. Berührungen mit Feinden zehren an der Energie, die sich an einem Zauberkessel auffrischen lässt, und eine Zeitanzeige drängt zur Eile. Das Spiel gehört zu den bekannten Arcade-Abenteuern der Zeit nach dem Vorbild von Atic Atac.\n\nSorcery stammt ursprünglich vom ZX Spectrum (Martin Wheeler); die C64-Fassung entstand bei Virgins Entwicklergruppe Gang of Five und erschien auf Kassette und Diskette, in den USA bei Advantage/Artworx. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Andrew Wilson · Grafik: Ian Mathias",
+    "en": "A flying sorcerer has to rescue his captured companions from the clutches of a necromancer. To do so he floats through numerous screens full of doors, objects and monsters. He can carry one object at a time; the right one opens certain doors or destroys certain enemies. Contact with enemies drains his energy, which can be restored at a magic cauldron, while a time display urges him on. The game is one of the well-known arcade adventures of the period in the style of Atic Atac.\n\nSorcery originally came from the ZX Spectrum (Martin Wheeler); the C64 version was produced by Virgin's development team Gang of Five and released on tape and disk, in the USA by Advantage/Artworx. Cracks and cartridge conversions, for example for OneLoad64, are in circulation. It is controlled with a joystick in port 2.\n\nCode: Andrew Wilson · Graphics: Ian Mathias"
+  },
+  "images": {
+    "ss": "images/c2/c29be43d66a71ee89fa726ba1dcc137054c2475a.png",
+    "sstitle": "images/0b/0b524758b373bc1c2b2b9fe8fb6d8c6d6dc219f5.png"
+  }
+}

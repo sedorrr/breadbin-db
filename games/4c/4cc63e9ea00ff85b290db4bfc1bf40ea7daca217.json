@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "4cc63e9ea00ff85b290db4bfc1bf40ea7daca217",
+  "md5": "ed7119e0df4ab2a67affa2dc2dff8998",
+  "crc32": "da6ffbad",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TUBE_SHIFT_64.d64"
+  ],
+  "title": "Tube Shift 64",
+  "year": "2026",
+  "publisher": "Metatone Games",
+  "developer": "Metatone Games",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Puzzlespiel von Metatone Games (Bruno Christensen): Auf einem Spielfeld aus Röhrenstücken muss eine Kugel ihren Weg durch das Labyrinth finden, indem die Röhren verschoben bzw. gedreht werden; eine Sanduhr begrenzt die Zeit, Punkte und Leben werden angezeigt. Start mit der Leertaste.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Puzzlespiel von Metatone Games (Bruno Christensen): Auf einem Spielfeld aus Röhrenstücken muss eine Kugel ihren Weg durch das Labyrinth finden, indem die Röhren verschoben bzw. gedreht werden; eine Sanduhr begrenzt die Zeit, Punkte und Leben werden angezeigt. Start mit der Leertaste.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+    "en": "Puzzle game by Metatone Games (Bruno Christensen): on a playfield of pipe pieces a ball has to find its way through the maze as the pipes are shifted or rotated; an hourglass limits the time, and score and lives are shown. Start with the space bar.\n\nOriginal from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "ss": "images/d5/d5681f847abe46467f00c9f9051a643734dfe905.png",
+    "sstitle": "images/10/109904ca1a5bc537976384fa8a1cb41054a1c6e5.png"
+  }
+}

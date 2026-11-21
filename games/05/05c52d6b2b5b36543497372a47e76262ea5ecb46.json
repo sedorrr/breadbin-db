@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "05c52d6b2b5b36543497372a47e76262ea5ecb46",
+  "md5": "e2831ac870fc5f86380af8975a7d4ed1",
+  "crc32": "3eceeea3",
+  "size": 12020,
+  "format": "PRG",
+  "files": [
+    "cobra-acid+4_tvl.prg"
+  ],
+  "title": "Cobra Team: Underground!",
+  "year": "2026",
+  "publisher": "Ready 64",
+  "developer": "Ready 64",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Man steuert einen Cobra-Kampfhubschrauber durch zwölf unterirdische Höhlen, schießt Gegner ab, weicht Felsen aus und muss jeweils das Ausgangsschild erreichen. Zur normalen Kanone kommen stärkere Raketen, Kisten mit „M“ füllen den Vorrat auf. Die Höhlen 1–8 gelten als leicht, 9–11 als mittel, in Höhle 12 wartet ein Verteidiger, dessen zwei Geschütze und roter Kern zerstört werden müssen.\n\nPRG-Datei, Crack-Fassung der Gruppe Tivoli (02.11.2026) mit Intro und Trainer (unbegrenzte Leben, unbegrenzte Munition, keine Kollision, „Acid Mode“). Joystick in Port 2 (Feuer schießt), Leertaste feuert eine Rakete; fünf Leben und fünf Raketen zum Start.",
+  "texts": {
+    "de": "Man steuert einen Cobra-Kampfhubschrauber durch zwölf unterirdische Höhlen, schießt Gegner ab, weicht Felsen aus und muss jeweils das Ausgangsschild erreichen. Zur normalen Kanone kommen stärkere Raketen, Kisten mit „M“ füllen den Vorrat auf. Die Höhlen 1–8 gelten als leicht, 9–11 als mittel, in Höhle 12 wartet ein Verteidiger, dessen zwei Geschütze und roter Kern zerstört werden müssen.\n\nPRG-Datei, Crack-Fassung der Gruppe Tivoli (02.11.2026) mit Intro und Trainer (unbegrenzte Leben, unbegrenzte Munition, keine Kollision, „Acid Mode“). Joystick in Port 2 (Feuer schießt), Leertaste feuert eine Rakete; fünf Leben und fünf Raketen zum Start.",
+    "en": "You pilot a Cobra gunship through twelve underground caves, shoot enemies, dodge rocks and have to reach the exit sign each time. Besides the regular gun there are more powerful missiles, and crates marked \"M\" replenish them. Caves 1–8 are easy, 9–11 medium, and cave 12 holds a defender whose two guns and red core must be destroyed.\n\nPRG file, cracked version by Tivoli (2 Nov 2026) with intro and trainer (unlimited lives, unlimited ammo, no crashing, \"acid mode\"). Joystick in port 2 (fire shoots), space fires a missile; you start with five lives and five missiles."
+  },
+  "images": {
+    "ss": "images/1f/1fd22c73866d16ffaf9a031cb41c7cfab8166d81.png"
+  }
+}

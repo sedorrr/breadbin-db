@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "df83b4c07f08c03acebbcbdc9d78ab635398b584",
+  "md5": "46f30c5be19a495e1342b87d34388e4a",
+  "crc32": "ace6546a",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Blade Runner.crt"
+  ],
+  "screenscraper_id": "35990",
+  "title": "Blade Runner",
+  "year": "1985",
+  "publisher": "CRL",
+  "developer": "Andy Stodart, Ian Foster",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Blade Runner von CRL beruht nicht auf einer Filmlizenz, sondern ausdrücklich auf der Filmmusik von Vangelis. Der Spieler jagt als Blade Runner Replikanten, hier „Replidroiden“ genannt, durch die Sektoren einer Großstadt: Auf einer Übersichtskarte wird das Ziel mit dem Spinner-Fluggerät angesteuert, danach folgt die Verfolgung zu Fuß in den Straßen. Dabei dürfen keine Unbeteiligten getroffen werden. Kritiker bemängelten das Spiel, lobten aber die C64-Umsetzung der Musik.\n\nDas Spiel erschien auf Kassette und Diskette, heute ist auch eine OneLoad64-Modulumsetzung verbreitet. Gesteuert wird mit dem Joystick.\n\nCode: Andy Stodart · Musik: nach Vangelis",
+  "texts": {
+    "de": "Blade Runner von CRL beruht nicht auf einer Filmlizenz, sondern ausdrücklich auf der Filmmusik von Vangelis. Der Spieler jagt als Blade Runner Replikanten, hier „Replidroiden“ genannt, durch die Sektoren einer Großstadt: Auf einer Übersichtskarte wird das Ziel mit dem Spinner-Fluggerät angesteuert, danach folgt die Verfolgung zu Fuß in den Straßen. Dabei dürfen keine Unbeteiligten getroffen werden. Kritiker bemängelten das Spiel, lobten aber die C64-Umsetzung der Musik.\n\nDas Spiel erschien auf Kassette und Diskette, heute ist auch eine OneLoad64-Modulumsetzung verbreitet. Gesteuert wird mit dem Joystick.\n\nCode: Andy Stodart · Musik: nach Vangelis",
+    "en": "CRL's Blade Runner is not based on a film licence but explicitly on Vangelis's film score. As a blade runner the player hunts replicants, here called \"replidroids\", through the sectors of a big city: the target is approached with the Spinner on an overview map, followed by a chase on foot through the streets, where bystanders must not be hit. Critics were unimpressed with the game but praised the C64 rendition of the music.\n\nThe game was released on cassette and disk; a OneLoad64 cartridge conversion is common today. It is played with a joystick.\n\nCode: Andy Stodart · Music: after Vangelis"
+  },
+  "images": {
+    "ss": "images/c2/c284db2e176dbcc95f3eca1e8e9f58f962418880.png",
+    "sstitle": "images/47/4759f8238d3969316622df4f20a72125bdbcbf7d.png"
+  }
+}

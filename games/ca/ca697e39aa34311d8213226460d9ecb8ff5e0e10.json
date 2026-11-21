@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ca697e39aa34311d8213226460d9ecb8ff5e0e10",
+  "md5": "323a4c6db0d165ae2643074c9738d1eb",
+  "crc32": "52398a8c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "stonebeard.d64"
+  ],
+  "title": "Stonebeard: Deep Delve",
+  "year": "2026",
+  "publisher": "Rozsoft",
+  "developer": "Rozsoft (rozen)",
+  "genres": [
+    "Action / Labyrinth",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Grab- und Rätselspiel in der Art der klassischen Felsbrocken-und-Edelstein-Spiele: Das Zwergendorf Hammerhalt lebt von seiner Mine, doch seit einem Jahr bebt der Berg. Der alte Brokk Stonebeard steigt mit Spitzhacke und Lampe hinab, um die vier Runensplitter des Herzsteins zu finden, der den Berg der Legende nach ruhig hält. Er gräbt Edelsteine, um das Lift-Tor zu öffnen und Lampenöl zu bezahlen; das Öl ist zugleich die Uhr – vor dem Erlöschen müssen Ölflaschen eingesammelt werden.\n\n16 Minen in vier Gebieten (Topsoil Mine, Crystal Caverns, Flooded Halls, Ancient Ruins), jede aus vier scrollenden Räumen. Felsbrocken und Edelsteine fallen und rollen, Brocken und Lorenwagen lassen sich schieben, Grubenstempel halten Gestein auf, Bomben sprengen Wege frei, unter Wasser zählt die Luft. Vier Erbstücke der Ahnen (Großvaters Lampe, Kristallhacke, Taucherhelm, Ahnenring) geben neue Fähigkeiten; die Runensplitter erzählen die Geschichte und liefern Passwörter zum Überspringen.\n\nJoystick in Port 2 zum Bewegen, Graben und Schieben; Feuer startet bzw. setzt fort, P setzt einen Grubenstempel, B eine Bombe. In C mit Oscar64 geschrieben, Level aus einem eigenen Generator von Hand überarbeitet; PAL.\n\nOriginal von der itch.io-Seite des Autors als D64 (Preis frei wählbar; eine Special Edition für 2 $ enthält Zusatzfassungen mit Feinscrolling, für WiC64-Bestenliste und einen Super-C-Test).\n\nCode, Grafik: Rozsoft · Musik: Rafal Szyja (Raf, Titel), Radek Andrzejewicz (Rabbi, im Spiel)",
+  "texts": {
+    "de": "Grab- und Rätselspiel in der Art der klassischen Felsbrocken-und-Edelstein-Spiele: Das Zwergendorf Hammerhalt lebt von seiner Mine, doch seit einem Jahr bebt der Berg. Der alte Brokk Stonebeard steigt mit Spitzhacke und Lampe hinab, um die vier Runensplitter des Herzsteins zu finden, der den Berg der Legende nach ruhig hält. Er gräbt Edelsteine, um das Lift-Tor zu öffnen und Lampenöl zu bezahlen; das Öl ist zugleich die Uhr – vor dem Erlöschen müssen Ölflaschen eingesammelt werden.\n\n16 Minen in vier Gebieten (Topsoil Mine, Crystal Caverns, Flooded Halls, Ancient Ruins), jede aus vier scrollenden Räumen. Felsbrocken und Edelsteine fallen und rollen, Brocken und Lorenwagen lassen sich schieben, Grubenstempel halten Gestein auf, Bomben sprengen Wege frei, unter Wasser zählt die Luft. Vier Erbstücke der Ahnen (Großvaters Lampe, Kristallhacke, Taucherhelm, Ahnenring) geben neue Fähigkeiten; die Runensplitter erzählen die Geschichte und liefern Passwörter zum Überspringen.\n\nJoystick in Port 2 zum Bewegen, Graben und Schieben; Feuer startet bzw. setzt fort, P setzt einen Grubenstempel, B eine Bombe. In C mit Oscar64 geschrieben, Level aus einem eigenen Generator von Hand überarbeitet; PAL.\n\nOriginal von der itch.io-Seite des Autors als D64 (Preis frei wählbar; eine Special Edition für 2 $ enthält Zusatzfassungen mit Feinscrolling, für WiC64-Bestenliste und einen Super-C-Test).\n\nCode, Grafik: Rozsoft · Musik: Rafal Szyja (Raf, Titel), Radek Andrzejewicz (Rabbi, im Spiel)",
+    "en": "Digging and puzzle-action game in the spirit of the classic boulder-and-gem games: the dwarf village of Hammerhalt lives off its mine, but for a year the mountain has been shaking. Old Brokk Stonebeard heads down with his pickaxe and lamp to find the four Rune Shards of the Heartstone, which according to legend keeps the mountain asleep. He digs gems to open the lift and to pay for lamp oil; the oil is also the clock – oil flasks must be picked up before the light goes out.\n\n16 mines in four biomes (Topsoil Mine, Crystal Caverns, Flooded Halls, Ancient Ruins), each made of four scrolling rooms. Boulders and gems fall and roll, boulders and mine carts can be pushed, pit props hold up falling rock, bombs blast a way through, and underwater the air supply counts. Four ancestor relics (Grandfather's Lamp, Crystal Pick, Diving Helm, Ancestor's Ring) grant new skills; the Rune Shards tell the story and give passwords to skip ahead.\n\nJoystick in port 2 to move, dig and push; fire starts or continues, P places a pit prop, B a bomb. Written in C with Oscar64, levels from the author's own generator reworked by hand; PAL.\n\nOriginal from the author's itch.io page as a D64 (name your own price; a $2 Special Edition adds bonus builds with fine scrolling, a WiC64 online high score and a Super-C test).\n\nCode, graphics: Rozsoft · Music: Rafal Szyja (Raf, title), Radek Andrzejewicz (Rabbi, in-game)"
+  },
+  "images": {
+    "ss": "images/ff/ff4b64a06daf7f8b5eaa15225e1912a81cc13c9f.png",
+    "sstitle": "images/37/374ab9d8b684824a09cac97dd0ce0539cfa7b0a1.png"
+  }
+}

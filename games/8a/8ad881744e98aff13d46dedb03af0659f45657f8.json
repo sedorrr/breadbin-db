@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "8ad881744e98aff13d46dedb03af0659f45657f8",
+  "md5": "c7649890f280e8f36dbf1b20afa5abee",
+  "crc32": "cc03ceeb",
+  "size": 10815,
+  "format": "PRG",
+  "files": [
+    "ai-madmax+.prg"
+  ],
+  "title": "Mad Max and the Revenge of the Killer Pumpkins",
+  "year": "2026",
+  "publisher": "8-Bit-Shack",
+  "developer": "Dan Henderson, Walter Tengler",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Halloween-Spiel um die Figur Max, der vor Killerkürbissen auf der Hut sein muss; im Spiel werden Knochen gezählt, Max hat zu Beginn neun Leben, und das Kürbistempo ist von langsam bis „frantic“ einstellbar. Genauere Angaben zum Spielablauf liegen nicht vor.\n\nPRG-Datei, Crack-Fassung der Gruppe AIliens (20.11.2026) mit Intro, Trainer und nachgerüsteter Joysticksteuerung („+2J“); das Original wird über frei belegbare Tasten gesteuert.",
+  "texts": {
+    "de": "Halloween-Spiel um die Figur Max, der vor Killerkürbissen auf der Hut sein muss; im Spiel werden Knochen gezählt, Max hat zu Beginn neun Leben, und das Kürbistempo ist von langsam bis „frantic“ einstellbar. Genauere Angaben zum Spielablauf liegen nicht vor.\n\nPRG-Datei, Crack-Fassung der Gruppe AIliens (20.11.2026) mit Intro, Trainer und nachgerüsteter Joysticksteuerung („+2J“); das Original wird über frei belegbare Tasten gesteuert.",
+    "en": "Halloween game about a character called Max who has to watch out for killer pumpkins; the game counts bones, Max starts with nine lives, and the pumpkin speed can be set from slow to \"frantic\". No further details on the gameplay are available.\n\nPRG file, cracked version by AIliens (20 Nov 2026) with intro, trainer and added joystick control (\"+2J\"); the original is controlled with redefinable keys."
+  },
+  "images": {
+    "ss": "images/6a/6ad4708979b845c6e7b4ad3aca17129aa1f8b7d4.png"
+  }
+}

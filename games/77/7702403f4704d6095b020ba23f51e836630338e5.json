@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7702403f4704d6095b020ba23f51e836630338e5",
+  "md5": "669dab6c1a3f4cfafd4ab7409924bf20",
+  "crc32": "3b9a0ddf",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Scramble Infinity.d64"
+  ],
+  "screenscraper_id": "360054",
+  "title": "Scramble Infinity",
+  "year": "2021",
+  "publisher": "5 O'Clock Software",
+  "developer": "Mirage",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Scramble Infinity ist ein neuer Horizontal-Shooter für den C64, angelehnt an Konamis Automatenklassiker Scramble. Das Raumschiff fliegt dicht über eine zerklüftete Landschaft, schießt nach vorn und wirft Bomben auf Bodenziele, während Treibstoff nachgetankt werden muss. Hindernisse wie Meteoritenschauer verlangen genaues Fliegen nahe am Boden. Das Spiel wurde für seine saubere Technik und Spielbarkeit gelobt.\n\nDas Spiel erschien Ende 2021 als Diskettenabbild, Fassung 1.2 brachte das Speichern der Bestenliste. Es gibt EasyFlash-Fassungen; gesteuert wird mit dem Joystick.\n\nCode: Mirage · Grafik: Mirage · Musik: Dane, Jammer",
+  "texts": {
+    "de": "Scramble Infinity ist ein neuer Horizontal-Shooter für den C64, angelehnt an Konamis Automatenklassiker Scramble. Das Raumschiff fliegt dicht über eine zerklüftete Landschaft, schießt nach vorn und wirft Bomben auf Bodenziele, während Treibstoff nachgetankt werden muss. Hindernisse wie Meteoritenschauer verlangen genaues Fliegen nahe am Boden. Das Spiel wurde für seine saubere Technik und Spielbarkeit gelobt.\n\nDas Spiel erschien Ende 2021 als Diskettenabbild, Fassung 1.2 brachte das Speichern der Bestenliste. Es gibt EasyFlash-Fassungen; gesteuert wird mit dem Joystick.\n\nCode: Mirage · Grafik: Mirage · Musik: Dane, Jammer",
+    "en": "Scramble Infinity is a new horizontal shooter for the C64, modelled on Konami's arcade classic Scramble. The ship flies low over rugged terrain, firing forwards and dropping bombs on ground targets while having to refuel. Obstacles such as meteor showers call for precise flying close to the ground. The game was praised for its clean technique and playability.\n\nIt was released at the end of 2021 as a disk image; version 1.2 added high-score saving. EasyFlash versions exist; it is played with a joystick.\n\nCode: Mirage · Graphics: Mirage · Music: Dane, Jammer"
+  },
+  "images": {
+    "ss": "images/15/15bc9564b6986fa73231bfe17b9c5fedcd734b70.png",
+    "sstitle": "images/0f/0f2c664acff81a56fd585f7d069de06e4c3dcdfb.png"
+  }
+}

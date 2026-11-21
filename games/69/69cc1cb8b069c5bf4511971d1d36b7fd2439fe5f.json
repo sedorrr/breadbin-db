@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "69cc1cb8b069c5bf4511971d1d36b7fd2439fe5f",
+  "md5": "92f46b49b432fe522ba4f0d008ff7262",
+  "crc32": "40c3d497",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Kumite_+1D_Fix_LAXITY.d64"
+  ],
+  "title": "Kumité",
+  "year": "2026",
+  "publisher": "Polytricity",
+  "developer": "Polytricity",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Prügelspiel um ein geheimes Kampfturnier in einem unterirdischen Dojo: Nacheinander sind fünf Gegner mit jeweils eigenem Kampfstil zu besiegen, bevor es gegen den Champion Chen Lo geht.\n\nVollversion; eine Vorschaufassung war im Oktober 2026 erschienen. Diese D64 ist die Laxity-Crack-Fassung vom 8. November 2026 mit Intro, einer Trainer-Option, Doku und NTSC-Anpassung. Das Original ist auf itch.io erschienen.",
+  "texts": {
+    "de": "Prügelspiel um ein geheimes Kampfturnier in einem unterirdischen Dojo: Nacheinander sind fünf Gegner mit jeweils eigenem Kampfstil zu besiegen, bevor es gegen den Champion Chen Lo geht.\n\nVollversion; eine Vorschaufassung war im Oktober 2026 erschienen. Diese D64 ist die Laxity-Crack-Fassung vom 8. November 2026 mit Intro, einer Trainer-Option, Doku und NTSC-Anpassung. Das Original ist auf itch.io erschienen.",
+    "en": "Fighting game about a secret tournament in an underground dojo: five opponents, each with their own fighting style, have to be defeated one after another before facing the champion Chen Lo.\n\nFull version; a preview had appeared in October 2026. This D64 is the Laxity crack from 8 November 2026 with intro, one trainer option, docs and an NTSC fix. The original was released on itch.io."
+  },
+  "images": {
+    "ss": "images/eb/eb2baba94914b98d911bcf9a0db1a34dfd3b7ab2.png",
+    "sstitle": "images/02/02f3b2f4789ad024e55b6e519d5191297b8d79bd.png"
+  }
+}

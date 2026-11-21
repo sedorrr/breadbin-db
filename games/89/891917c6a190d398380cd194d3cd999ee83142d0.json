@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "891917c6a190d398380cd194d3cd999ee83142d0",
+  "md5": "6addd73d28b72247f9c46a9c90511e7b",
+  "crc32": "d8095b58",
+  "size": 43198,
+  "format": "T64",
+  "files": [
+    "RAMPAGE2.T64"
+  ],
+  "screenscraper_id": "36119",
+  "title": "Rampage",
+  "year": "1988",
+  "publisher": "Activision",
+  "developer": "Monarch Development",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "In der Umsetzung des Bally-Midway-Automaten von 1986 steuert man eines von drei mutierten Riesenmonstern – den Gorilla George, den Werwolf Ralph oder die Echse Lizzie – und legt amerikanische Städte in Schutt und Asche. Man klettert an Hochhäusern hoch und schlägt sie ein, bis alle Gebäude eines Bildschirms eingestürzt sind. Soldaten, Panzer und Hubschrauber setzen den Monstern zu; gefressene Menschen und Fundstücke füllen die Kraft wieder auf, Wasser und Stromleitungen schaden. Der Reiz liegt im gemeinsamen, chaotischen Zerstören zu zweit.\n\nFür den C64 gibt es zwei unterschiedliche Umsetzungen: eine europäische von Activision UK, bei der bis zu drei Spieler mit zwei Joysticks und Tastatur antreten, und eine US-Fassung von Monarch Development für höchstens zwei Spieler gleichzeitig. Gesteuert wird mit dem Joystick; Feuer mit Richtung schlägt zu, Feuer allein springt. Das Spiel erschien auf Kassette und Diskette, später auch bei The Hit Squad.\n\nCode und Grafik (US-Fassung): Robert Neve, Glyn Anderson",
+  "texts": {
+    "de": "In der Umsetzung des Bally-Midway-Automaten von 1986 steuert man eines von drei mutierten Riesenmonstern – den Gorilla George, den Werwolf Ralph oder die Echse Lizzie – und legt amerikanische Städte in Schutt und Asche. Man klettert an Hochhäusern hoch und schlägt sie ein, bis alle Gebäude eines Bildschirms eingestürzt sind. Soldaten, Panzer und Hubschrauber setzen den Monstern zu; gefressene Menschen und Fundstücke füllen die Kraft wieder auf, Wasser und Stromleitungen schaden. Der Reiz liegt im gemeinsamen, chaotischen Zerstören zu zweit.\n\nFür den C64 gibt es zwei unterschiedliche Umsetzungen: eine europäische von Activision UK, bei der bis zu drei Spieler mit zwei Joysticks und Tastatur antreten, und eine US-Fassung von Monarch Development für höchstens zwei Spieler gleichzeitig. Gesteuert wird mit dem Joystick; Feuer mit Richtung schlägt zu, Feuer allein springt. Das Spiel erschien auf Kassette und Diskette, später auch bei The Hit Squad.\n\nCode und Grafik (US-Fassung): Robert Neve, Glyn Anderson",
+    "en": "In this conversion of Bally Midway's 1986 arcade game, the player controls one of three mutated giant monsters – George the gorilla, Ralph the werewolf or Lizzie the lizard – and reduces American cities to rubble. The monsters climb skyscrapers and smash them until every building on the screen has collapsed. Soldiers, tanks and helicopters fight back; eating people and found items restores energy, while water and power lines cause damage. The fun lies in chaotic destruction with a second player.\n\nThere are two different C64 conversions: a European one by Activision UK, in which up to three players take part using two joysticks and the keyboard, and a US version by Monarch Development for at most two simultaneous players. It is controlled by joystick; fire plus a direction punches, fire alone jumps. The game was released on tape and disk, later also by The Hit Squad.\n\nCode and graphics (US version): Robert Neve, Glyn Anderson"
+  }
+}

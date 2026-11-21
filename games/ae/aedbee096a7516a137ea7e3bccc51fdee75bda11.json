@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "aedbee096a7516a137ea7e3bccc51fdee75bda11",
+  "md5": "1388c4bc7b7f08b2b8650aebc11ffeaf",
+  "crc32": "82ef3dd4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "puukko.d64"
+  ],
+  "title": "Puukko – A Very Finnish Fight",
+  "year": "2026",
+  "publisher": "Henri Koskela",
+  "developer": "Henri Koskela",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Augenzwinkerndes Messerduell zweier betrunkener Finnen, allein gegen den Computer oder zu zweit. Man geht, duckt sich, blockt und sticht mit dem Puukko-Messer zu; dazu kommen ein Flaschenangriff und ein Lappen als Sonderaktion. Eine Runde dauert 99 Sekunden, wer keine Lebenspunkte mehr hat, verliert.\n\nJoystick: unten ducken, oben blocken, Feuer zustechen, Feuer+unten Flasche, Feuer+oben Lappen; P Pause.\n\nOriginal von GitHub, als D64.",
+  "texts": {
+    "de": "Augenzwinkerndes Messerduell zweier betrunkener Finnen, allein gegen den Computer oder zu zweit. Man geht, duckt sich, blockt und sticht mit dem Puukko-Messer zu; dazu kommen ein Flaschenangriff und ein Lappen als Sonderaktion. Eine Runde dauert 99 Sekunden, wer keine Lebenspunkte mehr hat, verliert.\n\nJoystick: unten ducken, oben blocken, Feuer zustechen, Feuer+unten Flasche, Feuer+oben Lappen; P Pause.\n\nOriginal von GitHub, als D64.",
+    "en": "Tongue-in-cheek knife duel between two drunken Finns, alone against the computer or with two players. You walk, crouch, block and stab with the puukko knife; there is also a bottle attack and a rag as a special move. A round lasts 99 seconds, and whoever runs out of hit points loses.\n\nJoystick: down crouches, up blocks, fire stabs, fire+down bottle, fire+up rag; P pauses.\n\nOriginal from GitHub, as a D64."
+  },
+  "images": {
+    "ss": "images/3d/3da6323403179a8d735c62a65167d4cd7dd58faa.png",
+    "sstitle": "images/26/2640e02de0cfac98c8479f493cd8d6eb5df030e9.png"
+  }
+}

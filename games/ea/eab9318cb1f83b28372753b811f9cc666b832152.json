@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "eab9318cb1f83b28372753b811f9cc666b832152",
+  "md5": "dbbf604b90ac33137b4a9b07a8a27b6d",
+  "crc32": "abe26ea1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "XENOMOR2.D64"
+  ],
+  "screenscraper_id": "109551",
+  "title": "Xenomorph",
+  "year": "1990",
+  "publisher": "Pandora",
+  "developer": "Pandora",
+  "genres": [
+    "Action / Abenteuer",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Xenomorph ist ein Science-Fiction-Abenteuer aus der Ich-Perspektive. Nach einer Notlandung auf einer verlassenen Bergbaustation muss der Spieler Gänge und Räume erkunden, Ausrüstung und Nahrung finden, Treibstoff für die Weiterreise beschaffen und sich gegen außerirdische Lebensformen wehren, die die Station überrannt haben. Die beklemmende Stimmung erinnert an die Alien-Filme; Elemente aus Rollenspiel und Rätsel verbinden sich mit Kämpfen in Echtzeit.\n\nDas Spiel entstand zuerst für Amiga und Atari ST; die C64-Fassung erschien bei Pandora auf mehreren Diskettenseiten und wird mit dem Joystick in Port 2 gesteuert.",
+  "texts": {
+    "de": "Xenomorph ist ein Science-Fiction-Abenteuer aus der Ich-Perspektive. Nach einer Notlandung auf einer verlassenen Bergbaustation muss der Spieler Gänge und Räume erkunden, Ausrüstung und Nahrung finden, Treibstoff für die Weiterreise beschaffen und sich gegen außerirdische Lebensformen wehren, die die Station überrannt haben. Die beklemmende Stimmung erinnert an die Alien-Filme; Elemente aus Rollenspiel und Rätsel verbinden sich mit Kämpfen in Echtzeit.\n\nDas Spiel entstand zuerst für Amiga und Atari ST; die C64-Fassung erschien bei Pandora auf mehreren Diskettenseiten und wird mit dem Joystick in Port 2 gesteuert.",
+    "en": "Xenomorph is a first-person science-fiction adventure. After an emergency landing on an abandoned mining station, the player has to explore corridors and rooms, find equipment and food, obtain fuel for the onward journey and fend off the alien life forms that have overrun the station. The oppressive atmosphere is reminiscent of the Alien films; role-playing and puzzle elements are combined with real-time combat.\n\nThe game was first made for the Amiga and Atari ST; the C64 version was published by Pandora on several disk sides and is played with a joystick in port 2."
+  },
+  "images": {
+    "ss": "images/fd/fd45eb901996f41c18c5acff21fff15625d91fb4.png",
+    "sstitle": "images/56/5664f136bd4e4e01c4414e3975124685ae22bab8.png"
+  }
+}

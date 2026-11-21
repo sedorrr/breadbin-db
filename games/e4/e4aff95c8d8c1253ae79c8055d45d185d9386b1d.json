@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "e4aff95c8d8c1253ae79c8055d45d185d9386b1d",
+  "md5": "177a02617f0021b0c0240431ae2214f3",
+  "crc32": "f9e20fe8",
+  "size": 8853,
+  "format": "PRG",
+  "files": [
+    "ai-retrofixer+.prg"
+  ],
+  "title": "RetroFixer and the Broken Console",
+  "year": "2026",
+  "publisher": "zeus074",
+  "developer": "zeus074",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Plattformspiel des italienischen Autors zeus074, im Original „RetroFixer e la Console Rotta“: Auf einem Bildschirm mit mehreren Ebenen sammelt die Figur RetroFixer Teile ein, um eine kaputte Spielkonsole zu reparieren, und weicht dabei Gegnern aus. Rechts zeigt eine Leiste Punkte, Bestwert, Leben, Level und den Fortschritt der Konsole.\n\nCrack-Fassung von AIliens vom 7. November 2026 (PRG, einzelne Datei) mit Intro und Trainer; laut Intro wurde das Spiel dabei aus dem Italienischen übersetzt. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Plattformspiel des italienischen Autors zeus074, im Original „RetroFixer e la Console Rotta“: Auf einem Bildschirm mit mehreren Ebenen sammelt die Figur RetroFixer Teile ein, um eine kaputte Spielkonsole zu reparieren, und weicht dabei Gegnern aus. Rechts zeigt eine Leiste Punkte, Bestwert, Leben, Level und den Fortschritt der Konsole.\n\nCrack-Fassung von AIliens vom 7. November 2026 (PRG, einzelne Datei) mit Intro und Trainer; laut Intro wurde das Spiel dabei aus dem Italienischen übersetzt. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Platform game by the Italian author zeus074, originally titled \"RetroFixer e la Console Rotta\": on a single screen with several levels, the character RetroFixer collects parts to repair a broken games console while avoiding enemies. A bar on the right shows score, high score, lives, level and the console's progress.\n\nCrack by AIliens from 7 November 2026 (PRG, single file) with intro and trainer; according to the intro the game was translated from Italian for this release. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/b0/b0a4f892ec5dc59f23ce770caacf0259d9944286.png"
+  }
+}

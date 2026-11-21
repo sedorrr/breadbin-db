@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "a7e2c84393f28e62d62cfe3c1f54cfe7d22e29af",
+  "md5": "c5cdb63efa0e8b93aa83f9342ff3bffa",
+  "crc32": "fd618af7",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Heroes_of_Sokoban_+1PD_LAXITY.d64"
+  ],
+  "title": "Heroes of Sokoban +1PD",
+  "year": "2026",
+  "publisher": "Emanuele Feronato",
+  "developer": "Emanuele Feronato",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Kistenschiebe-Puzzle nach dem gleichnamigen PuzzleScript-Spiel von Jonah Ostroff. Drei Helden müssen gemeinsam die Ausgänge erreichen, wobei jeder von ihnen Kisten auf eine andere Weise bewegen kann. Enthalten sind alle 22 Level des Vorbilds; neu ist ein Levelcode-System, mit dem sich der Fortschritt fortsetzen lässt.\n\nSteuerung mit den Cursortasten.\n\nCrack-Fassung von Laxity (O'Dog) vom 2. November 2026 (D64) mit Intro, einer Trainer-Option (Level überspringen mit C=), Doku und Levelcodes. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Kistenschiebe-Puzzle nach dem gleichnamigen PuzzleScript-Spiel von Jonah Ostroff. Drei Helden müssen gemeinsam die Ausgänge erreichen, wobei jeder von ihnen Kisten auf eine andere Weise bewegen kann. Enthalten sind alle 22 Level des Vorbilds; neu ist ein Levelcode-System, mit dem sich der Fortschritt fortsetzen lässt.\n\nSteuerung mit den Cursortasten.\n\nCrack-Fassung von Laxity (O'Dog) vom 2. November 2026 (D64) mit Intro, einer Trainer-Option (Level überspringen mit C=), Doku und Levelcodes. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Box-pushing puzzle based on Jonah Ostroff's PuzzleScript game of the same name. Three heroes have to reach the exits together, and each of them moves crates in a different way. All 22 levels of the original are included; new is a level code system that lets players resume their progress.\n\nControlled with the cursor keys.\n\nCrack by Laxity (O'Dog) from 2 November 2026 (D64) with intro, one trainer option (skip level with C=), docs and level codes. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/fc/fc76423a49a3168dec85b629ed2162e637f78188.png"
+  }
+}

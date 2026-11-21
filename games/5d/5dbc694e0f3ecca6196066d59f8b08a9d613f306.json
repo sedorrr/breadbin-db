@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "5dbc694e0f3ecca6196066d59f8b08a9d613f306",
+  "md5": "e637113dbead8b113b0f1becd78bd9b2",
+  "crc32": "3e1e889d",
+  "size": 564071,
+  "format": "TAP",
+  "files": [
+    "Castle Master II - The Crypt.tap"
+  ],
+  "screenscraper_id": "111005",
+  "title": "Castle Master II: The Crypt",
+  "year": "1990",
+  "publisher": "Incentive Software",
+  "developer": "Incentive Software",
+  "genres": [
+    "Abenteuer / Grafik",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Castle Master mit der Freescape-3D-Technik: Der Held erkundet die Gewölbe unter der Burg in Ich-Perspektive, um den bösen Geist Magister endgültig zu besiegen. Räume, Gänge und Gegenstände sind als gefüllte Vektorgrafik frei begehbar; Rätsel, Schalter und Schlüssel bestimmen den Fortschritt, Geister müssen mit Steinen abgewehrt werden. Wie alle Freescape-Spiele bietet es für 8-Bit-Rechner ungewöhnlich frei erkundbare 3D-Welten.\n\nZuerst im Doppelpack mit Castle Master über einen Buchclub erschienen, danach einzeln bei Domark (1990/91) auf Kassette und Diskette. Gesteuert wird mit Joystick in Port 2 und Tastatur. Es gibt auch eine OneLoad64-Modulumsetzung.\n\nEntwicklung: Incentive Software · Musik: Matt Furniss",
+  "texts": {
+    "de": "Fortsetzung von Castle Master mit der Freescape-3D-Technik: Der Held erkundet die Gewölbe unter der Burg in Ich-Perspektive, um den bösen Geist Magister endgültig zu besiegen. Räume, Gänge und Gegenstände sind als gefüllte Vektorgrafik frei begehbar; Rätsel, Schalter und Schlüssel bestimmen den Fortschritt, Geister müssen mit Steinen abgewehrt werden. Wie alle Freescape-Spiele bietet es für 8-Bit-Rechner ungewöhnlich frei erkundbare 3D-Welten.\n\nZuerst im Doppelpack mit Castle Master über einen Buchclub erschienen, danach einzeln bei Domark (1990/91) auf Kassette und Diskette. Gesteuert wird mit Joystick in Port 2 und Tastatur. Es gibt auch eine OneLoad64-Modulumsetzung.\n\nEntwicklung: Incentive Software · Musik: Matt Furniss",
+    "en": "Sequel to Castle Master using the Freescape 3D engine: the hero explores the vaults beneath the castle in first-person view to defeat the evil spirit Magister for good. Rooms, corridors and objects are drawn as solid vector graphics and can be explored freely; puzzles, switches and keys determine progress, and ghosts must be fended off with stones. Like all Freescape games it offers 3D worlds that were unusually open for 8-bit computers.\n\nIt first appeared in a double pack with Castle Master through a book club, then separately from Domark (1990/91) on tape and disk. It is controlled with a joystick in port 2 and the keyboard. There is also a OneLoad64 cartridge conversion.\n\nDevelopment: Incentive Software · Music: Matt Furniss"
+  },
+  "images": {
+    "ss": "images/6b/6b517e31ed0c6df8cb39929df93d5730dc518b5a.png",
+    "sstitle": "images/36/368ed4b967bcfedd5852b3be03bed59190d58c55.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "351c7749b3c1192ae86650e54ca69706d5cc2fc9",
+  "md5": "a13ba407a4f72fa4ebe41c320fded30e",
+  "crc32": "74f6ccd1",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Blasteroids.crt"
+  ],
+  "screenscraper_id": "36815",
+  "title": "Blasteroids",
+  "year": "1989",
+  "publisher": "Image Works",
+  "developer": "Teque Software",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Blasteroids ist die Umsetzung des Atari-Automaten von 1987, einer Weiterentwicklung von Asteroids. Das Raumschiff zerschießt in einzelnen Sektoren Asteroiden, die in kleinere Brocken zerfallen, und kann sich jederzeit in drei Formen verwandeln: schnell, kampfstark oder schwer gepanzert. Zerstörte Asteroiden hinterlassen Kristalle und Zusatzwaffen, am Ende wartet der Gegner Mukor. Gegenüber dem Vorbild bietet das Spiel damit mehr Abwechslung und eine Art Ausbaustufe für das Schiff.\n\nDie C64-Fassung erschien 1989 bei Image Works (Mirrorsoft) auf Diskette und Kassette, umgesetzt von Teque Software. Gesteuert wird mit dem Joystick in Port 2. Eine OneLoad64-Modulumsetzung ist verbreitet.\n\nMusik: Ben Daglish",
+  "texts": {
+    "de": "Blasteroids ist die Umsetzung des Atari-Automaten von 1987, einer Weiterentwicklung von Asteroids. Das Raumschiff zerschießt in einzelnen Sektoren Asteroiden, die in kleinere Brocken zerfallen, und kann sich jederzeit in drei Formen verwandeln: schnell, kampfstark oder schwer gepanzert. Zerstörte Asteroiden hinterlassen Kristalle und Zusatzwaffen, am Ende wartet der Gegner Mukor. Gegenüber dem Vorbild bietet das Spiel damit mehr Abwechslung und eine Art Ausbaustufe für das Schiff.\n\nDie C64-Fassung erschien 1989 bei Image Works (Mirrorsoft) auf Diskette und Kassette, umgesetzt von Teque Software. Gesteuert wird mit dem Joystick in Port 2. Eine OneLoad64-Modulumsetzung ist verbreitet.\n\nMusik: Ben Daglish",
+    "en": "Blasteroids is the conversion of Atari's 1987 arcade game, a follow-up to Asteroids. In separate sectors the ship shoots asteroids that break into smaller chunks, and it can switch at any time between three forms: fast, heavily armed or heavily armoured. Destroyed asteroids leave crystals and extra weapons behind, and the enemy Mukor waits at the end. Compared with its predecessor the game offers more variety and a kind of upgrade path for the ship.\n\nThe C64 version was released in 1989 by Image Works (Mirrorsoft) on disk and cassette, converted by Teque Software. It is played with a joystick in port 2. A OneLoad64 cartridge conversion is common.\n\nMusic: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/e2/e2c3e53c4d5b4970cd3e9ae89eedf44a9dd1cd1b.png",
+    "sstitle": "images/5e/5ee83016b44e4405987ad3999eecdf0c07ef19c4.png"
+  }
+}

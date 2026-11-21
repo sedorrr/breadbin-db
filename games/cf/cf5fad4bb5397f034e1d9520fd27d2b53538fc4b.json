@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "cf5fad4bb5397f034e1d9520fd27d2b53538fc4b",
+  "md5": "362ffda115b56dcf2415bdfed5c5a24d",
+  "crc32": "0b4cc9d3",
+  "size": 49985,
+  "format": "PRG",
+  "files": [
+    "sword-odyssey.prg"
+  ],
+  "title": "Sword Odyssey",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Seitlich gesehenes Schwertkampf-Actionspiel von Tansoft: Ein Held mit Schwert kämpft sich durch Level (1-1 usw.) mit Plattformen und Gegnern; die Level werden mit Aufforderungen wie „Smash them all“ eingeleitet. Das Titelbild zeigt den Helden vor einer Burg mit Rakete und Planet. Laut itch.io-Seite für C64 und C128 gedacht.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+  "texts": {
+    "de": "Seitlich gesehenes Schwertkampf-Actionspiel von Tansoft: Ein Held mit Schwert kämpft sich durch Level (1-1 usw.) mit Plattformen und Gegnern; die Level werden mit Aufforderungen wie „Smash them all“ eingeleitet. Das Titelbild zeigt den Helden vor einer Burg mit Rakete und Planet. Laut itch.io-Seite für C64 und C128 gedacht.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+    "en": "Side-on sword-fighting action game by Tansoft: a sword-wielding hero fights through levels (1-1 and so on) with platforms and enemies; levels are introduced with prompts such as \"Smash them all\". The title screen shows the hero in front of a castle with a rocket and a planet. According to the itch.io page it is meant for the C64 and C128.\n\nOriginal from Tansoft's itch.io page, as D64 and PRG."
+  },
+  "images": {
+    "ss": "images/a9/a9a34ba76bdb1b51cb69ff6e52fbb16ce73c37e4.png",
+    "sstitle": "images/0c/0c4b8e0e0ba48528fd03ee169e48bda2083b60dc.png"
+  }
+}

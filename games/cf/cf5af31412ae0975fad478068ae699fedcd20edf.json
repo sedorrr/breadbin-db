@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "cf5af31412ae0975fad478068ae699fedcd20edf",
+  "md5": "7d42aa47cb29af6e82421e5b61182072",
+  "crc32": "515911b1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "sid-chipsytip-and-the-muzzled-music.d64"
+  ],
+  "title": "Sid Chipsytip and the Muzzled Music",
+  "year": "2026",
+  "publisher": "Vesa Heikkinen",
+  "developer": "Vesa Heikkinen",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Farbenfrohes Jump 'n' Run: Im Gloomland haben die mürrischen Gloomies aller Musik einen Maulkorb verpasst, das Land ist grau und still geworden. Das pelzige Musikwesen Sid Chipsytip läuft, springt und stampft durch 24 Level in acht Welten (Clover Country, Sunny Sands, Starry Peaks, Fire Mountain, Candy Clouds, Jungle Jive, Firefly Forest, Rainbow Castle). Wer genug Noten einsammelt, bringt Farbe und eine fröhlichere Melodie in die Welt zurück; danach muss vor Ablauf der Zeit die Zielflagge erreicht werden – wobei nicht jede Flagge echt ist.\n\nWer von Gloomie zu Gloomie springt, bekommt steigende Kombopunkte (50 bis 800), besiegte Gegner hinterlassen manchmal Extras. Schneeflocke (friert alle Gegner ein), Blase (Schutz) und Blitz (Sid wirft Zaps) als Extras, dazu Herzen für Extraleben, Sterne, Notenblöcke, bröckelnde Plattformen, Eis, versteckte Bonushöhlen. Für jede geschaffte Welt gibt es ein Passwort; ein „Low Flash“-Modus schaltet blinkende Farben und bewegte Hintergründe ab. Eigene SID-Musik: Titelmelodie sowie je eine düstere und eine fröhliche Melodie pro Welt.\n\nJoystick in Port 2 (Feuer oder hoch springt, länger halten springt höher; P oder RUN/STOP pausiert). Titelbild: Feuer startet, P Passwort, S Geschichte, Leertaste Credits, F Low Flash.\n\nOriginal als D64 und PRG (frei weitergebbar, nicht verkäuflich).\n\nCode, Grafik, Musik: Vesa Heikkinen",
+  "texts": {
+    "de": "Farbenfrohes Jump 'n' Run: Im Gloomland haben die mürrischen Gloomies aller Musik einen Maulkorb verpasst, das Land ist grau und still geworden. Das pelzige Musikwesen Sid Chipsytip läuft, springt und stampft durch 24 Level in acht Welten (Clover Country, Sunny Sands, Starry Peaks, Fire Mountain, Candy Clouds, Jungle Jive, Firefly Forest, Rainbow Castle). Wer genug Noten einsammelt, bringt Farbe und eine fröhlichere Melodie in die Welt zurück; danach muss vor Ablauf der Zeit die Zielflagge erreicht werden – wobei nicht jede Flagge echt ist.\n\nWer von Gloomie zu Gloomie springt, bekommt steigende Kombopunkte (50 bis 800), besiegte Gegner hinterlassen manchmal Extras. Schneeflocke (friert alle Gegner ein), Blase (Schutz) und Blitz (Sid wirft Zaps) als Extras, dazu Herzen für Extraleben, Sterne, Notenblöcke, bröckelnde Plattformen, Eis, versteckte Bonushöhlen. Für jede geschaffte Welt gibt es ein Passwort; ein „Low Flash“-Modus schaltet blinkende Farben und bewegte Hintergründe ab. Eigene SID-Musik: Titelmelodie sowie je eine düstere und eine fröhliche Melodie pro Welt.\n\nJoystick in Port 2 (Feuer oder hoch springt, länger halten springt höher; P oder RUN/STOP pausiert). Titelbild: Feuer startet, P Passwort, S Geschichte, Leertaste Credits, F Low Flash.\n\nOriginal als D64 und PRG (frei weitergebbar, nicht verkäuflich).\n\nCode, Grafik, Musik: Vesa Heikkinen",
+    "en": "Colourful platformer: in Gloomland the grumpy Gloomies have muzzled all the music, and the land has turned grey and silent. The fuzzy music lover Sid Chipsytip runs, jumps and stomps through 24 levels in eight worlds (Clover Country, Sunny Sands, Starry Peaks, Fire Mountain, Candy Clouds, Jungle Jive, Firefly Forest, Rainbow Castle). Collecting enough notes brings colour and a happier tune back to the world; then the exit flag has to be reached before time runs out – though not every flag is real.\n\nBouncing from Gloomie to Gloomie earns rising combo points (50 to 800), and defeated enemies sometimes leave a bonus. Power-ups are the snowflake (freezes all enemies), the bubble (protection) and the flash (Sid throws zaps), plus hearts for extra lives, stars, note boxes, crumbling platforms, ice and hidden bonus caves. Each completed world gives a password; a \"Low Flash\" mode turns off flashing colours and moving backgrounds. Original SID music: a title tune plus a gloomy and a happy tune for every world.\n\nJoystick in port 2 (fire or up jumps, hold for a higher jump; P or RUN/STOP pauses). On the title screen: fire starts, P password, S story, space credits, F Low Flash.\n\nOriginal as D64 and PRG (free to share, not for sale).\n\nCode, graphics, music: Vesa Heikkinen"
+  },
+  "images": {
+    "ss": "images/0e/0e4cf32b91a16d75435814c809af116d30f4cfdc.png",
+    "sstitle": "images/dc/dc1e85dfef341e203321986f1f82a410947452cf.png"
+  }
+}

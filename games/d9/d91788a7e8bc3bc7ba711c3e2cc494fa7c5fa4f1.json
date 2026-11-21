@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "d91788a7e8bc3bc7ba711c3e2cc494fa7c5fa4f1",
+  "md5": "9ac09d5790327b58fd74832e7fcf4645",
+  "crc32": "d58545ce",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LORDOTR0.D64"
+  ],
+  "screenscraper_id": "112019",
+  "title": "Lord of the Rings: Game One",
+  "year": "1985",
+  "publisher": "Melbourne House",
+  "developer": "Beam Software",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Das Textabenteuer nach dem ersten Band von Tolkiens „Der Herr der Ringe“ begleitet Frodo und seine Gefährten vom Auenland bis zum Aufbruch der Gemeinschaft. Wie beim Vorgänger The Hobbit gibt man Befehle in natürlicher Sprache ein; weitere Figuren handeln eigenständig, und man kann zwischen den Hobbits wechseln. Das Spiel ist in zwei Teile gegliedert, dazu kommt ein Einsteigerabschnitt. Ausgewählte Orte werden mit Bildern gezeigt.\n\nDas Spiel erschien auf Diskette und Kassette mit dem Roman als Beigabe; in Nordamerika hieß es „The Fellowship of the Ring“ – es handelt sich um dasselbe Spiel. Gesteuert wird ausschließlich über die Tastatur. Fortgesetzt wurde die Reihe mit Shadows of Mordor.\n\nSpielidee: Philip Mitchell",
+  "texts": {
+    "de": "Das Textabenteuer nach dem ersten Band von Tolkiens „Der Herr der Ringe“ begleitet Frodo und seine Gefährten vom Auenland bis zum Aufbruch der Gemeinschaft. Wie beim Vorgänger The Hobbit gibt man Befehle in natürlicher Sprache ein; weitere Figuren handeln eigenständig, und man kann zwischen den Hobbits wechseln. Das Spiel ist in zwei Teile gegliedert, dazu kommt ein Einsteigerabschnitt. Ausgewählte Orte werden mit Bildern gezeigt.\n\nDas Spiel erschien auf Diskette und Kassette mit dem Roman als Beigabe; in Nordamerika hieß es „The Fellowship of the Ring“ – es handelt sich um dasselbe Spiel. Gesteuert wird ausschließlich über die Tastatur. Fortgesetzt wurde die Reihe mit Shadows of Mordor.\n\nSpielidee: Philip Mitchell",
+    "en": "This text adventure based on the first volume of Tolkien's The Lord of the Rings follows Frodo and his companions from the Shire to the setting out of the Fellowship. As in its predecessor The Hobbit, commands are entered in natural language; other characters act independently, and the player can switch between the hobbits. The game is split into two parts, plus a beginner's section. Selected locations are illustrated.\n\nThe game was released on disk and tape with the novel included; in North America it was called \"The Fellowship of the Ring\" – it is the same game. It is played entirely with the keyboard. The series continued with Shadows of Mordor.\n\nDesign: Philip Mitchell"
+  }
+}

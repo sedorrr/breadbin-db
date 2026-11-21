@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "4c427425249f5aa5c866e834628b3505636278d0",
+  "md5": "01bdfcacb7f73c546559768f2b339f2e",
+  "crc32": "98c4cf53",
+  "size": 24561,
+  "format": "PRG",
+  "files": [
+    "CYBERPATROL.prg"
+  ],
+  "title": "Cyber Patrol",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Fahr-und-Schieß-Spiel von Tansoft: Ein Geländewagen rollt über die Oberfläche des Mars, springt über Hindernisse und schießt Gegner in der Luft und am Boden ab; danach folgen weitere Planeten. Neben dem Sprung gibt es einen Schutzschild, Dauerfeuer sowie Dreifachschuss und Raketen. Drei Schwierigkeitsstufen (leicht, normal, ultra), sechs Leben in der normalen Stufe.\n\nGesteuert wird mit dem Joystick in Port 2 oder der Tastatur (W springen, A/D links/rechts, Leertaste Feuer, R Rakete, S Schild, F Dauerfeuer).\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+  "texts": {
+    "de": "Fahr-und-Schieß-Spiel von Tansoft: Ein Geländewagen rollt über die Oberfläche des Mars, springt über Hindernisse und schießt Gegner in der Luft und am Boden ab; danach folgen weitere Planeten. Neben dem Sprung gibt es einen Schutzschild, Dauerfeuer sowie Dreifachschuss und Raketen. Drei Schwierigkeitsstufen (leicht, normal, ultra), sechs Leben in der normalen Stufe.\n\nGesteuert wird mit dem Joystick in Port 2 oder der Tastatur (W springen, A/D links/rechts, Leertaste Feuer, R Rakete, S Schild, F Dauerfeuer).\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+    "en": "Drive-and-shoot game by Tansoft: a buggy rolls across the surface of Mars, jumps over obstacles and shoots enemies in the air and on the ground, with further planets to follow. Besides jumping there is a shield, autofire, a three-way shot and rockets. Three difficulty levels (easy, normal, ultra), six lives on normal.\n\nControls: joystick in port 2 or keyboard (W jump, A/D left/right, space fire, R rocket, S shield, F autofire).\n\nOriginal from Tansoft's itch.io page, as D64 and PRG."
+  },
+  "images": {
+    "ss": "images/b1/b12dc1292e5b11e630b34f84faaed34cd702452f.png",
+    "sstitle": "images/59/5919687aa41c8fdc33153a68e8aaf27894fb7534.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "8e7f8bab328a4b175958608279a2014914b95ca8",
+  "md5": "f924887e29c29a7ef1a0f71e9f7dd7bf",
+  "crc32": "3d927e07",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WELLTRIS.D64"
+  ],
+  "screenscraper_id": "110067",
+  "title": "Welltris",
+  "year": "1991",
+  "publisher": "Infogrames",
+  "developer": "Infogrames",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Welltris ist der Nachfolger von Tetris, erdacht von Alexey Pajitnov und Andrei Sgenov. Die Steine fallen hier nicht in einen flachen Schacht, sondern rutschen an den vier Wänden eines Brunnens nach unten, der von oben betrachtet wird, und müssen auf dem Boden zu vollständigen Reihen gelegt werden. Vollständige Reihen verschwinden; ragt ein Stein über den Rand, wird die betreffende Wand für eine Weile gesperrt. Das Denken in vier Richtungen macht das Spiel deutlich anspruchsvoller als das Vorbild.\n\nDas Original erschien 1989; die C64-Fassung brachte Infogrames 1991 auf Diskette heraus. Gesteuert wird mit dem Joystick in Port 2, Bestenlisten werden gespeichert.\n\nSpielidee: Alexey Pajitnov, Andrei Sgenov",
+  "texts": {
+    "de": "Welltris ist der Nachfolger von Tetris, erdacht von Alexey Pajitnov und Andrei Sgenov. Die Steine fallen hier nicht in einen flachen Schacht, sondern rutschen an den vier Wänden eines Brunnens nach unten, der von oben betrachtet wird, und müssen auf dem Boden zu vollständigen Reihen gelegt werden. Vollständige Reihen verschwinden; ragt ein Stein über den Rand, wird die betreffende Wand für eine Weile gesperrt. Das Denken in vier Richtungen macht das Spiel deutlich anspruchsvoller als das Vorbild.\n\nDas Original erschien 1989; die C64-Fassung brachte Infogrames 1991 auf Diskette heraus. Gesteuert wird mit dem Joystick in Port 2, Bestenlisten werden gespeichert.\n\nSpielidee: Alexey Pajitnov, Andrei Sgenov",
+    "en": "Welltris is the follow-up to Tetris, devised by Alexey Pajitnov and Andrei Sgenov. Instead of falling into a flat pit, the pieces slide down the four walls of a well seen from above and have to be laid into complete rows on the floor. Completed rows disappear; if a piece sticks out over the edge, that wall is blocked for a while. Thinking in four directions makes the game considerably more demanding than its predecessor.\n\nThe original appeared in 1989; Infogrames released the C64 version on disk in 1991. It is played with a joystick in port 2, and high scores are saved.\n\nGame design: Alexey Pajitnov, Andrei Sgenov"
+  }
+}

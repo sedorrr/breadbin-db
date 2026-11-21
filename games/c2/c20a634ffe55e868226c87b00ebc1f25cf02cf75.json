@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c20a634ffe55e868226c87b00ebc1f25cf02cf75",
+  "md5": "7baf575f62c13a0b9f635ebc21b0e105",
+  "crc32": "ef11cfff",
+  "size": 23846,
+  "format": "T64",
+  "files": [
+    "ZAXXON4.T64"
+  ],
+  "screenscraper_id": "502838",
+  "title": "Zaxxon",
+  "year": "1984",
+  "publisher": "Sega",
+  "developer": "Sega",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Sega-Automaten, eines der ersten Spiele mit schräg-isometrischer Perspektive: Ein Raumjäger fliegt über eine feindliche Festung, weicht Kraftfeldmauern aus, zerstört Geschütze und Treibstofftanks und trifft am Ende auf den Roboter Zaxxon. Die Flughöhe wird über einen Höhenmesser und den Schatten des Schiffs eingeschätzt, was das Zielen zur besonderen Herausforderung macht. Zwischen den Festungen folgt ein Weltraumabschnitt mit Luftkämpfen.\n\nAuf dem C64 erschien Zaxxon 1984 in mehreren Ausgaben: als Diskette/Kassette von Synapse bzw. U.S. Gold und als Modul von Sega. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler spielen abwechselnd. Szenefassungen beruhen auf dem Modul.\n\nVorlage: Sega",
+  "texts": {
+    "de": "Umsetzung des Sega-Automaten, eines der ersten Spiele mit schräg-isometrischer Perspektive: Ein Raumjäger fliegt über eine feindliche Festung, weicht Kraftfeldmauern aus, zerstört Geschütze und Treibstofftanks und trifft am Ende auf den Roboter Zaxxon. Die Flughöhe wird über einen Höhenmesser und den Schatten des Schiffs eingeschätzt, was das Zielen zur besonderen Herausforderung macht. Zwischen den Festungen folgt ein Weltraumabschnitt mit Luftkämpfen.\n\nAuf dem C64 erschien Zaxxon 1984 in mehreren Ausgaben: als Diskette/Kassette von Synapse bzw. U.S. Gold und als Modul von Sega. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler spielen abwechselnd. Szenefassungen beruhen auf dem Modul.\n\nVorlage: Sega",
+    "en": "Conversion of Sega's arcade game, one of the first to use an oblique isometric view: a space fighter flies over an enemy fortress, dodges force-field walls, destroys gun emplacements and fuel tanks and finally faces the robot Zaxxon. Altitude is judged from an altimeter and the ship's shadow, which makes aiming a particular challenge. Between the fortresses there is a space section with dogfights.\n\nOn the C64 Zaxxon appeared in 1984 in several editions: on disk/tape from Synapse or U.S. Gold and as a cartridge from Sega. It is controlled with a joystick in port 2; two players take turns. Scene versions are based on the cartridge.\n\nOriginal: Sega"
+  },
+  "images": {
+    "ss": "images/7b/7b50af1e6d94d213b81461f93e34d7f0a2e191d8.png"
+  }
+}

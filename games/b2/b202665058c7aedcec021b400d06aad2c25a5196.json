@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "b202665058c7aedcec021b400d06aad2c25a5196",
+  "md5": "fc61e79ab91f091b40e17327ef42edf8",
+  "crc32": "20687e23",
+  "size": 21229,
+  "format": "PRG",
+  "files": [
+    "ai-shortfuse+.prg"
+  ],
+  "title": "Short Fuse +4",
+  "year": "2026",
+  "publisher": "Orbit Leisure",
+  "developer": "Orbit Leisure",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Ein Bombenräumspiel nach dem Minesweeper-Prinzip, verpackt als augenzwinkernde Parodie auf Filmumsetzungen der Achtzigerjahre. Als Inspektor Frank Stone von Scotland Yard deckt man ein Feld aus Quadraten auf; jede aufgedeckte Zahl verrät, wie viele Bomben angrenzen. Verdächtige Felder lassen sich markieren, dazu gibt es einen Scanner und Freispiele, zwischen den Runden kommentieren Zeitungsschlagzeilen den Fall des „Mad Bomber“ quer durch London.\n\nVon Orbit Leisure. Steuerung per Joystick, mit Q/A/O/P oder Cursortasten; Feuer bzw. Leertaste deckt auf.\n\nCrack-Fassung von AIliens vom 19. November 2026 (PRG) mit Intro und Trainer (u. a. Lebens-Cheat). Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Ein Bombenräumspiel nach dem Minesweeper-Prinzip, verpackt als augenzwinkernde Parodie auf Filmumsetzungen der Achtzigerjahre. Als Inspektor Frank Stone von Scotland Yard deckt man ein Feld aus Quadraten auf; jede aufgedeckte Zahl verrät, wie viele Bomben angrenzen. Verdächtige Felder lassen sich markieren, dazu gibt es einen Scanner und Freispiele, zwischen den Runden kommentieren Zeitungsschlagzeilen den Fall des „Mad Bomber“ quer durch London.\n\nVon Orbit Leisure. Steuerung per Joystick, mit Q/A/O/P oder Cursortasten; Feuer bzw. Leertaste deckt auf.\n\nCrack-Fassung von AIliens vom 19. November 2026 (PRG) mit Intro und Trainer (u. a. Lebens-Cheat). Das Original ist ebenfalls in der Datenbank.",
+    "en": "A bomb disposal game built on the Minesweeper principle, dressed up as a tongue-in-cheek parody of 1980s movie tie-ins. As Inspector Frank Stone of Scotland Yard you uncover a grid of squares; each number tells how many bombs are adjacent. Suspicious squares can be flagged, a scanner and free guesses help out, and between rounds newspaper headlines comment on the hunt for the \"Mad Bomber\" across London.\n\nBy Orbit Leisure. Controlled by joystick, Q/A/O/P or cursor keys; fire or space uncovers a square.\n\nCrack by AIliens from 19 November 2026 (PRG) with intro and trainer (including a lives cheat). The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/b8/b86d8b28c09cc54c56c7340a16c2ccfe6a5ae4f8.png",
+    "sstitle": "images/09/0986dd4ea030621c7e9a24b1b564e24a52bd3700.png"
+  }
+}

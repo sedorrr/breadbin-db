@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5332f7148c281f157dc144235c9174a44df65b1b",
+  "md5": "31b7d13bc38491d3a5f85a1483f602b6",
+  "crc32": "48a1c473",
+  "size": 6928,
+  "format": "PRG",
+  "files": [
+    "ai-westfallshow+.prg"
+  ],
+  "title": "Westfall Showdown",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Western-Schießspiel von Tansoft: Ein Revolverheld steht vor einer Wüstenkulisse mit Tafelbergen und Kakteen und schießt auf Banditen, die von allen Seiten auftauchen; Trefferpunkte (HP), Punktzahl und Levelanzeige stehen oben im Bild. Das Spiel spielt unter anderem in der Wüste von Arizona.\n\nCrack-Fassung von AIliens vom 5. November 2026 (PRG, einzelne Datei) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Western-Schießspiel von Tansoft: Ein Revolverheld steht vor einer Wüstenkulisse mit Tafelbergen und Kakteen und schießt auf Banditen, die von allen Seiten auftauchen; Trefferpunkte (HP), Punktzahl und Levelanzeige stehen oben im Bild. Das Spiel spielt unter anderem in der Wüste von Arizona.\n\nCrack-Fassung von AIliens vom 5. November 2026 (PRG, einzelne Datei) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Western shooting game by Tansoft: a gunslinger stands in front of a desert backdrop of mesas and cacti and shoots bandits who appear from all sides; hit points (HP), score and level are shown at the top. Among other places the game is set in the Arizona desert.\n\nCrack by AIliens from 5 November 2026 (PRG, single file) with intro and trainer. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/83/8367af1dedcd5b7b5aa2710c880348e6f6f7f7b6.png"
+  }
+}

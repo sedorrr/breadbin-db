@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e70552a306f6c86a4d1e8229b3ab15e6441a7683",
+  "md5": "e4b5c1973dc4e73a3d76e84654a027c7",
+  "crc32": "0d43af38",
+  "size": 28524,
+  "format": "PRG",
+  "files": [
+    "JungleSnakeJanet_EightBit.prg"
+  ],
+  "title": "Jungle Snake Janet",
+  "year": "2026",
+  "publisher": "supereightc64",
+  "developer": "supereightc64",
+  "genres": [
+    "Action",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Snake-Spiel im Dschungel: Die Schlange Janet frisst Früchte und wächst dabei; ein Zusammenstoß mit dem eigenen Körper oder einer Steinmauer ist tödlich. Sonderfrüchte bringen zum Beispiel ein Extraleben, verlangsamen das Tempo oder lassen die Schlange schrumpfen.\n\nEine Vorschaufassung war im April 2026 erschienen.\n\nOriginal von der itch.io-Seite des Autors, als PRG.",
+  "texts": {
+    "de": "Snake-Spiel im Dschungel: Die Schlange Janet frisst Früchte und wächst dabei; ein Zusammenstoß mit dem eigenen Körper oder einer Steinmauer ist tödlich. Sonderfrüchte bringen zum Beispiel ein Extraleben, verlangsamen das Tempo oder lassen die Schlange schrumpfen.\n\nEine Vorschaufassung war im April 2026 erschienen.\n\nOriginal von der itch.io-Seite des Autors, als PRG.",
+    "en": "Snake game set in the jungle: Janet the snake eats fruit and grows longer; colliding with her own body or a stone wall is fatal. Special fruits, for example, grant an extra life, slow the pace down or make the snake shrink.\n\nA preview had appeared in April 2026.\n\nOriginal from the author's itch.io page, as a PRG."
+  },
+  "images": {
+    "sstitle": "images/62/629ae57ec662c8a94c4b446a31b3032f9348b6c7.png"
+  }
+}

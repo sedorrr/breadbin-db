@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "03e8888e099174cbc00ec6f657fa1c2571d87190",
+  "md5": "9a233e630e433599499b9d2494791249",
+  "crc32": "dbbaff68",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Starfall +4D [Shadow].d64"
+  ],
+  "title": "Starfall +4D",
+  "year": "2026",
+  "publisher": "Ted Soft",
+  "developer": "technicianted",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Horizontal scrollendes Shoot'em Up in mehreren Stufen, die über verschiedene Welten führen – unter anderem einen tropischen Planeten, eine Unterwasserbasis, eine bio-organische Welt, den Hyperraum und einen Eisplaneten mit einer Kryo-Festung. Am Ende der Abschnitte warten Wächter und Rivalen.\n\nCrack-Fassung von Shadow (Stormfront) vom 13. November 2026 (D64) mit Intro, vier Trainer-Optionen und Doku; sie enthält die nach mehreren Fehlerbehebungen neueste Fassung des Spiels, dessen Erstveröffentlichung älter ist. Die Stufen werden einzeln von der Diskette nachgeladen. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Horizontal scrollendes Shoot'em Up in mehreren Stufen, die über verschiedene Welten führen – unter anderem einen tropischen Planeten, eine Unterwasserbasis, eine bio-organische Welt, den Hyperraum und einen Eisplaneten mit einer Kryo-Festung. Am Ende der Abschnitte warten Wächter und Rivalen.\n\nCrack-Fassung von Shadow (Stormfront) vom 13. November 2026 (D64) mit Intro, vier Trainer-Optionen und Doku; sie enthält die nach mehreren Fehlerbehebungen neueste Fassung des Spiels, dessen Erstveröffentlichung älter ist. Die Stufen werden einzeln von der Diskette nachgeladen. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Horizontally scrolling shoot'em up in several stages that lead across different worlds – among them a tropical planet, an underwater base, a bio-organic world, hyperspace and an ice planet with a cryo fortress. Guardians and rivals wait at the end of the stages.\n\nCrack by Shadow (Stormfront) from 13 November 2026 (D64) with intro, four trainer options and docs; it contains the latest version of the game after several bug fixes, while the first release is older. The stages are loaded from disk one by one. The original release is also in the database."
+  },
+  "images": {
+    "sstitle": "images/e8/e8f0277955688a09572aab022e1f531649f42834.png"
+  }
+}

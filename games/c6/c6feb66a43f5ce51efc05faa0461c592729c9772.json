@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c6feb66a43f5ce51efc05faa0461c592729c9772",
+  "md5": "4d3f81a6b55ea8ceaebec9a0d7b9c115",
+  "crc32": "01abca82",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Void Striker+(AI).d64"
+  ],
+  "title": "Void Striker",
+  "year": "2026",
+  "publisher": "Laimer",
+  "developer": "Laimer",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Einfaches Weltraum-Ballerspiel: Das eigene Schiff bewegt sich am linken Bildrand nur auf und ab und schießt auf heranfliegende Gegner. Punkte, Bestwert, Level und Leben stehen in einer Leiste rechts; der Schwierigkeitsgrad ist im Titelmenü wählbar.\n\nJoystick in Port 2 (hoch/runter, Feuer). Weitere Angaben zum Spielablauf liegen nicht vor.\n\nCrack-Fassung von Aldi Industries vom 8. November 2026 (D64) mit Intro, Trainer (endlose Schiffe) und scherzhafter Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Einfaches Weltraum-Ballerspiel: Das eigene Schiff bewegt sich am linken Bildrand nur auf und ab und schießt auf heranfliegende Gegner. Punkte, Bestwert, Level und Leben stehen in einer Leiste rechts; der Schwierigkeitsgrad ist im Titelmenü wählbar.\n\nJoystick in Port 2 (hoch/runter, Feuer). Weitere Angaben zum Spielablauf liegen nicht vor.\n\nCrack-Fassung von Aldi Industries vom 8. November 2026 (D64) mit Intro, Trainer (endlose Schiffe) und scherzhafter Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Simple space shooter: your ship only moves up and down along the left edge of the screen and fires at approaching enemies. Score, high score, level and lives are shown in a panel on the right; the difficulty can be chosen in the title menu.\n\nJoystick in port 2 (up/down, fire). No further details on the gameplay are available.\n\nCrack by Aldi Industries from 8 November 2026 (D64) with intro, trainer (endless ships) and joke docs. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/28/28a46934ac889dac9c7905d841ed7e595ce47a2e.png",
+    "sstitle": "images/b8/b8af4e4f4aa7ba938d70c0f2316c27272e405793.png"
+  }
+}

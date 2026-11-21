@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "e0605d6ded7bd7e9c4b07aadd922b8c4b894ecc7",
+  "md5": "cabd3f7aa0d1f2abea5b01ebb0d62e42",
+  "crc32": "934ab673",
+  "size": 33065,
+  "format": "T64",
+  "files": [
+    "TRAILBL3.T64"
+  ],
+  "screenscraper_id": "110283",
+  "title": "Cosmic Causeway: Trailblazer II",
+  "year": "1987",
+  "publisher": "Gremlin Graphics",
+  "developer": "Shaun Southern (Mr. Chip Software)",
+  "genres": [
+    "Geschicklichkeit",
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Die Fortsetzung von Trailblazer lässt eine Kugel über eine schwebende Fahrbahn aus farbigen Feldern rollen, die in Pseudo-3D auf den Spieler zukommt. Jede Farbe hat eine Wirkung: Löcher verschlucken die Kugel, andere Felder bremsen, beschleunigen, lassen springen oder kehren die Steuerung um. Auf den 24 Strecken läuft eine Zeitvorgabe, eingesammelte Punkte lassen sich vor dem nächsten Abschnitt gegen Hilfen wie Schutzschild oder Fahrt an der Decke eintauschen. Neu gegenüber dem Vorgänger sind Gegner, die man abschießt, Tunnel und Kämpfe gegen einen Drachen am Ende mancher Abschnitte.\n\nDas Spiel erschien für den C64 auf Kassette und Diskette; im Umlauf sind außerdem Cracks und Modulumsetzungen, etwa für OneLoad64. Anders als Trailblazer gibt es keinen geteilten Bildschirm für zwei Spieler, dafür eine bildschirmfüllende Ansicht. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Shaun Southern · Grafik: Andrew Morris · Musik: Shaun Southern",
+  "texts": {
+    "de": "Die Fortsetzung von Trailblazer lässt eine Kugel über eine schwebende Fahrbahn aus farbigen Feldern rollen, die in Pseudo-3D auf den Spieler zukommt. Jede Farbe hat eine Wirkung: Löcher verschlucken die Kugel, andere Felder bremsen, beschleunigen, lassen springen oder kehren die Steuerung um. Auf den 24 Strecken läuft eine Zeitvorgabe, eingesammelte Punkte lassen sich vor dem nächsten Abschnitt gegen Hilfen wie Schutzschild oder Fahrt an der Decke eintauschen. Neu gegenüber dem Vorgänger sind Gegner, die man abschießt, Tunnel und Kämpfe gegen einen Drachen am Ende mancher Abschnitte.\n\nDas Spiel erschien für den C64 auf Kassette und Diskette; im Umlauf sind außerdem Cracks und Modulumsetzungen, etwa für OneLoad64. Anders als Trailblazer gibt es keinen geteilten Bildschirm für zwei Spieler, dafür eine bildschirmfüllende Ansicht. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Shaun Southern · Grafik: Andrew Morris · Musik: Shaun Southern",
+    "en": "The sequel to Trailblazer rolls a ball along a floating track of coloured tiles that rushes towards the player in pseudo-3D. Each colour does something different: holes swallow the ball, other tiles slow it down, speed it up, make it jump or reverse the controls. Each of the 24 tracks runs against the clock, and collected credits can be spent before the next stage on aids such as a shield or rolling along the ceiling. New compared to its predecessor are enemies to shoot, tunnels and dragon battles at the end of some stages.\n\nThe game was released for the C64 on tape and disk; cracks and cartridge conversions, for example for OneLoad64, are also in circulation. Unlike Trailblazer there is no split-screen two-player mode; instead the view fills the whole screen. It is controlled with a joystick in port 1.\n\nCode: Shaun Southern · Graphics: Andrew Morris · Music: Shaun Southern"
+  }
+}

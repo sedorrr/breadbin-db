@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "346a2abb106a833fb8f617430591ec4318520764",
+  "md5": "de46fca22aec333826e5452ef3fde814",
+  "crc32": "5562ecf9",
+  "size": 164224,
+  "format": "CRT",
+  "files": [
+    "Gauntlet - Deeper Dungeons (p1).crt",
+    "Gauntlet - Deeper Dungeons [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35909",
+  "title": "Gauntlet: The Deeper Dungeons",
+  "year": "1987",
+  "publisher": "U.S. Gold",
+  "developer": "Gremlin Graphics",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1-2",
+  "synopsis": "Die Erweiterung zu Gauntlet bringt ausschließlich neue Verliese: 512 zusätzliche Level, durch die sich Krieger, Walküre, Zauberer und Elf wie gewohnt kämpfen. Man sucht den Ausgang, sammelt Nahrung, Schlüssel und Tränke und zerstört die Erzeuger, aus denen ständig Geister, Dämonen und andere Gegner strömen. Zu zweit spielt man gleichzeitig und muss sich Essen und Schätze teilen. Neue Spielelemente gibt es nicht, der Reiz liegt in der Menge der Labyrinthe.\n\nUrsprünglich war die Erweiterung eine Datendiskette bzw. -kassette, die das Originalspiel Gauntlet voraussetzte; spätere EasyFlash-Umsetzungen enthalten das nötige Hauptprogramm, sodass sie allein starten. Gesteuert wird mit dem Joystick, zu zweit mit zwei Joysticks. In Nordamerika erschien die Erweiterung bei Mindscape.\n\nCode: Bob Armour",
+  "texts": {
+    "de": "Die Erweiterung zu Gauntlet bringt ausschließlich neue Verliese: 512 zusätzliche Level, durch die sich Krieger, Walküre, Zauberer und Elf wie gewohnt kämpfen. Man sucht den Ausgang, sammelt Nahrung, Schlüssel und Tränke und zerstört die Erzeuger, aus denen ständig Geister, Dämonen und andere Gegner strömen. Zu zweit spielt man gleichzeitig und muss sich Essen und Schätze teilen. Neue Spielelemente gibt es nicht, der Reiz liegt in der Menge der Labyrinthe.\n\nUrsprünglich war die Erweiterung eine Datendiskette bzw. -kassette, die das Originalspiel Gauntlet voraussetzte; spätere EasyFlash-Umsetzungen enthalten das nötige Hauptprogramm, sodass sie allein starten. Gesteuert wird mit dem Joystick, zu zweit mit zwei Joysticks. In Nordamerika erschien die Erweiterung bei Mindscape.\n\nCode: Bob Armour",
+    "en": "This add-on for Gauntlet contains nothing but new dungeons: 512 extra levels for the warrior, valkyrie, wizard and elf to fight through as usual. The goal is to find the exit, collect food, keys and potions and destroy the generators that keep releasing ghosts, demons and other enemies. Two players play simultaneously and have to share food and treasure. There are no new game mechanics; the appeal lies in the sheer number of mazes.\n\nOriginally the add-on was a data disk or tape that required the original Gauntlet; later EasyFlash conversions include the necessary main program and start on their own. It is played with a joystick, with two joysticks for two players. In North America it was published by Mindscape.\n\nCode: Bob Armour"
+  }
+}

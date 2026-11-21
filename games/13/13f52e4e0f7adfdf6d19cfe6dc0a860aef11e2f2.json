@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "13f52e4e0f7adfdf6d19cfe6dc0a860aef11e2f2",
+  "md5": "e007a6076760d403122f01751f6061c3",
+  "crc32": "82134bf1",
+  "size": 574624,
+  "format": "CRT",
+  "files": [
+    "Caren and the Tangled Tentacles.crt"
+  ],
+  "screenscraper_id": "122269",
+  "title": "Caren and the Tangled Tentacles",
+  "year": "2015",
+  "publisher": "Prior Art",
+  "developer": "Prior Art",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Caren and the Tangled Tentacles ist ein Grafikabenteuer im Stil der LucasArts-Klassiker mit Verben-Menü. Die Heldin Caren erkundet Räume, sammelt und kombiniert Gegenstände und löst Rätsel im Gespräch mit skurrilen Figuren, wobei die Anspielungen auf Day of the Tentacle schon im Titel stecken. Das Spiel entstand für den Adventure-Wettbewerb des Forum64 2015 und wurde danach mehrfach erweitert, zuletzt 2018 in der deutlich größeren „Thank You Edition“. Es ist zweisprachig (Deutsch und Englisch).\n\nVerbreitet sind Diskettenfassungen und EasyFlash-Module, darunter die erweiterte Fassung von 2018 und eine Beilage zum ZZAP!-64-Heft. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Martin Wendt · Grafik: Oliver Lindau · Musik: Kamil Wolnikowski",
+  "texts": {
+    "de": "Caren and the Tangled Tentacles ist ein Grafikabenteuer im Stil der LucasArts-Klassiker mit Verben-Menü. Die Heldin Caren erkundet Räume, sammelt und kombiniert Gegenstände und löst Rätsel im Gespräch mit skurrilen Figuren, wobei die Anspielungen auf Day of the Tentacle schon im Titel stecken. Das Spiel entstand für den Adventure-Wettbewerb des Forum64 2015 und wurde danach mehrfach erweitert, zuletzt 2018 in der deutlich größeren „Thank You Edition“. Es ist zweisprachig (Deutsch und Englisch).\n\nVerbreitet sind Diskettenfassungen und EasyFlash-Module, darunter die erweiterte Fassung von 2018 und eine Beilage zum ZZAP!-64-Heft. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Martin Wendt · Grafik: Oliver Lindau · Musik: Kamil Wolnikowski",
+    "en": "Caren and the Tangled Tentacles is a graphic adventure in the style of the LucasArts classics with a verb menu. The heroine Caren explores rooms, collects and combines items and solves puzzles while talking to odd characters, with nods to Day of the Tentacle already present in the title. The game was made for the Forum64 adventure competition in 2015 and later expanded several times, most recently in 2018 with the much larger \"Thank You Edition\". It is bilingual (German and English).\n\nDisk versions and EasyFlash cartridges are common, including the expanded 2018 version and a ZZAP! 64 covermount. It is played with a joystick in port 2.\n\nCode: Martin Wendt · Graphics: Oliver Lindau · Music: Kamil Wolnikowski"
+  },
+  "images": {
+    "sstitle": "images/42/427540f08351e24f3971ff88de05d90fe959d80a.png"
+  }
+}

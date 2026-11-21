@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "33f9b1a95c1d12879a50e0a443a1d64ac2859ed0",
+  "md5": "dfbd229515156c67d3e64821deef510a",
+  "crc32": "14eb4c05",
+  "size": 287344,
+  "format": "CRT",
+  "files": [
+    "Wonderboy in Monsterland (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36183",
+  "title": "Wonder Boy in Monster Land",
+  "year": "1989",
+  "publisher": "Activision",
+  "developer": "Images Design",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Sega-Automaten Wonder Boy in Monster Land: Der junge Held Tom-Tom bzw. Bock zieht durch ein von einem Drachen beherrschtes Land, kämpft mit dem Schwert gegen Monster und sammelt Gold. In Läden kauft er bessere Waffen, Rüstungen, Schuhe und Zaubersprüche, und am Ende jedes Abschnitts wartet ein Endgegner. Die Verbindung von Jump 'n' Run und leichten Rollenspielelementen machte das Spiel zu einem Vorläufer späterer Action-Adventures.\n\nAuf dem C64 erschien das Spiel 1989 bei Activision auf Diskette und Kassette (auf der Packung teils „Super Wonder Boy in Monsterland“). Gesteuert wird mit dem Joystick in Port 2. Spätere EasyFlash-Umsetzungen aus der Szene, etwa als MultiLoad64-Modul von $olo1870, ersparen das Nachladen.\n\nCode: James Smart · Grafik: Andrew Pang · Musik: James Smart",
+  "texts": {
+    "de": "Umsetzung des Sega-Automaten Wonder Boy in Monster Land: Der junge Held Tom-Tom bzw. Bock zieht durch ein von einem Drachen beherrschtes Land, kämpft mit dem Schwert gegen Monster und sammelt Gold. In Läden kauft er bessere Waffen, Rüstungen, Schuhe und Zaubersprüche, und am Ende jedes Abschnitts wartet ein Endgegner. Die Verbindung von Jump 'n' Run und leichten Rollenspielelementen machte das Spiel zu einem Vorläufer späterer Action-Adventures.\n\nAuf dem C64 erschien das Spiel 1989 bei Activision auf Diskette und Kassette (auf der Packung teils „Super Wonder Boy in Monsterland“). Gesteuert wird mit dem Joystick in Port 2. Spätere EasyFlash-Umsetzungen aus der Szene, etwa als MultiLoad64-Modul von $olo1870, ersparen das Nachladen.\n\nCode: James Smart · Grafik: Andrew Pang · Musik: James Smart",
+    "en": "Conversion of Sega's Wonder Boy in Monster Land arcade game: the young hero travels through a land ruled by a dragon, fights monsters with his sword and collects gold. In shops he buys better weapons, armour, boots and magic spells, and a boss awaits at the end of each stage. Its mix of platform action and light role-playing elements made it a forerunner of later action adventures.\n\nOn the C64 it was released in 1989 by Activision on disk and tape (the box partly reads \"Super Wonder Boy in Monsterland\"). It is controlled with a joystick in port 2. Later EasyFlash conversions from the scene, such as the MultiLoad64 cartridge by $olo1870, remove the loading pauses.\n\nCode: James Smart · Graphics: Andrew Pang · Music: James Smart"
+  },
+  "images": {
+    "ss": "images/74/74fafa127602fc40ad681f8dc180ad4c1cd2d40b.png",
+    "sstitle": "images/aa/aa12f4ace879c2267de532a96c77dc602d0cc299.png"
+  }
+}

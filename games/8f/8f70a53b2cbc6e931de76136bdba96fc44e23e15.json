@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "8f70a53b2cbc6e931de76136bdba96fc44e23e15",
+  "md5": "2a3974521f4c79ce822f2b984d3f1ccd",
+  "crc32": "4545e89f",
+  "size": 8766,
+  "format": "PRG",
+  "files": [
+    "ai-cyberpatrol+.prg"
+  ],
+  "title": "Cyber Patrol",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Fahr-und-Schieß-Spiel von Tansoft: Ein Geländewagen rollt über die Oberfläche des Mars, springt über Hindernisse und schießt Gegner in der Luft und am Boden ab; danach folgen weitere Planeten. Neben dem Sprung gibt es einen Schutzschild, Dauerfeuer sowie Dreifachschuss und Raketen. Drei Schwierigkeitsstufen (leicht, normal, ultra), sechs Leben in der normalen Stufe.\n\nGesteuert wird mit dem Joystick in Port 2 oder der Tastatur (W springen, A/D links/rechts, Leertaste Feuer, R Rakete, S Schild, F Dauerfeuer).\n\nCrack-Fassung von AIliens vom 5. November 2026 (PRG, einzelne Datei) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Fahr-und-Schieß-Spiel von Tansoft: Ein Geländewagen rollt über die Oberfläche des Mars, springt über Hindernisse und schießt Gegner in der Luft und am Boden ab; danach folgen weitere Planeten. Neben dem Sprung gibt es einen Schutzschild, Dauerfeuer sowie Dreifachschuss und Raketen. Drei Schwierigkeitsstufen (leicht, normal, ultra), sechs Leben in der normalen Stufe.\n\nGesteuert wird mit dem Joystick in Port 2 oder der Tastatur (W springen, A/D links/rechts, Leertaste Feuer, R Rakete, S Schild, F Dauerfeuer).\n\nCrack-Fassung von AIliens vom 5. November 2026 (PRG, einzelne Datei) mit Intro und Trainer. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Drive-and-shoot game by Tansoft: a buggy rolls across the surface of Mars, jumps over obstacles and shoots enemies in the air and on the ground, with further planets to follow. Besides jumping there is a shield, autofire, a three-way shot and rockets. Three difficulty levels (easy, normal, ultra), six lives on normal.\n\nControls: joystick in port 2 or keyboard (W jump, A/D left/right, space fire, R rocket, S shield, F autofire).\n\nCrack by AIliens from 5 November 2026 (PRG, single file) with intro and trainer. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/b1/b12dc1292e5b11e630b34f84faaed34cd702452f.png",
+    "sstitle": "images/59/5919687aa41c8fdc33153a68e8aaf27894fb7534.png"
+  }
+}

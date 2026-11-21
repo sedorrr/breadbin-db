@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "7f9e5aabf2cd841b778de1ebda609965ffa09eb4",
+  "md5": "3491e65a6ec1a20309286f146765befd",
+  "crc32": "122cfa4d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tgoep_v1.1.d64"
+  ],
+  "title": "The Garden of Evil Pumpkins",
+  "year": "2026",
+  "publisher": "Lazybit Games Studio",
+  "developer": "Lazybit Games Studio",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Halloween-Spiel von Lazybit Games Studio. Die erste Fassung erschien als „The Garden of Evil“, Version 1.1 trägt den längeren Titel „The Garden of Evil Pumpkins“. Angaben zum Spielablauf liegen nicht vor.\n\nOriginal in Version 1.1 von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Halloween-Spiel von Lazybit Games Studio. Die erste Fassung erschien als „The Garden of Evil“, Version 1.1 trägt den längeren Titel „The Garden of Evil Pumpkins“. Angaben zum Spielablauf liegen nicht vor.\n\nOriginal in Version 1.1 von der itch.io-Seite des Autors, als D64.",
+    "en": "Halloween game by Lazybit Games Studio. The first release was called \"The Garden of Evil\"; version 1.1 carries the longer title \"The Garden of Evil Pumpkins\". No details about the gameplay are available.\n\nOriginal, version 1.1, from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "ss": "images/f6/f6595e61272c7c1542d027139f40cf37c2c8af18.png"
+  }
+}

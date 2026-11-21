@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e401ad97fa793ed36d54665d3fd60303c8031ffa",
+  "md5": "95b50b8ac6ad95acdf15bc311a2ec113",
+  "crc32": "c8d00b0a",
+  "size": 262720,
+  "format": "CRT",
+  "files": [
+    "threat.crt"
+  ],
+  "title": "Threat C64",
+  "year": "2026",
+  "publisher": "Serpentchain",
+  "developer": "Serpentchain",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Fan-Umsetzung des MS-DOS-Shareware-Actionspiels „Threat“: ein Actionshooter für einen oder zwei Spieler. In 16 Einsätzen muss man Aliens ausschalten, Objekte zerstören oder rechtzeitig einen Ort erreichen, bevor die Zeit abläuft. Zwischen den Einsätzen gibt es Geld für neue Waffen, Munition und Verbandszeug; zwölf Waffen vom Maschinengewehr bis zur Megagun. Zu zweit kann man außerdem in acht Arenen gegeneinander antreten.\n\nSpieler 1 Joystick Port 2, Spieler 2 Port 1; C= wechselt die Waffe.\n\nOriginal von der itch.io-Seite des Autors als 256-KB-Magic-Desk-Modul (CRT).",
+  "texts": {
+    "de": "Fan-Umsetzung des MS-DOS-Shareware-Actionspiels „Threat“: ein Actionshooter für einen oder zwei Spieler. In 16 Einsätzen muss man Aliens ausschalten, Objekte zerstören oder rechtzeitig einen Ort erreichen, bevor die Zeit abläuft. Zwischen den Einsätzen gibt es Geld für neue Waffen, Munition und Verbandszeug; zwölf Waffen vom Maschinengewehr bis zur Megagun. Zu zweit kann man außerdem in acht Arenen gegeneinander antreten.\n\nSpieler 1 Joystick Port 2, Spieler 2 Port 1; C= wechselt die Waffe.\n\nOriginal von der itch.io-Seite des Autors als 256-KB-Magic-Desk-Modul (CRT).",
+    "en": "Fan port of the MS-DOS shareware action game \"Threat\": an action shooter for one or two players. In 16 missions you have to eliminate aliens, destroy objects or reach a spot before time runs out. Between missions you earn cash for new weapons, ammo and first aid; twelve weapons from machine gun to megagun. Two players can also fight each other in eight battle arenas.\n\nPlayer 1 uses joystick port 2, player 2 port 1; C= changes weapon.\n\nOriginal from the author's itch.io page as a 256 KB Magic Desk cartridge (CRT)."
+  },
+  "images": {
+    "sstitle": "images/78/78241bbb381f26ead0c6e73421318a6f4dec0fa2.png"
+  }
+}

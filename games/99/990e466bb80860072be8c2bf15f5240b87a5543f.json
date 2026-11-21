@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "990e466bb80860072be8c2bf15f5240b87a5543f",
+  "md5": "f86facb69d63bed4d59a4e58254bb3aa",
+  "crc32": "aacbfe0f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FLIPPER6.D64"
+  ],
+  "screenscraper_id": "111487",
+  "title": "David's Midnight Magic",
+  "year": "1983",
+  "publisher": "Brøderbund",
+  "developer": "Brøderbund",
+  "genres": [
+    "Flipper"
+  ],
+  "players": "1-4",
+  "synopsis": "Flippersimulation mit einem einzigen, zweistöckigen Tisch, angelehnt an die Gestaltung realer Flipperautomaten jener Zeit. Zwei Paar Flipperfinger, Zielreihen, Bonusmultiplikatoren und Mehrballspiel sorgen für einen glaubwürdigen Ablauf; bis zu vier Spieler wechseln sich ab. Das Spiel galt wegen seiner Ballphysik als eine der besten frühen Flippersimulationen.\n\nDas Original von David Snider erschien zuerst auf dem Apple II, die C64-Fassung 1983 bei Brøderbund auf Diskette. Gesteuert wird über die Tastatur. Es gibt Szenefassungen auf Diskette und Kassette, eine OneLoad64-Modulumsetzung sowie eine italienische Kassettenausgabe unter dem Namen „Flipper“.\n\nCode: Martin Kahn · Vorlage: David Snider",
+  "texts": {
+    "de": "Flippersimulation mit einem einzigen, zweistöckigen Tisch, angelehnt an die Gestaltung realer Flipperautomaten jener Zeit. Zwei Paar Flipperfinger, Zielreihen, Bonusmultiplikatoren und Mehrballspiel sorgen für einen glaubwürdigen Ablauf; bis zu vier Spieler wechseln sich ab. Das Spiel galt wegen seiner Ballphysik als eine der besten frühen Flippersimulationen.\n\nDas Original von David Snider erschien zuerst auf dem Apple II, die C64-Fassung 1983 bei Brøderbund auf Diskette. Gesteuert wird über die Tastatur. Es gibt Szenefassungen auf Diskette und Kassette, eine OneLoad64-Modulumsetzung sowie eine italienische Kassettenausgabe unter dem Namen „Flipper“.\n\nCode: Martin Kahn · Vorlage: David Snider",
+    "en": "Pinball simulation with a single two-level table, modelled on the design of real pinball machines of the era. Two pairs of flippers, target banks, bonus multipliers and multiball give a convincing feel; up to four players take turns. Thanks to its ball physics it was regarded as one of the best early pinball simulations.\n\nDavid Snider's original first appeared on the Apple II; the C64 version was released by Brøderbund on disk in 1983. It is controlled with the keyboard. There are scene versions on disk and tape, a OneLoad64 cartridge conversion and an Italian tape release under the name \"Flipper\".\n\nCode: Martin Kahn · Original design: David Snider"
+  },
+  "images": {
+    "ss": "images/01/01da0a051e89ce6342f0548e925181dd0e7bc0da.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8273cfdb27f8682834dc93aa5831e0003febe8d2",
+  "md5": "3b9ec3168e9a6a7b9e9c4b4af463c93f",
+  "crc32": "69f573c6",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "im3.d64"
+  ],
+  "screenscraper_id": "532610",
+  "title": "Impossible Mission III",
+  "year": "2026",
+  "publisher": "Psytronik Software",
+  "developer": "Icon64",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Zwei Jahre nach seiner Niederlage meldet sich Elvin Atombender zurück, und Agent 4125 muss erneut in dessen Stützpunkt eindringen, bevor er seine Raketen startet. Wie im Vorbild läuft und springt man durch Räume voller Roboter und Wachdrohnen, durchsucht Möbel nach Gegenständen und fährt mit Aufzügen zwischen den Stockwerken. Neu sind unter anderem eine EMP-Pistole, farbige Schlüssel, Sicherungen für stillgelegte Aufzüge, ein Virenprogramm gegen große Droiden und ein Rätsel aus 36 Schaltkreisteilen, das am Ende zum Startcode führt. Jedes verlorene Leben kostet je nach Schwierigkeitsgrad Zeit. Es ist die erste offizielle Fortsetzung der Reihe seit Impossible Mission II von 1988.\n\nDas Spiel ist eine Neuentwicklung für den C64 und erschien als Modul, auf Kassette und Diskette sowie als Download mit allen drei Fassungen; es läuft auf PAL- und NTSC-Rechnern. Gesteuert wird mit dem Joystick, die Funktionstasten wählen Waffe, EMP, Sicherung und Virenprogramm. Die Marke Impossible Mission wird unter Lizenz von Epyx Games verwendet; als Vorlage dient das Original von Dennis Caswell (1984).\n\nCode: Stuart Collier · Grafik und Spielidee: Trevor Storey · Musik und Klänge: Saul Cross · Modul- und Diskettenunterstützung: Mike Robertson",
+  "texts": {
+    "de": "Zwei Jahre nach seiner Niederlage meldet sich Elvin Atombender zurück, und Agent 4125 muss erneut in dessen Stützpunkt eindringen, bevor er seine Raketen startet. Wie im Vorbild läuft und springt man durch Räume voller Roboter und Wachdrohnen, durchsucht Möbel nach Gegenständen und fährt mit Aufzügen zwischen den Stockwerken. Neu sind unter anderem eine EMP-Pistole, farbige Schlüssel, Sicherungen für stillgelegte Aufzüge, ein Virenprogramm gegen große Droiden und ein Rätsel aus 36 Schaltkreisteilen, das am Ende zum Startcode führt. Jedes verlorene Leben kostet je nach Schwierigkeitsgrad Zeit. Es ist die erste offizielle Fortsetzung der Reihe seit Impossible Mission II von 1988.\n\nDas Spiel ist eine Neuentwicklung für den C64 und erschien als Modul, auf Kassette und Diskette sowie als Download mit allen drei Fassungen; es läuft auf PAL- und NTSC-Rechnern. Gesteuert wird mit dem Joystick, die Funktionstasten wählen Waffe, EMP, Sicherung und Virenprogramm. Die Marke Impossible Mission wird unter Lizenz von Epyx Games verwendet; als Vorlage dient das Original von Dennis Caswell (1984).\n\nCode: Stuart Collier · Grafik und Spielidee: Trevor Storey · Musik und Klänge: Saul Cross · Modul- und Diskettenunterstützung: Mike Robertson",
+    "en": "Two years after his defeat, Elvin Atombender is back, and Agent 4125 has to infiltrate his base once more before he launches his missiles. As in the original, the agent runs and somersaults through rooms full of robots and security droids, searches furniture for items and rides lifts between floors. New elements include an EMP pistol, coloured keys, fuses for dead lifts, a virus program against large droids and a puzzle of 36 circuit pieces that leads to the launch code. Every lost life costs time depending on the difficulty level. It is the first official sequel since Impossible Mission II from 1988.\n\nThe game is a new C64 production and was released on cartridge, tape and disk, plus as a download containing all three versions; it runs on PAL and NTSC machines. It is played with a joystick, while the function keys select weapon, EMP, fuse and virus program. The Impossible Mission name is used under licence from Epyx Games; the template is Dennis Caswell's 1984 original.\n\nCode: Stuart Collier · Graphics and game design: Trevor Storey · Music and sound: Saul Cross · Cartridge and disk support: Mike Robertson"
+  },
+  "images": {
+    "sstitle": "images/8a/8a593b00577e3d31472b888193bf84c34dd562aa.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "26e6d0dcc7a52698c8ecce03f36a950b2a122742",
+  "md5": "47a806f0bc7f450c6bb25c3d36f21609",
+  "crc32": "1795689e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "RAMBO3.D64"
+  ],
+  "screenscraper_id": "35879",
+  "title": "Rambo III",
+  "year": "1988",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Nach dem gleichnamigen Film wird John Rambo nach Afghanistan geschickt, um seinen früheren Vorgesetzten Colonel Trautman aus einem sowjetischen Stützpunkt zu befreien. Die ersten beiden Abschnitte sind ein Actionabenteuer in Draufsicht: Rambo schleicht zunächst nur mit einem Messer durch das Lager, findet weitere Waffen und Ausrüstung, weicht Minen und Stromfallen aus und befreit Trautman. Danach geht es zur Flucht mit einem Hubschrauber, und der letzte Abschnitt wechselt zu einem Schießstand mit Fadenkreuz. Die Mischung aus Erkunden und Kampf hob das Spiel von einfachen Filmumsetzungen ab.\n\nDas Spiel erschien auf Kassette und Diskette, in den USA bei Taito, später als Billigausgabe bei The Hit Squad. Gesteuert wird mit dem Joystick in Port 2, über die Tastatur wechselt man Waffen und öffnet das Inventar.\n\nCode: Zach Townsend, David Jolliff · Grafik: Andrew Sleigh · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Nach dem gleichnamigen Film wird John Rambo nach Afghanistan geschickt, um seinen früheren Vorgesetzten Colonel Trautman aus einem sowjetischen Stützpunkt zu befreien. Die ersten beiden Abschnitte sind ein Actionabenteuer in Draufsicht: Rambo schleicht zunächst nur mit einem Messer durch das Lager, findet weitere Waffen und Ausrüstung, weicht Minen und Stromfallen aus und befreit Trautman. Danach geht es zur Flucht mit einem Hubschrauber, und der letzte Abschnitt wechselt zu einem Schießstand mit Fadenkreuz. Die Mischung aus Erkunden und Kampf hob das Spiel von einfachen Filmumsetzungen ab.\n\nDas Spiel erschien auf Kassette und Diskette, in den USA bei Taito, später als Billigausgabe bei The Hit Squad. Gesteuert wird mit dem Joystick in Port 2, über die Tastatur wechselt man Waffen und öffnet das Inventar.\n\nCode: Zach Townsend, David Jolliff · Grafik: Andrew Sleigh · Musik: Jonathan Dunn",
+    "en": "Based on the film, John Rambo is sent to Afghanistan to rescue his former commander Colonel Trautman from a Soviet base. The first two sections are a top-down action adventure: Rambo first sneaks through the camp with only a knife, finds further weapons and equipment, avoids mines and electrified traps and frees Trautman. Then comes the escape by helicopter, and the final section switches to a crosshair shooting stage. The mix of exploration and combat set it apart from simple film tie-ins.\n\nThe game was released on tape and disk, in the US by Taito, later as a budget release by The Hit Squad. It is played with a joystick in port 2; the keyboard switches weapons and opens the inventory.\n\nCode: Zach Townsend, David Jolliff · Graphics: Andrew Sleigh · Music: Jonathan Dunn"
+  }
+}

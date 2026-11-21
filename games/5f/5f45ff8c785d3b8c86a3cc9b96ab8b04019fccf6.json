@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5f45ff8c785d3b8c86a3cc9b96ab8b04019fccf6",
+  "md5": "4a718e6f81d9321ed234dd54607fb1bf",
+  "crc32": "b6469b63",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "moustache-machos.d64"
+  ],
+  "title": "Moustache Machos",
+  "year": "2026",
+  "publisher": "Vesa Heikkinen",
+  "developer": "Vesa Heikkinen",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein komödiantisches Kommando-Actionspiel für einen oder zwei Spieler: General Moustache hat allen Schnurrbartwachs der Welt gestohlen, und zwei Schnurrbart-Helden kämpfen sich durch fünf Gebiete – Dschungel, Fluss, Wüstenbasis, Frostpass und die Festung des Generals. Unterwegs warten Jeeps, Panzer, Kanonenboote und Endgegner wie Colonel Coconut oder Admiral Rubber Duck; Soldaten lassen Extras fallen (Extraleben, Granaten, Dauerfeuer, Schutzschild). Jeeps und Boote lassen sich entern, Gefangene befreien, und nach dem Tag- folgt eine schwerere Nachtrunde.\n\nSpieler 1 steuert mit dem Joystick in Port 2, Feuer schießt; P pausiert, Q beendet. Laut Titel frei zum Weitergeben, nicht zum Verkauf.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Ein komödiantisches Kommando-Actionspiel für einen oder zwei Spieler: General Moustache hat allen Schnurrbartwachs der Welt gestohlen, und zwei Schnurrbart-Helden kämpfen sich durch fünf Gebiete – Dschungel, Fluss, Wüstenbasis, Frostpass und die Festung des Generals. Unterwegs warten Jeeps, Panzer, Kanonenboote und Endgegner wie Colonel Coconut oder Admiral Rubber Duck; Soldaten lassen Extras fallen (Extraleben, Granaten, Dauerfeuer, Schutzschild). Jeeps und Boote lassen sich entern, Gefangene befreien, und nach dem Tag- folgt eine schwerere Nachtrunde.\n\nSpieler 1 steuert mit dem Joystick in Port 2, Feuer schießt; P pausiert, Q beendet. Laut Titel frei zum Weitergeben, nicht zum Verkauf.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+    "en": "A comic commando action game for one or two players: General Moustache has stolen all the moustache wax in the world, and two moustachioed heroes fight their way through five areas – jungle, river, desert base, frosty pass and the general's fortress. Along the way there are jeeps, tanks, gunboats and bosses such as Colonel Coconut or Admiral Rubber Duck; soldiers drop pick-ups (extra life, grenades, rapid fire, shield). Jeeps and boats can be commandeered, prisoners freed, and the day shift is followed by a harder night shift.\n\nPlayer 1 uses the joystick in port 2, fire shoots; P pauses, Q quits. According to the title screen it is free to share, not for sale.\n\nOriginal from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "ss": "images/cd/cd4f5fc5ffc9fee1732e5273dcb5c9892dd98645.png",
+    "sstitle": "images/75/75bd3c987d19a502f7ef7cc202811a0cf794db9a.png"
+  }
+}

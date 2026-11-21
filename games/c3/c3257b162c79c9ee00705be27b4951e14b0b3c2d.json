@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c3257b162c79c9ee00705be27b4951e14b0b3c2d",
+  "md5": "d8e700e1e5613665237ef7dec636ff46",
+  "crc32": "382f641c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BMXSIM2.D64"
+  ],
+  "screenscraper_id": "134399",
+  "title": "BMX Simulator 2",
+  "year": "1989",
+  "publisher": "Codemasters",
+  "developer": "Codemasters",
+  "genres": [
+    "Sport",
+    "Rennen"
+  ],
+  "players": "1-4",
+  "synopsis": "Fortsetzung von BMX Simulator: BMX-Räder rasen aus der Draufsicht über Erdstrecken mit Sprüngen, Kurven und Hindernissen. Neben den Rennen gegen Mitspieler oder den Computer gibt es zusätzliche Wettbewerbe, und bis zu vier Spieler können gleichzeitig antreten. Die einfache Steuerung und der Mehrspielermodus machten das Budgetspiel zu einem typischen Codemasters-Erfolg.\n\nErschienen 1989 bei Codemasters auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2, für weitere Spieler auch über Tastatur bzw. zweiten Joystick.\n\nCode: Mike Clark, Richard Darling · Grafik: James Wilson, Bob Stevenson · Musik: Matt Gray",
+  "texts": {
+    "de": "Fortsetzung von BMX Simulator: BMX-Räder rasen aus der Draufsicht über Erdstrecken mit Sprüngen, Kurven und Hindernissen. Neben den Rennen gegen Mitspieler oder den Computer gibt es zusätzliche Wettbewerbe, und bis zu vier Spieler können gleichzeitig antreten. Die einfache Steuerung und der Mehrspielermodus machten das Budgetspiel zu einem typischen Codemasters-Erfolg.\n\nErschienen 1989 bei Codemasters auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2, für weitere Spieler auch über Tastatur bzw. zweiten Joystick.\n\nCode: Mike Clark, Richard Darling · Grafik: James Wilson, Bob Stevenson · Musik: Matt Gray",
+    "en": "Sequel to BMX Simulator: BMX bikes race across dirt tracks with jumps, bends and obstacles, seen from above. Besides races against other players or the computer there are additional events, and up to four players can compete at once. The simple controls and the multiplayer mode made this budget title a typical Codemasters success.\n\nReleased in 1989 by Codemasters on tape and disk. It is controlled with a joystick in port 2, with additional players using the keyboard or a second joystick.\n\nCode: Mike Clark, Richard Darling · Graphics: James Wilson, Bob Stevenson · Music: Matt Gray"
+  },
+  "images": {
+    "sstitle": "images/5c/5c7a988ce77c1889f4e5143fc967fb0622875ebf.png"
+  }
+}

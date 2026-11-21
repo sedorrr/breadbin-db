@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "aa4e20bc6913238eef8e35717b8b9d79023b1c97",
+  "md5": "7fee539383b6d865be23de0f644347e1",
+  "crc32": "f9901400",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WWFWREST.D64"
+  ],
+  "screenscraper_id": "36067",
+  "title": "WWF WrestleMania",
+  "year": "1991",
+  "publisher": "Ocean",
+  "developer": "Twilight",
+  "genres": [
+    "Sport",
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "WWF WrestleMania ist ein Wrestlingspiel mit Stars der damaligen World Wrestling Federation wie Hulk Hogan, The Ultimate Warrior und The British Bulldog. Der Spieler kämpft sich gegen eine Reihe von Gegnern bis zum Titelkampf vor und setzt dabei Griffe, Würfe und Sprünge von den Seilen ein; die Kraftanzeige entscheidet über Ausbrüche aus Haltegriffen. Zu zweit treten die Spieler gegeneinander an.\n\nDie C64-Fassung erschien bei Ocean auf Kassette und Diskette und lädt die Kämpfe nach. Gesteuert wird mit dem Joystick. Verbreitet ist auch eine MultiLoad64-EasyFlash-Umsetzung von $olo1870.\n\nMusik: Gerard Gourley",
+  "texts": {
+    "de": "WWF WrestleMania ist ein Wrestlingspiel mit Stars der damaligen World Wrestling Federation wie Hulk Hogan, The Ultimate Warrior und The British Bulldog. Der Spieler kämpft sich gegen eine Reihe von Gegnern bis zum Titelkampf vor und setzt dabei Griffe, Würfe und Sprünge von den Seilen ein; die Kraftanzeige entscheidet über Ausbrüche aus Haltegriffen. Zu zweit treten die Spieler gegeneinander an.\n\nDie C64-Fassung erschien bei Ocean auf Kassette und Diskette und lädt die Kämpfe nach. Gesteuert wird mit dem Joystick. Verbreitet ist auch eine MultiLoad64-EasyFlash-Umsetzung von $olo1870.\n\nMusik: Gerard Gourley",
+    "en": "WWF WrestleMania is a wrestling game featuring stars of the World Wrestling Federation of the time, such as Hulk Hogan, The Ultimate Warrior and The British Bulldog. The player fights through a series of opponents up to a title bout, using holds, throws and leaps off the ropes; the energy meter decides whether a hold can be broken. Two players can compete against each other.\n\nThe C64 version was released by Ocean on cassette and disk and loads the bouts in stages. It is played with a joystick. A MultiLoad64 EasyFlash conversion by $olo1870 is also common.\n\nMusic: Gerard Gourley"
+  }
+}

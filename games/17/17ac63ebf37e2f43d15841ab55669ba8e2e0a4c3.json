@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "17ac63ebf37e2f43d15841ab55669ba8e2e0a4c3",
+  "md5": "1c4879436cf8f05d51e16ed1591ae174",
+  "crc32": "0ec283d1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Defender64.d64"
+  ],
+  "title": "Defender 64",
+  "year": "2026",
+  "publisher": "Realite",
+  "developer": "Realite",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle Fan-Umsetzung des Williams-Automaten Defender. Man fliegt über eine horizontal scrollende Landschaft, rettet die Bewohner vor Entführern, wehrt Wellen von Angreifern ab und behält dabei das Radar im Blick. Smart Bombs räumen den Bildschirm, der Hyperraumsprung bringt einen im Notfall an eine andere Stelle.\n\nJoystick in Port 2 (Feuer schießt), Leertaste Smart Bomb, RETURN Hyperraum; erkennt PAL und NTSC selbst.\n\nOriginal von der itch.io-Seite des Autors, als D64. Version 1.0 erschien am 31. Oktober 2026, danach folgte Version 1.1.",
+  "texts": {
+    "de": "Inoffizielle Fan-Umsetzung des Williams-Automaten Defender. Man fliegt über eine horizontal scrollende Landschaft, rettet die Bewohner vor Entführern, wehrt Wellen von Angreifern ab und behält dabei das Radar im Blick. Smart Bombs räumen den Bildschirm, der Hyperraumsprung bringt einen im Notfall an eine andere Stelle.\n\nJoystick in Port 2 (Feuer schießt), Leertaste Smart Bomb, RETURN Hyperraum; erkennt PAL und NTSC selbst.\n\nOriginal von der itch.io-Seite des Autors, als D64. Version 1.0 erschien am 31. Oktober 2026, danach folgte Version 1.1.",
+    "en": "Unofficial fan conversion of the Williams arcade game Defender. You fly over a horizontally scrolling landscape, rescue the inhabitants from abductors, fight off waves of attackers and keep an eye on the radar. Smart bombs clear the screen, and hyperspace takes you somewhere else in an emergency.\n\nJoystick in port 2 (fire shoots), space for smart bomb, RETURN for hyperspace; detects PAL and NTSC automatically.\n\nOriginal from the author's itch.io page, as a D64. Version 1.0 appeared on 31 October 2026, followed by version 1.1."
+  },
+  "images": {
+    "sstitle": "images/8d/8d2656a2d3b2ed3884f6a424d7355dc865edb9d9.png"
+  }
+}

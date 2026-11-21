@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5258b45c72a4e8b60bfed5a2d62ca9716fd23f26",
+  "md5": "4a7606eb8da3a0ba97c67417ee2526bd",
+  "crc32": "55630bb1",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Micro Hexagon.crt"
+  ],
+  "screenscraper_id": "115181",
+  "title": "Micro Hexagon",
+  "year": "2013",
+  "publisher": "Paul Koller",
+  "developer": "Paul Koller",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Micro Hexagon ist eine C64-Fassung von Terry Cavanaghs Super Hexagon. Der Spieler steuert ein kleines Dreieck, das um ein Sechseck in der Bildmitte kreist, und muss durch Lücken in Wänden schlüpfen, die von außen auf die Mitte zulaufen, während sich das ganze Spielfeld dreht. Es zählt nur, wie lange man überlebt. Flackernde Farben steigern absichtlich die Schwierigkeit; technisch beeindruckt die flüssige Drehung mit vorberechneten Bildschirmen und gemultiplexten Sprites.\n\nDas Spiel entstand als 16-KB-Modul für den RGCD-Modulwettbewerb 2013 und belegte dort den zweiten Platz. Gesteuert wird mit dem Joystick.\n\nCode: Paul Koller · Musik: Mikkel Hastrup",
+  "texts": {
+    "de": "Micro Hexagon ist eine C64-Fassung von Terry Cavanaghs Super Hexagon. Der Spieler steuert ein kleines Dreieck, das um ein Sechseck in der Bildmitte kreist, und muss durch Lücken in Wänden schlüpfen, die von außen auf die Mitte zulaufen, während sich das ganze Spielfeld dreht. Es zählt nur, wie lange man überlebt. Flackernde Farben steigern absichtlich die Schwierigkeit; technisch beeindruckt die flüssige Drehung mit vorberechneten Bildschirmen und gemultiplexten Sprites.\n\nDas Spiel entstand als 16-KB-Modul für den RGCD-Modulwettbewerb 2013 und belegte dort den zweiten Platz. Gesteuert wird mit dem Joystick.\n\nCode: Paul Koller · Musik: Mikkel Hastrup",
+    "en": "Micro Hexagon is a C64 version of Terry Cavanagh's Super Hexagon. The player steers a small triangle circling a hexagon in the centre of the screen and has to slip through gaps in walls closing in from the outside while the whole playfield rotates. All that counts is how long one survives. Flashing colours deliberately raise the difficulty; technically the smooth rotation, built from precalculated screens and multiplexed sprites, is impressive.\n\nThe game was made as a 16 KB cartridge for the RGCD cartridge competition 2013, where it took second place. It is played with a joystick.\n\nCode: Paul Koller · Music: Mikkel Hastrup"
+  },
+  "images": {
+    "sstitle": "images/9d/9dc27739cda9280a13d8d7e62a1aab8a8bfed00d.png"
+  }
+}

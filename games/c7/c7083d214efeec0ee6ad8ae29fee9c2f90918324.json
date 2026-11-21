@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "c7083d214efeec0ee6ad8ae29fee9c2f90918324",
+  "md5": "dbca4cc018a5c9f588eef9485a6d2ec9",
+  "crc32": "67f05c95",
+  "size": 432110,
+  "format": "TAP",
+  "files": [
+    "Paradroid - Metal Edition.tap"
+  ],
+  "screenscraper_id": "116047",
+  "title": "Paradroid: Competition Edition",
+  "year": "1986",
+  "publisher": "Hewson",
+  "developer": "Graftgold",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Überarbeitete Fassung des Klassikers Paradroid: Der Spieler steuert ein Steuergerät durch die Decks eines Raumfrachters, dessen Roboter außer Kontrolle geraten sind. Er kann Gegner abschießen oder in einem Transfer-Minispiel mit Schaltkreisen übernehmen und so stärkere Roboter nutzen. Die Competition Edition läuft schneller und ist auf Punktejagd ausgelegt; dazu gehört die Variante „Heavy Metal“ mit metallisch gezeichneten Decks.\n\nErschienen 1986 bei Hewson, unter anderem auf Kassette. Gesteuert wird mit dem Joystick in Port 2. Es gibt Szenefassungen und eine OneLoad64-Modulumsetzung.\n\nCode: Andrew Braybrook · Grafik: Andrew Braybrook",
+  "texts": {
+    "de": "Überarbeitete Fassung des Klassikers Paradroid: Der Spieler steuert ein Steuergerät durch die Decks eines Raumfrachters, dessen Roboter außer Kontrolle geraten sind. Er kann Gegner abschießen oder in einem Transfer-Minispiel mit Schaltkreisen übernehmen und so stärkere Roboter nutzen. Die Competition Edition läuft schneller und ist auf Punktejagd ausgelegt; dazu gehört die Variante „Heavy Metal“ mit metallisch gezeichneten Decks.\n\nErschienen 1986 bei Hewson, unter anderem auf Kassette. Gesteuert wird mit dem Joystick in Port 2. Es gibt Szenefassungen und eine OneLoad64-Modulumsetzung.\n\nCode: Andrew Braybrook · Grafik: Andrew Braybrook",
+    "en": "Revised version of the classic Paradroid: the player controls an influence device through the decks of a space freighter whose robots have run amok. Enemies can be shot or taken over in a circuit-based transfer mini-game, giving access to stronger robots. The Competition Edition runs faster and is geared towards high scores; it comes with the \"Heavy Metal\" variant with metallic-looking decks.\n\nReleased in 1986 by Hewson, among others on tape. It is controlled with a joystick in port 2. There are scene versions and a OneLoad64 cartridge conversion.\n\nCode: Andrew Braybrook · Graphics: Andrew Braybrook"
+  },
+  "images": {
+    "ss": "images/19/19b14a69972b26ca89e29fa37f6d6f9ae6fad888.png",
+    "sstitle": "images/e5/e51fda6ce1ef7b1eda1e8226e0baaf79063e95a6.png"
+  }
+}

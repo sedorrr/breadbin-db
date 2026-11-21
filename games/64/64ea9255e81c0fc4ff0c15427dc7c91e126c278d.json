@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "64ea9255e81c0fc4ff0c15427dc7c91e126c278d",
+  "md5": "f0d025881b8fa89bee64eab53dfd29f1",
+  "crc32": "20fb0530",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "The Depths of Chaos+2D[HF+EX].d64"
+  ],
+  "title": "The Depths of Chaos +2D",
+  "year": "2026",
+  "publisher": "Craig A. Leslie",
+  "developer": "Craig A. Leslie",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Endloses Dungeon-Rollenspiel mit zufällig erzeugten Ebenen: Mit Barbar, Elf, Zauberer oder Zwerg werden Stufen gesammelt, Ausrüstung in Seltenheitsstufen bis „legendär“ gefunden und 30 bestimmte Schriftrollen gesucht. Gelesen öffnen sie ein Portal zum Endgegner, einem Auge, das nur verwundbar ist, wenn es offen ist. Barbar und Zwerg können nicht zaubern, Elf und Zauberer keine Fallen suchen; der Zwerg ist gegen Fallen immun (leichter Modus).\n\nEine Zentrale bietet einen Händler (mit Schlüssel freizuschalten) und einen Kristall, mit dem sich zurückkehren und speichern lässt. Nach dem Endgegner kann weitergespielt oder ein neuer Held begonnen werden; ein Held namens „DOOMSLAYER“ hat unbegrenzte Energie.\n\nCrack-Fassung von Excess und Hokuto Force vom 13. November 2026 (D64) mit zwei Trainer-Optionen und Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Endloses Dungeon-Rollenspiel mit zufällig erzeugten Ebenen: Mit Barbar, Elf, Zauberer oder Zwerg werden Stufen gesammelt, Ausrüstung in Seltenheitsstufen bis „legendär“ gefunden und 30 bestimmte Schriftrollen gesucht. Gelesen öffnen sie ein Portal zum Endgegner, einem Auge, das nur verwundbar ist, wenn es offen ist. Barbar und Zwerg können nicht zaubern, Elf und Zauberer keine Fallen suchen; der Zwerg ist gegen Fallen immun (leichter Modus).\n\nEine Zentrale bietet einen Händler (mit Schlüssel freizuschalten) und einen Kristall, mit dem sich zurückkehren und speichern lässt. Nach dem Endgegner kann weitergespielt oder ein neuer Held begonnen werden; ein Held namens „DOOMSLAYER“ hat unbegrenzte Energie.\n\nCrack-Fassung von Excess und Hokuto Force vom 13. November 2026 (D64) mit zwei Trainer-Optionen und Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Endless dungeon role-playing game with randomly generated levels: playing as barbarian, elf, wizard or dwarf, the hero gains levels, finds gear in rarity tiers up to \"legendary\" and searches for 30 specific scrolls. When read, they open a portal to the final boss, an eye that can only be harmed while it is open. Barbarian and dwarf cannot cast magic, elf and wizard cannot search for traps; the dwarf is immune to traps (easy mode).\n\nA central hub has a merchant (unlocked with a key) and a crystal used to return and save. After the boss the player can keep delving or start a new hero; a hero named \"DOOMSLAYER\" has unlimited health.\n\nCrack by Excess and Hokuto Force from 13 November 2026 (D64) with two trainer options and docs. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/f2/f2bd1b7725596d426d46f8eabef5ed9038df8f55.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "dd3f4f257eb6c3f275638214e0236989c101a3d6",
+  "md5": "790a0704f3283e80b9399ab40ab5dfdc",
+  "crc32": "26c2a191",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Blue Lung+2(AI).d64"
+  ],
+  "title": "Blue Lung +2",
+  "year": "2026",
+  "publisher": "Laimer",
+  "developer": "Laimer",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Tauchspiel: Man taucht vom Schiff aus hinab, sammelt Perlen in seinen Beutel und bringt die Ausbeute zurück an Bord, bevor die Luft ausgeht. Haie und Quallen sind gefährlich. Vor dem Start lassen sich Anzahl der Haie, Luftvorrat, Taucherzahl und Starttiefe einstellen.\n\nJoystick, Feuer startet den Tauchgang.\n\nCrack-Fassung von Aldi Industries vom 8. November 2026 (D64) mit Intro, zwei Trainern (endlose Taucher, endlose Luft) und scherzhafter Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Tauchspiel: Man taucht vom Schiff aus hinab, sammelt Perlen in seinen Beutel und bringt die Ausbeute zurück an Bord, bevor die Luft ausgeht. Haie und Quallen sind gefährlich. Vor dem Start lassen sich Anzahl der Haie, Luftvorrat, Taucherzahl und Starttiefe einstellen.\n\nJoystick, Feuer startet den Tauchgang.\n\nCrack-Fassung von Aldi Industries vom 8. November 2026 (D64) mit Intro, zwei Trainern (endlose Taucher, endlose Luft) und scherzhafter Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Diving game: you dive down from your ship, collect pearls in your bag and bring the haul back aboard before your air runs out. Sharks and jellyfish are dangerous. Before starting you can set the number of sharks, the air supply, the number of divers and the starting depth.\n\nJoystick, fire starts the dive.\n\nCrack by Aldi Industries from 8 November 2026 (D64) with intro, two trainers (endless divers, endless air) and joke docs. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/fa/faf08d665eaf2cc725ebc8ffe48f963f0ab9bb4a.png",
+    "sstitle": "images/10/1035bded61916f6fa88876c939d24dfe0dbd4e1d.png"
+  }
+}

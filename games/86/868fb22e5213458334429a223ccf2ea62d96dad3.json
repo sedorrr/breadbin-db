@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "868fb22e5213458334429a223ccf2ea62d96dad3",
+  "md5": "e160fc82591f68c22c4c1f6bff2d9f0f",
+  "crc32": "3689c0cd",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Rebel Planet.crt"
+  ],
+  "screenscraper_id": "36705",
+  "title": "Rebel Planet",
+  "year": "1986",
+  "publisher": "Adventure Soft UK",
+  "developer": "Adventure Soft UK",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Rebel Planet ist ein Textabenteuer mit Bildern nach dem gleichnamigen Fighting-Fantasy-Spielbuch. Die Erde ist von den außerirdischen Arcadianern besetzt; als Händler getarnt reist der Spieler mit einem Raumschiff von Planet zu Planet, sammelt Hinweise und Verbündete und muss schließlich auf der Heimatwelt der Besatzer deren zentralen Computer ausschalten. Eingaben erfolgen als Befehle über die Tastatur, viele Orte sind mit Grafiken illustriert.\n\nDas Spiel erschien auf Kassette, Diskettenfassungen stammen meist aus Sammlungen; eine Umsetzung als OneLoad64-Modul ist ebenfalls verbreitet. Gesteuert wird ausschließlich über die Tastatur.\n\nCode: Stefan Ufnowski",
+  "texts": {
+    "de": "Rebel Planet ist ein Textabenteuer mit Bildern nach dem gleichnamigen Fighting-Fantasy-Spielbuch. Die Erde ist von den außerirdischen Arcadianern besetzt; als Händler getarnt reist der Spieler mit einem Raumschiff von Planet zu Planet, sammelt Hinweise und Verbündete und muss schließlich auf der Heimatwelt der Besatzer deren zentralen Computer ausschalten. Eingaben erfolgen als Befehle über die Tastatur, viele Orte sind mit Grafiken illustriert.\n\nDas Spiel erschien auf Kassette, Diskettenfassungen stammen meist aus Sammlungen; eine Umsetzung als OneLoad64-Modul ist ebenfalls verbreitet. Gesteuert wird ausschließlich über die Tastatur.\n\nCode: Stefan Ufnowski",
+    "en": "Rebel Planet is an illustrated text adventure based on the Fighting Fantasy gamebook of the same name. Earth is occupied by the alien Arcadians; disguised as a trader, the player travels by spaceship from planet to planet, gathering clues and allies, and finally has to disable the occupiers' central computer on their home world. Commands are typed on the keyboard, and many locations are illustrated with pictures.\n\nThe game was released on cassette; disk versions mostly come from compilations, and a OneLoad64 cartridge conversion is also common. It is controlled entirely with the keyboard.\n\nCode: Stefan Ufnowski"
+  },
+  "images": {
+    "sstitle": "images/14/14e29de5e3a945051f11a6d92cd4daabe6acf885.png"
+  }
+}

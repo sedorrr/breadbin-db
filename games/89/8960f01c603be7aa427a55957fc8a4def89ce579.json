@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "8960f01c603be7aa427a55957fc8a4def89ce579",
+  "md5": "1dab12323c359dd868fe0ffe5e911748",
+  "crc32": "5ae1842c",
+  "size": 45755,
+  "format": "PRG",
+  "files": [
+    "meshfall64+5-bk.prg"
+  ],
+  "title": "Meshfall 64",
+  "year": "2026",
+  "publisher": "Pier Shaw",
+  "developer": "Pier Shaw",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1-4",
+  "synopsis": "Rundenstrategie in einer postapokalyptischen Ödnis für bis zu vier Kriegsherren, Mensch oder Computer. Alle geben zugleich ihre Befehle, danach laufen die Züge gleichzeitig ab. Man erobert Gebäude wie Fabriken, Schrottplätze und Funktürme, baut aus Schrott Einheiten (Raider, Gun Buggy, Flak Truck, Gyrocopter, War Rig, Mutant Brute u. a.) und kann einen Schrottbomber anfordern; Nebel des Krieges, Kartengröße, Startschrott und Rundenlimit sind einstellbar, Karten werden per Nummer erzeugt.\n\nPRG-Datei, Fassung V0.2.0, Crack-Fassung der Gruppe Bad Karma (18.11.2026) mit Intro und fünf Trainern („+5“, u. a. ohne Nebel, ohne Einheitenlimit, unbegrenzter Schrott). Joystick in Port 2 oder Cursortasten mit Leertaste; bei mehreren menschlichen Spielern schauen die anderen beim Befehlen weg.",
+  "texts": {
+    "de": "Rundenstrategie in einer postapokalyptischen Ödnis für bis zu vier Kriegsherren, Mensch oder Computer. Alle geben zugleich ihre Befehle, danach laufen die Züge gleichzeitig ab. Man erobert Gebäude wie Fabriken, Schrottplätze und Funktürme, baut aus Schrott Einheiten (Raider, Gun Buggy, Flak Truck, Gyrocopter, War Rig, Mutant Brute u. a.) und kann einen Schrottbomber anfordern; Nebel des Krieges, Kartengröße, Startschrott und Rundenlimit sind einstellbar, Karten werden per Nummer erzeugt.\n\nPRG-Datei, Fassung V0.2.0, Crack-Fassung der Gruppe Bad Karma (18.11.2026) mit Intro und fünf Trainern („+5“, u. a. ohne Nebel, ohne Einheitenlimit, unbegrenzter Schrott). Joystick in Port 2 oder Cursortasten mit Leertaste; bei mehreren menschlichen Spielern schauen die anderen beim Befehlen weg.",
+    "en": "Turn-based strategy in a post-apocalyptic wasteland for up to four warlords, human or computer. Everyone gives orders at the same time, then the moves play out simultaneously. You capture buildings such as factories, scrap yards and radio towers, build units from scrap (raider, gun buggy, flak truck, gyrocopter, war rig, mutant brute and more) and can call in a scrap bomber; fog of war, map size, starting scrap and turn limit are adjustable, and maps are generated from a number.\n\nPRG file, version 0.2.0, cracked version by Bad Karma (18 Nov 2026) with intro and five trainers (\"+5\", including no fog, no unit cap, unlimited scrap). Joystick in port 2 or cursor keys plus space; with several human players the others look away while orders are given."
+  },
+  "images": {
+    "sstitle": "images/c3/c37a7fd0f09e49f870ab3d4b61f51de22717a298.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a983df31eb3a3226675293a8cd8241793e5dbf68",
+  "md5": "4dac3cf93e75a7942e92c84dc3470e9f",
+  "crc32": "7dbf1401",
+  "size": 31353,
+  "format": "T64",
+  "files": [
+    "IKARIWA5.T64"
+  ],
+  "screenscraper_id": "509608",
+  "title": "Ikari Warriors",
+  "year": "1987",
+  "publisher": "Data East",
+  "developer": "Quicksilver Software",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des SNK-Automaten: Zwei Elitesoldaten kämpfen sich durch einen Dschungel nach oben, um einen gefangenen General zu befreien. Der Spieler schießt auf Soldaten, wirft Granaten und kann Panzer erobern, um mit deren Kanone weiterzukämpfen. Der Automat war mit seinem Drehjoystick ein Vorbild vieler Militär-Shooter von oben.\n\nDie C64-Fassung von Quicksilver erschien in den USA bei Data East, in Europa bei Elite. Anders als am Automaten wird nur mit einem normalen Joystick (Port 2) gesteuert, und es spielt nur eine Person. Neben der Originalfassung gibt es eine bearbeitete Ausgabe mit geänderten Sprites.\n\nEntwicklung: Quicksilver Software",
+  "texts": {
+    "de": "Umsetzung des SNK-Automaten: Zwei Elitesoldaten kämpfen sich durch einen Dschungel nach oben, um einen gefangenen General zu befreien. Der Spieler schießt auf Soldaten, wirft Granaten und kann Panzer erobern, um mit deren Kanone weiterzukämpfen. Der Automat war mit seinem Drehjoystick ein Vorbild vieler Militär-Shooter von oben.\n\nDie C64-Fassung von Quicksilver erschien in den USA bei Data East, in Europa bei Elite. Anders als am Automaten wird nur mit einem normalen Joystick (Port 2) gesteuert, und es spielt nur eine Person. Neben der Originalfassung gibt es eine bearbeitete Ausgabe mit geänderten Sprites.\n\nEntwicklung: Quicksilver Software",
+    "en": "Conversion of SNK's arcade game: two elite soldiers fight their way upwards through a jungle to rescue a captured general. The player shoots soldiers, throws grenades and can commandeer tanks to keep fighting with their cannon. With its rotary joystick, the arcade original was a model for many top-down military shooters.\n\nThe C64 version by Quicksilver was released in the US by Data East and in Europe by Elite. Unlike the arcade machine it uses a normal joystick (port 2) and supports only one player. Besides the original release there is an edited version with modified sprites.\n\nDevelopment: Quicksilver Software"
+  },
+  "images": {
+    "ss": "images/0d/0d3383e28d20e6aa6506994c03b8edffcbaed024.png",
+    "sstitle": "images/de/de2b440a982dcc03057d49aa18d77e5a45b5d99f.png"
+  }
+}

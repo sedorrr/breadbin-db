@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "a9bacc7618f97720078254d04722691dbb0a68c3",
+  "md5": "9524ec20b40aaa2210d4e35311f980e4",
+  "crc32": "bb14993e",
+  "size": 551404,
+  "format": "TAP",
+  "files": [
+    "Total Eclipse II.tap"
+  ],
+  "screenscraper_id": "110273",
+  "title": "Total Eclipse II: The Sphinx Jinx",
+  "year": "1989",
+  "publisher": "Incentive Software",
+  "developer": "Incentive Software",
+  "genres": [
+    "Abenteuer / Grafik",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Total Eclipse und viertes Spiel mit der Freescape-3D-Technik: In den Gängen unter einer ägyptischen Pyramide sucht der Abenteurer die zwölf Teile einer zerbrochenen Sphinx-Statue. Erkundet wird in Ich-Perspektive mit gefüllter Vektorgrafik; Fallen, Schalter und Rätsel versperren den Weg, Wasser und Gesundheit sind knapp. Viele Orte ähneln dem Vorgänger, die Rätsel gelten aber als anspruchsvoller.\n\nErschienen 1989, zunächst im Doppelpack mit Total Eclipse über einen Buchclub, auf Kassette und Diskette. Gesteuert wird mit Joystick und Tastatur. Es gibt auch eine OneLoad64-Modulumsetzung.\n\nEntwicklung: Incentive Software",
+  "texts": {
+    "de": "Fortsetzung von Total Eclipse und viertes Spiel mit der Freescape-3D-Technik: In den Gängen unter einer ägyptischen Pyramide sucht der Abenteurer die zwölf Teile einer zerbrochenen Sphinx-Statue. Erkundet wird in Ich-Perspektive mit gefüllter Vektorgrafik; Fallen, Schalter und Rätsel versperren den Weg, Wasser und Gesundheit sind knapp. Viele Orte ähneln dem Vorgänger, die Rätsel gelten aber als anspruchsvoller.\n\nErschienen 1989, zunächst im Doppelpack mit Total Eclipse über einen Buchclub, auf Kassette und Diskette. Gesteuert wird mit Joystick und Tastatur. Es gibt auch eine OneLoad64-Modulumsetzung.\n\nEntwicklung: Incentive Software",
+    "en": "Sequel to Total Eclipse and the fourth game to use the Freescape 3D engine: in the passages beneath an Egyptian pyramid, the adventurer searches for the twelve pieces of a broken sphinx statue. Exploration is in first-person view with solid vector graphics; traps, switches and puzzles block the way, and water and health are scarce. Many locations resemble the predecessor, but the puzzles are considered more demanding.\n\nReleased in 1989, initially in a double pack with Total Eclipse through a book club, on tape and disk. It is controlled by joystick and keyboard. There is also a OneLoad64 cartridge conversion.\n\nDevelopment: Incentive Software"
+  },
+  "images": {
+    "ss": "images/83/831484c8daf55a321d243da0602bbcdde57c19e6.png",
+    "sstitle": "images/db/db857bebfa8bf4a3ca33462eecc5f04a5d15b957.png"
+  }
+}

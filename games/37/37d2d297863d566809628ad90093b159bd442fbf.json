@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "37d2d297863d566809628ad90093b159bd442fbf",
+  "md5": "07992bd675ece9a5056f08073cce6d59",
+  "crc32": "5a485579",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "retrofixer.d64"
+  ],
+  "title": "RetroFixer and the Broken Console",
+  "year": "2026",
+  "publisher": "zeus074",
+  "developer": "zeus074",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Plattformspiel des italienischen Autors zeus074, im Original „RetroFixer e la Console Rotta“: Auf einem Bildschirm mit mehreren Ebenen sammelt die Figur RetroFixer Teile ein, um eine kaputte Spielkonsole zu reparieren, und weicht dabei Gegnern aus. Rechts zeigt eine Leiste Punkte, Bestwert, Leben, Level und den Fortschritt der Konsole.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Plattformspiel des italienischen Autors zeus074, im Original „RetroFixer e la Console Rotta“: Auf einem Bildschirm mit mehreren Ebenen sammelt die Figur RetroFixer Teile ein, um eine kaputte Spielkonsole zu reparieren, und weicht dabei Gegnern aus. Rechts zeigt eine Leiste Punkte, Bestwert, Leben, Level und den Fortschritt der Konsole.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+    "en": "Platform game by the Italian author zeus074, originally titled \"RetroFixer e la Console Rotta\": on a single screen with several levels, the character RetroFixer collects parts to repair a broken games console while avoiding enemies. A bar on the right shows score, high score, lives, level and the console's progress.\n\nOriginal from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "ss": "images/b0/b0a4f892ec5dc59f23ce770caacf0259d9944286.png"
+  }
+}

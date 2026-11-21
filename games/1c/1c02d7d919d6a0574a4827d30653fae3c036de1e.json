@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1c02d7d919d6a0574a4827d30653fae3c036de1e",
+  "md5": "6973ede894d8acc17a1a5df869bcc7c3",
+  "crc32": "be2efd27",
+  "size": 262720,
+  "format": "CRT",
+  "files": [
+    "Enforcer.crt",
+    "Enforcer - Fullmetal Megablaster [EasyFlash].crt"
+  ],
+  "screenscraper_id": "111893",
+  "title": "Enforcer: Fullmetal Megablaster",
+  "year": "1992",
+  "publisher": "CP Verlag (Golden Disk 64)",
+  "developer": "Manfred Trenz",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Manfred Trenz, bekannt durch Turrican und Katakis, schuf mit Enforcer ein waagerecht scrollendes Shoot'em Up mit einem Gleiter, der sechs immer schwierigere Zonen durchfliegt. Am Ende jeder Zone wartet ein großer Endgegner. Unterwegs sammelt der Spieler Waffenverbesserungen, Schutzschilde und zusätzliche Gleiter; Smartbomben räumen den Bildschirm. Das Spiel gilt als eines der technisch eindrucksvollsten späten Shoot'em Ups für den C64.\n\nEnforcer erschien 1992 auf Diskette als Spiel der Zeitschrift Golden Disk 64 des CP Verlags. Neben Cracks gibt es EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick in Port 2, Smartbomben und Pause liegen auf der Tastatur.\n\nCode: Manfred Trenz · Grafik: Manfred Trenz · Musik: Markus Siebold",
+  "texts": {
+    "de": "Manfred Trenz, bekannt durch Turrican und Katakis, schuf mit Enforcer ein waagerecht scrollendes Shoot'em Up mit einem Gleiter, der sechs immer schwierigere Zonen durchfliegt. Am Ende jeder Zone wartet ein großer Endgegner. Unterwegs sammelt der Spieler Waffenverbesserungen, Schutzschilde und zusätzliche Gleiter; Smartbomben räumen den Bildschirm. Das Spiel gilt als eines der technisch eindrucksvollsten späten Shoot'em Ups für den C64.\n\nEnforcer erschien 1992 auf Diskette als Spiel der Zeitschrift Golden Disk 64 des CP Verlags. Neben Cracks gibt es EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick in Port 2, Smartbomben und Pause liegen auf der Tastatur.\n\nCode: Manfred Trenz · Grafik: Manfred Trenz · Musik: Markus Siebold",
+    "en": "Manfred Trenz, known for Turrican and Katakis, created Enforcer as a horizontally scrolling shoot'em up in which a glider flies through six zones of increasing difficulty. A large boss waits at the end of each zone. Along the way the player collects weapon upgrades, shields and extra gliders; smart bombs clear the screen. The game is regarded as one of the most technically impressive late shoot'em ups on the C64.\n\nEnforcer was released in 1992 on disk as the game of CP Verlag's magazine Golden Disk 64. Besides cracks there are EasyFlash conversions. It is controlled with a joystick in port 2; smart bombs and pause are on the keyboard.\n\nCode: Manfred Trenz · Graphics: Manfred Trenz · Music: Markus Siebold"
+  },
+  "images": {
+    "sstitle": "images/2f/2f2d7083819a2a2eeca83322c850c5791f852fe2.png"
+  }
+}

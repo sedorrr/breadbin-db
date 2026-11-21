@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "5b9b70b7eb15500566b76c9eb791d69e93138dbf",
+  "md5": "415b06a78f42a6e1f68d9e90d7de4b0a",
+  "crc32": "8a6aa37c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "starfall.d64"
+  ],
+  "title": "Starfall",
+  "year": "2026",
+  "publisher": "Ted Soft",
+  "developer": "technicianted",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Horizontal scrollendes Shoot'em Up in mehreren Stufen, die über verschiedene Welten führen – unter anderem einen tropischen Planeten, eine Unterwasserbasis, eine bio-organische Welt, den Hyperraum und einen Eisplaneten mit einer Kryo-Festung. Am Ende der Abschnitte warten Wächter und Rivalen.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "Horizontal scrollendes Shoot'em Up in mehreren Stufen, die über verschiedene Welten führen – unter anderem einen tropischen Planeten, eine Unterwasserbasis, eine bio-organische Welt, den Hyperraum und einen Eisplaneten mit einer Kryo-Festung. Am Ende der Abschnitte warten Wächter und Rivalen.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+    "en": "Horizontally scrolling shoot'em up in several stages that lead across different worlds – among them a tropical planet, an underwater base, a bio-organic world, hyperspace and an ice planet with a cryo fortress. Guardians and rivals wait at the end of the stages.\n\nOriginal from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "sstitle": "images/e8/e8f0277955688a09572aab022e1f531649f42834.png"
+  }
+}

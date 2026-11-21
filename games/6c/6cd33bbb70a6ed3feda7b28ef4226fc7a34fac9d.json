@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "6cd33bbb70a6ed3feda7b28ef4226fc7a34fac9d",
+  "md5": "462e0e0678062a9bda873edc7c92ee33",
+  "crc32": "a01170dd",
+  "size": 788973,
+  "format": "TAP",
+  "files": [
+    "Underwurlde.tap"
+  ],
+  "screenscraper_id": "36839",
+  "title": "Underwurlde",
+  "year": "1984",
+  "publisher": "Ultimate Play the Game",
+  "developer": "Ultimate Play the Game (C64: Softstone, Grant Harrison)",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Im zweiten Sabreman-Abenteuer nach Sabre Wulf sucht der Held den Weg aus einer riesigen Burg mit Höhlensystem, die aus Hunderten Einzelbildschirmen besteht. Er springt über Plattformen, schwingt an Seilen und lässt sich von aufsteigenden Blasen tragen. Berührungen mit Gegnern stoßen ihn nur weg, ein Sturz aus großer Höhe ist dagegen tödlich, solange kein blauer Edelstein schützt. Die Wächter an den Ausgängen lassen sich nur mit der passenden Waffe – Messer, Schleuder oder Fackel – überwinden, und es gibt drei verschiedene Enden.\n\nDie C64-Umsetzung erschien 1985 bei Firebird unter dem Ultimate-Namen, auf Kassette und Diskette, und entspricht in Aussehen und Spielablauf weitgehend der Spectrum-Vorlage. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Grant Harrison · Grafik: Grant Harrison · Musik: Grant Harrison",
+  "texts": {
+    "de": "Im zweiten Sabreman-Abenteuer nach Sabre Wulf sucht der Held den Weg aus einer riesigen Burg mit Höhlensystem, die aus Hunderten Einzelbildschirmen besteht. Er springt über Plattformen, schwingt an Seilen und lässt sich von aufsteigenden Blasen tragen. Berührungen mit Gegnern stoßen ihn nur weg, ein Sturz aus großer Höhe ist dagegen tödlich, solange kein blauer Edelstein schützt. Die Wächter an den Ausgängen lassen sich nur mit der passenden Waffe – Messer, Schleuder oder Fackel – überwinden, und es gibt drei verschiedene Enden.\n\nDie C64-Umsetzung erschien 1985 bei Firebird unter dem Ultimate-Namen, auf Kassette und Diskette, und entspricht in Aussehen und Spielablauf weitgehend der Spectrum-Vorlage. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Grant Harrison · Grafik: Grant Harrison · Musik: Grant Harrison",
+    "en": "In the second Sabreman adventure after Sabre Wulf, the hero seeks a way out of a huge castle and cave system made up of hundreds of flip screens. He jumps across platforms, swings on ropes and rides rising bubbles. Contact with enemies only knocks him back, but a fall from a great height is fatal unless a blue gem protects him. The guardians at the exits can only be passed with the right weapon – knife, catapult or torch – and there are three different endings.\n\nThe C64 conversion was released in 1985 by Firebird under the Ultimate name, on tape and disk, and largely matches the Spectrum original in look and gameplay. Cracks and cartridge conversions, for example for OneLoad64, are in circulation. It is controlled with a joystick in port 2.\n\nCode: Grant Harrison · Graphics: Grant Harrison · Music: Grant Harrison"
+  },
+  "images": {
+    "sstitle": "images/1a/1ac5b6c73a9d1f486f9666bdc315b080dcd97a90.png"
+  }
+}

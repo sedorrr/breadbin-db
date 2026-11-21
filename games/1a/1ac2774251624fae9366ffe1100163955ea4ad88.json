@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "1ac2774251624fae9366ffe1100163955ea4ad88",
+  "md5": "b263d2985d8f39d0cd28af219c72e02c",
+  "crc32": "5a076d5e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LORDSOFC.D64"
+  ],
+  "screenscraper_id": "114304",
+  "title": "Lords of Conquest",
+  "year": "1986",
+  "publisher": "Electronic Arts",
+  "developer": "Eon Software",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1-4",
+  "synopsis": "Rundenstrategie um die Eroberung einer Landkarte: Bis zu vier Spieler, auch Computergegner, verteilen Armeen, Pferde, Waffen und Boote auf Gebiete, sammeln Rohstoffe wie Gold, Holz, Eisen und Kohle und bauen Städte. Gekämpft wird nicht per Würfel, sondern nach der Stärke benachbarter Gebiete, sodass Planung und Bündnisse entscheiden. Neben vorgegebenen Karten lassen sich eigene Karten erzeugen oder zeichnen.\n\nDas Spiel beruht auf dem Brettspiel Borderlands und erschien 1986 bei Electronic Arts auf Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Bill Eberle, Jack Kittredge, Peter Olotka, Ted Schmeckpeper, Trevor Western · Musik: Mark Sutton-Smith",
+  "texts": {
+    "de": "Rundenstrategie um die Eroberung einer Landkarte: Bis zu vier Spieler, auch Computergegner, verteilen Armeen, Pferde, Waffen und Boote auf Gebiete, sammeln Rohstoffe wie Gold, Holz, Eisen und Kohle und bauen Städte. Gekämpft wird nicht per Würfel, sondern nach der Stärke benachbarter Gebiete, sodass Planung und Bündnisse entscheiden. Neben vorgegebenen Karten lassen sich eigene Karten erzeugen oder zeichnen.\n\nDas Spiel beruht auf dem Brettspiel Borderlands und erschien 1986 bei Electronic Arts auf Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Bill Eberle, Jack Kittredge, Peter Olotka, Ted Schmeckpeper, Trevor Western · Musik: Mark Sutton-Smith",
+    "en": "Turn-based strategy about conquering a map: up to four players, including computer opponents, place armies, horses, weapons and boats on territories, gather resources such as gold, timber, iron and coal and build cities. Battles are decided not by dice but by the strength of neighbouring territories, so planning and alliances matter. Besides the predefined maps, players can generate or draw their own.\n\nThe game is based on the board game Borderlands and was released in 1986 by Electronic Arts on disk. It is controlled with a joystick in port 2.\n\nCode: Bill Eberle, Jack Kittredge, Peter Olotka, Ted Schmeckpeper, Trevor Western · Music: Mark Sutton-Smith"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "bc76186a30ff516d61498846364895f7699d26ca",
+  "md5": "f11bb305ec0a74a4ac12108ef505790a",
+  "crc32": "b8d534f9",
+  "size": 8272,
+  "format": "CRT",
+  "files": [
+    "Pac-Man.crt"
+  ],
+  "screenscraper_id": "35853",
+  "title": "Pac-Man",
+  "year": "1983",
+  "publisher": "Atarisoft",
+  "developer": "Atarisoft",
+  "genres": [
+    "Action / Labyrinth",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Die Umsetzung des Namco-Automaten von 1980: Pac-Man frisst sich durch ein Labyrinth voller Punkte, verfolgt von vier Geistern. Frisst er eine der Kraftpillen in den Ecken, werden die Geister für kurze Zeit blau und lassen sich selbst verspeisen. Zwischendurch erscheinen Früchte für Zusatzpunkte, und mit jeder Runde werden die Gegner schneller. Das einfache, aber fesselnde Spielprinzip machte Pac-Man zu einem der bekanntesten Videospiele überhaupt.\n\nAtarisoft brachte das Spiel 1983 als Modul für den C64 heraus; die Umsetzung ähnelt stark der Atari-8-Bit-Fassung. Gesteuert wird mit dem Joystick in Port 2, über die Funktionstasten wählt man Spielerzahl und Schwierigkeit. Zwei Spieler spielen abwechselnd. Eine weitere Ausgabe vertrieb später Thunder Mountain.",
+  "texts": {
+    "de": "Die Umsetzung des Namco-Automaten von 1980: Pac-Man frisst sich durch ein Labyrinth voller Punkte, verfolgt von vier Geistern. Frisst er eine der Kraftpillen in den Ecken, werden die Geister für kurze Zeit blau und lassen sich selbst verspeisen. Zwischendurch erscheinen Früchte für Zusatzpunkte, und mit jeder Runde werden die Gegner schneller. Das einfache, aber fesselnde Spielprinzip machte Pac-Man zu einem der bekanntesten Videospiele überhaupt.\n\nAtarisoft brachte das Spiel 1983 als Modul für den C64 heraus; die Umsetzung ähnelt stark der Atari-8-Bit-Fassung. Gesteuert wird mit dem Joystick in Port 2, über die Funktionstasten wählt man Spielerzahl und Schwierigkeit. Zwei Spieler spielen abwechselnd. Eine weitere Ausgabe vertrieb später Thunder Mountain.",
+    "en": "The conversion of Namco's 1980 arcade game: Pac-Man munches his way through a maze full of dots, chased by four ghosts. Eating one of the power pills in the corners turns the ghosts blue for a short time so that they can be eaten in turn. Fruit appears now and then for bonus points, and the enemies get faster with each round. The simple yet compelling idea made Pac-Man one of the best-known video games of all time.\n\nAtarisoft released the game on cartridge for the C64 in 1983; the conversion is very close to the Atari 8-bit version. It is played with a joystick in port 2, and the function keys select the number of players and difficulty. Two players take turns. Thunder Mountain later distributed another release."
+  }
+}

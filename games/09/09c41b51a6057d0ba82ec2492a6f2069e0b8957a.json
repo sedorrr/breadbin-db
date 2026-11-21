@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "09c41b51a6057d0ba82ec2492a6f2069e0b8957a",
+  "md5": "eedb99ce04cb6dd564a7f60d891fca5b",
+  "crc32": "144febeb",
+  "size": 18508,
+  "format": "PRG",
+  "files": [
+    "Blue Max 2001.prg"
+  ],
+  "screenscraper_id": "110012",
+  "title": "Blue Max 2001",
+  "year": "1984",
+  "publisher": "Synapse Software",
+  "developer": "Synapse Software",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Science-Fiction-Fortsetzung des Weltkriegs-Shooters Blue Max: Statt eines Doppeldeckers steuert der Spieler ein schwebendes Kampffahrzeug in schräger Draufsicht über eine Landschaft der Zukunft. Bodenziele werden bombardiert, gegnerische Flieger abgeschossen, und Treibstoff, Munition und Höhe müssen im Blick bleiben. Das diagonale Scrollen erinnert an Zaxxon, das Spielprinzip bleibt nah am Vorgänger.\n\nErschienen 1984/85 bei Synapse Software, in Europa bei U.S. Gold, auf Diskette und Kassette. Gesteuert wird mit dem Joystick in Port 2. Es gibt eine OneLoad64-Modulumsetzung.\n\nCode: Bob Polin · Grafik: Bob Polin · Musik: Ihor Wolosenko",
+  "texts": {
+    "de": "Science-Fiction-Fortsetzung des Weltkriegs-Shooters Blue Max: Statt eines Doppeldeckers steuert der Spieler ein schwebendes Kampffahrzeug in schräger Draufsicht über eine Landschaft der Zukunft. Bodenziele werden bombardiert, gegnerische Flieger abgeschossen, und Treibstoff, Munition und Höhe müssen im Blick bleiben. Das diagonale Scrollen erinnert an Zaxxon, das Spielprinzip bleibt nah am Vorgänger.\n\nErschienen 1984/85 bei Synapse Software, in Europa bei U.S. Gold, auf Diskette und Kassette. Gesteuert wird mit dem Joystick in Port 2. Es gibt eine OneLoad64-Modulumsetzung.\n\nCode: Bob Polin · Grafik: Bob Polin · Musik: Ihor Wolosenko",
+    "en": "Science-fiction sequel to the World War I shooter Blue Max: instead of a biplane, the player flies a hovering combat craft over a futuristic landscape seen from an oblique top-down angle. Ground targets are bombed, enemy aircraft shot down, and fuel, ammunition and altitude must be watched. The diagonal scrolling recalls Zaxxon, while the gameplay stays close to the predecessor.\n\nReleased in 1984/85 by Synapse Software, and in Europe by U.S. Gold, on disk and tape. It is controlled with a joystick in port 2. There is a OneLoad64 cartridge conversion.\n\nCode: Bob Polin · Graphics: Bob Polin · Music: Ihor Wolosenko"
+  },
+  "images": {
+    "ss": "images/aa/aa8451382fa3b390926f4ee174f025551b63c750.png"
+  }
+}

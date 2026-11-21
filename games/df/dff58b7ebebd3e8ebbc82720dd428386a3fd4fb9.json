@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "dff58b7ebebd3e8ebbc82720dd428386a3fd4fb9",
+  "md5": "b1cbac292def7100743cc1568b4acf06",
+  "crc32": "37fbddc0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DJ_C64.D64"
+  ],
+  "title": "The Demon Jar",
+  "year": "2026",
+  "publisher": "QL Adventures",
+  "developer": "Alan Pemberton",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Illustriertes Textadventure im Stil einer viktorianischen Schauergeschichte (Untertitel „Fosdyke's Folly“). Der junge Gentleman Oswald Stanley besucht an einem Sommerabend einen alten Studienfreund; im Lauf der Nacht erwacht ein mörderischer böser Geist. Gesteuert wird mit englischen Textbefehlen: Gegenstände untersuchen, nehmen und gezielt einsetzen, mit Personen reden, ihnen etwas geben oder abnehmen; einen Universalbefehl „USE“ gibt es nicht. Laut Autor nicht für Kinder geeignet.\n\nErstellt mit DAAD Ready, das Spiel gibt es auch für andere Rechner.\n\nOriginal von der itch.io-Seite des Autors, als D64; erstmals im September 2026 erschienen.",
+  "texts": {
+    "de": "Illustriertes Textadventure im Stil einer viktorianischen Schauergeschichte (Untertitel „Fosdyke's Folly“). Der junge Gentleman Oswald Stanley besucht an einem Sommerabend einen alten Studienfreund; im Lauf der Nacht erwacht ein mörderischer böser Geist. Gesteuert wird mit englischen Textbefehlen: Gegenstände untersuchen, nehmen und gezielt einsetzen, mit Personen reden, ihnen etwas geben oder abnehmen; einen Universalbefehl „USE“ gibt es nicht. Laut Autor nicht für Kinder geeignet.\n\nErstellt mit DAAD Ready, das Spiel gibt es auch für andere Rechner.\n\nOriginal von der itch.io-Seite des Autors, als D64; erstmals im September 2026 erschienen.",
+    "en": "Illustrated text adventure in the style of a Victorian horror story (subtitled \"Fosdyke's Folly\"). Young gentleman Oswald Stanley visits an old college friend on a summer evening; as the night goes on, a murderous evil spirit awakens. You play with English text commands: examine, take and use objects in specific ways, talk to people, give them things or take things from them; there is no generic \"USE\" verb. The author warns it is not suitable for children.\n\nMade with DAAD Ready; the game also exists for other computers.\n\nOriginal from the author's itch.io page, as a D64; first released in September 2026."
+  }
+}

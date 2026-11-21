@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "2bb5727440229c7cb9b92e4aa7856329a9e87c38",
+  "md5": "e40c62a55e694e25fdc1e095fa58427d",
+  "crc32": "ce3b0578",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "24hours.d64"
+  ],
+  "title": "24 Hours in the Darkness",
+  "year": "2026",
+  "publisher": "codebiters",
+  "developer": "codebiters",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Rettungsaktion in der Draufsicht: Kinder haben sich im Wald verirrt, und Officer Axel holt sie heim. Jede Stunde von 01:00 bis 24:00 ist ein Level, in dem drei hinter Büschen und Felsen versteckte Kinder gefunden und zum Basislager gebracht werden müssen. Monster und Höhlen, die Nachschub schicken, stellen sich in den Weg, alle sechs Stunden kommt ein großes Monster; Gewehr und Maschinengewehr liegen im Wald versteckt. Der Wald ändert sich mit der Tageszeit, und gegen Ende jeder Stunde jagt ein Riesenwecker den Spieler. Für junge Spieler gedacht: Die Kinder werden nie getroffen, Axel stirbt nie.\n\nD64-Diskette, erschienen am 19.11.2026, Preis frei wählbar. PAL und NTSC, Joystick in Port 2, vier Wälder, eigene SID-Musik; der Fortschritt wird nach jeder Stunde auf Diskette gespeichert. Texte in Englisch, Italienisch, Spanisch und Deutsch.",
+  "texts": {
+    "de": "Rettungsaktion in der Draufsicht: Kinder haben sich im Wald verirrt, und Officer Axel holt sie heim. Jede Stunde von 01:00 bis 24:00 ist ein Level, in dem drei hinter Büschen und Felsen versteckte Kinder gefunden und zum Basislager gebracht werden müssen. Monster und Höhlen, die Nachschub schicken, stellen sich in den Weg, alle sechs Stunden kommt ein großes Monster; Gewehr und Maschinengewehr liegen im Wald versteckt. Der Wald ändert sich mit der Tageszeit, und gegen Ende jeder Stunde jagt ein Riesenwecker den Spieler. Für junge Spieler gedacht: Die Kinder werden nie getroffen, Axel stirbt nie.\n\nD64-Diskette, erschienen am 19.11.2026, Preis frei wählbar. PAL und NTSC, Joystick in Port 2, vier Wälder, eigene SID-Musik; der Fortschritt wird nach jeder Stunde auf Diskette gespeichert. Texte in Englisch, Italienisch, Spanisch und Deutsch.",
+    "en": "Top-down rescue game: children have got lost in the woods, and Officer Axel brings them home. Every hour from 01:00 to 24:00 is a level in which three children hidden behind bushes and rocks have to be found and led back to base camp. Monsters and caves that send reinforcements get in the way, a big monster appears every six hours, and a rifle and a machine gun are hidden in the forest. The forest changes with the time of day, and near the end of each hour a giant alarm clock chases the player. Meant for young players: the children are never hit and Axel never dies.\n\nD64 disk, released on 19 Nov 2026, name your own price. PAL and NTSC, joystick in port 2, four forests, original SID music; progress is saved to disk after every hour. Texts in English, Italian, Spanish and German."
+  },
+  "images": {
+    "ss": "images/6d/6daf2e6738c73a38217ff008ff44ebc0f5729224.png",
+    "sstitle": "images/96/96e8d9856bc27d3e662c7e67cbdd7345776ae0d3.png"
+  }
+}

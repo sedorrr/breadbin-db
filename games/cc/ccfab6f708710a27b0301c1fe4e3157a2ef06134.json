@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "ccfab6f708710a27b0301c1fe4e3157a2ef06134",
+  "md5": "d3142e00b7dbcf257a7f1fe7cda2c89f",
+  "crc32": "559754fa",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Kangaroo_C64_v2.d64"
+  ],
+  "title": "Kangaroo",
+  "year": "2026",
+  "publisher": "SlopSoft",
+  "developer": "superduckuk",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Automaten Kangaroo von Sun Electronics (1982): Eine Känguru-Mutter klettert über Leitern und Plattformen nach oben, um ihr Junges zu befreien, und wehrt sich dabei mit Boxhandschuhen gegen Affen und deren geworfene Äpfel. Weitere Angaben zum Spielablauf liegen nicht vor.\n\nD64-Diskette, Fassung 2 (speichert die Bestenliste). Laut Autor nur in VICE getestet; Preis frei wählbar.",
+  "texts": {
+    "de": "Umsetzung des Automaten Kangaroo von Sun Electronics (1982): Eine Känguru-Mutter klettert über Leitern und Plattformen nach oben, um ihr Junges zu befreien, und wehrt sich dabei mit Boxhandschuhen gegen Affen und deren geworfene Äpfel. Weitere Angaben zum Spielablauf liegen nicht vor.\n\nD64-Diskette, Fassung 2 (speichert die Bestenliste). Laut Autor nur in VICE getestet; Preis frei wählbar.",
+    "en": "Conversion of the Sun Electronics arcade game Kangaroo (1982): a mother kangaroo climbs ladders and platforms to rescue her joey, fighting off monkeys and the apples they throw with her boxing gloves. No further details on the gameplay are available.\n\nD64 disk, version 2 (saves the high score table). According to the author only tested in VICE; name your own price."
+  },
+  "images": {
+    "ss": "images/86/866be20c159ba9e995295bea43945b6e3442432b.png",
+    "sstitle": "images/8d/8d4cd45a1973afd5eea3c18731775f5e0e7cb454.png"
+  }
+}

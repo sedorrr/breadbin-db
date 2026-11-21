@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "45acbd60ecb7ad666b5c309a1e45823f21d7b0d6",
+  "md5": "814fc5aa10f18e3639aed15c3d293ff2",
+  "crc32": "cab3eeef",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Magic_Mushrooms_C64.d64"
+  ],
+  "title": "Magic Mushrooms",
+  "year": "2026",
+  "publisher": "SlopSoft",
+  "developer": "superduckuk",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "C64-Umsetzung des gleichnamigen BBC-Micro-Plattformspiels von Acornsoft (1985). Man springt durch eine Folge von Einzelbildschirmen mit Titeln wie „Fairground Fun“ oder „Snakes and Ladders“. Ein eingebauter Editor erlaubt eigene Bildschirme, die sich auf Diskette speichern und wieder laden lassen.\n\nGesteuert wird über die Tastatur (RETURN springt, F1 Pause, F3 weiter, S/Q Ton an/aus, RUN/STOP beendet); im Hauptmenü E = Editor, L/S = Bildschirme laden/speichern.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+  "texts": {
+    "de": "C64-Umsetzung des gleichnamigen BBC-Micro-Plattformspiels von Acornsoft (1985). Man springt durch eine Folge von Einzelbildschirmen mit Titeln wie „Fairground Fun“ oder „Snakes and Ladders“. Ein eingebauter Editor erlaubt eigene Bildschirme, die sich auf Diskette speichern und wieder laden lassen.\n\nGesteuert wird über die Tastatur (RETURN springt, F1 Pause, F3 weiter, S/Q Ton an/aus, RUN/STOP beendet); im Hauptmenü E = Editor, L/S = Bildschirme laden/speichern.\n\nOriginal von der itch.io-Seite des Autors, als D64.",
+    "en": "C64 conversion of the Acornsoft BBC Micro platform game of the same name (1985). You jump through a series of single screens with titles such as \"Fairground Fun\" or \"Snakes and Ladders\". A built-in editor lets you design your own screens and save them to and load them from disk.\n\nControlled from the keyboard (RETURN jumps, F1 pause, F3 continue, S/Q sound on/off, RUN/STOP quits); in the main menu E opens the editor, L/S load and save screens.\n\nOriginal from the author's itch.io page, as a D64."
+  },
+  "images": {
+    "ss": "images/ad/add321b03882638a550866e09f24649b13f6ed30.png",
+    "sstitle": "images/50/506e4aae6caeb6228c45a0a0725152cf33bdce83.png"
+  }
+}

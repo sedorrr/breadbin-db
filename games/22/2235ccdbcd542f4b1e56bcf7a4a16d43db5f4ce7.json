@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "2235ccdbcd542f4b1e56bcf7a4a16d43db5f4ce7",
+  "md5": "cfe2fe708f228debca09e7e06ae14cc1",
+  "crc32": "257079f7",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "moonlit_balloon.d64"
+  ],
+  "title": "Moonlit Balloon",
+  "year": "2026",
+  "publisher": "Tansoft",
+  "developer": "Tansoft",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Geschicklichkeitsspiel von Tansoft: Ein Heißluftballon schwebt nachts über eine Stadt und muss Hindernissen und Gegnern ausweichen; ein späterer Abschnitt heißt „Pyramid Sands“. Drei Schwierigkeitsstufen (leicht, normal, ultra).\n\nGesteuert wird mit W/A/S/D und Leertaste oder dem Joystick in Port 2.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+  "texts": {
+    "de": "Geschicklichkeitsspiel von Tansoft: Ein Heißluftballon schwebt nachts über eine Stadt und muss Hindernissen und Gegnern ausweichen; ein späterer Abschnitt heißt „Pyramid Sands“. Drei Schwierigkeitsstufen (leicht, normal, ultra).\n\nGesteuert wird mit W/A/S/D und Leertaste oder dem Joystick in Port 2.\n\nOriginal von der itch.io-Seite von Tansoft, als D64 und PRG.",
+    "en": "Skill game by Tansoft: a hot-air balloon floats over a city at night and has to avoid obstacles and enemies; a later stage is called \"Pyramid Sands\". Three difficulty levels (easy, normal, ultra).\n\nControls: W/A/S/D and space, or a joystick in port 2.\n\nOriginal from Tansoft's itch.io page, as D64 and PRG."
+  },
+  "images": {
+    "ss": "images/fb/fb7877de5fd26ecfee276abc274caa2c4186ba68.png",
+    "sstitle": "images/a5/a5aac2f1b048bf6c98e7b1b7cd49ab18aca41c4b.png"
+  }
+}

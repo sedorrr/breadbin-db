@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8e7c9f6d2dadd8319fab47eaf52c27e59dcaafc5",
+  "md5": "774bb89ef9eab58df25388e6fc2d77a6",
+  "crc32": "c005278f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Pumpkids_+3_LAXITY.d64"
+  ],
+  "title": "The Pumpkids +3",
+  "year": "2026",
+  "publisher": "Pretzel Logic",
+  "developer": "Pretzel Logic",
+  "genres": [
+    "Plattform",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Plattform-Puzzle mit Halloween-Thema: Die Pumpkids haben sich in einem Spukschloss verirrt und müssen in jedem Level den Sarg auf der rechten Seite erreichen, der sie hinausführt (Joystick nach unten). Nicht immer sind zu Beginn alle Pumpkids da – fehlende müssen erst im Level gesucht werden.\n\nUrsprünglich Bonusspiel der Demo „Breadbin of Horror“ (The Pumpkins, Platz 3 im Demo-Wettbewerb der Zoo 2026), danach einzeln veröffentlicht. Steuerung per Joystick.\n\nCrack-Fassung von Laxity vom 1. November 2026 (D64) mit Intro und drei Trainer-Optionen; nur PAL. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Kleines Plattform-Puzzle mit Halloween-Thema: Die Pumpkids haben sich in einem Spukschloss verirrt und müssen in jedem Level den Sarg auf der rechten Seite erreichen, der sie hinausführt (Joystick nach unten). Nicht immer sind zu Beginn alle Pumpkids da – fehlende müssen erst im Level gesucht werden.\n\nUrsprünglich Bonusspiel der Demo „Breadbin of Horror“ (The Pumpkins, Platz 3 im Demo-Wettbewerb der Zoo 2026), danach einzeln veröffentlicht. Steuerung per Joystick.\n\nCrack-Fassung von Laxity vom 1. November 2026 (D64) mit Intro und drei Trainer-Optionen; nur PAL. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Small Halloween-themed platform puzzler: the Pumpkids are lost in a haunted castle and in each level must reach the coffin on the right, which leads them out (joystick down). Not all Pumpkids are always present at the start – missing ones have to be found in the level first.\n\nOriginally a bonus game in the demo \"Breadbin of Horror\" (The Pumpkins, 3rd place in the demo competition at Zoo 2026), later released on its own. Joystick controlled.\n\nCrack by Laxity from 1 November 2026 (D64) with intro and three trainer options; PAL only. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/17/17ebc8945dd7a6c05182b02e25388494ebfa3863.png",
+    "sstitle": "images/03/030d96f8dd4cfaa0a2ac6c064c582925cbb9b4fd.png"
+  }
+}

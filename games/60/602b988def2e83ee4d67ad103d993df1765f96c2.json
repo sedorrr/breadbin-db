@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "602b988def2e83ee4d67ad103d993df1765f96c2",
+  "md5": "90e6674b14f61f1d3bf33044a8fbf0a1",
+  "crc32": "f1ac667a",
+  "size": 73936,
+  "format": "CRT",
+  "files": [
+    "Moebius.crt"
+  ],
+  "screenscraper_id": "115278",
+  "title": "Moebius",
+  "year": "1985",
+  "publisher": "Infinite Games",
+  "developer": "A. Stanworth",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "In diesem waagerecht scrollenden Shoot'em Up übernimmt der Spieler den Söldner Moebius, der gegen die Truppen eines Herrschers, des „Controllers“, kämpft. Jeder Abschnitt spielt auf einem anderen Planeten; Ziel ist jeweils ein Transporter, der zum nächsten Planeten bringt. Unterwegs müssen Gegnerwellen und Hindernisse überwunden werden.\n\nMoebius erschien 1985 beim britischen Kleinverlag Infinite Games für den C64 auf Kassette; später wurde es in Italien auch über eine Heftbeilage verbreitet. Im Umlauf sind Cracks sowie Modul- und EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick in Port 2. Nicht zu verwechseln mit Origins Rollenspiel „Moebius: The Orb of Celestial Harmony“.\n\nCode: A. Stanworth · Grafik: Danny Root · Musik: Dave Robinson",
+  "texts": {
+    "de": "In diesem waagerecht scrollenden Shoot'em Up übernimmt der Spieler den Söldner Moebius, der gegen die Truppen eines Herrschers, des „Controllers“, kämpft. Jeder Abschnitt spielt auf einem anderen Planeten; Ziel ist jeweils ein Transporter, der zum nächsten Planeten bringt. Unterwegs müssen Gegnerwellen und Hindernisse überwunden werden.\n\nMoebius erschien 1985 beim britischen Kleinverlag Infinite Games für den C64 auf Kassette; später wurde es in Italien auch über eine Heftbeilage verbreitet. Im Umlauf sind Cracks sowie Modul- und EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick in Port 2. Nicht zu verwechseln mit Origins Rollenspiel „Moebius: The Orb of Celestial Harmony“.\n\nCode: A. Stanworth · Grafik: Danny Root · Musik: Dave Robinson",
+    "en": "In this horizontally scrolling shoot'em up the player takes the role of the mercenary Moebius, who fights the forces of a ruler known as the Controller. Each stage takes place on a different planet; the goal is always a transporter that leads to the next planet. Waves of enemies and obstacles have to be overcome along the way.\n\nMoebius was released in 1985 by the small British publisher Infinite Games for the C64 on tape; later it was also distributed in Italy with a magazine. Cracks as well as cartridge and EasyFlash conversions are in circulation. It is controlled with a joystick in port 2. Not to be confused with Origin's role-playing game \"Moebius: The Orb of Celestial Harmony\".\n\nCode: A. Stanworth · Graphics: Danny Root · Music: Dave Robinson"
+  },
+  "images": {
+    "ss": "images/9a/9a6abae63bdb0ddab6a0d9f69cf8ae6c198d97a7.png",
+    "sstitle": "images/c5/c547853518e3f3c4093701d828a6854ec5ef6fb6.png"
+  }
+}

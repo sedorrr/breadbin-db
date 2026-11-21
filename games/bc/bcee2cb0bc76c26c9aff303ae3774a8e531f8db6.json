@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "bcee2cb0bc76c26c9aff303ae3774a8e531f8db6",
+  "md5": "0425c78724366baca1c79884ee02c7fd",
+  "crc32": "f947c2f3",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Jet Set Willy II.crt"
+  ],
+  "screenscraper_id": "113292",
+  "title": "Jet Set Willy II: The Final Frontier",
+  "year": "1985",
+  "publisher": "Software Projects",
+  "developer": "Software Projects",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Miner Willy erkundet erneut seine riesige Villa, die gegenüber Jet Set Willy deutlich erweitert wurde. Er muss alle blinkenden Gegenstände im Haus einsammeln, bevor er endlich zu Bett gehen darf, und weicht dabei skurrilen Gegnern und tödlichen Hindernissen aus. Einige neue Räume greifen Gerüchte über angebliche Geheimräume des ersten Teils auf, manche früher sichere Stellen sind nun gefährlich, und das Spiel hat ein anderes Ende. Die genaue Sprungsteuerung und die verrückten Raumnamen sind typisch für die Reihe.\n\nDas Spiel entstand aus der Amstrad-Umsetzung von Jet Set Willy; für den C64 wurden alle Räume und Figuren neu angelegt, weil sich das Bildformat unterscheidet. Erhältlich war es auf Kassette und Diskette; gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur. Spätere Modulumsetzungen fassen das Spiel auf einem Modul zusammen.\n\nCode: John Darnell, Steve Birtles",
+  "texts": {
+    "de": "Miner Willy erkundet erneut seine riesige Villa, die gegenüber Jet Set Willy deutlich erweitert wurde. Er muss alle blinkenden Gegenstände im Haus einsammeln, bevor er endlich zu Bett gehen darf, und weicht dabei skurrilen Gegnern und tödlichen Hindernissen aus. Einige neue Räume greifen Gerüchte über angebliche Geheimräume des ersten Teils auf, manche früher sichere Stellen sind nun gefährlich, und das Spiel hat ein anderes Ende. Die genaue Sprungsteuerung und die verrückten Raumnamen sind typisch für die Reihe.\n\nDas Spiel entstand aus der Amstrad-Umsetzung von Jet Set Willy; für den C64 wurden alle Räume und Figuren neu angelegt, weil sich das Bildformat unterscheidet. Erhältlich war es auf Kassette und Diskette; gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur. Spätere Modulumsetzungen fassen das Spiel auf einem Modul zusammen.\n\nCode: John Darnell, Steve Birtles",
+    "en": "Miner Willy explores his huge mansion once again, now considerably extended compared with Jet Set Willy. He has to collect every flashing object in the house before he is finally allowed to go to bed, avoiding bizarre enemies and deadly hazards on the way. Some new rooms are based on rumours about supposed secret rooms in the first game, some formerly safe spots are now dangerous, and the ending is different. The precise jumping and the eccentric room names are typical of the series.\n\nThe game grew out of the Amstrad conversion of Jet Set Willy; for the C64 all rooms and sprites were re-laid out because of the different screen format. It was available on tape and disk and is played with a joystick in port 2 or the keyboard. Later cartridge conversions put the game on a single cartridge.\n\nCode: John Darnell, Steve Birtles"
+  },
+  "images": {
+    "ss": "images/4f/4f5aaa3b45f8e740ced6e3402af8d0be76dc2a01.png",
+    "sstitle": "images/f4/f4b7850e8218b79ee1ef8c2d2d73df8846a9e55b.png"
+  }
+}

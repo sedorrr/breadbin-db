@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "af87a31784d5c3f30be695e7728d31e9c9a67861",
+  "md5": "7aac7c6b6afc04a51f5877b034f33731",
+  "crc32": "b15765dc",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Sabre Wulf.crt"
+  ],
+  "screenscraper_id": "36820",
+  "title": "Sabre Wulf",
+  "year": "1984",
+  "publisher": "Ultimate Play the Game",
+  "developer": "Ultimate Play the Game (C64: Mr. Micro, Greg Duddle)",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1-2",
+  "synopsis": "Sabreman irrt durch einen labyrinthartigen Dschungel und sucht die vier Teile eines Amuletts, mit dem er den Höhlenausgang passieren darf. Unterwegs greifen Eingeborene, Nashörner, Irrlichter und anderes Getier an; den unverwundbaren Sabre Wulf kann er nur meiden. Blühende Orchideen wirken unterschiedlich, etwa schützend, beschleunigend oder verwirrend. Mit seinen farbigen Dschungelbildern war das Spiel einer der großen Erfolge von Ultimate und der Auftakt der Sabreman-Reihe.\n\nDie C64-Fassung erschien 1985 bei Firebird unter dem Ultimate-Namen, auf Kassette und Diskette, programmiert von Greg Duddle bei Mr. Micro. Sie folgt der Spectrum-Vorlage sehr eng: Die Bildschirme schalten um statt zu scrollen, die Musik greift auf Bach zurück. Zwei Spieler spielen abwechselnd. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Greg Duddle · Musik: Greg Duddle",
+  "texts": {
+    "de": "Sabreman irrt durch einen labyrinthartigen Dschungel und sucht die vier Teile eines Amuletts, mit dem er den Höhlenausgang passieren darf. Unterwegs greifen Eingeborene, Nashörner, Irrlichter und anderes Getier an; den unverwundbaren Sabre Wulf kann er nur meiden. Blühende Orchideen wirken unterschiedlich, etwa schützend, beschleunigend oder verwirrend. Mit seinen farbigen Dschungelbildern war das Spiel einer der großen Erfolge von Ultimate und der Auftakt der Sabreman-Reihe.\n\nDie C64-Fassung erschien 1985 bei Firebird unter dem Ultimate-Namen, auf Kassette und Diskette, programmiert von Greg Duddle bei Mr. Micro. Sie folgt der Spectrum-Vorlage sehr eng: Die Bildschirme schalten um statt zu scrollen, die Musik greift auf Bach zurück. Zwei Spieler spielen abwechselnd. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Greg Duddle · Musik: Greg Duddle",
+    "en": "Sabreman wanders through a maze-like jungle searching for the four pieces of an amulet that will let him pass the cave exit. Along the way he is attacked by natives, rhinos, will-o'-the-wisps and other creatures; the invulnerable Sabre Wulf can only be avoided. Blooming orchids have different effects, such as protection, speed or confusion. With its colourful jungle screens the game was one of Ultimate's big hits and the start of the Sabreman series.\n\nThe C64 version was released in 1985 by Firebird under the Ultimate name, on tape and disk, programmed by Greg Duddle at Mr. Micro. It follows the Spectrum original very closely: screens flip rather than scroll, and the music draws on Bach. Two players take turns. Cracks and cartridge conversions, for example for OneLoad64, are in circulation. It is controlled with a joystick in port 2.\n\nCode: Greg Duddle · Music: Greg Duddle"
+  }
+}

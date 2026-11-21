@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "c6016b278c8ae3abe57e0748a614fa12c8e3ed34",
+  "md5": "be4e1e3094273db190489a09af411315",
+  "crc32": "cd235fdf",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Entombed.crt"
+  ],
+  "screenscraper_id": "111889",
+  "title": "Entombed",
+  "year": "1985",
+  "publisher": "Ultimate Play the Game",
+  "developer": "Dave Thomas, Bob Thomas (Ashby Computers & Graphics)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Im zweiten Teil der Pendragon-Reihe nach The Staff of Karnath muss Sir Arthur Pendragon aus einem altägyptischen Grab unter der Sphinx entkommen, bevor ihm Lebenskraft oder Atemluft ausgehen. In isometrischer Ansicht durchstreift er Kammern und Gänge, löst Rätsel um Mechanismen und Schlüssel und wehrt Gegner mit Peitsche und Fackel ab. Verlorene Kraft gewinnt er über Ankh-Symbole zurück, die erlegte Krähen fallen lassen. Gelobt wurden vor allem die logisch aufgebauten, teils überraschenden Rätsel.\n\nEntombed erschien nur für den C64, auf Kassette und Diskette. Entwickelt wurde es nicht von den Ultimate-Gründern Tim und Chris Stamper, sondern von den Brüdern Thomas. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Dave Thomas · Grafik: Bob Thomas · Musik: Dave Thomas",
+  "texts": {
+    "de": "Im zweiten Teil der Pendragon-Reihe nach The Staff of Karnath muss Sir Arthur Pendragon aus einem altägyptischen Grab unter der Sphinx entkommen, bevor ihm Lebenskraft oder Atemluft ausgehen. In isometrischer Ansicht durchstreift er Kammern und Gänge, löst Rätsel um Mechanismen und Schlüssel und wehrt Gegner mit Peitsche und Fackel ab. Verlorene Kraft gewinnt er über Ankh-Symbole zurück, die erlegte Krähen fallen lassen. Gelobt wurden vor allem die logisch aufgebauten, teils überraschenden Rätsel.\n\nEntombed erschien nur für den C64, auf Kassette und Diskette. Entwickelt wurde es nicht von den Ultimate-Gründern Tim und Chris Stamper, sondern von den Brüdern Thomas. Im Umlauf sind Cracks und Modulumsetzungen, etwa für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Dave Thomas · Grafik: Bob Thomas · Musik: Dave Thomas",
+    "en": "In the second instalment of the Pendragon series after The Staff of Karnath, Sir Arthur Pendragon has to escape from an ancient Egyptian tomb beneath the Sphinx before his life force or air runs out. In an isometric view he explores chambers and corridors, solves puzzles involving mechanisms and keys, and fends off enemies with a whip and a torch. He regains lost strength through ankh symbols dropped by slain crows. Reviewers particularly praised the logical and at times surprising puzzles.\n\nEntombed was released only for the C64, on tape and disk. It was not developed by Ultimate founders Tim and Chris Stamper but by the Thomas brothers. Cracks and cartridge conversions, for example for OneLoad64, are in circulation. It is controlled with a joystick in port 2.\n\nCode: Dave Thomas · Graphics: Bob Thomas · Music: Dave Thomas"
+  },
+  "images": {
+    "ss": "images/7d/7d5494beb434a286d7821c50518b5e966e52deba.png",
+    "sstitle": "images/f2/f2025f726d130ed48a5506f9318b8f5e1c181632.png"
+  }
+}

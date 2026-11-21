@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "9290d28303f528eb3255133e447361fd5f589ea4",
+  "md5": "3a30d39f1be50c296971ed038576a181",
+  "crc32": "40cc78c2",
+  "size": 24425,
+  "format": "PRG",
+  "files": [
+    "Super Pipeline II.prg"
+  ],
+  "screenscraper_id": "36740",
+  "title": "Super Pipeline II",
+  "year": "1985",
+  "publisher": "Taskset",
+  "developer": "Taskset",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Die Fortsetzung von Super Pipeline schickt den Klempner Foreman Fred erneut an eine verwinkelte Rohrleitung, durch die Flüssigkeit aus einem Tank in Fässer am unteren Bildrand fließen soll. Gegner kriechen an den Rohren entlang und schlagen Lecks, die Freds Helfer flicken müssen, während Fred sie mit seiner Waffe beschützt. Jede der 16 Leitungen ist verzwickter als die vorige; das Spiel endet, wenn alle Arbeiter verloren sind. Der schräge Humor und die hektische Mischung aus Schießen und Beschützen machten die Reihe bekannt.\n\nDas Spiel erschien auf Kassette und Diskette, später als Billigausgabe bei Mastertronic (dort teils als „Pipeline 2“). Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur; zwei Spieler wechseln sich ab. Spätere Modulumsetzungen fassen das Spiel ohne Nachladen auf einem Modul zusammen.\n\nCode: Andy Walker, Tony Gibson · Musik: Paul Hodgson",
+  "texts": {
+    "de": "Die Fortsetzung von Super Pipeline schickt den Klempner Foreman Fred erneut an eine verwinkelte Rohrleitung, durch die Flüssigkeit aus einem Tank in Fässer am unteren Bildrand fließen soll. Gegner kriechen an den Rohren entlang und schlagen Lecks, die Freds Helfer flicken müssen, während Fred sie mit seiner Waffe beschützt. Jede der 16 Leitungen ist verzwickter als die vorige; das Spiel endet, wenn alle Arbeiter verloren sind. Der schräge Humor und die hektische Mischung aus Schießen und Beschützen machten die Reihe bekannt.\n\nDas Spiel erschien auf Kassette und Diskette, später als Billigausgabe bei Mastertronic (dort teils als „Pipeline 2“). Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur; zwei Spieler wechseln sich ab. Spätere Modulumsetzungen fassen das Spiel ohne Nachladen auf einem Modul zusammen.\n\nCode: Andy Walker, Tony Gibson · Musik: Paul Hodgson",
+    "en": "The sequel to Super Pipeline sends foreman Fred back to a winding pipeline that has to carry liquid from a tank into barrels at the bottom of the screen. Enemies crawl along the pipes and punch holes in them, which Fred's helpers must patch while Fred protects them with his gun. Each of the 16 pipelines is trickier than the last; the game ends when all workers are lost. The quirky humour and the frantic mix of shooting and protecting made the series well known.\n\nThe game was released on tape and disk, later as a budget title by Mastertronic (sometimes as \"Pipeline 2\"). It is played with a joystick in port 2 or the keyboard; two players take turns. Later cartridge conversions put the game on a single cartridge without loading.\n\nCode: Andy Walker, Tony Gibson · Music: Paul Hodgson"
+  },
+  "images": {
+    "ss": "images/19/19e63bf81c18828e6baab14be1622e3f0d48b752.png",
+    "sstitle": "images/93/938a62b2922b14101f23a475c759dd445a097b43.png"
+  }
+}

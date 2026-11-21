@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "529266444a7db92ba5b2d646624353b70e35cfa1",
+  "md5": "73f4aaae86824e3ccd52e6f1c3183566",
+  "crc32": "cc3eee3c",
+  "size": 8461,
+  "format": "PRG",
+  "files": [
+    "NIGHTCAT.prg"
+  ],
+  "title": "Nightcat",
+  "year": "2026",
+  "publisher": "Laimer",
+  "developer": "Laimer",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Eine schwarze Katze zieht nachts über die Dächer der Altstadt und stibitzt Fisch von den Fensterbänken, um den nächsten Level zu erreichen. Hunde bewachen die Höfe, Fledermäuse kreisen um die Schornsteine; Feuer springt, Regenrohre lassen sich hochklettern. Im Titel sind Spielvarianten wählbar (neun oder drei Leben, schläfrige oder grimmige Hunde).\n\nJoystick, Feuer springt.\n\nOriginal von der Seite laimer.top, als PRG.",
+  "texts": {
+    "de": "Eine schwarze Katze zieht nachts über die Dächer der Altstadt und stibitzt Fisch von den Fensterbänken, um den nächsten Level zu erreichen. Hunde bewachen die Höfe, Fledermäuse kreisen um die Schornsteine; Feuer springt, Regenrohre lassen sich hochklettern. Im Titel sind Spielvarianten wählbar (neun oder drei Leben, schläfrige oder grimmige Hunde).\n\nJoystick, Feuer springt.\n\nOriginal von der Seite laimer.top, als PRG.",
+    "en": "A black cat prowls over the rooftops of the old town at night, stealing fish from windowsills to reach the next level. Dogs guard the yards and bats circle the chimneys; fire jumps and drainpipes can be climbed. Game variants can be chosen on the title screen (nine or three lives, sleepy or grumpy dogs).\n\nJoystick, fire jumps.\n\nOriginal from laimer.top, as a PRG."
+  },
+  "images": {
+    "ss": "images/bf/bfb540a2be76cfe6922e2c80beac3677fd9561bf.png",
+    "sstitle": "images/17/17db4eadf3fa46c0a2a3c3f3a8c030e87a772108.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c1e890747f5ef09fe23bb66bd5d9c015ae77ad29",
+  "md5": "d33737d3845fde11ce52052fdd1b69d8",
+  "crc32": "b2b716ec",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Threat C64 +4D [Shadow].d64"
+  ],
+  "title": "Threat C64 +4D",
+  "year": "2026",
+  "publisher": "Serpentchain",
+  "developer": "Serpentchain",
+  "genres": [
+    "Shooter",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Fan-Umsetzung des MS-DOS-Shareware-Actionspiels „Threat“: ein Actionshooter für einen oder zwei Spieler. In 16 Einsätzen muss man Aliens ausschalten, Objekte zerstören oder rechtzeitig einen Ort erreichen, bevor die Zeit abläuft. Zwischen den Einsätzen gibt es Geld für neue Waffen, Munition und Verbandszeug; zwölf Waffen vom Maschinengewehr bis zur Megagun. Zu zweit kann man außerdem in acht Arenen gegeneinander antreten.\n\nSpieler 1 Joystick Port 2, Spieler 2 Port 1; C= wechselt die Waffe.\n\nCrack-Fassung von Shadow vom 12. November 2026 als D64-Diskettenfassung des ursprünglich als Modul erschienenen Spiels, mit vier Trainern und Doku; lädt mit Krills Lader, die Diskette muss im Laufwerk bleiben. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Fan-Umsetzung des MS-DOS-Shareware-Actionspiels „Threat“: ein Actionshooter für einen oder zwei Spieler. In 16 Einsätzen muss man Aliens ausschalten, Objekte zerstören oder rechtzeitig einen Ort erreichen, bevor die Zeit abläuft. Zwischen den Einsätzen gibt es Geld für neue Waffen, Munition und Verbandszeug; zwölf Waffen vom Maschinengewehr bis zur Megagun. Zu zweit kann man außerdem in acht Arenen gegeneinander antreten.\n\nSpieler 1 Joystick Port 2, Spieler 2 Port 1; C= wechselt die Waffe.\n\nCrack-Fassung von Shadow vom 12. November 2026 als D64-Diskettenfassung des ursprünglich als Modul erschienenen Spiels, mit vier Trainern und Doku; lädt mit Krills Lader, die Diskette muss im Laufwerk bleiben. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Fan port of the MS-DOS shareware action game \"Threat\": an action shooter for one or two players. In 16 missions you have to eliminate aliens, destroy objects or reach a spot before time runs out. Between missions you earn cash for new weapons, ammo and first aid; twelve weapons from machine gun to megagun. Two players can also fight each other in eight battle arenas.\n\nPlayer 1 uses joystick port 2, player 2 port 1; C= changes weapon.\n\nCrack by Shadow from 12 November 2026 as a D64 disk version of the game originally released as a cartridge, with four trainers and docs; it loads with Krill's loader and the disk must stay in the drive. The original release is also in the database."
+  },
+  "images": {
+    "sstitle": "images/78/78241bbb381f26ead0c6e73421318a6f4dec0fa2.png"
+  }
+}

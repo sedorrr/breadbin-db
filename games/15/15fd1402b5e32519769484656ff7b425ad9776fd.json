@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "15fd1402b5e32519769484656ff7b425ad9776fd",
+  "md5": "5c4e0e5c67a5c10022907c17d3b780cd",
+  "crc32": "fa89b1c7",
+  "size": 14673,
+  "format": "PRG",
+  "files": [
+    "huarong-sfx.prg"
+  ],
+  "title": "Huarong Road",
+  "year": "2026",
+  "publisher": "flat4ware",
+  "developer": "flat4ware",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des chinesischen Schiebepuzzles Huarong Road (Klotski): Der große Stein, der Cao Cao darstellt, muss zwischen den übrigen Blöcken hindurch zum Ausgang geschoben werden. Es gibt sechs Startaufstellungen; Ziel ist eine Lösung mit möglichst wenigen Zügen.\n\nOriginal kostenlos von der itch.io-Seite des Autors, als PRG.",
+  "texts": {
+    "de": "Umsetzung des chinesischen Schiebepuzzles Huarong Road (Klotski): Der große Stein, der Cao Cao darstellt, muss zwischen den übrigen Blöcken hindurch zum Ausgang geschoben werden. Es gibt sechs Startaufstellungen; Ziel ist eine Lösung mit möglichst wenigen Zügen.\n\nOriginal kostenlos von der itch.io-Seite des Autors, als PRG.",
+    "en": "Version of the Chinese sliding block puzzle Huarong Road (Klotski): the large block representing Cao Cao has to be slid past the other blocks to the exit. There are six starting layouts; the goal is to solve each in as few moves as possible.\n\nOriginal from the author's itch.io page, free, as a PRG."
+  },
+  "images": {
+    "ss": "images/94/94d79064a04fbc444bea5257b05c4e042ff9c188.png",
+    "sstitle": "images/25/25a0b34f28f41bed265f6caa00f75113ae851bbf.png"
+  }
+}

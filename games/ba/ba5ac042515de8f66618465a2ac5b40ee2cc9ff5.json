@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "ba5ac042515de8f66618465a2ac5b40ee2cc9ff5",
+  "md5": "b47361490c1d0d6a2c78e147a31b59cc",
+  "crc32": "1fddab3d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SPYSDEMI.D64"
+  ],
+  "screenscraper_id": "113117",
+  "title": "Spy's Demise",
+  "year": "1983",
+  "publisher": "Penguin Software",
+  "developer": "Penguin Software",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Ein Spion muss die Stockwerke eines bewachten Gebäudes überqueren, in denen Aufzüge mit Wachen auf und ab fahren. Er läuft quer über jede Etage und muss dabei den richtigen Moment abpassen, um nicht von einer Wache erwischt zu werden. Am Ende jedes Stockwerks gibt es einen Teil einer verschlüsselten Botschaft, die am Schluss entziffert werden kann; schnelles Laufen bringt Bonuspunkte. Das schlichte, aber knifflige Timing-Spiel war in den frühen 80ern beliebt.\n\nDas Spiel erschien zuerst für den Apple II, die C64-Fassung 1983/84 bei Penguin Software, in Europa bei U.S. Gold; später lag es auch dem Diskettenmagazin Loadstar bei. Gesteuert wird mit Joystick, Tastatur oder Paddles. Es gibt Kassetten- und Diskettenfassungen sowie eine OneLoad64-Modulumsetzung mit Joystick in Port 1.\n\nCode: Wayne Barbarek · Idee: Alan Zeldin",
+  "texts": {
+    "de": "Ein Spion muss die Stockwerke eines bewachten Gebäudes überqueren, in denen Aufzüge mit Wachen auf und ab fahren. Er läuft quer über jede Etage und muss dabei den richtigen Moment abpassen, um nicht von einer Wache erwischt zu werden. Am Ende jedes Stockwerks gibt es einen Teil einer verschlüsselten Botschaft, die am Schluss entziffert werden kann; schnelles Laufen bringt Bonuspunkte. Das schlichte, aber knifflige Timing-Spiel war in den frühen 80ern beliebt.\n\nDas Spiel erschien zuerst für den Apple II, die C64-Fassung 1983/84 bei Penguin Software, in Europa bei U.S. Gold; später lag es auch dem Diskettenmagazin Loadstar bei. Gesteuert wird mit Joystick, Tastatur oder Paddles. Es gibt Kassetten- und Diskettenfassungen sowie eine OneLoad64-Modulumsetzung mit Joystick in Port 1.\n\nCode: Wayne Barbarek · Idee: Alan Zeldin",
+    "en": "A spy has to cross the floors of a guarded building in which guards ride lifts up and down. He runs across each floor and must time his moves so as not to be caught by a guard. At the end of each floor he receives part of an encrypted message that can be decoded at the end; running quickly earns bonus points. This simple but tricky timing game was popular in the early 1980s.\n\nThe game first appeared on the Apple II; the C64 version was released in 1983/84 by Penguin Software and in Europe by U.S. Gold, and it later appeared on the Loadstar disk magazine. It can be controlled by joystick, keyboard or paddles. There are tape and disk versions as well as a OneLoad64 cartridge conversion with the joystick in port 1.\n\nCode: Wayne Barbarek · Concept: Alan Zeldin"
+  },
+  "images": {
+    "ss": "images/83/8395f55911222a6acb5b438bcb7f00a3ae3fdd1e.png",
+    "sstitle": "images/c8/c893fc17504a84e644d8420daa9268c4471cb445.png"
+  }
+}

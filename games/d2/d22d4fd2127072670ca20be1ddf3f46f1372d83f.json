@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "d22d4fd2127072670ca20be1ddf3f46f1372d83f",
+  "md5": "bfe55c70812bfb35542bf707e8bb6284",
+  "crc32": "2b467a8c",
+  "size": 43653,
+  "format": "PRG",
+  "files": [
+    "defender64+3d[s].prg"
+  ],
+  "title": "Defender 64 +3D",
+  "year": "2026",
+  "publisher": "Realite",
+  "developer": "Realite",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle Fan-Umsetzung des Williams-Automaten Defender. Man fliegt über eine horizontal scrollende Landschaft, rettet die Bewohner vor Entführern, wehrt Wellen von Angreifern ab und behält dabei das Radar im Blick. Smart Bombs räumen den Bildschirm, der Hyperraumsprung bringt einen im Notfall an eine andere Stelle.\n\nJoystick in Port 2 (Feuer schießt), Leertaste Smart Bomb, RETURN Hyperraum; erkennt PAL und NTSC selbst.\n\nCrack-Fassung von Shadow vom 2. November 2026 (PRG, Version 1.1) mit drei Trainern (unbegrenzte Leben, unbegrenzte Smart Bombs, Levelsprung mit C=) und Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Inoffizielle Fan-Umsetzung des Williams-Automaten Defender. Man fliegt über eine horizontal scrollende Landschaft, rettet die Bewohner vor Entführern, wehrt Wellen von Angreifern ab und behält dabei das Radar im Blick. Smart Bombs räumen den Bildschirm, der Hyperraumsprung bringt einen im Notfall an eine andere Stelle.\n\nJoystick in Port 2 (Feuer schießt), Leertaste Smart Bomb, RETURN Hyperraum; erkennt PAL und NTSC selbst.\n\nCrack-Fassung von Shadow vom 2. November 2026 (PRG, Version 1.1) mit drei Trainern (unbegrenzte Leben, unbegrenzte Smart Bombs, Levelsprung mit C=) und Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Unofficial fan conversion of the Williams arcade game Defender. You fly over a horizontally scrolling landscape, rescue the inhabitants from abductors, fight off waves of attackers and keep an eye on the radar. Smart bombs clear the screen, and hyperspace takes you somewhere else in an emergency.\n\nJoystick in port 2 (fire shoots), space for smart bomb, RETURN for hyperspace; detects PAL and NTSC automatically.\n\nCrack by Shadow from 2 November 2026 (PRG, version 1.1) with three trainers (unlimited lives, unlimited smart bombs, level skip with C=) and docs. The original release is also in the database."
+  },
+  "images": {
+    "sstitle": "images/8d/8d2656a2d3b2ed3884f6a424d7355dc865edb9d9.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "396af8f903ca81f8217aaa7c0b963f7473cf9046",
+  "md5": "03768676bc2ca69715ae4f621cdba30c",
+  "crc32": "e3e75ad3",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Spy vs Spy III - Arctic Antics.crt"
+  ],
+  "screenscraper_id": "178443",
+  "title": "Spy vs Spy III: Arctic Antics",
+  "year": "1986",
+  "publisher": "Databyte",
+  "developer": "First Star Software",
+  "genres": [
+    "Strategie",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Dritter Teil der Reihe nach den Comicfiguren aus dem MAD-Magazin: Der weiße und der schwarze Spion jagen auf einer eisigen Insel nach den Teilen für ihre Flucht mit einer Rakete. Beide spielen gleichzeitig im geteilten Bildschirm, stellen einander Fallen wie Eislöcher oder Sprengsätze und müssen zugleich ihre Körperwärme im Auge behalten. Die Mischung aus Suche, Fallenstellen und direktem Kräftemessen machte die Reihe zum Mehrspielerklassiker.\n\nErschienen 1986/87 auf Diskette und Kassette, in den USA bei Epyx, in Großbritannien bei Databyte. Gesteuert wird mit Joystick, für zwei Spieler mit je einem Joystick. Es gibt auch eine OneLoad64-Modulumsetzung.\n\nCode: Jim Nangano · Grafik: Jim Nangano · Musik: Nick Scarim",
+  "texts": {
+    "de": "Dritter Teil der Reihe nach den Comicfiguren aus dem MAD-Magazin: Der weiße und der schwarze Spion jagen auf einer eisigen Insel nach den Teilen für ihre Flucht mit einer Rakete. Beide spielen gleichzeitig im geteilten Bildschirm, stellen einander Fallen wie Eislöcher oder Sprengsätze und müssen zugleich ihre Körperwärme im Auge behalten. Die Mischung aus Suche, Fallenstellen und direktem Kräftemessen machte die Reihe zum Mehrspielerklassiker.\n\nErschienen 1986/87 auf Diskette und Kassette, in den USA bei Epyx, in Großbritannien bei Databyte. Gesteuert wird mit Joystick, für zwei Spieler mit je einem Joystick. Es gibt auch eine OneLoad64-Modulumsetzung.\n\nCode: Jim Nangano · Grafik: Jim Nangano · Musik: Nick Scarim",
+    "en": "Third game in the series based on the comic characters from MAD magazine: the white and black spies search an icy island for the parts they need to escape by rocket. Both play simultaneously on a split screen, set traps for each other such as holes in the ice or explosives, and also have to watch their body heat. The mix of searching, trap setting and direct confrontation made the series a multiplayer classic.\n\nReleased in 1986/87 on disk and tape, by Epyx in the US and by Databyte in the UK. It is controlled by joystick, one per player in two-player mode. There is also a OneLoad64 cartridge conversion.\n\nCode: Jim Nangano · Graphics: Jim Nangano · Music: Nick Scarim"
+  },
+  "images": {
+    "ss": "images/de/de427db3e6e4daa2b04ca83a6fc1293d01c4bcda.png",
+    "sstitle": "images/a9/a9bbd26f9066c2e0ecf6589e462280d40b3e305b.png"
+  }
+}

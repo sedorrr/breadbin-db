@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0d66aff65bc534c356c608a22fda7528b31ae56b",
+  "md5": "82ff83ae12fa8bbe36c43a4c409500d5",
+  "crc32": "2f21e4d3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "big_top_tilt.d64"
+  ],
+  "title": "Big Top Tilt",
+  "year": "2026",
+  "publisher": "mermik",
+  "developer": "mermik",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Zirkusspiel in der Art des Automatenklassikers „Circus“: Ein Clown fällt herab und muss mit dem hochstehenden Ende einer Wippe aufgefangen werden, wodurch der andere Clown in die Luft geschleudert wird und die Luftballons unter der Zirkuskuppel zerplatzen lässt.\n\nSteuerung mit Joystick, Paddle oder den Tasten Z und X; M schaltet die Musik, N den Ton, P pausiert.\n\nOriginal von der itch.io-Seite des Autors, als PRG, D64 und CRT (Modul).",
+  "texts": {
+    "de": "Zirkusspiel in der Art des Automatenklassikers „Circus“: Ein Clown fällt herab und muss mit dem hochstehenden Ende einer Wippe aufgefangen werden, wodurch der andere Clown in die Luft geschleudert wird und die Luftballons unter der Zirkuskuppel zerplatzen lässt.\n\nSteuerung mit Joystick, Paddle oder den Tasten Z und X; M schaltet die Musik, N den Ton, P pausiert.\n\nOriginal von der itch.io-Seite des Autors, als PRG, D64 und CRT (Modul).",
+    "en": "Circus game in the style of the arcade classic \"Circus\": a falling clown has to be caught on the raised end of a seesaw, which launches the other clown into the air to pop the balloons under the big top.\n\nControls: joystick, paddle or the Z and X keys; M toggles music, N sound, P pauses.\n\nOriginal from the author's itch.io page, as PRG, D64 and CRT (cartridge)."
+  },
+  "images": {
+    "ss": "images/82/82d74fc8c94c70e9d312e3d3fbd01b2e67f440c7.png",
+    "sstitle": "images/e3/e371304e06f9f759d9ce8de25f832825db017e22.png"
+  }
+}

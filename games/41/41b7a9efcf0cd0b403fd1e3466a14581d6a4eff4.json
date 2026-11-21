@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "41b7a9efcf0cd0b403fd1e3466a14581d6a4eff4",
+  "md5": "9620d0f6c054d37238481375f41c431d",
+  "crc32": "b50215d6",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "grid_drifter.d64"
+  ],
+  "title": "Grid Drifter",
+  "year": "2026",
+  "publisher": "Ted Soft",
+  "developer": "technicianted",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Shooter in der Art von „Beamrider“: Fünf Lichtstrahlen dienen als Fahrspuren, zwischen denen das Schiff springt. Gespielt wird über 50 Sektoren in fünf Zonen; Drohnen lassen sich mit einem „Lasso“ einfangen, Abschussketten erhöhen den Multiplikator, und bei voller Hitzeanzeige steht ein „Overdrive“ zur Verfügung.\n\nOriginal von der itch.io-Seite des Autors zum frei wählbaren Preis, als D64.",
+  "texts": {
+    "de": "Shooter in der Art von „Beamrider“: Fünf Lichtstrahlen dienen als Fahrspuren, zwischen denen das Schiff springt. Gespielt wird über 50 Sektoren in fünf Zonen; Drohnen lassen sich mit einem „Lasso“ einfangen, Abschussketten erhöhen den Multiplikator, und bei voller Hitzeanzeige steht ein „Overdrive“ zur Verfügung.\n\nOriginal von der itch.io-Seite des Autors zum frei wählbaren Preis, als D64.",
+    "en": "Shooter in the style of \"Beamrider\": five light beams serve as lanes between which the ship jumps. Play spans 50 sectors in five zones; drones can be captured with a \"lasso\", kill chains raise the multiplier, and an \"overdrive\" becomes available when the heat gauge is full.\n\nOriginal from the author's itch.io page as pay-what-you-want, as a D64."
+  },
+  "images": {
+    "sstitle": "images/47/47f0e86f0908151b0a895cfa1b6ccd3f4d937315.png"
+  }
+}

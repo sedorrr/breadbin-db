@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f25d3391d54e88e1630c015a950f8236d15207a1",
+  "md5": "687a7e837e26b9a88f14e7f75535d20d",
+  "crc32": "c73c8d1a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "castaway_intro.d64"
+  ],
+  "title": "Castaway",
+  "year": "2026",
+  "publisher": "Finz519",
+  "developer": "Finz519",
+  "genres": [
+    "Abenteuer",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Überlebensabenteuer: Nach einer Notlandung mit dem Wasserflugzeug strandet man auf einer kleinen Insel. Zwischen Tag 5 und 14 fährt ein Schiff vorbei – bis dahin muss auf dem Hügel ein Signal bereitstehen, per Signalfeuer oder Signalspiegel. 14 Orte von Strand und Dschungel bis Vulkanrand und Wrackbucht; Wasser, Nahrung, Energie und Gesundheit sinken, also fischt, sammelt und kocht man, baut Unterstand, Feuer, Werkbank und Regentonne (17 Rezepte). Tägliche Aufgaben bringen Erfahrung für zehn Fertigkeiten, dazu Tag-Nacht-Wechsel und Stürme.\n\nEasyFlash-CRT und D64. Speichern auf Diskette (F7, Laden mit F3), Joystick in Port 2, Tasten I/T/M/P/X für Menüs; kostenlos.",
+  "texts": {
+    "de": "Überlebensabenteuer: Nach einer Notlandung mit dem Wasserflugzeug strandet man auf einer kleinen Insel. Zwischen Tag 5 und 14 fährt ein Schiff vorbei – bis dahin muss auf dem Hügel ein Signal bereitstehen, per Signalfeuer oder Signalspiegel. 14 Orte von Strand und Dschungel bis Vulkanrand und Wrackbucht; Wasser, Nahrung, Energie und Gesundheit sinken, also fischt, sammelt und kocht man, baut Unterstand, Feuer, Werkbank und Regentonne (17 Rezepte). Tägliche Aufgaben bringen Erfahrung für zehn Fertigkeiten, dazu Tag-Nacht-Wechsel und Stürme.\n\nEasyFlash-CRT und D64. Speichern auf Diskette (F7, Laden mit F3), Joystick in Port 2, Tasten I/T/M/P/X für Menüs; kostenlos.",
+    "en": "Survival adventure: after an emergency landing in a seaplane you are stranded on a small island. A ship passes between day 5 and day 14 – by then a signal must be ready on the hill, either a signal fire or a signal mirror. 14 locations from beach and jungle to volcano rim and wreck cove; water, food, energy and health keep dropping, so you fish, forage and cook, and build a shelter, fire, workbench and rain barrel (17 recipes). Daily tasks earn experience for ten skills, and there is a day/night cycle and storms.\n\nEasyFlash CRT and D64. Saving to disk (F7, load with F3), joystick in port 2, keys I/T/M/P/X for menus; free."
+  },
+  "images": {
+    "ss": "images/93/9306774b98b13d582c134b98efb2837d9488aef0.png",
+    "sstitle": "images/ff/ff78693cb98274d1f055f133ea140fc20a57df18.png"
+  }
+}

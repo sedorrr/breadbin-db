@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d2a6c45eb0cb5bd9f7c56b739ff1de3b92ec7f20",
+  "md5": "0eccefef3da58817fa992444a3ec8ab6",
+  "crc32": "ca4be07f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Windfall+2(AI).d64"
+  ],
+  "title": "Windfall +2",
+  "year": "2026",
+  "publisher": "Laimer",
+  "developer": "Laimer",
+  "genres": [
+    "Geschicklichkeit",
+    "Gelegenheitsspiel"
+  ],
+  "players": "1",
+  "synopsis": "Fangspiel in einem Obstgarten an einem stürmischen Tag: Mit einem Korb fängt man herabfallende Äpfel auf, die der Wind seitlich versetzt. Rote Äpfel bringen 10, goldene 50 Punkte; faule Äpfel soll man fallen lassen, wer dagegen einen guten Apfel verliert, büßt ein Leben ein. Windstärke (luftig/stürmisch) und Korbgröße sind wählbar.\n\nJoystick, Feuer startet.\n\nCrack-Fassung von Aldi Industries vom 8. November 2026 (D64) mit Intro, zwei Trainern (endlose Leben, faule Äpfel zählen nicht) und scherzhafter Doku. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Fangspiel in einem Obstgarten an einem stürmischen Tag: Mit einem Korb fängt man herabfallende Äpfel auf, die der Wind seitlich versetzt. Rote Äpfel bringen 10, goldene 50 Punkte; faule Äpfel soll man fallen lassen, wer dagegen einen guten Apfel verliert, büßt ein Leben ein. Windstärke (luftig/stürmisch) und Korbgröße sind wählbar.\n\nJoystick, Feuer startet.\n\nCrack-Fassung von Aldi Industries vom 8. November 2026 (D64) mit Intro, zwei Trainern (endlose Leben, faule Äpfel zählen nicht) und scherzhafter Doku. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Catching game in an orchard on a stormy day: with a basket you catch falling apples that the wind blows sideways. Red apples are worth 10 points, golden ones 50; rotten apples should be left to drop, but losing a good apple costs a life. Wind strength (breezy/stormy) and basket size can be chosen.\n\nJoystick, fire starts.\n\nCrack by Aldi Industries from 8 November 2026 (D64) with intro, two trainers (endless lives, rotten apples harmless) and joke docs. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/36/36e09e3e07100437be535c49ee88fd53b58b8c79.png",
+    "sstitle": "images/c2/c2ca16fa8ec62520f41b0ee0a73216316315ff1c.png"
+  }
+}

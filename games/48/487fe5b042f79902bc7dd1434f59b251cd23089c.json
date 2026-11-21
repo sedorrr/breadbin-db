@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "487fe5b042f79902bc7dd1434f59b251cd23089c",
+  "md5": "731c7d02cd4dcee4d9861a4030f76345",
+  "crc32": "616cb18e",
+  "size": 19204,
+  "format": "PRG",
+  "files": [
+    "ai-griddrifter+.prg"
+  ],
+  "title": "Grid Drifter +3",
+  "year": "2026",
+  "publisher": "Ted Soft",
+  "developer": "technicianted",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Shooter in der Art von „Beamrider“: Fünf Lichtstrahlen dienen als Fahrspuren, zwischen denen das Schiff springt. Gespielt wird über 50 Sektoren in fünf Zonen; Drohnen lassen sich mit einem „Lasso“ einfangen, Abschussketten erhöhen den Multiplikator, und bei voller Hitzeanzeige steht ein „Overdrive“ zur Verfügung.\n\nCrack-Fassung von AIliens vom 16. November 2026 (PRG, einzelne Datei) mit Intro und drei Trainer-Optionen (u. a. unbegrenzte Schiffe). Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Shooter in der Art von „Beamrider“: Fünf Lichtstrahlen dienen als Fahrspuren, zwischen denen das Schiff springt. Gespielt wird über 50 Sektoren in fünf Zonen; Drohnen lassen sich mit einem „Lasso“ einfangen, Abschussketten erhöhen den Multiplikator, und bei voller Hitzeanzeige steht ein „Overdrive“ zur Verfügung.\n\nCrack-Fassung von AIliens vom 16. November 2026 (PRG, einzelne Datei) mit Intro und drei Trainer-Optionen (u. a. unbegrenzte Schiffe). Das Original ist ebenfalls in der Datenbank.",
+    "en": "Shooter in the style of \"Beamrider\": five light beams serve as lanes between which the ship jumps. Play spans 50 sectors in five zones; drones can be captured with a \"lasso\", kill chains raise the multiplier, and an \"overdrive\" becomes available when the heat gauge is full.\n\nCrack by AIliens from 16 November 2026 (PRG, single file) with intro and three trainer options (including infinite ships). The original release is also in the database."
+  },
+  "images": {
+    "sstitle": "images/47/47f0e86f0908151b0a895cfa1b6ccd3f4d937315.png"
+  }
+}

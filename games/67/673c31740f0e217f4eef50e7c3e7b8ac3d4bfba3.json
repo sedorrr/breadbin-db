@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "673c31740f0e217f4eef50e7c3e7b8ac3d4bfba3",
+  "md5": "c6262cb82fa651ee88b3de247c9a5e2c",
+  "crc32": "334bea22",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Donkey Kong (Ocean).crt"
+  ],
+  "screenscraper_id": "489119",
+  "title": "Donkey Kong",
+  "year": "1986",
+  "publisher": "Ocean",
+  "developer": "Arcana Software Design",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1-2",
+  "synopsis": "Ocean setzte den Nintendo-Automaten von 1981 offiziell um: Ein Zimmermann – später als Mario bekannt – klettert über Stahlträger und Leitern, um seine Freundin aus den Händen des Riesenaffen Donkey Kong zu befreien. Der Affe rollt Fässer herab, über die man springt oder die man mit einem Hammer zerschlägt. Eine Runde besteht aus mehreren Bildschirmen mit unterschiedlichen Aufbauten, danach beginnt alles schneller von vorn. Als einer der Urväter der Plattformspiele gilt Donkey Kong bis heute als Klassiker.\n\nDie Umsetzung erschien auf Kassette und Diskette, später als Billigausgabe bei The Hit Squad, in Spanien bei Erbe. Gesteuert wird mit dem Joystick in Port 2, Feuer springt. Zwei Spieler wechseln sich ab. Die C64-Fassung umfasst vier Bildschirme je Runde und gilt als eine der gelungeneren Heimrechnerumsetzungen.\n\nGrafik: Steve Caine · Produktion: Jon Woods",
+  "texts": {
+    "de": "Ocean setzte den Nintendo-Automaten von 1981 offiziell um: Ein Zimmermann – später als Mario bekannt – klettert über Stahlträger und Leitern, um seine Freundin aus den Händen des Riesenaffen Donkey Kong zu befreien. Der Affe rollt Fässer herab, über die man springt oder die man mit einem Hammer zerschlägt. Eine Runde besteht aus mehreren Bildschirmen mit unterschiedlichen Aufbauten, danach beginnt alles schneller von vorn. Als einer der Urväter der Plattformspiele gilt Donkey Kong bis heute als Klassiker.\n\nDie Umsetzung erschien auf Kassette und Diskette, später als Billigausgabe bei The Hit Squad, in Spanien bei Erbe. Gesteuert wird mit dem Joystick in Port 2, Feuer springt. Zwei Spieler wechseln sich ab. Die C64-Fassung umfasst vier Bildschirme je Runde und gilt als eine der gelungeneren Heimrechnerumsetzungen.\n\nGrafik: Steve Caine · Produktion: Jon Woods",
+    "en": "Ocean produced the official conversion of Nintendo's 1981 arcade game: a carpenter – later known as Mario – climbs girders and ladders to rescue his girlfriend from the giant ape Donkey Kong. The ape rolls barrels down at him, which have to be jumped over or smashed with a hammer. One round consists of several screens with different layouts, after which everything starts again at a higher speed. As one of the forefathers of platform games, Donkey Kong is still regarded as a classic.\n\nThe conversion was released on tape and disk, later as a budget release by The Hit Squad and in Spain by Erbe. It is played with a joystick in port 2, fire jumps. Two players take turns. The C64 version has four screens per round and is considered one of the better home computer conversions.\n\nGraphics: Steve Caine · Producer: Jon Woods"
+  },
+  "images": {
+    "ss": "images/36/360bd82e51a549502537e555ee28f0362a553efe.png",
+    "sstitle": "images/c2/c236b758124265695ccc0c84fdc5677441749c33.png"
+  }
+}
