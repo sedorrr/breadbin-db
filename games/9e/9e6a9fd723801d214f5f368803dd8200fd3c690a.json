@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "9e6a9fd723801d214f5f368803dd8200fd3c690a",
+  "md5": "12ef18c939598dbc7e4d11c47744a033",
+  "crc32": "01fc486a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Grid_Pix_(Disk)_+2D_LAXITY+ONSLAUGHT.d64"
+  ],
+  "title": "Grid Pix",
+  "year": "2020",
+  "publisher": "RGCD & Psytronik Software",
+  "developer": "Below the Tower",
+  "genres": [
+    "Brain",
+    "Logical"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/c9/c97d15fc887ac25622b3702e5cb0ed376872b8ef.png",
+    "sstitle": "images/a0/a0c61c1e8743fe948409d849c7815c32c744499b.png"
+  }
+}

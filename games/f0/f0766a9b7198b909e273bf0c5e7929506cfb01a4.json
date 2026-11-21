@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "f0766a9b7198b909e273bf0c5e7929506cfb01a4",
+  "md5": "970353b24feee60ebad86c2a8daf306c",
+  "crc32": "cb0cb266",
+  "size": 328384,
+  "format": "CRT",
+  "files": [
+    "oil_imperium.crt"
+  ],
+  "title": "Oil Imperium (German)",
+  "year": "1989",
+  "publisher": "reLINE Software",
+  "developer": "Peter Fröhlich, H. Heinrich",
+  "genres": [
+    "Wirtschaftssimulation"
+  ],
+  "players": "1-4",
+  "images": {
+    "ss": "images/5d/5d62dcedf096bad22bb7c57af3e3f691e1bf2241.png",
+    "sstitle": "images/17/176ebd354d9af11cdc35a087c632595751510b18.png"
+  }
+}

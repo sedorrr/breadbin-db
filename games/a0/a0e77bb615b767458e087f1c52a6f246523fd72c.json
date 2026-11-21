@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "a0e77bb615b767458e087f1c52a6f246523fd72c",
+  "md5": "7c6615e2b5c740c437b2ba75b1d4e6eb",
+  "crc32": "9cd2054a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Galencia v1.5  6D ExCeSs.d64"
+  ],
+  "title": "Galencia",
+  "year": "2017",
+  "publisher": "Protovision",
+  "genres": [
+    "Arcade",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/e7/e7b9da8e46b57fc69e5b1379140674ed487070fb.png",
+    "sstitle": "images/3d/3d4e77ed3091dc03ea1c920461d3f8f6893c16ee.png"
+  }
+}

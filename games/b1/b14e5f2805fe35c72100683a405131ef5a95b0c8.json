@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "b14e5f2805fe35c72100683a405131ef5a95b0c8",
+  "md5": "f69b3cd75bb7025d9ccb7499cbb3caab",
+  "crc32": "dfcd7074",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "019_WonderBoy_1987_Activision.d64"
+  ],
+  "title": "Wonder Boy",
+  "year": "1987",
+  "publisher": "Activision",
+  "genres": [
+    "Jump & Run"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/ed/ed05308e6073cab2a67c60011f2dfb60af5d33e4.png",
+    "sstitle": "images/72/721eda882358e2d04f702df0a9bff03a18a619da.png"
+  }
+}

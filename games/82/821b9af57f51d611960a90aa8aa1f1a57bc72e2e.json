@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "821b9af57f51d611960a90aa8aa1f1a57bc72e2e",
+  "md5": "c699075fe2fea9047b4ea8b6eee5da9c",
+  "crc32": "509f16d4",
+  "size": 254512,
+  "format": "CRT",
+  "files": [
+    "073_AirborneRanger_1987_Microprose.EF-fixed2.crt"
+  ],
+  "title": "Airborne Ranger",
+  "year": "1987",
+  "publisher": "MicroProse Software",
+  "genres": [
+    "Shoot'em Up - Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/ac/acbccf111e0a5ce0222e6210d9e2a7e43e9823df.png",
+    "sstitle": "images/9c/9cfd54043918b9f9c0ff5a1370928a8ef369185e.png"
+  }
+}

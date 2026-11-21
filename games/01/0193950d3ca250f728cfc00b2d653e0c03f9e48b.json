@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "0193950d3ca250f728cfc00b2d653e0c03f9e48b",
+  "md5": "46e1a9aa253117b3c7a65c9c25068d45",
+  "crc32": "87f72084",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "0018a.d64"
+  ],
+  "title": "Wings of Fury",
+  "year": "1990",
+  "publisher": "Brøderbund",
+  "developer": "Unlimited Software Inc.",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/47/476fd20ec61c8504e9543a374b1344e8317a2a07.png",
+    "sstitle": "images/56/5686173e6397ec453c87b2dddc254d2aeba9e215.png"
+  }
+}

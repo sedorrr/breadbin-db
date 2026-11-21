@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "d11e1a05dc8dfa2b02da808e164f9ad5b1d6dd58",
+  "md5": "ece7398d63f4380c3c71f05ad59d9175",
+  "crc32": "afd4a83d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "(1476) DOUBLE DRAGON .D64"
+  ],
+  "title": "Double Dragon",
+  "year": "1991",
+  "publisher": "Ocean",
+  "developer": "Imagitec Design",
+  "genres": [
+    "Arcade",
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/97/97f8d4f0f1e283c0b2ddbd510d88a51b830c17ab.png",
+    "sstitle": "images/26/267cb517ea3bac880b1c8564bd59aaacb74df9b8.png"
+  }
+}

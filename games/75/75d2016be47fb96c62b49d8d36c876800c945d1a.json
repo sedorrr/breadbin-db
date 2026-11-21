@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "75d2016be47fb96c62b49d8d36c876800c945d1a",
+  "md5": "0471efd38c2e0034e9a5ad124f3bd8df",
+  "crc32": "3fd03372",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "0412A.D64"
+  ],
+  "title": "Winzer (English)",
+  "year": "1991",
+  "publisher": "Starbyte",
+  "developer": "Starbyte",
+  "genres": [
+    "Wirtschaftssimulation"
+  ],
+  "players": "1-4",
+  "images": {
+    "ss": "images/df/df6361785328566847e26e7c32c96f355fd38695.png",
+    "sstitle": "images/e7/e70372dc2932c2d27a8d1b0297e5f0cd330460aa.png"
+  }
+}

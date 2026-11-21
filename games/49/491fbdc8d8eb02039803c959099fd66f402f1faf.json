@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "491fbdc8d8eb02039803c959099fd66f402f1faf",
+  "md5": "aad253fc8bf74358a6d5ba6d6bd795f0",
+  "crc32": "e0314f54",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Battleships.d64"
+  ],
+  "title": "Battleships",
+  "year": "1987",
+  "publisher": "Elite Systems",
+  "genres": [
+    "Brettspiel"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/54/542f723941440d16902716b549b70946e6f71429.png",
+    "sstitle": "images/91/91a36a30f5f6bb4247c86495f2da10fccdf18a70.png"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "f0c6209877ae7ed825c9103144d56fa68ebfd206",
+  "md5": "076f8b890ae5fe534e56299849123945",
+  "crc32": "f102f906",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "HOPPODERTOP2.D64"
+  ],
+  "title": "Hopp oder Top",
+  "year": "1992",
+  "publisher": "PCSL Software GmbH",
+  "genres": [
+    "Quiz"
+  ],
+  "players": "1-3",
+  "images": {
+    "ss": "images/20/2072f58280c3c1adba87004e5a201219705ba3c0.png",
+    "sstitle": "images/b2/b2e44d13fc04e05a7735a8ae56c01200ab225e61.png"
+  }
+}

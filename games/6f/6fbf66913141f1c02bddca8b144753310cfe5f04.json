@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "6fbf66913141f1c02bddca8b144753310cfe5f04",
+  "md5": "6b7f4db955ce67dfc8e4ff3281b90ea0",
+  "crc32": "7ff37107",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "H.E.R.O.+1DGHM V1.1 101%[ROLE].d64"
+  ],
+  "title": "H.E.R.O.",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "The Softworks",
+  "genres": [
+    "Arcade",
+    "Platformer (Multi Screen)"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/44/44afde344387008a379802a4d85d9668eed5d5bb.png",
+    "sstitle": "images/d7/d79da78722a151f3b1a5042fd92fc1258cf56a5b.png"
+  }
+}

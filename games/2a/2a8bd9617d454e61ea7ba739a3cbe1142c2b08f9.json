@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "2a8bd9617d454e61ea7ba739a3cbe1142c2b08f9",
+  "md5": "b83e6c3cea89aa9f9b73e8faf8b6b2e9",
+  "crc32": "2e938072",
+  "size": 175531,
+  "format": "D64",
+  "files": [
+    "-+- CRACKDOWN -+-          .D64"
+  ],
+  "title": "Crack Down",
+  "year": "1990",
+  "publisher": "Sega",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/a9/a9db4c144b88866e2a41548ae42d03163ababa7f.png",
+    "sstitle": "images/b9/b936a4d2472dd853d8d8a235088056f339a60d44.png"
+  }
+}

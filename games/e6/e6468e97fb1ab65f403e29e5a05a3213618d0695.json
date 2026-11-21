@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "e6468e97fb1ab65f403e29e5a05a3213618d0695",
+  "md5": "3a71555f33548945725898fe48c63bcc",
+  "crc32": "3164817d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "0327 JUNGLE HUNT.D64"
+  ],
+  "title": "Jungle Hunt",
+  "year": "1983",
+  "publisher": "Atarisoft",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/16/16d9bff29dbe1e851e01f7f509dec233cc489043.png",
+    "sstitle": "images/c6/c6d96a0498bee6eaf281487c90e320a9929efdcf.png"
+  }
+}

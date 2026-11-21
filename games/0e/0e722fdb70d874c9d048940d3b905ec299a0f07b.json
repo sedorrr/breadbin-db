@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "0e722fdb70d874c9d048940d3b905ec299a0f07b",
+  "md5": "ba379c3f03c753b1d59b1fc6a2f9fade",
+  "crc32": "2bba5e8d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "01StreetSportsFootball-Ikari+ATC.d64"
+  ],
+  "title": "Street Sports Football",
+  "year": "1988",
+  "publisher": "Epyx",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/b2/b22b202acce262d5880f36367221fdcfbc6ed054.png",
+    "sstitle": "images/dc/dcee1388c1dde93e1f4297a8b441c6ca6151e191.png"
+  }
+}

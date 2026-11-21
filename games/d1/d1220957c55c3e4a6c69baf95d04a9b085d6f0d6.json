@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "d1220957c55c3e4a6c69baf95d04a9b085d6f0d6",
+  "md5": "1146d8fb2ee430b735e19012b07d5f53",
+  "crc32": "b82d9798",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Die Hard +3 - NEC.d64"
+  ],
+  "title": "Die Hard",
+  "year": "1990",
+  "publisher": "Activision",
+  "developer": "Activision",
+  "genres": [
+    "Actionadventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/a1/a17a114f88c34bbab548575ec2144411e076e3d9.png",
+    "sstitle": "images/e0/e01e34adee89a9b511ea8670e31a2033a4c13ac8.png"
+  }
+}

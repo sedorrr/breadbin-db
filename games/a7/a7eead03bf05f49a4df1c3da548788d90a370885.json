@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "a7eead03bf05f49a4df1c3da548788d90a370885",
+  "md5": "45d28a90255ecca8f6523968185821be",
+  "crc32": "dc631315",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Grand Monster Slam.d64"
+  ],
+  "title": "Grand Monster Slam",
+  "year": "1989",
+  "publisher": "Rainbow Arts",
+  "developer": "Golden Goblins",
+  "genres": [
+    "Weird! Sport"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/0f/0f386e132665c9f8ad94959925f13a69efc6a632.png",
+    "sstitle": "images/aa/aafaf2e87dda8fdb96ead43d56f906a4b6918850.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "fd50cbbe9bf7fbb3df40fe4c952e524e21a45cb6",
+  "md5": "d4c443041233f77f276618a5dc89ce3c",
+  "crc32": "b2f874d9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "North Sea Inferno +10 - Crest.d64"
+  ],
+  "title": "The North Sea Inferno",
+  "year": "1989",
+  "publisher": "Magic Bytes",
+  "developer": "Magic Bytes",
+  "genres": [
+    "Shoot'em Up",
+    "V-Scrolling"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/c6/c6e014e38470d0acf3ff7cf26812e833ad4185de.png",
+    "sstitle": "images/c6/c6e2c2c8049afae3bd88ea072bcc11727695a069.png"
+  }
+}

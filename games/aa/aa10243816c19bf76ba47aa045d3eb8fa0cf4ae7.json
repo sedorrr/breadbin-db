@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "aa10243816c19bf76ba47aa045d3eb8fa0cf4ae7",
+  "md5": "22fc1294b0974e64387a80300a000798",
+  "crc32": "bfbdf250",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Barry McGuigan World Championship Boxing +6 (PUGSY).d64"
+  ],
+  "title": "Barry McGuigan World Championship Boxing",
+  "year": "1985",
+  "publisher": "Activison",
+  "genres": [
+    "Sport",
+    "Boxen"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/42/423c86ca1c26876533275aca09fa6318ea149587.png",
+    "sstitle": "images/9a/9ae11e1398b1024cb72c1dfb346de24054470136.png"
+  }
+}

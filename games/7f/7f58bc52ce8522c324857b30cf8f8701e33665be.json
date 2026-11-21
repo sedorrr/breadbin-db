@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "7f58bc52ce8522c324857b30cf8f8701e33665be",
+  "md5": "c8c8dd298ae0aa0517e9ccf26764c149",
+  "crc32": "491a7232",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Atomix +2 [Lazer].D64"
+  ],
+  "title": "Atomix",
+  "year": "1990",
+  "publisher": "Thalion Software",
+  "genres": [
+    "Denkspiel"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/57/57ce474bf7d9f79232e7a758842605ed4abb3a20.png",
+    "sstitle": "images/33/33d967f83d08d534d7c7a1feff7d04de5621a63b.png"
+  }
+}

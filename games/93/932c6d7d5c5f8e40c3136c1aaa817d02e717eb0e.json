@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "932c6d7d5c5f8e40c3136c1aaa817d02e717eb0e",
+  "md5": "907cbdbb1afa5974b951317e1fe1c261",
+  "crc32": "0c33418c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "-+- TESTDRIVE 1 -+-   .d64"
+  ],
+  "title": "Test Drive",
+  "year": "1987",
+  "publisher": "Accolade",
+  "developer": "Distinctive Software",
+  "genres": [
+    "Racing",
+    "Cars"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/8f/8fbb85a1e4b7ae8b1d47c3067bdfe53c2e1f0798.png",
+    "sstitle": "images/e6/e6d789f6a72424ed5bbea3fbfc182c1fb16d9acc.png"
+  }
+}

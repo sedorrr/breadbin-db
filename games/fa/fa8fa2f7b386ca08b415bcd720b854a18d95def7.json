@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "fa8fa2f7b386ca08b415bcd720b854a18d95def7",
+  "md5": "7e5c768e981667adf9238419e009448c",
+  "crc32": "fd373728",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Maniac MansionB.D64"
+  ],
+  "title": "Maniac Mansion (German)",
+  "year": "1987",
+  "publisher": "Rushware/Lucasfilm Games",
+  "genres": [
+    "Adventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/ad/adda7583aa87066e6a22ac61d0a36122ea6526c3.png",
+    "sstitle": "images/a4/a4f5a25962e2867d7a93f583a3abe69d7ada2d37.png"
+  }
+}

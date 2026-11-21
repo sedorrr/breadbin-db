@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "83a6929d0e76bb79070cbe74e1d5d318f1222ade",
+  "md5": "aeaefaaee63f72f062f9d1824862e986",
+  "crc32": "967dcc8e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "(1476) SPACE CRUSADE.D64"
+  ],
+  "title": "Space Crusade",
+  "year": "1992",
+  "publisher": "Gremlin Graphics",
+  "genres": [
+    "Adventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/09/0997db62429883dfa0b40884c308f060ef3904b9.png",
+    "sstitle": "images/49/4965182bce25bfe6164c85dc7348c74b2c17269f.png"
+  }
+}

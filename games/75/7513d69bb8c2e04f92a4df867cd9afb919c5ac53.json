@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "7513d69bb8c2e04f92a4df867cd9afb919c5ac53",
+  "md5": "eda770afd912e23b02ed1e92613051c3",
+  "crc32": "98e80e9b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Ooze-The_Escape_+2D_LAXITY.d64"
+  ],
+  "title": "Ooze - The Escape",
+  "year": "2023",
+  "developer": "BubbleSoft",
+  "genres": [
+    "Arcade - Platformer (Multi Screen)"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/82/8201ef1ffb012b731cd0a4a5a97760ef62278a14.png",
+    "sstitle": "images/4d/4d526e1dd2d05dfed52a8540a86f8ecdc39f6b6b.png"
+  }
+}

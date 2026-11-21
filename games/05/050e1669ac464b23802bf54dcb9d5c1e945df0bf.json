@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "050e1669ac464b23802bf54dcb9d5c1e945df0bf",
+  "md5": "499a538d76c42242471a9ff92e031602",
+  "crc32": "04780f1a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PlanetGolf+3-Triad.d64"
+  ],
+  "title": "Planet Golf",
+  "year": "2017",
+  "publisher": "RGCD & Psytronik Software",
+  "genres": [
+    "Sport",
+    "Golf"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/e5/e54dab376d2157784b6844dabed762b11eb97570.png",
+    "sstitle": "images/de/defe24aca01beff84e56751c3913818667ca502a.png"
+  }
+}
