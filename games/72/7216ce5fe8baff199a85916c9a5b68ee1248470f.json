@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "7216ce5fe8baff199a85916c9a5b68ee1248470f",
+  "md5": "cb14d58b16e03be2e9b713c42ea83033",
+  "crc32": "cbb7ae86",
+  "size": 28226,
+  "format": "PRG",
+  "files": [
+    "FireTrap.prg"
+  ],
+  "screenscraper_id": "36616",
+  "title": "FireTrap",
+  "year": "1987",
+  "publisher": "Electric Dreams Software",
+  "developer": "Source the Software House",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Data-East-Automaten von 1986: Ein Feuerwehrmann klettert an der Außenwand eines brennenden Hochhauses nach oben und rettet Menschen, die an den Fenstern auf Hilfe warten. Mit seinem Löschschlauch hält er Flammen, herabfallende Trümmer und andere Gefahren in Schach, während das Bild senkrecht mitscrollt. Oben angekommen, wartet das nächste Gebäude. Das Spiel lebt vom ungewöhnlichen Thema – Retten statt Zerstören.\n\nDie C64-Fassung erschien auf Kassette und Diskette und war später auch in der Sammlung „Six Sizzlers“ enthalten. Gesteuert wird mit dem Joystick in Port 2. Außerdem gibt es Modulumsetzungen, etwa aus der OneLoad64-Sammlung.\n\nCode: Michael Chilton · Musik: Chris Gill",
+  "texts": {
+    "de": "Umsetzung des Data-East-Automaten von 1986: Ein Feuerwehrmann klettert an der Außenwand eines brennenden Hochhauses nach oben und rettet Menschen, die an den Fenstern auf Hilfe warten. Mit seinem Löschschlauch hält er Flammen, herabfallende Trümmer und andere Gefahren in Schach, während das Bild senkrecht mitscrollt. Oben angekommen, wartet das nächste Gebäude. Das Spiel lebt vom ungewöhnlichen Thema – Retten statt Zerstören.\n\nDie C64-Fassung erschien auf Kassette und Diskette und war später auch in der Sammlung „Six Sizzlers“ enthalten. Gesteuert wird mit dem Joystick in Port 2. Außerdem gibt es Modulumsetzungen, etwa aus der OneLoad64-Sammlung.\n\nCode: Michael Chilton · Musik: Chris Gill",
+    "en": "A conversion of Data East's 1986 arcade game: a firefighter climbs the outside wall of a burning skyscraper and rescues people waiting at the windows. With his hose he keeps flames, falling debris and other hazards at bay while the screen scrolls vertically. At the top, the next building awaits. The game stands out for its unusual theme – rescuing instead of destroying.\n\nThe C64 version was released on cassette and disk and was later included in the \"Six Sizzlers\" compilation. It is controlled with a joystick in port 2. There are also cartridge conversions, for example from the OneLoad64 collection.\n\nCode: Michael Chilton · Music: Chris Gill"
+  },
+  "images": {
+    "ss": "images/7e/7e7f9c740e933c10bc05cafcf24931dc76ad5e60.png",
+    "sstitle": "images/dc/dc587cfa923b97fc0d27d4c2f019fde8aa46a25d.png"
+  }
+}

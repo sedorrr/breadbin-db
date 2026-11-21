@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "53c02b5858a054a3a1f691f12bc9e1046364c80d",
+  "md5": "589879a49b1f40a0e77d91bb2b137cd7",
+  "crc32": "24fa5724",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DRCREEP.D64"
+  ],
+  "screenscraper_id": "110978",
+  "title": "The Castles of Doctor Creep",
+  "year": "1984",
+  "publisher": "Brøderbund",
+  "developer": "Ed Hobbs",
+  "genres": [
+    "Puzzle",
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "In den dreizehn Burgen des Doktor Creep gilt es, jeweils den Ausgang zu finden. Dazu müssen Fallen und Mechanismen durchschaut werden: Blitzmaschinen, Kraftfelder, Strahlenkanonen, Falltüren, Schlüssel und Laufbänder, dazu Mumien und Frankenstein-Monster, die den Weg versperren. Das Spiel verbindet Plattform-Elemente mit Knobelei und ist vor allem für seinen Zwei-Spieler-Modus bekannt, in dem beide gleichzeitig spielen und sich gegenseitig helfen müssen – manche Burgen sind genau darauf ausgelegt. Es gilt als einer der frühen Klassiker des kooperativen Spiels auf dem C64.\n\nUrsprünglich auf Diskette erschienen; die Burgen werden einzeln nachgeladen, Bestzeiten werden gespeichert. Für zwei Spieler werden zwei Joysticks benötigt. Daneben gibt es eine EasyFlash-Umsetzung als Modul.\n\nCode: Ed Hobbs · Grafik: Ed Hobbs · Musik: Ed Hobbs",
+  "texts": {
+    "de": "In den dreizehn Burgen des Doktor Creep gilt es, jeweils den Ausgang zu finden. Dazu müssen Fallen und Mechanismen durchschaut werden: Blitzmaschinen, Kraftfelder, Strahlenkanonen, Falltüren, Schlüssel und Laufbänder, dazu Mumien und Frankenstein-Monster, die den Weg versperren. Das Spiel verbindet Plattform-Elemente mit Knobelei und ist vor allem für seinen Zwei-Spieler-Modus bekannt, in dem beide gleichzeitig spielen und sich gegenseitig helfen müssen – manche Burgen sind genau darauf ausgelegt. Es gilt als einer der frühen Klassiker des kooperativen Spiels auf dem C64.\n\nUrsprünglich auf Diskette erschienen; die Burgen werden einzeln nachgeladen, Bestzeiten werden gespeichert. Für zwei Spieler werden zwei Joysticks benötigt. Daneben gibt es eine EasyFlash-Umsetzung als Modul.\n\nCode: Ed Hobbs · Grafik: Ed Hobbs · Musik: Ed Hobbs",
+    "en": "In each of Doctor Creep's thirteen castles, the goal is to find the way out. That means figuring out traps and mechanisms: lightning machines, force fields, ray guns, trapdoors, keys and conveyor belts, plus mummies and Frankenstein monsters blocking the way. The game combines platform elements with puzzle-solving and is best known for its two-player mode, in which both players play simultaneously and have to help each other – some castles are designed specifically for this. It is considered one of the early classics of cooperative play on the C64.\n\nOriginally released on disk; castles are loaded individually and best times are saved. Two joysticks are needed for two players. There is also an EasyFlash cartridge conversion.\n\nCode: Ed Hobbs · Graphics: Ed Hobbs · Music: Ed Hobbs"
+  },
+  "images": {
+    "sstitle": "images/38/386d49e53957ef39d1894a5f4c53058d92c84359.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "889e2b309f399cecedf4332fe533cf745ddb0a52",
+  "md5": "57f93aefd23633f5b297e7bf77578d0f",
+  "crc32": "aaeeb2b3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FAERYT-1.D64"
+  ],
+  "screenscraper_id": "108837",
+  "title": "The Faery Tale Adventure",
+  "year": "1987",
+  "publisher": "MicroIllusions",
+  "developer": "David Joiner (Original), Sculptured Software (C64-Umsetzung)",
+  "genres": [
+    "Action / Abenteuer",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Die drei Brüder Julian, Phillip und Kevin ziehen nacheinander los, um das Land Holm von einem bösen Zauberer zu befreien und einen Talisman zurückzuholen: Scheitert einer, übernimmt der nächste. Gespielt wird in einer schrägen Draufsicht mit Kämpfen in Echtzeit. Die Welt war für ihre Zeit außergewöhnlich groß und wird ohne Unterbrechung durchwandert, bei Tag und Nacht, zu Fuß, zu Pferd oder später auf dem Rücken eines Vogels.\n\nDas Original erschien 1987 auf dem Amiga; die C64-Fassung von Sculptured Software folgte 1988 auf mehreren Diskettenseiten mit stark vereinfachter Technik. Gesteuert wird mit dem Joystick in Port 2. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nDesign (Original): David Joiner · Code (C64): Kenneth Moore",
+  "texts": {
+    "de": "Die drei Brüder Julian, Phillip und Kevin ziehen nacheinander los, um das Land Holm von einem bösen Zauberer zu befreien und einen Talisman zurückzuholen: Scheitert einer, übernimmt der nächste. Gespielt wird in einer schrägen Draufsicht mit Kämpfen in Echtzeit. Die Welt war für ihre Zeit außergewöhnlich groß und wird ohne Unterbrechung durchwandert, bei Tag und Nacht, zu Fuß, zu Pferd oder später auf dem Rücken eines Vogels.\n\nDas Original erschien 1987 auf dem Amiga; die C64-Fassung von Sculptured Software folgte 1988 auf mehreren Diskettenseiten mit stark vereinfachter Technik. Gesteuert wird mit dem Joystick in Port 2. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nDesign (Original): David Joiner · Code (C64): Kenneth Moore",
+    "en": "The three brothers Julian, Phillip and Kevin set out one after another to free the land of Holm from an evil sorcerer and recover a talisman: if one fails, the next takes over. The game uses an angled top-down view with real-time combat. Its world was exceptionally large for its time and can be crossed without interruption, by day and night, on foot, on horseback or later on the back of a bird.\n\nThe original appeared on the Amiga in 1987; Sculptured Software's C64 version followed in 1988 on several disk sides with much simplified technology. It is controlled with a joystick in port 2. Besides the disk versions there are EasyFlash conversions from the scene that run the game from a cartridge without disk swapping and with much shorter loading times.\n\nDesign (original): David Joiner · Code (C64): Kenneth Moore"
+  },
+  "images": {
+    "ss": "images/36/36dde48d59cde0e4a14ce95eefa66124be737e42.png"
+  }
+}

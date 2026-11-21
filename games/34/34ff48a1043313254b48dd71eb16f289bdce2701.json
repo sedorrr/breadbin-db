@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "34ff48a1043313254b48dd71eb16f289bdce2701",
+  "md5": "932e5fe00376b9dc46c8c1a7228f5572",
+  "crc32": "c57a4af6",
+  "size": 197056,
+  "format": "CRT",
+  "files": [
+    "Bart vs The Space Mutants (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35840",
+  "title": "The Simpsons: Bart vs. the Space Mutants",
+  "year": "1991",
+  "publisher": "Ocean",
+  "developer": "Arc Developments",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Bart Simpson entdeckt, dass Außerirdische Springfield unterwandert haben und Gegenstände für eine Superwaffe sammeln. In fünf seitlich scrollenden Abschnitten muss er ihnen zuvorkommen: Zuerst gilt es, alles Lilafarbene mit der Spraydose umzufärben, später Hüte, Ballons, Ausgangsschilder und Brennstäbe einzusammeln. Getarnte Aliens erledigt er per Sprung auf den Kopf, mit Münzen kauft er Hilfsmittel wie Knallkörper und Raketen, und am Ende der Abschnitte warten Endgegner. Viele Aufgaben verlangen Kombinieren, etwa Streiche mit dem Telefon.\n\nDie C64-Fassung ist eine Umsetzung des NES-Spiels und erschien in Europa auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2. Es gibt eine MultiLoad64-EasyFlash-Umsetzung als Modul von $olo1870.\n\nCode: Richard Underhill · Grafik: Paul Walker · Musik: Jonathan Dunn",
+  "texts": {
+    "de": "Bart Simpson entdeckt, dass Außerirdische Springfield unterwandert haben und Gegenstände für eine Superwaffe sammeln. In fünf seitlich scrollenden Abschnitten muss er ihnen zuvorkommen: Zuerst gilt es, alles Lilafarbene mit der Spraydose umzufärben, später Hüte, Ballons, Ausgangsschilder und Brennstäbe einzusammeln. Getarnte Aliens erledigt er per Sprung auf den Kopf, mit Münzen kauft er Hilfsmittel wie Knallkörper und Raketen, und am Ende der Abschnitte warten Endgegner. Viele Aufgaben verlangen Kombinieren, etwa Streiche mit dem Telefon.\n\nDie C64-Fassung ist eine Umsetzung des NES-Spiels und erschien in Europa auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 2. Es gibt eine MultiLoad64-EasyFlash-Umsetzung als Modul von $olo1870.\n\nCode: Richard Underhill · Grafik: Paul Walker · Musik: Jonathan Dunn",
+    "en": "Bart Simpson discovers that aliens have infiltrated Springfield and are collecting objects for an ultimate weapon. In five side-scrolling stages he has to beat them to it: first by spray-painting everything purple, later by collecting hats, balloons, exit signs and nuclear rods. He defeats disguised aliens by jumping on their heads, buys items such as cherry bombs and rockets with coins, and faces bosses at the end of the stages. Many tasks require some thinking, such as prank phone calls.\n\nThe C64 version is a conversion of the NES game and was released in Europe on cassette and disk. It is controlled with a joystick in port 2. There is a MultiLoad64 EasyFlash cartridge conversion by $olo1870.\n\nCode: Richard Underhill · Graphics: Paul Walker · Music: Jonathan Dunn"
+  }
+}

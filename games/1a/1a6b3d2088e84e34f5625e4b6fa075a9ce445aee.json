@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1a6b3d2088e84e34f5625e4b6fa075a9ce445aee",
+  "md5": "9e340ddcf980aec9ea8dea9e0a830764",
+  "crc32": "988e5177",
+  "size": 333744,
+  "format": "G64",
+  "files": [
+    "MIGHTM1A.G64"
+  ],
+  "screenscraper_id": "115203",
+  "title": "Might and Magic: Secret of the Inner Sanctum",
+  "year": "1987",
+  "publisher": "New World Computing",
+  "developer": "Jon Van Caneghem",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Erster Teil der Might-and-Magic-Reihe: Eine Gruppe von sechs Abenteurern erkundet die Welt Varn mit ihren Städten, Burgen, Höhlen und Wildnisgebieten auf der Suche nach dem geheimnisvollen Inneren Heiligtum. Die Erkundung erfolgt in Ich-Perspektive auf einem Raster, Kämpfe laufen rundenbasiert. Charaktere werden aus mehreren Klassen und Völkern zusammengestellt und haben Gesinnung und Geschlecht. Das Spiel ist für seine sehr große Welt, den hohen Schwierigkeitsgrad und viele Geheimnisse bekannt.\n\nUrsprünglich 1986 für den Apple II erschienen, folgte die C64-Fassung auf mehreren Disketten. Bedient wird überwiegend mit der Tastatur.\n\nCode: Jon Van Caneghem",
+  "texts": {
+    "de": "Erster Teil der Might-and-Magic-Reihe: Eine Gruppe von sechs Abenteurern erkundet die Welt Varn mit ihren Städten, Burgen, Höhlen und Wildnisgebieten auf der Suche nach dem geheimnisvollen Inneren Heiligtum. Die Erkundung erfolgt in Ich-Perspektive auf einem Raster, Kämpfe laufen rundenbasiert. Charaktere werden aus mehreren Klassen und Völkern zusammengestellt und haben Gesinnung und Geschlecht. Das Spiel ist für seine sehr große Welt, den hohen Schwierigkeitsgrad und viele Geheimnisse bekannt.\n\nUrsprünglich 1986 für den Apple II erschienen, folgte die C64-Fassung auf mehreren Disketten. Bedient wird überwiegend mit der Tastatur.\n\nCode: Jon Van Caneghem",
+    "en": "The first part of the Might and Magic series: a party of six adventurers explores the world of Varn with its towns, castles, caves and wilderness areas in search of the mysterious Inner Sanctum. Exploration takes place in a first-person, grid-based view, and combat is turn-based. Characters are created from several classes and races and have an alignment and a gender. The game is known for its very large world, its high difficulty and many secrets.\n\nOriginally released for the Apple II in 1986, the C64 version followed on several disks. It is operated mainly with the keyboard.\n\nCode: Jon Van Caneghem"
+  },
+  "images": {
+    "ss": "images/69/69fb4b33c1af5d4c410dc8a0bd97d585df33c419.png",
+    "sstitle": "images/9c/9c8821b30c4a752adde693d2c46de96f55ee552c.png"
+  }
+}

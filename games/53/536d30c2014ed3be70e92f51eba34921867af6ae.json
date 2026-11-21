@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "536d30c2014ed3be70e92f51eba34921867af6ae",
+  "md5": "999cf9091a8173fadd804de20522a903",
+  "crc32": "76f41208",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "10th Frame.crt"
+  ],
+  "screenscraper_id": "106813",
+  "title": "10th Frame",
+  "year": "1986",
+  "publisher": "Access Software",
+  "developer": "Access Software",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-8",
+  "synopsis": "10th Frame ist eine Bowlingsimulation aus dem Hause Access Software, das zuvor mit Leader Board erfolgreich war. Der Spieler stellt die Position des Bowlers ein, zielt und bestimmt mit dem Joystick über eine Anzeige Wurfkraft und Drall. Die Bahn wird in einer räumlichen Ansicht von hinten gezeigt, die Pins fallen glaubwürdig. Bis zu acht Spieler können reihum spielen, auch im Ligabetrieb, was das Spiel zu einem beliebten Partyspiel machte.\n\nErschienen auf Kassette und Diskette; in Europa vertrieb U.S. Gold das Spiel. Später gab es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Bruce Carver, Roger Carver · Grafik: Bruce Carver, Roger Carver",
+  "texts": {
+    "de": "10th Frame ist eine Bowlingsimulation aus dem Hause Access Software, das zuvor mit Leader Board erfolgreich war. Der Spieler stellt die Position des Bowlers ein, zielt und bestimmt mit dem Joystick über eine Anzeige Wurfkraft und Drall. Die Bahn wird in einer räumlichen Ansicht von hinten gezeigt, die Pins fallen glaubwürdig. Bis zu acht Spieler können reihum spielen, auch im Ligabetrieb, was das Spiel zu einem beliebten Partyspiel machte.\n\nErschienen auf Kassette und Diskette; in Europa vertrieb U.S. Gold das Spiel. Später gab es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Bruce Carver, Roger Carver · Grafik: Bruce Carver, Roger Carver",
+    "en": "10th Frame is a bowling simulation from Access Software, who had previously scored a hit with Leader Board. The player sets the bowler's position, aims and uses the joystick and a meter to set throwing power and spin. The lane is shown in a three-dimensional view from behind, and the pins fall convincingly. Up to eight players can take turns, including league play, which made it a popular party game.\n\nReleased on tape and disk; in Europe the game was distributed by U.S. Gold. A OneLoad64 cartridge conversion appeared later. It is played with the joystick.\n\nCode: Bruce Carver, Roger Carver · Graphics: Bruce Carver, Roger Carver"
+  },
+  "images": {
+    "ss": "images/02/0201b8e3e7a00fb4e0aaf578be53931ba1b3250c.png",
+    "sstitle": "images/7b/7bf9a20894a102bc83267d030243d8a719046716.png"
+  }
+}

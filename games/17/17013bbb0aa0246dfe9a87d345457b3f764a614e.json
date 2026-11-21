@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "17013bbb0aa0246dfe9a87d345457b3f764a614e",
+  "md5": "695dbc3f182b66d9e8a1425b471007da",
+  "crc32": "e635b4ee",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Leaderboard (Tournament Disk 1).d64"
+  ],
+  "screenscraper_id": "36665",
+  "title": "Leader Board",
+  "year": "1986",
+  "publisher": "Access Software",
+  "developer": "Access Software (Bruce Carver, Roger Carver)",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-4",
+  "synopsis": "Golfsimulation, bei der bis zu vier Spieler über mehrere 18-Loch-Plätze ziehen. Für jeden Schlag werden Schläger und Richtung gewählt und dann über eine Kraftanzeige mit Zeitpunkt für Kraft und Schnitt geschlagen; Wind beeinflusst den Ball. Die Plätze werden aus der Sicht des Spielers in 3D dargestellt. Drei Schwierigkeitsstufen reichen vom Einsteiger bis zum Profi. Leader Board gehörte wegen der flotten Darstellung und der eingängigen Schlagsteuerung zu den erfolgreichsten Golfspielen der 8-Bit-Zeit.\n\nErschienen auf Diskette und Kassette (in Europa über U.S. Gold), außerdem als Modul. Access veröffentlichte zusätzlich Turnier-Disketten mit weiteren Plätzen; einige Modulumsetzungen enthalten diese Plätze als „Leaderboard Tournament“. Steuerung per Joystick in Port 2.\n\nCode: Bruce Carver, Roger Carver",
+  "texts": {
+    "de": "Golfsimulation, bei der bis zu vier Spieler über mehrere 18-Loch-Plätze ziehen. Für jeden Schlag werden Schläger und Richtung gewählt und dann über eine Kraftanzeige mit Zeitpunkt für Kraft und Schnitt geschlagen; Wind beeinflusst den Ball. Die Plätze werden aus der Sicht des Spielers in 3D dargestellt. Drei Schwierigkeitsstufen reichen vom Einsteiger bis zum Profi. Leader Board gehörte wegen der flotten Darstellung und der eingängigen Schlagsteuerung zu den erfolgreichsten Golfspielen der 8-Bit-Zeit.\n\nErschienen auf Diskette und Kassette (in Europa über U.S. Gold), außerdem als Modul. Access veröffentlichte zusätzlich Turnier-Disketten mit weiteren Plätzen; einige Modulumsetzungen enthalten diese Plätze als „Leaderboard Tournament“. Steuerung per Joystick in Port 2.\n\nCode: Bruce Carver, Roger Carver",
+    "en": "A golf simulation in which up to four players play several 18-hole courses. For each stroke the player picks a club and direction and then swings using a power meter, timing both power and hook or slice; wind affects the ball. The courses are shown in 3D from the golfer's viewpoint. Three difficulty levels range from beginner to professional. Thanks to its quick display and easy-to-learn swing control, Leader Board was one of the most successful golf games of the 8-bit era.\n\nReleased on disk and tape (in Europe through U.S. Gold), and also on cartridge. Access additionally published tournament disks with more courses; some cartridge conversions include these courses as \"Leaderboard Tournament\". Control via joystick in port 2.\n\nCode: Bruce Carver, Roger Carver"
+  },
+  "images": {
+    "sstitle": "images/3d/3d073b0071fb39196062adb5cb9c34dfbd351c3d.png"
+  }
+}

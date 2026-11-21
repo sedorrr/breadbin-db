@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "efb818233fd66b7220f3689ae9918d4e14e06aa9",
+  "md5": "25e37534c09dabe0ea7890a15f5953c1",
+  "crc32": "f1c44a67",
+  "size": 164224,
+  "format": "CRT",
+  "files": [
+    "Commando Arcade.crt"
+  ],
+  "screenscraper_id": "111203",
+  "title": "Commando Arcade",
+  "year": "2014",
+  "publisher": "Nostalgia",
+  "developer": "Nostalgia",
+  "genres": [
+    "Shoot'em Up / Vertikal",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Überarbeitete Fassung von Elites C64-Umsetzung des Capcom-Automaten Commando aus dem Jahr 1985. Wie im Original kämpft sich ein Soldat allein von unten nach oben durch feindliches Gebiet, schießt mit dem Gewehr und wirft Granaten auf Stellungen und Fahrzeuge. Die Arcade-Fassung bringt das Spiel näher an den Automaten heran: zusätzliche Abschnitte, überarbeitete Grafik und neue Klangoptionen. Die Special Edition von 2015 hat erneut vollständig neu gezeichnete Grafik.\n\nVon der Gruppe Nostalgia als kostenlose Diskettenfassung und als EasyFlash-Modul mit Bestenlistenspeicher veröffentlicht. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chris Butler (Original), Fungus, Tomaz Kac · Grafik: Rory Green, Chris Harvey, Steven Day, Tomaz Kac · Musik: Rob Hubbard, Glenn Rune Gallefoss",
+  "texts": {
+    "de": "Überarbeitete Fassung von Elites C64-Umsetzung des Capcom-Automaten Commando aus dem Jahr 1985. Wie im Original kämpft sich ein Soldat allein von unten nach oben durch feindliches Gebiet, schießt mit dem Gewehr und wirft Granaten auf Stellungen und Fahrzeuge. Die Arcade-Fassung bringt das Spiel näher an den Automaten heran: zusätzliche Abschnitte, überarbeitete Grafik und neue Klangoptionen. Die Special Edition von 2015 hat erneut vollständig neu gezeichnete Grafik.\n\nVon der Gruppe Nostalgia als kostenlose Diskettenfassung und als EasyFlash-Modul mit Bestenlistenspeicher veröffentlicht. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chris Butler (Original), Fungus, Tomaz Kac · Grafik: Rory Green, Chris Harvey, Steven Day, Tomaz Kac · Musik: Rob Hubbard, Glenn Rune Gallefoss",
+    "en": "Reworked version of Elite's 1985 C64 conversion of the Capcom arcade game Commando. As in the original, a lone soldier fights his way from the bottom to the top through enemy territory, firing his rifle and throwing grenades at positions and vehicles. The Arcade version brings the game closer to the coin-op: additional sections, reworked graphics and new sound options. The 2015 Special Edition features completely redrawn graphics once more.\n\nReleased by the group Nostalgia as a free disk version and as an EasyFlash cartridge with high score saving. It is controlled by joystick in port 2.\n\nCode: Chris Butler (original), Fungus, Tomaz Kac · Graphics: Rory Green, Chris Harvey, Steven Day, Tomaz Kac · Music: Rob Hubbard, Glenn Rune Gallefoss"
+  },
+  "images": {
+    "ss": "images/07/07f74d4d33d635f566599ae6968faf3077193a5a.png",
+    "sstitle": "images/f5/f5d77767a92f3ca7288ea2e5505f7d0967ba9fdc.png"
+  }
+}

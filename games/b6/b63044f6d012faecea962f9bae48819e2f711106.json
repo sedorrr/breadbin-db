@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "b63044f6d012faecea962f9bae48819e2f711106",
+  "md5": "3eb19a8796f998cfa2c644bc62325db4",
+  "crc32": "92289740",
+  "size": 380330,
+  "format": "TAP",
+  "files": [
+    "Theatre Europe.tap"
+  ],
+  "screenscraper_id": "36763",
+  "title": "Theatre Europe",
+  "year": "1985",
+  "publisher": "PSS",
+  "developer": "PSS",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Theatre Europe simuliert die ersten 30 Tage eines erfundenen Krieges zwischen NATO und Warschauer Pakt in Europa. Der Spieler übernimmt eine Seite, verschiebt Armeen, Luftstreitkräfte und Nachschub und kann chemische oder atomare Waffen einsetzen – wer das tut, verspielt allerdings meist den Sieg, und der vollständige Atomschlag beendet das Spiel. Die Rundenstrategie wird durch eingestreute Kampfszenen aufgelockert. Das Thema sorgte 1985 für Aufsehen: Abrüstungsgruppen und Presse kritisierten das Spiel, einige Händler nahmen es nicht ins Sortiment; zugleich wurde es bei den Golden Joystick Awards als bestes Strategiespiel ausgezeichnet.\n\nErschienen 1985 bei PSS auf Kassette und Diskette, in Nordamerika 1986. Später gab es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Alan Steel · Grafik: Alan Steel, Ian Bird · Musik: David Dunn",
+  "texts": {
+    "de": "Theatre Europe simuliert die ersten 30 Tage eines erfundenen Krieges zwischen NATO und Warschauer Pakt in Europa. Der Spieler übernimmt eine Seite, verschiebt Armeen, Luftstreitkräfte und Nachschub und kann chemische oder atomare Waffen einsetzen – wer das tut, verspielt allerdings meist den Sieg, und der vollständige Atomschlag beendet das Spiel. Die Rundenstrategie wird durch eingestreute Kampfszenen aufgelockert. Das Thema sorgte 1985 für Aufsehen: Abrüstungsgruppen und Presse kritisierten das Spiel, einige Händler nahmen es nicht ins Sortiment; zugleich wurde es bei den Golden Joystick Awards als bestes Strategiespiel ausgezeichnet.\n\nErschienen 1985 bei PSS auf Kassette und Diskette, in Nordamerika 1986. Später gab es eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick.\n\nCode: Alan Steel · Grafik: Alan Steel, Ian Bird · Musik: David Dunn",
+    "en": "Theatre Europe simulates the first 30 days of a fictional war between NATO and the Warsaw Pact in Europe. The player takes one side, moves armies, air forces and supplies, and can resort to chemical or nuclear weapons – but doing so usually costs the victory, and an all-out nuclear strike ends the game. The turn-based strategy is broken up by occasional combat scenes. Its subject caused a stir in 1985: disarmament campaigners and the press criticised the game and some retailers refused to stock it, yet it won Best Strategy Game at the Golden Joystick Awards.\n\nReleased in 1985 by PSS on tape and disk, in North America in 1986. A OneLoad64 cartridge conversion appeared later. It is played with the joystick.\n\nCode: Alan Steel · Graphics: Alan Steel, Ian Bird · Music: David Dunn"
+  },
+  "images": {
+    "sstitle": "images/60/60bc8597a73bd5363cad27fac37786ecdc088de5.png"
+  }
+}

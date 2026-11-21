@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "0494ff3c83cb124fb55d6594e424602f0aea66b4",
+  "md5": "37b8024badfb1bf83d5f43d7f8fbd32e",
+  "crc32": "0c56a071",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "therescue.d64"
+  ],
+  "title": "The Rescue",
+  "year": "2026",
+  "publisher": "Fernando64JJ",
+  "developer": "JJ (Fernando64JJ)",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Action-Spiel mit Schleich-Elementen im Dschungel des Jahres 1987: Ex-Marine John Jericho will seine Verlobte Adri aus der Gewalt von Colonel Varga befreien. Zwei Hubschrauberflüge, in denen man Flak bombardiert und Überlebende an Bord holt, rahmen zehn Abschnitte zu Fuß ein (u. a. Dorf, Hängebrücke, Mine, Tempel, Flugfeld). Wer sich in Büschen versteckt und Wachen unbemerkt mit dem Messer ausschaltet, erhält Bonuspunkte; wird man entdeckt, kommt Verstärkung.\n\nD64, Fassung 1.1 vom 16.11.2026, für PAL. Bilder und Abschnitte werden nachgeladen, Bestenliste und eigene Tastenbelegung werden auf die Diskette gespeichert (Schreibschutz aus). Steuerung mit Joystick in Port 2, zweiter Feuerknopf oder X für Granaten bzw. Bomben. Frei weitergebbar; laut Indie Retro News ohne KI entstanden.\n\nCode, Grafik: JJ · Musik: Retroverse Jack",
+  "texts": {
+    "de": "Action-Spiel mit Schleich-Elementen im Dschungel des Jahres 1987: Ex-Marine John Jericho will seine Verlobte Adri aus der Gewalt von Colonel Varga befreien. Zwei Hubschrauberflüge, in denen man Flak bombardiert und Überlebende an Bord holt, rahmen zehn Abschnitte zu Fuß ein (u. a. Dorf, Hängebrücke, Mine, Tempel, Flugfeld). Wer sich in Büschen versteckt und Wachen unbemerkt mit dem Messer ausschaltet, erhält Bonuspunkte; wird man entdeckt, kommt Verstärkung.\n\nD64, Fassung 1.1 vom 16.11.2026, für PAL. Bilder und Abschnitte werden nachgeladen, Bestenliste und eigene Tastenbelegung werden auf die Diskette gespeichert (Schreibschutz aus). Steuerung mit Joystick in Port 2, zweiter Feuerknopf oder X für Granaten bzw. Bomben. Frei weitergebbar; laut Indie Retro News ohne KI entstanden.\n\nCode, Grafik: JJ · Musik: Retroverse Jack",
+    "en": "Action game with stealth elements set in the jungle in 1987: ex-marine John Jericho sets out to free his fiancée Adri from Colonel Varga. Two helicopter flights, in which you bomb anti-aircraft guns and pick up survivors, frame ten stages on foot (including a village, a rope bridge, a mine, a temple and an airstrip). Hiding in bushes and taking out guards silently with the knife earns bonus points; being spotted calls in reinforcements.\n\nD64, version 1.1 from 16 November 2026, for PAL. Pictures and stages are loaded from disk, and the high score table and custom controls are saved to it (disk must not be write-protected). Controls: joystick in port 2, second button or X for grenades and bombs. Free to share; according to Indie Retro News made without AI.\n\nCode, graphics: JJ · Music: Retroverse Jack"
+  },
+  "images": {
+    "ss": "images/01/018820be9c7ca311e4746e6e0b02aa67c0c9e0c2.png"
+  }
+}

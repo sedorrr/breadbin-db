@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "51b7faf0de8e67b3e59163cba9368a8c3fcfb30d",
+  "md5": "65f5ff26de31e520a750214883fa50d7",
+  "crc32": "208ab98f",
+  "size": 989010,
+  "format": "TAP",
+  "files": [
+    "Sceptre of Baghdad.tap"
+  ],
+  "screenscraper_id": "110645",
+  "title": "Sceptre of Baghdad",
+  "year": "1993",
+  "publisher": "Psytronik Software",
+  "developer": "Jonathan Wells",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Arcade-Abenteuer mit wechselnden Bildschirmen, angelehnt an die Iznogoud-Comics. Der Held durchstreift rund 45 Räume eines orientalischen Palasts, springt über Plattformen, weicht Wachen und Gefahren aus und sucht das gestohlene Zepter. Gegenstände werden eingesammelt, getragen und an der richtigen Stelle eingesetzt, um Rätsel zu lösen. Die C64-Fassung ergänzt das Vorbild um eine Schusswaffe, besondere Dämonenräume, fünf Leben und ein Inventar für vier Gegenstände.\n\nDas Spiel ist eine C64-Neufassung des Spectrum-Spiels „Sceptre of Bagdad“ (1987, Atlantis Software, entwickelt von Productive Playtime). Weil Atlantis vor der Veröffentlichung pleiteging, erschien es 1993 als erstes Spiel von Psytronik auf Kassette und Diskette; 2008 folgte eine Neuauflage mit neuem Ladebild und Vorspann. Die „Uncut“-Fassung (1996, Binary Zone PD) stellt die ursprünglichen Rätsel wieder her und verzichtet auf das Schießen. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Jonathan Wells · Grafik: Jonathan Wells · Musik: Paul Hannay",
+  "texts": {
+    "de": "Arcade-Abenteuer mit wechselnden Bildschirmen, angelehnt an die Iznogoud-Comics. Der Held durchstreift rund 45 Räume eines orientalischen Palasts, springt über Plattformen, weicht Wachen und Gefahren aus und sucht das gestohlene Zepter. Gegenstände werden eingesammelt, getragen und an der richtigen Stelle eingesetzt, um Rätsel zu lösen. Die C64-Fassung ergänzt das Vorbild um eine Schusswaffe, besondere Dämonenräume, fünf Leben und ein Inventar für vier Gegenstände.\n\nDas Spiel ist eine C64-Neufassung des Spectrum-Spiels „Sceptre of Bagdad“ (1987, Atlantis Software, entwickelt von Productive Playtime). Weil Atlantis vor der Veröffentlichung pleiteging, erschien es 1993 als erstes Spiel von Psytronik auf Kassette und Diskette; 2008 folgte eine Neuauflage mit neuem Ladebild und Vorspann. Die „Uncut“-Fassung (1996, Binary Zone PD) stellt die ursprünglichen Rätsel wieder her und verzichtet auf das Schießen. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Jonathan Wells · Grafik: Jonathan Wells · Musik: Paul Hannay",
+    "en": "A flip-screen arcade adventure inspired by the Iznogoud comics. The hero roams around 45 rooms of an oriental palace, jumping across platforms, dodging guards and hazards and searching for the stolen sceptre. Objects are picked up, carried and used in the right places to solve puzzles. The C64 version adds a projectile weapon, special demon rooms, five lives and a four-item inventory to the original.\n\nThe game is a C64 remake of the ZX Spectrum game 'Sceptre of Bagdad' (1987, Atlantis Software, developed by Productive Playtime). Because Atlantis went bankrupt before release, it came out in 1993 as Psytronik's first game, on tape and disk; a 2008 re-release added a new loading screen and intro. The 'Uncut' version (1996, Binary Zone PD) restores the original puzzles and drops the shooting. It is played with a joystick in port 2.\n\nCode: Jonathan Wells · Graphics: Jonathan Wells · Music: Paul Hannay"
+  },
+  "images": {
+    "sstitle": "images/69/696b5ac5c82c749c41c8666e8a6b39926f7f7dc4.png"
+  }
+}

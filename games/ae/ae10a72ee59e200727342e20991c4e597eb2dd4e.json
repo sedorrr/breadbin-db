@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "ae10a72ee59e200727342e20991c4e597eb2dd4e",
+  "md5": "af4bb6c9aced05acade249ab81acafc2",
+  "crc32": "fe0d4e8b",
+  "size": 44817,
+  "format": "PRG",
+  "files": [
+    "asphalt_outlaw-game.prg"
+  ],
+  "title": "Asphalt Outlaw",
+  "year": "2026",
+  "publisher": "IT-Dummköpfen",
+  "developer": "Slaxx",
+  "genres": [
+    "Rennen",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "Rennspiel gegen die Uhr: In jedem Level müssen innerhalb von zwei Minuten 250 Punkte gesammelt werden, während man auf der Straße herumliegenden Fässern ausweicht. Der Entwickler beschreibt es als kleines Spiel, das vor allem zum Erproben der gruppeneigenen Werkzeuge entstand.\n\nPRG, nur PAL. Mit gesampelter Sprachausgabe (erzeugt mit speechgen.io). Entwickelt mit den eigenen Werkzeugen C64 ACME Editor, C64 DPainter, GrooveGoat und WAV2C64, getestet in VICE und auf einem echten C64. Veröffentlicht am 15.11.2026. Laut Entwickler mit KI-Unterstützung entstanden (Code, Fehlerkorrektur, Speicheraufteilung).\n\nCode, Grafik, Musik: Slaxx",
+  "texts": {
+    "de": "Rennspiel gegen die Uhr: In jedem Level müssen innerhalb von zwei Minuten 250 Punkte gesammelt werden, während man auf der Straße herumliegenden Fässern ausweicht. Der Entwickler beschreibt es als kleines Spiel, das vor allem zum Erproben der gruppeneigenen Werkzeuge entstand.\n\nPRG, nur PAL. Mit gesampelter Sprachausgabe (erzeugt mit speechgen.io). Entwickelt mit den eigenen Werkzeugen C64 ACME Editor, C64 DPainter, GrooveGoat und WAV2C64, getestet in VICE und auf einem echten C64. Veröffentlicht am 15.11.2026. Laut Entwickler mit KI-Unterstützung entstanden (Code, Fehlerkorrektur, Speicheraufteilung).\n\nCode, Grafik, Musik: Slaxx",
+    "en": "Race against the clock: in every level 250 points have to be collected within two minutes while dodging barrels lying on the road. The developer describes it as a small game made mainly to try out the group's own tools.\n\nPRG, PAL only. With sampled speech (generated with speechgen.io). Developed with the group's own tools C64 ACME Editor, C64 DPainter, GrooveGoat and WAV2C64, tested in VICE and on a real C64. Released on 15 November 2026. According to the developer, made with AI assistance (code, bug fixing, memory layout).\n\nCode, graphics, music: Slaxx"
+  },
+  "images": {
+    "sstitle": "images/16/165be217c2aeb49a5538d28a7c9c5175efe22149.png"
+  }
+}

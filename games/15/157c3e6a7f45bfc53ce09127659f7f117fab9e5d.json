@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "157c3e6a7f45bfc53ce09127659f7f117fab9e5d",
+  "md5": "19bafbeadedf00da994c03cf655b8372",
+  "crc32": "2745b7e7",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Revolverheld FF CSE.d64"
+  ],
+  "title": "Revolverheld",
+  "year": "2026",
+  "publisher": "Firefox",
+  "developer": "Firefox",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung eines Spiels der Philips-Videopac-Konsole (G7000). Wie bei den Videopac-Modulen erscheint nach dem Start zuerst eine Spielauswahl („SELECT GAME“); der Titel lässt auf ein Revolverduell im Wildwest-Stil schließen. Ein genaues Spielprinzip ist auf CSDb nicht beschrieben.\n\nD64 mit einer Programmdatei, als Release Nr. 3 von Firefox (CSE) mit vorgeschaltetem Intro am 1. November 2026 veröffentlicht. Laut Entwickler mit KI-Unterstützung entstanden.",
+  "texts": {
+    "de": "Umsetzung eines Spiels der Philips-Videopac-Konsole (G7000). Wie bei den Videopac-Modulen erscheint nach dem Start zuerst eine Spielauswahl („SELECT GAME“); der Titel lässt auf ein Revolverduell im Wildwest-Stil schließen. Ein genaues Spielprinzip ist auf CSDb nicht beschrieben.\n\nD64 mit einer Programmdatei, als Release Nr. 3 von Firefox (CSE) mit vorgeschaltetem Intro am 1. November 2026 veröffentlicht. Laut Entwickler mit KI-Unterstützung entstanden.",
+    "en": "Conversion of a game for the Philips Videopac console (G7000). As with the Videopac cartridges, the program opens with a game selection screen (\"SELECT GAME\"); the title suggests a Wild West gunfight. CSDb gives no description of the gameplay.\n\nD64 with a single program file, released on 1 November 2026 as release no. 3 by Firefox (CSE), with an intro in front. According to the developer, made with AI assistance."
+  },
+  "images": {
+    "ss": "images/17/178f5a3f8d80dc31cfea17ea8f2ce919c835a523.png",
+    "sstitle": "images/49/49f4c32aa9b8975821a2b7f5bbb63dd8ac16c5e5.png"
+  }
+}

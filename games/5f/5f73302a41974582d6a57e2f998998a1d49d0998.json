@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5f73302a41974582d6a57e2f998998a1d49d0998",
+  "md5": "d87829f00187823184825cd2773b74d9",
+  "crc32": "ec5bb699",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "HardBall!.crt"
+  ],
+  "screenscraper_id": "36507",
+  "title": "HardBall!",
+  "year": "1985",
+  "publisher": "Accolade",
+  "developer": "Bob Whitehead",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Baseball-Simulation, die das Geschehen aus der Sicht hinter dem Werfer zeigt – damals ungewöhnlich nah an Fernsehübertragungen. Werfer und Schlagmann liefern sich ein Duell aus verschiedenen Wurfarten und Schlagzeitpunkten, im Feld wechselt die Ansicht zu einer Übersicht des Spielfelds. Dazu kommen Managementaufgaben wie Spielerwechsel, Aufstellung und Abwehrstellungen. HardBall! war einer der ersten Titel von Accolade und begründete eine lange Baseballreihe.\n\nErschienen auf Diskette und Kassette; gespielt wird allein gegen den Computer oder zu zweit gegeneinander, per Joystick. Im Umlauf sind auch überarbeitete Crack-Fassungen (eine davon mit Mannschaftsauswahl unter dem Namen „Hardball II“) und Modulumsetzungen.\n\nCode: Bob Whitehead · Grafik: Mimi Doggett · Musik: Ed Bogas",
+  "texts": {
+    "de": "Baseball-Simulation, die das Geschehen aus der Sicht hinter dem Werfer zeigt – damals ungewöhnlich nah an Fernsehübertragungen. Werfer und Schlagmann liefern sich ein Duell aus verschiedenen Wurfarten und Schlagzeitpunkten, im Feld wechselt die Ansicht zu einer Übersicht des Spielfelds. Dazu kommen Managementaufgaben wie Spielerwechsel, Aufstellung und Abwehrstellungen. HardBall! war einer der ersten Titel von Accolade und begründete eine lange Baseballreihe.\n\nErschienen auf Diskette und Kassette; gespielt wird allein gegen den Computer oder zu zweit gegeneinander, per Joystick. Im Umlauf sind auch überarbeitete Crack-Fassungen (eine davon mit Mannschaftsauswahl unter dem Namen „Hardball II“) und Modulumsetzungen.\n\nCode: Bob Whitehead · Grafik: Mimi Doggett · Musik: Ed Bogas",
+    "en": "A baseball simulation that shows the action from behind the pitcher – unusually close to TV broadcasts at the time. Pitcher and batter face off with different pitch types and swing timing, and when the ball is in play the view switches to an overview of the field. Managerial tasks such as substitutions, line-ups and fielding positions are included as well. HardBall! was one of Accolade's first titles and started a long-running baseball series.\n\nReleased on disk and cassette; it can be played alone against the computer or by two players against each other, using joysticks. Modified cracked versions are also in circulation (one with team selection under the name \"Hardball II\"), as well as cartridge conversions.\n\nCode: Bob Whitehead · Graphics: Mimi Doggett · Music: Ed Bogas"
+  },
+  "images": {
+    "ss": "images/51/51113b951803b704594759a53e6445fb83565343.png",
+    "sstitle": "images/9c/9c4c5f2c1172272b044a4fb0a02b0b7ebf449aea.png"
+  }
+}

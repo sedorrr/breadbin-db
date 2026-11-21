@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0f4a7534920ef03a4f3a4cfcb79cb7ddfd3f1e71",
+  "md5": "b4ca2a09ac761233fb4c67b1ccfd0dfa",
+  "crc32": "0eae0901",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GRYZOR.D64"
+  ],
+  "screenscraper_id": "35873",
+  "title": "Gryzor",
+  "year": "1988",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Shoot'em Up",
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Konami-Automaten Contra: Als Elitesoldat dringt man in eine feindliche Festung ein, um eine Anlage zur Klimabeeinflussung zu zerstören. Die neun Abschnitte wechseln zwischen seitlich und senkrecht scrollenden Strecken und Einzelbildern, in denen man sich in Gängen nach vorne kämpft. Aufsammelbare Waffen wie Streuschuss oder Laser und ein zeitweiliger Schutzschild verbessern die Chancen. Das Spiel ist für seinen hohen Schwierigkeitsgrad und das durchgehende Dauerfeuer bekannt.\n\nIn Europa von Ocean als Gryzor, in den USA von Konami als Contra veröffentlicht – das gleiche Programm. Auf Kassette und Diskette erschienen, später als Billigfassung; daneben gibt es Modul-, EasyFlash- und PRG-Umsetzungen. Joystick in Port 2, gesprungen wird mit der Leertaste; zwei Spieler spielen abwechselnd.\n\nCode: Colin Porch, David Blake · Grafik: Stephen Wahid, Andrew Sleigh · Musik: Jason C. Brooke",
+  "texts": {
+    "de": "Umsetzung des Konami-Automaten Contra: Als Elitesoldat dringt man in eine feindliche Festung ein, um eine Anlage zur Klimabeeinflussung zu zerstören. Die neun Abschnitte wechseln zwischen seitlich und senkrecht scrollenden Strecken und Einzelbildern, in denen man sich in Gängen nach vorne kämpft. Aufsammelbare Waffen wie Streuschuss oder Laser und ein zeitweiliger Schutzschild verbessern die Chancen. Das Spiel ist für seinen hohen Schwierigkeitsgrad und das durchgehende Dauerfeuer bekannt.\n\nIn Europa von Ocean als Gryzor, in den USA von Konami als Contra veröffentlicht – das gleiche Programm. Auf Kassette und Diskette erschienen, später als Billigfassung; daneben gibt es Modul-, EasyFlash- und PRG-Umsetzungen. Joystick in Port 2, gesprungen wird mit der Leertaste; zwei Spieler spielen abwechselnd.\n\nCode: Colin Porch, David Blake · Grafik: Stephen Wahid, Andrew Sleigh · Musik: Jason C. Brooke",
+    "en": "A conversion of Konami's Contra arcade game: as an elite soldier the player infiltrates an enemy fortress to destroy a weather-control installation. The nine sections alternate between horizontally and vertically scrolling stages and single screens in which the player fights forward through corridors. Collectable weapons such as spread shot or laser and a temporary barrier improve the odds. The game is known for its high difficulty and non-stop shooting.\n\nPublished in Europe by Ocean as Gryzor and in the USA by Konami as Contra - the same program. Released on tape and disk, later as a budget re-release; cartridge, EasyFlash and PRG conversions also exist. Joystick in port 2, with jumping on the space bar; two players take turns.\n\nCode: Colin Porch, David Blake · Graphics: Stephen Wahid, Andrew Sleigh · Music: Jason C. Brooke"
+  },
+  "images": {
+    "ss": "images/ee/ee0df1383ac78ac001823aa4532043fa5dd27543.png"
+  }
+}

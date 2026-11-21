@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d341a63595292d61e6f396752b628ee973e2bdca",
+  "md5": "4711d165d4863094859544b43ef5fa93",
+  "crc32": "6a0fb2e5",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Zolyx.crt"
+  ],
+  "screenscraper_id": "109426",
+  "title": "Zolyx",
+  "year": "1987",
+  "publisher": "Firebird",
+  "developer": "Zoltán Tass",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Zolyx ist eine Variante des Automatenklassikers Qix. Der Spieler zieht Linien über das Spielfeld und schneidet so Flächen ab; ist ein vorgegebener Anteil erobert, ist die Runde geschafft. Im freien Feld prallen Kugeln umher, die eine noch nicht geschlossene Linie zerstören, und am Rand bewegen sich weitere Gegner. Das schlichte, aber spannende Spielprinzip machte das Billigspiel bei Firebird beliebt.\n\nErschienen 1987 auf Kassette im Budget-Programm von Firebird, später in Sammlungen auf Diskette und als OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick. Der Name gilt als Anspielung auf den Programmierer Zoltán und Qix; es gab auch Fassungen für Plus/4, Spectrum und CPC.\n\nCode: Zoltán Tass",
+  "texts": {
+    "de": "Zolyx ist eine Variante des Automatenklassikers Qix. Der Spieler zieht Linien über das Spielfeld und schneidet so Flächen ab; ist ein vorgegebener Anteil erobert, ist die Runde geschafft. Im freien Feld prallen Kugeln umher, die eine noch nicht geschlossene Linie zerstören, und am Rand bewegen sich weitere Gegner. Das schlichte, aber spannende Spielprinzip machte das Billigspiel bei Firebird beliebt.\n\nErschienen 1987 auf Kassette im Budget-Programm von Firebird, später in Sammlungen auf Diskette und als OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick. Der Name gilt als Anspielung auf den Programmierer Zoltán und Qix; es gab auch Fassungen für Plus/4, Spectrum und CPC.\n\nCode: Zoltán Tass",
+    "en": "Zolyx is a variant of the arcade classic Qix. The player draws lines across the playfield to cut off areas; once a set share has been claimed, the round is complete. Balls bounce around the open field and destroy any line that has not yet been closed, while further enemies move along the edges. The simple but tense concept made this budget title from Firebird popular.\n\nReleased in 1987 on tape in Firebird's budget range, later on disk in compilations and as a OneLoad64 cartridge conversion. It is played with the joystick. The name is thought to be a nod to programmer Zoltán and Qix; there were also versions for the Plus/4, Spectrum and CPC.\n\nCode: Zoltán Tass"
+  },
+  "images": {
+    "sstitle": "images/7c/7c30a5855ae236689faf66a167901137eac88fd8.png"
+  }
+}

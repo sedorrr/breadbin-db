@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "c6ef7b9424a23573385ddbbea0a1c65c3a9528a3",
+  "md5": "f2c45903ac941fb65f4895b0496a2bea",
+  "crc32": "5e57502c",
+  "size": 632080,
+  "format": "CRT",
+  "files": [
+    "Caveman UghLympics.crt",
+    "Caveman Ugh-Lympics [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36834",
+  "title": "Caveman Ugh-Lympics",
+  "year": "1988",
+  "publisher": "Electronic Arts",
+  "developer": "Dynamix",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-6",
+  "synopsis": "Eine Steinzeit-Parodie auf die Olympischen Spiele: Höhlenmenschen treten in sechs Disziplinen gegeneinander an, darunter Partnerwerfen, Feuermachen, Säbelzahntiger-Rennen, Keulenkampf, Dino-Stabhochsprung und Dino-Rennen. Jede Disziplin wird Mann gegen Mann ausgetragen, meist durch schnelles Rütteln und gezielte Knopfdrücke. Die witzigen Animationen und der Humor machten das Spiel besonders im Mehrspielerbetrieb beliebt.\n\nErschienen 1988 bei Electronic Arts auf Diskette (drei Diskettenseiten); später entstanden EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick. Der C64 war die erste Plattform des Spiels, es folgten eine PC- und eine NES-Fassung (dort „Caveman Games“).\n\nCode: Richard Rayl Jr., Darek Lukaszuk, Jon Leupp · Grafik: Brian Mann, Darek Lukaszuk, Greg Johnson · Musik: Alan McKean, Bryce Morsello",
+  "texts": {
+    "de": "Eine Steinzeit-Parodie auf die Olympischen Spiele: Höhlenmenschen treten in sechs Disziplinen gegeneinander an, darunter Partnerwerfen, Feuermachen, Säbelzahntiger-Rennen, Keulenkampf, Dino-Stabhochsprung und Dino-Rennen. Jede Disziplin wird Mann gegen Mann ausgetragen, meist durch schnelles Rütteln und gezielte Knopfdrücke. Die witzigen Animationen und der Humor machten das Spiel besonders im Mehrspielerbetrieb beliebt.\n\nErschienen 1988 bei Electronic Arts auf Diskette (drei Diskettenseiten); später entstanden EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick. Der C64 war die erste Plattform des Spiels, es folgten eine PC- und eine NES-Fassung (dort „Caveman Games“).\n\nCode: Richard Rayl Jr., Darek Lukaszuk, Jon Leupp · Grafik: Brian Mann, Darek Lukaszuk, Greg Johnson · Musik: Alan McKean, Bryce Morsello",
+    "en": "A Stone Age parody of the Olympic Games: cavemen compete in six events, including mate tossing, fire making, a sabre-tooth race, clubbing, the dino vault and dino racing. Every event is played one against one, mostly by fast waggling and well-timed button presses. The funny animations and humour made the game especially popular with several players.\n\nReleased in 1988 by Electronic Arts on disk (three disk sides); EasyFlash conversions followed later. It is played with the joystick. The C64 was the game's first platform, followed by a PC version and an NES version (there called \"Caveman Games\").\n\nCode: Richard Rayl Jr., Darek Lukaszuk, Jon Leupp · Graphics: Brian Mann, Darek Lukaszuk, Greg Johnson · Music: Alan McKean, Bryce Morsello"
+  },
+  "images": {
+    "ss": "images/b3/b33786ec6d467c1e07ae9f19985175651b63b4ce.png",
+    "sstitle": "images/8d/8d3f63131830df158e290c4b909b5cb2d4af701e.png"
+  }
+}

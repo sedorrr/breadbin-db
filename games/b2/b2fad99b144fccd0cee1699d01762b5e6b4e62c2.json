@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "b2fad99b144fccd0cee1699d01762b5e6b4e62c2",
+  "md5": "ed52846b4564a44d005e87e12bddfa0f",
+  "crc32": "e2f091e0",
+  "size": 175531,
+  "format": "D64",
+  "files": [
+    "FLIGHT2E.D64"
+  ],
+  "screenscraper_id": "112120",
+  "title": "Flight Simulator II",
+  "year": "1984",
+  "publisher": "subLOGIC",
+  "developer": "Bruce Artwick (subLOGIC)",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Ziviler Flugsimulator, in dem man ein einmotoriges Propellerflugzeug startet, navigiert und landet. Die Welt wird in Echtzeit als Drahtgitter- und Flächengrafik dargestellt, mit Instrumentenbrett, Funknavigation, Wetter und Tag-Nacht-Wechsel. Zur Auswahl stehen mehrere Gebiete der USA mit echten Flughäfen. Als Auflockerung enthält das Programm ein kleines Luftkampfspiel im Stil des Ersten Weltkriegs. Flight Simulator II prägte das Genre auf Heimcomputern und war Vorläufer der späteren Microsoft-Flugsimulatoren.\n\nAuf Diskette erschienen; subLOGIC verkaufte zusätzlich Szenerie-Disketten mit weiteren Regionen, die vom Hauptprogramm nachgeladen werden. Gesteuert wird per Tastatur, wahlweise mit Joystick in Port 2 für das Steuerhorn.\n\nCode: Bruce Artwick",
+  "texts": {
+    "de": "Ziviler Flugsimulator, in dem man ein einmotoriges Propellerflugzeug startet, navigiert und landet. Die Welt wird in Echtzeit als Drahtgitter- und Flächengrafik dargestellt, mit Instrumentenbrett, Funknavigation, Wetter und Tag-Nacht-Wechsel. Zur Auswahl stehen mehrere Gebiete der USA mit echten Flughäfen. Als Auflockerung enthält das Programm ein kleines Luftkampfspiel im Stil des Ersten Weltkriegs. Flight Simulator II prägte das Genre auf Heimcomputern und war Vorläufer der späteren Microsoft-Flugsimulatoren.\n\nAuf Diskette erschienen; subLOGIC verkaufte zusätzlich Szenerie-Disketten mit weiteren Regionen, die vom Hauptprogramm nachgeladen werden. Gesteuert wird per Tastatur, wahlweise mit Joystick in Port 2 für das Steuerhorn.\n\nCode: Bruce Artwick",
+    "en": "A civil flight simulator in which the player takes off, navigates and lands a single-engine propeller aircraft. The world is shown in real time with wireframe and filled 3D graphics, together with an instrument panel, radio navigation, weather and day and night. Several regions of the USA with real airports are available. As a diversion the program includes a small dogfight game in the style of the First World War. Flight Simulator II shaped the genre on home computers and was the forerunner of the later Microsoft flight simulators.\n\nReleased on disk; subLOGIC also sold scenery disks with further regions that the main program loads in. Control is via keyboard, optionally with a joystick in port 2 for the yoke.\n\nCode: Bruce Artwick"
+  }
+}

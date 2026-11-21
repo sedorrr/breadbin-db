@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d8a9844bc3fa103f2720617abb02ad352d2d7cc3",
+  "md5": "75e3322eff562e80296d45397072fd00",
+  "crc32": "8601a3c4",
+  "size": 90352,
+  "format": "CRT",
+  "files": [
+    "Rambo - First Blood Part II.crt"
+  ],
+  "screenscraper_id": "35958",
+  "title": "Rambo: First Blood Part II",
+  "year": "1985",
+  "publisher": "Ocean Software",
+  "developer": "David Collier, Tony Pomfret",
+  "genres": [
+    "Shoot'em Up / Vertikal",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Das Spiel zum Kinofilm folgt der Handlung lose: Rambo wird im Dschungel abgesetzt, muss seine verlorene Ausrüstung wiederfinden, das Gefangenenlager aufspüren, die Gefangenen befreien und sie zum Treffpunkt bringen. Aus der Draufsicht kämpft er sich durch ständig nachrückende Gegner; Messer und Granaten stehen unbegrenzt zur Verfügung, unterwegs kommen Raketenwerfer, Sturmgewehr und Bogen mit Spreng- oder normalen Pfeilen hinzu. Für den Rückweg wird ein Hubschrauber erbeutet. Das Spiel gilt als eine der gelungeneren Filmumsetzungen von Ocean und ist vor allem für die Musik von Martin Galway bekannt.\n\nErschienen auf Kassette und Diskette, in den USA von Thunder Mountain. Gesteuert wird mit dem Joystick in Port 2. Die Musik verarbeitet Melodien aus dem Filmsoundtrack. Es gibt Modulumsetzungen (etwa für OneLoad64) sowie Cracks mit PAL- und NTSC-Fassung.\n\nCode: Tony Pomfret, David Collier · Musik: Martin Galway",
+  "texts": {
+    "de": "Das Spiel zum Kinofilm folgt der Handlung lose: Rambo wird im Dschungel abgesetzt, muss seine verlorene Ausrüstung wiederfinden, das Gefangenenlager aufspüren, die Gefangenen befreien und sie zum Treffpunkt bringen. Aus der Draufsicht kämpft er sich durch ständig nachrückende Gegner; Messer und Granaten stehen unbegrenzt zur Verfügung, unterwegs kommen Raketenwerfer, Sturmgewehr und Bogen mit Spreng- oder normalen Pfeilen hinzu. Für den Rückweg wird ein Hubschrauber erbeutet. Das Spiel gilt als eine der gelungeneren Filmumsetzungen von Ocean und ist vor allem für die Musik von Martin Galway bekannt.\n\nErschienen auf Kassette und Diskette, in den USA von Thunder Mountain. Gesteuert wird mit dem Joystick in Port 2. Die Musik verarbeitet Melodien aus dem Filmsoundtrack. Es gibt Modulumsetzungen (etwa für OneLoad64) sowie Cracks mit PAL- und NTSC-Fassung.\n\nCode: Tony Pomfret, David Collier · Musik: Martin Galway",
+    "en": "The game based on the film loosely follows its plot: Rambo is dropped into the jungle, must recover his lost equipment, locate the prison camp, free the prisoners and bring them to the extraction point. Seen from above, he fights his way through constantly respawning enemies; knife and grenades are unlimited, and a rocket launcher, assault rifle and a bow with explosive or normal arrows are picked up along the way. A helicopter is captured for the way back. It is regarded as one of Ocean's better film licences and is best known for Martin Galway's music.\n\nReleased on tape and disk, in the USA by Thunder Mountain. It is controlled by joystick in port 2. The music uses melodies from the film's score. There are cartridge conversions (for example for OneLoad64) and cracks with PAL and NTSC versions.\n\nCode: Tony Pomfret, David Collier · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/8c/8c2d0dac595fb42541005186f4a355c96e1a28c7.png",
+    "sstitle": "images/8d/8dd7ba43c679aa8cb3a1205217c4d4ddce2a9809.png"
+  }
+}

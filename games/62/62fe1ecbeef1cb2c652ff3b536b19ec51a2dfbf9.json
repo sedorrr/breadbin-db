@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "62fe1ecbeef1cb2c652ff3b536b19ec51a2dfbf9",
+  "md5": "588ecd03a548d9f1e493e80b5cad75ec",
+  "crc32": "39c4e02e",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Planet X2 (kb).crt"
+  ],
+  "screenscraper_id": "494939",
+  "title": "Planet X2",
+  "year": "2017",
+  "publisher": "The 8-Bit Guy",
+  "developer": "David Murray",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Echtzeit-Strategiespiel von David Murray (The 8-Bit Guy), angelehnt an Klassiker wie Dune II, Warcraft oder StarCraft, aber mit einer Bildschirmaufteilung im Stil alter Rollenspiele wie Ultima. Auf einem fremden Planeten baut der Spieler eine Basis auf, gewinnt Rohstoffe, errichtet Gebäude und stellt Einheiten her, um die Stützpunkte des Gegners aufzuspüren und mit Panzern oder Atomraketen zu zerstören. Gleichzeitig muss die eigene Basis gegen Angriffe verteidigt werden. Das Spiel gilt als eines der erfolgreichsten neuen C64-Spiele seiner Zeit und zeigt, dass Echtzeitstrategie auf dem C64 gut funktioniert.\n\nDas Original erschien im November 2017 auf Diskette und Kassette in einer Schachtel, ohne Kopierschutz; später folgten EasyFlash-Umsetzungen. Es läuft auf einem unveränderten C64 und mit SD2IEC. Der Vorgänger Planet X1 erschien für den VIC-20.\n\nCode: David Murray · Grafik: David Murray · Musik: Anders Enger Jensen, David Murray",
+  "texts": {
+    "de": "Echtzeit-Strategiespiel von David Murray (The 8-Bit Guy), angelehnt an Klassiker wie Dune II, Warcraft oder StarCraft, aber mit einer Bildschirmaufteilung im Stil alter Rollenspiele wie Ultima. Auf einem fremden Planeten baut der Spieler eine Basis auf, gewinnt Rohstoffe, errichtet Gebäude und stellt Einheiten her, um die Stützpunkte des Gegners aufzuspüren und mit Panzern oder Atomraketen zu zerstören. Gleichzeitig muss die eigene Basis gegen Angriffe verteidigt werden. Das Spiel gilt als eines der erfolgreichsten neuen C64-Spiele seiner Zeit und zeigt, dass Echtzeitstrategie auf dem C64 gut funktioniert.\n\nDas Original erschien im November 2017 auf Diskette und Kassette in einer Schachtel, ohne Kopierschutz; später folgten EasyFlash-Umsetzungen. Es läuft auf einem unveränderten C64 und mit SD2IEC. Der Vorgänger Planet X1 erschien für den VIC-20.\n\nCode: David Murray · Grafik: David Murray · Musik: Anders Enger Jensen, David Murray",
+    "en": "A real-time strategy game by David Murray (The 8-Bit Guy), inspired by classics such as Dune II, Warcraft and StarCraft but using a screen layout reminiscent of old role-playing games like Ultima. On an alien planet the player builds a base, mines resources, puts up buildings and produces units in order to find the enemy bases and destroy them with tanks or nuclear missiles, while defending their own base against attacks. It is regarded as one of the most successful new C64 games of its time and shows that real-time strategy works well on the machine.\n\nThe original was released in November 2017 as a boxed disk and tape edition without copy protection; EasyFlash conversions followed later. It runs on a stock C64 and with SD2IEC. Its predecessor, Planet X1, was released for the VIC-20.\n\nCode: David Murray · Graphics: David Murray · Music: Anders Enger Jensen, David Murray"
+  },
+  "images": {
+    "sstitle": "images/62/62ca0dc253258fbc4e1a5b3db6c90aed46ed064a.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d5cb61546d5709c30193efbd077cce88dd76f3ec",
+  "md5": "70a49fa717f229e9f0a55c1086f7f62b",
+  "crc32": "e706d82b",
+  "size": 749905,
+  "format": "TAP",
+  "files": [
+    "Deliverance (Hewson) (Side 3).tap"
+  ],
+  "screenscraper_id": "36510",
+  "title": "Deliverance: Stormlord II",
+  "year": "1990",
+  "publisher": "Hewson",
+  "developer": "Hewson Consultants",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Die Fortsetzung von Stormlord schickt den bärtigen Helden in die Unterwelt, wo er erneut gefangene Feen befreien muss. Er kämpft sich durch verwinkelte, von Dämonen und Fabelwesen bevölkerte Höllenlandschaften und wehrt sich mit Wurfwaffen. Das Spiel lebt von der dichten, düsteren Grafik und einem hohen Schwierigkeitsgrad. Wie schon der Vorgänger gehört es zu den grafisch aufwendigsten Hewson-Titeln der späten 80er Jahre.\n\nErschienen auf Kassette und Diskette; die Level werden in mehreren Teilen nachgeladen, weshalb Umsetzungen (etwa für OneLoad64) mehrere Teile haben. Gesteuert wird mit dem Joystick. Die C64-Fassung wurde von Nick Jones programmiert, nicht vom Stormlord-Erfinder Raffaele Cecco, der die Spectrum- und CPC-Fassung schrieb.\n\nCode: Nick Jones · Grafik: Mark Washbrook, Hugh Binns · Musik: Matt Gray",
+  "texts": {
+    "de": "Die Fortsetzung von Stormlord schickt den bärtigen Helden in die Unterwelt, wo er erneut gefangene Feen befreien muss. Er kämpft sich durch verwinkelte, von Dämonen und Fabelwesen bevölkerte Höllenlandschaften und wehrt sich mit Wurfwaffen. Das Spiel lebt von der dichten, düsteren Grafik und einem hohen Schwierigkeitsgrad. Wie schon der Vorgänger gehört es zu den grafisch aufwendigsten Hewson-Titeln der späten 80er Jahre.\n\nErschienen auf Kassette und Diskette; die Level werden in mehreren Teilen nachgeladen, weshalb Umsetzungen (etwa für OneLoad64) mehrere Teile haben. Gesteuert wird mit dem Joystick. Die C64-Fassung wurde von Nick Jones programmiert, nicht vom Stormlord-Erfinder Raffaele Cecco, der die Spectrum- und CPC-Fassung schrieb.\n\nCode: Nick Jones · Grafik: Mark Washbrook, Hugh Binns · Musik: Matt Gray",
+    "en": "The sequel to Stormlord sends the bearded hero into the underworld, where he once again has to rescue captured fairies. He fights his way through twisting hellish landscapes full of demons and mythical creatures, defending himself with thrown weapons. The game is carried by its dense, dark graphics and a high level of difficulty. Like its predecessor it is one of Hewson's most graphically ambitious titles of the late 1980s.\n\nReleased on tape and disk; the levels are loaded in several parts, which is why conversions (for example for OneLoad64) come in several parts. It is played with the joystick. The C64 version was programmed by Nick Jones, not by Stormlord creator Raffaele Cecco, who wrote the Spectrum and CPC versions.\n\nCode: Nick Jones · Graphics: Mark Washbrook, Hugh Binns · Music: Matt Gray"
+  },
+  "images": {
+    "ss": "images/10/1062fb3b82166fa1ad4dcad275d03528c15b754f.png",
+    "sstitle": "images/83/830f04022ef070781bf246eef02cf9c5bf19638b.png"
+  }
+}

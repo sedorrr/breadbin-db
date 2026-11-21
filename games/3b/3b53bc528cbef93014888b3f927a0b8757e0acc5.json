@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "3b53bc528cbef93014888b3f927a0b8757e0acc5",
+  "md5": "c61dd021c4eb19f9c1721f5ed81b6232",
+  "crc32": "70b90240",
+  "size": 229888,
+  "format": "CRT",
+  "files": [
+    "Professional Bmx Simulator (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "179232",
+  "title": "Professional BMX Simulator",
+  "year": "1988",
+  "publisher": "Codemasters",
+  "developer": "Richard Darling, James Wilson",
+  "genres": [
+    "Rennen",
+    "Sport"
+  ],
+  "players": "1-4",
+  "synopsis": "Nachfolger von BMX Simulator: Mit BMX-Rädern geht es in der Draufsicht über enge Rundkurse mit Sprüngen, Steilkurven und Hindernissen. Gefahren wird gegen die Zeit und gegen Mitspieler; bis zu vier Personen können gleichzeitig antreten. Es gibt drei Arten von Strecken – Erdpiste, Steinbruch und Wüste – mit jeweils mehreren Kursen. Nach einem Rennen lässt sich die Fahrt in einer Wiederholung ansehen. Das Spiel war einer der Starttitel der „Plus“-Reihe von Codemasters.\n\nAuf Kassette in einer Standard- und einer Expert-Fassung erschienen, jeweils mit Erdpiste sowie Steinbruch- bzw. Wüstenstrecken; die Modul- und PRG-Umsetzungen teilen das Spiel entsprechend in einzelne Teile auf, daneben gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Steuerung per Joystick.\n\nCode: Richard Darling, James Wilson",
+  "texts": {
+    "de": "Nachfolger von BMX Simulator: Mit BMX-Rädern geht es in der Draufsicht über enge Rundkurse mit Sprüngen, Steilkurven und Hindernissen. Gefahren wird gegen die Zeit und gegen Mitspieler; bis zu vier Personen können gleichzeitig antreten. Es gibt drei Arten von Strecken – Erdpiste, Steinbruch und Wüste – mit jeweils mehreren Kursen. Nach einem Rennen lässt sich die Fahrt in einer Wiederholung ansehen. Das Spiel war einer der Starttitel der „Plus“-Reihe von Codemasters.\n\nAuf Kassette in einer Standard- und einer Expert-Fassung erschienen, jeweils mit Erdpiste sowie Steinbruch- bzw. Wüstenstrecken; die Modul- und PRG-Umsetzungen teilen das Spiel entsprechend in einzelne Teile auf, daneben gibt es eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Steuerung per Joystick.\n\nCode: Richard Darling, James Wilson",
+    "en": "The sequel to BMX Simulator: BMX bikes race around tight top-down circuits with jumps, banked corners and obstacles. Races are run against the clock and against other players; up to four people can compete at once. There are three kinds of track - dirt, quarry and desert - each with several courses. After a race the run can be watched as an action replay. The game was one of the launch titles of Codemasters' \"Plus\" range.\n\nReleased on tape in a Standard and an Expert version, each with dirt tracks plus quarry or desert tracks; the cartridge and PRG conversions split the game into the corresponding parts, and there is also a MultiLoad64 EasyFlash conversion by $olo1870. Joystick controlled.\n\nCode: Richard Darling, James Wilson"
+  },
+  "images": {
+    "sstitle": "images/e0/e091a925b9ca0ecc59830aa7aadb07fad4ba69c1.png"
+  }
+}

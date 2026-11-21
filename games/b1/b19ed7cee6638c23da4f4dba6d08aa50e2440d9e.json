@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "b19ed7cee6638c23da4f4dba6d08aa50e2440d9e",
+  "md5": "2975bffa74482750ff5726934567a240",
+  "crc32": "559ffde6",
+  "size": 681328,
+  "format": "CRT",
+  "files": [
+    "Where in Europe is Carmen Sandiego.crt",
+    "Where in Europe is Carmen Sandiego [EasyFlash].crt"
+  ],
+  "screenscraper_id": "109777",
+  "title": "Where in Europe is Carmen Sandiego?",
+  "year": "1988",
+  "publisher": "Brøderbund",
+  "developer": "Brøderbund",
+  "genres": [
+    "Lernspiel",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Als Ermittler einer Detektei verfolgt der Spieler die Bande der Meisterdiebin Carmen Sandiego quer durch Europa. Aus Hinweisen von Zeugen muss er erschließen, in welches Land der Dieb weitergereist ist, und zugleich Merkmale des Täters für den Haftbefehl sammeln. Zum Spiel gehörte ein Europa-Atlas, mit dem sich Hinweise auf Hauptstädte, Flaggen und Sehenswürdigkeiten auflösen lassen. Wie die anderen Teile der Reihe verbindet es Erdkunde mit einem Detektivspiel und war in Schulen weit verbreitet.\n\nErschienen auf zwei Diskettenseiten; später entstanden EasyFlash-Umsetzungen. Bedient wird das Spiel über Menüs mit Joystick oder Tastatur. Es ist der dritte Teil der Reihe nach „Where in the World …“ und „Where in the USA …“.\n\nCode: Ken Bull, Chris Hecht, Gene Portwood, Lauren Elliott · Grafik: Leila Bronstein, Don Albrecht · Musik: Louis Ewens",
+  "texts": {
+    "de": "Als Ermittler einer Detektei verfolgt der Spieler die Bande der Meisterdiebin Carmen Sandiego quer durch Europa. Aus Hinweisen von Zeugen muss er erschließen, in welches Land der Dieb weitergereist ist, und zugleich Merkmale des Täters für den Haftbefehl sammeln. Zum Spiel gehörte ein Europa-Atlas, mit dem sich Hinweise auf Hauptstädte, Flaggen und Sehenswürdigkeiten auflösen lassen. Wie die anderen Teile der Reihe verbindet es Erdkunde mit einem Detektivspiel und war in Schulen weit verbreitet.\n\nErschienen auf zwei Diskettenseiten; später entstanden EasyFlash-Umsetzungen. Bedient wird das Spiel über Menüs mit Joystick oder Tastatur. Es ist der dritte Teil der Reihe nach „Where in the World …“ und „Where in the USA …“.\n\nCode: Ken Bull, Chris Hecht, Gene Portwood, Lauren Elliott · Grafik: Leila Bronstein, Don Albrecht · Musik: Louis Ewens",
+    "en": "As an investigator for a detective agency, the player pursues the gang of master thief Carmen Sandiego across Europe. From witnesses' clues the player has to work out which country the thief has fled to, while gathering the suspect's traits for an arrest warrant. The game came with a European atlas used to decode clues about capitals, flags and landmarks. Like the other games in the series it combines geography with detective work and was widely used in schools.\n\nReleased on two disk sides; EasyFlash conversions followed later. It is controlled through menus with joystick or keyboard. It is the third game in the series after \"Where in the World ...\" and \"Where in the USA ...\".\n\nCode: Ken Bull, Chris Hecht, Gene Portwood, Lauren Elliott · Graphics: Leila Bronstein, Don Albrecht · Music: Louis Ewens"
+  },
+  "images": {
+    "ss": "images/0c/0c5bf792c69cee881fa1d0148d2cfacdcd0c6f55.png"
+  }
+}

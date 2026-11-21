@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "66b05764c069332ca617bc0cb03962acf78f2f6d",
+  "md5": "0b8c5f75cc75c732f5b47d2e3be2fded",
+  "crc32": "42c343b9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "VaultOfSeraphimV3.1.d64"
+  ],
+  "title": "Vault of Seraphim",
+  "year": "2026",
+  "publisher": "natthrafn",
+  "developer": "Marcus Wagner",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Höhlen-Jump-'n'-Run in der Art von Spelunker und Nachfolger von „The Catacombs of Cherubim“: Ein Zauberer sucht in den Höhlen der Schwarzen Berge nach Schätzen und dringt immer tiefer vor, um den einzigartigen Schatz der Seraphim zu finden. Neben neuen Höhlen enthält es die Höhlen des Vorgängers, angepasst an die neue Spielfigurbewegung.\n\nD64, Fassung V3.1 (Erstveröffentlichung Januar 2026, kommerziell über itch.io). Auf der Diskette liegt zusätzlich ein Programm „Cave Builder“. Datum und Änderungen der Fassung 3.1 sind nicht belegt.\n\nCode, Grafik: Marcus Wagner · Musik: Andreas Bauernfeind",
+  "texts": {
+    "de": "Höhlen-Jump-'n'-Run in der Art von Spelunker und Nachfolger von „The Catacombs of Cherubim“: Ein Zauberer sucht in den Höhlen der Schwarzen Berge nach Schätzen und dringt immer tiefer vor, um den einzigartigen Schatz der Seraphim zu finden. Neben neuen Höhlen enthält es die Höhlen des Vorgängers, angepasst an die neue Spielfigurbewegung.\n\nD64, Fassung V3.1 (Erstveröffentlichung Januar 2026, kommerziell über itch.io). Auf der Diskette liegt zusätzlich ein Programm „Cave Builder“. Datum und Änderungen der Fassung 3.1 sind nicht belegt.\n\nCode, Grafik: Marcus Wagner · Musik: Andreas Bauernfeind",
+    "en": "Cave-crawling jump 'n' run in the style of Spelunker and sequel to \"The Catacombs of Cherubim\": a wizard searches the caves of the Black Mountains for treasure and ventures ever deeper to find the unique treasure of the Seraphim. Besides new caves it also contains the caves of its predecessor, adapted to the new player movement.\n\nD64, version 3.1 (first released January 2026, sold commercially via itch.io). The disk also contains a program called \"Cave Builder\". The date and changes of version 3.1 are not documented.\n\nCode, graphics: Marcus Wagner · Music: Andreas Bauernfeind"
+  },
+  "images": {
+    "ss": "images/cf/cf1d716f952816386cf590fb4126d9265a377485.png",
+    "sstitle": "images/05/051fc5b6cde8ebf532047eec13509168f13bef02.png"
+  }
+}

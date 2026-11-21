@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "9f273f7d531ab37c50fe15dd24807e78c81a9e68",
+  "md5": "1b099fcb41be6f402b048500cc4fdcaf",
+  "crc32": "50b49f4a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GATEWAY4.D64"
+  ],
+  "screenscraper_id": "112546",
+  "title": "Gateway to the Savage Frontier",
+  "year": "1991",
+  "publisher": "SSI",
+  "developer": "Beyond Software",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Der erste Teil der Savage-Frontier-Reihe innerhalb der Forgotten Realms: Die sechsköpfige Gruppe wird gleich zu Beginn in Yartar betäubt und ausgeraubt und gerät in eine Verschwörung der Zhentarim, die das Grenzland erobern wollen. Vier magische Statuen müssen gefunden werden, bevor der Feind sie in die Hände bekommt; der Showdown findet in der toten Stadt Ascore statt. Neu ist das Reisen über eine große Wildniskarte mit zufälligen Begegnungen, dazu kommen Nebenaufgaben mit unterschiedlichen Enden.\n\nDas Spiel nutzt das Gold-Box-System von SSI nach den Regeln von Advanced Dungeons & Dragons: Erkundung in Ich-Perspektive, taktische Rundenkämpfe in schräger Draufsicht. Das Spiel stammt von Beyond Software (später Stormfront Studios) und gehört zu den letzten großen Rollenspielen für den C64; die C64-Fassung umfasst viele Diskettenseiten.\n\nCode (C64): Mark Manyen, Mark Buchignani · Musik: Linwood Taylor",
+  "texts": {
+    "de": "Der erste Teil der Savage-Frontier-Reihe innerhalb der Forgotten Realms: Die sechsköpfige Gruppe wird gleich zu Beginn in Yartar betäubt und ausgeraubt und gerät in eine Verschwörung der Zhentarim, die das Grenzland erobern wollen. Vier magische Statuen müssen gefunden werden, bevor der Feind sie in die Hände bekommt; der Showdown findet in der toten Stadt Ascore statt. Neu ist das Reisen über eine große Wildniskarte mit zufälligen Begegnungen, dazu kommen Nebenaufgaben mit unterschiedlichen Enden.\n\nDas Spiel nutzt das Gold-Box-System von SSI nach den Regeln von Advanced Dungeons & Dragons: Erkundung in Ich-Perspektive, taktische Rundenkämpfe in schräger Draufsicht. Das Spiel stammt von Beyond Software (später Stormfront Studios) und gehört zu den letzten großen Rollenspielen für den C64; die C64-Fassung umfasst viele Diskettenseiten.\n\nCode (C64): Mark Manyen, Mark Buchignani · Musik: Linwood Taylor",
+    "en": "The first game of the Savage Frontier series in the Forgotten Realms: right at the start, the six-member party is drugged and robbed in Yartar and becomes caught up in a Zhentarim plot to conquer the frontier. Four magical statues must be found before the enemy gets hold of them; the showdown takes place in the dead city of Ascore. New is travel across a large wilderness map with random encounters, plus side quests leading to different endings.\n\nIt uses SSI's Gold Box engine based on the Advanced Dungeons & Dragons rules: first-person exploration and tactical turn-based combat in an angled overhead view. The game was made by Beyond Software (later Stormfront Studios) and is among the last major role-playing games for the C64; the C64 version spans many disk sides.\n\nCode (C64): Mark Manyen, Mark Buchignani · Music: Linwood Taylor"
+  },
+  "images": {
+    "sstitle": "images/48/48bafa0e0f799898b44c5c44406f5b4a8c2ac89f.png"
+  }
+}

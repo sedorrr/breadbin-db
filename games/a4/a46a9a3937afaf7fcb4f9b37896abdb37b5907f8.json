@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a46a9a3937afaf7fcb4f9b37896abdb37b5907f8",
+  "md5": "d1a58a05573985dd7ec56edb0ef27e72",
+  "crc32": "644884dd",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MicroCity64v20-krill.d64"
+  ],
+  "title": "MicroCity",
+  "year": "2026",
+  "publisher": "Unicorn",
+  "developer": "Jammet; Original: James Howard",
+  "genres": [
+    "Simulation",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Städtebausimulation nach dem Vorbild von SimCity: Auf leerem Gelände legt man Straßen und Stromleitungen an, baut ein Kraftwerk und weist Wohn-, Gewerbe- und Industriegebiete aus. Dazu kommen Parks, Polizei, Feuerwehr und ein Stadion; über das Budget werden Steuern und Ausgaben geregelt. Umsetzung des Arduboy-Spiels MicroCity von James Howard.\n\nD64, Fassung V2.0 vom 14.11.2026 (Vorgänger V1.9 im Oktober). Steuerung mit Joystick in Port 1 oder 2, Cursortasten oder Maus; drei Speicherplätze für Städte auf der Diskette. Krills Schnelllader braucht ein echtes 1541/1571/1581 oder True-Drive-Emulation. Auf der Diskette liegen Handbuch (Englisch/Deutsch), Lizenz (GPLv3) und der Quelltext; mit cc65 gebaut. Laut Entwickler mit KI-Unterstützung entstanden (beim Übertragen des Codes).\n\nCode: Jammet · Lader: Krill",
+  "texts": {
+    "de": "Städtebausimulation nach dem Vorbild von SimCity: Auf leerem Gelände legt man Straßen und Stromleitungen an, baut ein Kraftwerk und weist Wohn-, Gewerbe- und Industriegebiete aus. Dazu kommen Parks, Polizei, Feuerwehr und ein Stadion; über das Budget werden Steuern und Ausgaben geregelt. Umsetzung des Arduboy-Spiels MicroCity von James Howard.\n\nD64, Fassung V2.0 vom 14.11.2026 (Vorgänger V1.9 im Oktober). Steuerung mit Joystick in Port 1 oder 2, Cursortasten oder Maus; drei Speicherplätze für Städte auf der Diskette. Krills Schnelllader braucht ein echtes 1541/1571/1581 oder True-Drive-Emulation. Auf der Diskette liegen Handbuch (Englisch/Deutsch), Lizenz (GPLv3) und der Quelltext; mit cc65 gebaut. Laut Entwickler mit KI-Unterstützung entstanden (beim Übertragen des Codes).\n\nCode: Jammet · Lader: Krill",
+    "en": "City-building simulation in the vein of SimCity: on empty land you lay roads and power lines, build a power plant and zone residential, commercial and industrial areas. Parks, police, fire departments and a stadium are also available, and taxes and spending are managed through the budget. A conversion of James Howard's Arduboy game MicroCity.\n\nD64, version 2.0 from 14 November 2026 (previous version 1.9 in October). Controls: joystick in port 1 or 2, cursor keys or mouse; three save slots for cities on the disk. Krill's fast loader needs a real 1541/1571/1581 or true drive emulation. The disk also contains a manual (English/German), the licence (GPLv3) and the source code; built with cc65. According to the developer, made with AI assistance (for porting the code).\n\nCode: Jammet · Loader: Krill"
+  },
+  "images": {
+    "ss": "images/46/467364cfeedb949af21890b5b9efcd844cb819b6.png",
+    "sstitle": "images/04/045d7a4985ee4f38e3daccf52a211212701b633d.png"
+  }
+}

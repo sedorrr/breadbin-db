@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "8f57ba9ba74d1b683973c90d660d6dfc96f073e4",
+  "md5": "a81efa945657d804b644d7c89d3e62f8",
+  "crc32": "08fb865f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BUCKROG1.D64"
+  ],
+  "screenscraper_id": "36072",
+  "title": "Buck Rogers: Countdown to Doomsday",
+  "year": "1990",
+  "publisher": "SSI",
+  "developer": "Strategic Simulations",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Ein Science-Fiction-Rollenspiel im Buck-Rogers-Universum des 25. Jahrhunderts: Die Widerstandsgruppe NEO kämpft gegen den marsianischen Konzern RAM, der das Sonnensystem beherrscht. Die Gruppe aus sechs Figuren wird aus Klassen wie Raumpilot, Krieger, Mediziner, Schurke oder Ingenieur und aus genetisch angepassten Völkern zusammengestellt. Neben Erkundung und Bodenkämpfen gibt es Reisen zwischen Planeten und Raumschiffgefechte.\n\nDas Spiel nutzt das Gold-Box-System von SSI, hier mit eigenen Regeln für Fertigkeiten und Raumkampf: Erkundung in Ich-Perspektive, taktische Rundenkämpfe in schräger Draufsicht. Die C64-Fassung erschien auf mehreren Diskettenseiten und wird über die Tastatur bedient. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nCode (C64): Paul Murray, Jim Jennings · Grafik und Musik: Tom Wahl",
+  "texts": {
+    "de": "Ein Science-Fiction-Rollenspiel im Buck-Rogers-Universum des 25. Jahrhunderts: Die Widerstandsgruppe NEO kämpft gegen den marsianischen Konzern RAM, der das Sonnensystem beherrscht. Die Gruppe aus sechs Figuren wird aus Klassen wie Raumpilot, Krieger, Mediziner, Schurke oder Ingenieur und aus genetisch angepassten Völkern zusammengestellt. Neben Erkundung und Bodenkämpfen gibt es Reisen zwischen Planeten und Raumschiffgefechte.\n\nDas Spiel nutzt das Gold-Box-System von SSI, hier mit eigenen Regeln für Fertigkeiten und Raumkampf: Erkundung in Ich-Perspektive, taktische Rundenkämpfe in schräger Draufsicht. Die C64-Fassung erschien auf mehreren Diskettenseiten und wird über die Tastatur bedient. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nCode (C64): Paul Murray, Jim Jennings · Grafik und Musik: Tom Wahl",
+    "en": "A science-fiction role-playing game set in the 25th-century Buck Rogers universe: the resistance group NEO fights the Martian corporation RAM, which dominates the solar system. The six-character party is built from careers such as rocketjock, warrior, medic, rogue or engineer and from genetically engineered races. Besides exploration and ground combat there is travel between planets and ship-to-ship battles.\n\nThe game uses SSI's Gold Box engine, here with its own rules for skills and space combat: first-person exploration and tactical turn-based combat in an angled overhead view. The C64 version came on several disk sides and is operated with the keyboard. Besides the disk versions there are EasyFlash conversions from the scene that run the game from a cartridge without disk swapping and with much shorter loading times.\n\nCode (C64): Paul Murray, Jim Jennings · Graphics and music: Tom Wahl"
+  },
+  "images": {
+    "sstitle": "images/c9/c9a789d5fb6bb680d3af52c642fbcf24fd74bcaf.png"
+  }
+}

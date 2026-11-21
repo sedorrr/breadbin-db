@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "dc83ba28a783c2ddf47f98155f281e6fd4e90132",
+  "md5": "54c3107b26d72df87555dd98a4a6ea55",
+  "crc32": "269aa7a0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "scavenger_SWIMMERS.d64"
+  ],
+  "title": "Scavenger",
+  "year": "2026",
+  "publisher": "Swimmers",
+  "developer": "Dumpster Diver",
+  "genres": [
+    "Geschicklichkeit",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Kleines, schnelles BASIC-Spiel der Gruppe Swimmers: Mit dem Joystick wird eine Figur über das Spielfeld gesteuert, um alle Gegenstände einzusammeln. Ist das Feld leer, zeigt das Spiel die benötigte Zeit an; mit dem Feuerknopf beginnt eine neue Runde.\n\nD64 mit einer kurzen Programmdatei (3 Blöcke), davor ein Intro mit Laufschrift. Steuerung mit Joystick in Port 2. Als „Swimmers #1“ am 11. November 2026 veröffentlicht.\n\nCode: Dumpster Diver",
+  "texts": {
+    "de": "Kleines, schnelles BASIC-Spiel der Gruppe Swimmers: Mit dem Joystick wird eine Figur über das Spielfeld gesteuert, um alle Gegenstände einzusammeln. Ist das Feld leer, zeigt das Spiel die benötigte Zeit an; mit dem Feuerknopf beginnt eine neue Runde.\n\nD64 mit einer kurzen Programmdatei (3 Blöcke), davor ein Intro mit Laufschrift. Steuerung mit Joystick in Port 2. Als „Swimmers #1“ am 11. November 2026 veröffentlicht.\n\nCode: Dumpster Diver",
+    "en": "A small, fast BASIC game by the group Swimmers: the player steers a figure around the playfield with the joystick to collect all the items. Once the field is cleared, the game shows the time taken; the fire button starts a new round.\n\nD64 with a short program file (3 blocks), preceded by an intro with a scroll text. Controlled with a joystick in port 2. Released as \"Swimmers #1\" on 11 November 2026.\n\nCode: Dumpster Diver"
+  },
+  "images": {
+    "ss": "images/fd/fd578e8dd8b566533631cead2239e717f9cc58db.png"
+  }
+}

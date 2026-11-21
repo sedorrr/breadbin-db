@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3f3f60676370795798cc7e46a2bbdce2c230a6a7",
+  "md5": "58f0e83e6ef7a855499df277560dc8b3",
+  "crc32": "2a798b78",
+  "size": 256,
+  "format": "PRG",
+  "files": [
+    "basicshooter_-_harvey_of_amid.prg"
+  ],
+  "title": "BASICSHOOTER",
+  "year": "2026",
+  "publisher": "AMID",
+  "developer": "Harvey",
+  "genres": [
+    "Shooter",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Schießspiel, das vollständig in einer einzigen BASIC-Zeile steckt. Eine Spielfigur am unteren Bildrand schießt auf Zeichenreihen, die sich über den Bildschirm verschieben; angezeigt werden ein ablaufender Zeitzähler, die Treffer und die abgegebenen Schüsse.\n\nPRG von 256 Bytes. Steuerung über die Funktionstasten: F1 und F3 bewegen nach links und rechts, F5 feuert. Als „Party Feature“ auf der Zoo Party 2026 am 1. November 2026 veröffentlicht.\n\nCode: Harvey",
+  "texts": {
+    "de": "Kleines Schießspiel, das vollständig in einer einzigen BASIC-Zeile steckt. Eine Spielfigur am unteren Bildrand schießt auf Zeichenreihen, die sich über den Bildschirm verschieben; angezeigt werden ein ablaufender Zeitzähler, die Treffer und die abgegebenen Schüsse.\n\nPRG von 256 Bytes. Steuerung über die Funktionstasten: F1 und F3 bewegen nach links und rechts, F5 feuert. Als „Party Feature“ auf der Zoo Party 2026 am 1. November 2026 veröffentlicht.\n\nCode: Harvey",
+    "en": "A small shooting game that fits entirely into a single line of BASIC. A player figure at the bottom of the screen shoots at rows of characters shifting across the screen; a countdown timer, the number of hits and the shots fired are shown.\n\n256-byte PRG. Controlled with the function keys: F1 and F3 move left and right, F5 fires. Released as a party feature at Zoo Party 2026 on 1 November 2026.\n\nCode: Harvey"
+  },
+  "images": {
+    "ss": "images/ac/ac7468db35b53d89c1de148eeffc28fba98f9558.png"
+  }
+}

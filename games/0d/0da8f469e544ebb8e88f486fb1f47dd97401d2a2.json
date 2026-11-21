@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0da8f469e544ebb8e88f486fb1f47dd97401d2a2",
+  "md5": "cddaba040e9347a27b3150c3c61340cd",
+  "crc32": "60b21795",
+  "size": 39494,
+  "format": "T64",
+  "files": [
+    "MATCHDA1.T64"
+  ],
+  "screenscraper_id": "114529",
+  "title": "Match Day",
+  "year": "1986",
+  "publisher": "Ocean Software",
+  "developer": "Mercury Microware",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Fußballspiel nach dem Spectrum-Original von Jon Ritman und Chris Clarke. Das Spielfeld wird schräg von der Seite gezeigt und scrollt mit dem Ball mit; gespielt wird mit kompletten Mannschaften, gesteuert wird jeweils der Spieler, der dem Ball am nächsten ist. Neben Dribbeln und Schüssen gibt es Einwürfe, Eckbälle und Torabstöße, außerdem lassen sich Mannschaften umbenennen und ein Pokalwettbewerb austragen. Match Day gehörte zu den bekanntesten Fußballspielen der 8-Bit-Zeit und bekam mit Match Day II eine Fortsetzung.\n\nDie C64-Fassung erschien auf Kassette und Diskette und wurde von Mercury Microware umgesetzt. Zwei Spieler treten gleichzeitig gegeneinander an, alternativ gegen den Computer; gesteuert wird mit dem Joystick (Spieler 1 in Port 1). Es gibt Modulumsetzungen (etwa für OneLoad64).\n\nCode: Paul Thomas Ralphs, Derek Ham · Grafik: Paul Thomas Ralphs, Derek Ham · Musik: Martin Galway",
+  "texts": {
+    "de": "Fußballspiel nach dem Spectrum-Original von Jon Ritman und Chris Clarke. Das Spielfeld wird schräg von der Seite gezeigt und scrollt mit dem Ball mit; gespielt wird mit kompletten Mannschaften, gesteuert wird jeweils der Spieler, der dem Ball am nächsten ist. Neben Dribbeln und Schüssen gibt es Einwürfe, Eckbälle und Torabstöße, außerdem lassen sich Mannschaften umbenennen und ein Pokalwettbewerb austragen. Match Day gehörte zu den bekanntesten Fußballspielen der 8-Bit-Zeit und bekam mit Match Day II eine Fortsetzung.\n\nDie C64-Fassung erschien auf Kassette und Diskette und wurde von Mercury Microware umgesetzt. Zwei Spieler treten gleichzeitig gegeneinander an, alternativ gegen den Computer; gesteuert wird mit dem Joystick (Spieler 1 in Port 1). Es gibt Modulumsetzungen (etwa für OneLoad64).\n\nCode: Paul Thomas Ralphs, Derek Ham · Grafik: Paul Thomas Ralphs, Derek Ham · Musik: Martin Galway",
+    "en": "Football game based on the ZX Spectrum original by Jon Ritman and Chris Clarke. The pitch is shown at an angle from the side and scrolls with the ball; full teams take the field, and control passes to the player closest to the ball. Besides dribbling and shooting there are throw-ins, corners and goal kicks, and teams can be renamed and a cup competition played. Match Day was one of the best-known football games of the 8-bit era and was followed by Match Day II.\n\nThe C64 version was released on tape and disk and converted by Mercury Microware. Two players can play against each other simultaneously, or against the computer; control is by joystick (player 1 in port 1). There are cartridge conversions (for example for OneLoad64).\n\nCode: Paul Thomas Ralphs, Derek Ham · Graphics: Paul Thomas Ralphs, Derek Ham · Music: Martin Galway"
+  },
+  "images": {
+    "ss": "images/57/576a9d5b21dc9f997121df33d6412600c166f873.png",
+    "sstitle": "images/d8/d8524c6f732e3879b34bc87af84282fb2b1af898.png"
+  }
+}

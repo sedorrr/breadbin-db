@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e7169d187c76e77c1c62ee94722f3365aed4db41",
+  "md5": "7efb37b0f0c7f0201f7c6c76ce41c0e0",
+  "crc32": "d8045ce9",
+  "size": 965262,
+  "format": "TAP",
+  "files": [
+    "Guns 'n' Ghosts (Psytronik - 2013).tap"
+  ],
+  "screenscraper_id": "151040",
+  "title": "Guns 'n' Ghosts",
+  "year": "2013",
+  "publisher": "Psytronik Software",
+  "developer": "Georg Rottensteiner",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "Actionspiel mit Plattformeinlagen, in dem die beiden Geisterjäger Georg und Trev 72 Bildschirme voller Zombies, Skelette, Fledermäuse und anderer Spukgestalten säubern. Georg feuert mit der Schrotflinte und muss im Stillstand nachladen, Trev schickt Dämonen mit übersinnlichen Kräften zurück, die durch Halten des Feuerknopfs aufgeladen werden. Besiegte Gegner lassen Extras wie Munition, Zusatzleben oder kurze Unverwundbarkeit fallen. Mehrere Spielarten, darunter gemeinsames Spiel zu zweit, machen den Reiz aus. Das Spiel entstand aus Georg Rottensteiners Programmier-Lehrgang „Supernatural“.\n\nPsytronik brachte das Spiel auf Kassette und Diskette heraus, RGCD als Modul; dazu gibt es eine OneLoad64-Modulumsetzung. Es läuft auf C64, C128 und C64GS (PAL und NTSC). Gesteuert wird mit dem Joystick, für zwei Spieler werden zwei Joysticks benötigt.\n\nCode: Georg Rottensteiner · Grafik: Trevor Storey · Musik: Richard Bayliss",
+  "texts": {
+    "de": "Actionspiel mit Plattformeinlagen, in dem die beiden Geisterjäger Georg und Trev 72 Bildschirme voller Zombies, Skelette, Fledermäuse und anderer Spukgestalten säubern. Georg feuert mit der Schrotflinte und muss im Stillstand nachladen, Trev schickt Dämonen mit übersinnlichen Kräften zurück, die durch Halten des Feuerknopfs aufgeladen werden. Besiegte Gegner lassen Extras wie Munition, Zusatzleben oder kurze Unverwundbarkeit fallen. Mehrere Spielarten, darunter gemeinsames Spiel zu zweit, machen den Reiz aus. Das Spiel entstand aus Georg Rottensteiners Programmier-Lehrgang „Supernatural“.\n\nPsytronik brachte das Spiel auf Kassette und Diskette heraus, RGCD als Modul; dazu gibt es eine OneLoad64-Modulumsetzung. Es läuft auf C64, C128 und C64GS (PAL und NTSC). Gesteuert wird mit dem Joystick, für zwei Spieler werden zwei Joysticks benötigt.\n\nCode: Georg Rottensteiner · Grafik: Trevor Storey · Musik: Richard Bayliss",
+    "en": "An action game with platform elements in which the ghost hunters Georg and Trev clear 72 screens full of zombies, skeletons, bats and other spooks. Georg fires a shotgun and has to stand still to reload, while Trev sends demons back with psychic powers charged by holding the fire button. Defeated enemies drop power-ups such as ammunition, extra lives or brief invincibility. Several play modes, including two-player co-operative play, give it lasting appeal. The game grew out of Georg Rottensteiner's coding tutorial 'Supernatural'.\n\nPsytronik released it on tape and disk, RGCD on cartridge, and a OneLoad64 cartridge conversion also exists. It runs on the C64, C128 and C64GS (PAL and NTSC). It is played with a joystick; two players need two joysticks.\n\nCode: Georg Rottensteiner · Graphics: Trevor Storey · Music: Richard Bayliss"
+  },
+  "images": {
+    "sstitle": "images/fb/fb25ba03af356e9ae87378321df1c1adde4d46d4.png"
+  }
+}

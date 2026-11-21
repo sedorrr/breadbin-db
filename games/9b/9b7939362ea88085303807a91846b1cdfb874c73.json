@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "9b7939362ea88085303807a91846b1cdfb874c73",
+  "md5": "799fc18d1a818272ee147c3883552f34",
+  "crc32": "a4616a4f",
+  "size": 722368,
+  "format": "CRT",
+  "files": [
+    "BRILEYWC.CRT"
+  ],
+  "screenscraper_id": "360139",
+  "title": "Briley Witch Chronicles",
+  "year": "2021",
+  "publisher": "Witchsoft",
+  "developer": "Sarah Jane Avory",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Rollenspiel nach japanischem Vorbild, das die Handlung der ersten vier Romane aus Sarah Jane Avorys eigener Briley-Witch-Buchreihe erzählt. Die junge Hexe Briley erkundet mit ihrem Kater Smokey Dörfer, Wälder und Verliese, spricht mit Bewohnern und erledigt Aufträge; zeitweise schließt sich Sebastian der Gruppe an. Die Kämpfe laufen rundenweise in einer vergrößerten Nahansicht ab, Befehle werden über Symbole gewählt, und der Schwierigkeitsgrad lässt sich jederzeit umstellen. Die Fachpresse nahm das Spiel sehr gut auf, die ZZAP!64-Neuauflage vergab 95 Prozent.\n\nDas Spiel erschien als EasyFlash-Modulabbild mit Anleitung im PDF-Format; eine Modulfassung von Protovision war geplant. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur (zwei Belegungen, Umschalten mit F1). Spielstände werden in vier Plätzen auf dem Modul gespeichert; in Emulatoren und auf dem Ultimate 64 klappt das Speichern auf das Modul laut C64-Wiki nicht, dort wird ein leeres Diskettenabbild in Laufwerk 8 oder 9 verwendet.\n\nCode: Sarah Jane Avory · Grafik: Sarah Jane Avory, Paolo Rathjen (Porträts) · Musik: Sarah Jane Avory",
+  "texts": {
+    "de": "Rollenspiel nach japanischem Vorbild, das die Handlung der ersten vier Romane aus Sarah Jane Avorys eigener Briley-Witch-Buchreihe erzählt. Die junge Hexe Briley erkundet mit ihrem Kater Smokey Dörfer, Wälder und Verliese, spricht mit Bewohnern und erledigt Aufträge; zeitweise schließt sich Sebastian der Gruppe an. Die Kämpfe laufen rundenweise in einer vergrößerten Nahansicht ab, Befehle werden über Symbole gewählt, und der Schwierigkeitsgrad lässt sich jederzeit umstellen. Die Fachpresse nahm das Spiel sehr gut auf, die ZZAP!64-Neuauflage vergab 95 Prozent.\n\nDas Spiel erschien als EasyFlash-Modulabbild mit Anleitung im PDF-Format; eine Modulfassung von Protovision war geplant. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur (zwei Belegungen, Umschalten mit F1). Spielstände werden in vier Plätzen auf dem Modul gespeichert; in Emulatoren und auf dem Ultimate 64 klappt das Speichern auf das Modul laut C64-Wiki nicht, dort wird ein leeres Diskettenabbild in Laufwerk 8 oder 9 verwendet.\n\nCode: Sarah Jane Avory · Grafik: Sarah Jane Avory, Paolo Rathjen (Porträts) · Musik: Sarah Jane Avory",
+    "en": "A Japanese-style role-playing game that retells the first four novels of Sarah Jane Avory's own Briley Witch book series. The young witch Briley explores villages, forests and dungeons with her cat Smokey, talks to locals and takes on tasks, with Sebastian joining the party for some missions. Battles are turn-based and shown in a zoomed-in close-up, commands are picked from icons, and the difficulty can be changed at any time. The game was very well received; the revived ZZAP!64 gave it 95 percent.\n\nIt was released as an EasyFlash cartridge image with PDF manuals; a physical cartridge from Protovision was planned. It is controlled with a joystick in port 2 or the keyboard (two layouts, toggled with F1). Progress is saved to four slots on the cartridge; according to the C64-Wiki this does not work in emulators or on the Ultimate 64, where an empty disk image in drive 8 or 9 is used instead.\n\nCode: Sarah Jane Avory · Graphics: Sarah Jane Avory, Paolo Rathjen (portraits) · Music: Sarah Jane Avory"
+  },
+  "images": {
+    "ss": "images/35/351ff06754943cdb4e4ecd5c185c7d2964ea3399.png"
+  }
+}

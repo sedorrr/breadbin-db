@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e5b6576eef1ffacb6b6a1498e03cc7cbc8bac6ee",
+  "md5": "da8f65210fafc5688f2e0b6270c1760d",
+  "crc32": "4c9f5045",
+  "size": 640288,
+  "format": "CRT",
+  "files": [
+    "Mean Streets.crt"
+  ],
+  "screenscraper_id": "35899",
+  "title": "Mean Streets",
+  "year": "1989",
+  "publisher": "Access Software",
+  "developer": "Access Software",
+  "genres": [
+    "Abenteuer / Grafik",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Erstes Spiel der Reihe um den Privatdetektiv Tex Murphy: Im San Francisco des Jahres 2033 untersucht er den rätselhaften Tod mehrerer Wissenschaftler. Mit einem Gleiter fliegt er per Autopilot zu Adressen in der Region, befragt Personen, durchsucht Räume und besticht oder bedroht Zeugen. Zwischendurch gibt es kurze Schießereien in seitlich scrollenden Abschnitten. Das Spiel verbindet Abenteuer, Flugsequenzen und Action und wurde mit digitalisierten Bildern als eine Art interaktiver Film angelegt.\n\nAuf Diskette erschienen, in Europa über U.S. Gold; der Spielstand wird auf die Spieldiskette geschrieben, und der eingebaute Schnelllader setzt eine 1541 voraus. Daneben gibt es EasyFlash-Modulumsetzungen. Steuerung über Joystick und Tastatur. Mean Streets ist der einzige Tex-Murphy-Teil für den C64.\n\nGrafik: Doug Vandergrift, Jon Clark, John Berven · Musik: Jon Clark",
+  "texts": {
+    "de": "Erstes Spiel der Reihe um den Privatdetektiv Tex Murphy: Im San Francisco des Jahres 2033 untersucht er den rätselhaften Tod mehrerer Wissenschaftler. Mit einem Gleiter fliegt er per Autopilot zu Adressen in der Region, befragt Personen, durchsucht Räume und besticht oder bedroht Zeugen. Zwischendurch gibt es kurze Schießereien in seitlich scrollenden Abschnitten. Das Spiel verbindet Abenteuer, Flugsequenzen und Action und wurde mit digitalisierten Bildern als eine Art interaktiver Film angelegt.\n\nAuf Diskette erschienen, in Europa über U.S. Gold; der Spielstand wird auf die Spieldiskette geschrieben, und der eingebaute Schnelllader setzt eine 1541 voraus. Daneben gibt es EasyFlash-Modulumsetzungen. Steuerung über Joystick und Tastatur. Mean Streets ist der einzige Tex-Murphy-Teil für den C64.\n\nGrafik: Doug Vandergrift, Jon Clark, John Berven · Musik: Jon Clark",
+    "en": "The first game in the series about private detective Tex Murphy: in San Francisco in 2033 he investigates the mysterious deaths of several scientists. In his speeder he flies by autopilot to addresses around the region, questions people, searches rooms and bribes or threatens witnesses. In between there are short shoot-outs in side-scrolling sections. The game combines adventure, flight sequences and action and was designed as a kind of interactive film with digitised pictures.\n\nReleased on disk, in Europe through U.S. Gold; progress is saved to the game disk, and the built-in fast loader requires a 1541. EasyFlash cartridge conversions also exist. Control via joystick and keyboard. Mean Streets is the only Tex Murphy game for the C64.\n\nGraphics: Doug Vandergrift, Jon Clark, John Berven · Music: Jon Clark"
+  },
+  "images": {
+    "ss": "images/91/91fd3e5860f05ba79cca7910201fa027262abd09.png"
+  }
+}

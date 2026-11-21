@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a3c080b2e8f3b8493b25410ccce4206fc1fd6e12",
+  "md5": "7466c3a78516e17527d6dbaf96333cfd",
+  "crc32": "704ca228",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MAGICCA0.D64"
+  ],
+  "screenscraper_id": "36481",
+  "title": "The Magic Candle",
+  "year": "1989",
+  "publisher": "Mindcraft",
+  "developer": "Mindcraft (Ali N. Atabek)",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Der Dämon Dreax ist in einer magischen Kerze gefangen, die zu schmelzen beginnt. Der Held Lukas stellt eine Gruppe von bis zu sechs Gefährten zusammen und muss vor Ablauf der Zeit die Gegenstände und Formeln finden, mit denen der Bann erneuert wird. Die Zeit spielt eine wichtige Rolle: Läden schließen nachts, Figuren müssen essen und schlafen, und die Gruppe kann aufgeteilt werden, um Aufgaben gleichzeitig zu erledigen. Gewonnen wird nicht durch einen Endkampf, sondern durch Wissen und Vorbereitung.\n\nUrsprünglich auf mehreren Disketten erschienen, gesteuert über Joystick und Tastatur. Die Welt wird von oben gezeigt, Kämpfe laufen taktisch und rundenweise auf einem eigenen Feld. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nDesign: Ali N. Atabek · Code: Don Likeness, Ali N. Atabek",
+  "texts": {
+    "de": "Der Dämon Dreax ist in einer magischen Kerze gefangen, die zu schmelzen beginnt. Der Held Lukas stellt eine Gruppe von bis zu sechs Gefährten zusammen und muss vor Ablauf der Zeit die Gegenstände und Formeln finden, mit denen der Bann erneuert wird. Die Zeit spielt eine wichtige Rolle: Läden schließen nachts, Figuren müssen essen und schlafen, und die Gruppe kann aufgeteilt werden, um Aufgaben gleichzeitig zu erledigen. Gewonnen wird nicht durch einen Endkampf, sondern durch Wissen und Vorbereitung.\n\nUrsprünglich auf mehreren Disketten erschienen, gesteuert über Joystick und Tastatur. Die Welt wird von oben gezeigt, Kämpfe laufen taktisch und rundenweise auf einem eigenen Feld. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nDesign: Ali N. Atabek · Code: Don Likeness, Ali N. Atabek",
+    "en": "The demon Dreax is imprisoned in a magic candle that has begun to melt. The hero Lukas gathers a party of up to six companions and must find the items and chants needed to renew the spell before time runs out. Time matters: shops close at night, characters need food and sleep, and the party can be split up to handle tasks in parallel. The game is won not by a final battle but through knowledge and preparation.\n\nOriginally released on several disks and controlled with joystick and keyboard. The world is shown from above, and combat is tactical and turn-based on a separate battlefield. Besides the disk versions there are EasyFlash conversions from the scene that run the game from a cartridge without disk swapping and with much shorter loading times.\n\nDesign: Ali N. Atabek · Code: Don Likeness, Ali N. Atabek"
+  },
+  "images": {
+    "sstitle": "images/e6/e6a4d3615c07e61d7bd8b539a571491e3b8439a5.png"
+  }
+}

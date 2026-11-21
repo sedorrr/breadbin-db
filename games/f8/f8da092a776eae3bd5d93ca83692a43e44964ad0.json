@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "f8da092a776eae3bd5d93ca83692a43e44964ad0",
+  "md5": "015eb8225d9f3e11b642776d2152f0ed",
+  "crc32": "0f7dea43",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "The Collector.d64"
+  ],
+  "title": "The Collector",
+  "year": "2026",
+  "publisher": "R Moocher",
+  "developer": "Rhys Parsons (R Moocher)",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Spiel mit zwölf Levels vor einer Burg auf einem Berg als Titelmotiv. Laut Programmtexten lassen sich die Levels auch direkt anwählen, nach dem letzten Level meldet das Spiel die abgeschlossenen „Cave Mines“. Weitere Angaben zum Spielablauf liegen nicht vor.\n\nD64 (Fassung V36) mit Nachladedateien für die Levels, Start über den Feuerknopf. Am 6. November 2026 veröffentlicht. Laut Entwickler mit KI-Unterstützung entstanden.\n\nCode: R Moocher · Grafik: R Moocher · Musik: R Moocher",
+  "texts": {
+    "de": "Spiel mit zwölf Levels vor einer Burg auf einem Berg als Titelmotiv. Laut Programmtexten lassen sich die Levels auch direkt anwählen, nach dem letzten Level meldet das Spiel die abgeschlossenen „Cave Mines“. Weitere Angaben zum Spielablauf liegen nicht vor.\n\nD64 (Fassung V36) mit Nachladedateien für die Levels, Start über den Feuerknopf. Am 6. November 2026 veröffentlicht. Laut Entwickler mit KI-Unterstützung entstanden.\n\nCode: R Moocher · Grafik: R Moocher · Musik: R Moocher",
+    "en": "A game with twelve levels, its title screen showing a castle on a mountain. According to texts in the program the levels can also be selected directly, and after the last one the game reports the \"Cave Mines\" as completed. No further details on the gameplay are available.\n\nD64 (version V36) with separately loaded level files, started with the fire button. Released on 6 November 2026. According to the developer, made with AI assistance.\n\nCode: R Moocher · Graphics: R Moocher · Music: R Moocher"
+  },
+  "images": {
+    "sstitle": "images/e7/e77dd1219e01e7f4d2c355244edfed69cbc662da.png"
+  }
+}

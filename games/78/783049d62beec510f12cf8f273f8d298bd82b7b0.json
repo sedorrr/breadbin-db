@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "783049d62beec510f12cf8f273f8d298bd82b7b0",
+  "md5": "1de9ca608651c39ae8c5fea4885b013b",
+  "crc32": "1687f5bd",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Robot Jet Action (Carrion - 2022).crt"
+  ],
+  "screenscraper_id": "360148",
+  "title": "Robot Jet Action",
+  "year": "2022",
+  "publisher": "C64Portal",
+  "developer": "Tomasz \"Carrion\" Mielnik",
+  "genres": [
+    "Plattform",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Geschicklichkeitsspiel mit einem kleinen Roboter, der mit seinem Düsenrucksack durch die Abschnitte fliegt. Er soll die Edelsteine, Münzen und Sterne alter Videospiele einsammeln, bevor böse Roboter aus anderen Welten sie stehlen. Die 35 Abschnitte verteilen sich auf fünf Planeten, die jeweils auf bekannte ältere Spiele anspielen und mit einem Endgegner abschließen. Wer alles einsammelt, erhält eine Perfekt-Wertung; dabei gilt es Hindernissen auszuweichen und den Düsenantrieb nicht zu überhitzen.\n\nDas Spiel erschien im Januar 2022 als freies PRG, entstanden im Umfeld des polnischen Portals C64Portal; eine Modulausgabe gab es bei Bobr Games, dazu kommen Diskettenfassungen und eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick: Gedrückter Feuerknopf zündet den Düsenrucksack.\n\nCode: Tomasz Mielnik · Grafik: Tomasz Mielnik · Musik: Kamil Wolnikowski (Jammer)",
+  "texts": {
+    "de": "Geschicklichkeitsspiel mit einem kleinen Roboter, der mit seinem Düsenrucksack durch die Abschnitte fliegt. Er soll die Edelsteine, Münzen und Sterne alter Videospiele einsammeln, bevor böse Roboter aus anderen Welten sie stehlen. Die 35 Abschnitte verteilen sich auf fünf Planeten, die jeweils auf bekannte ältere Spiele anspielen und mit einem Endgegner abschließen. Wer alles einsammelt, erhält eine Perfekt-Wertung; dabei gilt es Hindernissen auszuweichen und den Düsenantrieb nicht zu überhitzen.\n\nDas Spiel erschien im Januar 2022 als freies PRG, entstanden im Umfeld des polnischen Portals C64Portal; eine Modulausgabe gab es bei Bobr Games, dazu kommen Diskettenfassungen und eine OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick: Gedrückter Feuerknopf zündet den Düsenrucksack.\n\nCode: Tomasz Mielnik · Grafik: Tomasz Mielnik · Musik: Kamil Wolnikowski (Jammer)",
+    "en": "A skill game starring a little robot that flies through the levels with its jetpack. It has to collect the gems, coins and stars of old video games before evil robots from other worlds steal them. The 35 levels are spread over five planets, each referencing well-known older games and ending with a boss. Collecting everything earns a 'perfect' rating, while obstacles must be avoided and the jetpack must not overheat.\n\nThe game was released in January 2022 as a free PRG, created around the Polish site C64Portal; a cartridge edition was sold by Bobr Games, and disk versions and a OneLoad64 cartridge conversion exist too. It is played with a joystick: holding fire fires up the jetpack.\n\nCode: Tomasz Mielnik · Graphics: Tomasz Mielnik · Music: Kamil Wolnikowski (Jammer)"
+  },
+  "images": {
+    "ss": "images/c3/c35d19b873980226981ae0d7951340a25a2af088.png",
+    "sstitle": "images/8e/8e017b4dab000d3ad8c12b87d35e2dc108730c5a.png"
+  }
+}

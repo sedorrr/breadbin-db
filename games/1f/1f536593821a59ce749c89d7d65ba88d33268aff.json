@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1f536593821a59ce749c89d7d65ba88d33268aff",
+  "md5": "e062724561d94367d86b38b7373c8007",
+  "crc32": "bbbaaa1c",
+  "size": 8272,
+  "format": "CRT",
+  "files": [
+    "Gridrunner.crt"
+  ],
+  "screenscraper_id": "112700",
+  "title": "Gridrunner",
+  "year": "1983",
+  "publisher": "Llamasoft (USA: HES)",
+  "developer": "Jeff Minter",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Jeff Minters schneller Schießer im Stil von Centipede: Auf einem Gitternetz schlängeln sich lange Ketten aus Gliedern von oben nach unten, die sich beim Beschuss in einzelne Teile zerlegen. Das eigene Schiff bewegt sich frei im unteren Bereich und feuert nach oben. Zusätzlich wandern an den Rändern zwei Strahlenkanonen entlang, deren Schüsse Hindernisse im Gitter erzeugen und das Schiff bedrohen. Das hohe Tempo und die einfache, aber fordernde Spielmechanik machten das Spiel zum Grundstein der Gridrunner-Reihe.\n\nUrsprünglich für den VIC-20 entwickelt, auf dem C64 von Llamasoft auf Kassette und in den USA von HES als Steckmodul veröffentlicht. Gesteuert wird mit dem Joystick in Port 1. Neben dem Originalmodul gibt es Modulumsetzungen der Kassettenfassung (etwa für OneLoad64).\n\nCode: Jeff Minter",
+  "texts": {
+    "de": "Jeff Minters schneller Schießer im Stil von Centipede: Auf einem Gitternetz schlängeln sich lange Ketten aus Gliedern von oben nach unten, die sich beim Beschuss in einzelne Teile zerlegen. Das eigene Schiff bewegt sich frei im unteren Bereich und feuert nach oben. Zusätzlich wandern an den Rändern zwei Strahlenkanonen entlang, deren Schüsse Hindernisse im Gitter erzeugen und das Schiff bedrohen. Das hohe Tempo und die einfache, aber fordernde Spielmechanik machten das Spiel zum Grundstein der Gridrunner-Reihe.\n\nUrsprünglich für den VIC-20 entwickelt, auf dem C64 von Llamasoft auf Kassette und in den USA von HES als Steckmodul veröffentlicht. Gesteuert wird mit dem Joystick in Port 1. Neben dem Originalmodul gibt es Modulumsetzungen der Kassettenfassung (etwa für OneLoad64).\n\nCode: Jeff Minter",
+    "en": "Jeff Minter's fast Centipede-style shooter: long chains of segments snake down a grid and break apart into separate pieces when hit. The player's ship moves freely in the lower area and fires upwards. Two zappers also patrol the edges of the screen; their beams create obstacles in the grid and threaten the ship. The high speed and simple yet demanding mechanics made it the foundation of the Gridrunner series.\n\nOriginally written for the VIC-20; on the C64 it was released by Llamasoft on tape and in the USA by HES as a cartridge. It is controlled by joystick in port 1. Besides the original cartridge there are cartridge conversions of the tape version (for example for OneLoad64).\n\nCode: Jeff Minter"
+  },
+  "images": {
+    "ss": "images/21/2151d694658898a7c7d1abe264c04ff3e2d09781.png"
+  }
+}

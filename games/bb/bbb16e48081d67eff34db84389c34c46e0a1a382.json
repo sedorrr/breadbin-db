@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "bbb16e48081d67eff34db84389c34c46e0a1a382",
+  "md5": "754be34a89b47c42f7e0fe66e5964f01",
+  "crc32": "9e4dbe39",
+  "size": 27321,
+  "format": "PRG",
+  "files": [
+    "Uchi Mata (J1).prg"
+  ],
+  "screenscraper_id": "110377",
+  "title": "Uchi Mata",
+  "year": "1986",
+  "publisher": "Martech",
+  "developer": "Andy Walker, Paul Hodgson",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Judo-Simulation, benannt nach dem Lieblingswurf des britischen Judoka Brian Jacks, der das Spiel als Berater begleitete. Statt wilden Knöpfchendrückens geht es um Griffe: Erst muss der Gegner am Revers oder Ärmel gepackt werden, dann wird der Wurf durch passende Joystickbewegungen eingeleitet. Punkte gibt es wie im echten Judo für saubere Würfe. Das Spiel gilt als anspruchsvoll und schwer zu erlernen, wird aber für seinen ernsthaften Ansatz geschätzt; der Computergegner passt sich der Spielweise an.\n\nErschienen auf Kassette und Diskette, später auch als Billigfassung unter dem Titel „Judo Uchi Mata“. Gespielt wird allein gegen den Computer oder zu zweit gleichzeitig; ein Spieler steuert per Joystick in Port 1. Es gibt Modulumsetzungen, etwa aus der OneLoad64-Sammlung.\n\nCode: Andy Walker, Paul Hodgson · Grafik: Andy Walker, Paul Hodgson · Musik: Paul Hodgson",
+  "texts": {
+    "de": "Judo-Simulation, benannt nach dem Lieblingswurf des britischen Judoka Brian Jacks, der das Spiel als Berater begleitete. Statt wilden Knöpfchendrückens geht es um Griffe: Erst muss der Gegner am Revers oder Ärmel gepackt werden, dann wird der Wurf durch passende Joystickbewegungen eingeleitet. Punkte gibt es wie im echten Judo für saubere Würfe. Das Spiel gilt als anspruchsvoll und schwer zu erlernen, wird aber für seinen ernsthaften Ansatz geschätzt; der Computergegner passt sich der Spielweise an.\n\nErschienen auf Kassette und Diskette, später auch als Billigfassung unter dem Titel „Judo Uchi Mata“. Gespielt wird allein gegen den Computer oder zu zweit gleichzeitig; ein Spieler steuert per Joystick in Port 1. Es gibt Modulumsetzungen, etwa aus der OneLoad64-Sammlung.\n\nCode: Andy Walker, Paul Hodgson · Grafik: Andy Walker, Paul Hodgson · Musik: Paul Hodgson",
+    "en": "A judo simulation named after the favourite throw of British judoka Brian Jacks, who advised on the game. Instead of frantic button-mashing, it is all about grips: first the opponent has to be grabbed by the lapel or sleeve, then the throw is started with the right joystick movements. As in real judo, points are awarded for clean throws. The game is regarded as demanding and hard to learn, but it is valued for its serious approach; the computer opponent adapts to the player's style.\n\nReleased on cassette and disk, later also as a budget re-release titled \"Judo Uchi Mata\". It can be played alone against the computer or by two players simultaneously; one player uses a joystick in port 1. There are cartridge conversions, for example from the OneLoad64 collection.\n\nCode: Andy Walker, Paul Hodgson · Graphics: Andy Walker, Paul Hodgson · Music: Paul Hodgson"
+  },
+  "images": {
+    "ss": "images/33/332f893c758d180475b2a139c52b11fed7933232.png",
+    "sstitle": "images/a3/a3db6d957aa7b3d12064a24c98091b245f3a0780.png"
+  }
+}

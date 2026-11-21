@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "aec7d83cec319f708c4265c055cb1403fdfea885",
+  "md5": "0e4496e06d4e16819bc2cab44d7b9816",
+  "crc32": "ad7c503f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tennis-manager-2027.d64"
+  ],
+  "title": "Tennis Manager 2027",
+  "year": "2026",
+  "publisher": "Fabu",
+  "developer": "Fabu",
+  "genres": [
+    "Sport",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Tennis-Managerspiel als vollständige Neufassung von Thorsten Woelkis „Tennis-Manager“ aus dem Jahr 1986. Gegenüber dem Original kamen unter anderem das Erstellen eigener Spieler, Statistiken, Einstellungen, Farbthemen, der Davis Cup, Verletzungen und stärkere Gegner hinzu. Die Sprache ist zwischen Deutsch und Englisch umschaltbar.\n\nD64 mit dem Spiel in einer einzigen Datei und einer Datei mit Veröffentlichungshinweisen. Am 2. November 2026 erschienen.\n\nCode: Fabu · Grafik: Fabu, Zeichensatz Retrofan",
+  "texts": {
+    "de": "Tennis-Managerspiel als vollständige Neufassung von Thorsten Woelkis „Tennis-Manager“ aus dem Jahr 1986. Gegenüber dem Original kamen unter anderem das Erstellen eigener Spieler, Statistiken, Einstellungen, Farbthemen, der Davis Cup, Verletzungen und stärkere Gegner hinzu. Die Sprache ist zwischen Deutsch und Englisch umschaltbar.\n\nD64 mit dem Spiel in einer einzigen Datei und einer Datei mit Veröffentlichungshinweisen. Am 2. November 2026 erschienen.\n\nCode: Fabu · Grafik: Fabu, Zeichensatz Retrofan",
+    "en": "Tennis management game, a complete remake of Thorsten Woelki's \"Tennis-Manager\" from 1986. Compared with the original it adds creating your own players, statistics, settings, colour themes, the Davis Cup, injuries and stronger opponents. The language can be switched between German and English.\n\nD64 with the game in a single file plus a file with release notes. Released on 2 November 2026.\n\nCode: Fabu · Graphics: Fabu, font by Retrofan"
+  },
+  "images": {
+    "sstitle": "images/6f/6f8dabc5fb7b08547d56877afb607d15c32ec371.png"
+  }
+}

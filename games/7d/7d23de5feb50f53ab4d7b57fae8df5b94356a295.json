@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "7d23de5feb50f53ab4d7b57fae8df5b94356a295",
+  "md5": "ec6789879b5ee1d807bff43a116c5191",
+  "crc32": "1e89a536",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DEATHLO2.D64"
+  ],
+  "screenscraper_id": "111514",
+  "title": "Deathlord",
+  "year": "1987",
+  "publisher": "Electronic Arts",
+  "developer": "Al Escudero, David Wong",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rollenspiel in einer an Japan angelehnten Fantasiewelt: Eine Gruppe von bis zu sechs Figuren aus acht Völkern und sechzehn Klassen soll den Herrscher der Finsternis besiegen. Aufbau und Darstellung erinnern an die Ultima-Reihe, mit Oberwelt, Städten und Verliesen. Berüchtigt ist der hohe Schwierigkeitsgrad: Es gibt nur einen Spielstand, gespeichert wird automatisch beim Ortswechsel und beim Tod einer Figur, sodass Fehler nicht rückgängig zu machen sind.\n\nErschienen für Apple II und C64 auf einer Startdiskette und Szenariodisketten, von denen Arbeitskopien angelegt werden. Gesteuert wird über die Tastatur.\n\nCode: Al Escudero, David Wong · Grafik: Nancy L. Fong",
+  "texts": {
+    "de": "Ein Rollenspiel in einer an Japan angelehnten Fantasiewelt: Eine Gruppe von bis zu sechs Figuren aus acht Völkern und sechzehn Klassen soll den Herrscher der Finsternis besiegen. Aufbau und Darstellung erinnern an die Ultima-Reihe, mit Oberwelt, Städten und Verliesen. Berüchtigt ist der hohe Schwierigkeitsgrad: Es gibt nur einen Spielstand, gespeichert wird automatisch beim Ortswechsel und beim Tod einer Figur, sodass Fehler nicht rückgängig zu machen sind.\n\nErschienen für Apple II und C64 auf einer Startdiskette und Szenariodisketten, von denen Arbeitskopien angelegt werden. Gesteuert wird über die Tastatur.\n\nCode: Al Escudero, David Wong · Grafik: Nancy L. Fong",
+    "en": "A role-playing game set in a fantasy world modelled on Japan: a party of up to six characters drawn from eight races and sixteen classes must defeat the lord of darkness. Structure and presentation recall the Ultima series, with an overworld, towns and dungeons. It is notorious for its difficulty: there is only one save slot, and the game saves automatically when changing location or when a character dies, so mistakes cannot be undone.\n\nReleased for Apple II and C64 on a boot disk plus scenario disks, from which working copies are made. It is controlled with the keyboard.\n\nCode: Al Escudero, David Wong · Graphics: Nancy L. Fong"
+  },
+  "images": {
+    "sstitle": "images/c0/c0d12623cd12045708f0cf0d6ca33eb90ed1be30.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "6de80eb700a10fc94c129bf0dd40a8d0d5c90602",
+  "md5": "6d487f8fecfa54a1df0afedb39e45610",
+  "crc32": "4c3ba167",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ember-vault.d64"
+  ],
+  "title": "Ember Vault",
+  "year": "2026",
+  "publisher": "mmethodz",
+  "developer": "mmethodz",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Seitlich scrollendes Plattformspiel mit acht Abschnitten und zwei Endgegnern: dem „Warden“ zur Halbzeit und dem „Ember Eater“ am Schluss. Zufall spielt keine Rolle, jede Gefahr kündigt ihr Verhalten vorher an; jeder Abschnitt hat Kontrollpunkte.\n\nD64, Level werden einzeln nachgeladen. Veröffentlicht im November 2026 (Preis frei wählbar); laut CSDb ohne KI-Inhalte. Zwei Musikstücke mit zusammen 15 Unterstücken.\n\nCode, Grafik, Musik: mmethodz",
+  "texts": {
+    "de": "Seitlich scrollendes Plattformspiel mit acht Abschnitten und zwei Endgegnern: dem „Warden“ zur Halbzeit und dem „Ember Eater“ am Schluss. Zufall spielt keine Rolle, jede Gefahr kündigt ihr Verhalten vorher an; jeder Abschnitt hat Kontrollpunkte.\n\nD64, Level werden einzeln nachgeladen. Veröffentlicht im November 2026 (Preis frei wählbar); laut CSDb ohne KI-Inhalte. Zwei Musikstücke mit zusammen 15 Unterstücken.\n\nCode, Grafik, Musik: mmethodz",
+    "en": "Side-scrolling platformer with eight stages and two bosses: the \"Warden\" halfway through and the \"Ember Eater\" at the end. There is no randomness; every hazard telegraphs what it is about to do, and each stage has checkpoints.\n\nD64, levels are loaded individually. Released in November 2026 (name your own price); according to CSDb it contains no AI-generated content. Two music tracks with 15 subtunes in total.\n\nCode, graphics, music: mmethodz"
+  },
+  "images": {
+    "ss": "images/30/30075a7703ea8c86f660f6f4135bf3ae45223ab9.png",
+    "sstitle": "images/41/417d5f2bcbfa52a61d5473fa2296fc03f344e99b.png"
+  }
+}

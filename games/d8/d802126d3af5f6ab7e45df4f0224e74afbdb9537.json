@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d802126d3af5f6ab7e45df4f0224e74afbdb9537",
+  "md5": "dd508de39581977241f7617b1854ee14",
+  "crc32": "ed9b193b",
+  "size": 36310,
+  "format": "T64",
+  "files": [
+    "DANDARE2.T64"
+  ],
+  "screenscraper_id": "36837",
+  "title": "Dan Dare II: Mekon's Revenge",
+  "year": "1988",
+  "publisher": "Virgin Games",
+  "developer": "Dave Chapman",
+  "genres": [
+    "Shoot'em Up",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Der Comic-Held Dan Dare muss erneut gegen den Mekon antreten: An Bord von dessen riesigem Raumschiff werden Super-Treens herangezüchtet, mit denen der Mekon die Erde angreifen will. Mit einem Raketenrucksack fliegt Dan durch die Gänge und Hallen des Schiffs, schießt sich durch die Wachen und muss die Brutbehälter zerstören, bevor die Kreaturen schlüpfen. Ein Zeitlimit treibt zur Eile, denn jede entkommene Kreatur macht die Lage schwieriger. Die Fortsetzung setzt stärker auf Schießereien als das eher knobelnde erste Dan-Dare-Spiel.\n\nErschienen auf Kassette und Diskette; gesteuert wird mit dem Joystick in Port 2. Spätere Umsetzungen auf Modul (etwa für OneLoad64) laden das Spiel ohne Nachladen. Es gibt auch Nachdrucke auf Heftkassetten italienischer Computerzeitschriften.\n\nCode: Dave Chapman · Grafik: Alex Martin",
+  "texts": {
+    "de": "Der Comic-Held Dan Dare muss erneut gegen den Mekon antreten: An Bord von dessen riesigem Raumschiff werden Super-Treens herangezüchtet, mit denen der Mekon die Erde angreifen will. Mit einem Raketenrucksack fliegt Dan durch die Gänge und Hallen des Schiffs, schießt sich durch die Wachen und muss die Brutbehälter zerstören, bevor die Kreaturen schlüpfen. Ein Zeitlimit treibt zur Eile, denn jede entkommene Kreatur macht die Lage schwieriger. Die Fortsetzung setzt stärker auf Schießereien als das eher knobelnde erste Dan-Dare-Spiel.\n\nErschienen auf Kassette und Diskette; gesteuert wird mit dem Joystick in Port 2. Spätere Umsetzungen auf Modul (etwa für OneLoad64) laden das Spiel ohne Nachladen. Es gibt auch Nachdrucke auf Heftkassetten italienischer Computerzeitschriften.\n\nCode: Dave Chapman · Grafik: Alex Martin",
+    "en": "Comic hero Dan Dare faces the Mekon once more: aboard the Mekon's huge spaceship, Super Treens are being bred for an attack on Earth. Using a jetpack, Dan flies through the ship's corridors and halls, blasting the guards and destroying the incubators before the creatures hatch. A time limit keeps up the pressure, since every creature that escapes makes things harder. The sequel puts more weight on shooting than the more puzzle-oriented first Dan Dare game.\n\nReleased on tape and disk; controlled by joystick in port 2. Later cartridge conversions (for example for OneLoad64) run the game without further loading. Reprints also appeared on cover tapes of Italian computer magazines.\n\nCode: Dave Chapman · Graphics: Alex Martin"
+  },
+  "images": {
+    "ss": "images/75/75e818b47e4b6c6abea9e3c9db08fd9258f9ee32.png",
+    "sstitle": "images/6e/6ed8a8f9beef10c829c0dc253ce0245d12365903.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "5c49bf3c42438d6f45432b42520bbf4388530a88",
+  "md5": "079837cdb2f071f03b4d8985e044932e",
+  "crc32": "746dbbb6",
+  "size": 30155,
+  "format": "PRG",
+  "files": [
+    "Track and Field (J1).prg"
+  ],
+  "screenscraper_id": "110282",
+  "title": "Track & Field",
+  "year": "1984",
+  "publisher": "Atarisoft (Europa: Konami/Imagine)",
+  "developer": "Joe Simko, Dan Danhof, Matt Decker",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-4",
+  "synopsis": "Umsetzung des Konami-Automaten mit sechs Leichtathletik-Disziplinen: 100-Meter-Lauf, Weitsprung, Speerwurf, 110 Meter Hürden, Hammerwurf und Hochsprung. Geschwindigkeit entsteht durch schnelles Hin- und Herbewegen des Joysticks bzw. Hämmern auf den Feuerknopf, Sprünge und Würfe verlangen zusätzlich den richtigen Winkel im passenden Moment. Wer die Qualifikationsweite oder -zeit verfehlt, scheidet aus. Zusammen mit Decathlon-Spielen jener Zeit steht es für die damals beliebten Joystick-Rüttler.\n\nErschienen auf Modul, Diskette und Kassette; in Nordamerika unter dem Atarisoft-Etikett, später auch direkt von Konami. Gespielt wird mit einem oder zwei Joysticks; bis zu vier Spieler treten abwechselnd an, zwei auch gleichzeitig. Es gibt Modulumsetzungen (etwa für OneLoad64) für Joystick in Port 1.\n\nCode: Joe Simko, Dan Danhof, Matt Decker",
+  "texts": {
+    "de": "Umsetzung des Konami-Automaten mit sechs Leichtathletik-Disziplinen: 100-Meter-Lauf, Weitsprung, Speerwurf, 110 Meter Hürden, Hammerwurf und Hochsprung. Geschwindigkeit entsteht durch schnelles Hin- und Herbewegen des Joysticks bzw. Hämmern auf den Feuerknopf, Sprünge und Würfe verlangen zusätzlich den richtigen Winkel im passenden Moment. Wer die Qualifikationsweite oder -zeit verfehlt, scheidet aus. Zusammen mit Decathlon-Spielen jener Zeit steht es für die damals beliebten Joystick-Rüttler.\n\nErschienen auf Modul, Diskette und Kassette; in Nordamerika unter dem Atarisoft-Etikett, später auch direkt von Konami. Gespielt wird mit einem oder zwei Joysticks; bis zu vier Spieler treten abwechselnd an, zwei auch gleichzeitig. Es gibt Modulumsetzungen (etwa für OneLoad64) für Joystick in Port 1.\n\nCode: Joe Simko, Dan Danhof, Matt Decker",
+    "en": "Conversion of the Konami arcade game with six athletics events: 100 metre dash, long jump, javelin, 110 metre hurdles, hammer throw and high jump. Speed comes from waggling the joystick or hammering the fire button, while jumps and throws also require the right angle at the right moment. Missing the qualifying distance or time eliminates the athlete. Along with the decathlon games of the time, it stands for the joystick-waggling sports games popular back then.\n\nReleased on cartridge, disk and tape; in North America under the Atarisoft label, later also directly by Konami. It is played with one or two joysticks; up to four players take turns, two can also compete simultaneously. There are cartridge conversions (for example for OneLoad64) for joystick in port 1.\n\nCode: Joe Simko, Dan Danhof, Matt Decker"
+  },
+  "images": {
+    "sstitle": "images/24/24da85051ec840c51ec4ad3e3f5310595e60dc7d.png"
+  }
+}

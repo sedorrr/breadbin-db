@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8c1565ce150a28d6504f77479e60506f4815200f",
+  "md5": "ce2f5047e03044e32f7b4e626c7860b5",
+  "crc32": "ab9b2625",
+  "size": 31091,
+  "format": "PRG",
+  "files": [
+    "Slap Fight.prg"
+  ],
+  "screenscraper_id": "110879",
+  "title": "Slap Fight",
+  "year": "1987",
+  "publisher": "Imagine",
+  "developer": "Imagine",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Toaplan-Automaten (in Europa von Taito vertrieben): Ein Raumgleiter fliegt über eine fremde Planetenoberfläche, die senkrecht scrollt, und bekämpft Bodenstellungen und Flugobjekte. Besonders ist das Aufrüstsystem: Eingesammelte Sterne schieben eine Markierung auf einer Leiste weiter, und der Spieler entscheidet selbst, wann er welche Waffe (Tempo, Seitenschuss, Laser, Bomben, Schild u. a.) aktiviert. Dieses taktische Element hebt das Spiel von vielen Ballerspielen seiner Zeit ab.\n\nDie C64-Fassung erschien 1987 bei Imagine auf Kassette und Diskette und wurde von der Fachpresse als gelungene Automatenumsetzung gelobt. Gesteuert wird mit dem Joystick in Port 2. Es gibt Modulumsetzungen, etwa aus der OneLoad64-Sammlung.\n\nMusik: Martin Galway",
+  "texts": {
+    "de": "Umsetzung des Toaplan-Automaten (in Europa von Taito vertrieben): Ein Raumgleiter fliegt über eine fremde Planetenoberfläche, die senkrecht scrollt, und bekämpft Bodenstellungen und Flugobjekte. Besonders ist das Aufrüstsystem: Eingesammelte Sterne schieben eine Markierung auf einer Leiste weiter, und der Spieler entscheidet selbst, wann er welche Waffe (Tempo, Seitenschuss, Laser, Bomben, Schild u. a.) aktiviert. Dieses taktische Element hebt das Spiel von vielen Ballerspielen seiner Zeit ab.\n\nDie C64-Fassung erschien 1987 bei Imagine auf Kassette und Diskette und wurde von der Fachpresse als gelungene Automatenumsetzung gelobt. Gesteuert wird mit dem Joystick in Port 2. Es gibt Modulumsetzungen, etwa aus der OneLoad64-Sammlung.\n\nMusik: Martin Galway",
+    "en": "A conversion of the Toaplan arcade game (distributed by Taito in Europe): a fighter craft flies over a vertically scrolling alien planet surface, fighting ground installations and flying enemies. The power-up system is what makes it special: collected stars move a marker along a bar, and the player decides when to activate which weapon (speed, side shot, laser, bombs, shield and more). This tactical element sets it apart from many shooters of its time.\n\nThe C64 version was released by Imagine in 1987 on cassette and disk and was praised by the press as a successful arcade conversion. It is controlled with a joystick in port 2. There are cartridge conversions, for example from the OneLoad64 collection.\n\nMusic: Martin Galway"
+  },
+  "images": {
+    "ss": "images/50/50b8f55514b06066b865359e56ad2455c27e55c0.png",
+    "sstitle": "images/0a/0a51ba7acad7fba180b8f2d01980c6a094908407.png"
+  }
+}

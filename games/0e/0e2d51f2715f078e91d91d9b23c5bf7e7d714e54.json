@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "0e2d51f2715f078e91d91d9b23c5bf7e7d714e54",
+  "md5": "481373659a52e4aeb76398179082c1da",
+  "crc32": "cd0439eb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "REDSTRM0.D64"
+  ],
+  "screenscraper_id": "114759",
+  "title": "Red Storm Rising",
+  "year": "1988",
+  "publisher": "MicroProse",
+  "developer": "MicroProse (Sid Meier, Silas Warner)",
+  "genres": [
+    "Simulation",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "U-Boot-Simulation nach dem Roman von Tom Clancy und Larry Bond: Im Nordatlantik führt man ein amerikanisches Jagd-U-Boot gegen die sowjetische Flotte in einem fiktiven Dritten Weltkrieg. Im Mittelpunkt steht das Orten und Verfolgen per Sonar, das Abwägen zwischen Tempo und Lautstärke und der Einsatz von Torpedos und Flugkörpern. Gespielt werden Einzelaufträge oder ein zusammenhängender Feldzug, dessen Verlauf von den eigenen Erfolgen abhängt. Das Spiel gilt als eine der anspruchsvollsten Militärsimulationen auf dem C64 und erschien dort zuerst.\n\nUrsprünglich auf zwei Disketten veröffentlicht; daneben gibt es EasyFlash-Modulumsetzungen der Diskettenfassung. Gesteuert wird überwiegend über Tastatur und Menüs, der Joystick in Port 2 dient zur Auswahl.\n\nCode: Sid Meier, Silas Warner",
+  "texts": {
+    "de": "U-Boot-Simulation nach dem Roman von Tom Clancy und Larry Bond: Im Nordatlantik führt man ein amerikanisches Jagd-U-Boot gegen die sowjetische Flotte in einem fiktiven Dritten Weltkrieg. Im Mittelpunkt steht das Orten und Verfolgen per Sonar, das Abwägen zwischen Tempo und Lautstärke und der Einsatz von Torpedos und Flugkörpern. Gespielt werden Einzelaufträge oder ein zusammenhängender Feldzug, dessen Verlauf von den eigenen Erfolgen abhängt. Das Spiel gilt als eine der anspruchsvollsten Militärsimulationen auf dem C64 und erschien dort zuerst.\n\nUrsprünglich auf zwei Disketten veröffentlicht; daneben gibt es EasyFlash-Modulumsetzungen der Diskettenfassung. Gesteuert wird überwiegend über Tastatur und Menüs, der Joystick in Port 2 dient zur Auswahl.\n\nCode: Sid Meier, Silas Warner",
+    "en": "A submarine simulation based on the novel by Tom Clancy and Larry Bond: in the North Atlantic the player commands an American attack submarine against the Soviet fleet in a fictional Third World War. The focus is on detecting and tracking targets by sonar, balancing speed against noise, and using torpedoes and missiles. Players can take on single missions or a linked campaign whose course depends on their own success. It is regarded as one of the most demanding military simulations on the C64, where it was released first.\n\nOriginally released on two disks; EasyFlash cartridge conversions of the disk version also exist. Control is mainly via keyboard and menus, with a joystick in port 2 used for selection.\n\nCode: Sid Meier, Silas Warner"
+  }
+}

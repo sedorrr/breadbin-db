@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "6f3d2cb6c82040a3057e7d13117b55ab00571d0c",
+  "md5": "4626261047ced2b67579d5e00507871e",
+  "crc32": "209a6a57",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Hipofruta-v1.1.d64"
+  ],
+  "title": "Hipofruta",
+  "year": "2026",
+  "publisher": "Bonnette2020",
+  "developer": "Dirk Roosen, Adrián Bonnette",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Plattformspiel mit einem Nilpferd in der Hauptrolle, das sich durch 20 Level frisst. Es sammelt Früchte, weicht Spinnen, Fledermäusen und Obstwächtern aus, öffnet über Hebel verborgene Türen und findet Herzen für zusätzliche Leben. Am Ende wartet die Große Zitrone als Endgegner.\n\nD64, Fassung 1.1 vom 16.11.2026 (Erstfassung im Sommer 2026, Vorschau 2025). Auf der Diskette liegen getrennte PAL- und NTSC-Fassungen. Mit dem AGPX Game Maker erstellt; laut CSDb ohne KI-Inhalte. Eine Kassetten- und Diskettenfassung erschien bei K&A Plus.\n\nCode: Dirk Roosen · Grafik: Adrián Bonnette · Musik: Esteban Trujillo",
+  "texts": {
+    "de": "Plattformspiel mit einem Nilpferd in der Hauptrolle, das sich durch 20 Level frisst. Es sammelt Früchte, weicht Spinnen, Fledermäusen und Obstwächtern aus, öffnet über Hebel verborgene Türen und findet Herzen für zusätzliche Leben. Am Ende wartet die Große Zitrone als Endgegner.\n\nD64, Fassung 1.1 vom 16.11.2026 (Erstfassung im Sommer 2026, Vorschau 2025). Auf der Diskette liegen getrennte PAL- und NTSC-Fassungen. Mit dem AGPX Game Maker erstellt; laut CSDb ohne KI-Inhalte. Eine Kassetten- und Diskettenfassung erschien bei K&A Plus.\n\nCode: Dirk Roosen · Grafik: Adrián Bonnette · Musik: Esteban Trujillo",
+    "en": "Platformer starring a hippo that eats its way through 20 levels. It collects fruit, avoids spiders, bats and fruit guards, opens hidden doors with levers and finds hearts for extra lives. At the end the Great Lemon awaits as the final boss.\n\nD64, version 1.1 from 16 November 2026 (first release in summer 2026, preview in 2025). The disk holds separate PAL and NTSC versions. Made with the AGPX Game Maker; according to CSDb it contains no AI-generated content. A tape and disk edition was released by K&A Plus.\n\nCode: Dirk Roosen · Graphics: Adrián Bonnette · Music: Esteban Trujillo"
+  },
+  "images": {
+    "sstitle": "images/a3/a33b396ea365d768d54fe5c2d931f494318dadfe.png"
+  }
+}

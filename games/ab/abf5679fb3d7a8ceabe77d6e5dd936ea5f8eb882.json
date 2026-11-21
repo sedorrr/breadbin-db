@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "abf5679fb3d7a8ceabe77d6e5dd936ea5f8eb882",
+  "md5": "ad7d9a8c78a9894ed02e44503baafb55",
+  "crc32": "f829d394",
+  "size": 444881,
+  "format": "TAP",
+  "files": [
+    "Toobin' (Version 1).tap"
+  ],
+  "screenscraper_id": "36485",
+  "title": "Toobin'",
+  "year": "1989",
+  "publisher": "Domark",
+  "developer": "Teque Software",
+  "genres": [
+    "Action",
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Atari-Automaten: Auf einem Reifenschlauch treiben zwei Freizeitpaddler einen Fluss hinunter. Durch Paddeln mit links und rechts steuert man den Schlauch, weicht Ästen, Krokodilen und Anglern aus und wirft Getränkedosen auf Hindernisse. Wer durch Tore schwimmt, sammelt Punkte, Strudel und Stromschnellen sorgen für Abwechslung. Der lockere, humorvolle Ton hebt das Spiel von üblichen Actionspielen ab.\n\nAuf Kassette und Diskette erschienen, als Tengen-Lizenz über Domark; daneben gibt es Modul- und PRG-Umsetzungen. Steuerung per Joystick in Port 2.\n\nCode: Shaun Hollingworth, Mike Talbot · Grafik: Mark Potente · Musik: Matt Furniss",
+  "texts": {
+    "de": "Umsetzung des Atari-Automaten: Auf einem Reifenschlauch treiben zwei Freizeitpaddler einen Fluss hinunter. Durch Paddeln mit links und rechts steuert man den Schlauch, weicht Ästen, Krokodilen und Anglern aus und wirft Getränkedosen auf Hindernisse. Wer durch Tore schwimmt, sammelt Punkte, Strudel und Stromschnellen sorgen für Abwechslung. Der lockere, humorvolle Ton hebt das Spiel von üblichen Actionspielen ab.\n\nAuf Kassette und Diskette erschienen, als Tengen-Lizenz über Domark; daneben gibt es Modul- und PRG-Umsetzungen. Steuerung per Joystick in Port 2.\n\nCode: Shaun Hollingworth, Mike Talbot · Grafik: Mark Potente · Musik: Matt Furniss",
+    "en": "A conversion of the Atari arcade game: two holidaymakers float down a river on inner tubes. Paddling left and right steers the tube, avoiding branches, crocodiles and anglers while throwing drink cans at obstacles. Swimming through gates earns points, and whirlpools and rapids add variety. Its relaxed, humorous tone sets it apart from typical action games.\n\nReleased on tape and disk as a Tengen licence through Domark; cartridge and PRG conversions also exist. Control via joystick in port 2.\n\nCode: Shaun Hollingworth, Mike Talbot · Graphics: Mark Potente · Music: Matt Furniss"
+  },
+  "images": {
+    "ss": "images/ed/edfecfd4778513bdb83f500ff2133470183a29ee.png",
+    "sstitle": "images/3b/3bbf5b8ae2c597ef546433396aa98c1b8e82c590.png"
+  }
+}

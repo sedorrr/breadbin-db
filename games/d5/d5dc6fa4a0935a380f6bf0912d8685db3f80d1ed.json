@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d5dc6fa4a0935a380f6bf0912d8685db3f80d1ed",
+  "md5": "b69a932492f7c4fdb4b8115ef14d77eb",
+  "crc32": "5305e3fb",
+  "size": 98560,
+  "format": "CRT",
+  "files": [
+    "Rick Dangerous II.crt"
+  ],
+  "screenscraper_id": "36212",
+  "title": "Rick Dangerous II",
+  "year": "1990",
+  "publisher": "Micro Style",
+  "developer": "Core Design",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung des Plattformspiels um den Abenteurer Rick Dangerous, diesmal mit Science-Fiction-Einschlag: Nach der Landung einer fliegenden Untertasse in London folgt Rick den Außerirdischen durch Eiswelten, Wälder und das Innere ihres Raumschiffs. Wie im Vorgänger lauern auf jedem Bildschirm Fallen, die man meist erst nach einem Lebensverlust erkennt; Pistole, Dynamit und Faustschlag helfen gegen Gegner und Hindernisse. Das Spiel ist bekannt für seinen hohen Schwierigkeitsgrad und den comicartigen Stil.\n\nAuf Diskette und Kassette erschienen; daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870. Steuerung per Joystick in Port 2, Feuer mit Richtung löst Schuss oder Dynamit aus.\n\nCode: Chris Long · Grafik: Simon Phipps, Terry Lloyd, Bob Churchill · Musik: David Pridmore",
+  "texts": {
+    "de": "Fortsetzung des Plattformspiels um den Abenteurer Rick Dangerous, diesmal mit Science-Fiction-Einschlag: Nach der Landung einer fliegenden Untertasse in London folgt Rick den Außerirdischen durch Eiswelten, Wälder und das Innere ihres Raumschiffs. Wie im Vorgänger lauern auf jedem Bildschirm Fallen, die man meist erst nach einem Lebensverlust erkennt; Pistole, Dynamit und Faustschlag helfen gegen Gegner und Hindernisse. Das Spiel ist bekannt für seinen hohen Schwierigkeitsgrad und den comicartigen Stil.\n\nAuf Diskette und Kassette erschienen; daneben gibt es EasyFlash-Umsetzungen, darunter eine MultiLoad64-Fassung von $olo1870. Steuerung per Joystick in Port 2, Feuer mit Richtung löst Schuss oder Dynamit aus.\n\nCode: Chris Long · Grafik: Simon Phipps, Terry Lloyd, Bob Churchill · Musik: David Pridmore",
+    "en": "The sequel to the platform game about adventurer Rick Dangerous, this time with a science-fiction twist: after a flying saucer lands in London, Rick follows the aliens through ice worlds, forests and the inside of their spaceship. As in the first game, every screen hides traps that are usually only discovered by losing a life; a pistol, dynamite and punches help against enemies and obstacles. The game is known for its high difficulty and its cartoon-like style.\n\nReleased on disk and tape; EasyFlash conversions also exist, including a MultiLoad64 version by $olo1870. Control via joystick in port 2, with fire plus direction triggering a shot or dynamite.\n\nCode: Chris Long · Graphics: Simon Phipps, Terry Lloyd, Bob Churchill · Music: David Pridmore"
+  },
+  "images": {
+    "ss": "images/6c/6c5f17f08bc6cfd60b8a95a1466c9405ff3d153a.png",
+    "sstitle": "images/ea/ea1b7c93da06c757ee6fa768d7601746eadd7717.png"
+  }
+}

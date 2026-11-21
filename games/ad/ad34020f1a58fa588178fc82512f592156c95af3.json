@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ad34020f1a58fa588178fc82512f592156c95af3",
+  "md5": "c041c61d3cd1251cd95f4127ccd1568f",
+  "crc32": "6a3a76f2",
+  "size": 22272,
+  "format": "T64",
+  "files": [
+    "TENEBRA.T64"
+  ],
+  "screenscraper_id": "493508",
+  "title": "Tenebra",
+  "year": "2021",
+  "publisher": "Haplo",
+  "developer": "Haplo (Ali Pouladi)",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Stimmungsvolles Denkspiel um Licht und Dunkelheit: Die Spielfigur fürchtet sich vor der Finsternis und betritt keine dunklen Felder. Der Spieler muss ihr daher einen Weg ausleuchten, indem er Fackeln versetzt, Lichter auf Schienen schiebt, Feuerschalen entzündet, Schlüssel für Türen findet und Schienen repariert. Die Rätsel sind knapp gestaltet, die Grafik erinnert an Rogue-artige Spiele. Tenebra wurde später auf sehr viele andere Rechner und Konsolen umgesetzt.\n\nDas Original erschien Ende 2021 als freies Spiel; 2022 folgte Tenebra Extended mit zusätzlichen Abschnitten (insgesamt 31) und überarbeiteten Rätseln, auch als Modul bei Bobr Games. Unter den Fassungen sind PRG, Bandabbild und OneLoad64-Modulumsetzung. Gesteuert wird nur mit dem Joystick (Port 2); das Spiel läuft auf PAL- und NTSC-Geräten.\n\nCode: Haplo · Grafik: Haplo",
+  "texts": {
+    "de": "Stimmungsvolles Denkspiel um Licht und Dunkelheit: Die Spielfigur fürchtet sich vor der Finsternis und betritt keine dunklen Felder. Der Spieler muss ihr daher einen Weg ausleuchten, indem er Fackeln versetzt, Lichter auf Schienen schiebt, Feuerschalen entzündet, Schlüssel für Türen findet und Schienen repariert. Die Rätsel sind knapp gestaltet, die Grafik erinnert an Rogue-artige Spiele. Tenebra wurde später auf sehr viele andere Rechner und Konsolen umgesetzt.\n\nDas Original erschien Ende 2021 als freies Spiel; 2022 folgte Tenebra Extended mit zusätzlichen Abschnitten (insgesamt 31) und überarbeiteten Rätseln, auch als Modul bei Bobr Games. Unter den Fassungen sind PRG, Bandabbild und OneLoad64-Modulumsetzung. Gesteuert wird nur mit dem Joystick (Port 2); das Spiel läuft auf PAL- und NTSC-Geräten.\n\nCode: Haplo · Grafik: Haplo",
+    "en": "An atmospheric puzzle game about light and darkness: the protagonist is afraid of the dark and will not step onto unlit tiles. The player therefore has to light a path by moving torches, pushing lights along rails, kindling braziers, finding keys for doors and repairing rails. The puzzles are compact and the graphics recall roguelike games. Tenebra was later ported to a great many other computers and consoles.\n\nThe original came out in late 2021 as a free game; Tenebra Extended followed in 2022 with additional levels (31 in total) and reworked puzzles, also on cartridge from Bobr Games. The versions include PRG, tape image and a OneLoad64 cartridge conversion. It is controlled by joystick only (port 2) and runs on PAL and NTSC machines.\n\nCode: Haplo · Graphics: Haplo"
+  },
+  "images": {
+    "ss": "images/82/82a5b70e770150194f94d50b60d51c22ebc077a6.png",
+    "sstitle": "images/08/08cc5967bb7c6453b645cbeb27ad8aee88ed73a9.png"
+  }
+}

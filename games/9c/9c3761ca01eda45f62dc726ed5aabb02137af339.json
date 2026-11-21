@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "9c3761ca01eda45f62dc726ed5aabb02137af339",
+  "md5": "4687af59e0e588c6d6f2565f4f65d4d4",
+  "crc32": "2e31281f",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Wolfling v1.4 (Lazycow - 2019).crt"
+  ],
+  "screenscraper_id": "200020",
+  "title": "Wolfling",
+  "year": "2019",
+  "publisher": "Lazycow",
+  "developer": "Matthias Bock (Lazycow)",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Plattformspiel mit Metroidvania-Anklängen: Ling erwacht im Kerker des Barons Baranov, der sie wegen ihrer düsteren Abstammung eingesperrt hat, und versucht zu fliehen und ihren Fluch zu brechen. Im Mondlicht verwandelt sie sich in einen Wolf, der schneller und wendiger ist, rollend angreift und beißt; als Mensch kann sie schlagen, treten und Dolche werfen. Rätsel, Erkundung und das Einsammeln von Gegenständen verbinden sich mit flottem Hüpfen. Das Spiel geht auf einen NESdev-Wettbewerbsbeitrag von 2017 zurück.\n\nDie C64-Fassung wurde Ende 2018 gezeigt und Anfang 2019 frei veröffentlicht, zuletzt als Fassung 1.4; daneben gibt es Fassungen für NES, Windows, macOS und Linux. Unter den C64-Fassungen sind PRG, Diskette, Bandabbild und OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick in Port 2. Die Musik der C64-Fassung wurde in Besprechungen besonders gelobt.\n\nCode: Matthias Bock · Musik: Pierre Martin (Cyborg Jeff)",
+  "texts": {
+    "de": "Plattformspiel mit Metroidvania-Anklängen: Ling erwacht im Kerker des Barons Baranov, der sie wegen ihrer düsteren Abstammung eingesperrt hat, und versucht zu fliehen und ihren Fluch zu brechen. Im Mondlicht verwandelt sie sich in einen Wolf, der schneller und wendiger ist, rollend angreift und beißt; als Mensch kann sie schlagen, treten und Dolche werfen. Rätsel, Erkundung und das Einsammeln von Gegenständen verbinden sich mit flottem Hüpfen. Das Spiel geht auf einen NESdev-Wettbewerbsbeitrag von 2017 zurück.\n\nDie C64-Fassung wurde Ende 2018 gezeigt und Anfang 2019 frei veröffentlicht, zuletzt als Fassung 1.4; daneben gibt es Fassungen für NES, Windows, macOS und Linux. Unter den C64-Fassungen sind PRG, Diskette, Bandabbild und OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick in Port 2. Die Musik der C64-Fassung wurde in Besprechungen besonders gelobt.\n\nCode: Matthias Bock · Musik: Pierre Martin (Cyborg Jeff)",
+    "en": "A platformer with Metroidvania touches: Ling wakes up in the dungeon of Baron Baranov, who has locked her up because of her dark heritage, and tries to escape and break her curse. In moonlight she turns into a wolf that is faster and more agile, attacks with a roll and bites; in human form she can punch, kick and throw daggers. Puzzles, exploration and item collection are combined with brisk jumping. The game is based on an entry for the 2017 NESdev competition.\n\nThe C64 version was shown at the end of 2018 and released for free in early 2019, most recently as version 1.4; there are also versions for the NES, Windows, macOS and Linux. The C64 versions include PRG, disk, tape image and a OneLoad64 cartridge conversion. It is played with a joystick in port 2. Reviewers especially praised the music of the C64 version.\n\nCode: Matthias Bock · Music: Pierre Martin (Cyborg Jeff)"
+  },
+  "images": {
+    "ss": "images/3e/3e25c4118cce5f4b30bca6ad9b99bcb3dd2efa25.png",
+    "sstitle": "images/45/45d60fb45334b30243cc546713d91b94b2fe2923.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "46efbbaa85ce598f3fe0c4768d664591e128af63",
+  "md5": "804e0058ddaf0432943c257e3da545b9",
+  "crc32": "27001f93",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "GHOSTNGA.D64"
+  ],
+  "screenscraper_id": "112593",
+  "title": "Ghosts'n Goblins Arcade",
+  "year": "2015",
+  "publisher": "Nostalgia",
+  "developer": "Nostalgia",
+  "genres": [
+    "Plattform / Jump 'n' Run",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Überarbeitung von Elites C64-Umsetzung des Capcom-Automaten Ghosts'n Goblins. Ritter Arthur muss seine entführte Prinzessin retten und kämpft sich dafür durch Friedhof, Wald, Höhlen und Burg voller Zombies, Dämonen und Riesen; nach einem Treffer verliert er seine Rüstung, nach dem zweiten ein Leben. Die Arcade-Fassung ergänzt die auf dem C64 ursprünglich fehlenden Abschnitte des Automaten und bringt neue Grafik und Musik. Damit kommt sie der Vorlage deutlich näher als die Fassung von 1986.\n\nVon der Gruppe Nostalgia 2015 zusammen mit der Special Edition von Commando Arcade veröffentlicht, als Diskettenfassung und als EasyFlash-Modul. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chris Butler (Original), Erhan, Geert Verschueren, Tomaz Kac · Grafik: Chris Butler, Ste Pickford, Carl Mason, Steven Day · Musik: Glenn Rune Gallefoss, Thomas Egeskov Petersen",
+  "texts": {
+    "de": "Überarbeitung von Elites C64-Umsetzung des Capcom-Automaten Ghosts'n Goblins. Ritter Arthur muss seine entführte Prinzessin retten und kämpft sich dafür durch Friedhof, Wald, Höhlen und Burg voller Zombies, Dämonen und Riesen; nach einem Treffer verliert er seine Rüstung, nach dem zweiten ein Leben. Die Arcade-Fassung ergänzt die auf dem C64 ursprünglich fehlenden Abschnitte des Automaten und bringt neue Grafik und Musik. Damit kommt sie der Vorlage deutlich näher als die Fassung von 1986.\n\nVon der Gruppe Nostalgia 2015 zusammen mit der Special Edition von Commando Arcade veröffentlicht, als Diskettenfassung und als EasyFlash-Modul. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Chris Butler (Original), Erhan, Geert Verschueren, Tomaz Kac · Grafik: Chris Butler, Ste Pickford, Carl Mason, Steven Day · Musik: Glenn Rune Gallefoss, Thomas Egeskov Petersen",
+    "en": "Rework of Elite's C64 conversion of the Capcom arcade game Ghosts'n Goblins. The knight Arthur must rescue his kidnapped princess, fighting his way through a graveyard, forest, caves and a castle full of zombies, demons and giants; one hit costs him his armour, a second one a life. The Arcade version adds the arcade levels originally missing on the C64 and brings new graphics and music. This makes it considerably closer to the coin-op than the 1986 version.\n\nReleased by the group Nostalgia in 2015 together with the Special Edition of Commando Arcade, as a disk version and as an EasyFlash cartridge. It is controlled by joystick in port 2.\n\nCode: Chris Butler (original), Erhan, Geert Verschueren, Tomaz Kac · Graphics: Chris Butler, Ste Pickford, Carl Mason, Steven Day · Music: Glenn Rune Gallefoss, Thomas Egeskov Petersen"
+  },
+  "images": {
+    "ss": "images/76/76cf20a740fc36008713dfd937dd01c7a55412fe.png",
+    "sstitle": "images/78/7853a43591a100fe11af08b33c8ae3482d2535d9.png"
+  }
+}

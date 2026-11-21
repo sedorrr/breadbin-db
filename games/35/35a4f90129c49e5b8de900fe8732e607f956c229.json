@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "35a4f90129c49e5b8de900fe8732e607f956c229",
+  "md5": "505f8ab9a3e71fd95ee5eb5d4694cb88",
+  "crc32": "a6da2734",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FISTPLUS.D64"
+  ],
+  "screenscraper_id": "112103",
+  "title": "Fist+",
+  "year": "1988",
+  "publisher": "Firebird",
+  "developer": "Beam Software",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Fist+ (auch Exploding Fist+) ist der dritte Teil der Kampfsportreihe von Beam Software nach The Way of the Exploding Fist und Fist II. Statt zwei stehen nun drei Kämpfer gleichzeitig auf der Matte, was an International Karate+ erinnert. Die Kämpfer setzen Tritte, Schläge und Sprünge ein, um Punkte zu sammeln. Das Spiel blieb im Schatten seines großen Vorbilds und erhielt eher gemischte Kritiken.\n\nErschienen auf Kassette und Diskette bei Firebird, später als OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick; zwei Spieler können gleichzeitig antreten, der dritte Kämpfer wird vom Computer gesteuert.\n\nMusik: Neil Brennan",
+  "texts": {
+    "de": "Fist+ (auch Exploding Fist+) ist der dritte Teil der Kampfsportreihe von Beam Software nach The Way of the Exploding Fist und Fist II. Statt zwei stehen nun drei Kämpfer gleichzeitig auf der Matte, was an International Karate+ erinnert. Die Kämpfer setzen Tritte, Schläge und Sprünge ein, um Punkte zu sammeln. Das Spiel blieb im Schatten seines großen Vorbilds und erhielt eher gemischte Kritiken.\n\nErschienen auf Kassette und Diskette bei Firebird, später als OneLoad64-Modulumsetzung. Gesteuert wird mit dem Joystick; zwei Spieler können gleichzeitig antreten, der dritte Kämpfer wird vom Computer gesteuert.\n\nMusik: Neil Brennan",
+    "en": "Fist+ (also Exploding Fist+) is the third game in Beam Software's martial arts series after The Way of the Exploding Fist and Fist II. Instead of two, three fighters now share the mat at once, reminiscent of International Karate+. The fighters use kicks, punches and jumps to score points. The game stayed in the shadow of its famous role model and received rather mixed reviews.\n\nReleased on tape and disk by Firebird, later as a OneLoad64 cartridge conversion. It is played with the joystick; two players can fight at the same time, with the third fighter controlled by the computer.\n\nMusic: Neil Brennan"
+  },
+  "images": {
+    "ss": "images/ba/babcc5c9ebcb21a661d5686735d1ffa874b93884.png",
+    "sstitle": "images/05/059cb21cab5a9caa405d0c95971b12b6073ebd97.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a79079e751ae82a2aaec55407352fc2b12a64049",
+  "md5": "a504d38ca8f66d33530216acc53ef056",
+  "crc32": "d6ca93f6",
+  "size": 19749,
+  "format": "PRG",
+  "files": [
+    "icyescort.prg"
+  ],
+  "title": "Icy Escort",
+  "year": "2026",
+  "publisher": "Donut 80",
+  "developer": "Ola Zandelin (Donut 80)",
+  "genres": [
+    "Plattform",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Plattform-Puzzle mit Ein-Knopf-Steuerung: Eine Pinguinmutter muss vor Mitternacht ihre verirrten Küken einsammeln, die ihr danach in einer Reihe folgen. Sie läuft von selbst; man bestimmt nur die Sprünge (länger drücken = höher), die Richtung wechselt an Pfeilschildern, Kisten und am Bildrand. Gegner lassen sich zertreten, Eiscreme bringt Punkte und setzt einen Bonus-Zeitgeber zurück.\n\nPRG, kostenlos, veröffentlicht am 16./17.11.2026. Umsetzung eines Mobilspiels mit Donut 80s eigener Spiel-Engine; laut CSDb ohne KI-Inhalte.",
+  "texts": {
+    "de": "Plattform-Puzzle mit Ein-Knopf-Steuerung: Eine Pinguinmutter muss vor Mitternacht ihre verirrten Küken einsammeln, die ihr danach in einer Reihe folgen. Sie läuft von selbst; man bestimmt nur die Sprünge (länger drücken = höher), die Richtung wechselt an Pfeilschildern, Kisten und am Bildrand. Gegner lassen sich zertreten, Eiscreme bringt Punkte und setzt einen Bonus-Zeitgeber zurück.\n\nPRG, kostenlos, veröffentlicht am 16./17.11.2026. Umsetzung eines Mobilspiels mit Donut 80s eigener Spiel-Engine; laut CSDb ohne KI-Inhalte.",
+    "en": "One-button puzzle platformer: a mother penguin has to gather her lost chicks before midnight, and they follow her in a line once rescued. She walks on her own; you only control the jumps (hold longer = higher), and her direction changes at arrow signs, crates and the screen edges. Enemies can be stomped, and ice cream gives points and resets a bonus timer.\n\nPRG, free, released on 16/17 November 2026. A conversion of a mobile game using Donut 80's own game engine; according to CSDb it contains no AI-generated content."
+  },
+  "images": {
+    "ss": "images/a6/a65447172bcd694e82b4dc7878ad40a2282b1dbb.png",
+    "sstitle": "images/ed/eda623cda67348eaf7902314bb148257b26693f0.png"
+  }
+}

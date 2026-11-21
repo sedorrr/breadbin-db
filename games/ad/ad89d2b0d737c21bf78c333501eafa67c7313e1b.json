@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "ad89d2b0d737c21bf78c333501eafa67c7313e1b",
+  "md5": "5e84b613d2ecdacdfc8ecefd7e51cd20",
+  "crc32": "c39193ff",
+  "size": 73936,
+  "format": "CRT",
+  "files": [
+    "Soulless [EasyFlash].crt"
+  ],
+  "screenscraper_id": "113394",
+  "title": "Soulless",
+  "year": "2012",
+  "publisher": "Psytronik Software",
+  "developer": "Georg Rottensteiner",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Arcade-Abenteuer mit Plattformeinlagen: Ein kriegsmüder König will Frieden schließen, doch seine Generäle lassen ihn von einem bösen Zauberer verfluchen. Sein Körper wird zu einer Bestie, seine Seele wird ihm genommen, und er liegt tausend Jahre in einer Gruft, bis ein Erdbeben ihn befreit. Nun durchstreift er eine große, aus vielen Bildschirmen bestehende Welt, sucht Gegenstände und weicht Monstern aus, um seine Seele zurückzugewinnen. Das Spiel fiel durch seine detaillierte Grafik auf und wurde als einer der besten neuen C64-Plattformer seit Knight 'n' Grail gelobt.\n\nPsytronik veröffentlichte Soulless auf Kassette, Diskette und als Download, RGCD brachte eine Modulfassung heraus; dazu gibt es EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick in Port 2. Später erschien die Fortsetzung Soulless 2.\n\nCode: Georg Rottensteiner · Grafik: Trevor Storey · Musik: Mikkel Hastrup",
+  "texts": {
+    "de": "Arcade-Abenteuer mit Plattformeinlagen: Ein kriegsmüder König will Frieden schließen, doch seine Generäle lassen ihn von einem bösen Zauberer verfluchen. Sein Körper wird zu einer Bestie, seine Seele wird ihm genommen, und er liegt tausend Jahre in einer Gruft, bis ein Erdbeben ihn befreit. Nun durchstreift er eine große, aus vielen Bildschirmen bestehende Welt, sucht Gegenstände und weicht Monstern aus, um seine Seele zurückzugewinnen. Das Spiel fiel durch seine detaillierte Grafik auf und wurde als einer der besten neuen C64-Plattformer seit Knight 'n' Grail gelobt.\n\nPsytronik veröffentlichte Soulless auf Kassette, Diskette und als Download, RGCD brachte eine Modulfassung heraus; dazu gibt es EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick in Port 2. Später erschien die Fortsetzung Soulless 2.\n\nCode: Georg Rottensteiner · Grafik: Trevor Storey · Musik: Mikkel Hastrup",
+    "en": "An arcade adventure with platform elements: a war-weary king wants to make peace, but his generals have an evil wizard curse him. His body turns into a beast, his soul is taken, and he lies in a tomb for a thousand years until an earthquake frees him. He now roams a large flip-screen world, searching for objects and avoiding monsters to win back his soul. The game stood out for its detailed graphics and was praised as one of the best new C64 platformers since Knight 'n' Grail.\n\nPsytronik released Soulless on tape, disk and as a download, RGCD published a cartridge version, and EasyFlash conversions exist as well. It is played with a joystick in port 2. A sequel, Soulless 2, followed later.\n\nCode: Georg Rottensteiner · Graphics: Trevor Storey · Music: Mikkel Hastrup"
+  },
+  "images": {
+    "ss": "images/04/0423cf75b2c96419587b3f2a4e29b62eb8498422.png",
+    "sstitle": "images/a5/a5c692b466f2d8b32508d2abaa58c55cc13ad9fb.png"
+  }
+}

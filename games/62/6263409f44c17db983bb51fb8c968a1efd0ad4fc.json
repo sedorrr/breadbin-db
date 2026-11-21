@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "6263409f44c17db983bb51fb8c968a1efd0ad4fc",
+  "md5": "cd0b101fde97f0a39f824b34a31234d5",
+  "crc32": "abfa5306",
+  "size": 1050688,
+  "format": "CRT",
+  "files": [
+    "Carmen_2026_V2_EasyFlash.crt"
+  ],
+  "title": "Where in the World is Carmen Sandiego – 2026 Version",
+  "year": "2026",
+  "publisher": "Binary Legends",
+  "developer": "doctorfargo (Ricky Derocher)",
+  "genres": [
+    "Lernspiel",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Stark überarbeitete Fassung des Detektiv- und Geografiespiels von Brøderbund aus den 1980er-Jahren: Auf der Jagd nach Carmen Sandiegos Bande reist man um die Welt und sammelt Hinweise. Länder, Währungen, Städtenamen und Einwohnerzahlen wurden auf den Stand von 2026 gebracht, etwa Russland statt UdSSR, Beijing statt Peking und der Euro für mehrere Länder. Die Almanach-Abfrage des früheren Kopierschutzes nimmt jede Eingabe an.\n\nEasyFlash-Modul (CRT), Version 2.0 vom 11. November 2026: Die Bilder aller 30 Länder wurden aus der Amiga-Fassung umgewandelt und nachbearbeitet. Schon Version 1.1 ergänzte im Vorspann Jetflug und Detektivszene aus der Apple-II-Fassung. Laut Entwickler mit KI-Unterstützung entstanden.",
+  "texts": {
+    "de": "Stark überarbeitete Fassung des Detektiv- und Geografiespiels von Brøderbund aus den 1980er-Jahren: Auf der Jagd nach Carmen Sandiegos Bande reist man um die Welt und sammelt Hinweise. Länder, Währungen, Städtenamen und Einwohnerzahlen wurden auf den Stand von 2026 gebracht, etwa Russland statt UdSSR, Beijing statt Peking und der Euro für mehrere Länder. Die Almanach-Abfrage des früheren Kopierschutzes nimmt jede Eingabe an.\n\nEasyFlash-Modul (CRT), Version 2.0 vom 11. November 2026: Die Bilder aller 30 Länder wurden aus der Amiga-Fassung umgewandelt und nachbearbeitet. Schon Version 1.1 ergänzte im Vorspann Jetflug und Detektivszene aus der Apple-II-Fassung. Laut Entwickler mit KI-Unterstützung entstanden.",
+    "en": "A heavily revised version of Brøderbund's 1980s detective and geography game: chasing Carmen Sandiego's gang, the player travels around the world collecting clues. Countries, currencies, city names and population figures have been updated to 2026, for example Russia instead of the USSR, Beijing instead of Peking and the euro for several countries. The almanac check of the former copy protection accepts any input.\n\nEasyFlash cartridge (CRT), version 2.0 from 11 November 2026: the pictures of all 30 countries were converted from the Amiga version and retouched. Version 1.1 had already added the jet flight and detective scene from the Apple II version to the intro. According to the developer, made with AI assistance."
+  },
+  "images": {
+    "ss": "images/eb/ebee504fabffdaa50d9bf096ecee0eb95c02d1fb.png",
+    "sstitle": "images/41/4101444a9de6943a41854515e97bc3361f01c098.png"
+  }
+}

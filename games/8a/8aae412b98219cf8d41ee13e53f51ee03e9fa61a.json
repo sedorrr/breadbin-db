@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "8aae412b98219cf8d41ee13e53f51ee03e9fa61a",
+  "md5": "3c002545abda8f4eeeaf3e692c7b5d56",
+  "crc32": "8f6bab19",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BATTLEVA.D64"
+  ],
+  "screenscraper_id": "36816",
+  "title": "Battle Valley",
+  "year": "1988",
+  "publisher": "Hewson (Rack-It)",
+  "developer": "Simon Wellard",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Terroristen haben in einem Wüstental zwei Atomraketen erbeutet. Der Spieler wechselt zwischen einem Panzer und einem Hubschrauber, um die feindlichen Stellungen im seitlich scrollenden Gelände nacheinander einzunehmen, bevor ein Countdown abläuft. Beide Fahrzeuge haben eigene Stärken am Boden und in der Luft, und erst ihr geschickter Einsatz führt zum Ziel. Das Spiel erschien zum Budgetpreis und wurde für seine flotte Action und die Musik gelobt.\n\nBattle Valley kam auf Kassette und Diskette heraus und wurde später auch auf einer Coverkassette verbreitet. Gesteuert wird mit dem Joystick in Port 2. Neben den Originalfassungen gibt es Modulumsetzungen (unter anderem aus der OneLoad64-Sammlung).\n\nCode: Simon Wellard · Grafik: Mark Washbrook · Musik: Jeroen Tel",
+  "texts": {
+    "de": "Terroristen haben in einem Wüstental zwei Atomraketen erbeutet. Der Spieler wechselt zwischen einem Panzer und einem Hubschrauber, um die feindlichen Stellungen im seitlich scrollenden Gelände nacheinander einzunehmen, bevor ein Countdown abläuft. Beide Fahrzeuge haben eigene Stärken am Boden und in der Luft, und erst ihr geschickter Einsatz führt zum Ziel. Das Spiel erschien zum Budgetpreis und wurde für seine flotte Action und die Musik gelobt.\n\nBattle Valley kam auf Kassette und Diskette heraus und wurde später auch auf einer Coverkassette verbreitet. Gesteuert wird mit dem Joystick in Port 2. Neben den Originalfassungen gibt es Modulumsetzungen (unter anderem aus der OneLoad64-Sammlung).\n\nCode: Simon Wellard · Grafik: Mark Washbrook · Musik: Jeroen Tel",
+    "en": "Terrorists have seized two nuclear missiles in a desert valley. The player switches between a tank and a helicopter to capture the enemy positions in the side-scrolling landscape one after another before a countdown runs out. Each vehicle has its own strengths on the ground and in the air, and only by using both well can the mission be completed. Released at a budget price, the game was praised for its brisk action and its music.\n\nBattle Valley was released on cassette and disk and was later also distributed on a magazine cover tape. It is controlled with a joystick in port 2. Besides the original releases there are cartridge conversions (including one from the OneLoad64 collection).\n\nCode: Simon Wellard · Graphics: Mark Washbrook · Music: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/f5/f5c7490eebbd19f64861ce727395affc2a4f2766.png"
+  }
+}

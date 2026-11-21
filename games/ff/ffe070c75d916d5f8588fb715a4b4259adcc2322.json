@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "ffe070c75d916d5f8588fb715a4b4259adcc2322",
+  "md5": "f7715214e7f50d390856bad289ddc7ac",
+  "crc32": "6c6b3d68",
+  "size": 45189,
+  "format": "PRG",
+  "files": [
+    "batman_8-hcs-c64.prg"
+  ],
+  "title": "Batman",
+  "year": "2026",
+  "publisher": "Absence / Exceed",
+  "developer": "Chronos, Murphy",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "C64-Umsetzung des isometrischen „Batman“ von Jon Ritman und Bernie Drummond (Ocean, ZX Spectrum 1986), das nie offiziell für den C64 erschienen ist. In 150 Räumen sucht Batman die sieben Teile des Batcraft sowie Ausrüstung wie Stiefel, Düse, Gürtel und Tasche, um Robin zu befreien. Spielablauf und Tempo orientieren sich eng am Spectrum-Original.\n\nPRG, entstanden auf derselben Codebasis wie die zuvor erschienene Plus/4-Fassung. Läuft auf PAL und NTSC; auf dem C128 werden im Rahmen 2 MHz genutzt, damit Raumwechsel schneller gehen. Steuerung mit Joystick in Port 2 oder frei belegbaren Tasten. Am 8. November 2026 veröffentlicht. Laut Entwickler mit KI-Unterstützung entstanden.\n\nCode: Chronos, Murphy · Musik: JCH · Zeichensatz: Nuckhead",
+  "texts": {
+    "de": "C64-Umsetzung des isometrischen „Batman“ von Jon Ritman und Bernie Drummond (Ocean, ZX Spectrum 1986), das nie offiziell für den C64 erschienen ist. In 150 Räumen sucht Batman die sieben Teile des Batcraft sowie Ausrüstung wie Stiefel, Düse, Gürtel und Tasche, um Robin zu befreien. Spielablauf und Tempo orientieren sich eng am Spectrum-Original.\n\nPRG, entstanden auf derselben Codebasis wie die zuvor erschienene Plus/4-Fassung. Läuft auf PAL und NTSC; auf dem C128 werden im Rahmen 2 MHz genutzt, damit Raumwechsel schneller gehen. Steuerung mit Joystick in Port 2 oder frei belegbaren Tasten. Am 8. November 2026 veröffentlicht. Laut Entwickler mit KI-Unterstützung entstanden.\n\nCode: Chronos, Murphy · Musik: JCH · Zeichensatz: Nuckhead",
+    "en": "C64 conversion of the isometric \"Batman\" by Jon Ritman and Bernie Drummond (Ocean, ZX Spectrum 1986), which was never officially released for the C64. Across 150 rooms Batman searches for the seven parts of the Batcraft and equipment such as boots, jet, belt and bag in order to rescue Robin. Gameplay and speed closely follow the Spectrum original.\n\nPRG, built on the same code base as the earlier Plus/4 version. Runs on PAL and NTSC; on the C128 it uses 2 MHz in the border for faster room changes. Controlled with a joystick in port 2 or redefinable keys. Released on 8 November 2026. According to the developer, made with AI assistance.\n\nCode: Chronos, Murphy · Music: JCH · Font: Nuckhead"
+  },
+  "images": {
+    "sstitle": "images/d7/d796349e45e17248fc7a9bad9b19909b9314f9d8.png"
+  }
+}

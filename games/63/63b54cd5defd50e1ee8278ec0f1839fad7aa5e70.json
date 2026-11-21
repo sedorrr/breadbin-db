@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "63b54cd5defd50e1ee8278ec0f1839fad7aa5e70",
+  "md5": "01c9ec2c9d961902cab4b255dc198327",
+  "crc32": "f7ad674f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DKNIGHT4.D64"
+  ],
+  "screenscraper_id": "111502",
+  "title": "Death Knights of Krynn",
+  "year": "1991",
+  "publisher": "SSI",
+  "developer": "Strategic Simulations",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Der zweite Teil der Dragonlance-Reihe von SSI spielt ein Jahr nach Champions of Krynn: Lord Soth erhebt ein Heer von Untoten, macht Sir Karl zum Todesritter und will sich des Körpers von Sturm Feuerklinge bemächtigen. Die Heldengruppe muss den Untoten entgegentreten und schließlich Dargaard Keep stürmen. Figuren aus dem Vorgänger lassen sich übernehmen, ihre magischen Gegenstände jedoch nicht.\n\nDas Spiel nutzt das Gold-Box-System von SSI nach den Regeln von Advanced Dungeons & Dragons: Erkundung in Ich-Perspektive, taktische Rundenkämpfe in schräger Draufsicht. Die C64-Fassung erschien auf mehreren Diskettenseiten und nutzt eine ähnliche Grafik wie die DOS-Fassung. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nCode (C64): Paul Murray, Jim Jennings · Musik: Dave Govett",
+  "texts": {
+    "de": "Der zweite Teil der Dragonlance-Reihe von SSI spielt ein Jahr nach Champions of Krynn: Lord Soth erhebt ein Heer von Untoten, macht Sir Karl zum Todesritter und will sich des Körpers von Sturm Feuerklinge bemächtigen. Die Heldengruppe muss den Untoten entgegentreten und schließlich Dargaard Keep stürmen. Figuren aus dem Vorgänger lassen sich übernehmen, ihre magischen Gegenstände jedoch nicht.\n\nDas Spiel nutzt das Gold-Box-System von SSI nach den Regeln von Advanced Dungeons & Dragons: Erkundung in Ich-Perspektive, taktische Rundenkämpfe in schräger Draufsicht. Die C64-Fassung erschien auf mehreren Diskettenseiten und nutzt eine ähnliche Grafik wie die DOS-Fassung. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nCode (C64): Paul Murray, Jim Jennings · Musik: Dave Govett",
+    "en": "The second game in SSI's Dragonlance series takes place a year after Champions of Krynn: Lord Soth raises an army of undead, turns Sir Karl into a death knight and seeks to possess the body of Sturm Brightblade. The party has to face the undead and finally storm Dargaard Keep. Characters from the predecessor can be imported, but not their magic items.\n\nIt uses SSI's Gold Box engine based on the Advanced Dungeons & Dragons rules: first-person exploration and tactical turn-based combat in an angled overhead view. The C64 version came on several disk sides and uses graphics similar to the DOS version. Besides the disk versions there are EasyFlash conversions from the scene that run the game from a cartridge without disk swapping and with much shorter loading times.\n\nCode (C64): Paul Murray, Jim Jennings · Music: Dave Govett"
+  },
+  "images": {
+    "sstitle": "images/c1/c10d2519f5458f315b61ceb4b3124d3aab81fc7c.png"
+  }
+}

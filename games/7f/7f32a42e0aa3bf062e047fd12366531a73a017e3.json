@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "7f32a42e0aa3bf062e047fd12366531a73a017e3",
+  "md5": "4d2f3fec33c01c8d210104360cdd46fe",
+  "crc32": "7303021d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MIGHTM2E.D64"
+  ],
+  "screenscraper_id": "36038",
+  "title": "Might and Magic II: Gates to Another World",
+  "year": "1988",
+  "publisher": "New World Computing",
+  "developer": "New World Computing / Inside Out Software (C64-Umsetzung)",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Eine Gruppe aus bis zu sechs selbst erschaffenen Helden, ergänzt um bezahlte Mietlinge, soll die Welt CRON vor dem Widersacher Sheltem retten. Erkundet wird in der Ich-Perspektive Feld für Feld durch Städte, Wildnis, Burgen und Verliese; Kämpfe laufen rundenweise über Menüs. Neu gegenüber dem ersten Teil sind unter anderem Zweitfertigkeiten wie Kartograf (schaltet die automatische Karte frei) oder Bergsteigen sowie Reisen durch verschiedene Jahrhunderte. Die große, offene Welt und der hohe Umfang machten das Spiel zu einem der bekannteren Computer-Rollenspiele seiner Zeit.\n\nDie C64-Fassung erschien 1989 auf mehreren Diskettenseiten und verlangt häufige Diskettenwechsel. Die Bedienung erfolgt im Wesentlichen über die Tastatur. Umgesetzt wurde sie von Inside Out Software direkt aus dem 6502-Quelltext der Apple-II-Fassung.\n\nSpieldesign: Jon Van Caneghem · Code (C64): John Romero, David Hammond, Henry Vanderbilt",
+  "texts": {
+    "de": "Eine Gruppe aus bis zu sechs selbst erschaffenen Helden, ergänzt um bezahlte Mietlinge, soll die Welt CRON vor dem Widersacher Sheltem retten. Erkundet wird in der Ich-Perspektive Feld für Feld durch Städte, Wildnis, Burgen und Verliese; Kämpfe laufen rundenweise über Menüs. Neu gegenüber dem ersten Teil sind unter anderem Zweitfertigkeiten wie Kartograf (schaltet die automatische Karte frei) oder Bergsteigen sowie Reisen durch verschiedene Jahrhunderte. Die große, offene Welt und der hohe Umfang machten das Spiel zu einem der bekannteren Computer-Rollenspiele seiner Zeit.\n\nDie C64-Fassung erschien 1989 auf mehreren Diskettenseiten und verlangt häufige Diskettenwechsel. Die Bedienung erfolgt im Wesentlichen über die Tastatur. Umgesetzt wurde sie von Inside Out Software direkt aus dem 6502-Quelltext der Apple-II-Fassung.\n\nSpieldesign: Jon Van Caneghem · Code (C64): John Romero, David Hammond, Henry Vanderbilt",
+    "en": "A party of up to six self-made heroes, joined by paid hirelings, sets out to save the world of CRON from the villain Sheltem. Exploration happens square by square in first-person view through towns, wilderness, castles and dungeons, while combat is turn-based and menu-driven. New compared with the first game are secondary skills such as cartographer (which unlocks the automap) or mountaineering, as well as travel through different centuries. Its large open world and sheer size made it one of the better-known computer role-playing games of its time.\n\nThe C64 version appeared in 1989 on several disk sides and requires frequent disk swapping. It is played mostly with the keyboard. Inside Out Software ported it directly from the 6502 source code of the Apple II version.\n\nGame design: Jon Van Caneghem · Code (C64): John Romero, David Hammond, Henry Vanderbilt"
+  },
+  "images": {
+    "sstitle": "images/58/582cb01858193885d5581c4384135bb077b005fe.png"
+  }
+}

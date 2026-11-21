@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "b2e24cd8bfffe493795b9d3f0537ac578c1f1098",
+  "md5": "dad317f64e6c6da35cec3e039a1658a1",
+  "crc32": "d06e4917",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ELVI2E-3.D64"
+  ],
+  "screenscraper_id": "111856",
+  "title": "Elvira II: The Jaws of Cerberus",
+  "year": "1992",
+  "publisher": "Flair Software",
+  "developer": "Horror Soft",
+  "genres": [
+    "Rollenspiele",
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Elvira wurde in einem Filmstudio entführt, und der Spieler muss sie aus drei verfluchten Filmkulissen befreien, hinter denen der Höllenhund Cerberus steckt. Das Spiel verbindet ein Grafikabenteuer aus der Ich-Sicht mit Rollenspiel-Elementen: Gegenstände sammeln, Zauber mischen und gegen Monster kämpfen. Es ist bekannt für seine schaurigen, detailreichen Bilder und seine teils drastischen Darstellungen. Die C64-Fassung galt bei ihrem Erscheinen als eines der aufwendigsten späten Spiele für den Rechner.\n\nAuf dem C64 erschien das Spiel 1992 bei Flair Software auf mehreren Disketten, nachdem Accolade nur die 16-Bit-Fassungen herausgebracht hatte; daneben gibt es eine EasyFlash-Umsetzung von $olo1870 (MultiLoad64). Bedient wird es mit dem Joystick über eine Symbolleiste. Gegenüber den anderen Fassungen wurden einzelne Bilder entschärft.\n\nCode: Bruce P. le Feaux · Grafik: Mark Sample, Paul Drummond, Maria Drummond, Kevin Preston · Musik: Sean Connolly",
+  "texts": {
+    "de": "Elvira wurde in einem Filmstudio entführt, und der Spieler muss sie aus drei verfluchten Filmkulissen befreien, hinter denen der Höllenhund Cerberus steckt. Das Spiel verbindet ein Grafikabenteuer aus der Ich-Sicht mit Rollenspiel-Elementen: Gegenstände sammeln, Zauber mischen und gegen Monster kämpfen. Es ist bekannt für seine schaurigen, detailreichen Bilder und seine teils drastischen Darstellungen. Die C64-Fassung galt bei ihrem Erscheinen als eines der aufwendigsten späten Spiele für den Rechner.\n\nAuf dem C64 erschien das Spiel 1992 bei Flair Software auf mehreren Disketten, nachdem Accolade nur die 16-Bit-Fassungen herausgebracht hatte; daneben gibt es eine EasyFlash-Umsetzung von $olo1870 (MultiLoad64). Bedient wird es mit dem Joystick über eine Symbolleiste. Gegenüber den anderen Fassungen wurden einzelne Bilder entschärft.\n\nCode: Bruce P. le Feaux · Grafik: Mark Sample, Paul Drummond, Maria Drummond, Kevin Preston · Musik: Sean Connolly",
+    "en": "Elvira has been kidnapped in a film studio, and the player has to rescue her from three cursed film sets controlled by the hellhound Cerberus. The game combines a first-person graphic adventure with role-playing elements: collecting items, mixing spells and fighting monsters. It is known for its eerie, detailed pictures and occasionally graphic scenes. When it came out, the C64 version was seen as one of the most ambitious late releases for the machine.\n\nOn the C64 the game was released in 1992 by Flair Software on several disks, after Accolade had only published the 16-bit versions; there is also an EasyFlash conversion by $olo1870 (MultiLoad64). It is controlled with the joystick via an icon bar. Compared with other versions a few pictures were toned down.\n\nCode: Bruce P. le Feaux · Graphics: Mark Sample, Paul Drummond, Maria Drummond, Kevin Preston · Music: Sean Connolly"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "605397ae462a5205fd93d15f62061e181e4e98df",
+  "md5": "15e94af46fbe3f87ff3a42a264d6b4ab",
+  "crc32": "98cb5420",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "LOB3.D64"
+  ],
+  "screenscraper_id": "114211",
+  "title": "The Legend of Blacksilver",
+  "year": "1988",
+  "publisher": "Epyx",
+  "developer": "Quest Inc. (Charles und John Dougherty)",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "König Durek wurde von Baron Taragas entführt, der hinter dem gefährlichen Stoff Blacksilver her ist. Der Held zieht durch die Welt, verdient Geld mit Kämpfen, Glücksspiel, Gelegenheitsarbeiten oder auch Diebstahl und verbessert seine Werte und Ausrüstung, statt Erfahrungspunkte zu sammeln. Die Oberwelt wird von oben gezeigt, Verliese in einer einfachen 3D-Ansicht. Das Spiel ist der indirekte Nachfolger von Legacy of the Ancients und nutzt eine verbesserte Fassung von dessen Spielsystem.\n\nDer C64 ist die Originalplattform; eine Apple-II-Fassung folgte. Das Spiel kommt auf mehreren Diskettenseiten und wird mit dem Joystick in Port 2 gesteuert. Es ist weitgehend in BASIC geschrieben, mit Maschinenroutinen für Diskettenzugriffe, Klang und Grafik.\n\nCode: Charles Dougherty, John Dougherty",
+  "texts": {
+    "de": "König Durek wurde von Baron Taragas entführt, der hinter dem gefährlichen Stoff Blacksilver her ist. Der Held zieht durch die Welt, verdient Geld mit Kämpfen, Glücksspiel, Gelegenheitsarbeiten oder auch Diebstahl und verbessert seine Werte und Ausrüstung, statt Erfahrungspunkte zu sammeln. Die Oberwelt wird von oben gezeigt, Verliese in einer einfachen 3D-Ansicht. Das Spiel ist der indirekte Nachfolger von Legacy of the Ancients und nutzt eine verbesserte Fassung von dessen Spielsystem.\n\nDer C64 ist die Originalplattform; eine Apple-II-Fassung folgte. Das Spiel kommt auf mehreren Diskettenseiten und wird mit dem Joystick in Port 2 gesteuert. Es ist weitgehend in BASIC geschrieben, mit Maschinenroutinen für Diskettenzugriffe, Klang und Grafik.\n\nCode: Charles Dougherty, John Dougherty",
+    "en": "King Durek has been kidnapped by Baron Taragas, who is after the dangerous substance Blacksilver. The hero travels the land, earning money through combat, gambling, odd jobs or even theft, and improves stats and equipment instead of collecting experience points. The overworld is shown from above, dungeons in a simple 3D view. The game is an indirect sequel to Legacy of the Ancients and uses an improved version of its game system.\n\nThe C64 is the original platform; an Apple II version followed. The game comes on several disk sides and is controlled with a joystick in port 2. It is largely written in BASIC, with machine-code routines for disk access, sound and graphics.\n\nCode: Charles Dougherty, John Dougherty"
+  },
+  "images": {
+    "sstitle": "images/3a/3a0e942e3f4eb6c009331e5bc257e4185f52295d.png"
+  }
+}

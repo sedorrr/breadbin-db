@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "97d404ae91d43916c81d0be4b74da16158550999",
+  "md5": "8da3317c24530ba9a24c5924beeffc66",
+  "crc32": "514225ae",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "E-Motion.crt"
+  ],
+  "screenscraper_id": "112524",
+  "title": "E-Motion",
+  "year": "1990",
+  "publisher": "U.S. Gold",
+  "developer": "The Assembly Line",
+  "genres": [
+    "Puzzle",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "In E-Motion steuert man ein kleines, träges Raumgefährt über eine Fläche voller farbiger Kugeln. Stößt man gleichfarbige Kugeln zusammen, lösen sie sich auf; prallen verschiedenfarbige aufeinander, entstehen neue Kugeln. Manche Kugeln sind durch elastische Bänder verbunden, was das Spiel zusätzlich erschwert. Ziel ist es, jede Ebene in der vorgegebenen Zeit zu räumen, bevor die Energie verbraucht ist. Die physikalisch geprägte Steuerung machte das Spiel zu einem ungewöhnlichen Geschicklichkeitsrätsel.\n\nDas Spiel stammt ursprünglich von The Assembly Line (Amiga/ST); die 8-Bit-Umsetzungen entstanden bei The Code Monkeys. In Europa erschien es bei U.S. Gold als E-Motion, in Nordamerika bei Accolade als „The Game of Harmony“. Auf dem C64 gab es Kassette und Diskette, später eine OneLoad64-Modulumsetzung; gesteuert wird mit dem Joystick, zwei Spieler können gemeinsam spielen.\n\nCode: Mark Kirkby · Musik: Mark Tait",
+  "texts": {
+    "de": "In E-Motion steuert man ein kleines, träges Raumgefährt über eine Fläche voller farbiger Kugeln. Stößt man gleichfarbige Kugeln zusammen, lösen sie sich auf; prallen verschiedenfarbige aufeinander, entstehen neue Kugeln. Manche Kugeln sind durch elastische Bänder verbunden, was das Spiel zusätzlich erschwert. Ziel ist es, jede Ebene in der vorgegebenen Zeit zu räumen, bevor die Energie verbraucht ist. Die physikalisch geprägte Steuerung machte das Spiel zu einem ungewöhnlichen Geschicklichkeitsrätsel.\n\nDas Spiel stammt ursprünglich von The Assembly Line (Amiga/ST); die 8-Bit-Umsetzungen entstanden bei The Code Monkeys. In Europa erschien es bei U.S. Gold als E-Motion, in Nordamerika bei Accolade als „The Game of Harmony“. Auf dem C64 gab es Kassette und Diskette, später eine OneLoad64-Modulumsetzung; gesteuert wird mit dem Joystick, zwei Spieler können gemeinsam spielen.\n\nCode: Mark Kirkby · Musik: Mark Tait",
+    "en": "In E-Motion the player steers a small, sluggish craft across a field of coloured spheres. Bumping spheres of the same colour together makes them disappear; when different colours collide, new spheres are created. Some spheres are linked by elastic bands, which makes things harder still. The aim is to clear each level within the time limit before energy runs out. Its physics-based handling made the game an unusual blend of puzzle and dexterity.\n\nThe game was originally created by The Assembly Line (Amiga/ST); the 8-bit conversions were done by The Code Monkeys. In Europe it was published by U.S. Gold as E-Motion, in North America by Accolade as \"The Game of Harmony\". On the C64 it came on tape and disk, later as a OneLoad64 cartridge conversion; it is played with the joystick, and two players can play together.\n\nCode: Mark Kirkby · Music: Mark Tait"
+  },
+  "images": {
+    "ss": "images/aa/aa7888b35c928e61d4633651a29dcc994e0784fa.png",
+    "sstitle": "images/11/11936d54d0acae67ca97bfce39b1e502003a3c91.png"
+  }
+}

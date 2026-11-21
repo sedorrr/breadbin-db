@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "9cf83f7402fe01a107b839472a6d42e609b29aff",
+  "md5": "e949d6c0c1bfd92b1fb2df3314128dae",
+  "crc32": "c8c0b04f",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Super Bread Box.crt"
+  ],
+  "screenscraper_id": "151134",
+  "title": "Super Bread Box",
+  "year": "2013",
+  "publisher": "RGCD",
+  "developer": "Paul Koller",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Offizielle C64-Umsetzung von Vlambeers Super Crate Box. Auf einem einzigen Bildschirm strömen Gegner durch eine Öffnung oben herein und verschwinden unten in einer Feuergrube, um danach schneller und wütender zurückzukehren. Punkte gibt es nur für eingesammelte Kisten, und jede Kiste tauscht die Waffe gegen eine zufällige andere aus – von Bazooka und Maschinengewehr bis Mine und Katana. Ein einziger Treffer beendet den Lauf, wodurch das Spiel schnell und fordernd bleibt. Die C64-Fassung ergänzt eigene, an den C64 angelehnte Abschnitte und viele Spielfiguren.\n\nRGCD veröffentlichte das Spiel 2013 als Modul; frei verfügbare EasyFlash-Fassungen folgten. Es gibt sechs Abschnitte plus Übungsrunde, 16 Spielfiguren und eine Online-Bestenliste über Codes. Gesteuert wird mit dem Joystick.\n\nCode: Paul Koller, Mikkel Hastrup · Musik: Mikkel Hastrup",
+  "texts": {
+    "de": "Offizielle C64-Umsetzung von Vlambeers Super Crate Box. Auf einem einzigen Bildschirm strömen Gegner durch eine Öffnung oben herein und verschwinden unten in einer Feuergrube, um danach schneller und wütender zurückzukehren. Punkte gibt es nur für eingesammelte Kisten, und jede Kiste tauscht die Waffe gegen eine zufällige andere aus – von Bazooka und Maschinengewehr bis Mine und Katana. Ein einziger Treffer beendet den Lauf, wodurch das Spiel schnell und fordernd bleibt. Die C64-Fassung ergänzt eigene, an den C64 angelehnte Abschnitte und viele Spielfiguren.\n\nRGCD veröffentlichte das Spiel 2013 als Modul; frei verfügbare EasyFlash-Fassungen folgten. Es gibt sechs Abschnitte plus Übungsrunde, 16 Spielfiguren und eine Online-Bestenliste über Codes. Gesteuert wird mit dem Joystick.\n\nCode: Paul Koller, Mikkel Hastrup · Musik: Mikkel Hastrup",
+    "en": "The official C64 conversion of Vlambeer's Super Crate Box. On a single screen, enemies pour in through an opening at the top and drop into a fire pit at the bottom, only to return faster and angrier. Points are scored solely for collecting crates, and every crate swaps the weapon for a random other one, from bazooka and machine gun to mines and katana. A single hit ends the run, keeping the game fast and demanding. The C64 version adds its own C64-themed stages and many playable characters.\n\nRGCD released the game on cartridge in 2013; freely available EasyFlash versions followed. It has six stages plus a tutorial, 16 characters and an online high score table using codes. It is played with a joystick.\n\nCode: Paul Koller, Mikkel Hastrup · Music: Mikkel Hastrup"
+  },
+  "images": {
+    "ss": "images/6c/6cb0bda06f9ee36d1661aa74aba8f6c292d200e1.png",
+    "sstitle": "images/54/54bc9155ff8bf4f71b6b78f5c958cc2b256cbd54.png"
+  }
+}

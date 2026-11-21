@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "a35e2cec9bb1e6668e0aed3fca788c407a14ba23",
+  "md5": "dfc83c6920b9145561fca0bb33614d47",
+  "crc32": "993713ef",
+  "size": 9352,
+  "format": "PRG",
+  "files": [
+    "FIREBUG.PRG"
+  ],
+  "title": "Firebug",
+  "year": "2026",
+  "publisher": "Tecmo / Plush",
+  "developer": "Tecmo (Umsetzung); Original: Silas Warner",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Apple-II-Spiels von Silas Warner (Muse Software, 1982). Als Feuerkäfer verteilt man in einem fünfstöckigen Gebäude Benzinkanister, legt die Zündschnur und muss rechtzeitig über die Treppe nach unten fliehen. Jedes Feld, das in Flammen aufgeht, bringt Punkte, ein komplett abgebranntes Stockwerk einen Bonus.\n\nPRG (gepackt). Der originale 6502-Code des Apple II läuft unverändert, nur Eingabe, Anzeige und Ton wurden über Anpassungen für den C64 ersetzt; dadurch läuft das Spiel etwas langsamer als das Original. Nach dem Lauftext folgt ein Demo, Feuer startet das Spiel. Steuerung mit Joystick in Port 2 oder Tastatur (WASD/X, Leertaste). Veröffentlicht am 13.11.2026. Laut Entwickler mit KI-Unterstützung entstanden.\n\nOriginal: Silas Warner (Muse Software)",
+  "texts": {
+    "de": "Umsetzung des Apple-II-Spiels von Silas Warner (Muse Software, 1982). Als Feuerkäfer verteilt man in einem fünfstöckigen Gebäude Benzinkanister, legt die Zündschnur und muss rechtzeitig über die Treppe nach unten fliehen. Jedes Feld, das in Flammen aufgeht, bringt Punkte, ein komplett abgebranntes Stockwerk einen Bonus.\n\nPRG (gepackt). Der originale 6502-Code des Apple II läuft unverändert, nur Eingabe, Anzeige und Ton wurden über Anpassungen für den C64 ersetzt; dadurch läuft das Spiel etwas langsamer als das Original. Nach dem Lauftext folgt ein Demo, Feuer startet das Spiel. Steuerung mit Joystick in Port 2 oder Tastatur (WASD/X, Leertaste). Veröffentlicht am 13.11.2026. Laut Entwickler mit KI-Unterstützung entstanden.\n\nOriginal: Silas Warner (Muse Software)",
+    "en": "Conversion of Silas Warner's Apple II game (Muse Software, 1982). Playing a fire bug, you spread gas cans through a five-storey building, light the fuse and have to escape down the stairs in time. Every square that catches fire scores points, and burning down a whole floor gives a bonus.\n\nPRG (crunched). The original Apple II 6502 code runs unchanged; only input, display and sound were replaced with C64 shims, which makes the game run slightly slower than the original. After the scroller a demo plays, fire starts the game. Controls: joystick in port 2 or keyboard (WASD/X, space). Released on 13 November 2026. According to the developer, made with AI assistance.\n\nOriginal: Silas Warner (Muse Software)"
+  },
+  "images": {
+    "ss": "images/b1/b11c0479abfdac0256bfcf03fb2916ae47217b46.png"
+  }
+}

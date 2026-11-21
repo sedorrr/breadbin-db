@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4993b163ce299082ffd81f83ebe44f28ff965c7d",
+  "md5": "123ec2cfaa51e5e79ae2e192531e462b",
+  "crc32": "b585f3a5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "METALGE0.D64"
+  ],
+  "screenscraper_id": "115156",
+  "title": "Metal Gear",
+  "year": "1990",
+  "publisher": "Ultra Games (Konami)",
+  "developer": "Unlimited Software",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Als Agent Solid Snake dringt der Spieler in die Festung Outer Heaven ein, um gefangene Kameraden zu befreien und die atomar bewaffnete Kampfmaschine Metal Gear zu zerstören. Statt offen zu kämpfen, muss er Wachen ausweichen, sich an ihnen vorbeischleichen und Ausrüstung wie Waffen, Schlüsselkarten und Hilfsmittel finden. Funkkontakte geben Hinweise, gerettete Geiseln erhöhen den Rang. Metal Gear gilt als Urahn der Schleichspiele.\n\nDie C64-Fassung wurde für Ultra Games, Konamis US-Ableger, auf Grundlage der NES-Fassung umgesetzt und erschien auf Diskette, vor allem in Nordamerika. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es EasyFlash-Umsetzungen als Modul.\n\nCode: Mike Stewart, Nathan Nifco · Musik: Kris Hatlelid",
+  "texts": {
+    "de": "Als Agent Solid Snake dringt der Spieler in die Festung Outer Heaven ein, um gefangene Kameraden zu befreien und die atomar bewaffnete Kampfmaschine Metal Gear zu zerstören. Statt offen zu kämpfen, muss er Wachen ausweichen, sich an ihnen vorbeischleichen und Ausrüstung wie Waffen, Schlüsselkarten und Hilfsmittel finden. Funkkontakte geben Hinweise, gerettete Geiseln erhöhen den Rang. Metal Gear gilt als Urahn der Schleichspiele.\n\nDie C64-Fassung wurde für Ultra Games, Konamis US-Ableger, auf Grundlage der NES-Fassung umgesetzt und erschien auf Diskette, vor allem in Nordamerika. Gesteuert wird mit dem Joystick in Port 2. Daneben gibt es EasyFlash-Umsetzungen als Modul.\n\nCode: Mike Stewart, Nathan Nifco · Musik: Kris Hatlelid",
+    "en": "As agent Solid Snake, the player infiltrates the fortress of Outer Heaven to free captured comrades and destroy Metal Gear, a nuclear-armed walking tank. Rather than fighting openly, he has to avoid guards, sneak past them and find equipment such as weapons, key cards and tools. Radio contacts provide hints, and rescued hostages raise his rank. Metal Gear is considered the forefather of stealth games.\n\nThe C64 version was converted for Ultra Games, Konami's US label, based on the NES version, and was released on disk, mainly in North America. It is controlled with a joystick in port 2. EasyFlash cartridge conversions also exist.\n\nCode: Mike Stewart, Nathan Nifco · Music: Kris Hatlelid"
+  },
+  "images": {
+    "ss": "images/55/55ad2afced2b9f4c4b4e9edf3738bd1705774f04.png",
+    "sstitle": "images/30/3014ea6e51bc12f536db9192aefe40c04565c81d.png"
+  }
+}

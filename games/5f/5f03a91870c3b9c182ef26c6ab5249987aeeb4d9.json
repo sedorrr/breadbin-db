@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "5f03a91870c3b9c182ef26c6ab5249987aeeb4d9",
+  "md5": "c9b4a99e18d77239022a7ee0cc3d934c",
+  "crc32": "824737d4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ZETAWING.D64"
+  ],
+  "screenscraper_id": "360052",
+  "title": "Zeta Wing",
+  "year": "2020",
+  "publisher": "Witchsoft",
+  "developer": "Sarah Jane Avory",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Senkrecht scrollendes Ballerspiel, angelehnt an den Automaten Gemini Wing. In sieben Abschnitten mit jeweils eigenem Grafikstil kämpft sich das Raumschiff durch Angriffswellen bis zu einem Endgegner. Zerstörte Wellen hinterlassen P-Symbole; zwölf davon heben die Bewaffnung eine von zehn Stufen an, Z- und W-Symbole bringen Zusatzpunkte. Drei Schwierigkeitsgrade stehen zur Wahl. Das Spiel wurde 2020 mit dem RGN Gamers' Choice Award (C64) ausgezeichnet und bekam 2023 eine Fortsetzung.\n\nZeta Wing erschien im September 2020 als Download in mehreren Formen: EasyFlash-Modulabbild (speichert Einstellungen und Bestenliste auf dem Modul), Diskettenabbild und PRG; Fassung 1.2 brachte das Speichern der Einstellungen. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur. Protovision vertreibt eine Kaufausgabe.\n\nCode: Sarah Jane Avory · Grafik: Sarah Jane Avory · Musik: Sarah Jane Avory",
+  "texts": {
+    "de": "Senkrecht scrollendes Ballerspiel, angelehnt an den Automaten Gemini Wing. In sieben Abschnitten mit jeweils eigenem Grafikstil kämpft sich das Raumschiff durch Angriffswellen bis zu einem Endgegner. Zerstörte Wellen hinterlassen P-Symbole; zwölf davon heben die Bewaffnung eine von zehn Stufen an, Z- und W-Symbole bringen Zusatzpunkte. Drei Schwierigkeitsgrade stehen zur Wahl. Das Spiel wurde 2020 mit dem RGN Gamers' Choice Award (C64) ausgezeichnet und bekam 2023 eine Fortsetzung.\n\nZeta Wing erschien im September 2020 als Download in mehreren Formen: EasyFlash-Modulabbild (speichert Einstellungen und Bestenliste auf dem Modul), Diskettenabbild und PRG; Fassung 1.2 brachte das Speichern der Einstellungen. Gesteuert wird mit dem Joystick in Port 2 oder über die Tastatur. Protovision vertreibt eine Kaufausgabe.\n\nCode: Sarah Jane Avory · Grafik: Sarah Jane Avory · Musik: Sarah Jane Avory",
+    "en": "A vertically scrolling shoot'em up inspired by the arcade game Gemini Wing. Across seven stages, each with its own graphical style, the ship battles through attack waves up to a boss. Destroyed waves leave P symbols; twelve of them raise the weapons by one of ten levels, while Z and W symbols give bonus points. Three difficulty levels are available. The game won the RGN Gamers' Choice Award 2020 (C64) and received a sequel in 2023.\n\nZeta Wing was released in September 2020 as a download in several forms: EasyFlash cartridge image (saves settings and high scores to the cartridge), disk image and PRG; version 1.2 added saving of settings. It is controlled with a joystick in port 2 or the keyboard. Protovision sells a physical edition.\n\nCode: Sarah Jane Avory · Graphics: Sarah Jane Avory · Music: Sarah Jane Avory"
+  },
+  "images": {
+    "ss": "images/69/697e76665e0fe3c7fef79366183b397bfd117a4b.png",
+    "sstitle": "images/f7/f7a90ea885109478a5e3d2c8c6e23482c585d947.png"
+  }
+}

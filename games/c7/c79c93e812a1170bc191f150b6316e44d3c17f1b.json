@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c79c93e812a1170bc191f150b6316e44d3c17f1b",
+  "md5": "6347b7c82da252efe755f4316744ad13",
+  "crc32": "88ae4edb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BARBARI1.D64"
+  ],
+  "screenscraper_id": "35983",
+  "title": "Barbarian: The Ultimate Warrior",
+  "year": "1987",
+  "publisher": "Palace Software",
+  "developer": "Palace Software",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Zwei Barbaren treten mit Schwertern gegeneinander an, bis einer am Boden liegt; im Spiel gegen den Computer kämpft man sich durch eine Reihe von Gegnern bis zum Zauberer Drax, um die Prinzessin zu befreien. Das Spiel bietet ein großes Repertoire an Hieben, Tritten, Rollen und Paraden, die per Joystick ausgelöst werden. Berühmt wurde es durch den Enthauptungsschlag, nach dem ein kleiner Gnom den Kopf vom Feld schafft, und durch die umstrittene Verpackung mit Maria Whittaker. Der Zweispielermodus machte es zu einem der beliebtesten Kampfspiele auf dem C64.\n\nDas Spiel erschien auf Kassette und Diskette, später auch in Sammlungen und als Modulumsetzungen für EasyFlash bzw. OneLoad64. Gesteuert wird mit dem Joystick, im Zweispielermodus mit zwei Joysticks. Die Musik und die kräftigen Sprachsamples tragen viel zur Stimmung bei.\n\nCode: Stanley Schembri · Grafik: Gary Carr · Musik: Richard Joseph",
+  "texts": {
+    "de": "Zwei Barbaren treten mit Schwertern gegeneinander an, bis einer am Boden liegt; im Spiel gegen den Computer kämpft man sich durch eine Reihe von Gegnern bis zum Zauberer Drax, um die Prinzessin zu befreien. Das Spiel bietet ein großes Repertoire an Hieben, Tritten, Rollen und Paraden, die per Joystick ausgelöst werden. Berühmt wurde es durch den Enthauptungsschlag, nach dem ein kleiner Gnom den Kopf vom Feld schafft, und durch die umstrittene Verpackung mit Maria Whittaker. Der Zweispielermodus machte es zu einem der beliebtesten Kampfspiele auf dem C64.\n\nDas Spiel erschien auf Kassette und Diskette, später auch in Sammlungen und als Modulumsetzungen für EasyFlash bzw. OneLoad64. Gesteuert wird mit dem Joystick, im Zweispielermodus mit zwei Joysticks. Die Musik und die kräftigen Sprachsamples tragen viel zur Stimmung bei.\n\nCode: Stanley Schembri · Grafik: Gary Carr · Musik: Richard Joseph",
+    "en": "Two barbarians fight with swords until one of them falls; against the computer the player works through a series of opponents up to the sorcerer Drax in order to free the princess. The game offers a wide range of slashes, kicks, rolls and blocks, all triggered with the joystick. It became famous for its decapitation move, after which a small goblin drags the head off the screen, and for the controversial cover featuring Maria Whittaker. Its two-player mode made it one of the most popular fighting games on the C64.\n\nThe game was released on tape and disk and later appeared in compilations and as cartridge conversions for EasyFlash and OneLoad64. It is played with the joystick, two joysticks in two-player mode. The music and the punchy speech samples add a lot to the atmosphere.\n\nCode: Stanley Schembri · Graphics: Gary Carr · Music: Richard Joseph"
+  },
+  "images": {
+    "sstitle": "images/31/31e6f64fe8bd169212279946d520105dffd97b4b.png"
+  }
+}

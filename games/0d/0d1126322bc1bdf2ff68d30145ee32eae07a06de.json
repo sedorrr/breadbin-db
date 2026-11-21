@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "0d1126322bc1bdf2ff68d30145ee32eae07a06de",
+  "md5": "a0d9215e7ad5c5f7592ae4f035d923de",
+  "crc32": "ba083abb",
+  "size": 525376,
+  "format": "CRT",
+  "files": [
+    "Last Ninja Remix.crt"
+  ],
+  "screenscraper_id": "114177",
+  "title": "Last Ninja Remix",
+  "year": "1990",
+  "publisher": "System 3",
+  "developer": "System 3",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Überarbeitete Fassung von „Last Ninja 2: Back with a Vengeance“: Der Ninja Armakuni wird ins New York der Gegenwart versetzt und kämpft sich vom Central Park über Straßen, Kanalisation und Bürogebäude bis zum Showdown mit dem Shogun Kunitoki. Wie in der Vorlage verbindet das Spiel Kämpfe in isometrischer Ansicht mit Rätseln, bei denen Gegenstände gefunden und richtig eingesetzt werden müssen. Die Remix-Fassung bringt ein neues Intro, kleine grafische Änderungen und einen neu abgemischten Soundtrack.\n\nErschienen 1990 auf Diskette und Kassette; daneben gab es eine offizielle Modulfassung. Gesteuert wird mit dem Joystick in Port 2, Waffen und Gegenstände werden über Tasten bzw. das Inventar gewählt. Im Umlauf sind außerdem EasyFlash-Umsetzungen.\n\nCode: John Twiddy, Mev Dinc · Grafik: Hugh Riley · Musik: Matt Gray, neu abgemischt von Reyn Ouwehand",
+  "texts": {
+    "de": "Überarbeitete Fassung von „Last Ninja 2: Back with a Vengeance“: Der Ninja Armakuni wird ins New York der Gegenwart versetzt und kämpft sich vom Central Park über Straßen, Kanalisation und Bürogebäude bis zum Showdown mit dem Shogun Kunitoki. Wie in der Vorlage verbindet das Spiel Kämpfe in isometrischer Ansicht mit Rätseln, bei denen Gegenstände gefunden und richtig eingesetzt werden müssen. Die Remix-Fassung bringt ein neues Intro, kleine grafische Änderungen und einen neu abgemischten Soundtrack.\n\nErschienen 1990 auf Diskette und Kassette; daneben gab es eine offizielle Modulfassung. Gesteuert wird mit dem Joystick in Port 2, Waffen und Gegenstände werden über Tasten bzw. das Inventar gewählt. Im Umlauf sind außerdem EasyFlash-Umsetzungen.\n\nCode: John Twiddy, Mev Dinc · Grafik: Hugh Riley · Musik: Matt Gray, neu abgemischt von Reyn Ouwehand",
+    "en": "A reworked version of \"Last Ninja 2: Back with a Vengeance\": the ninja Armakuni is transported to present-day New York and fights his way from Central Park through the streets, sewers and office buildings to the showdown with the shogun Kunitoki. As in the original, the game combines fights in an isometric view with puzzles in which items must be found and used correctly. The Remix version adds a new intro, minor graphical changes and a remixed soundtrack.\n\nReleased in 1990 on disk and cassette; there was also an official cartridge version. It is controlled with a joystick in port 2, with weapons and items selected via keys or the inventory. EasyFlash conversions are also in circulation.\n\nCode: John Twiddy, Mev Dinc · Graphics: Hugh Riley · Music: Matt Gray, remixed by Reyn Ouwehand"
+  },
+  "images": {
+    "ss": "images/47/47c30155b25f9b9fe2756b724a59c1e564a7077e.png",
+    "sstitle": "images/7d/7d1f0912ca0d6b51306a0b50f8a053fd01c7a053.png"
+  }
+}

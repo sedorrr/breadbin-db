@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1d2cc50b6e9b463421bad8a38dde4efa22402f26",
+  "md5": "a9550b91480d881c97b6f96ccde0bb9c",
+  "crc32": "6f2138bb",
+  "size": 8272,
+  "format": "CRT",
+  "files": [
+    "Attack of the Mutant Camels.crt"
+  ],
+  "screenscraper_id": "112701",
+  "title": "Attack of the Mutant Camels (HES)",
+  "year": "1983",
+  "publisher": "HES",
+  "developer": "Jeff Minter",
+  "genres": [
+    "Shoot'em Up",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Unter diesem Namen veröffentlichte HES in den USA nicht das gleichnamige Kamel-Spiel von Llamasoft, sondern Jeff Minters „Matrix: Gridrunner 2“. Wie im Vorgänger steuert man ein Schiff im unteren Teil eines Gitternetzes und zerschießt Ketten aus Gliedern, die sich von oben herabwinden. Neu sind unter anderem wechselnde Angriffsmuster, zusätzliche Gegnertypen und die Strahlenkanonen an den Rändern, die das Spielfeld immer enger machen. Das Spiel zeigt Minters Vorliebe für hohes Tempo und schräge Ideen.\n\nIn den USA von HES als Steckmodul und auf Kassette erschienen, in Großbritannien von Llamasoft als „Matrix“. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Jeff Minter · Grafik: Jeff Minter · Musik: Jeff Minter",
+  "texts": {
+    "de": "Unter diesem Namen veröffentlichte HES in den USA nicht das gleichnamige Kamel-Spiel von Llamasoft, sondern Jeff Minters „Matrix: Gridrunner 2“. Wie im Vorgänger steuert man ein Schiff im unteren Teil eines Gitternetzes und zerschießt Ketten aus Gliedern, die sich von oben herabwinden. Neu sind unter anderem wechselnde Angriffsmuster, zusätzliche Gegnertypen und die Strahlenkanonen an den Rändern, die das Spielfeld immer enger machen. Das Spiel zeigt Minters Vorliebe für hohes Tempo und schräge Ideen.\n\nIn den USA von HES als Steckmodul und auf Kassette erschienen, in Großbritannien von Llamasoft als „Matrix“. Gesteuert wird mit dem Joystick in Port 1.\n\nCode: Jeff Minter · Grafik: Jeff Minter · Musik: Jeff Minter",
+    "en": "Under this name HES released in the USA not Llamasoft's camel game of the same title, but Jeff Minter's \"Matrix: Gridrunner 2\". As in its predecessor, the player steers a ship in the lower part of a grid and shoots chains of segments winding down from the top. New elements include changing attack patterns, additional enemy types and the zappers along the edges, which keep narrowing the playfield. The game shows Minter's taste for high speed and quirky ideas.\n\nReleased in the USA by HES on cartridge and tape, in the UK by Llamasoft as \"Matrix\". It is controlled by joystick in port 1.\n\nCode: Jeff Minter · Graphics: Jeff Minter · Music: Jeff Minter"
+  },
+  "images": {
+    "ss": "images/c6/c6817510e744997deca7ca93da062e7aa5c0e949.png"
+  }
+}

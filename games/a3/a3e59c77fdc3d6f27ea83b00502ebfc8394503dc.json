@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a3e59c77fdc3d6f27ea83b00502ebfc8394503dc",
+  "md5": "be1781a167408449fd3182c1fd19d50f",
+  "crc32": "22277be5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tge.d64"
+  ],
+  "title": "The Greatest Escape",
+  "year": "2026",
+  "publisher": "Grue",
+  "developer": "Grue",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Beschleunigte Fassung des isometrischen Fluchtabenteuers „The Great Escape“ (Ocean, 1986): Als Kriegsgefangener gilt es, Ausrüstung zu sammeln und unbemerkt aus dem Lager zu entkommen. Kern der Überarbeitung ist ein schnelleres Scrolling, mit dem die C64-Fassung flüssiger laufen soll als das ZX-Spectrum-Original.\n\nD64 mit einer Programmdatei, am 7. November 2026 veröffentlicht. Laut Entwickler mit KI-Unterstützung entstanden; die KI half beim Umwandeln der Grafik in eine schneller darstellbare Form.\n\nCode: Grue",
+  "texts": {
+    "de": "Beschleunigte Fassung des isometrischen Fluchtabenteuers „The Great Escape“ (Ocean, 1986): Als Kriegsgefangener gilt es, Ausrüstung zu sammeln und unbemerkt aus dem Lager zu entkommen. Kern der Überarbeitung ist ein schnelleres Scrolling, mit dem die C64-Fassung flüssiger laufen soll als das ZX-Spectrum-Original.\n\nD64 mit einer Programmdatei, am 7. November 2026 veröffentlicht. Laut Entwickler mit KI-Unterstützung entstanden; die KI half beim Umwandeln der Grafik in eine schneller darstellbare Form.\n\nCode: Grue",
+    "en": "A sped-up version of the isometric escape adventure \"The Great Escape\" (Ocean, 1986): as a prisoner of war, the player collects equipment and tries to break out of the camp unnoticed. The core of the rework is faster scrolling, intended to make the C64 version run more smoothly than the ZX Spectrum original.\n\nD64 with a single program file, released on 7 November 2026. According to the developer, made with AI assistance; the AI helped convert the graphics into a form that can be drawn faster.\n\nCode: Grue"
+  },
+  "images": {
+    "ss": "images/8d/8da3fa263326be33f8e3947bb7eb3e79f6fe3c5d.png",
+    "sstitle": "images/25/253eb530c1497d5a975e5ff3dfdd230763f190ce.png"
+  }
+}

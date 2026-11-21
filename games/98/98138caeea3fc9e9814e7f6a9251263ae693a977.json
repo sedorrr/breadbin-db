@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "98138caeea3fc9e9814e7f6a9251263ae693a977",
+  "md5": "e8feca60ac83a31476ae02c2d74af301",
+  "crc32": "d9b90c00",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Saboteur II.crt"
+  ],
+  "screenscraper_id": "36139",
+  "title": "Saboteur II: Avenging Angel",
+  "year": "1987",
+  "publisher": "Durell Software",
+  "developer": "Clive Townsend",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Saboteur: Die Ninja-Kämpferin Nina, Schwester des ersten Saboteurs, springt mit dem Hängegleiter über einem feindlichen Stützpunkt ab. In einem weitläufigen Komplex aus Gängen, Schächten und Höhlen muss sie Lochstreifen für einen Raketenstart einsammeln, Wachen und Hunde im Nahkampf ausschalten und schließlich auf einem Motorrad entkommen. Jede Mission läuft gegen die Uhr, spätere Missionen verlangen mehr Teile und kürzere Zeit. Die Mischung aus Erkundung, Kampf und Zeitdruck machte das Spiel zu einem bekannten Durell-Titel.\n\nAuf Kassette und Diskette erschienen, später auch als Heftbeilage; daneben gibt es Modul- und PRG-Umsetzungen. Steuerung per Joystick in Port 2.\n\nCode: Clive Townsend · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Fortsetzung von Saboteur: Die Ninja-Kämpferin Nina, Schwester des ersten Saboteurs, springt mit dem Hängegleiter über einem feindlichen Stützpunkt ab. In einem weitläufigen Komplex aus Gängen, Schächten und Höhlen muss sie Lochstreifen für einen Raketenstart einsammeln, Wachen und Hunde im Nahkampf ausschalten und schließlich auf einem Motorrad entkommen. Jede Mission läuft gegen die Uhr, spätere Missionen verlangen mehr Teile und kürzere Zeit. Die Mischung aus Erkundung, Kampf und Zeitdruck machte das Spiel zu einem bekannten Durell-Titel.\n\nAuf Kassette und Diskette erschienen, später auch als Heftbeilage; daneben gibt es Modul- und PRG-Umsetzungen. Steuerung per Joystick in Port 2.\n\nCode: Clive Townsend · Musik: Rob Hubbard",
+    "en": "The sequel to Saboteur: ninja fighter Nina, sister of the first saboteur, drops onto an enemy base by hang glider. In a sprawling complex of corridors, shafts and caves she has to collect punched tape needed for a missile launch, take out guards and dogs in close combat and finally escape on a motorbike. Every mission runs against the clock, and later missions demand more pieces in less time. The mix of exploration, combat and time pressure made it one of Durell's best-known titles.\n\nReleased on tape and disk, later also as a magazine cover tape; cartridge and PRG conversions also exist. Control via joystick in port 2.\n\nCode: Clive Townsend · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/fb/fba79c7fe1c60cb102214111cf109ee248542bed.png",
+    "sstitle": "images/4d/4ddb91c1a845426b13da3fa8c948d979ce08237c.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "74be9d465135598f7ae0d83e9e566beb0fdceba8",
+  "md5": "10e4b059097f95fd3db1e266f9e34f7a",
+  "crc32": "58c47600",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Mercenary - The Second City.crt"
+  ],
+  "screenscraper_id": "115146",
+  "title": "Mercenary: The Second City",
+  "year": "1986",
+  "publisher": "Novagen Software",
+  "developer": "Paul Woakes",
+  "genres": [
+    "Action / Abenteuer",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Erweiterung zu Mercenary: Nach der Flucht vom Planeten Targ landet der Söldner auf der anderen Seite des Planeten in einer zweiten Stadt. Wie im Hauptspiel erkundet man in Vektorgrafik zu Fuß und mit Fahr- und Flugzeugen eine offene Spielwelt samt unterirdischer Anlagen, löst Aufgaben für die verfeindeten Parteien und sucht einen Weg vom Planeten. Stadtplan, Rätsel und viele Gegenstände sind neu, das unterirdische Labyrinth ist verwinkelter. Die Reihe gilt als früher Vertreter frei begehbarer 3D-Welten.\n\nAls Zusatzprogramm zu Mercenary erschienen, später auch zusammen mit dem Hauptspiel; daneben gibt es Modul- und PRG-Umsetzungen. Am Boden ist die Welt auf dem C64 rot, der Himmel dunkelblau. Steuerung per Joystick, ergänzt durch Tasten.\n\nCode: Paul Woakes",
+  "texts": {
+    "de": "Erweiterung zu Mercenary: Nach der Flucht vom Planeten Targ landet der Söldner auf der anderen Seite des Planeten in einer zweiten Stadt. Wie im Hauptspiel erkundet man in Vektorgrafik zu Fuß und mit Fahr- und Flugzeugen eine offene Spielwelt samt unterirdischer Anlagen, löst Aufgaben für die verfeindeten Parteien und sucht einen Weg vom Planeten. Stadtplan, Rätsel und viele Gegenstände sind neu, das unterirdische Labyrinth ist verwinkelter. Die Reihe gilt als früher Vertreter frei begehbarer 3D-Welten.\n\nAls Zusatzprogramm zu Mercenary erschienen, später auch zusammen mit dem Hauptspiel; daneben gibt es Modul- und PRG-Umsetzungen. Am Boden ist die Welt auf dem C64 rot, der Himmel dunkelblau. Steuerung per Joystick, ergänzt durch Tasten.\n\nCode: Paul Woakes",
+    "en": "An expansion for Mercenary: after escaping from the planet Targ, the mercenary lands in a second city on the other side of the planet. As in the main game, an open vector-graphics world with underground complexes is explored on foot and with vehicles and aircraft, tasks are carried out for the rival factions and a way off the planet has to be found. The city layout, puzzles and many objects are new, and the underground maze is more intricate. The series is regarded as an early example of freely explorable 3D worlds.\n\nReleased as an add-on to Mercenary, later also bundled with the main game; cartridge and PRG conversions also exist. On the C64 the ground is red and the sky dark blue. Control via joystick, supplemented by keys.\n\nCode: Paul Woakes"
+  },
+  "images": {
+    "ss": "images/ac/ac9b2cb1cf400466fcef82cf4045d16607c707da.png",
+    "sstitle": "images/51/51c156e45fa53829320b8b282961d11b90499fac.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "8af4dfbbb0e7169c8494c637b4bc490971fed273",
+  "md5": "d743da88a0713aca2fc536354e7a6437",
+  "crc32": "5e71fc5d",
+  "size": 18552,
+  "format": "PRG",
+  "files": [
+    "C64anabalt (RGCD - 2011).prg"
+  ],
+  "screenscraper_id": "150973",
+  "title": "C64anabalt",
+  "year": "2011",
+  "publisher": "RGCD",
+  "developer": "Paul Koller",
+  "genres": [
+    "Geschicklichkeit",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Offizielle C64-Umsetzung des Indie-Spiels Canabalt von Adam Saltsman (Semi Secret Software). Ein Mann flieht über die Dächer einer zerfallenden Stadt; er läuft automatisch und immer schneller, der einzige Knopf lässt ihn springen. Ziel ist es, möglichst weit zu kommen, ohne in eine Lücke zu stürzen oder an Hindernissen hängen zu bleiben. Die Strecke wird zufällig erzeugt, einstürzende Gebäude und herabfallende Trümmer sorgen für Abwechslung.\n\nEntstanden für den 16-KB-Modulwettbewerb von RGCD 2011 (zweiter Platz) und als Modul, Diskette und Kassette verbreitet. Weil nur eine Melodie auf das 16-KB-Modul passte, gibt es zwei Fassungen mit unterschiedlicher Musik. Gesteuert wird mit dem Joystick oder einer Taste.\n\nCode: Paul Koller · Musik: Mikkel Hastrup (Encore) bzw. Andreas Slotte (Ghormak)",
+  "texts": {
+    "de": "Offizielle C64-Umsetzung des Indie-Spiels Canabalt von Adam Saltsman (Semi Secret Software). Ein Mann flieht über die Dächer einer zerfallenden Stadt; er läuft automatisch und immer schneller, der einzige Knopf lässt ihn springen. Ziel ist es, möglichst weit zu kommen, ohne in eine Lücke zu stürzen oder an Hindernissen hängen zu bleiben. Die Strecke wird zufällig erzeugt, einstürzende Gebäude und herabfallende Trümmer sorgen für Abwechslung.\n\nEntstanden für den 16-KB-Modulwettbewerb von RGCD 2011 (zweiter Platz) und als Modul, Diskette und Kassette verbreitet. Weil nur eine Melodie auf das 16-KB-Modul passte, gibt es zwei Fassungen mit unterschiedlicher Musik. Gesteuert wird mit dem Joystick oder einer Taste.\n\nCode: Paul Koller · Musik: Mikkel Hastrup (Encore) bzw. Andreas Slotte (Ghormak)",
+    "en": "Official C64 conversion of the indie game Canabalt by Adam Saltsman (Semi Secret Software). A man flees across the rooftops of a crumbling city; he runs automatically and ever faster, and the single button makes him jump. The goal is to get as far as possible without falling into a gap or getting caught on obstacles. The course is randomly generated, and collapsing buildings and falling debris add variety.\n\nCreated for RGCD's 2011 16 KB cartridge competition (second place) and distributed on cartridge, disk and tape. Since only one tune fitted on the 16 KB cartridge, there are two versions with different music. It is controlled by joystick or a key.\n\nCode: Paul Koller · Music: Mikkel Hastrup (Encore) or Andreas Slotte (Ghormak)"
+  },
+  "images": {
+    "ss": "images/a6/a63160e0c2d49b208b6ba6640593927e8e3b2947.png",
+    "sstitle": "images/ca/cadc45f2ba88e56b6aeafebcbb80b912f37cf07c.png"
+  }
+}

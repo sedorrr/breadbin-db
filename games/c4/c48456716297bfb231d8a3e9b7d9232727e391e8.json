@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "c48456716297bfb231d8a3e9b7d9232727e391e8",
+  "md5": "bf2a0888184fc40cdee87260818a3290",
+  "crc32": "2bcb73f3",
+  "size": 32858,
+  "format": "PRG",
+  "files": [
+    "Starglider.prg"
+  ],
+  "screenscraper_id": "36731",
+  "title": "Starglider",
+  "year": "1986",
+  "publisher": "Rainbird",
+  "developer": "Argonaut Software (Original); C64-Umsetzung unklar",
+  "genres": [
+    "Shoot'em Up",
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Dreidimensionales Weltraum-Actionspiel: Mit dem Kampfgleiter Airmine verteidigt man den Planeten Novenia gegen die Invasionsflotte der Egrons. Die Gegner – Panzer, Raketen, Läufer und der große Starglider-Vogel – werden in schneller Vektorgrafik dargestellt. Neben dem Kampf muss man auf Energie und Munition achten und dazu Versorgungsstationen anfliegen. Starglider war auf 16-Bit-Rechnern ein Vorzeigespiel für 3D-Grafik und wurde auf mehrere 8-Bit-Rechner umgesetzt.\n\nAuf dem C64 auf Kassette und Diskette erschienen; die Vektorgrafik ist gegenüber den 16-Bit-Fassungen vereinfacht. Daneben gibt es Modul- und PRG-Umsetzungen. Steuerung per Joystick, ergänzt durch Tasten.\n\nDie Angaben zu den Programmierern der C64-Fassung widersprechen sich in den Quellen.",
+  "texts": {
+    "de": "Dreidimensionales Weltraum-Actionspiel: Mit dem Kampfgleiter Airmine verteidigt man den Planeten Novenia gegen die Invasionsflotte der Egrons. Die Gegner – Panzer, Raketen, Läufer und der große Starglider-Vogel – werden in schneller Vektorgrafik dargestellt. Neben dem Kampf muss man auf Energie und Munition achten und dazu Versorgungsstationen anfliegen. Starglider war auf 16-Bit-Rechnern ein Vorzeigespiel für 3D-Grafik und wurde auf mehrere 8-Bit-Rechner umgesetzt.\n\nAuf dem C64 auf Kassette und Diskette erschienen; die Vektorgrafik ist gegenüber den 16-Bit-Fassungen vereinfacht. Daneben gibt es Modul- und PRG-Umsetzungen. Steuerung per Joystick, ergänzt durch Tasten.\n\nDie Angaben zu den Programmierern der C64-Fassung widersprechen sich in den Quellen.",
+    "en": "A three-dimensional space action game: flying the Airmine fighter, the player defends the planet Novenia against the invading Egron fleet. Enemies - tanks, missiles, walkers and the huge Starglider bird - are shown in fast vector graphics. Besides fighting, energy and ammunition have to be watched and topped up at supply stations. Starglider was a showcase for 3D graphics on 16-bit computers and was converted to several 8-bit machines.\n\nOn the C64 it was released on tape and disk; the vector graphics are simplified compared with the 16-bit versions. Cartridge and PRG conversions also exist. Control via joystick, supplemented by keys.\n\nSources disagree about who programmed the C64 version."
+  },
+  "images": {
+    "ss": "images/af/af45d3880f7fbd0e2ff49bb497ab678cd706bc0f.png",
+    "sstitle": "images/f1/f1d7a4fd854a6695791a5e9ab16fca3e25036417.png"
+  }
+}

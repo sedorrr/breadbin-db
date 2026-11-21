@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b54077c14e673408f25a760f41049f27a37b7152",
+  "md5": "3e8e074619c4bd44ee0f5289f49a8ea7",
+  "crc32": "744c99b9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "AUTODUE2.D64"
+  ],
+  "screenscraper_id": "109744",
+  "title": "Autoduel",
+  "year": "1985",
+  "publisher": "Origin Systems",
+  "developer": "Origin Systems (Chuck Bueche, Richard Garriott)",
+  "genres": [
+    "Action",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rollenspiel um bewaffnete Autos nach dem Brettspiel Car Wars von Steve Jackson Games: Im Amerika des Jahres 2030 beherrschen Banden die Fernstraßen. Ohne Auto in New York gestartet, verdient die Spielfigur erst in Arenakämpfen Geld, kauft und rüstet dann eigene Fahrzeuge mit Waffen, Panzerung, Minen oder Ölspuren aus und übernimmt Kurieraufträge zwischen den Städten der Ostküste. Straßenkämpfe laufen in Echtzeit in der Draufsicht, Städte werden als Einzelbilder mit Läden und Ämtern gezeigt.\n\nDie C64-Fassung erschien 1985 auf Diskette; Arena- und Straßenkämpfe werden mit Joystick oder Tastatur gesteuert.\n\nDesign: Chuck Bueche, Richard Garriott",
+  "texts": {
+    "de": "Ein Rollenspiel um bewaffnete Autos nach dem Brettspiel Car Wars von Steve Jackson Games: Im Amerika des Jahres 2030 beherrschen Banden die Fernstraßen. Ohne Auto in New York gestartet, verdient die Spielfigur erst in Arenakämpfen Geld, kauft und rüstet dann eigene Fahrzeuge mit Waffen, Panzerung, Minen oder Ölspuren aus und übernimmt Kurieraufträge zwischen den Städten der Ostküste. Straßenkämpfe laufen in Echtzeit in der Draufsicht, Städte werden als Einzelbilder mit Läden und Ämtern gezeigt.\n\nDie C64-Fassung erschien 1985 auf Diskette; Arena- und Straßenkämpfe werden mit Joystick oder Tastatur gesteuert.\n\nDesign: Chuck Bueche, Richard Garriott",
+    "en": "A role-playing game about armed cars based on Steve Jackson Games' board game Car Wars: in the America of 2030, gangs rule the highways. Starting in New York without a car, the character first earns money in arena events, then buys and equips vehicles with weapons, armour, mines or oil slicks and takes on courier jobs between East Coast cities. Highway combat runs in real time from a top-down view, while towns are shown as single screens with shops and offices.\n\nThe C64 version was released on disk in 1985; arena and road battles are controlled with joystick or keyboard.\n\nDesign: Chuck Bueche, Richard Garriott"
+  },
+  "images": {
+    "sstitle": "images/eb/eb5fdb58bc822916c06194b8c1903c442ddda672.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "28f3dbb0750bf3fc83797dbabe97be00cf389aaa",
+  "md5": "b6cfaa5d17a4492c1bdc3fa503d7aade",
+  "crc32": "86b75133",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ULTIMA6G.D64"
+  ],
+  "screenscraper_id": "36129",
+  "title": "Ultima VI: The False Prophet",
+  "year": "1991",
+  "publisher": "Origin Systems",
+  "developer": "Origin Systems",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Sechster Teil der Ultima-Reihe: Der Avatar wird nach Britannia gerufen, wo Gargoyles die Schreine der Tugenden besetzt haben. Was als Krieg gegen die Eindringlinge beginnt, wandelt sich im Lauf der Handlung – der Avatar erfährt, dass die Gargoyles eigene Werte und gute Gründe haben, und muss einen friedlichen Ausweg finden. Die Welt wird nahtlos aus der Draufsicht erkundet, Gespräche mit Bewohnern liefern die nötigen Hinweise, gekämpft wird mit einer Gruppe von Gefährten.\n\nDie C64-Fassung erschien auf mehreren Disketten und ist gegenüber dem PC-Original von 1990 deutlich gekürzt: Porträts, Pferde und manche Funktionen fehlen, Dialoge und Aufgaben sind vereinfacht. Bedient wird über Tastatur und Joystick.\n\nCode: Axel Brown, Alan W. Gardner, Robert Herrick · Grafik: Jeff Dee, Amanda Dee · Musik: Kenneth W. Arnold",
+  "texts": {
+    "de": "Sechster Teil der Ultima-Reihe: Der Avatar wird nach Britannia gerufen, wo Gargoyles die Schreine der Tugenden besetzt haben. Was als Krieg gegen die Eindringlinge beginnt, wandelt sich im Lauf der Handlung – der Avatar erfährt, dass die Gargoyles eigene Werte und gute Gründe haben, und muss einen friedlichen Ausweg finden. Die Welt wird nahtlos aus der Draufsicht erkundet, Gespräche mit Bewohnern liefern die nötigen Hinweise, gekämpft wird mit einer Gruppe von Gefährten.\n\nDie C64-Fassung erschien auf mehreren Disketten und ist gegenüber dem PC-Original von 1990 deutlich gekürzt: Porträts, Pferde und manche Funktionen fehlen, Dialoge und Aufgaben sind vereinfacht. Bedient wird über Tastatur und Joystick.\n\nCode: Axel Brown, Alan W. Gardner, Robert Herrick · Grafik: Jeff Dee, Amanda Dee · Musik: Kenneth W. Arnold",
+    "en": "The sixth part of the Ultima series: the Avatar is summoned to Britannia, where gargoyles have seized the shrines of virtue. What begins as a war against the invaders changes over the course of the story – the Avatar learns that the gargoyles have their own values and good reasons, and must find a peaceful solution. The world is explored seamlessly from a top-down view, conversations with inhabitants provide the necessary clues, and combat is fought with a party of companions.\n\nThe C64 version was released on several disks and is heavily cut down compared with the 1990 PC original: portraits, horses and some features are missing, and dialogue and quests are simplified. It is operated with keyboard and joystick.\n\nCode: Axel Brown, Alan W. Gardner, Robert Herrick · Graphics: Jeff Dee, Amanda Dee · Music: Kenneth W. Arnold"
+  },
+  "images": {
+    "ss": "images/c8/c82fe029ebefc4ba34b2d967c5ff68df48cdee6e.png"
+  }
+}

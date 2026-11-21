@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "32cecfc6081d75b354594a1f4f6e2fcfc456a17d",
+  "md5": "37df57cfb1592bdc219114e74dcef71b",
+  "crc32": "f749883d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SECRETS0.D64"
+  ],
+  "screenscraper_id": "110745",
+  "title": "Secret of the Silver Blades",
+  "year": "1990",
+  "publisher": "SSI",
+  "developer": "Strategic Simulations",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Der dritte Teil der Forgotten-Realms-Reihe von SSI: Ein Wunschbrunnen ruft die Helden in die Bergbaustadt New Verdigris, wo aus einem Gletscher befreite Ungeheuer die Bewohner bedrohen. Hinter ihnen steht der Lich Eldamar, einst von seinem Bruder und den Silberklingen im Eis eingeschlossen. Figuren aus Pool of Radiance und Curse of the Azure Bonds lassen sich übernehmen und erreichen höhere Stufen. Anders als die Vorgänger kommt das Spiel ohne Oberweltkarte aus und konzentriert sich auf große Verliese.\n\nDas Spiel nutzt das Gold-Box-System von SSI nach den Regeln von Advanced Dungeons & Dragons: Erkundung in Ich-Perspektive, taktische Rundenkämpfe in schräger Draufsicht. Die C64-Fassung erschien auf mehreren Diskettenseiten, bedient wird über Tastatur und Joystick. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nCode (C64): Paul Murray · Musik: John Halbleib",
+  "texts": {
+    "de": "Der dritte Teil der Forgotten-Realms-Reihe von SSI: Ein Wunschbrunnen ruft die Helden in die Bergbaustadt New Verdigris, wo aus einem Gletscher befreite Ungeheuer die Bewohner bedrohen. Hinter ihnen steht der Lich Eldamar, einst von seinem Bruder und den Silberklingen im Eis eingeschlossen. Figuren aus Pool of Radiance und Curse of the Azure Bonds lassen sich übernehmen und erreichen höhere Stufen. Anders als die Vorgänger kommt das Spiel ohne Oberweltkarte aus und konzentriert sich auf große Verliese.\n\nDas Spiel nutzt das Gold-Box-System von SSI nach den Regeln von Advanced Dungeons & Dragons: Erkundung in Ich-Perspektive, taktische Rundenkämpfe in schräger Draufsicht. Die C64-Fassung erschien auf mehreren Diskettenseiten, bedient wird über Tastatur und Joystick. Neben den Diskettenfassungen gibt es EasyFlash-Umsetzungen aus der Szene, die das Spiel ohne Diskettenwechsel und mit deutlich kürzeren Ladezeiten von einem Modul laufen lassen.\n\nCode (C64): Paul Murray · Musik: John Halbleib",
+    "en": "The third game in SSI's Forgotten Realms series: a wishing well summons the heroes to the mining town of New Verdigris, where monsters released from a glacier threaten the inhabitants. Behind them stands the lich Eldamar, once sealed in the ice by his brother and the Silver Blades. Characters from Pool of Radiance and Curse of the Azure Bonds can be imported and reach higher levels. Unlike its predecessors, the game has no overland map and concentrates on large dungeons.\n\nIt uses SSI's Gold Box engine based on the Advanced Dungeons & Dragons rules: first-person exploration and tactical turn-based combat in an angled overhead view. The C64 version came on several disk sides and is operated with keyboard and joystick. Besides the disk versions there are EasyFlash conversions from the scene that run the game from a cartridge without disk swapping and with much shorter loading times.\n\nCode (C64): Paul Murray · Music: John Halbleib"
+  },
+  "images": {
+    "sstitle": "images/9b/9b5eda17b507d8cf05ad08ab018a7a84ec675a32.png"
+  }
+}
