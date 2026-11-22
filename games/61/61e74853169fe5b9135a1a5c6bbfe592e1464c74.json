@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "61e74853169fe5b9135a1a5c6bbfe592e1464c74",
+  "md5": "ea9844a4347e93481ee665d0b3eb110a",
+  "crc32": "6bc7a70a",
+  "size": 31985,
+  "format": "PRG",
+  "files": [
+    "Trap Door, The.prg"
+  ],
+  "screenscraper_id": "36765",
+  "title": "The Trap Door",
+  "year": "1986",
+  "publisher": "Piranha",
+  "developer": "Five Ways Software (Vorlage: Don Priestley)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Das Spiel beruht auf der britischen Knetanimationsserie „The Trap Door“. Der blaue Diener Berk arbeitet als Koch für das „Ding“ im Obergeschoss und muss dessen Aufträge erfüllen, etwa bestimmte Speisen zubereiten. Dazu werden Gegenstände und Kreaturen aus den Kellerräumen kombiniert und per Aufzug nach oben geschickt, bevor die Geduld des Dings aufgebraucht ist. Der sprechende Schädel Boni gibt Hinweise, die Spinne Drutt stört. Es gibt einen Übungsmodus mit vier und einen schwereren Modus mit fünf Aufgaben.\n\nDie Grafik zeigt große, in Pseudo-3D gezeichnete Figuren. Das Original von Don Priestley erschien für den ZX Spectrum, die C64-Umsetzung stammt von Five Ways Software und erschien auf Kassette und Diskette; später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick oder mit frei wählbaren Tasten.\n\nMusik: David Dunn",
+  "texts": {
+    "de": "Das Spiel beruht auf der britischen Knetanimationsserie „The Trap Door“. Der blaue Diener Berk arbeitet als Koch für das „Ding“ im Obergeschoss und muss dessen Aufträge erfüllen, etwa bestimmte Speisen zubereiten. Dazu werden Gegenstände und Kreaturen aus den Kellerräumen kombiniert und per Aufzug nach oben geschickt, bevor die Geduld des Dings aufgebraucht ist. Der sprechende Schädel Boni gibt Hinweise, die Spinne Drutt stört. Es gibt einen Übungsmodus mit vier und einen schwereren Modus mit fünf Aufgaben.\n\nDie Grafik zeigt große, in Pseudo-3D gezeichnete Figuren. Das Original von Don Priestley erschien für den ZX Spectrum, die C64-Umsetzung stammt von Five Ways Software und erschien auf Kassette und Diskette; später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick oder mit frei wählbaren Tasten.\n\nMusik: David Dunn",
+    "en": "The game is based on the British claymation series \"The Trap Door\". The blue servant Berk works as cook for the \"Thing\" upstairs and has to carry out its orders, such as preparing certain dishes. To do so, objects and creatures from the cellar rooms are combined and sent up by lift before the Thing runs out of patience. The talking skull Boni gives hints, while the spider Drutt gets in the way. There is a learner mode with four tasks and a harder mode with five.\n\nThe graphics show large characters drawn in pseudo-3D. Don Priestley's original was released for the ZX Spectrum; the C64 conversion was done by Five Ways Software and released on tape and disk. A OneLoad64 cartridge conversion was made later. Control by joystick or user-defined keys.\n\nMusic: David Dunn"
+  },
+  "images": {
+    "ss": "images/42/42402ae82d7c97dc695fc22353f537b85b9cfb02.png",
+    "sstitle": "images/68/68d4dc67dfb0aca1340b836d408bf4da61fc8794.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "afe24eaa7b860f2cc24cd860e84e5f1bb275f5a2",
+  "md5": "fd68dbe83c659b390ca107d82d010433",
+  "crc32": "2134d953",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ELEVATOR.D64"
+  ],
+  "screenscraper_id": "35985",
+  "title": "Elevator Action",
+  "year": "1987",
+  "publisher": "Quicksilva",
+  "developer": "Quicksilva",
+  "genres": [
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Taito-Automaten von 1983: Ein Geheimagent landet auf dem Dach eines Hochhauses und muss sich Stockwerk für Stockwerk nach unten arbeiten. Hinter roten Türen liegen geheime Unterlagen, die er einsammeln muss, bevor er im Keller mit dem Fluchtwagen entkommen darf. Aufzüge und Rolltreppen verbinden die Etagen, Gegenagenten tauchen aus Türen auf. Ducken, Springen, Schießen und das Ausschalten von Lampen helfen gegen die Verfolger.\n\nIn Europa von Quicksilva (Argus Press Software) auf Kassette und Diskette veröffentlicht. Steuerung per Joystick.\n\nMusik: David Whittaker",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten von 1983: Ein Geheimagent landet auf dem Dach eines Hochhauses und muss sich Stockwerk für Stockwerk nach unten arbeiten. Hinter roten Türen liegen geheime Unterlagen, die er einsammeln muss, bevor er im Keller mit dem Fluchtwagen entkommen darf. Aufzüge und Rolltreppen verbinden die Etagen, Gegenagenten tauchen aus Türen auf. Ducken, Springen, Schießen und das Ausschalten von Lampen helfen gegen die Verfolger.\n\nIn Europa von Quicksilva (Argus Press Software) auf Kassette und Diskette veröffentlicht. Steuerung per Joystick.\n\nMusik: David Whittaker",
+    "en": "A conversion of Taito's 1983 arcade game: a secret agent lands on the roof of a tower block and has to work his way down floor by floor. Secret documents lie behind red doors and must be collected before he may escape in the getaway car in the basement. Lifts and escalators connect the floors, and enemy agents emerge from doors. Ducking, jumping, shooting and shooting out lights help against the pursuers.\n\nPublished in Europe by Quicksilva (Argus Press Software) on cassette and disk. Joystick controlled.\n\nMusic: David Whittaker"
+  },
+  "images": {
+    "ss": "images/9f/9f8114af5c9c214f3ed0ff2bbf0157b6be9e7f18.png",
+    "sstitle": "images/64/6429a2680ad9b5f1722b5d48504e377e63e191db.png"
+  }
+}

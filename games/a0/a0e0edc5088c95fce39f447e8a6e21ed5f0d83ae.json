@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "sha1": "a0e0edc5088c95fce39f447e8a6e21ed5f0d83ae",
+  "md5": "bd61a81ab8795a6765a2923377983d0e",
+  "crc32": "17062de9",
+  "size": 147808,
+  "format": "CRT",
+  "files": [
+    "Dark Fusion.crt",
+    "Dark Fusion [EasyFlash].crt"
+  ],
+  "screenscraper_id": "111463",
+  "title": "Dark Fusion",
+  "year": "1988",
+  "publisher": "Gremlin Graphics",
+  "developer": "Gremlin Graphics",
+  "genres": [
+    "Shoot'em Up / Horizontal",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ein Anwärter auf die Aufnahme in eine Elitetruppe muss sich durch mehrere seitlich scrollende Zonen kämpfen. Abschnitte zu Fuß, in denen auf Plattformen gelaufen und geschossen wird, wechseln mit Flugabschnitten im Raumschiff. Am Ende einer Zone verwandelt sich die Spielfigur über eine Fusionskapsel in ein Wesen, das gegen den Wächter der Zone antritt. Unterwegs lassen sich Waffen und Energie aufsammeln.\n\nErschienen auf Kassette und Diskette (Titelbild nennt 1989), auch für ZX Spectrum, Amstrad CPC und Atari ST. Steuerung per Joystick. Die Disk-Fassung ist auch als EasyFlash-Modulumsetzung verbreitet.\n\nCode: Jobbee (Entwurf), Scott Guest (C64-Umsetzung) · Grafik: Bemi · Musik: Jobbee, Ben Daglish",
+  "texts": {
+    "de": "Ein Anwärter auf die Aufnahme in eine Elitetruppe muss sich durch mehrere seitlich scrollende Zonen kämpfen. Abschnitte zu Fuß, in denen auf Plattformen gelaufen und geschossen wird, wechseln mit Flugabschnitten im Raumschiff. Am Ende einer Zone verwandelt sich die Spielfigur über eine Fusionskapsel in ein Wesen, das gegen den Wächter der Zone antritt. Unterwegs lassen sich Waffen und Energie aufsammeln.\n\nErschienen auf Kassette und Diskette (Titelbild nennt 1989), auch für ZX Spectrum, Amstrad CPC und Atari ST. Steuerung per Joystick. Die Disk-Fassung ist auch als EasyFlash-Modulumsetzung verbreitet.\n\nCode: Jobbee (Entwurf), Scott Guest (C64-Umsetzung) · Grafik: Bemi · Musik: Jobbee, Ben Daglish",
+    "en": "A candidate for an elite corps has to fight through several side-scrolling zones. Sections on foot, running and shooting across platforms, alternate with flight sections in a spacecraft. At the end of a zone the hero uses a fusion pod to turn into a creature that faces the zone's guardian. Weapons and energy can be picked up along the way.\n\nReleased on cassette and disk (the title screen says 1989), also for ZX Spectrum, Amstrad CPC and Atari ST. Joystick controlled. The disk version also circulates as an EasyFlash cartridge conversion.\n\nCode: Jobbee (design), Scott Guest (C64 conversion) · Graphics: Bemi · Music: Jobbee, Ben Daglish"
+  },
+  "images": {
+    "ss": "images/48/48548c5c73b522075400544b5bcf3fd5894fff21.png",
+    "sstitle": "images/f3/f3e8d1cfd63739af1f9a5b161c19a31ab7c0baa7.png"
+  }
+}

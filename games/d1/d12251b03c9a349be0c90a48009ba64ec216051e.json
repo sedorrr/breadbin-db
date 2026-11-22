@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d12251b03c9a349be0c90a48009ba64ec216051e",
+  "md5": "719ead286a2e8377f1600a05281dfae9",
+  "crc32": "6b9033e5",
+  "size": 213472,
+  "format": "CRT",
+  "files": [
+    "Tai-Pan.crt"
+  ],
+  "screenscraper_id": "36737",
+  "title": "Tai-Pan",
+  "year": "1987",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Strategie",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Tai-Pan beruht auf dem Roman von James Clavell und spielt im Fernen Osten des 19. Jahrhunderts. Als Kaufmann soll man ein Handelsimperium aufbauen: Ein Schiff wird gekauft und bemannt, Waren werden zwischen den Häfen gehandelt, Kredite beim Geldverleiher aufgenommen und zurückgezahlt. Unterwegs drohen Stürme und Piratenangriffe, die in eigenen Actionabschnitten ausgetragen werden. Teile des Spiels laufen als Erkundung zu Fuß durch die Hafenstadt ab.\n\nTai-Pan erschien auf Kassette und Diskette (zwei Diskettenseiten). Es gibt EasyFlash-Umsetzungen, darunter eine aus dem Disk2EasyFlash-Verfahren. Gesteuert wird mit dem Joystick in Port 2; der Spielstand lässt sich speichern.\n\nMusik: Peter Clarke",
+  "texts": {
+    "de": "Tai-Pan beruht auf dem Roman von James Clavell und spielt im Fernen Osten des 19. Jahrhunderts. Als Kaufmann soll man ein Handelsimperium aufbauen: Ein Schiff wird gekauft und bemannt, Waren werden zwischen den Häfen gehandelt, Kredite beim Geldverleiher aufgenommen und zurückgezahlt. Unterwegs drohen Stürme und Piratenangriffe, die in eigenen Actionabschnitten ausgetragen werden. Teile des Spiels laufen als Erkundung zu Fuß durch die Hafenstadt ab.\n\nTai-Pan erschien auf Kassette und Diskette (zwei Diskettenseiten). Es gibt EasyFlash-Umsetzungen, darunter eine aus dem Disk2EasyFlash-Verfahren. Gesteuert wird mit dem Joystick in Port 2; der Spielstand lässt sich speichern.\n\nMusik: Peter Clarke",
+    "en": "Tai-Pan is based on James Clavell's novel and is set in the Far East of the 19th century. As a merchant, the player tries to build a trading empire: a ship is bought and crewed, goods are traded between ports, and loans are taken from and repaid to a moneylender. At sea, storms and pirate attacks are a threat and are played out in separate action sequences. Parts of the game involve walking around the harbour town.\n\nTai-Pan was released on cassette and disk (two disk sides). There are EasyFlash conversions, including one made with the Disk2EasyFlash method. It is controlled with a joystick in port 2, and the game can be saved.\n\nMusic: Peter Clarke"
+  },
+  "images": {
+    "ss": "images/9e/9ee2da3eba75649a532121673c62de9c4ad5cbfa.png",
+    "sstitle": "images/fd/fd6573765e3593eee49bc98cb2282a332c72e28b.png"
+  }
+}

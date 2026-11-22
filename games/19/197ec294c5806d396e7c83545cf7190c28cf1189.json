@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "197ec294c5806d396e7c83545cf7190c28cf1189",
+  "md5": "4f1f28fb5411e449fba448297cc9fcfd",
+  "crc32": "fdf3450a",
+  "size": 973962,
+  "format": "TAP",
+  "files": [
+    "Beach Volley.tap"
+  ],
+  "screenscraper_id": "109908",
+  "title": "Beach Volley",
+  "year": "1989",
+  "publisher": "Ocean",
+  "developer": "Ocean France",
+  "genres": [
+    "Sport"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Beachvolleyball-Spiel mit Zweierteams. Ein Satz ist gewonnen, wer innerhalb der Zeitgrenze zuerst sieben Punkte erreicht; läuft die Zeit ab, ist das Spiel verloren. Eine Markierung am Boden zeigt, wo der Ball landen wird. Das Turnier führt durch acht Länder von London bis Paris; allein spielt man mit einem computergesteuerten Mitspieler, zu zweit auch gleichzeitig.\n\nBeach Volley erschien 1989 bei Ocean für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.",
+  "texts": {
+    "de": "Ein Beachvolleyball-Spiel mit Zweierteams. Ein Satz ist gewonnen, wer innerhalb der Zeitgrenze zuerst sieben Punkte erreicht; läuft die Zeit ab, ist das Spiel verloren. Eine Markierung am Boden zeigt, wo der Ball landen wird. Das Turnier führt durch acht Länder von London bis Paris; allein spielt man mit einem computergesteuerten Mitspieler, zu zweit auch gleichzeitig.\n\nBeach Volley erschien 1989 bei Ocean für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.",
+    "en": "A beach volleyball game with two-player teams. A match is won by reaching seven points within the time limit; if time runs out, the game is lost. A marker on the ground shows where the ball will land. The tournament leads through eight countries from London to Paris; solo players are joined by a computer-controlled teammate, and two players can also play simultaneously.\n\nBeach Volley was released by Ocean in 1989 for several home computers; on the C64 it came on cassette and disk. It is controlled with a joystick. Cartridge conversions (OneLoad64) and single-file versions exist."
+  },
+  "images": {
+    "ss": "images/58/58012425ef259e12c806ecd5700badb8fe493772.png",
+    "sstitle": "images/50/50c58cdd1cbc3017fc167f9d77377381ee83d0c5.png"
+  }
+}

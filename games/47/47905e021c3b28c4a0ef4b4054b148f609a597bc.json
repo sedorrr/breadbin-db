@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "47905e021c3b28c4a0ef4b4054b148f609a597bc",
+  "md5": "152003a2b5f9595f93b10d9c0692a418",
+  "crc32": "8f3b8e36",
+  "size": 27454,
+  "format": "PRG",
+  "files": [
+    "Mission AD (J1).prg"
+  ],
+  "screenscraper_id": "115260",
+  "title": "Mission AD",
+  "year": "1986",
+  "publisher": "Odin Computer Graphics",
+  "developer": "Marc Dawson",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Als Agent Rik O'Shey jagt der Spieler Attentäter, die in einen in acht Bereiche gegliederten Komplex eingedrungen sind. Zwischen den Bereichen wechselt man per Teleporter; eine kleine Karte zeigt, wo sich Feinde aufhalten. Aufzüge verbinden die beiden Ebenen jedes Bildschirms. Wachroboter schießen auf alles, eigene Verbündete dürfen nicht getroffen werden, und die Zeit ist begrenzt. Nach einem erfüllten Auftrag folgt eine größere und stärkere Gruppe von Attentätern.\n\nDas Spiel erschien 1986 für den C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 1 oder mit frei belegbaren Tasten. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Marc Dawson",
+  "texts": {
+    "de": "Als Agent Rik O'Shey jagt der Spieler Attentäter, die in einen in acht Bereiche gegliederten Komplex eingedrungen sind. Zwischen den Bereichen wechselt man per Teleporter; eine kleine Karte zeigt, wo sich Feinde aufhalten. Aufzüge verbinden die beiden Ebenen jedes Bildschirms. Wachroboter schießen auf alles, eigene Verbündete dürfen nicht getroffen werden, und die Zeit ist begrenzt. Nach einem erfüllten Auftrag folgt eine größere und stärkere Gruppe von Attentätern.\n\nDas Spiel erschien 1986 für den C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick in Port 1 oder mit frei belegbaren Tasten. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Marc Dawson",
+    "en": "As agent Rik O'Shey, the player hunts down assassins who have infiltrated a complex divided into eight areas. A teleporter moves between the areas, and a small map shows where enemies are located. Lifts connect the two levels of each screen. Guard robots shoot at everything, allies must not be hit, and time is limited. After a completed mission, a larger and stronger group of assassins follows.\n\nThe game was released in 1986 for the C64 on cassette and disk. It is controlled with a joystick in port 1 or with redefinable keys. Cartridge conversions (OneLoad64) and single-file versions exist.\n\nCode: Marc Dawson"
+  },
+  "images": {
+    "ss": "images/7d/7d8a69e0e90756bc0843f549bf092210b6fa54bb.png",
+    "sstitle": "images/49/49dac6f8fad720c3f05b09a3dd50b12c14c16964.png"
+  }
+}

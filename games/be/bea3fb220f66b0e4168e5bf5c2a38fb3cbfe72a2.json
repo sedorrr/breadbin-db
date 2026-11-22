@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "bea3fb220f66b0e4168e5bf5c2a38fb3cbfe72a2",
+  "md5": "7bfc187c3299eb76a4223ab38c60abcd",
+  "crc32": "58b71876",
+  "size": 16464,
+  "format": "CRT",
+  "files": [
+    "Jungle Hunt.crt"
+  ],
+  "screenscraper_id": "113340",
+  "title": "Jungle Hunt",
+  "year": "1983",
+  "publisher": "Atarisoft",
+  "developer": "Atari",
+  "genres": [
+    "Arcade",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Taito-Automaten von 1982: Ein Abenteurer will seine von Kannibalen entführte Begleiterin retten. Der Weg führt durch vier Abschnitte: von Liane zu Liane schwingen, durch einen Fluss voller Krokodile tauchen und dabei auf die Luft achten, einen Hang hinauf rollenden Felsbrocken ausweichen und schließlich an den Kannibalen vorbei zum Kessel springen. Danach beginnt die Runde schwieriger von vorn.\n\nVon Atarisoft als Steckmodul für den C64 veröffentlicht; später auch als Kassetten- bzw. Dateifassung verbreitet. Steuerung per Joystick, Start über die Funktionstasten, ein oder zwei Spieler abwechselnd.\n\nCode: Bill Bogenreif",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten von 1982: Ein Abenteurer will seine von Kannibalen entführte Begleiterin retten. Der Weg führt durch vier Abschnitte: von Liane zu Liane schwingen, durch einen Fluss voller Krokodile tauchen und dabei auf die Luft achten, einen Hang hinauf rollenden Felsbrocken ausweichen und schließlich an den Kannibalen vorbei zum Kessel springen. Danach beginnt die Runde schwieriger von vorn.\n\nVon Atarisoft als Steckmodul für den C64 veröffentlicht; später auch als Kassetten- bzw. Dateifassung verbreitet. Steuerung per Joystick, Start über die Funktionstasten, ein oder zwei Spieler abwechselnd.\n\nCode: Bill Bogenreif",
+    "en": "A conversion of Taito's 1982 arcade game: an explorer sets out to rescue his companion, kidnapped by cannibals. The route covers four sections: swinging from vine to vine, diving through a crocodile-infested river while watching the air supply, dodging boulders rolling down a slope, and finally jumping past the cannibals to the cooking pot. The round then starts again at a higher difficulty.\n\nPublished by Atarisoft as a C64 cartridge; later also circulated as a tape image or file version. Joystick controlled, started with the function keys, one or two players taking turns.\n\nCode: Bill Bogenreif"
+  },
+  "images": {
+    "ss": "images/ae/aed14f2a1595fe7b65a6213fe9ed8a74b00c94b8.png",
+    "sstitle": "images/ad/adbbbdaad57276c86476a536f51646f50aed7cf9.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "bdf8e9f2c934b4325e17ea9096e8cbf18eb0b73f",
+  "md5": "40cfdea02237859226237422bcff513b",
+  "crc32": "4da76bb0",
+  "size": 574233,
+  "format": "TAP",
+  "files": [
+    "Pitstop.tap"
+  ],
+  "screenscraper_id": "36169",
+  "title": "Pitstop",
+  "year": "1983",
+  "publisher": "Epyx",
+  "developer": "Jamie Fenton, Randy Glover",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-4",
+  "synopsis": "Ein Formel-Autorennen aus der Verfolgerperspektive mit sechs Strecken. Zusammenstöße mit Wagen oder Streckenrand nutzen die Reifen ab, und der Tank leert sich; dann muss der Wagen an die Box. Dort steuert der Spieler selbst die Boxencrew, die Reifen wechselt und nachtankt. Es gibt drei Schwierigkeitsstufen und drei Spielarten: ein Einzelrennen, einen kleinen Meisterschaftslauf über drei und einen großen über alle sechs Strecken. Bis zu vier Spieler fahren abwechselnd.\n\nPitstop erschien 1983 für C64, Atari 8-Bit und ColecoVision; die C64-Fassung kam als Modul heraus, in Großbritannien auch auf Kassette. Gesteuert wird mit dem Joystick. Neben dem Originalmodul gibt es Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen. Die Fortsetzung Pitstop II folgte 1984.\n\nCode: Jamie Fenton, Randy Glover",
+  "texts": {
+    "de": "Ein Formel-Autorennen aus der Verfolgerperspektive mit sechs Strecken. Zusammenstöße mit Wagen oder Streckenrand nutzen die Reifen ab, und der Tank leert sich; dann muss der Wagen an die Box. Dort steuert der Spieler selbst die Boxencrew, die Reifen wechselt und nachtankt. Es gibt drei Schwierigkeitsstufen und drei Spielarten: ein Einzelrennen, einen kleinen Meisterschaftslauf über drei und einen großen über alle sechs Strecken. Bis zu vier Spieler fahren abwechselnd.\n\nPitstop erschien 1983 für C64, Atari 8-Bit und ColecoVision; die C64-Fassung kam als Modul heraus, in Großbritannien auch auf Kassette. Gesteuert wird mit dem Joystick. Neben dem Originalmodul gibt es Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen. Die Fortsetzung Pitstop II folgte 1984.\n\nCode: Jamie Fenton, Randy Glover",
+    "en": "A formula racing game seen from behind the car, with six tracks. Collisions with other cars or the track edge wear down the tyres, and the fuel tank empties; then the car has to come into the pits. There the player controls the pit crew directly, changing tyres and refuelling. There are three difficulty levels and three modes: a single race, a mini circuit of three tracks and a grand circuit of all six. Up to four players take turns.\n\nPitstop was released in 1983 for the C64, Atari 8-bit and ColecoVision; the C64 version came on cartridge, and in the UK also on cassette. It is controlled with a joystick. Besides the original cartridge there are cartridge conversions (OneLoad64) and single-file versions. The sequel Pitstop II followed in 1984.\n\nCode: Jamie Fenton, Randy Glover"
+  },
+  "images": {
+    "sstitle": "images/11/11171f23a9fbacd697dbec88f9f24576661b3707.png"
+  }
+}

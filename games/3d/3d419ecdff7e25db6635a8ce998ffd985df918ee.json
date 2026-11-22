@@ -20,5 +20,9 @@
   "texts": {
     "de": "Fan-Umsetzung von Cyans Point-and-Click-Adventure Myst (1993), erstellt aus den HyperCard-Stacks der Mac-Fassung. Enthalten sind alle sechs Zeitalter mit sämtlichen Rätseln; Musik und Geräusche laufen als Samples über den SID, Filmsequenzen erscheinen als Standbilder mit Text, die Tagebücher sind lesbar. Spielstände lassen sich auf Diskette speichern und laden.\n\nFassung 0.93 vom 19.11.2026, kostenlos. Benötigt eine REU mit 16 MB, in die vorher die beiliegende .reu-Datei geladen sein muss – die PRG-Datei allein startet nicht sinnvoll (VICE: -reu -reusize 16384 -reuimage myst64reu-0.93.reu). PAL; Zeiger per Tastatur (I/J/K/L, Leertaste), 1351-Maus in Port 1 oder Joystick in Port 2; SID-Auswahl seit Fassung 0.91.",
     "en": "Fan conversion of Cyan's point-and-click adventure Myst (1993), built from the HyperCard stacks of the Mac version. All six ages with every puzzle are included; music and sounds play as samples through the SID, movie sequences appear as stills with text, and the journals can be read. Games can be saved to and loaded from disk.\n\nVersion 0.93 of 19 Nov 2026, free. Requires a 16 MB REU into which the supplied .reu file must be loaded first – the PRG file on its own does not start properly (VICE: -reu -reusize 16384 -reuimage myst64reu-0.93.reu). PAL; pointer via keyboard (I/J/K/L, space), 1351 mouse in port 1 or joystick in port 2; SID selection since version 0.91."
+  },
+  "images": {
+    "ss": "images/9a/9a72a523a6c2af8dcc89ce7e3b1691d5dcbe81ee.png",
+    "sstitle": "images/4e/4e51ea571186e9b2b48e707340485d4afd3006e1.png"
   }
 }

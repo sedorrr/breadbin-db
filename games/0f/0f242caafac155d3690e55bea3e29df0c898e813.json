@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "0f242caafac155d3690e55bea3e29df0c898e813",
+  "md5": "b770005dc6f898d7fb9653a967ef42b1",
+  "crc32": "993c3f26",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Wizard's Lair.crt"
+  ],
+  "screenscraper_id": "36266",
+  "title": "Wizard's Lair",
+  "year": "1985",
+  "publisher": "Bubble Bus",
+  "developer": "Bubble Bus",
+  "genres": [
+    "Action / Labyrinth",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Pothole Pete ist in ein unterirdisches Höhlensystem gestürzt und muss aus dem Labyrinth des Zauberers entkommen. Dazu sucht er die vier Teile des Goldenen Löwen, die in zahlreichen Räumen, Höhlen und Gängen verteilt sind. Die Räume werden von oben gezeigt, ständig erscheinen Monster, die abgeschossen werden müssen; Nahrung füllt die Energie auf, Schlüssel öffnen Türen, Aufzüge führen in andere Ebenen. Aufbau und Darstellung erinnern an „Atic Atac“.\n\nErschienen auf Kassette und Diskette, auch für ZX Spectrum, Amstrad CPC und MSX; später unter Blue Ribbon wiederveröffentlicht. Steuerung per Joystick. Ebenfalls als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet.",
+  "texts": {
+    "de": "Pothole Pete ist in ein unterirdisches Höhlensystem gestürzt und muss aus dem Labyrinth des Zauberers entkommen. Dazu sucht er die vier Teile des Goldenen Löwen, die in zahlreichen Räumen, Höhlen und Gängen verteilt sind. Die Räume werden von oben gezeigt, ständig erscheinen Monster, die abgeschossen werden müssen; Nahrung füllt die Energie auf, Schlüssel öffnen Türen, Aufzüge führen in andere Ebenen. Aufbau und Darstellung erinnern an „Atic Atac“.\n\nErschienen auf Kassette und Diskette, auch für ZX Spectrum, Amstrad CPC und MSX; später unter Blue Ribbon wiederveröffentlicht. Steuerung per Joystick. Ebenfalls als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet.",
+    "en": "Pothole Pete has fallen into an underground cave system and must escape the wizard's labyrinth. To do so he searches for the four parts of the Golden Lion, scattered across numerous rooms, caves and passages. The rooms are viewed from above, and monsters constantly appear that have to be shot; food restores energy, keys open doors, and lifts lead to other levels. Its structure and look recall \"Atic Atac\".\n\nReleased on cassette and disk, as well as for ZX Spectrum, Amstrad CPC and MSX; later re-released under Blue Ribbon. Joystick controlled. Also circulates as a OneLoad64 cartridge conversion and as a single file."
+  },
+  "images": {
+    "ss": "images/7c/7c03049fb59d41f617e6e3ed8da4bf12656bf421.png",
+    "sstitle": "images/74/749a5224495f3eb134ef83cf31aba668fd77d18b.png"
+  }
+}

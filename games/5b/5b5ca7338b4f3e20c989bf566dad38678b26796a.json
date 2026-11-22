@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "5b5ca7338b4f3e20c989bf566dad38678b26796a",
+  "md5": "cb1570b09c63b6e62090a11accc8e337",
+  "crc32": "cd84496c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "VOLFIED.D64"
+  ],
+  "screenscraper_id": "36428",
+  "title": "Volfied",
+  "year": "1991",
+  "publisher": "Empire",
+  "developer": "Digital Light & Magic (Ian Denny)",
+  "genres": [
+    "Arcade",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Volfied ist eine Umsetzung des Taito-Automaten von 1989 und folgt dem Prinzip von Qix. Ein kleines Raumschiff fährt vom Rand aus in das Spielfeld und schneidet Flächen ab, die damit dem Gegner entzogen werden. Ist ein vorgegebener Anteil des Felds erobert, ist der Level geschafft. Ein großer Endgegner und kleinere Feinde bewegen sich im freien Bereich; eingeschlossene Kästen enthalten Extras wie Schutzschild, Laser oder höhere Geschwindigkeit.\n\nDie C64-Fassung erschien 1991 bei Empire auf Kassette und Diskette. Es gibt eine Modulumsetzung für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Ian Denny · Grafik: Martin Godbeer · Musik: Mark Wilson",
+  "texts": {
+    "de": "Volfied ist eine Umsetzung des Taito-Automaten von 1989 und folgt dem Prinzip von Qix. Ein kleines Raumschiff fährt vom Rand aus in das Spielfeld und schneidet Flächen ab, die damit dem Gegner entzogen werden. Ist ein vorgegebener Anteil des Felds erobert, ist der Level geschafft. Ein großer Endgegner und kleinere Feinde bewegen sich im freien Bereich; eingeschlossene Kästen enthalten Extras wie Schutzschild, Laser oder höhere Geschwindigkeit.\n\nDie C64-Fassung erschien 1991 bei Empire auf Kassette und Diskette. Es gibt eine Modulumsetzung für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Ian Denny · Grafik: Martin Godbeer · Musik: Mark Wilson",
+    "en": "Volfied is a conversion of Taito's 1989 arcade game and follows the Qix principle. A small spaceship moves from the edge into the playfield and cuts off areas, taking them away from the enemy. Once a set share of the field is claimed, the level is complete. A large boss and smaller enemies move around the open area; enclosed boxes contain power-ups such as a shield, a laser or extra speed.\n\nThe C64 version was released by Empire in 1991 on cassette and disk. There is a cartridge conversion for OneLoad64. It is controlled with a joystick in port 2.\n\nCode: Ian Denny · Graphics: Martin Godbeer · Music: Mark Wilson"
+  },
+  "images": {
+    "ss": "images/de/de7f75a412d9a02564922a1cfa7216d6a476bb6f.png",
+    "sstitle": "images/53/536f12f16c99e5276dd8c4ab48b754bb74b6572b.png"
+  }
+}

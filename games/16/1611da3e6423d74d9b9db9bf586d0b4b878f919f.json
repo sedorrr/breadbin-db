@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1611da3e6423d74d9b9db9bf586d0b4b878f919f",
+  "md5": "ba098272a3a4fdd0feec5ce7a6de8724",
+  "crc32": "e2227fff",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "INFIDEL2.D64"
+  ],
+  "screenscraper_id": "36675",
+  "title": "Infidel",
+  "year": "1983",
+  "publisher": "Infocom",
+  "developer": "Infocom (Michael Berlyn)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Infidel ist ein Textabenteuer, das in der ägyptischen Wüste spielt. Ein Schatzsucher wird von seinen Arbeitern im Stich gelassen und sucht allein nach einer verschollenen Pyramide. Im Inneren warten Rätsel um Hieroglyphen, Mechanismen und Fallen. Die Hauptfigur ist ausdrücklich als habgieriger Antiheld angelegt, was sich auch im Ende der Geschichte niederschlägt.\n\nDas Spiel erschien auf Diskette und läuft mit dem Infocom-Interpreter. Gesteuert wird ausschließlich über die Tastatur mit englischen Eingaben; Spielstände lassen sich speichern.\n\nCode: Michael Berlyn, Patricia Fogleman",
+  "texts": {
+    "de": "Infidel ist ein Textabenteuer, das in der ägyptischen Wüste spielt. Ein Schatzsucher wird von seinen Arbeitern im Stich gelassen und sucht allein nach einer verschollenen Pyramide. Im Inneren warten Rätsel um Hieroglyphen, Mechanismen und Fallen. Die Hauptfigur ist ausdrücklich als habgieriger Antiheld angelegt, was sich auch im Ende der Geschichte niederschlägt.\n\nDas Spiel erschien auf Diskette und läuft mit dem Infocom-Interpreter. Gesteuert wird ausschließlich über die Tastatur mit englischen Eingaben; Spielstände lassen sich speichern.\n\nCode: Michael Berlyn, Patricia Fogleman",
+    "en": "Infidel is a text adventure set in the Egyptian desert. A treasure hunter is abandoned by his workers and searches alone for a lost pyramid. Inside, puzzles involving hieroglyphs, mechanisms and traps await. The main character is deliberately written as a greedy anti-hero, which is also reflected in the ending of the story.\n\nThe game was released on disk and runs on the Infocom interpreter. It is controlled by keyboard only with English input; saved games can be stored.\n\nCode: Michael Berlyn, Patricia Fogleman"
+  },
+  "images": {
+    "ss": "images/25/2571235d1cdbf733aad038c7c8ce75077badd5cb.png",
+    "sstitle": "images/46/46601a87239fb2523245014cda7cb9b8c884ac83.png"
+  }
+}

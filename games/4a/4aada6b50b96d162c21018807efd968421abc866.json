@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "4aada6b50b96d162c21018807efd968421abc866",
+  "md5": "ce0bc969c872b8d7e7a62f2e7f82fbe1",
+  "crc32": "d64c0c7a",
+  "size": 73936,
+  "format": "CRT",
+  "files": [
+    "Shogun (p1).crt"
+  ],
+  "screenscraper_id": "36714",
+  "title": "Shogun",
+  "year": "1986",
+  "publisher": "Virgin Games",
+  "developer": "Steve Lee",
+  "genres": [
+    "Abenteuer",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Shogun beruht auf dem Roman von James Clavell und spielt im feudalen Japan. Man übernimmt eine von mehreren Figuren und versucht, so viele Gefolgsleute zu gewinnen, dass der Weg zum Titel des Shoguns frei wird. Die zahlreichen computergesteuerten Figuren bewegen sich selbstständig durch die Landschaft; mit ihnen wird über Symbolbefehle verhandelt, gehandelt oder gekämpft. Wer sich anschließt, folgt der eigenen Figur und kann wieder abwandern.\n\nDas Spiel erschien bei Virgin auf Kassette, eine Diskettenfassung kam über Mastertronic. Es gibt Modulumsetzungen für OneLoad64 und EasyFlash (Disk2EasyFlash); diese Umsetzungen erwarten den Joystick in Port 1. Die Befehle werden über eine Symbolleiste gewählt.\n\nCode: Steve Lee",
+  "texts": {
+    "de": "Shogun beruht auf dem Roman von James Clavell und spielt im feudalen Japan. Man übernimmt eine von mehreren Figuren und versucht, so viele Gefolgsleute zu gewinnen, dass der Weg zum Titel des Shoguns frei wird. Die zahlreichen computergesteuerten Figuren bewegen sich selbstständig durch die Landschaft; mit ihnen wird über Symbolbefehle verhandelt, gehandelt oder gekämpft. Wer sich anschließt, folgt der eigenen Figur und kann wieder abwandern.\n\nDas Spiel erschien bei Virgin auf Kassette, eine Diskettenfassung kam über Mastertronic. Es gibt Modulumsetzungen für OneLoad64 und EasyFlash (Disk2EasyFlash); diese Umsetzungen erwarten den Joystick in Port 1. Die Befehle werden über eine Symbolleiste gewählt.\n\nCode: Steve Lee",
+    "en": "Shogun is based on James Clavell's novel and is set in feudal Japan. The player takes on one of several characters and tries to win enough followers to clear the way to the title of shogun. The many computer-controlled characters move through the landscape on their own; the player negotiates, trades or fights with them via icon commands. Those who join follow the player's character and may leave again.\n\nThe game was released by Virgin on cassette, and a disk version came via Mastertronic. There are cartridge conversions for OneLoad64 and EasyFlash (Disk2EasyFlash); these conversions expect the joystick in port 1. Commands are chosen from an icon bar.\n\nCode: Steve Lee"
+  },
+  "images": {
+    "ss": "images/6f/6f84c0ed6a8c57ed504956c7199af4d15f1d984c.png",
+    "sstitle": "images/67/67dadb07d80abcb7b14bccb4800eab4a41599294.png"
+  }
+}

@@ -21,5 +21,9 @@
   "texts": {
     "de": "Kampfgruppe ist ein taktisches Kriegsspiel über die Kämpfe an der Ostfront des Zweiten Weltkriegs. Auf einer Karte führt der Spieler Panzer, Infanterie und Artillerie gegen die Gegenseite, wahlweise in vorgegebenen Szenarien oder selbst zusammengestellten Gefechten. Als erstes SSI-Spiel berücksichtigt es die Sichtlinie, und Befehle lassen sich ganzen Verbänden auf einmal geben. Gespielt wird gegen den Computer oder gegen einen zweiten Spieler.\n\nDas Spiel erschien 1985 für Apple II, Atari 8-Bit und C64, später auch für MS-DOS und Amiga; für den C64 auf Diskette. Im Umlauf sind Cracks der Diskettenfassung sowie EasyFlash-Umsetzungen. Gesteuert wird über Tastatur und Joystick.\n\nDesign: Gary Grigsby",
     "en": "Kampfgruppe is a tactical wargame covering the fighting on the Eastern Front of the Second World War. On a map the player commands tanks, infantry and artillery against the opposing side, either in predefined scenarios or in self-assembled battles. It was the first SSI game to take line of sight into account, and orders can be given to entire formations at once. It is played against the computer or against a second player.\n\nThe game was released in 1985 for the Apple II, Atari 8-bit and C64, later also for MS-DOS and Amiga; on disk for the C64. Cracks of the disk version and EasyFlash conversions are in circulation. It is controlled via keyboard and joystick.\n\nDesign: Gary Grigsby"
+  },
+  "images": {
+    "ss": "images/99/99c698a5189628bcd4c2ba00a226979be67a9e43.png",
+    "sstitle": "images/fa/fa891e1d18dd23af6ceb2f90d7ef4fae6d23bf21.png"
   }
 }

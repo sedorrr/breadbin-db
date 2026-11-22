@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "2f9b2762b1af5ba5dbefbed4abf2a2d9e3065e0b",
+  "md5": "c68b54ddc36c6ea1b554e8afb23c71dc",
+  "crc32": "5725a219",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Rock n'Bolt (J1).crt"
+  ],
+  "screenscraper_id": "114810",
+  "title": "Rock n' Bolt",
+  "year": "1985",
+  "publisher": "Activision",
+  "developer": "Action Graphics",
+  "genres": [
+    "Puzzle",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Bauarbeiter muss auf einer Baustelle hin- und hergleitende Stahlträger festschrauben. Er kann nur von einem Träger auf den nächsten wechseln, wenn diese sich berühren. In manchen Abschnitten müssen die Träger genau nach einem vorgegebenen Bauplan befestigt werden, in anderen gilt es, alles festzuschrauben und rechtzeitig zum Aufzug zurückzukehren. Das Spiel umfasst 100 Stockwerke und drei Schwierigkeitsstufen, die beiden höheren mit Zeitlimit.\n\nDas Spiel erschien auch für ColecoVision, MSX und SG-1000. Die C64-Fassung kam auf Kassette und Diskette heraus; später entstand eine OneLoad64-Modulumsetzung. Gesteuert wird per Joystick in Port 1.\n\nCode: John M. Jaugilas · Musik: David Thiel",
+  "texts": {
+    "de": "Ein Bauarbeiter muss auf einer Baustelle hin- und hergleitende Stahlträger festschrauben. Er kann nur von einem Träger auf den nächsten wechseln, wenn diese sich berühren. In manchen Abschnitten müssen die Träger genau nach einem vorgegebenen Bauplan befestigt werden, in anderen gilt es, alles festzuschrauben und rechtzeitig zum Aufzug zurückzukehren. Das Spiel umfasst 100 Stockwerke und drei Schwierigkeitsstufen, die beiden höheren mit Zeitlimit.\n\nDas Spiel erschien auch für ColecoVision, MSX und SG-1000. Die C64-Fassung kam auf Kassette und Diskette heraus; später entstand eine OneLoad64-Modulumsetzung. Gesteuert wird per Joystick in Port 1.\n\nCode: John M. Jaugilas · Musik: David Thiel",
+    "en": "A construction worker has to bolt down steel girders that slide back and forth on a building site. He can only move from one girder to the next when they touch. In some sections the girders must be fixed exactly according to a given blueprint; in others everything has to be bolted down before returning to the lift in time. The game has 100 floors and three difficulty levels, the two higher ones with a time limit.\n\nThe game was also released for ColecoVision, MSX and SG-1000. The C64 version came out on tape and disk; a OneLoad64 cartridge conversion was made later. Control is by joystick in port 1.\n\nCode: John M. Jaugilas · Music: David Thiel"
+  },
+  "images": {
+    "ss": "images/29/29e67b16375112f3f0c17bf10bdf95774bb0320f.png",
+    "sstitle": "images/36/36fdc7cffceaa479d781e9ffa1fdccc4705adb2f.png"
+  }
+}

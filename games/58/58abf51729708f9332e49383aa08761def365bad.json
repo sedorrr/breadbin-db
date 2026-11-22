@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "58abf51729708f9332e49383aa08761def365bad",
+  "md5": "a8e5395a1fcdcdd2d86b936d16ab8028",
+  "crc32": "de3dbde3",
+  "size": 599469,
+  "format": "TAP",
+  "files": [
+    "Chuckie Egg II (Version a).tap"
+  ],
+  "screenscraper_id": "36408",
+  "title": "Chuckie Egg II",
+  "year": "1985",
+  "publisher": "A&F Software",
+  "developer": "Sean Townsend, Pete Waterfield",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Chuckie Egg mit Henhouse Harry: In einer Schokoladenfabrik aus 120 Bildschirmen sammelt er Zucker, Milch und Kakao, baut ein Spielzeug zusammen und bringt das fertige Schokoladenei zum Lieferwagen. Die Fabrik ist in Bereiche gegliedert, etwa eine Eiszone und eine Zone voller Affen; die Eimaschine mit rutschigen Rohren ist besonders gefährlich. Nach jeder Lieferung beginnt das Spiel mit mehr Gegnern und einem anderen Spielzeug.\n\nDas Spiel erschien 1985 für C64, ZX Spectrum und Amstrad CPC auf Kassette, später auch für Amiga und Atari ST. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Sean Townsend",
+  "texts": {
+    "de": "Fortsetzung von Chuckie Egg mit Henhouse Harry: In einer Schokoladenfabrik aus 120 Bildschirmen sammelt er Zucker, Milch und Kakao, baut ein Spielzeug zusammen und bringt das fertige Schokoladenei zum Lieferwagen. Die Fabrik ist in Bereiche gegliedert, etwa eine Eiszone und eine Zone voller Affen; die Eimaschine mit rutschigen Rohren ist besonders gefährlich. Nach jeder Lieferung beginnt das Spiel mit mehr Gegnern und einem anderen Spielzeug.\n\nDas Spiel erschien 1985 für C64, ZX Spectrum und Amstrad CPC auf Kassette, später auch für Amiga und Atari ST. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Sean Townsend",
+    "en": "A sequel to Chuckie Egg starring Henhouse Harry: in a chocolate factory of 120 screens he collects sugar, milk and cocoa, assembles a toy and delivers the finished chocolate egg to the lorry. The factory is divided into zones, such as an ice zone and one full of monkeys; the egg machine with its slippery pipes is especially dangerous. After each delivery the game restarts with more enemies and a different toy.\n\nThe game was released in 1985 for the C64, ZX Spectrum and Amstrad CPC on cassette, and later for the Amiga and Atari ST. It is controlled with a joystick. Cartridge conversions (OneLoad64) and single-file versions exist.\n\nCode: Sean Townsend"
+  },
+  "images": {
+    "ss": "images/28/287c3d87d15bc7ba3df0e5eb825cd60eb4af6923.png",
+    "sstitle": "images/b1/b14f58c2eff6df4c7d4cbf2ce54301c34ff69568.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "50489421e4effc2fa7e9cdd16615b2753bc94d49",
+  "md5": "cf868ad1c14e938c8c1665d32401c05c",
+  "crc32": "6a4a08d9",
+  "size": 483854,
+  "format": "TAP",
+  "files": [
+    "Motos.tap"
+  ],
+  "screenscraper_id": "36677",
+  "title": "Motos",
+  "year": "1987",
+  "publisher": "Mastertronic (M.A.D.)",
+  "developer": "Binary Design",
+  "genres": [
+    "Arcade",
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Namco-Automaten von 1985. Der Spieler steuert ein Auto-Scooter-artiges Fahrzeug auf schwebenden Spielflächen und muss gegnerische Fahrzeuge über den Rand stoßen, ohne selbst hinunterzufallen. Eingesammelte Teile verstärken die Stoßkraft oder ermöglichen Sprünge über Lücken.\n\nDie C64-Fassung entwickelte Binary Design; sie erschien 1987 unter Mastertronics Label M.A.D. auf Kassette. Später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Michael Delves · Grafik: Lee Cawley · Musik: Jason C. Brooke",
+  "texts": {
+    "de": "Umsetzung des Namco-Automaten von 1985. Der Spieler steuert ein Auto-Scooter-artiges Fahrzeug auf schwebenden Spielflächen und muss gegnerische Fahrzeuge über den Rand stoßen, ohne selbst hinunterzufallen. Eingesammelte Teile verstärken die Stoßkraft oder ermöglichen Sprünge über Lücken.\n\nDie C64-Fassung entwickelte Binary Design; sie erschien 1987 unter Mastertronics Label M.A.D. auf Kassette. Später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Michael Delves · Grafik: Lee Cawley · Musik: Jason C. Brooke",
+    "en": "Conversion of Namco's 1985 arcade game. The player controls a bumper-car-like vehicle on floating playfields and has to push enemy vehicles over the edge without falling off. Collected parts increase the pushing power or allow jumps across gaps.\n\nBinary Design developed the C64 version; it was released in 1987 on tape under Mastertronic's M.A.D. label. A OneLoad64 cartridge conversion was made later. Control by joystick.\n\nCode: Michael Delves · Graphics: Lee Cawley · Music: Jason C. Brooke"
+  },
+  "images": {
+    "ss": "images/9b/9b3d04c118c10579cc9dfc68f893e1997d6fc03c.png",
+    "sstitle": "images/a5/a51df308ffb2f5936ed904d61f8bf37556c10327.png"
+  }
+}

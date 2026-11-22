@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "2506006a0b99b4d5bdcfe4c6bc979722e45f2d56",
+  "md5": "2268827edbb1a8020480cda7662eb56a",
+  "crc32": "49345744",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Cholo.crt"
+  ],
+  "screenscraper_id": "36801",
+  "title": "Cholo",
+  "year": "1987",
+  "publisher": "Firebird",
+  "developer": "Solid Image (Glyn Williams, Joey Headen)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Nach einem Atomkrieg sind die Überlebenden der Stadt Cholo in einem unterirdischen Bunker eingeschlossen. Gesteuert wird zunächst ein kleiner Roboter, der die zerstörte Stadt erkundet, an Computern andockt und dort Hinweise sowie Programme zur Verbesserung findet. Mit Hilfe von Passwörtern lassen sich andere Roboter übernehmen, die jeweils eigene Fähigkeiten haben. Ziel ist es, den Bunker von außen zu öffnen. Die Stadt wird in ausgefüllter 3D-Vektorgrafik dargestellt.\n\nCholo erschien auf Kassette und Diskette; außerdem gibt es eine Modulumsetzung für OneLoad64. Gesteuert wird mit dem Joystick in Port 2, dazu kommen Tastaturbefehle etwa für Menü, Pause sowie Speichern und Laden des Spielstands.\n\nCode: Glyn Williams, Joey Headen · Grafik: Glyn Williams, Joey Headen",
+  "texts": {
+    "de": "Nach einem Atomkrieg sind die Überlebenden der Stadt Cholo in einem unterirdischen Bunker eingeschlossen. Gesteuert wird zunächst ein kleiner Roboter, der die zerstörte Stadt erkundet, an Computern andockt und dort Hinweise sowie Programme zur Verbesserung findet. Mit Hilfe von Passwörtern lassen sich andere Roboter übernehmen, die jeweils eigene Fähigkeiten haben. Ziel ist es, den Bunker von außen zu öffnen. Die Stadt wird in ausgefüllter 3D-Vektorgrafik dargestellt.\n\nCholo erschien auf Kassette und Diskette; außerdem gibt es eine Modulumsetzung für OneLoad64. Gesteuert wird mit dem Joystick in Port 2, dazu kommen Tastaturbefehle etwa für Menü, Pause sowie Speichern und Laden des Spielstands.\n\nCode: Glyn Williams, Joey Headen · Grafik: Glyn Williams, Joey Headen",
+    "en": "After a nuclear war, the survivors of the city of Cholo are trapped in an underground bunker. The player starts out controlling a small robot that explores the ruined city, docks with computers and finds clues and upgrade programs there. Passwords allow other robots, each with its own abilities, to be taken over. The goal is to open the bunker from the outside. The city is shown in filled 3D vector graphics.\n\nCholo was released on cassette and disk; there is also a cartridge conversion for OneLoad64. It is controlled with a joystick in port 2, plus keyboard commands for the menu, pause and saving or loading the game.\n\nCode: Glyn Williams, Joey Headen · Graphics: Glyn Williams, Joey Headen"
+  },
+  "images": {
+    "ss": "images/77/77a327dae6e578c0ff1344b27d5e635b0dbba543.png",
+    "sstitle": "images/8c/8c73097d74ef5702e83ef01f986399e7686e0339.png"
+  }
+}

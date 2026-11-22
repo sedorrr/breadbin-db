@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "ccb1fb30133fe994e4f3966ff272a08aa128e4a0",
+  "md5": "45e8ed4f7288fca54339317c70cc98f9",
+  "crc32": "28a55f7e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Clock Solitaire+1 [HF+EX].d64"
+  ],
+  "title": "Clock Solitaire +1",
+  "year": "2026",
+  "publisher": "_underscore_",
+  "developer": "_underscore_",
+  "genres": [
+    "Kartenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung der Patience „Uhr“ (Clock Solitaire): Die Karten werden wie ein Zifferblatt ausgelegt, und jede aufgedeckte Karte wandert zu der Stunde, die ihrem Rang entspricht – Ass bis Zehn stehen für 1 bis 10 Uhr, Bube für 11, Dame für 12. Könige gehören in die Mitte und sind zu vermeiden. Gewonnen ist die Partie, wenn alle 52 Karten aufgedeckt sind.\n\nBedient wird mit einem Zeiger; das Spiel beginnt mit einem Klick auf den Knopf im Titelbild. Veröffentlicht am 21. November 2026 auf CSDb.\n\nCrack-Fassung von Excess und Hokuto Force vom 21. November 2026 (D64) mit Intro und einer Trainer-Option. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Umsetzung der Patience „Uhr“ (Clock Solitaire): Die Karten werden wie ein Zifferblatt ausgelegt, und jede aufgedeckte Karte wandert zu der Stunde, die ihrem Rang entspricht – Ass bis Zehn stehen für 1 bis 10 Uhr, Bube für 11, Dame für 12. Könige gehören in die Mitte und sind zu vermeiden. Gewonnen ist die Partie, wenn alle 52 Karten aufgedeckt sind.\n\nBedient wird mit einem Zeiger; das Spiel beginnt mit einem Klick auf den Knopf im Titelbild. Veröffentlicht am 21. November 2026 auf CSDb.\n\nCrack-Fassung von Excess und Hokuto Force vom 21. November 2026 (D64) mit Intro und einer Trainer-Option. Das Original ist ebenfalls in der Datenbank.",
+    "en": "An adaptation of the patience game Clock Solitaire: the cards are laid out like a clock face, and every card that is turned over moves to the hour matching its rank – ace to ten stand for 1 to 10 o'clock, jack for 11, queen for 12. Kings belong in the centre and are best avoided. The game is won once all 52 cards have been turned face up.\n\nPlayed with an on-screen pointer; the game starts with a click on the button on the title screen. Released on CSDb on 21 November 2026.\n\nCrack by Excess and Hokuto Force from 21 November 2026 (D64) with intro and one trainer option. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/6f/6fe570b467c90894fd993d306282abf353284beb.png",
+    "sstitle": "images/c8/c807c772883e18618a86a3ab35a5c710d13d6c48.png"
+  }
+}

@@ -21,5 +21,9 @@
   "texts": {
     "de": "Das Textabenteuer spielt im Londoner Finanzviertel: Als frisch beförderter Börsenmakler gerät man in ein Netz aus Insidergeschäften und Betrug und soll als Sündenbock herhalten. Man muss Beweise sammeln, Gespräche belauschen und die eigene Unschuld beweisen, bevor die Falle zuschnappt. Anders als in Fantasy-Abenteuern spielt die Zeit eine große Rolle, da Figuren nach einem festen Tagesablauf handeln. Damit war Corruption für Magnetic Scrolls ungewöhnlich ernst und realistisch.\n\nDie C64-Fassung erschien auf Diskette; gesteuert wird über Tastatureingaben mit dem Parser von Magnetic Scrolls. Das Spiel kam auch für weitere Rechner heraus.\n\nSpielidee: Rob Steggles, Hugh Steers · Code: Hugh Steers · Musik: John Molloy",
     "en": "This text adventure is set in the City of London: as a newly promoted stockbroker, the player is caught in a web of insider dealing and fraud and set up as the scapegoat. Evidence must be gathered, conversations overheard and innocence proven before the trap closes. Unlike fantasy adventures, time plays a major role, as characters follow fixed daily routines. This made Corruption unusually serious and realistic for Magnetic Scrolls.\n\nThe C64 version was released on disk and is played through typed commands using the Magnetic Scrolls parser. The game was also released for other computers.\n\nDesign: Rob Steggles, Hugh Steers · Code: Hugh Steers · Music: John Molloy"
+  },
+  "images": {
+    "ss": "images/36/36ea25bf6aa0d98a6ad461e6d152434837c75a08.png",
+    "sstitle": "images/54/54c7780d721f4a0e53a3d033c3a215d3fcdfb226.png"
   }
 }

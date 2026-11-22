@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "1c071e7f7e09669e76c5c7dfcb64bb6e3acddb05",
+  "md5": "a1f4676a0e4d0ef7b63bd9def80d7dc1",
+  "crc32": "56b7f7e8",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ohgj2025-disk1.d64"
+  ],
+  "title": "One Hour Game Jam Anthology 2025",
+  "year": "2026",
+  "publisher": "Vintage Computing Carinthia",
+  "developer": "Wil, Logiker u. a.",
+  "genres": [
+    "Sammlung"
+  ],
+  "players": "1",
+  "synopsis": "Sammlung von 32 kleinen C64-Spielen, die 2025 bei Ausgaben der One Hour Game Jam entstanden sind – jedes Spiel wurde zu einem vorgegebenen Thema innerhalb einer Stunde geschrieben. Ein Menü listet die Spiele und zeigt zu jedem eine Vorschau, einen kurzen Satz, den Autor und die Nummer der Jam. Darunter sind Geschicklichkeits-, Quiz-, Rechen- und Wirtschaftsspiele wie Ant Invasion, Medusas Lair, Molten Math, Raging Rapids, Stock Picker, Wallstreet 64, Worms und Wrestling Manager.\n\nZwei D64-Disketten; das Menü startet von Diskette 1. Veröffentlicht am 21. November 2026 beim Treffen Vintage Computing Carinthia #41.\n\nCode: Logiker, Wil · Grafik: Flexman, Logiker, Wil · Musik: Razy · Text: Wil",
+  "texts": {
+    "de": "Sammlung von 32 kleinen C64-Spielen, die 2025 bei Ausgaben der One Hour Game Jam entstanden sind – jedes Spiel wurde zu einem vorgegebenen Thema innerhalb einer Stunde geschrieben. Ein Menü listet die Spiele und zeigt zu jedem eine Vorschau, einen kurzen Satz, den Autor und die Nummer der Jam. Darunter sind Geschicklichkeits-, Quiz-, Rechen- und Wirtschaftsspiele wie Ant Invasion, Medusas Lair, Molten Math, Raging Rapids, Stock Picker, Wallstreet 64, Worms und Wrestling Manager.\n\nZwei D64-Disketten; das Menü startet von Diskette 1. Veröffentlicht am 21. November 2026 beim Treffen Vintage Computing Carinthia #41.\n\nCode: Logiker, Wil · Grafik: Flexman, Logiker, Wil · Musik: Razy · Text: Wil",
+    "en": "A collection of 32 small C64 games created during One Hour Game Jam sessions in 2025 – each game was written to a given theme within one hour. A menu lists the games and shows a preview, a short line of text, the author and the jam number for each. They include action, quiz, maths and business games such as Ant Invasion, Medusas Lair, Molten Math, Raging Rapids, Stock Picker, Wallstreet 64, Worms and Wrestling Manager.\n\nTwo D64 disks; the menu starts from disk 1. Released on 21 November 2026 at the Vintage Computing Carinthia #41 meeting.\n\nCode: Logiker, Wil · Graphics: Flexman, Logiker, Wil · Music: Razy · Text: Wil"
+  },
+  "images": {
+    "ss": "images/e4/e44b944ec151e88c3729e0caef23774745bcdf74.png",
+    "sstitle": "images/83/83a1fc9eb198d24f63f90ec8f5175945c2fa22ed.png"
+  }
+}

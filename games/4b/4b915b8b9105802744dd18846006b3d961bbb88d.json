@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "4b915b8b9105802744dd18846006b3d961bbb88d",
+  "md5": "b66a98fdfa3d41f8bf1cfda18616a689",
+  "crc32": "908cc082",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "KINGSBOU.D64"
+  ],
+  "screenscraper_id": "35851",
+  "title": "King's Bounty",
+  "year": "1990",
+  "publisher": "New World Computing",
+  "developer": "New World Computing",
+  "genres": [
+    "Strategie",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "In King's Bounty soll man das gestohlene Zepter der Ordnung wiederfinden, bevor die Zeit abläuft. Dazu wählt man einen von vier Helden, wirbt in Burgen und Behausungen ein Heer aus Fabelwesen an und zieht über mehrere Kontinente. Besiegte Schurken liefern Teile einer Karte, die den Ort des Zepters verrät. Die Kämpfe werden rundenweise auf einem Spielfeld ausgetragen; außerdem spielen Zaubersprüche, Sold und die Moral der Truppen eine Rolle.\n\nDas Spiel erschien auf Diskette. Es gibt eine EasyFlash-Umsetzung im Disk2EasyFlash-Verfahren. Gesteuert wird mit dem Joystick in Port 2 und der Tastatur.\n\nCode: Mark Caldwell",
+  "texts": {
+    "de": "In King's Bounty soll man das gestohlene Zepter der Ordnung wiederfinden, bevor die Zeit abläuft. Dazu wählt man einen von vier Helden, wirbt in Burgen und Behausungen ein Heer aus Fabelwesen an und zieht über mehrere Kontinente. Besiegte Schurken liefern Teile einer Karte, die den Ort des Zepters verrät. Die Kämpfe werden rundenweise auf einem Spielfeld ausgetragen; außerdem spielen Zaubersprüche, Sold und die Moral der Truppen eine Rolle.\n\nDas Spiel erschien auf Diskette. Es gibt eine EasyFlash-Umsetzung im Disk2EasyFlash-Verfahren. Gesteuert wird mit dem Joystick in Port 2 und der Tastatur.\n\nCode: Mark Caldwell",
+    "en": "In King's Bounty, the player has to recover the stolen Sceptre of Order before time runs out. To do so, one of four heroes is chosen, an army of fantasy creatures is recruited in castles and dwellings, and the hero travels across several continents. Defeated villains yield pieces of a map that reveals where the sceptre is hidden. Battles are fought turn by turn on a grid; spells, wages and troop morale also play a part.\n\nThe game was released on disk. There is an EasyFlash conversion made with the Disk2EasyFlash method. It is controlled with a joystick in port 2 and the keyboard.\n\nCode: Mark Caldwell"
+  },
+  "images": {
+    "ss": "images/2a/2a0f020ab9c0ecbc74fdf03c4bb88cdfacc83ce7.png",
+    "sstitle": "images/a2/a2225e69789d2aafc3d1417ef7f00b24173f205b.png"
+  }
+}

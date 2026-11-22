@@ -22,5 +22,9 @@
   "texts": {
     "de": "Silicon Dreams fasst die drei Science-Fiction-Textabenteuer Snowball, Return to Eden und Worm in Paradise von Level 9 zusammen. Die Handlung beginnt an Bord des Kolonieschiffs Snowball 9, das vor einer Katastrophe bewahrt werden muss, setzt sich auf dem Planeten Eden fort und endet in der Stadt Enoch, deren Gesellschaft von Computern gelenkt wird. Für die Neuauflage bei Rainbird wurden die Spiele überarbeitet und mit Bildern versehen. Level 9 war für umfangreiche Welten und einen leistungsfähigen Befehlsparser bekannt.\n\nDie Sammlung erschien auf Diskette und Kassette; alle drei Teile werden über Texteingaben gespielt, Grafiken lassen sich zuschalten. Verbreitet ist auch eine Disk2EasyFlash-Umsetzung als Modul.\n\nCode: Mike, Nick und Pete Austin",
     "en": "Silicon Dreams collects Level 9's three science-fiction text adventures Snowball, Return to Eden and Worm in Paradise. The story begins aboard the colony ship Snowball 9, which must be saved from disaster, continues on the planet Eden and ends in the city of Enoch, whose society is run by computers. For the Rainbird re-release the games were revised and given pictures. Level 9 was known for large worlds and a capable command parser.\n\nThe compilation was released on disk and cassette; all three parts are played by typing commands, and the graphics can be switched on. A Disk2EasyFlash cartridge conversion is also common.\n\nCode: Mike, Nick and Pete Austin"
+  },
+  "images": {
+    "ss": "images/67/67907b84942928a720d44889c60d4ea92b8a0fe2.png",
+    "sstitle": "images/05/058b079123a7e24cb144c755edb523fde8d2a5f0.png"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "83d98f8ae2695b670e2805820c02e2009c8bd7c9",
+  "md5": "35abd397bc7b1200fe23041d22073019",
+  "crc32": "38e70cba",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DUELTD2B.D64"
+  ],
+  "screenscraper_id": "36479",
+  "title": "The Duel: Test Drive II",
+  "year": "1989",
+  "publisher": "Accolade",
+  "developer": "Distinctive Software",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Rennspiel auf Landstraßen mit Sportwagen wie Porsche 959 und Ferrari F40. Gefahren wird gegen die Uhr oder gegen einen vom Computer gesteuerten Gegner von Tankstelle zu Tankstelle; dabei gilt es, dem Gegenverkehr auszuweichen und der Polizei zu entkommen. Ein Unfall kostet ein Leben, ein Strafzettel Zeit.\n\nDas Spiel erschien auf Diskette. Zusätzlich gab es Ergänzungsdisketten mit weiteren Wagen und Strecken, darunter „California Challenge“ und „European Challenge“. Steuerung per Joystick.\n\nCode: Kris Hatlelid, Kevin P. Pickell, Hanno Lemke · Grafik: Theresa Henry · Musik: Kris Hatlelid",
+  "texts": {
+    "de": "Rennspiel auf Landstraßen mit Sportwagen wie Porsche 959 und Ferrari F40. Gefahren wird gegen die Uhr oder gegen einen vom Computer gesteuerten Gegner von Tankstelle zu Tankstelle; dabei gilt es, dem Gegenverkehr auszuweichen und der Polizei zu entkommen. Ein Unfall kostet ein Leben, ein Strafzettel Zeit.\n\nDas Spiel erschien auf Diskette. Zusätzlich gab es Ergänzungsdisketten mit weiteren Wagen und Strecken, darunter „California Challenge“ und „European Challenge“. Steuerung per Joystick.\n\nCode: Kris Hatlelid, Kevin P. Pickell, Hanno Lemke · Grafik: Theresa Henry · Musik: Kris Hatlelid",
+    "en": "Road racing game with sports cars such as the Porsche 959 and Ferrari F40. Races run from gas station to gas station, either against the clock or against a computer-controlled opponent, while dodging oncoming traffic and escaping the police. A crash costs a life, a speeding ticket costs time.\n\nThe game was released on disk. Add-on disks with further cars and routes were also available, including \"California Challenge\" and \"European Challenge\". Control by joystick.\n\nCode: Kris Hatlelid, Kevin P. Pickell, Hanno Lemke · Graphics: Theresa Henry · Music: Kris Hatlelid"
+  },
+  "images": {
+    "ss": "images/2d/2d270ef84287bc17d3adad4df22fb08eb560d10c.png",
+    "sstitle": "images/5a/5a6eb3bcb5f6bf5761f4eddea364d8078eec4d2b.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "768476889e9930057e47bc44b3695b3a71954a12",
+  "md5": "9e6c091b4240aeeae9631b7c98b06dce",
+  "crc32": "1a95ce67",
+  "size": 31666,
+  "format": "PRG",
+  "files": [
+    "Netherworld.prg"
+  ],
+  "screenscraper_id": "36589",
+  "title": "Netherworld",
+  "year": "1988",
+  "publisher": "Hewson Consultants",
+  "developer": "Jukka Tapanimäki",
+  "genres": [
+    "Shoot'em Up",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Ein kleines Raumschiff fliegt durch eine Folge von Höhlen- und Labyrinthlevels einer fremden Dimension. In jedem Level muss eine vorgegebene Zahl von Diamanten eingesammelt werden, bevor die Zeit abläuft; erst dann öffnet sich der Weg weiter. Gegner, Blasen und tödliche Wände stellen sich in den Weg, manche Blöcke lassen sich wegschießen oder verwandeln. Das Spiel verbindet schnelles Ausweichen mit dem Planen eines Weges durch das Level.\n\nOriginal für den C64 entwickelt, erschienen auf Kassette und Diskette; Umsetzungen für Amiga, Atari ST, Amstrad CPC, ZX Spectrum und MS-DOS folgten. Später als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet. Steuerung per Joystick. Der Arbeitstitel war „Abyss Zone“, das Titelbild zeigt das Gesicht des Programmierers.\n\nCode: Jukka Tapanimäki · Musik: Jori Olkkonen",
+  "texts": {
+    "de": "Ein kleines Raumschiff fliegt durch eine Folge von Höhlen- und Labyrinthlevels einer fremden Dimension. In jedem Level muss eine vorgegebene Zahl von Diamanten eingesammelt werden, bevor die Zeit abläuft; erst dann öffnet sich der Weg weiter. Gegner, Blasen und tödliche Wände stellen sich in den Weg, manche Blöcke lassen sich wegschießen oder verwandeln. Das Spiel verbindet schnelles Ausweichen mit dem Planen eines Weges durch das Level.\n\nOriginal für den C64 entwickelt, erschienen auf Kassette und Diskette; Umsetzungen für Amiga, Atari ST, Amstrad CPC, ZX Spectrum und MS-DOS folgten. Später als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet. Steuerung per Joystick. Der Arbeitstitel war „Abyss Zone“, das Titelbild zeigt das Gesicht des Programmierers.\n\nCode: Jukka Tapanimäki · Musik: Jori Olkkonen",
+    "en": "A small spaceship flies through a series of cave and maze levels in an alien dimension. In each level a set number of diamonds must be collected before time runs out; only then does the way on open up. Enemies, bubbles and deadly walls get in the way, and some blocks can be shot away or transformed. The game combines quick evasion with planning a route through each level.\n\nDeveloped for the C64 first and released on cassette and disk; versions for Amiga, Atari ST, Amstrad CPC, ZX Spectrum and MS-DOS followed. Later circulated as a OneLoad64 cartridge conversion and as a single file. Joystick controlled. Its working title was \"Abyss Zone\", and the cover art shows the programmer's face.\n\nCode: Jukka Tapanimäki · Music: Jori Olkkonen"
+  },
+  "images": {
+    "ss": "images/95/9502a0f8d9868d37897ce3abc504b21efbaedc3c.png",
+    "sstitle": "images/ad/ad2f9ab4d7ed13999bbf0ba4bc8a277bea4f53bb.png"
+  }
+}

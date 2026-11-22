@@ -22,5 +22,9 @@
   "texts": {
     "de": "Nach dem gleichnamigen Film wird John Rambo nach Afghanistan geschickt, um seinen früheren Vorgesetzten Colonel Trautman aus einem sowjetischen Stützpunkt zu befreien. Die ersten beiden Abschnitte sind ein Actionabenteuer in Draufsicht: Rambo schleicht zunächst nur mit einem Messer durch das Lager, findet weitere Waffen und Ausrüstung, weicht Minen und Stromfallen aus und befreit Trautman. Danach geht es zur Flucht mit einem Hubschrauber, und der letzte Abschnitt wechselt zu einem Schießstand mit Fadenkreuz. Die Mischung aus Erkunden und Kampf hob das Spiel von einfachen Filmumsetzungen ab.\n\nDas Spiel erschien auf Kassette und Diskette, in den USA bei Taito, später als Billigausgabe bei The Hit Squad. Gesteuert wird mit dem Joystick in Port 2, über die Tastatur wechselt man Waffen und öffnet das Inventar.\n\nCode: Zach Townsend, David Jolliff · Grafik: Andrew Sleigh · Musik: Jonathan Dunn",
     "en": "Based on the film, John Rambo is sent to Afghanistan to rescue his former commander Colonel Trautman from a Soviet base. The first two sections are a top-down action adventure: Rambo first sneaks through the camp with only a knife, finds further weapons and equipment, avoids mines and electrified traps and frees Trautman. Then comes the escape by helicopter, and the final section switches to a crosshair shooting stage. The mix of exploration and combat set it apart from simple film tie-ins.\n\nThe game was released on tape and disk, in the US by Taito, later as a budget release by The Hit Squad. It is played with a joystick in port 2; the keyboard switches weapons and opens the inventory.\n\nCode: Zach Townsend, David Jolliff · Graphics: Andrew Sleigh · Music: Jonathan Dunn"
+  },
+  "images": {
+    "ss": "images/67/673f7172d8d7a22ddc0d692a3e79a4235e391b43.png",
+    "sstitle": "images/40/404ef46d3a46b8cabb40292e416ebe428d0f6501.png"
   }
 }

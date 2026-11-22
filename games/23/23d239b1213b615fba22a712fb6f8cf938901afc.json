@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "23d239b1213b615fba22a712fb6f8cf938901afc",
+  "md5": "ac8a653c76c5e549e8cae26f11b14dd3",
+  "crc32": "c57a2c4d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "HILLSFR2.D64"
+  ],
+  "screenscraper_id": "36456",
+  "title": "Hillsfar",
+  "year": "1989",
+  "publisher": "SSI",
+  "developer": "Westwood Associates",
+  "genres": [
+    "Rollenspiele",
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Ein Rollenspiel in der Stadt Hillsfar aus der Forgotten-Realms-Welt von Advanced Dungeons & Dragons. Statt langer Kämpfe in Gruppen steht eine einzelne Figur im Mittelpunkt, die Aufträge ihrer Gilde erfüllt. Viele Aufgaben werden als Actioneinlagen gespielt: Ritte zwischen den Orten, Bogenschießen, Kämpfe in der Arena, Schlösser knacken und das Durchsuchen von Gebäuden. Figuren lassen sich neu erschaffen oder aus Pool of Radiance und Curse of the Azure Bonds übernehmen.\n\nHillsfar erschien 1989 bei SSI für C64, MS-DOS, Amiga und Atari ST; die C64-Fassung kam auf mehreren Diskettenseiten heraus. Gesteuert wird mit dem Joystick.\n\nMusik: Paul Mudra",
+  "texts": {
+    "de": "Ein Rollenspiel in der Stadt Hillsfar aus der Forgotten-Realms-Welt von Advanced Dungeons & Dragons. Statt langer Kämpfe in Gruppen steht eine einzelne Figur im Mittelpunkt, die Aufträge ihrer Gilde erfüllt. Viele Aufgaben werden als Actioneinlagen gespielt: Ritte zwischen den Orten, Bogenschießen, Kämpfe in der Arena, Schlösser knacken und das Durchsuchen von Gebäuden. Figuren lassen sich neu erschaffen oder aus Pool of Radiance und Curse of the Azure Bonds übernehmen.\n\nHillsfar erschien 1989 bei SSI für C64, MS-DOS, Amiga und Atari ST; die C64-Fassung kam auf mehreren Diskettenseiten heraus. Gesteuert wird mit dem Joystick.\n\nMusik: Paul Mudra",
+    "en": "A role-playing game set in the city of Hillsfar in the Forgotten Realms world of Advanced Dungeons & Dragons. Instead of long party battles, a single character takes centre stage and carries out missions for their guild. Many tasks are played as action sequences: riding between locations, archery, arena fights, picking locks and searching buildings. Characters can be created from scratch or imported from Pool of Radiance and Curse of the Azure Bonds.\n\nHillsfar was released by SSI in 1989 for the C64, MS-DOS, Amiga and Atari ST; the C64 version came on several disk sides. It is controlled with a joystick.\n\nMusic: Paul Mudra"
+  },
+  "images": {
+    "ss": "images/1a/1a4c140b04023d7767cf858609541b9a678504e6.png",
+    "sstitle": "images/f7/f79d18a33356cd1387baaa88c39587d9817f5af9.png"
+  }
+}

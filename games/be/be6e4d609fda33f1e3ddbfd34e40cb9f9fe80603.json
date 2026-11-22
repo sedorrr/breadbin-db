@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "be6e4d609fda33f1e3ddbfd34e40cb9f9fe80603",
+  "md5": "bdcbfd79b58a2d09feae63c9614b44a9",
+  "crc32": "f28085c0",
+  "size": 25715,
+  "format": "PRG",
+  "files": [
+    "Tir Na Nog (J1).prg"
+  ],
+  "screenscraper_id": "36760",
+  "title": "Tir Na Nog",
+  "year": "1985",
+  "publisher": "Gargoyle Games",
+  "developer": "Gargoyle Games",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Der Held Cuchulainn wandert nach seinem Tod durch Tir Na Nog, das Land der Toten aus der irischen Sage. Ziel ist, die vier Teile des Siegels von Calum zu finden und auf den Altar zu legen. Die große Welt aus Ebenen, Wäldern und Höhlen wird in seitlicher Ansicht mit großer, fein animierter Spielfigur gezeigt; Rätsel werden mit gefundenen Gegenständen gelöst. Da Cuchulainn schon tot ist, kann er nicht sterben – Begegnungen mit den Sidhe versetzen ihn an einen anderen Ort und kosten seine Habe.\n\nUrsprünglich 1984 für ZX Spectrum und Amstrad CPC, die C64-Fassung erschien 1985 auf Kassette. Steuerung per Joystick in Port 1; später als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet.\n\nEntwurf: Greg Follis, Roy Carter",
+  "texts": {
+    "de": "Der Held Cuchulainn wandert nach seinem Tod durch Tir Na Nog, das Land der Toten aus der irischen Sage. Ziel ist, die vier Teile des Siegels von Calum zu finden und auf den Altar zu legen. Die große Welt aus Ebenen, Wäldern und Höhlen wird in seitlicher Ansicht mit großer, fein animierter Spielfigur gezeigt; Rätsel werden mit gefundenen Gegenständen gelöst. Da Cuchulainn schon tot ist, kann er nicht sterben – Begegnungen mit den Sidhe versetzen ihn an einen anderen Ort und kosten seine Habe.\n\nUrsprünglich 1984 für ZX Spectrum und Amstrad CPC, die C64-Fassung erschien 1985 auf Kassette. Steuerung per Joystick in Port 1; später als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet.\n\nEntwurf: Greg Follis, Roy Carter",
+    "en": "After his death, the hero Cuchulainn wanders through Tir Na Nog, the land of the dead from Irish legend. The goal is to find the four parts of the Seal of Calum and place them on the altar. The large world of plains, forests and caves is shown side-on with a large, finely animated character, and puzzles are solved with items found along the way. As Cuchulainn is already dead he cannot die – encounters with the Sidhe move him elsewhere and strip him of his belongings.\n\nOriginally released in 1984 for ZX Spectrum and Amstrad CPC; the C64 version followed on cassette in 1985. Joystick in port 1; later circulated as a OneLoad64 cartridge conversion and as a single file.\n\nDesign: Greg Follis, Roy Carter"
+  },
+  "images": {
+    "ss": "images/b5/b58db11a2a1fc94b24fdb3bf20d906a672581051.png",
+    "sstitle": "images/f5/f5f750258468dc14d25eddfbfec2fda5e5edc88f.png"
+  }
+}

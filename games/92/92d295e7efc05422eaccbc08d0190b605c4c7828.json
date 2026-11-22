@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "92d295e7efc05422eaccbc08d0190b605c4c7828",
+  "md5": "86fa015a6596ada990aeb01141bf0a9e",
+  "crc32": "1e816e21",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SLYSPY0.D64"
+  ],
+  "screenscraper_id": "36010",
+  "title": "Sly Spy: Secret Agent",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Software Creations",
+  "genres": [
+    "Action",
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Data-East-Automaten von 1989: Ein Geheimagent soll einen Anschlag auf den US-Präsidenten verhindern. Die Abschnitte wechseln zwischen Fallschirmsprung, Laufen und Schießen, einer Motorradfahrt mit Bordwaffe und Unterwasserabschnitten mit Tauchscooter. Ohne Munition geht der Agent zum Nahkampf mit Tritten über. Besiegte Gegner hinterlassen Teile einer goldenen Waffe, die zusammengesetzt deutlich mehr Feuerkraft bringt.\n\nVon Ocean auf Kassette und auf zwei Disketten veröffentlicht (in Nordamerika über Data East). Steuerung per Joystick. Die Disk-Fassung ist auch als EasyFlash-Modulumsetzung verbreitet.\n\nMusik: Geoff Follin",
+  "texts": {
+    "de": "Umsetzung des Data-East-Automaten von 1989: Ein Geheimagent soll einen Anschlag auf den US-Präsidenten verhindern. Die Abschnitte wechseln zwischen Fallschirmsprung, Laufen und Schießen, einer Motorradfahrt mit Bordwaffe und Unterwasserabschnitten mit Tauchscooter. Ohne Munition geht der Agent zum Nahkampf mit Tritten über. Besiegte Gegner hinterlassen Teile einer goldenen Waffe, die zusammengesetzt deutlich mehr Feuerkraft bringt.\n\nVon Ocean auf Kassette und auf zwei Disketten veröffentlicht (in Nordamerika über Data East). Steuerung per Joystick. Die Disk-Fassung ist auch als EasyFlash-Modulumsetzung verbreitet.\n\nMusik: Geoff Follin",
+    "en": "A conversion of Data East's 1989 arcade game: a secret agent must foil an attack on the US President. Stages alternate between parachuting, running and shooting, a motorcycle ride with a mounted gun, and underwater sections with a diver propulsion vehicle. Out of ammunition, the agent switches to kicking in close combat. Defeated enemies leave parts of a golden gun which, once assembled, gives far greater firepower.\n\nPublished by Ocean on cassette and on two disks (in North America through Data East). Joystick controlled. The disk version also circulates as an EasyFlash cartridge conversion.\n\nMusic: Geoff Follin"
+  },
+  "images": {
+    "ss": "images/63/6398780bc4b39f18f14052c69eebb3f1e6072dc1.png",
+    "sstitle": "images/31/318f3007d6ecb4c865604622339942e762a0308e.png"
+  }
+}

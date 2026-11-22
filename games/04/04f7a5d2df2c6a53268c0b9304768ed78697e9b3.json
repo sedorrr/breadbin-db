@@ -21,5 +21,9 @@
   "texts": {
     "de": "The Lurking Horror ist ein Textabenteuer von Infocom mit Horrorelementen im Stil von H. P. Lovecraft. Ein Student will in einer Winternacht an der technischen Hochschule G.U.E. Tech seine Hausarbeit fertigstellen und stößt dabei in Kellern, Dampftunneln und Laboren auf ein uraltes Grauen. Das Spiel lebt von dichter Atmosphäre und dem Campusleben, das dem MIT nachempfunden ist, und gilt als Infocoms einziger echter Horrortitel.\n\nWie alle Infocom-Spiele läuft es auf dem C64 von Diskette über den Z-Machine-Interpreter, ohne Grafik; gesteuert wird ausschließlich über Texteingaben. Auf dem C64 fehlen die Soundeffekte der Amiga- und Atari-ST-Fassungen.\n\nCode: Dave Lebling",
     "en": "The Lurking Horror is an Infocom text adventure with horror elements in the style of H. P. Lovecraft. On a winter night a student tries to finish an assignment at the technical university G.U.E. Tech and, in basements, steam tunnels and labs, runs into an ancient terror. The game relies on dense atmosphere and a campus setting modelled on MIT, and is regarded as Infocom's only true horror title.\n\nLike all Infocom games it runs on the C64 from disk through the Z-machine interpreter, without graphics; it is controlled entirely by typed commands. The C64 version lacks the sound effects of the Amiga and Atari ST versions.\n\nCode: Dave Lebling"
+  },
+  "images": {
+    "ss": "images/2d/2d06068998b446a9f1b93170abf217667f00e43d.png",
+    "sstitle": "images/2d/2d06068998b446a9f1b93170abf217667f00e43d.png"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "30f4e90da07b8ae8c00a7d2c98d400378f2f1912",
+  "md5": "95dcd16df15242a4731921b99f4142b6",
+  "crc32": "fef2f8bb",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Super Cars.crt"
+  ],
+  "screenscraper_id": "36732",
+  "title": "Super Cars",
+  "year": "1990",
+  "publisher": "Gremlin Graphics",
+  "developer": "Magnetic Fields",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1",
+  "synopsis": "Ein Autorennen in der Draufsicht nach dem Vorbild von Super Sprint. Auf Rundkursen in vier Schwierigkeitsstufen muss der Spieler unter die ersten drei kommen, um weiterzukommen. Mit dem Preisgeld werden Motor und Fahrverhalten verbessert, Panzerung und Raketen nach vorn und hinten gekauft; im Laden lässt sich der Preis eines neuen Wagens im Gespräch mit dem Verkäufer drücken. Mit der Zeit kommen mehr Gegner dazu.\n\nSuper Cars entstand bei Magnetic Fields und erschien bei Gremlin für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nMusik: Ben Daglish",
+  "texts": {
+    "de": "Ein Autorennen in der Draufsicht nach dem Vorbild von Super Sprint. Auf Rundkursen in vier Schwierigkeitsstufen muss der Spieler unter die ersten drei kommen, um weiterzukommen. Mit dem Preisgeld werden Motor und Fahrverhalten verbessert, Panzerung und Raketen nach vorn und hinten gekauft; im Laden lässt sich der Preis eines neuen Wagens im Gespräch mit dem Verkäufer drücken. Mit der Zeit kommen mehr Gegner dazu.\n\nSuper Cars entstand bei Magnetic Fields und erschien bei Gremlin für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nMusik: Ben Daglish",
+    "en": "A top-down racing game modelled on Super Sprint. On circuits across four difficulty levels, the player must finish in the top three to progress. Prize money buys engine and handling upgrades, armour plating and front and rear missiles; in the shop the price of a new car can be talked down in a conversation with the salesman. More opponents join over time.\n\nSuper Cars was developed by Magnetic Fields and published by Gremlin for several home computers; on the C64 it came on cassette and disk. It is controlled with a joystick. Cartridge conversions (OneLoad64) and single-file versions exist.\n\nMusic: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/28/28275aa94b677d01bb5a9a773ee02b287c51dad5.png",
+    "sstitle": "images/6e/6eeac6b14495391e5392500b97cf37af2058013d.png"
+  }
+}

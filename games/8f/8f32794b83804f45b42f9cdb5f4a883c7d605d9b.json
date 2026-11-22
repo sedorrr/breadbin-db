@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "8f32794b83804f45b42f9cdb5f4a883c7d605d9b",
+  "md5": "bd0ff9088a0ea57590e0ad311e295468",
+  "crc32": "6e760d04",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Park Patrol (J1).crt"
+  ],
+  "screenscraper_id": "36692",
+  "title": "Park Patrol",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Activision (Tony Ngo)",
+  "genres": [
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein Parkwächter (wahlweise Mann oder Frau) sammelt Abfall an einem See und an dessen Ufer ein, zu Fuß oder in einem Schlauchboot mit Außenbordmotor. Schildkröten sind bei Berührung gefährlich, Schlangen im Wasser beschädigen das Boot, Ameisen stehlen Vorräte aus der Hütte. Rufende Schwimmer und ins Wasser gefallene Schildkröten können gerettet werden. Die Hütte füllt die Energie auf; auf treibenden Baumstämmen gibt es ein kleines Gleichgewichtsspiel. Ist aller Müll eingesammelt, gibt es einen Bonus nach der verbliebenen Energie.\n\nDas Spiel erschien ursprünglich für den C64, später für Amstrad CPC und ZX Spectrum. Es gab Kassetten-, Disketten- und Modulfassungen; in Großbritannien wurde es später auch über Firebird und auf Heft-Kassetten vertrieben. Steuerung per Joystick.\n\nCode: Tony Ngo · Musik: Ed Bogas",
+  "texts": {
+    "de": "Ein Parkwächter (wahlweise Mann oder Frau) sammelt Abfall an einem See und an dessen Ufer ein, zu Fuß oder in einem Schlauchboot mit Außenbordmotor. Schildkröten sind bei Berührung gefährlich, Schlangen im Wasser beschädigen das Boot, Ameisen stehlen Vorräte aus der Hütte. Rufende Schwimmer und ins Wasser gefallene Schildkröten können gerettet werden. Die Hütte füllt die Energie auf; auf treibenden Baumstämmen gibt es ein kleines Gleichgewichtsspiel. Ist aller Müll eingesammelt, gibt es einen Bonus nach der verbliebenen Energie.\n\nDas Spiel erschien ursprünglich für den C64, später für Amstrad CPC und ZX Spectrum. Es gab Kassetten-, Disketten- und Modulfassungen; in Großbritannien wurde es später auch über Firebird und auf Heft-Kassetten vertrieben. Steuerung per Joystick.\n\nCode: Tony Ngo · Musik: Ed Bogas",
+    "en": "A park ranger (male or female) collects litter at a lake and along its shore, on foot or in an inflatable dinghy with an outboard motor. Turtles are deadly to touch, snakes in the water damage the boat, and ants steal supplies from the hut. Calling swimmers and turtles that have fallen into the water can be rescued. The hut restores energy, and floating logs offer a small log-rolling game. Once all the litter is collected, a bonus is awarded based on the remaining energy.\n\nThe game originally appeared on the C64 and was later released for the Amstrad CPC and ZX Spectrum. There were tape, disk and cartridge versions; in the UK it was later also sold by Firebird and on magazine cover tapes. Control by joystick.\n\nCode: Tony Ngo · Music: Ed Bogas"
+  },
+  "images": {
+    "ss": "images/18/18e31579ac9a999a6095e58be23a307a2a524226.png",
+    "sstitle": "images/f3/f3b841eb949990c2134a96714f8e99d217617308.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "653fe416e7fbfd40992d4c8540d10269b15a568c",
+  "md5": "1648bec07be0a03bea7d24e7aa73db56",
+  "crc32": "959f1bb5",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Impact.crt"
+  ],
+  "screenscraper_id": "106827",
+  "title": "Impact",
+  "year": "1988",
+  "publisher": "Audiogenic",
+  "developer": "Reptilia Design (Steve Snake)",
+  "genres": [
+    "Action / Breakout Spiele"
+  ],
+  "players": "1",
+  "synopsis": "Breakout-Variante, in der ein Schläger am unteren Rand einen Ball gegen Steinmauern lenkt. Herabfallende Marken werden gesammelt und gegen Extras eingetauscht, die der Spieler selbst auswählt, etwa einen breiteren Schläger, mehrere Bälle oder Geschosse. Das Spiel umfasst 80 Level; mit einem Editor lassen sich eigene Level entwerfen.\n\nImpact erschien zuerst 1987 für den Amiga, die C64-Fassung 1988 auf Kassette und Diskette. In den USA brachte Mindscape das Spiel unter dem Titel „Blockbuster“ heraus. Später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Steve Snake",
+  "texts": {
+    "de": "Breakout-Variante, in der ein Schläger am unteren Rand einen Ball gegen Steinmauern lenkt. Herabfallende Marken werden gesammelt und gegen Extras eingetauscht, die der Spieler selbst auswählt, etwa einen breiteren Schläger, mehrere Bälle oder Geschosse. Das Spiel umfasst 80 Level; mit einem Editor lassen sich eigene Level entwerfen.\n\nImpact erschien zuerst 1987 für den Amiga, die C64-Fassung 1988 auf Kassette und Diskette. In den USA brachte Mindscape das Spiel unter dem Titel „Blockbuster“ heraus. Später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Steve Snake",
+    "en": "Breakout variant in which a bat at the bottom of the screen steers a ball against walls of bricks. Falling tokens are collected and exchanged for power-ups chosen by the player, such as a wider bat, multiple balls or shots. The game has 80 levels, and an editor allows players to design their own.\n\nImpact first appeared on the Amiga in 1987; the C64 version followed in 1988 on tape and disk. In the USA Mindscape released the game under the title \"Blockbuster\". A OneLoad64 cartridge conversion was made later. Control by joystick.\n\nCode: Steve Snake"
+  },
+  "images": {
+    "ss": "images/49/49f321eff842b969a09cd3dd56b18bbe1f74af2b.png",
+    "sstitle": "images/cb/cb7cff22fa74b2fb23be422852cc21a9c1531c40.png"
+  }
+}

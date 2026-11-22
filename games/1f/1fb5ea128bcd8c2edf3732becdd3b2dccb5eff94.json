@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "1fb5ea128bcd8c2edf3732becdd3b2dccb5eff94",
+  "md5": "cfb5e1ea5b8b34f37b1bf77cc431b8c3",
+  "crc32": "a789b577",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ECHELON0.D64"
+  ],
+  "screenscraper_id": "36841",
+  "title": "Echelon",
+  "year": "1987",
+  "publisher": "Access Software",
+  "developer": "Access Software (Bruce Carver, Roger Carver, Brent Erickson)",
+  "genres": [
+    "Simulation",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Echelon ist eine 3D-Weltraumflugsimulation. Als Pilot eines Raumschiffs patrouilliert man in einem Sektor des Alls, bekämpft Piraten in Vektorgrafik-Gefechten, erkundet Planetenoberflächen und sucht nach Hinweisen auf den Stützpunkt der Piraten. Neben dem Kampf spielen Navigation, Sensoren und die Bedienung der Bordsysteme eine große Rolle.\n\nDas Spiel kam auf zwei Disketten heraus. In den USA lag der C64-Fassung das Headset „LipStik“ bei, das in den Joystick-Port gesteckt wird und auf Geräusche reagiert; es dient im Spiel als Ersatz für den Feuerknopf. Gesteuert wird ansonsten mit Joystick (Port 2) und Tastatur.\n\nCode: Bruce Carver, Roger Carver, Brent Erickson · Grafik: Douglas Vandegrift",
+  "texts": {
+    "de": "Echelon ist eine 3D-Weltraumflugsimulation. Als Pilot eines Raumschiffs patrouilliert man in einem Sektor des Alls, bekämpft Piraten in Vektorgrafik-Gefechten, erkundet Planetenoberflächen und sucht nach Hinweisen auf den Stützpunkt der Piraten. Neben dem Kampf spielen Navigation, Sensoren und die Bedienung der Bordsysteme eine große Rolle.\n\nDas Spiel kam auf zwei Disketten heraus. In den USA lag der C64-Fassung das Headset „LipStik“ bei, das in den Joystick-Port gesteckt wird und auf Geräusche reagiert; es dient im Spiel als Ersatz für den Feuerknopf. Gesteuert wird ansonsten mit Joystick (Port 2) und Tastatur.\n\nCode: Bruce Carver, Roger Carver, Brent Erickson · Grafik: Douglas Vandegrift",
+    "en": "Echelon is a 3D space flight simulation. As the pilot of a spacecraft, the player patrols a sector of space, fights pirates in vector-graphics dogfights, explores planet surfaces and searches for clues to the pirates' base. Besides combat, navigation, sensors and operating the ship's systems play a major part.\n\nThe game was released on two disks. In the US the C64 version came with the \"LipStik\" headset, which plugs into the joystick port and reacts to sound; in the game it serves as a substitute for the fire button. Otherwise the game is controlled with joystick (port 2) and keyboard.\n\nCode: Bruce Carver, Roger Carver, Brent Erickson · Graphics: Douglas Vandegrift"
+  },
+  "images": {
+    "ss": "images/43/4363c70fac65ae8d31dae15eae44e299af955c99.png",
+    "sstitle": "images/f6/f6c48a8aa653b9d0e44bca7639f4b19431c9d3f7.png"
+  }
+}

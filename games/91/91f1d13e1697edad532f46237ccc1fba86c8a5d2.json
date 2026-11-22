@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "91f1d13e1697edad532f46237ccc1fba86c8a5d2",
+  "md5": "fd238f4c42997bda00be8642867da564",
+  "crc32": "206aaa6e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "MOONMIST.D64"
+  ],
+  "screenscraper_id": "36375",
+  "title": "Moonmist",
+  "year": "1986",
+  "publisher": "Infocom",
+  "developer": "Infocom (Stu Galley, Jim Lawrence)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Moonmist ist ein Krimi-Textabenteuer auf der Einstiegsstufe von Infocom. Auf Einladung einer Freundin reist man nach Tresyllian Castle in Cornwall, wo angeblich ein Geist umgeht. Es gilt herauszufinden, wer hinter dem Spuk steckt, und einen versteckten Schatz zu finden. Je nach gewählter Lieblingsfarbe zu Beginn gibt es vier Varianten mit unterschiedlichem Täter und Schatzversteck.\n\nDas Spiel erschien auf Diskette und läuft mit dem Infocom-Interpreter. Gesteuert wird ausschließlich über die Tastatur mit englischen Eingaben; Spielstände lassen sich speichern.\n\nCode: Stu Galley, Jim Lawrence",
+  "texts": {
+    "de": "Moonmist ist ein Krimi-Textabenteuer auf der Einstiegsstufe von Infocom. Auf Einladung einer Freundin reist man nach Tresyllian Castle in Cornwall, wo angeblich ein Geist umgeht. Es gilt herauszufinden, wer hinter dem Spuk steckt, und einen versteckten Schatz zu finden. Je nach gewählter Lieblingsfarbe zu Beginn gibt es vier Varianten mit unterschiedlichem Täter und Schatzversteck.\n\nDas Spiel erschien auf Diskette und läuft mit dem Infocom-Interpreter. Gesteuert wird ausschließlich über die Tastatur mit englischen Eingaben; Spielstände lassen sich speichern.\n\nCode: Stu Galley, Jim Lawrence",
+    "en": "Moonmist is a mystery text adventure at Infocom's introductory level. Invited by a friend, the player travels to Tresyllian Castle in Cornwall, which is said to be haunted. The task is to find out who is behind the haunting and to locate a hidden treasure. Depending on the favourite colour chosen at the start, there are four variants with different culprits and treasure hiding places.\n\nThe game was released on disk and runs on the Infocom interpreter. It is controlled by keyboard only with English input; saved games can be stored.\n\nCode: Stu Galley, Jim Lawrence"
+  },
+  "images": {
+    "ss": "images/ab/ab85f0a6e41c3fbcd6f5f1f95c21d27dba5b901f.png",
+    "sstitle": "images/1f/1f246acee1e2f41fde0a31aee6208e71c8d74b8e.png"
+  }
+}

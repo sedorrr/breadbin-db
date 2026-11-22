@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "04a34f756a6176cc0bdf600eea34eec43bf28a58",
+  "md5": "bf698856fa3ec6c72ef3665bf70a21b8",
+  "crc32": "075e3b7d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "WRATHOD1.D64"
+  ],
+  "screenscraper_id": "110102",
+  "title": "Wrath of the Demon",
+  "year": "1991",
+  "publisher": "ReadySoft",
+  "developer": "Abstrax (C64-Umsetzung: Steven Douglas)",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Ein Held zieht aus, um ein Königreich von einem Dämon zu befreien, der es mit seinen Kreaturen beherrscht. Das Spiel wechselt zwischen Ritten zu Pferd durch seitlich scrollende Landschaften, in denen Hindernissen ausgewichen werden muss, und Abschnitten zu Fuß mit Schwertkämpfen gegen Monster und Zwischengegner. Die Landschaften nutzen mehrere Ebenen von Parallax-Scrolling.\n\nDie C64-Fassung erschien nach den Fassungen für Amiga, Atari ST und PC und belegt mehrere Diskettenseiten; die Abschnitte werden nachgeladen. Später entstanden EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 1.\n\nCode: Steven Douglas · Grafik: Jorge Freitas (Umsetzung) · Musik: David Whittaker",
+  "texts": {
+    "de": "Ein Held zieht aus, um ein Königreich von einem Dämon zu befreien, der es mit seinen Kreaturen beherrscht. Das Spiel wechselt zwischen Ritten zu Pferd durch seitlich scrollende Landschaften, in denen Hindernissen ausgewichen werden muss, und Abschnitten zu Fuß mit Schwertkämpfen gegen Monster und Zwischengegner. Die Landschaften nutzen mehrere Ebenen von Parallax-Scrolling.\n\nDie C64-Fassung erschien nach den Fassungen für Amiga, Atari ST und PC und belegt mehrere Diskettenseiten; die Abschnitte werden nachgeladen. Später entstanden EasyFlash-Modulumsetzungen. Gesteuert wird per Joystick in Port 1.\n\nCode: Steven Douglas · Grafik: Jorge Freitas (Umsetzung) · Musik: David Whittaker",
+    "en": "A hero sets out to free a kingdom from a demon that rules it with its creatures. The game alternates between horseback rides through side-scrolling landscapes, where obstacles must be avoided, and sections on foot with sword fights against monsters and bosses. The landscapes use several layers of parallax scrolling.\n\nThe C64 version was released after the Amiga, Atari ST and PC versions and spans several disk sides; sections are loaded as needed. EasyFlash cartridge conversions were made later. Control is by joystick in port 1.\n\nCode: Steven Douglas · Graphics: Jorge Freitas (conversion) · Music: David Whittaker"
+  },
+  "images": {
+    "ss": "images/51/5135e3013dcd5bcb3ab4f49c5d1a6b67c1de6bc8.png",
+    "sstitle": "images/a4/a4133e594365a81404f02cf0d83a92c9368c93b3.png"
+  }
+}

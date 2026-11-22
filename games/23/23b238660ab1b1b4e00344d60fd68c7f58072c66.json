@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "23b238660ab1b1b4e00344d60fd68c7f58072c66",
+  "md5": "a615de8b765fb92452745fee67a190f6",
+  "crc32": "3d76c56a",
+  "size": 31433,
+  "format": "PRG",
+  "files": [
+    "Toy Bizarre (J1).prg"
+  ],
+  "screenscraper_id": "110279",
+  "title": "Toy Bizarre",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Activision",
+  "genres": [
+    "Plattform",
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Der Wachmann Merton arbeitet nachts in einer Spielzeugfabrik, in der die Maschinen außer Kontrolle geraten sind. Auf mehreren Plattformen steigen Ballons aus Ventilen auf, die er durch Springen platzen lassen und durch Schließen der Ventile stoppen muss. Lässt er Ballons zu lange schweben, verwandeln sie sich in feindliche Spielzeuge, die ihn jagen. Ein Gegenspieler öffnet die Ventile immer wieder; jede Schicht endet nach Ablauf der Zeit.\n\nVon Activision auf Kassette, Diskette und als Steckmodul veröffentlicht; später als OneLoad64-Modulumsetzung und Einzeldatei verbreitet. Steuerung per Joystick in Port 1.\n\nCode: Mark Turmell · Musik: Russell Lieblich",
+  "texts": {
+    "de": "Der Wachmann Merton arbeitet nachts in einer Spielzeugfabrik, in der die Maschinen außer Kontrolle geraten sind. Auf mehreren Plattformen steigen Ballons aus Ventilen auf, die er durch Springen platzen lassen und durch Schließen der Ventile stoppen muss. Lässt er Ballons zu lange schweben, verwandeln sie sich in feindliche Spielzeuge, die ihn jagen. Ein Gegenspieler öffnet die Ventile immer wieder; jede Schicht endet nach Ablauf der Zeit.\n\nVon Activision auf Kassette, Diskette und als Steckmodul veröffentlicht; später als OneLoad64-Modulumsetzung und Einzeldatei verbreitet. Steuerung per Joystick in Port 1.\n\nCode: Mark Turmell · Musik: Russell Lieblich",
+    "en": "Merton, a night watchman in a toy factory, has to deal with machines that have run amok. On several platforms balloons rise from valves; he must pop them by jumping and shut the valves to stop them. If balloons float too long they turn into hostile toys that chase him. An opponent keeps reopening the valves, and each shift ends when time runs out.\n\nPublished by Activision on cassette, disk and cartridge; later circulated as a OneLoad64 cartridge conversion and as a single file. Joystick in port 1.\n\nCode: Mark Turmell · Music: Russell Lieblich"
+  },
+  "images": {
+    "ss": "images/84/84d9f78ab195e876203cba10cf8243489e21721f.png",
+    "sstitle": "images/89/8938eef7171d14fdbbd6b7c6b62ab541095351c0.png"
+  }
+}

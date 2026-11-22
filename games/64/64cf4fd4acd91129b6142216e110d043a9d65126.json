@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "64cf4fd4acd91129b6142216e110d043a9d65126",
+  "md5": "4957ee6137c1386d420f559b16c94f28",
+  "crc32": "97a7a5ae",
+  "size": 139600,
+  "format": "CRT",
+  "files": [
+    "Mr. Heli.crt"
+  ],
+  "screenscraper_id": "36464",
+  "title": "Mr. Heli",
+  "year": "1989",
+  "publisher": "Firebird",
+  "developer": "Probe Software",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Irem-Automaten von 1987. Der kleine Kampfhubschrauber Mr. Heli fliegt oder läuft durch seitlich und senkrecht scrollende Höhlenabschnitte, schießt Gegner ab und zerstört Felsen. Dabei freigelegte Kristalle dienen als Zahlungsmittel für Verbesserungen wie stärkere Schüsse oder Raketen. Am Ende der Abschnitte warten Zwischengegner.\n\nDie C64-Fassung entwickelte Probe Software für Firebird; sie erschien auf Kassette und Diskette und lädt die Abschnitte nach. Später entstanden EasyFlash-Umsetzungen (Disk2EasyFlash und MultiLoad64 von $olo1870). Steuerung per Joystick.\n\nCode: Mark Kelly · Grafik: Steve Crow · Musik: Charles Deenen",
+  "texts": {
+    "de": "Umsetzung des Irem-Automaten von 1987. Der kleine Kampfhubschrauber Mr. Heli fliegt oder läuft durch seitlich und senkrecht scrollende Höhlenabschnitte, schießt Gegner ab und zerstört Felsen. Dabei freigelegte Kristalle dienen als Zahlungsmittel für Verbesserungen wie stärkere Schüsse oder Raketen. Am Ende der Abschnitte warten Zwischengegner.\n\nDie C64-Fassung entwickelte Probe Software für Firebird; sie erschien auf Kassette und Diskette und lädt die Abschnitte nach. Später entstanden EasyFlash-Umsetzungen (Disk2EasyFlash und MultiLoad64 von $olo1870). Steuerung per Joystick.\n\nCode: Mark Kelly · Grafik: Steve Crow · Musik: Charles Deenen",
+    "en": "Conversion of Irem's 1987 arcade game. The small combat helicopter Mr. Heli flies or walks through cave sections that scroll horizontally and vertically, shooting enemies and destroying rock. Crystals uncovered in the process serve as currency for upgrades such as stronger shots or missiles. Bosses wait at the end of the sections.\n\nProbe Software developed the C64 version for Firebird; it was released on tape and disk and loads the sections as needed. EasyFlash conversions were made later (Disk2EasyFlash and MultiLoad64 by $olo1870). Control by joystick.\n\nCode: Mark Kelly · Graphics: Steve Crow · Music: Charles Deenen"
+  },
+  "images": {
+    "ss": "images/f6/f6eeedef6b4e8194d4f91ae2994cf12a4f7d62a1.png",
+    "sstitle": "images/55/55282a45b13130b3ea6168e2287211667bca8725.png"
+  }
+}

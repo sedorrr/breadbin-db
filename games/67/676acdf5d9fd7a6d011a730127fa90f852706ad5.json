@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "676acdf5d9fd7a6d011a730127fa90f852706ad5",
+  "md5": "94f78ff0a75aed11c19857b534a3d684",
+  "crc32": "ac0f3f02",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Marauder.crt"
+  ],
+  "screenscraper_id": "36788",
+  "title": "Marauder",
+  "year": "1988",
+  "publisher": "Hewson Consultants",
+  "developer": "Arcanum Software Developments",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Ein Kampffahrzeug fährt über eine senkrecht scrollende Planetenoberfläche, um die Schätze eines feindlichen Planeten zu erbeuten. Geschütztürme, Flugobjekte und Hindernisse greifen aus allen Richtungen an. Wer einen Farbwechsler trifft, erhält je nach aktueller Farbe einen Bonus, etwa Zusatzwaffen oder Punkte. Alle 20 000 Punkte gibt es ein weiteres Fahrzeug.\n\nErschienen auf Kassette und Diskette; später als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet. Gesteuert wird mit dem Joystick, die Musik lässt sich mit F1 gegen Soundeffekte tauschen.\n\nCode: Robert McGowan, Mark Kelly · Grafik: Steven Crow · Musik: Barry Leitch",
+  "texts": {
+    "de": "Ein Kampffahrzeug fährt über eine senkrecht scrollende Planetenoberfläche, um die Schätze eines feindlichen Planeten zu erbeuten. Geschütztürme, Flugobjekte und Hindernisse greifen aus allen Richtungen an. Wer einen Farbwechsler trifft, erhält je nach aktueller Farbe einen Bonus, etwa Zusatzwaffen oder Punkte. Alle 20 000 Punkte gibt es ein weiteres Fahrzeug.\n\nErschienen auf Kassette und Diskette; später als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet. Gesteuert wird mit dem Joystick, die Musik lässt sich mit F1 gegen Soundeffekte tauschen.\n\nCode: Robert McGowan, Mark Kelly · Grafik: Steven Crow · Musik: Barry Leitch",
+    "en": "An armed vehicle drives across a vertically scrolling planet surface to seize the treasures of a hostile world. Gun turrets, flying craft and obstacles attack from all sides. Shooting a colour changer awards a bonus that depends on its current colour, such as extra weapons or points. An extra vehicle is granted every 20,000 points.\n\nReleased on cassette and disk; later circulated as a OneLoad64 cartridge conversion and as a single file. It is played with a joystick, and F1 switches between music and sound effects.\n\nCode: Robert McGowan, Mark Kelly · Graphics: Steven Crow · Music: Barry Leitch"
+  },
+  "images": {
+    "ss": "images/35/359ef7801555ba1f6b75daa9ea2e4505b9b6b277.png",
+    "sstitle": "images/f8/f852e60cc213ea895d450126e239767683940352.png"
+  }
+}

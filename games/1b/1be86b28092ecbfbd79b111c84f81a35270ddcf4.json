@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1be86b28092ecbfbd79b111c84f81a35270ddcf4",
+  "md5": "dc02712dcd820aabbcba05f674f1bcf8",
+  "crc32": "b0059822",
+  "size": 430606,
+  "format": "TAP",
+  "files": [
+    "Mermaid Madness (Version 3).tap"
+  ],
+  "screenscraper_id": "115148",
+  "title": "Mermaid Madness",
+  "year": "1986",
+  "publisher": "Electric Dreams Software",
+  "developer": "Richard Kay (Soft Design)",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "In diesem Action-Adventure schwimmt die Meerjungfrau Myrtle durch eine Unterwasserwelt, um den Taucher Gordon zu retten, der in einem Schiffswrack feststeckt. Dabei muss sie Meeresbewohnern ausweichen und gefundene Gegenstände an den passenden Stellen einsetzen; manche Bereiche müssen erst freigesprengt werden. Ein Luftvorrat des Tauchers läuft ab und setzt das Zeitlimit.\n\nDas Spiel erschien bei Electric Dreams (Activision) und später als Budget-Titel bei Firebird. Gesteuert wird mit dem Joystick in Port 2; der Feuerknopf nimmt Gegenstände auf oder legt sie ab. Neben Kassetten- und Diskettenfassungen gibt es Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Richard Kay · Grafik: Wayne Blake · Musik: Fred Gray",
+  "texts": {
+    "de": "In diesem Action-Adventure schwimmt die Meerjungfrau Myrtle durch eine Unterwasserwelt, um den Taucher Gordon zu retten, der in einem Schiffswrack feststeckt. Dabei muss sie Meeresbewohnern ausweichen und gefundene Gegenstände an den passenden Stellen einsetzen; manche Bereiche müssen erst freigesprengt werden. Ein Luftvorrat des Tauchers läuft ab und setzt das Zeitlimit.\n\nDas Spiel erschien bei Electric Dreams (Activision) und später als Budget-Titel bei Firebird. Gesteuert wird mit dem Joystick in Port 2; der Feuerknopf nimmt Gegenstände auf oder legt sie ab. Neben Kassetten- und Diskettenfassungen gibt es Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Richard Kay · Grafik: Wayne Blake · Musik: Fred Gray",
+    "en": "In this action adventure, the mermaid Myrtle swims through an underwater world to rescue the diver Gordon, who is trapped in a shipwreck. She has to avoid sea creatures and use items she finds at the right places; some areas first have to be blasted open. The diver's air supply runs down and sets the time limit.\n\nThe game was published by Electric Dreams (Activision) and later re-released as a budget title by Firebird. It is controlled with a joystick in port 2; the fire button picks up or drops items. Besides cassette and disk versions there are cartridge conversions (OneLoad64) and single-file versions.\n\nCode: Richard Kay · Graphics: Wayne Blake · Music: Fred Gray"
+  },
+  "images": {
+    "ss": "images/c7/c74afbe927d6143ffc3b75e6fe94038ec6b309cb.png",
+    "sstitle": "images/83/837618ce19111e42415deef3be3848332918fee5.png"
+  }
+}

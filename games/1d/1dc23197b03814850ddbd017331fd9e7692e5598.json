@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "1dc23197b03814850ddbd017331fd9e7692e5598",
+  "md5": "4ce2b99b66b60e56b5cb9e18fd87d5e2",
+  "crc32": "0e6605fa",
+  "size": 28092,
+  "format": "T64",
+  "files": [
+    "DELIVER1.T64"
+  ],
+  "screenscraper_id": "111544",
+  "title": "Deliverance",
+  "year": "1987",
+  "publisher": "The Power House",
+  "developer": "Andy Jervis",
+  "genres": [
+    "Plattform / Jump 'n' Run"
+  ],
+  "players": "1-2",
+  "synopsis": "Die beiden Roboter Jim und Bob ziehen durch mehrere Abschnitte voller Plattformen und Monster, um eine Prinzessin zu befreien. Die Spielfelder scrollen, unterwegs werden Gegner abgeschossen und Hindernisse überwunden. Zwei Spieler können gleichzeitig antreten, jeder steuert einen der Roboter.\n\nDas Spiel erschien 1987 auf Kassette beim Budget-Label The Power House (vormals Alpha Omega). Es hat nichts mit „Deliverance: Stormlord II“ (Hewson, 1990) zu tun. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Andy Jervis · Grafik: Andy Jervis · Musik: Andy Jervis",
+  "texts": {
+    "de": "Die beiden Roboter Jim und Bob ziehen durch mehrere Abschnitte voller Plattformen und Monster, um eine Prinzessin zu befreien. Die Spielfelder scrollen, unterwegs werden Gegner abgeschossen und Hindernisse überwunden. Zwei Spieler können gleichzeitig antreten, jeder steuert einen der Roboter.\n\nDas Spiel erschien 1987 auf Kassette beim Budget-Label The Power House (vormals Alpha Omega). Es hat nichts mit „Deliverance: Stormlord II“ (Hewson, 1990) zu tun. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Andy Jervis · Grafik: Andy Jervis · Musik: Andy Jervis",
+    "en": "The two robots Jim and Bob travel through several stages full of platforms and monsters to free a princess. The play areas scroll, and enemies are shot and obstacles overcome along the way. Two players can play simultaneously, each controlling one of the robots.\n\nThe game was released in 1987 on cassette by the budget label The Power House (formerly Alpha Omega). It is unrelated to \"Deliverance: Stormlord II\" (Hewson, 1990). It is controlled with a joystick. Cartridge conversions (OneLoad64) and single-file versions exist.\n\nCode: Andy Jervis · Graphics: Andy Jervis · Music: Andy Jervis"
+  },
+  "images": {
+    "ss": "images/46/46226d9aa69b38e121a64f4cade36dccf7c24e6e.png",
+    "sstitle": "images/9a/9abf67274baee7a7c8be9a1cc71c040dde3b6999.png"
+  }
+}

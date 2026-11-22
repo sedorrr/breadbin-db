@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "65177745d4617b926d9135df9ad7449c2415a1f1",
+  "md5": "c737cf99fdf6a0621d48dc283efdd765",
+  "crc32": "7a7573d1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DRAGSPIR.D64"
+  ],
+  "screenscraper_id": "111724",
+  "title": "Dragon Spirit",
+  "year": "1989",
+  "publisher": "Domark",
+  "developer": "Consult Software",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Namco-Automaten von 1987: Ein Drache fliegt über senkrecht scrollende Landschaften und bekämpft Gegner in der Luft mit Feueratem und Ziele am Boden mit Bomben. Eingesammelte Kristalle stärken den Feuerstoß, zusätzliche Köpfe (bis zu drei) vergrößern die Feuerkraft, andere Gegenstände verkleinern oder heilen den Drachen. Am Ende jedes Abschnitts wartet ein Endgegner.\n\nIn Europa von Domark unter dem Tengen-Zeichen veröffentlicht, auf Kassette und Diskette. Steuerung per Joystick. Zur Verbreitung gehören auch EasyFlash-Modulumsetzungen der Diskettenfassung.\n\nCode: Keith A. Purkiss · Grafik: Paul Johnson · Musik: Dave Kelly",
+  "texts": {
+    "de": "Umsetzung des Namco-Automaten von 1987: Ein Drache fliegt über senkrecht scrollende Landschaften und bekämpft Gegner in der Luft mit Feueratem und Ziele am Boden mit Bomben. Eingesammelte Kristalle stärken den Feuerstoß, zusätzliche Köpfe (bis zu drei) vergrößern die Feuerkraft, andere Gegenstände verkleinern oder heilen den Drachen. Am Ende jedes Abschnitts wartet ein Endgegner.\n\nIn Europa von Domark unter dem Tengen-Zeichen veröffentlicht, auf Kassette und Diskette. Steuerung per Joystick. Zur Verbreitung gehören auch EasyFlash-Modulumsetzungen der Diskettenfassung.\n\nCode: Keith A. Purkiss · Grafik: Paul Johnson · Musik: Dave Kelly",
+    "en": "A conversion of Namco's 1987 arcade game: a dragon flies over vertically scrolling landscapes, fighting airborne enemies with fire breath and ground targets with bombs. Collected crystals power up the breath, extra heads (up to three) increase firepower, and other items shrink or heal the dragon. Each stage ends with a boss.\n\nPublished in Europe by Domark under the Tengen label on cassette and disk. Joystick controlled. EasyFlash cartridge conversions of the disk version also circulate.\n\nCode: Keith A. Purkiss · Graphics: Paul Johnson · Music: Dave Kelly"
+  },
+  "images": {
+    "ss": "images/ac/acd8c3c0355944c017ce3aa14aad3e5fccbec644.png",
+    "sstitle": "images/bf/bf3f869665e2790a307c82d6ea9c6c90915d954a.png"
+  }
+}

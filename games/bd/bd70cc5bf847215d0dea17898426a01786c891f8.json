@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "bd70cc5bf847215d0dea17898426a01786c891f8",
+  "md5": "1f8ce6b8d12d6d16504779955bb88a4a",
+  "crc32": "0495e91e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SWIV.D64"
+  ],
+  "screenscraper_id": "36043",
+  "title": "SWIV",
+  "year": "1991",
+  "publisher": "Storm",
+  "developer": "The Sales Curve",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein senkrecht scrollendes Ballerspiel, Nachfolger von Silkworm. Zu Beginn wählt der Spieler zwischen Hubschrauber und Jeep; zu zweit sind beide Fahrzeuge gleichzeitig im Einsatz. Manche Gegner hinterlassen Schilde, die kurz unverwundbar machen oder gezündet alle Feinde auf dem Bildschirm vernichten. Besiegte Endgegner verbessern die nach vorn feuernde Waffe.\n\nSWIV erschien 1991 beim Label Storm der Sales Curve für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt EasyFlash-Umsetzungen, darunter die MultiLoad64-Fassung von $olo1870.\n\nCode: Robert Henderson · Grafik: Robert Whitaker, Paul Rogers · Musik: Martin Walker",
+  "texts": {
+    "de": "Ein senkrecht scrollendes Ballerspiel, Nachfolger von Silkworm. Zu Beginn wählt der Spieler zwischen Hubschrauber und Jeep; zu zweit sind beide Fahrzeuge gleichzeitig im Einsatz. Manche Gegner hinterlassen Schilde, die kurz unverwundbar machen oder gezündet alle Feinde auf dem Bildschirm vernichten. Besiegte Endgegner verbessern die nach vorn feuernde Waffe.\n\nSWIV erschien 1991 beim Label Storm der Sales Curve für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt EasyFlash-Umsetzungen, darunter die MultiLoad64-Fassung von $olo1870.\n\nCode: Robert Henderson · Grafik: Robert Whitaker, Paul Rogers · Musik: Martin Walker",
+    "en": "A vertically scrolling shooter and successor to Silkworm. At the start, the player chooses between a helicopter and a jeep; with two players, both vehicles are in action at the same time. Some enemies leave shields that grant brief invincibility or, when detonated, destroy all enemies on screen. Defeated bosses upgrade the forward-firing gun.\n\nSWIV was released in 1991 on The Sales Curve's Storm label for several home computers; on the C64 it came on cassette and disk. It is controlled with a joystick. EasyFlash conversions exist, including the MultiLoad64 version by $olo1870.\n\nCode: Robert Henderson · Graphics: Robert Whitaker, Paul Rogers · Music: Martin Walker"
+  },
+  "images": {
+    "ss": "images/9b/9b8e2ae7a907ac7f0381785441a828ad5c6dc187.png",
+    "sstitle": "images/25/256060064f94fde6b302473321603ebe969c1613.png"
+  }
+}

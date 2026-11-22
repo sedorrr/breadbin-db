@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "76437bc8692715f714115b198a7d954a0868e2ff",
+  "md5": "f4977dc38f2977f9834e3c5bd6a18f9f",
+  "crc32": "98e9c28f",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Fernandez Must Die.crt"
+  ],
+  "screenscraper_id": "36726",
+  "title": "Fernandez Must Die",
+  "year": "1988",
+  "publisher": "Image Works",
+  "developer": "Tony Crowther, David Bishop",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Von oben gesehenes Actionspiel im Stil von „Commando“: Ein Soldat kämpft sich durch das Land des Diktators Fernandez, um ihn zu stürzen. Unterwegs lassen sich Jeeps übernehmen. Zu zweit spielen beide gleichzeitig; steigen sie in einen Jeep, lenkt der erste, während der zweite ein schwenkbares Maschinengewehr bedient.\n\nDas Spiel gehörte zu den ersten Veröffentlichungen von Image Works, dem Label von Mirrorsoft, und erschien auf Kassette und Diskette; später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Tony Crowther, David Bishop · Grafik: Tony Crowther, David Bishop · Musik: Tony Crowther",
+  "texts": {
+    "de": "Von oben gesehenes Actionspiel im Stil von „Commando“: Ein Soldat kämpft sich durch das Land des Diktators Fernandez, um ihn zu stürzen. Unterwegs lassen sich Jeeps übernehmen. Zu zweit spielen beide gleichzeitig; steigen sie in einen Jeep, lenkt der erste, während der zweite ein schwenkbares Maschinengewehr bedient.\n\nDas Spiel gehörte zu den ersten Veröffentlichungen von Image Works, dem Label von Mirrorsoft, und erschien auf Kassette und Diskette; später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Tony Crowther, David Bishop · Grafik: Tony Crowther, David Bishop · Musik: Tony Crowther",
+    "en": "Top-down action game in the style of \"Commando\": a soldier fights his way through the country of the dictator Fernandez in order to overthrow him. Jeeps can be taken over along the way. With two players both play at the same time; when they board a jeep, the first one steers while the second operates a swivelling machine gun.\n\nThe game was one of the first releases from Image Works, Mirrorsoft's label, and came out on tape and disk; a OneLoad64 cartridge conversion was made later. Control by joystick.\n\nCode: Tony Crowther, David Bishop · Graphics: Tony Crowther, David Bishop · Music: Tony Crowther"
+  },
+  "images": {
+    "ss": "images/22/22f3972e501b5b80b2df5200c5a6fee9ae1e9789.png",
+    "sstitle": "images/7f/7f3183784339b0932a4e204c9ca5b9d3d2bf0bad.png"
+  }
+}

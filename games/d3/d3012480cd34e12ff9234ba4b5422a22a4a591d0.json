@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d3012480cd34e12ff9234ba4b5422a22a4a591d0",
+  "md5": "3b448b74e8bcce8176e0c7a96f1bebb4",
+  "crc32": "b1a52c94",
+  "size": 175531,
+  "format": "D64",
+  "files": [
+    "CARMTIM1.D64"
+  ],
+  "screenscraper_id": "36487",
+  "title": "Where in Time Is Carmen Sandiego?",
+  "year": "1990",
+  "publisher": "Brøderbund",
+  "developer": "Brøderbund",
+  "genres": [
+    "Lernspiel",
+    "Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Lern- und Detektivspiel: Als Zeitkadett der Detektei ACME verfolgt der Spieler die Bande von Carmen Sandiego durch verschiedene Epochen der Geschichte, von der Spätantike bis in die 1950er-Jahre. Mit dem „Chronoskimmer“ reist er von Zeit zu Zeit, befragt Zeugen und sammelt Hinweise auf das nächste Ziel und auf Merkmale der Täter. Mit Hilfe eines beiliegenden Nachschlagewerks werden die Hinweise ausgewertet, ein Haftbefehl ausgestellt und der Täter vor Ablauf der Zeit gefasst.\n\nDas Spiel erschien zuerst 1989 für den Apple II, die C64-Fassung 1990 auf mehreren Disketten. Der Packung lag ein Lexikon (New American Desk Encyclopedia) bei. Später entstand eine Disk2EasyFlash-Modulumsetzung. Steuerung per Joystick oder Tastatur.\n\nCode: David Lubar · Grafik: Leila Bronstein, Jenny Martin, Suzie Greene · Musik: Tom Rettig",
+  "texts": {
+    "de": "Lern- und Detektivspiel: Als Zeitkadett der Detektei ACME verfolgt der Spieler die Bande von Carmen Sandiego durch verschiedene Epochen der Geschichte, von der Spätantike bis in die 1950er-Jahre. Mit dem „Chronoskimmer“ reist er von Zeit zu Zeit, befragt Zeugen und sammelt Hinweise auf das nächste Ziel und auf Merkmale der Täter. Mit Hilfe eines beiliegenden Nachschlagewerks werden die Hinweise ausgewertet, ein Haftbefehl ausgestellt und der Täter vor Ablauf der Zeit gefasst.\n\nDas Spiel erschien zuerst 1989 für den Apple II, die C64-Fassung 1990 auf mehreren Disketten. Der Packung lag ein Lexikon (New American Desk Encyclopedia) bei. Später entstand eine Disk2EasyFlash-Modulumsetzung. Steuerung per Joystick oder Tastatur.\n\nCode: David Lubar · Grafik: Leila Bronstein, Jenny Martin, Suzie Greene · Musik: Tom Rettig",
+    "en": "Educational detective game: as a time cadet of the ACME detective agency, the player pursues Carmen Sandiego's gang through different periods of history, from late antiquity to the 1950s. Using the \"Chronoskimmer\", the player travels from era to era, questions witnesses and gathers clues about the next destination and the culprits' traits. With the help of an included reference book the clues are evaluated, a warrant is issued and the culprit is caught before time runs out.\n\nThe game first appeared on the Apple II in 1989; the C64 version followed in 1990 on several disks. The package included an encyclopedia (New American Desk Encyclopedia). A Disk2EasyFlash cartridge conversion was made later. Control by joystick or keyboard.\n\nCode: David Lubar · Graphics: Leila Bronstein, Jenny Martin, Suzie Greene · Music: Tom Rettig"
+  },
+  "images": {
+    "ss": "images/97/973497c22f90e3d8132a5d6f887248023a319c55.png",
+    "sstitle": "images/1a/1aa9b52f6e0bcf6773844c39c819b2cf307c4a2f.png"
+  }
+}

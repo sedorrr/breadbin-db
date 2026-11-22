@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a36b0b139e14cb6e40cab73d02471d5a2234064e",
+  "md5": "f980edd2840bc1e45ac7268bb7e453f2",
+  "crc32": "ef95eb2a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PLUNDERE.D64"
+  ],
+  "screenscraper_id": "36695",
+  "title": "Plundered Hearts",
+  "year": "1987",
+  "publisher": "Infocom",
+  "developer": "Infocom (Amy Briggs)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Plundered Hearts ist ein Textabenteuer im Stil eines Liebesromans und spielt im 17. Jahrhundert in der Karibik. Die Hauptfigur ist eine junge Frau, die zu ihrem erkrankten Vater reisen will und dabei an Bord eines Piratenschiffs gerät. Gemeinsam mit dem Piratenkapitän Nicholas Jamison gilt es, den Vater aus der Gewalt eines Widersachers zu befreien. Die Geschichte wird stärker als in anderen Infocom-Spielen über Handlung und Figuren erzählt.\n\nDas Spiel erschien auf Diskette und läuft mit dem Infocom-Interpreter. Gesteuert wird ausschließlich über die Tastatur mit englischen Eingaben; Spielstände lassen sich speichern.\n\nCode: Amy Briggs",
+  "texts": {
+    "de": "Plundered Hearts ist ein Textabenteuer im Stil eines Liebesromans und spielt im 17. Jahrhundert in der Karibik. Die Hauptfigur ist eine junge Frau, die zu ihrem erkrankten Vater reisen will und dabei an Bord eines Piratenschiffs gerät. Gemeinsam mit dem Piratenkapitän Nicholas Jamison gilt es, den Vater aus der Gewalt eines Widersachers zu befreien. Die Geschichte wird stärker als in anderen Infocom-Spielen über Handlung und Figuren erzählt.\n\nDas Spiel erschien auf Diskette und läuft mit dem Infocom-Interpreter. Gesteuert wird ausschließlich über die Tastatur mit englischen Eingaben; Spielstände lassen sich speichern.\n\nCode: Amy Briggs",
+    "en": "Plundered Hearts is a text adventure in the style of a romance novel, set in the Caribbean in the 17th century. The main character is a young woman who wants to travel to her ailing father and ends up aboard a pirate ship. Together with the pirate captain Nicholas Jamison, she has to free her father from an adversary. The story relies more on plot and characters than most other Infocom games.\n\nThe game was released on disk and runs on the Infocom interpreter. It is controlled by keyboard only with English input; saved games can be stored.\n\nCode: Amy Briggs"
+  },
+  "images": {
+    "ss": "images/8a/8a696232f1698072d4e6db243bc60d62d27504b4.png",
+    "sstitle": "images/96/965396c5a906e7ab77be8205b6e0e2a5f5ead0d4.png"
+  }
+}

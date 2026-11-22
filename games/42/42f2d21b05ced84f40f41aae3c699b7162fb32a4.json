@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "42f2d21b05ced84f40f41aae3c699b7162fb32a4",
+  "md5": "2d0cd841f069f1c33966ce04323fe150",
+  "crc32": "de392e6f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ATOMIX.D64"
+  ],
+  "screenscraper_id": "109730",
+  "title": "Atomix",
+  "year": "1990",
+  "publisher": "Thalion Software",
+  "developer": "Günter Krämer (Softtouch)",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "Puzzlespiel, in dem aus verstreuten Atomen auf einem Gitter mit Wänden ein vorgegebenes Molekül zusammengesetzt wird. Ein ausgewähltes Atom rutscht in die gewählte Richtung, bis es an eine Wand oder ein anderes Atom stößt. Jedes der 30 Rätsel hat ein Zeitlimit, schnelles Lösen bringt mehr Punkte; nach jeweils fünf Rätseln folgt eine Bonusrunde mit Laborflaschen. Zu zweit wird abwechselnd am selben Rätsel gearbeitet.\n\nDie C64-Fassung erschien einige Monate nach den Fassungen für Amiga, Atari ST und PC auf Diskette. Steuerung per Joystick.\n\nCode: Uwe Damm · Grafik: Elroy · Musik: Holger Knipping, Michael Hendriks",
+  "texts": {
+    "de": "Puzzlespiel, in dem aus verstreuten Atomen auf einem Gitter mit Wänden ein vorgegebenes Molekül zusammengesetzt wird. Ein ausgewähltes Atom rutscht in die gewählte Richtung, bis es an eine Wand oder ein anderes Atom stößt. Jedes der 30 Rätsel hat ein Zeitlimit, schnelles Lösen bringt mehr Punkte; nach jeweils fünf Rätseln folgt eine Bonusrunde mit Laborflaschen. Zu zweit wird abwechselnd am selben Rätsel gearbeitet.\n\nDie C64-Fassung erschien einige Monate nach den Fassungen für Amiga, Atari ST und PC auf Diskette. Steuerung per Joystick.\n\nCode: Uwe Damm · Grafik: Elroy · Musik: Holger Knipping, Michael Hendriks",
+    "en": "Puzzle game in which a given molecule has to be assembled from scattered atoms on a grid with walls. A selected atom slides in the chosen direction until it hits a wall or another atom. Each of the 30 puzzles has a time limit, and faster solutions score more points; after every five puzzles comes a bonus round with laboratory flasks. With two players, both take turns on the same puzzle.\n\nThe C64 version was released on disk a few months after the Amiga, Atari ST and PC versions. Control by joystick.\n\nCode: Uwe Damm · Graphics: Elroy · Music: Holger Knipping, Michael Hendriks"
+  },
+  "images": {
+    "ss": "images/e2/e24a32d1b8a17b46476ae04643fe7f36350d841b.png",
+    "sstitle": "images/b0/b08c297a37a125b8636801f203499494314e1438.png"
+  }
+}

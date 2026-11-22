@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "9ae773f4575a40fb986ed53a575e5745f6758433",
+  "md5": "12c0444565bd9a51602f29cf106f2fa0",
+  "crc32": "39d53bb9",
+  "size": 221680,
+  "format": "CRT",
+  "files": [
+    "Black Tiger.crt"
+  ],
+  "screenscraper_id": "36059",
+  "title": "Black Tiger",
+  "year": "1990",
+  "publisher": "U.S. Gold",
+  "developer": "Softworx",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Capcom-Automaten von 1987: Ein Barbar kämpft sich durch acht Abschnitte voller Gegner bis zum jeweiligen Endgegner. Unterwegs befreit er gefangene alte Weise, die Belohnungen geben, und sammelt Münzen (Zenny). Damit kauft er bessere Waffen und Rüstungen, Schlüssel für Schatztruhen und Gegengift.\n\nDie C64-Fassung erschien 1990 bei U.S. Gold auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt EasyFlash-Umsetzungen, darunter die MultiLoad64-Fassung von $olo1870 und eine Disk2EasyFlash-Fassung.",
+  "texts": {
+    "de": "Umsetzung des Capcom-Automaten von 1987: Ein Barbar kämpft sich durch acht Abschnitte voller Gegner bis zum jeweiligen Endgegner. Unterwegs befreit er gefangene alte Weise, die Belohnungen geben, und sammelt Münzen (Zenny). Damit kauft er bessere Waffen und Rüstungen, Schlüssel für Schatztruhen und Gegengift.\n\nDie C64-Fassung erschien 1990 bei U.S. Gold auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt EasyFlash-Umsetzungen, darunter die MultiLoad64-Fassung von $olo1870 und eine Disk2EasyFlash-Fassung.",
+    "en": "A conversion of Capcom's 1987 arcade game: a barbarian fights through eight stages full of enemies up to each stage's boss. Along the way he frees captive old wise men who give rewards, and collects coins (Zenny). These buy better weapons and armour, keys for treasure chests and antidote.\n\nThe C64 version was published by U.S. Gold in 1990 on cassette and disk. It is controlled with a joystick. EasyFlash conversions exist, including the MultiLoad64 version by $olo1870 and a Disk2EasyFlash version."
+  },
+  "images": {
+    "ss": "images/f7/f72c341ed29caab5e7aa09fc07cb350c8a4017c9.png",
+    "sstitle": "images/5f/5f4148b438679f53721a41376dd1aea5b391b14a.png"
+  }
+}

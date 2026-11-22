@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4bf03ef4af241b2e0f64d4363401cf390ee0e3aa",
+  "md5": "82f9dfd5b4940ffad7d40bbd4dc6ce47",
+  "crc32": "6aaff759",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Hard Hat Mack.crt"
+  ],
+  "screenscraper_id": "36089",
+  "title": "Hard Hat Mack",
+  "year": "1983",
+  "publisher": "Electronic Arts",
+  "developer": "Michael Abbot, Matthew Alexander",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Der Bauarbeiter Mack arbeitet sich durch drei Baustellen-Abschnitte: ein Stahlgerüst, eine Baustelle und eine Fabrik. Er muss Träger festnieten, Bauteile einsammeln und Löcher schließen und dabei Kontrolleuren, Vandalen und herabfallenden Gegenständen ausweichen. Nach drei geschafften Abschnitten beginnt eine neue Runde mit höherem Tempo und mehr Gegnern. Es stehen drei Leben zur Verfügung.\n\nDas Spiel erschien zuerst für den Apple II; die C64-Fassung kam 1983 in Nordamerika und 1984 in Europa heraus, auf Diskette und Kassette. Später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Robert C. Campbell (C64)",
+  "texts": {
+    "de": "Der Bauarbeiter Mack arbeitet sich durch drei Baustellen-Abschnitte: ein Stahlgerüst, eine Baustelle und eine Fabrik. Er muss Träger festnieten, Bauteile einsammeln und Löcher schließen und dabei Kontrolleuren, Vandalen und herabfallenden Gegenständen ausweichen. Nach drei geschafften Abschnitten beginnt eine neue Runde mit höherem Tempo und mehr Gegnern. Es stehen drei Leben zur Verfügung.\n\nDas Spiel erschien zuerst für den Apple II; die C64-Fassung kam 1983 in Nordamerika und 1984 in Europa heraus, auf Diskette und Kassette. Später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Robert C. Campbell (C64)",
+    "en": "The construction worker Mack works his way through three building-site stages: a steel framework, a construction site and a factory. He has to rivet girders, collect parts and close gaps while avoiding inspectors, vandals and falling objects. After the three stages a new round begins at a higher speed with more enemies. Three lives are available.\n\nThe game first appeared on the Apple II; the C64 version came out in North America in 1983 and in Europe in 1984, on disk and tape. A OneLoad64 cartridge conversion was made later. Control by joystick.\n\nCode: Robert C. Campbell (C64)"
+  },
+  "images": {
+    "ss": "images/b5/b504bfd4e1ec4bb1822f2a14b349c1ab14533f02.png",
+    "sstitle": "images/85/8501f4ec85445a03d63a411af048b6354db8de48.png"
+  }
+}

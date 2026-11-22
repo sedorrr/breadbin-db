@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "367886c4e8dde5a8dcd0ee771d24f29a0dabd785",
+  "md5": "48e817af0bfd7fbf34f47f6d82fc9929",
+  "crc32": "2f065ef9",
+  "size": 254512,
+  "format": "CRT",
+  "files": [
+    "Shadow Dancer (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36126",
+  "title": "Shadow Dancer",
+  "year": "1991",
+  "publisher": "U.S. Gold",
+  "developer": "Images Design",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Sega-Automaten von 1989: Ein junger Ninja und sein Hund kämpfen gegen eine Terrorgruppe, die in einer Stadt Zeitbomben versteckt hat. In den Abschnitten müssen die Bomben eingesammelt werden; der Hund kann auf Gegner gehetzt werden. Ninja-Magie räumt einmal je Abschnitt den ganzen Bildschirm frei. Am Ende jeder Mission wartet ein Endgegner.\n\nDie Heimcomputer-Fassungen erschienen 1991 bei U.S. Gold, die C64-Fassung entstand bei Images Design und kam auf Kassette und Diskette heraus. Gesteuert wird mit dem Joystick. Es gibt EasyFlash-Umsetzungen (MultiLoad64 von $olo1870).\n\nMusik: Neil Crossley",
+  "texts": {
+    "de": "Umsetzung des Sega-Automaten von 1989: Ein junger Ninja und sein Hund kämpfen gegen eine Terrorgruppe, die in einer Stadt Zeitbomben versteckt hat. In den Abschnitten müssen die Bomben eingesammelt werden; der Hund kann auf Gegner gehetzt werden. Ninja-Magie räumt einmal je Abschnitt den ganzen Bildschirm frei. Am Ende jeder Mission wartet ein Endgegner.\n\nDie Heimcomputer-Fassungen erschienen 1991 bei U.S. Gold, die C64-Fassung entstand bei Images Design und kam auf Kassette und Diskette heraus. Gesteuert wird mit dem Joystick. Es gibt EasyFlash-Umsetzungen (MultiLoad64 von $olo1870).\n\nMusik: Neil Crossley",
+    "en": "A conversion of Sega's 1989 arcade game: a young ninja and his dog fight a terrorist group that has hidden time bombs throughout a city. In the stages the bombs must be collected, and the dog can be sent to attack enemies. Ninja magic clears the whole screen once per stage. A boss awaits at the end of each mission.\n\nThe home computer versions were published by U.S. Gold in 1991; the C64 version was made by Images Design and released on cassette and disk. It is controlled with a joystick. EasyFlash conversions exist (MultiLoad64 by $olo1870).\n\nMusic: Neil Crossley"
+  },
+  "images": {
+    "ss": "images/47/473109e8faaa7b23275177ac7b269f6b147d140a.png",
+    "sstitle": "images/46/4692e9764bebfb72d12786e95ff17251cb55ac78.png"
+  }
+}

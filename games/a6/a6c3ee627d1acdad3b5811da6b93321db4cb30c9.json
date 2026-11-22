@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a6c3ee627d1acdad3b5811da6b93321db4cb30c9",
+  "md5": "6ec123fa26ec3d4bf7ce72a8d0a928df",
+  "crc32": "97a821a8",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Everyone's a Wally.crt"
+  ],
+  "screenscraper_id": "111961",
+  "title": "Everyone's a Wally",
+  "year": "1985",
+  "publisher": "Mikro-Gen",
+  "developer": "Mikro-Gen",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Arcade-Abenteuer aus der Wally-Week-Reihe: In einer Kleinstadt arbeiten fünf Figuren – Wally, Wilma, Tom, Dick und Harry –, zwischen denen jederzeit gewechselt werden kann. Jede Figur hat eigene Fähigkeiten und erledigt bestimmte Reparaturen in der Stadt, wofür passende Gegenstände gefunden und richtig eingesetzt werden müssen. Erledigte Aufgaben liefern Buchstaben eines Codes für den Tresor mit dem Wochenlohn. Die übrigen Figuren gehen in der Zwischenzeit eigene Wege und können Gegenstände mitnehmen.\n\nErschienen auf Kassette (im Paket auch mit einer Audioaufnahme des Titelliedes) und Diskette, auch für ZX Spectrum und Amstrad CPC. Steuerung per Joystick. Später als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet.",
+  "texts": {
+    "de": "Arcade-Abenteuer aus der Wally-Week-Reihe: In einer Kleinstadt arbeiten fünf Figuren – Wally, Wilma, Tom, Dick und Harry –, zwischen denen jederzeit gewechselt werden kann. Jede Figur hat eigene Fähigkeiten und erledigt bestimmte Reparaturen in der Stadt, wofür passende Gegenstände gefunden und richtig eingesetzt werden müssen. Erledigte Aufgaben liefern Buchstaben eines Codes für den Tresor mit dem Wochenlohn. Die übrigen Figuren gehen in der Zwischenzeit eigene Wege und können Gegenstände mitnehmen.\n\nErschienen auf Kassette (im Paket auch mit einer Audioaufnahme des Titelliedes) und Diskette, auch für ZX Spectrum und Amstrad CPC. Steuerung per Joystick. Später als OneLoad64-Modulumsetzung und als Einzeldatei verbreitet.",
+    "en": "An arcade adventure from the Wally Week series: five characters work in a small town – Wally, Wilma, Tom, Dick and Harry – and control can switch between them at any time. Each has particular skills and handles certain repairs around town, which requires finding the right items and using them in the right place. Completed tasks yield letters of a code for the safe holding the week's wages. Meanwhile the other characters wander off on their own and may carry items away.\n\nReleased on cassette (the package also included an audio recording of the title song) and disk, as well as for ZX Spectrum and Amstrad CPC. Joystick controlled. Later circulated as a OneLoad64 cartridge conversion and as a single file."
+  },
+  "images": {
+    "ss": "images/e6/e63c70f609f104729e322fbe3e1cdfb0f9b3af0f.png",
+    "sstitle": "images/64/647e53b799a81b9c2aae39545e0521a98313aadc.png"
+  }
+}

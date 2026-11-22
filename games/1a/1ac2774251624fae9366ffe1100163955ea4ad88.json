@@ -21,5 +21,9 @@
   "texts": {
     "de": "Rundenstrategie um die Eroberung einer Landkarte: Bis zu vier Spieler, auch Computergegner, verteilen Armeen, Pferde, Waffen und Boote auf Gebiete, sammeln Rohstoffe wie Gold, Holz, Eisen und Kohle und bauen Städte. Gekämpft wird nicht per Würfel, sondern nach der Stärke benachbarter Gebiete, sodass Planung und Bündnisse entscheiden. Neben vorgegebenen Karten lassen sich eigene Karten erzeugen oder zeichnen.\n\nDas Spiel beruht auf dem Brettspiel Borderlands und erschien 1986 bei Electronic Arts auf Diskette. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Bill Eberle, Jack Kittredge, Peter Olotka, Ted Schmeckpeper, Trevor Western · Musik: Mark Sutton-Smith",
     "en": "Turn-based strategy about conquering a map: up to four players, including computer opponents, place armies, horses, weapons and boats on territories, gather resources such as gold, timber, iron and coal and build cities. Battles are decided not by dice but by the strength of neighbouring territories, so planning and alliances matter. Besides the predefined maps, players can generate or draw their own.\n\nThe game is based on the board game Borderlands and was released in 1986 by Electronic Arts on disk. It is controlled with a joystick in port 2.\n\nCode: Bill Eberle, Jack Kittredge, Peter Olotka, Ted Schmeckpeper, Trevor Western · Music: Mark Sutton-Smith"
+  },
+  "images": {
+    "ss": "images/1c/1ca52ce5b709be8f08dfced8d761e753764903d9.png",
+    "sstitle": "images/0a/0a530e98f40bcf3ea29ee4144f8a366a0970cd15.png"
   }
 }

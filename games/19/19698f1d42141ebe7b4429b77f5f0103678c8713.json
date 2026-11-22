@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "19698f1d42141ebe7b4429b77f5f0103678c8713",
+  "md5": "6007593f910e97a1eaf79835dbf25b21",
+  "crc32": "c9237c88",
+  "size": 221680,
+  "format": "CRT",
+  "files": [
+    "Last Battle (by $olo1870) [EasyFlash].crt"
+  ],
+  "screenscraper_id": "35926",
+  "title": "Last Battle",
+  "year": "1991",
+  "publisher": "Elite Systems",
+  "developer": "Images Software",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des gleichnamigen Sega-Mega-Drive-Spiels von 1989, das selbst eine abgewandelte Fassung des japanischen „Hokuto no Ken“-Spiels ist. Der Kämpfer Aarzak zieht durch eine verwüstete Welt und besiegt Gegnerhorden mit Schlägen und Tritten. Das Spiel ist in Kapitel mit mehreren Abschnitten gegliedert, die seitlich scrollen oder als Labyrinth aufgebaut sind; am Ende stehen Zweikämpfe gegen Anführer.\n\nDie C64-Fassung entwickelte Images Software für Elite; sie erschien auf Kassette und Diskette und lädt die Abschnitte nach. Die Charakterbilder der Mega-Drive-Fassung fehlen. Später entstand eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Steuerung per Joystick.\n\nCode: Jon Williams · Grafik: Steve Bedser · Musik: Neil Crossley",
+  "texts": {
+    "de": "Umsetzung des gleichnamigen Sega-Mega-Drive-Spiels von 1989, das selbst eine abgewandelte Fassung des japanischen „Hokuto no Ken“-Spiels ist. Der Kämpfer Aarzak zieht durch eine verwüstete Welt und besiegt Gegnerhorden mit Schlägen und Tritten. Das Spiel ist in Kapitel mit mehreren Abschnitten gegliedert, die seitlich scrollen oder als Labyrinth aufgebaut sind; am Ende stehen Zweikämpfe gegen Anführer.\n\nDie C64-Fassung entwickelte Images Software für Elite; sie erschien auf Kassette und Diskette und lädt die Abschnitte nach. Die Charakterbilder der Mega-Drive-Fassung fehlen. Später entstand eine MultiLoad64-EasyFlash-Umsetzung von $olo1870. Steuerung per Joystick.\n\nCode: Jon Williams · Grafik: Steve Bedser · Musik: Neil Crossley",
+    "en": "Conversion of the 1989 Sega Mega Drive game of the same name, itself a modified version of the Japanese \"Hokuto no Ken\" game. The fighter Aarzak travels through a devastated world and defeats hordes of enemies with punches and kicks. The game is divided into chapters with several sections, which either scroll sideways or are laid out as mazes; each ends with one-on-one fights against leaders.\n\nImages Software developed the C64 version for Elite; it was released on tape and disk and loads the sections as needed. The character portraits of the Mega Drive version are missing. A MultiLoad64 EasyFlash conversion by $olo1870 was made later. Control by joystick.\n\nCode: Jon Williams · Graphics: Steve Bedser · Music: Neil Crossley"
+  },
+  "images": {
+    "ss": "images/e2/e2eb030d62c02df82e16d1958415689be4b58f8d.png",
+    "sstitle": "images/c8/c88d9c78578f72111c7c7b6b88e1a27a7fc31e9d.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "9f3977ccb990e04bcf252ccc29374991011eccc3",
+  "md5": "6dca3c3a140232ce7873e840a268f9d6",
+  "crc32": "6ff6bf5c",
+  "size": 26742,
+  "format": "PRG",
+  "files": [
+    "Lightforce.prg"
+  ],
+  "screenscraper_id": "114246",
+  "title": "Lightforce",
+  "year": "1986",
+  "publisher": "Faster Than Light (FTL)",
+  "developer": "Gargoyle Games (Greg Follis, Roy Carter)",
+  "genres": [
+    "Shoot'em Up / Vertikal"
+  ],
+  "players": "1",
+  "synopsis": "Ein senkrecht scrollendes Weltraum-Ballerspiel: Ein einzelner Jäger kämpft sich durch Wellen feindlicher Raumschiffe und Bodenanlagen. Die Abschnitte führen über verschiedene Welten, darunter eine Wasser- und eine Eiswelt, sowie durch den Raum dazwischen. Neben dem Bordlaser stehen Smartbombs zur Verfügung. Nach den vier Abschnitten beginnt der Durchlauf von vorn.\n\nLightforce war das erste Spiel des Gargoyle-Labels Faster Than Light und erschien für C64 und ZX Spectrum auf Kassette und Diskette; später gab es eine Budget-Neuauflage. Gesteuert wird mit dem Joystick oder der Tastatur. Neben den Originalfassungen gibt es Modulumsetzungen (OneLoad64, EasyFlash) und Einzeldatei-Fassungen.\n\nCode: Greg Follis, Roy Carter · Musik: Rob Hubbard",
+  "texts": {
+    "de": "Ein senkrecht scrollendes Weltraum-Ballerspiel: Ein einzelner Jäger kämpft sich durch Wellen feindlicher Raumschiffe und Bodenanlagen. Die Abschnitte führen über verschiedene Welten, darunter eine Wasser- und eine Eiswelt, sowie durch den Raum dazwischen. Neben dem Bordlaser stehen Smartbombs zur Verfügung. Nach den vier Abschnitten beginnt der Durchlauf von vorn.\n\nLightforce war das erste Spiel des Gargoyle-Labels Faster Than Light und erschien für C64 und ZX Spectrum auf Kassette und Diskette; später gab es eine Budget-Neuauflage. Gesteuert wird mit dem Joystick oder der Tastatur. Neben den Originalfassungen gibt es Modulumsetzungen (OneLoad64, EasyFlash) und Einzeldatei-Fassungen.\n\nCode: Greg Follis, Roy Carter · Musik: Rob Hubbard",
+    "en": "A vertically scrolling space shooter in which a single fighter battles through waves of enemy craft and ground installations. The stages lead across different worlds, including a water world and an ice world, as well as the space between them. Besides the ship's laser, smart bombs are available. After the four stages the cycle starts again.\n\nLightforce was the first game on Gargoyle's Faster Than Light label and was released for the C64 and ZX Spectrum on cassette and disk; a budget re-release followed later. It is controlled with a joystick or the keyboard. Besides the original versions there are cartridge conversions (OneLoad64, EasyFlash) and single-file versions.\n\nCode: Greg Follis, Roy Carter · Music: Rob Hubbard"
+  },
+  "images": {
+    "ss": "images/27/2784f5aa40430e0ea4ac64a9509bc6256696d373.png",
+    "sstitle": "images/c0/c007f363d3454aa56f2c72628cfa5c2225fb42e0.png"
+  }
+}

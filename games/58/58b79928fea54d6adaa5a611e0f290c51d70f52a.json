@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "58b79928fea54d6adaa5a611e0f290c51d70f52a",
+  "md5": "86c8e0e00d3e4f2574db6a4cd1420f4d",
+  "crc32": "1747db03",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DIEHARD1.D64"
+  ],
+  "screenscraper_id": "35931",
+  "title": "Die Hard",
+  "year": "1989",
+  "publisher": "Activision",
+  "developer": "Silent Software (Scott T. Etherton, James J. Host)",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Die Hard beruht auf dem gleichnamigen Film von 1988. Als Polizist John McClane bewegt man sich durch das von Terroristen besetzte Hochhaus Nakatomi Plaza, um die Geiseln zu befreien und den Anführer Hans Gruber aufzuhalten. Dabei werden Etagen erkundet, Waffen und Gegenstände eingesammelt und Terroristen im Kampf ausgeschaltet. Die C64-Fassung ist ein eigenständiges Spiel und nicht mit der DOS-Fassung von Dynamix identisch.\n\nDas Spiel erschien auf Diskette und lädt nach. Es gibt EasyFlash-Umsetzungen im Disk2EasyFlash-Verfahren. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Scott T. Etherton, James J. Host · Musik: Scott T. Etherton",
+  "texts": {
+    "de": "Die Hard beruht auf dem gleichnamigen Film von 1988. Als Polizist John McClane bewegt man sich durch das von Terroristen besetzte Hochhaus Nakatomi Plaza, um die Geiseln zu befreien und den Anführer Hans Gruber aufzuhalten. Dabei werden Etagen erkundet, Waffen und Gegenstände eingesammelt und Terroristen im Kampf ausgeschaltet. Die C64-Fassung ist ein eigenständiges Spiel und nicht mit der DOS-Fassung von Dynamix identisch.\n\nDas Spiel erschien auf Diskette und lädt nach. Es gibt EasyFlash-Umsetzungen im Disk2EasyFlash-Verfahren. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Scott T. Etherton, James J. Host · Musik: Scott T. Etherton",
+    "en": "Die Hard is based on the 1988 film of the same name. As police officer John McClane, the player moves through the Nakatomi Plaza tower occupied by terrorists in order to free the hostages and stop their leader Hans Gruber. Floors are explored, weapons and items collected and terrorists taken out in combat. The C64 version is a game in its own right and not the same as Dynamix's DOS version.\n\nThe game was released on disk and loads in parts. There are EasyFlash conversions made with the Disk2EasyFlash method. It is controlled with a joystick in port 2.\n\nCode: Scott T. Etherton, James J. Host · Music: Scott T. Etherton"
+  },
+  "images": {
+    "ss": "images/41/41b10342a3a663562cb886ef89d4c51f59428019.png",
+    "sstitle": "images/19/19a505a4ea78f95a4848fc582a160d7b7e2ad877.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "4ee7897158983e3696ae9e922bef89eedb9ab4d6",
+  "md5": "3d63e8d680409e6f3137986e4dda857d",
+  "crc32": "ca95251b",
+  "size": 552504,
+  "format": "TAP",
+  "files": [
+    "Joe Blade II.tap"
+  ],
+  "screenscraper_id": "36600",
+  "title": "Joe Blade II",
+  "year": "1988",
+  "publisher": "Players Software",
+  "developer": "Colin Swinbourne, Kevin Parker",
+  "genres": [
+    "Action / Abenteuer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Joe Blade ist diesmal kein Soldat, sondern räumt als Ordnungshüter ohne Waffe die Straßen einer Stadt auf. Gegner werden durch Draufspringen ausgeschaltet. Um festgehaltene ältere Menschen zu befreien, muss jeweils ein Symbol-Muster-Rätsel in 60 Sekunden gelöst werden; davon gibt es vier Varianten.\n\nDas Spiel erschien im September 1988 als Budget-Titel auf Kassette, außerdem für viele andere Heimcomputer. Später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Kevin Parker, Sean Ellis · Grafik: Colin Swinbourne · Musik: Mike Brown",
+  "texts": {
+    "de": "Joe Blade ist diesmal kein Soldat, sondern räumt als Ordnungshüter ohne Waffe die Straßen einer Stadt auf. Gegner werden durch Draufspringen ausgeschaltet. Um festgehaltene ältere Menschen zu befreien, muss jeweils ein Symbol-Muster-Rätsel in 60 Sekunden gelöst werden; davon gibt es vier Varianten.\n\nDas Spiel erschien im September 1988 als Budget-Titel auf Kassette, außerdem für viele andere Heimcomputer. Später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Kevin Parker, Sean Ellis · Grafik: Colin Swinbourne · Musik: Mike Brown",
+    "en": "This time Joe Blade is not a soldier but an unarmed vigilante cleaning up the streets of a city. Villains are defeated by jumping on them. To free captive elderly people, a symbol-pattern puzzle has to be solved within 60 seconds each time; there are four variants.\n\nThe game was released in September 1988 as a budget title on tape, and also for many other home computers. A OneLoad64 cartridge conversion was made later. Control by joystick.\n\nCode: Kevin Parker, Sean Ellis · Graphics: Colin Swinbourne · Music: Mike Brown"
+  },
+  "images": {
+    "ss": "images/6d/6d9f4325c0db28a930e1a3a2f566a80e409aeb54.png",
+    "sstitle": "images/d6/d6c1af0b3836bb21c2c5f6e883c2028256ff2956.png"
+  }
+}

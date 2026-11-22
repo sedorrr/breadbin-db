@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "37718d10454e0a6b5a7c482dca96c2222c9c457e",
+  "md5": "eaf109b8a8c104f7970de8b8dacf8fb2",
+  "crc32": "36d0b4f6",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Qix.crt"
+  ],
+  "screenscraper_id": "36301",
+  "title": "Qix",
+  "year": "1989",
+  "publisher": "Taito",
+  "developer": "Alien Technology Group",
+  "genres": [
+    "Arcade",
+    "Geschicklichkeit"
+  ],
+  "players": "1-2",
+  "synopsis": "Qix ist eine Umsetzung des Taito-Automaten von 1981. Ein Marker zieht Linien über ein leeres Spielfeld; schließt sich eine Linie, wird der abgetrennte Bereich ausgefüllt und gilt als erobert. Ziel ist es, einen vorgegebenen Anteil des Felds zu erobern, ohne vom umherwirbelnden Qix berührt zu werden, während die Linie noch offen ist. Funken, die an den Rändern entlanglaufen, sind eine weitere Gefahr. Langsam gezogene Flächen bringen mehr Punkte als schnell gezogene.\n\nDie C64-Fassung erschien 1989 bei Taito auf Diskette. Es gibt eine Modulumsetzung für OneLoad64. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können abwechselnd spielen.\n\nMusik: Tim Follin",
+  "texts": {
+    "de": "Qix ist eine Umsetzung des Taito-Automaten von 1981. Ein Marker zieht Linien über ein leeres Spielfeld; schließt sich eine Linie, wird der abgetrennte Bereich ausgefüllt und gilt als erobert. Ziel ist es, einen vorgegebenen Anteil des Felds zu erobern, ohne vom umherwirbelnden Qix berührt zu werden, während die Linie noch offen ist. Funken, die an den Rändern entlanglaufen, sind eine weitere Gefahr. Langsam gezogene Flächen bringen mehr Punkte als schnell gezogene.\n\nDie C64-Fassung erschien 1989 bei Taito auf Diskette. Es gibt eine Modulumsetzung für OneLoad64. Gesteuert wird mit dem Joystick in Port 2; zwei Spieler können abwechselnd spielen.\n\nMusik: Tim Follin",
+    "en": "Qix is a conversion of Taito's 1981 arcade game. A marker draws lines across an empty playfield; when a line is closed, the enclosed area is filled in and counts as claimed. The goal is to claim a set share of the field without being touched by the swirling Qix while the line is still open. Sparks running along the edges are a further danger. Areas drawn slowly score more points than those drawn quickly.\n\nThe C64 version was released by Taito in 1989 on disk. There is a cartridge conversion for OneLoad64. It is controlled with a joystick in port 2; two players can take turns.\n\nMusic: Tim Follin"
+  },
+  "images": {
+    "ss": "images/23/23f3082bdb621dbb552491b394bb3022929932ea.png",
+    "sstitle": "images/1c/1cae15ee8dd1323317059bb4cf637bc43ad47fd5.png"
+  }
+}

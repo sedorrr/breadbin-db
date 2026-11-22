@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "80e0fd1adb3d8f419ea1adac77d0e54c2491f477",
+  "md5": "fb1b348e61e452343e2a7615740eac16",
+  "crc32": "4efcdf4d",
+  "size": 4456,
+  "format": "PRG",
+  "files": [
+    "clocksolitaire.prg"
+  ],
+  "title": "Clock Solitaire",
+  "year": "2026",
+  "publisher": "_underscore_",
+  "developer": "_underscore_",
+  "genres": [
+    "Kartenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung der Patience „Uhr“ (Clock Solitaire): Die Karten werden wie ein Zifferblatt ausgelegt, und jede aufgedeckte Karte wandert zu der Stunde, die ihrem Rang entspricht – Ass bis Zehn stehen für 1 bis 10 Uhr, Bube für 11, Dame für 12. Könige gehören in die Mitte und sind zu vermeiden. Gewonnen ist die Partie, wenn alle 52 Karten aufgedeckt sind.\n\nPRG-Datei. Bedient wird mit einem Zeiger; das Spiel beginnt mit einem Klick auf den Knopf im Titelbild. Veröffentlicht am 21. November 2026 auf CSDb.\n\nCode: _underscore_ · Grafik: _underscore_ · Zeichensatz: _underscore_",
+  "texts": {
+    "de": "Umsetzung der Patience „Uhr“ (Clock Solitaire): Die Karten werden wie ein Zifferblatt ausgelegt, und jede aufgedeckte Karte wandert zu der Stunde, die ihrem Rang entspricht – Ass bis Zehn stehen für 1 bis 10 Uhr, Bube für 11, Dame für 12. Könige gehören in die Mitte und sind zu vermeiden. Gewonnen ist die Partie, wenn alle 52 Karten aufgedeckt sind.\n\nPRG-Datei. Bedient wird mit einem Zeiger; das Spiel beginnt mit einem Klick auf den Knopf im Titelbild. Veröffentlicht am 21. November 2026 auf CSDb.\n\nCode: _underscore_ · Grafik: _underscore_ · Zeichensatz: _underscore_",
+    "en": "An adaptation of the patience game Clock Solitaire: the cards are laid out like a clock face, and every card that is turned over moves to the hour matching its rank – ace to ten stand for 1 to 10 o'clock, jack for 11, queen for 12. Kings belong in the centre and are best avoided. The game is won once all 52 cards have been turned face up.\n\nPRG file. Played with an on-screen pointer; the game starts with a click on the button on the title screen. Released on CSDb on 21 November 2026.\n\nCode: _underscore_ · Graphics: _underscore_ · Charset: _underscore_"
+  },
+  "images": {
+    "ss": "images/6f/6fe570b467c90894fd993d306282abf353284beb.png",
+    "sstitle": "images/c8/c807c772883e18618a86a3ab35a5c710d13d6c48.png"
+  }
+}

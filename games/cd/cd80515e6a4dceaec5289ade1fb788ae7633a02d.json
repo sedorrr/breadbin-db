@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "cd80515e6a4dceaec5289ade1fb788ae7633a02d",
+  "md5": "9e7bc66253510ff5427428c0fde5bbf8",
+  "crc32": "e5cc55a7",
+  "size": 901544,
+  "format": "TAP",
+  "files": [
+    "Zybex.tap"
+  ],
+  "screenscraper_id": "122122",
+  "title": "Zybex",
+  "year": "1988",
+  "publisher": "Zeppelin Games",
+  "developer": "Kevin Franklin",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1-2",
+  "synopsis": "Ein waagerecht scrollendes Ballerspiel um die Flucht aus einem intergalaktischen Gefängnis. Es gibt 16 Planeten; nach dem ersten Abschnitt Arcturus wählt der Spieler den nächsten aus den freigeschalteten aus, der letzte heißt Zybex. Geschossen wird automatisch, der Feuerknopf wechselt zwischen den Waffen. Gesammelte Symbole verstärken eine Waffe bis Stufe 4, ein Lebensverlust kostet eine Stufe. Zwei Spieler können gleichzeitig spielen.\n\nZybex war eines der ersten Spiele des britischen Budget-Herstellers Zeppelin und erschien für C64, Atari 8-Bit und ZX Spectrum, auf dem C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Kevin Franklin · Grafik: Michael Owens · Musik: Adam Gilmore",
+  "texts": {
+    "de": "Ein waagerecht scrollendes Ballerspiel um die Flucht aus einem intergalaktischen Gefängnis. Es gibt 16 Planeten; nach dem ersten Abschnitt Arcturus wählt der Spieler den nächsten aus den freigeschalteten aus, der letzte heißt Zybex. Geschossen wird automatisch, der Feuerknopf wechselt zwischen den Waffen. Gesammelte Symbole verstärken eine Waffe bis Stufe 4, ein Lebensverlust kostet eine Stufe. Zwei Spieler können gleichzeitig spielen.\n\nZybex war eines der ersten Spiele des britischen Budget-Herstellers Zeppelin und erschien für C64, Atari 8-Bit und ZX Spectrum, auf dem C64 auf Kassette und Diskette. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.\n\nCode: Kevin Franklin · Grafik: Michael Owens · Musik: Adam Gilmore",
+    "en": "A horizontally scrolling shooter about escaping from an intergalactic prison. There are 16 planets; after the first stage, Arcturus, the player chooses the next one from those unlocked, and the last one is called Zybex. Firing is automatic and the fire button switches between weapons. Collected icons power up a weapon to level 4, and losing a life costs one level. Two players can play simultaneously.\n\nZybex was one of the first games from the British budget publisher Zeppelin and was released for the C64, Atari 8-bit and ZX Spectrum; on the C64 it came on cassette and disk. It is controlled with a joystick. Cartridge conversions (OneLoad64) and single-file versions exist.\n\nCode: Kevin Franklin · Graphics: Michael Owens · Music: Adam Gilmore"
+  },
+  "images": {
+    "ss": "images/ff/ff89dd0802bb79152019e1f2a1644fc41ad78aa4.png",
+    "sstitle": "images/65/65db7acadf059490171cb76a3e44c7389c1b2f95.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "4e4d78e57d4940e13c33d10e7e4f3e97d8b79576",
+  "md5": "ac0c8dcecafc7cc640aa167c0352872a",
+  "crc32": "b8cfb30f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "SORCERE2.D64"
+  ],
+  "screenscraper_id": "36730",
+  "title": "Sorcerer",
+  "year": "1984",
+  "publisher": "Infocom",
+  "developer": "Infocom (Steve Meretzky)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Sorcerer ist ein Textabenteuer und der zweite Teil der Enchanter-Trilogie. Als junges Mitglied der Gilde der Zauberer soll man den verschwundenen Gildenmeister Belboz finden, der in die Gewalt eines Dämons geraten ist. Wie im Vorgänger werden Zaubersprüche aus einem Buch gelernt und gezielt angewendet; außerdem gibt es Tränke, die besondere Fähigkeiten verleihen. Eingaben erfolgen in englischen Sätzen über den Infocom-Parser.\n\nDas Spiel erschien auf Diskette und läuft mit dem Infocom-Interpreter. Gesteuert wird ausschließlich über die Tastatur; Spielstände lassen sich auf Diskette speichern.\n\nCode: Steve Meretzky",
+  "texts": {
+    "de": "Sorcerer ist ein Textabenteuer und der zweite Teil der Enchanter-Trilogie. Als junges Mitglied der Gilde der Zauberer soll man den verschwundenen Gildenmeister Belboz finden, der in die Gewalt eines Dämons geraten ist. Wie im Vorgänger werden Zaubersprüche aus einem Buch gelernt und gezielt angewendet; außerdem gibt es Tränke, die besondere Fähigkeiten verleihen. Eingaben erfolgen in englischen Sätzen über den Infocom-Parser.\n\nDas Spiel erschien auf Diskette und läuft mit dem Infocom-Interpreter. Gesteuert wird ausschließlich über die Tastatur; Spielstände lassen sich auf Diskette speichern.\n\nCode: Steve Meretzky",
+    "en": "Sorcerer is a text adventure and the second part of the Enchanter trilogy. As a young member of the Guild of Enchanters, the player has to find the vanished guild leader Belboz, who has fallen into the power of a demon. As in the predecessor, spells are learned from a book and applied deliberately; there are also potions that grant special abilities. Commands are entered as English sentences through the Infocom parser.\n\nThe game was released on disk and runs on the Infocom interpreter. It is controlled by keyboard only; saved games can be stored on disk.\n\nCode: Steve Meretzky"
+  },
+  "images": {
+    "ss": "images/cd/cd3c18a81ba4b5aa46b66cab59893966e3b03c99.png",
+    "sstitle": "images/40/40aeb8d2f1107ca05cfcd0d35e74adbc6d1f71c0.png"
+  }
+}

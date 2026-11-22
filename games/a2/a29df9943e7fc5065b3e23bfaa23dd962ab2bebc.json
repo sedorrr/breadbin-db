@@ -20,5 +20,9 @@
   "texts": {
     "de": "Illustriertes Textadventure im Stil einer viktorianischen Schauergeschichte (Untertitel „Fosdyke's Folly“). Der junge Gentleman Oswald Stanley besucht an einem Sommerabend einen alten Studienfreund; im Lauf der Nacht erwacht ein mörderischer böser Geist. Gesteuert wird mit englischen Textbefehlen: Gegenstände untersuchen, nehmen und gezielt einsetzen, mit Personen reden, ihnen etwas geben oder abnehmen; einen Universalbefehl „USE“ gibt es nicht. Laut Autor nicht für Kinder geeignet.\n\nErstellt mit DAAD Ready, das Spiel gibt es auch für andere Rechner.\n\nCrack-Fassung von Raiders of the Lost Empire vom 3. November 2026 (D64, Version 1.04) mit Forum64-Partyintro und 14-seitiger Doku („+DS“) samt Brief von Oswald als Vorgeschichte. Das Original ist ebenfalls in der Datenbank.",
     "en": "Illustrated text adventure in the style of a Victorian horror story (subtitled \"Fosdyke's Folly\"). Young gentleman Oswald Stanley visits an old college friend on a summer evening; as the night goes on, a murderous evil spirit awakens. You play with English text commands: examine, take and use objects in specific ways, talk to people, give them things or take things from them; there is no generic \"USE\" verb. The author warns it is not suitable for children.\n\nMade with DAAD Ready; the game also exists for other computers.\n\nCrack by Raiders of the Lost Empire from 3 November 2026 (D64, version 1.04) with a Forum64 party intro and 14 pages of docs (\"+DS\"), plus Oswald's letter as prologue. The original release is also in the database."
+  },
+  "images": {
+    "ss": "images/cf/cfce612a3ef689022946a1a2a41d8cd32cb641d4.png",
+    "sstitle": "images/93/939b4e855d61f400019b488fc17a7454d62d165a.png"
   }
 }

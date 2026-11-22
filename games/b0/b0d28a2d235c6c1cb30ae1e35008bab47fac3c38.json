@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b0d28a2d235c6c1cb30ae1e35008bab47fac3c38",
+  "md5": "57f854e1fc73452957f5409bcd08862f",
+  "crc32": "b607694e",
+  "size": 25319,
+  "format": "PRG",
+  "files": [
+    "Herbert's Dummy Run.prg"
+  ],
+  "screenscraper_id": "112829",
+  "title": "Herbert's Dummy Run",
+  "year": "1985",
+  "publisher": "Mikro-Gen",
+  "developer": "Mikro-Gen",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Viertes Spiel der Wally-Week-Reihe: Baby Herbert, der Sohn von Wally und Wilma, hat sich in einem Kaufhaus verlaufen und muss zu seinen Eltern zurückfinden. Die Räume des Kaufhauses sind als Einzelbildschirme mit Plattformen aufgebaut, in denen Gegenstände gesammelt und an der richtigen Stelle benutzt werden. Einige Räume enthalten kleine Geschicklichkeitsspiele. Gegner und Hindernisse rauben Energie, die sich wieder auffüllen lässt.\n\nErschienen auf Kassette und Diskette, auch für ZX Spectrum und Amstrad CPC; später in Sammlungen wiederveröffentlicht und als OneLoad64-Modulumsetzung sowie als Einzeldatei verbreitet. Steuerung per Joystick.\n\nMusik: Nick Jones",
+  "texts": {
+    "de": "Viertes Spiel der Wally-Week-Reihe: Baby Herbert, der Sohn von Wally und Wilma, hat sich in einem Kaufhaus verlaufen und muss zu seinen Eltern zurückfinden. Die Räume des Kaufhauses sind als Einzelbildschirme mit Plattformen aufgebaut, in denen Gegenstände gesammelt und an der richtigen Stelle benutzt werden. Einige Räume enthalten kleine Geschicklichkeitsspiele. Gegner und Hindernisse rauben Energie, die sich wieder auffüllen lässt.\n\nErschienen auf Kassette und Diskette, auch für ZX Spectrum und Amstrad CPC; später in Sammlungen wiederveröffentlicht und als OneLoad64-Modulumsetzung sowie als Einzeldatei verbreitet. Steuerung per Joystick.\n\nMusik: Nick Jones",
+    "en": "The fourth game in the Wally Week series: baby Herbert, son of Wally and Wilma, is lost in a department store and has to find his way back to his parents. The store's rooms are single screens with platforms where items are collected and used in the right place. Some rooms contain small skill games. Enemies and hazards drain energy, which can be restored.\n\nReleased on cassette and disk, as well as for ZX Spectrum and Amstrad CPC; later re-released in compilations and circulated as a OneLoad64 cartridge conversion and as a single file. Joystick controlled.\n\nMusic: Nick Jones"
+  },
+  "images": {
+    "ss": "images/7f/7fe3d96c4674bdca2d9102fb2577685607085aa3.png",
+    "sstitle": "images/04/04785a00b7ac73cec3bfcf245a141139deab14ea.png"
+  }
+}

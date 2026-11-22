@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "d4d205b3488a9a18ad8fe40d5763fcd39fa04a62",
+  "md5": "d50f3e7177ab2c345b22ecab42c99a79",
+  "crc32": "9326af06",
+  "size": 19519,
+  "format": "T64",
+  "files": [
+    "ZONERANG.T64"
+  ],
+  "screenscraper_id": "109432",
+  "title": "Zone Ranger",
+  "year": "1984",
+  "publisher": "Activision",
+  "developer": "Dan Thompson",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1-2",
+  "synopsis": "Weltraum-Schießspiel, in dem ein Raumschiff frei über ein Feld voller Asteroiden und Gegner gesteuert wird. Neben dem Abschießen der Gegner müssen Minen gesprengt werden, die im All verteilt sind. Über ein besonderes Portal gelangt der Spieler in Bonusbereiche.\n\nDas Spiel erschien zuerst für die Atari-Heimcomputer und die Atari 5200; die C64-Fassung brachte Activision 1984 als Steckmodul und auf Diskette heraus. Gesteuert wird per Joystick in Port 1.\n\nCode: Dan Thompson",
+  "texts": {
+    "de": "Weltraum-Schießspiel, in dem ein Raumschiff frei über ein Feld voller Asteroiden und Gegner gesteuert wird. Neben dem Abschießen der Gegner müssen Minen gesprengt werden, die im All verteilt sind. Über ein besonderes Portal gelangt der Spieler in Bonusbereiche.\n\nDas Spiel erschien zuerst für die Atari-Heimcomputer und die Atari 5200; die C64-Fassung brachte Activision 1984 als Steckmodul und auf Diskette heraus. Gesteuert wird per Joystick in Port 1.\n\nCode: Dan Thompson",
+    "en": "Space shoot 'em up in which a ship is steered freely across a field full of asteroids and enemies. Besides shooting enemies, mines scattered through space have to be detonated. A special portal leads the player to bonus areas.\n\nThe game first appeared for the Atari home computers and the Atari 5200; Activision released the C64 version in 1984 on cartridge and disk. Control is by joystick in port 1.\n\nCode: Dan Thompson"
+  },
+  "images": {
+    "ss": "images/d9/d9ef79a8c526ea4459805cd32bbfdc0fa57240ba.png",
+    "sstitle": "images/05/054a42b049056662e3feb331145f2414a82021f1.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "923040a38e4de0b0f8acadd235d32b0959571a66",
+  "md5": "d57bdd99fb4bbf45b57d24977a42a081",
+  "crc32": "6719c390",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "HEROESOL.D64"
+  ],
+  "screenscraper_id": "35978",
+  "title": "Heroes of the Lance",
+  "year": "1988",
+  "publisher": "SSI",
+  "developer": "U.S. Gold",
+  "genres": [
+    "Action / Abenteuer",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Ein seitlich scrollendes Actionspiel nach dem Dragonlance-Abenteuer von Advanced Dungeons & Dragons. Acht Helden ziehen durch die Ruinen von Xak Tsaroth, um die Scheiben von Mishakal zu bergen und den Drachen Khisanth zu besiegen. Es ist immer nur ein Held zu sehen; fällt er, rückt der nächste nach. Drei Helden bringen Fähigkeiten mit (Heilung, Magie, Fallen entschärfen), die übrigen dienen vor allem als Reserve.\n\nDas Spiel erschien 1988 bei SSI und in Europa bei U.S. Gold für mehrere Heimcomputer, auf dem C64 auf Diskette. Gesteuert wird mit dem Joystick. Fortsetzung ist Dragons of Flame.\n\nMusik: Ben Daglish",
+  "texts": {
+    "de": "Ein seitlich scrollendes Actionspiel nach dem Dragonlance-Abenteuer von Advanced Dungeons & Dragons. Acht Helden ziehen durch die Ruinen von Xak Tsaroth, um die Scheiben von Mishakal zu bergen und den Drachen Khisanth zu besiegen. Es ist immer nur ein Held zu sehen; fällt er, rückt der nächste nach. Drei Helden bringen Fähigkeiten mit (Heilung, Magie, Fallen entschärfen), die übrigen dienen vor allem als Reserve.\n\nDas Spiel erschien 1988 bei SSI und in Europa bei U.S. Gold für mehrere Heimcomputer, auf dem C64 auf Diskette. Gesteuert wird mit dem Joystick. Fortsetzung ist Dragons of Flame.\n\nMusik: Ben Daglish",
+    "en": "A side-scrolling action game based on the Dragonlance adventure for Advanced Dungeons & Dragons. Eight heroes travel through the ruins of Xak Tsaroth to recover the Disks of Mishakal and defeat the dragon Khisanth. Only one hero is visible at a time; when they fall, the next one takes over. Three heroes have special abilities (healing, magic, disarming traps), while the others mainly serve as reserves.\n\nThe game was released in 1988 by SSI, and in Europe by U.S. Gold, for several home computers; on the C64 it came on disk. It is controlled with a joystick. Its sequel is Dragons of Flame.\n\nMusic: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/f8/f8c49d86bee5f49b6f63526afe9f82b05600f860.png",
+    "sstitle": "images/1f/1fd9232b4dc282700917977c279d1790ce71beac.png"
+  }
+}

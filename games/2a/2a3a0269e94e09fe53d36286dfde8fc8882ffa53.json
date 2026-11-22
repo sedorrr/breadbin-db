@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "2a3a0269e94e09fe53d36286dfde8fc8882ffa53",
+  "md5": "187f8bdbfbb29ff42bc7ad527a99425e",
+  "crc32": "6a9f46f7",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "NARC.D64"
+  ],
+  "screenscraper_id": "36465",
+  "title": "NARC",
+  "year": "1990",
+  "publisher": "Ocean",
+  "developer": "Ocean",
+  "genres": [
+    "Action",
+    "Shooter"
+  ],
+  "players": "1-2",
+  "synopsis": "NARC ist eine Umsetzung des Williams-Automaten von 1988. Als Polizisten Max Force und Hit Man kämpft man sich durch seitlich scrollende Straßenzüge gegen Drogenhändler und Schläger eines Verbrechersyndikats. Gegner lassen sich erschießen oder festnehmen, Raketen dienen gegen Fahrzeuge und größere Gruppen. Unterwegs werden beschlagnahmte Drogen und Geld eingesammelt; am Ende wartet der Kopf des Syndikats.\n\nDie C64-Fassung erschien 1990 bei Ocean auf Kassette und Diskette und lädt die Abschnitte nach. Zwei Spieler können gleichzeitig spielen. Es gibt eine MultiLoad64-Umsetzung für EasyFlash von $olo1870. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Simon Pick, Steve Snake · Grafik: Shaun McClure, Edward Langman, Rob Whitaker · Musik: Paul Tonge",
+  "texts": {
+    "de": "NARC ist eine Umsetzung des Williams-Automaten von 1988. Als Polizisten Max Force und Hit Man kämpft man sich durch seitlich scrollende Straßenzüge gegen Drogenhändler und Schläger eines Verbrechersyndikats. Gegner lassen sich erschießen oder festnehmen, Raketen dienen gegen Fahrzeuge und größere Gruppen. Unterwegs werden beschlagnahmte Drogen und Geld eingesammelt; am Ende wartet der Kopf des Syndikats.\n\nDie C64-Fassung erschien 1990 bei Ocean auf Kassette und Diskette und lädt die Abschnitte nach. Zwei Spieler können gleichzeitig spielen. Es gibt eine MultiLoad64-Umsetzung für EasyFlash von $olo1870. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Simon Pick, Steve Snake · Grafik: Shaun McClure, Edward Langman, Rob Whitaker · Musik: Paul Tonge",
+    "en": "NARC is a conversion of Williams' 1988 arcade game. As police officers Max Force and Hit Man, the players fight their way through side-scrolling streets against drug dealers and thugs of a crime syndicate. Enemies can be shot or arrested, and rockets are used against vehicles and larger groups. Along the way, seized drugs and money are collected; the head of the syndicate waits at the end.\n\nThe C64 version was released by Ocean in 1990 on cassette and disk and loads the stages in parts. Two players can play simultaneously. There is a MultiLoad64 conversion for EasyFlash by $olo1870. It is controlled with a joystick in port 2.\n\nCode: Simon Pick, Steve Snake · Graphics: Shaun McClure, Edward Langman, Rob Whitaker · Music: Paul Tonge"
+  },
+  "images": {
+    "ss": "images/37/377bd5b8b86853be65ba8624afb745938d600cc4.png",
+    "sstitle": "images/b7/b752991f2da929a4cd3c11fe410494c23039f4d7.png"
+  }
+}

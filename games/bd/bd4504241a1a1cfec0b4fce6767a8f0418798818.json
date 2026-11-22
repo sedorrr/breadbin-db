@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "bd4504241a1a1cfec0b4fce6767a8f0418798818",
+  "md5": "70797354e4657dfb0004aafe45b9d103",
+  "crc32": "b7010c37",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TOMAHAWK.D64"
+  ],
+  "screenscraper_id": "36768",
+  "title": "Tomahawk",
+  "year": "1986",
+  "publisher": "Digital Integration",
+  "developer": "Digital Integration",
+  "genres": [
+    "Simulation"
+  ],
+  "players": "1",
+  "synopsis": "Flugsimulation des Kampfhubschraubers AH-64A Apache in Drahtgitter-3D. Neben Übungsflügen gibt es Einsätze, in denen feindliche Panzer, Stellungen und Hubschrauber mit Bordkanone, Raketen und lenkbaren Hellfire-Flugkörpern bekämpft werden. Tag- und Nachtflug, Wolken, Seitenwind und Turbulenzen lassen sich einstellen; die Instrumente zeigen unter anderem Waffenstatus, Zielerfassung und eine Lagekarte. Das Kampfgebiet ist in Planquadrate eingeteilt.\n\nZuerst 1985 für den ZX Spectrum, die C64-Fassung erschien 1986 auf Kassette und Diskette (in den USA über Datasoft). Steuerung per Joystick und Tastatur. Später als OneLoad64- und EasyFlash-Modulumsetzung sowie als Einzeldatei verbreitet.\n\nCode: D. K. Marshall (Original)",
+  "texts": {
+    "de": "Flugsimulation des Kampfhubschraubers AH-64A Apache in Drahtgitter-3D. Neben Übungsflügen gibt es Einsätze, in denen feindliche Panzer, Stellungen und Hubschrauber mit Bordkanone, Raketen und lenkbaren Hellfire-Flugkörpern bekämpft werden. Tag- und Nachtflug, Wolken, Seitenwind und Turbulenzen lassen sich einstellen; die Instrumente zeigen unter anderem Waffenstatus, Zielerfassung und eine Lagekarte. Das Kampfgebiet ist in Planquadrate eingeteilt.\n\nZuerst 1985 für den ZX Spectrum, die C64-Fassung erschien 1986 auf Kassette und Diskette (in den USA über Datasoft). Steuerung per Joystick und Tastatur. Später als OneLoad64- und EasyFlash-Modulumsetzung sowie als Einzeldatei verbreitet.\n\nCode: D. K. Marshall (Original)",
+    "en": "A wireframe 3D flight simulation of the AH-64A Apache attack helicopter. Besides training flights there are missions in which enemy tanks, positions and helicopters are engaged with the chain gun, rockets and guided Hellfire missiles. Day and night flying, cloud, crosswind and turbulence can be set; the instruments show weapon status, target acquisition and a tactical map, among other things. The battle area is divided into grid sectors.\n\nFirst released in 1985 for the ZX Spectrum; the C64 version came out in 1986 on cassette and disk (in the US through Datasoft). Controlled with joystick and keyboard. Later circulated as OneLoad64 and EasyFlash cartridge conversions and as a single file.\n\nCode: D. K. Marshall (original)"
+  },
+  "images": {
+    "ss": "images/7f/7f2177b2b3e235a1658a40cde674d1e6aeb9dbe4.png",
+    "sstitle": "images/89/89d7e74795704e108ec85cceb43379ebd9a45645.png"
+  }
+}

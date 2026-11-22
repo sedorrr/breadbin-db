@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "sha1": "017ce8b8f5938816cd6a3b8fff416417b8ac9560",
+  "md5": "b7f3e5c37e4d2096b70056fac3012535",
+  "crc32": "7ff3cad6",
+  "size": 287344,
+  "format": "CRT",
+  "files": [
+    "Strike Fleet (p1).crt",
+    "Strike Fleet [EasyFlash].crt"
+  ],
+  "screenscraper_id": "36591",
+  "title": "Strike Fleet",
+  "year": "1987",
+  "publisher": "Electronic Arts",
+  "developer": "Lucasfilm Games (Lawrence Holland)",
+  "genres": [
+    "Simulation",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Strike Fleet ist eine Simulation moderner Seekriegsführung und der Nachfolger von PHM Pegasus. Man befehligt einen Verband aus Kriegsschiffen samt Hubschraubern und wechselt zwischen den einzelnen Einheiten, um Radar, Sonar und Waffen wie Seezielflugkörper, Flugabwehrraketen und Torpedos einzusetzen. Die Einsätze reichen vom Geleitschutz für Tanker im Persischen Golf bis zu Gefechten im Nordatlantik und um die Falklandinseln. Bei Erfolg lassen sich Einsätze zu einem Feldzug verbinden.\n\nDas Spiel erschien auf Diskette. Es gibt EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick in Port 1 und der Tastatur.\n\nCode: Lawrence Holland",
+  "texts": {
+    "de": "Strike Fleet ist eine Simulation moderner Seekriegsführung und der Nachfolger von PHM Pegasus. Man befehligt einen Verband aus Kriegsschiffen samt Hubschraubern und wechselt zwischen den einzelnen Einheiten, um Radar, Sonar und Waffen wie Seezielflugkörper, Flugabwehrraketen und Torpedos einzusetzen. Die Einsätze reichen vom Geleitschutz für Tanker im Persischen Golf bis zu Gefechten im Nordatlantik und um die Falklandinseln. Bei Erfolg lassen sich Einsätze zu einem Feldzug verbinden.\n\nDas Spiel erschien auf Diskette. Es gibt EasyFlash-Umsetzungen. Gesteuert wird mit dem Joystick in Port 1 und der Tastatur.\n\nCode: Lawrence Holland",
+    "en": "Strike Fleet is a simulation of modern naval warfare and the successor to PHM Pegasus. The player commands a task force of warships with helicopters and switches between the individual units to use radar, sonar and weapons such as anti-ship missiles, surface-to-air missiles and torpedoes. Missions range from escorting tankers in the Persian Gulf to battles in the North Atlantic and around the Falkland Islands. Successful missions can be linked into a campaign.\n\nThe game was released on disk. There are EasyFlash conversions. It is controlled with a joystick in port 1 and the keyboard.\n\nCode: Lawrence Holland"
+  },
+  "images": {
+    "ss": "images/33/33a26dac786223b9d5eff45311ea763da54e34b4.png",
+    "sstitle": "images/e5/e538b711132f276916ee867257283e067dbd8804.png"
+  }
+}

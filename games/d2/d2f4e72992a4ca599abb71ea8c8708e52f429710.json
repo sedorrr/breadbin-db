@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "d2f4e72992a4ca599abb71ea8c8708e52f429710",
+  "md5": "8d461c148c0cae93430d174a7b1cbf99",
+  "crc32": "d8feaf24",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Arcticfox.crt"
+  ],
+  "screenscraper_id": "36427",
+  "title": "Arcticfox",
+  "year": "1986",
+  "publisher": "Electronic Arts",
+  "developer": "Dynamix",
+  "genres": [
+    "Simulation",
+    "Shooter"
+  ],
+  "players": "1",
+  "synopsis": "Arcticfox ist eine Panzersimulation in 3D-Vektorgrafik. Außerirdische haben sich in der Antarktis festgesetzt und verändern von dort aus die Atmosphäre der Erde. Mit einem schnellen Kampfpanzer soll man ihre Anlagen zerstören und schließlich die Hauptfestung der Angreifer ausschalten. Neben der Bordkanone stehen Lenkraketen und Minen zur Verfügung, und Radar sowie Kartenansicht helfen bei der Orientierung im Eis.\n\nDas Spiel erschien auf Diskette, in Nordamerika bei Electronic Arts und in Europa bei Ariolasoft. Es gibt eine EasyFlash-Umsetzung im Disk2EasyFlash-Verfahren. Gesteuert wird mit dem Joystick in Port 2 und der Tastatur.\n\nCode: Steven Potter, Damon Slye, Paul Bowman · Grafik: John Burton",
+  "texts": {
+    "de": "Arcticfox ist eine Panzersimulation in 3D-Vektorgrafik. Außerirdische haben sich in der Antarktis festgesetzt und verändern von dort aus die Atmosphäre der Erde. Mit einem schnellen Kampfpanzer soll man ihre Anlagen zerstören und schließlich die Hauptfestung der Angreifer ausschalten. Neben der Bordkanone stehen Lenkraketen und Minen zur Verfügung, und Radar sowie Kartenansicht helfen bei der Orientierung im Eis.\n\nDas Spiel erschien auf Diskette, in Nordamerika bei Electronic Arts und in Europa bei Ariolasoft. Es gibt eine EasyFlash-Umsetzung im Disk2EasyFlash-Verfahren. Gesteuert wird mit dem Joystick in Port 2 und der Tastatur.\n\nCode: Steven Potter, Damon Slye, Paul Bowman · Grafik: John Burton",
+    "en": "Arcticfox is a tank simulation in 3D vector graphics. Aliens have established themselves in Antarctica and are altering Earth's atmosphere from there. In a fast battle tank, the player has to destroy their installations and finally knock out the invaders' main fortress. Besides the main gun, guided missiles and mines are available, and radar and a map view help with orientation on the ice.\n\nThe game was released on disk, by Electronic Arts in North America and by Ariolasoft in Europe. There is an EasyFlash conversion made with the Disk2EasyFlash method. It is controlled with a joystick in port 2 and the keyboard.\n\nCode: Steven Potter, Damon Slye, Paul Bowman · Graphics: John Burton"
+  },
+  "images": {
+    "ss": "images/7d/7dab3af47455572bf786f979b5fffb52b08c34e1.png",
+    "sstitle": "images/ea/eae979aa27b11c6fe70d60558f20233d78007c00.png"
+  }
+}

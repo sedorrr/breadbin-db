@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "067309f4c91b8ec5dbe5c84ff15e2f2b6a793f4d",
+  "md5": "7611a73f230c112b28b0caab021d92a7",
+  "crc32": "90dcb647",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Kinetik.crt"
+  ],
+  "screenscraper_id": "36670",
+  "title": "Kinetik",
+  "year": "1987",
+  "publisher": "Firebird",
+  "developer": "Software Creations",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Ein kugelförmiges Raumschiff muss auf einem fremden Planeten die drei großen Buchstaben P, A und X finden und dem Kinemator, einem Wesen in den Tiefen des Planeten, auf dem letzten Bildschirm übergeben. Die Welt besteht aus 44 Bildschirmen, die am linken und rechten Rand umschalten. Jeder Bildschirm hat eine eigene Schwerkraft, das Schiff treibt mit Trägheit und prallt von Pflanzen und Gelände ab. Berührungen mit Außerirdischen kosten Schildenergie, die sich an Blütenkapseln oder im Wasser auffüllen lässt.\n\nKinetik erschien 1987 bei Firebird für C64, ZX Spectrum und Amstrad CPC, auf dem C64 auf Kassette. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.",
+  "texts": {
+    "de": "Ein kugelförmiges Raumschiff muss auf einem fremden Planeten die drei großen Buchstaben P, A und X finden und dem Kinemator, einem Wesen in den Tiefen des Planeten, auf dem letzten Bildschirm übergeben. Die Welt besteht aus 44 Bildschirmen, die am linken und rechten Rand umschalten. Jeder Bildschirm hat eine eigene Schwerkraft, das Schiff treibt mit Trägheit und prallt von Pflanzen und Gelände ab. Berührungen mit Außerirdischen kosten Schildenergie, die sich an Blütenkapseln oder im Wasser auffüllen lässt.\n\nKinetik erschien 1987 bei Firebird für C64, ZX Spectrum und Amstrad CPC, auf dem C64 auf Kassette. Gesteuert wird mit dem Joystick. Es gibt Modulumsetzungen (OneLoad64) und Einzeldatei-Fassungen.",
+    "en": "A spherical spaceship has to find the three giant letters P, A and X on an alien planet and deliver them to the Kinemator, a creature in the planet's depths, on the final screen. The world consists of 44 screens that flip at the left and right edges. Each screen has its own gravity; the ship drifts with inertia and bounces off plants and terrain. Contact with aliens drains the shield, which can be recharged at flower pods or in water.\n\nKinetik was published by Firebird in 1987 for the C64, ZX Spectrum and Amstrad CPC; on the C64 it came on cassette. It is controlled with a joystick. Cartridge conversions (OneLoad64) and single-file versions exist."
+  },
+  "images": {
+    "ss": "images/6c/6c6e5bae6cb32245429b2a4078ee6911d95e0557.png",
+    "sstitle": "images/09/09ba8aedacfd5e955db88ea60cae5a83b4c23670.png"
+  }
+}

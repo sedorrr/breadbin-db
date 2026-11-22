@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "904a3775d97f54f9aa60dd84eda729ba079e66b7",
+  "md5": "7738cd7d10845bdc05cedb4cc2c062b5",
+  "crc32": "e216ae89",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "BAT1.D64"
+  ],
+  "screenscraper_id": "36418",
+  "title": "B.A.T.",
+  "year": "1990",
+  "publisher": "Ubi Soft",
+  "developer": "Computer's Dream",
+  "genres": [
+    "Abenteuer / Grafik",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Ein Agent des „Bureau of Astral Troubleshooters“ soll auf dem Planeten Selenia zwei Verbrecher aufspüren, die die Stadt Terrapolis bedrohen. Das Spiel verbindet ein grafisches Abenteuer mit Rollenspielwerten: Figuren werden angesprochen, Gegenstände gekauft und benutzt, Kämpfe ausgetragen. Ein in den Arm eingebauter Computer namens B.O.B. überwacht Gesundheit und Werte und lässt sich programmieren. Zur Welt gehören Zeitdruck, Geld und ein Tag-Nacht-Ablauf.\n\nDie C64-Fassung erschien auf zwei Diskettenseiten und wird mit dem Joystick gesteuert; sie ist gegenüber den 16-Bit-Fassungen (Amiga, Atari ST, MS-DOS) vereinfacht.",
+  "texts": {
+    "de": "Ein Agent des „Bureau of Astral Troubleshooters“ soll auf dem Planeten Selenia zwei Verbrecher aufspüren, die die Stadt Terrapolis bedrohen. Das Spiel verbindet ein grafisches Abenteuer mit Rollenspielwerten: Figuren werden angesprochen, Gegenstände gekauft und benutzt, Kämpfe ausgetragen. Ein in den Arm eingebauter Computer namens B.O.B. überwacht Gesundheit und Werte und lässt sich programmieren. Zur Welt gehören Zeitdruck, Geld und ein Tag-Nacht-Ablauf.\n\nDie C64-Fassung erschien auf zwei Diskettenseiten und wird mit dem Joystick gesteuert; sie ist gegenüber den 16-Bit-Fassungen (Amiga, Atari ST, MS-DOS) vereinfacht.",
+    "en": "An agent of the Bureau of Astral Troubleshooters is sent to the planet Selenia to track down two criminals threatening the city of Terrapolis. The game blends a graphic adventure with role-playing statistics: characters are questioned, items bought and used, and fights fought. A computer implanted in the arm, B.O.B., monitors health and stats and can be programmed. Time pressure, money and a day-night cycle are part of the world.\n\nThe C64 version came on two disk sides and is controlled by joystick; it is simplified compared with the 16-bit versions (Amiga, Atari ST, MS-DOS)."
+  },
+  "images": {
+    "ss": "images/4c/4c10e2745f0b8e457a8f053d66cd7f05c8c4d5e5.png",
+    "sstitle": "images/c2/c2b9d79c215c58d787389418a85e3e209e2dbcc0.png"
+  }
+}

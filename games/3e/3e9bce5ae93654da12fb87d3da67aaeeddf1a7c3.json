@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "3e9bce5ae93654da12fb87d3da67aaeeddf1a7c3",
+  "md5": "c5f9ad684e5e76125995181fffaa0cd6",
+  "crc32": "dcb9ffbc",
+  "size": 82144,
+  "format": "CRT",
+  "files": [
+    "Crystal Kingdom Dizzy.crt"
+  ],
+  "screenscraper_id": "36504",
+  "title": "Crystal Kingdom Dizzy",
+  "year": "1992",
+  "publisher": "Codemasters",
+  "developer": "Codemasters (C64: Visual Impact)",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Dizzy, das Ei, macht sich auf, die gestohlenen Schätze des Kristallkönigreichs zurückzuholen. Wie in den früheren Dizzy-Abenteuern werden Gegenstände gesammelt, getragen und an der richtigen Stelle benutzt, um Rätsel zu lösen und neue Bereiche zu erreichen. Das Spiel ist in mehrere Teile gegliedert, die nacheinander gespielt werden.\n\nCrystal Kingdom Dizzy erschien Ende 1992 als Vollpreisspiel. Die C64-Fassung wurde eigens für den C64 gestaltet und nicht von der Spectrum-Grafik übernommen; sie erschien auf Kassette und Diskette, später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Craig Kelsall · Grafik: Jarrod Bentley · Musik: Gerard Gourley",
+  "texts": {
+    "de": "Dizzy, das Ei, macht sich auf, die gestohlenen Schätze des Kristallkönigreichs zurückzuholen. Wie in den früheren Dizzy-Abenteuern werden Gegenstände gesammelt, getragen und an der richtigen Stelle benutzt, um Rätsel zu lösen und neue Bereiche zu erreichen. Das Spiel ist in mehrere Teile gegliedert, die nacheinander gespielt werden.\n\nCrystal Kingdom Dizzy erschien Ende 1992 als Vollpreisspiel. Die C64-Fassung wurde eigens für den C64 gestaltet und nicht von der Spectrum-Grafik übernommen; sie erschien auf Kassette und Diskette, später entstand eine OneLoad64-Modulumsetzung. Steuerung per Joystick.\n\nCode: Craig Kelsall · Grafik: Jarrod Bentley · Musik: Gerard Gourley",
+    "en": "Dizzy the egg sets out to recover the stolen treasures of the Crystal Kingdom. As in the earlier Dizzy adventures, items are collected, carried and used in the right place to solve puzzles and reach new areas. The game is divided into several parts played one after another.\n\nCrystal Kingdom Dizzy was released at the end of 1992 as a full-price game. The C64 version was designed specifically for the C64 rather than reusing the Spectrum graphics; it came out on tape and disk, and a OneLoad64 cartridge conversion was made later. Control by joystick.\n\nCode: Craig Kelsall · Graphics: Jarrod Bentley · Music: Gerard Gourley"
+  },
+  "images": {
+    "ss": "images/cf/cfdbe6c94ff38749e4bf856b649f8a8204e92262.png",
+    "sstitle": "images/ee/eebcad3570116d7c453da174b8fee702bc2e95cd.png"
+  }
+}

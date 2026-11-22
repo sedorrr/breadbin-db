@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "1dd31c9a8dd7c9e40e4db02f1a24853df7fa1228",
+  "md5": "d7d04df01fd9a48934e3d7ad365ec51f",
+  "crc32": "febe0e21",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "TINTIN.D64"
+  ],
+  "screenscraper_id": "35857",
+  "title": "Tintin on the Moon",
+  "year": "1989",
+  "publisher": "Infogrames",
+  "developer": "Infogrames",
+  "genres": [
+    "Action",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Nach dem Comic „Schritte auf dem Mond“ fliegen Tim und Struppi mit Gefährten in einer Rakete zum Mond. Das Spiel wechselt zwischen zwei Teilen: Im Flug wird die Rakete in Pseudo-3D gesteuert, sie weicht Meteoren aus und sammelt Kugeln und Treibstoff ein. Im Inneren der Rakete läuft Tim über mehrere Decks, löscht Brände, entschärft Bomben, befreit die gefesselten Freunde und stellt den Saboteur Oberst Jorgen. Am Ende steht die Landung auf dem Mond.\n\nAuf dem C64 auf Kassette und Diskette erschienen, außerdem für Amiga, Atari ST, Amstrad CPC, ZX Spectrum und MS-DOS. Steuerung per Joystick. Als MultiLoad64-EasyFlash-Umsetzung von $olo1870 verbreitet.\n\nMusik: Jeroen Tel",
+  "texts": {
+    "de": "Nach dem Comic „Schritte auf dem Mond“ fliegen Tim und Struppi mit Gefährten in einer Rakete zum Mond. Das Spiel wechselt zwischen zwei Teilen: Im Flug wird die Rakete in Pseudo-3D gesteuert, sie weicht Meteoren aus und sammelt Kugeln und Treibstoff ein. Im Inneren der Rakete läuft Tim über mehrere Decks, löscht Brände, entschärft Bomben, befreit die gefesselten Freunde und stellt den Saboteur Oberst Jorgen. Am Ende steht die Landung auf dem Mond.\n\nAuf dem C64 auf Kassette und Diskette erschienen, außerdem für Amiga, Atari ST, Amstrad CPC, ZX Spectrum und MS-DOS. Steuerung per Joystick. Als MultiLoad64-EasyFlash-Umsetzung von $olo1870 verbreitet.\n\nMusik: Jeroen Tel",
+    "en": "Based on the comic \"Explorers on the Moon\", Tintin, Snowy and their companions fly to the Moon in a rocket. The game alternates between two parts: during flight the rocket is steered in pseudo-3D, dodging meteors and collecting spheres and fuel. Inside the rocket Tintin runs across several decks, putting out fires, defusing bombs, freeing his tied-up friends and confronting the saboteur Colonel Jorgen. The game ends with the Moon landing.\n\nReleased for the C64 on cassette and disk, as well as for Amiga, Atari ST, Amstrad CPC, ZX Spectrum and MS-DOS. Joystick controlled. Circulates as a MultiLoad64 EasyFlash conversion by $olo1870.\n\nMusic: Jeroen Tel"
+  },
+  "images": {
+    "ss": "images/4b/4bad2631a19908a4081bdc77e8eab05880a1cba4.png",
+    "sstitle": "images/a5/a56bca1b41319be5f7bc9f15c8e544c55e2e58ca.png"
+  }
+}
