@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "ec3ca7e58f8941c84e3525a73a086b8d0c0e3ba3",
+  "md5": "e1e40d0f98bdd65687aa991c6837de93",
+  "crc32": "79fb5802",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "INGRID1.D64"
+  ],
+  "screenscraper_id": "36625",
+  "title": "Ingrid's Back!",
+  "year": "1988",
+  "publisher": "Level 9 Computing",
+  "developer": "Level 9 Computing",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Textabenteuer und Fortsetzung von „Gnome Ranger“. Die Gnomin Ingrid Bottomlow will verhindern, dass der Grundstücksspekulant Jasper Quickbuck ihr Dorf Little Moaning abreißen lässt. Dazu muss sie die Dorfbewohner überreden, ihre Unterschriftenliste zu unterzeichnen. Das Spiel ist in drei Teile gegliedert; Eingaben erfolgen als Sätze, andere Figuren lassen sich ansprechen und mit Aufträgen versehen.\n\nAuf dem C64 erschien das Spiel auf Kassette und Diskette; die Diskettenfassung zeigt zu vielen Orten Bilder, die Kassettenfassung ist reiner Text. Der Packung lag eine Novelle von Peter McBride mit Hintergrund und Hinweisen bei. Steuerung über die Tastatur.\n\nCode: Pete Austin, Peter McBride, Godfrey Dawson",
+  "texts": {
+    "de": "Textabenteuer und Fortsetzung von „Gnome Ranger“. Die Gnomin Ingrid Bottomlow will verhindern, dass der Grundstücksspekulant Jasper Quickbuck ihr Dorf Little Moaning abreißen lässt. Dazu muss sie die Dorfbewohner überreden, ihre Unterschriftenliste zu unterzeichnen. Das Spiel ist in drei Teile gegliedert; Eingaben erfolgen als Sätze, andere Figuren lassen sich ansprechen und mit Aufträgen versehen.\n\nAuf dem C64 erschien das Spiel auf Kassette und Diskette; die Diskettenfassung zeigt zu vielen Orten Bilder, die Kassettenfassung ist reiner Text. Der Packung lag eine Novelle von Peter McBride mit Hintergrund und Hinweisen bei. Steuerung über die Tastatur.\n\nCode: Pete Austin, Peter McBride, Godfrey Dawson",
+    "en": "Text adventure and sequel to \"Gnome Ranger\". The gnome Ingrid Bottomlow wants to stop the property developer Jasper Quickbuck from demolishing her village of Little Moaning. To do so she has to persuade the villagers to sign her petition. The game is divided into three parts; input is given as sentences, and other characters can be addressed and given instructions.\n\nOn the C64 the game was released on tape and disk; the disk version shows pictures for many locations, while the tape version is text only. The package included a novella by Peter McBride with background and hints. Control via keyboard.\n\nCode: Pete Austin, Peter McBride, Godfrey Dawson"
+  },
+  "images": {
+    "ss": "images/3d/3d628d249fd0e8544ef8fa668a202db4ea662422.png",
+    "sstitle": "images/97/97c88e346c3f4ef81934413ad91a7f59a9ce9bd9.png"
+  }
+}

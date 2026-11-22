@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f65c58c588c4a93488d75b414ac8f00d218b3d74",
+  "md5": "7ce160d21b7e1a1bff372b58740bec01",
+  "crc32": "59381858",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "CHESS20A.D64"
+  ],
+  "screenscraper_id": "36799",
+  "title": "The Chessmaster 2000",
+  "year": "1986",
+  "publisher": "The Software Toolworks",
+  "developer": "The Software Toolworks",
+  "genres": [
+    "Brettspiele"
+  ],
+  "players": "1-2",
+  "synopsis": "Schachprogramm mit wahlweise zwei- oder dreidimensionaler Brettansicht. Gegen den Rechner lassen sich viele Spielstärken einstellen, zusätzlich gibt es Partien zweier Menschen gegeneinander. Das Programm bietet eine Eröffnungsbibliothek, Zugvorschläge, Rücknahme von Zügen, das Aufstellen eigener Stellungen und eine Sammlung berühmter Partien zum Nachspielen. Partien lassen sich speichern und laden.\n\nAuf dem C64 auf Diskette erschienen (in Europa über Electronic Arts vertrieben); die zweite Diskettenseite dient als Datendiskette für gespeicherte Partien. Bedienung über Joystick und Tastatur.",
+  "texts": {
+    "de": "Schachprogramm mit wahlweise zwei- oder dreidimensionaler Brettansicht. Gegen den Rechner lassen sich viele Spielstärken einstellen, zusätzlich gibt es Partien zweier Menschen gegeneinander. Das Programm bietet eine Eröffnungsbibliothek, Zugvorschläge, Rücknahme von Zügen, das Aufstellen eigener Stellungen und eine Sammlung berühmter Partien zum Nachspielen. Partien lassen sich speichern und laden.\n\nAuf dem C64 auf Diskette erschienen (in Europa über Electronic Arts vertrieben); die zweite Diskettenseite dient als Datendiskette für gespeicherte Partien. Bedienung über Joystick und Tastatur.",
+    "en": "A chess program with a choice of two- or three-dimensional board views. Many strength levels can be set against the computer, and two humans can also play each other. It offers an opening library, move hints, taking back moves, setting up custom positions and a collection of famous games to replay. Games can be saved and loaded.\n\nReleased on disk for the C64 (distributed in Europe by Electronic Arts); the second disk side serves as a data disk for saved games. Operated by joystick and keyboard."
+  },
+  "images": {
+    "ss": "images/e6/e68fb9440674514e31fc1aebb6658c735f648be3.png",
+    "sstitle": "images/45/4521d96e8f154c366081d72b934d475b3415174c.png"
+  }
+}

@@ -21,5 +21,9 @@
   "texts": {
     "de": "In diesem Textabenteuer von Magnetic Scrolls ist man ein Geheimagent zwischen den Dimensionen, der zu Beginn im Körper eines Goldfischs steckt. Eine Bande namens „Seven Deadly Fins“ will die Hydropole, die Quelle allen Wassers, in ihre Gewalt bringen, und man muss ihre Pläne über mehrere Welten hinweg vereiteln. Das Spiel lebt von britischem Wortwitz, absurden Situationen und einem leistungsfähigen Parser, der auch längere Sätze versteht. Es gilt als eines der humorvollsten Abenteuer der Firma.\n\nDie C64-Fassung erschien auf Diskette; gesteuert wird ausschließlich über Tastatureingaben. Das Spiel kam auch für zahlreiche andere Rechner heraus.\n\nSpielidee: John Molloy, Phil South, Pete Kemp, Rob Steggles",
     "en": "In this Magnetic Scrolls text adventure the player is an interdimensional secret agent who starts out in the body of a goldfish. A gang called the Seven Deadly Fins plans to seize the Hydropond, the source of all water, and their scheme has to be foiled across several worlds. The game thrives on British wordplay, absurd situations and a capable parser that understands longer sentences. It is regarded as one of the company's most humorous adventures.\n\nThe C64 version was released on disk and is played entirely through typed commands. The game was also released for many other computers.\n\nDesign: John Molloy, Phil South, Pete Kemp, Rob Steggles"
+  },
+  "images": {
+    "ss": "images/d1/d14960fc59af8b5a08870885e50f4cdc6cbd28e1.png",
+    "sstitle": "images/59/59bf8aa429d69346e41a0c18194d40451c8f5f35.png"
   }
 }

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "dc7d45795ed5e7cda3522e85ab63e29573277f0a",
+  "md5": "1ab890f67056df972719728244fccdb3",
+  "crc32": "5fe50d58",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "STRIDER2.D64"
+  ],
+  "screenscraper_id": "35928",
+  "title": "Strider II",
+  "year": "1990",
+  "publisher": "U.S. Gold",
+  "developer": "Tiertex",
+  "genres": [
+    "Plattform",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Eine in Europa entwickelte Fortsetzung von Capcoms Automatenspiel Strider: Der Held soll die Prinzessin des Planeten Magenta aus der Gewalt einer Terrorgruppe befreien. Er klettert an Wänden und Seilen, kämpft mit seinem Schwert und kann im Stehen zusätzlich mit einer Waffe schießen. Sammelt er in einem Abschnitt genug Energiesymbole, verwandelt er sich für den Endgegner in einen Roboter auf Rädern mit eigener Energieanzeige. Das Spiel hat fünf Abschnitte.\n\nStrider II entstand bei Tiertex unter Capcom-Lizenz und erschien für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette; in Nordamerika hieß es „Journey from Darkness: Strider Returns“. Gesteuert wird mit dem Joystick. Es gibt EasyFlash-Umsetzungen (MultiLoad64 von $olo1870).\n\nEntwicklung: Tiertex",
+  "texts": {
+    "de": "Eine in Europa entwickelte Fortsetzung von Capcoms Automatenspiel Strider: Der Held soll die Prinzessin des Planeten Magenta aus der Gewalt einer Terrorgruppe befreien. Er klettert an Wänden und Seilen, kämpft mit seinem Schwert und kann im Stehen zusätzlich mit einer Waffe schießen. Sammelt er in einem Abschnitt genug Energiesymbole, verwandelt er sich für den Endgegner in einen Roboter auf Rädern mit eigener Energieanzeige. Das Spiel hat fünf Abschnitte.\n\nStrider II entstand bei Tiertex unter Capcom-Lizenz und erschien für mehrere Heimcomputer, auf dem C64 auf Kassette und Diskette; in Nordamerika hieß es „Journey from Darkness: Strider Returns“. Gesteuert wird mit dem Joystick. Es gibt EasyFlash-Umsetzungen (MultiLoad64 von $olo1870).\n\nEntwicklung: Tiertex",
+    "en": "A sequel to Capcom's arcade game Strider, developed in Europe: the hero must rescue the Princess of Planet Magenta from a terrorist group. He climbs walls and ropes, fights with his sword and can also fire a gun while standing still. If he collects enough energy icons in a stage, he turns into a wheeled robot with its own energy gauge for the boss fight. The game has five stages.\n\nStrider II was made by Tiertex under licence from Capcom and released for several home computers; on the C64 it came on cassette and disk. In North America it was called \"Journey from Darkness: Strider Returns\". It is controlled with a joystick. EasyFlash conversions exist (MultiLoad64 by $olo1870).\n\nDevelopment: Tiertex"
+  },
+  "images": {
+    "ss": "images/b4/b4ac16ab293d1646fd207999915fbc4505794188.png",
+    "sstitle": "images/7a/7a04c7772b66bd9e43934358b4989658192a9d76.png"
+  }
+}

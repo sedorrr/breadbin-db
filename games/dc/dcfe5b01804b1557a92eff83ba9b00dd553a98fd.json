@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "dcfe5b01804b1557a92eff83ba9b00dd553a98fd",
+  "md5": "b14cafe0e90396dab9fae1178b8c4cb5",
+  "crc32": "5b9964e5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DRAGOFF0.D64"
+  ],
+  "screenscraper_id": "36271",
+  "title": "Dragons of Flame",
+  "year": "1989",
+  "publisher": "SSI",
+  "developer": "U.S. Gold",
+  "genres": [
+    "Action / Abenteuer",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Fortsetzung von Heroes of the Lance nach dem zweiten Dragonlance-Abenteuer. Die Gefährten ziehen über eine Landkarte, auf der sie Gegnergruppen begegnen, in Richtung der Festung Pax Tharkas, um dort gefangene Sklaven zu befreien. Kämpfe laufen wie im Vorgänger seitlich scrollend ab, wobei jeweils ein Held gesteuert wird. Das Spiel ist mehr auf Action als auf Rollenspiel-Werte ausgelegt.\n\nDragons of Flame erschien 1989 bei SSI und U.S. Gold für mehrere Heimcomputer, auf dem C64 auf zwei Diskettenseiten. Gesteuert wird mit dem Joystick.",
+  "texts": {
+    "de": "Fortsetzung von Heroes of the Lance nach dem zweiten Dragonlance-Abenteuer. Die Gefährten ziehen über eine Landkarte, auf der sie Gegnergruppen begegnen, in Richtung der Festung Pax Tharkas, um dort gefangene Sklaven zu befreien. Kämpfe laufen wie im Vorgänger seitlich scrollend ab, wobei jeweils ein Held gesteuert wird. Das Spiel ist mehr auf Action als auf Rollenspiel-Werte ausgelegt.\n\nDragons of Flame erschien 1989 bei SSI und U.S. Gold für mehrere Heimcomputer, auf dem C64 auf zwei Diskettenseiten. Gesteuert wird mit dem Joystick.",
+    "en": "A sequel to Heroes of the Lance based on the second Dragonlance adventure. The companions travel across an overland map, where they encounter groups of enemies, towards the fortress of Pax Tharkas to free the slaves held there. As in the predecessor, fights are side-scrolling, with one hero controlled at a time. The game leans more towards action than towards role-playing statistics.\n\nDragons of Flame was released in 1989 by SSI and U.S. Gold for several home computers; on the C64 it came on two disk sides. It is controlled with a joystick."
+  },
+  "images": {
+    "ss": "images/d7/d7aa2ad8f6beb04fe6aaecf69d88ae155a178d35.png",
+    "sstitle": "images/68/68c79841a3540bf637585eebe415add8650f91bb.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "e227c1ffc6bfb09bf51d5ca6d9116c351fea2652",
+  "md5": "fe8a162553cd5ad4f32550938a0ee22f",
+  "crc32": "e0f398a9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PACMANIA.D64"
+  ],
+  "screenscraper_id": "36297",
+  "title": "Pac-Mania",
+  "year": "1988",
+  "publisher": "Grandslam",
+  "developer": "Teque (Peter Harrap, Shaun Hollingworth)",
+  "genres": [
+    "Arcade",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Pac-Mania ist eine Umsetzung des Namco-Automaten von 1987. Wie in Pac-Man frisst die Spielfigur alle Punkte eines Labyrinths und weicht dabei Geistern aus; Kraftpillen machen die Geister vorübergehend essbar. Neu sind die schräg von oben gezeigten, scrollenden Labyrinthe und die Möglichkeit, über Geister hinwegzuspringen – manche Geister können allerdings selbst springen. Die Level verteilen sich auf mehrere Welten wie Block Town und Pac-Man's Park.\n\nDie C64-Fassung erschien bei Grandslam auf Kassette und Diskette. Es gibt eine Modulumsetzung für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Peter Harrap, Shaun Hollingworth, Craig Grist · Grafik: Jason Wilson · Musik: Ben Daglish",
+  "texts": {
+    "de": "Pac-Mania ist eine Umsetzung des Namco-Automaten von 1987. Wie in Pac-Man frisst die Spielfigur alle Punkte eines Labyrinths und weicht dabei Geistern aus; Kraftpillen machen die Geister vorübergehend essbar. Neu sind die schräg von oben gezeigten, scrollenden Labyrinthe und die Möglichkeit, über Geister hinwegzuspringen – manche Geister können allerdings selbst springen. Die Level verteilen sich auf mehrere Welten wie Block Town und Pac-Man's Park.\n\nDie C64-Fassung erschien bei Grandslam auf Kassette und Diskette. Es gibt eine Modulumsetzung für OneLoad64. Gesteuert wird mit dem Joystick in Port 2.\n\nCode: Peter Harrap, Shaun Hollingworth, Craig Grist · Grafik: Jason Wilson · Musik: Ben Daglish",
+    "en": "Pac-Mania is a conversion of Namco's 1987 arcade game. As in Pac-Man, the player character eats all the dots in a maze while avoiding ghosts; power pills make the ghosts edible for a while. New are the scrolling mazes seen at an angle from above and the ability to jump over ghosts, though some ghosts can jump too. The levels are spread across several worlds such as Block Town and Pac-Man's Park.\n\nThe C64 version was released by Grandslam on cassette and disk. There is a cartridge conversion for OneLoad64. It is controlled with a joystick in port 2.\n\nCode: Peter Harrap, Shaun Hollingworth, Craig Grist · Graphics: Jason Wilson · Music: Ben Daglish"
+  },
+  "images": {
+    "ss": "images/db/db4af5afd5bfcaea23b57b790d4c229354cd8633.png",
+    "sstitle": "images/f8/f8d8f2f89a50a6b4899c7f9c9c7da3600bbc9c0e.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "e524d6bd890f989bbccba09669bb2f46b626cb57",
+  "md5": "07bb9a1852eb795bebe9cfa4673b2b39",
+  "crc32": "828679a2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ANNALENR.D64"
+  ],
+  "screenscraper_id": "36276",
+  "title": "Annals of Rome",
+  "year": "1986",
+  "publisher": "PSS",
+  "developer": "PSS (A. D. Boyse, J. G. Langdale-Brown)",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Annals of Rome ist ein rundenbasiertes Strategiespiel über die Geschichte des Römischen Reichs ab dem 3. Jahrhundert v. Chr. Man lenkt Rom auf einer Karte mit zahlreichen Provinzen, verteilt Legionen und Steuern und wehrt Völker wie Karthager, Gallier oder Germanen ab. Die Feldherren haben eigene Eigenschaften und können sich gegen Rom wenden, sodass auch Bürgerkriege drohen. Ein Teil der Abläufe wird vom Computer automatisch abgewickelt.\n\nDie C64-Fassung erschien 1987 auf Kassette und Diskette, nach den Fassungen für andere Rechner. Unter dem Titel „Annalen der Römer“ gab es eine deutsche Ausgabe. Es gibt eine EasyFlash-Umsetzung im Disk2EasyFlash-Verfahren. Gesteuert wird überwiegend mit der Tastatur.\n\nCode: A. D. Boyse, J. G. Langdale-Brown",
+  "texts": {
+    "de": "Annals of Rome ist ein rundenbasiertes Strategiespiel über die Geschichte des Römischen Reichs ab dem 3. Jahrhundert v. Chr. Man lenkt Rom auf einer Karte mit zahlreichen Provinzen, verteilt Legionen und Steuern und wehrt Völker wie Karthager, Gallier oder Germanen ab. Die Feldherren haben eigene Eigenschaften und können sich gegen Rom wenden, sodass auch Bürgerkriege drohen. Ein Teil der Abläufe wird vom Computer automatisch abgewickelt.\n\nDie C64-Fassung erschien 1987 auf Kassette und Diskette, nach den Fassungen für andere Rechner. Unter dem Titel „Annalen der Römer“ gab es eine deutsche Ausgabe. Es gibt eine EasyFlash-Umsetzung im Disk2EasyFlash-Verfahren. Gesteuert wird überwiegend mit der Tastatur.\n\nCode: A. D. Boyse, J. G. Langdale-Brown",
+    "en": "Annals of Rome is a turn-based strategy game about the history of the Roman Empire from the 3rd century BC onwards. The player guides Rome on a map with many provinces, allocates legions and taxes and fends off peoples such as the Carthaginians, Gauls or Germans. Generals have their own characteristics and may turn against Rome, so civil wars are a threat as well. Part of the proceedings is handled automatically by the computer.\n\nThe C64 version was released in 1987 on cassette and disk, after the versions for other computers. A German edition appeared under the title \"Annalen der Römer\". There is an EasyFlash conversion made with the Disk2EasyFlash method. It is mainly controlled with the keyboard.\n\nCode: A. D. Boyse, J. G. Langdale-Brown"
+  },
+  "images": {
+    "ss": "images/ad/adedd9dd3f5dd0077d8f3a046f79e4b2e25b9f80.png",
+    "sstitle": "images/3d/3df0b69af23f6c52c362001567dcfda52501a0e3.png"
+  }
+}

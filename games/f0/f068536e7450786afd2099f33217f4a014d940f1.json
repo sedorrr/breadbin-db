@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f068536e7450786afd2099f33217f4a014d940f1",
+  "md5": "199059d9aff400720beed360f8bb1c15",
+  "crc32": "02dd1557",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ai-triplepunch+.d64"
+  ],
+  "title": "Triple Punch +2",
+  "year": "2026",
+  "publisher": "Dunkle Games",
+  "developer": "Dunkle Games",
+  "genres": [
+    "Arcade",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "C64-Umsetzung des Arcade-Spiels Triple Punch von 1982 (auch als „Knock Out!!“ erschienen). Auf einem Gitter aus Rechtecken müssen die Linien rund um jedes Feld abgelaufen und damit eingefärbt werden, ähnlich wie bei Amidar; das Spielfeld ist breiter als der Bildschirm und scrollt seitlich. Verfolgern und Feuer weicht man aus, mit Schlägen lassen sich Gegner kurzzeitig aufhalten.\n\nLaut der itch.io-Seite von Dunkle Games gibt es das Spiel als D64 und als EasyFlash-Modul; die Bestenliste lässt sich mit F4 (Shift + F3) löschen.\n\nCrack-Fassung von AIliens vom 21. November 2026 (D64, PAL- und NTSC-Fassung als Einzeldatei) mit Intro und zwei Trainer-Optionen (u. a. Leben).",
+  "texts": {
+    "de": "C64-Umsetzung des Arcade-Spiels Triple Punch von 1982 (auch als „Knock Out!!“ erschienen). Auf einem Gitter aus Rechtecken müssen die Linien rund um jedes Feld abgelaufen und damit eingefärbt werden, ähnlich wie bei Amidar; das Spielfeld ist breiter als der Bildschirm und scrollt seitlich. Verfolgern und Feuer weicht man aus, mit Schlägen lassen sich Gegner kurzzeitig aufhalten.\n\nLaut der itch.io-Seite von Dunkle Games gibt es das Spiel als D64 und als EasyFlash-Modul; die Bestenliste lässt sich mit F4 (Shift + F3) löschen.\n\nCrack-Fassung von AIliens vom 21. November 2026 (D64, PAL- und NTSC-Fassung als Einzeldatei) mit Intro und zwei Trainer-Optionen (u. a. Leben).",
+    "en": "C64 conversion of the 1982 arcade game Triple Punch (also released as \"Knock Out!!\"). On a grid of rectangles, the lines around every block have to be traced and thereby coloured in, similar to Amidar; the playfield is wider than the screen and scrolls sideways. Pursuers and fire have to be avoided, and punches stop enemies for a short time.\n\nAccording to Dunkle Games' itch.io page, the game comes as a D64 and as an EasyFlash cartridge; the high-score table can be cleared with F4 (Shift + F3).\n\nCrack by AIliens from 21 November 2026 (D64, PAL and NTSC versions as a single file) with intro and two trainer options (including lives)."
+  },
+  "images": {
+    "ss": "images/56/569ef5bcd4b13b64ce25b903e6687321ef91bc8a.png",
+    "sstitle": "images/f4/f47416ee907a5600cfafc45cbb4d83160d4f3104.png"
+  }
+}
