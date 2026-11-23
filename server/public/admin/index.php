@@ -35,7 +35,8 @@ if ($admin) {
     if (isset($_GET['bild'], $_GET['id'])) {
         $b = beitrag((int)$_GET['id']);
         $pfad = (string)$_GET['bild'];
-        if (!$b || !preg_match('#^images/[0-9a-f]{2}/[0-9a-f]{40}\.(png|jpg|gif|webp)$#', $pfad, $m)) {
+        if (!$b || !preg_match('#^images/[0-9a-f]{2}/[0-9a-f]{40}\.(png|jpg|gif|webp)$#', $pfad, $m)
+            || !is_file($c['daten_dir'] . '/' . $b['datei'])) {
             http_response_code(404);
             exit;
         }
@@ -73,8 +74,10 @@ if ($admin) {
     }
     if (isset($_GET['zip'])) {
         $b = beitrag((int)$_GET['zip']);
-        if (!$b) {
+        if (!$b || !is_file($c['daten_dir'] . '/' . $b['datei'])) {
             http_response_code(404);
+            header('Content-Type: text/plain; charset=utf-8');
+            echo $b ? 'Die Datei dieses Beitrags wurde beim Aufräumen gelöscht.' : 'Beitrag nicht gefunden.';
             exit;
         }
         [$pfad, $temp] = geprueftes_zip($c, $b);
@@ -113,6 +116,17 @@ if ($admin) {
             file_put_contents(edits_pfad($c, $b), json_encode($ed, JSON_UNESCAPED_UNICODE));
         }
         header('Location: ./#s' . $sha1);
+        exit;
+    }
+    // Aufräumen: Dateien abgelehnter und ins Daten-Repository übernommener Beiträge löschen
+    if (isset($_POST['aufraeumen']) && hash_equals($token, (string)($_POST['token'] ?? ''))) {
+        [$n, $bytes, $fehler] = erledigte_aufraeumen($c);
+        $_SESSION['info'] = sprintf('Aufgeräumt: Dateien von %d Beiträgen gelöscht, %s MB frei.', $n,
+            number_format($bytes / 1048576, 1, ',', '.'));
+        if ($fehler) {
+            $_SESSION['meldung'] = "Bei $fehler Beiträgen ließ sich nicht alles löschen (Schreibrechte im Ordner daten/?).";
+        }
+        header('Location: ./');
         exit;
     }
     // Entscheidung speichern
@@ -199,6 +213,7 @@ if ($admin) {
   </form>
 <?php else:
     if (!empty($_SESSION['meldung'])): ?><p class="bad"><?= h($_SESSION['meldung']) ?></p><?php unset($_SESSION['meldung']); endif;
+    if (!empty($_SESSION['info'])): ?><p class="ok"><?= h($_SESSION['info']) ?></p><?php unset($_SESSION['info']); endif;
     $zeige = $_GET['status'] ?? 'neu';
     $zeige = in_array($zeige, ['neu', 'angenommen', 'abgelehnt'], true) ? $zeige : 'neu';
     $st = db()->prepare('SELECT * FROM beitraege WHERE status = ? ORDER BY eingang DESC LIMIT 50');
@@ -252,6 +267,17 @@ if ($admin) {
       <?php endforeach ?>
     </div>
     <?php endif ?>
+    <?php [$erl, $erlBytes] = erledigte_mit_dateien($c); ?>
+    <form method="post" class="meta" style="margin-top:8px">
+      <input type="hidden" name="token" value="<?= h($token) ?>">
+      <?php if ($erl): ?>
+        Erledigte Beiträge (abgelehnt oder ins Daten-Repository übernommen) mit Dateien auf dem Webspace:
+        <?= $erl ?> (<?= h(number_format($erlBytes / 1048576, 1, ',', '.')) ?> MB).
+        <button name="aufraeumen" value="1">Erledigte ZIPs löschen</button>
+      <?php else: ?>
+        Keine erledigten Beiträge mit Dateien auf dem Webspace – nichts aufzuräumen.
+      <?php endif ?>
+    </form>
     <p class="meta">Öffentliche Übersicht mit Suche: <a href="https://breadbindb.8bitcavern.de/">breadbindb.8bitcavern.de</a></p>
   </details>
   <?php
@@ -326,7 +352,8 @@ if ($admin) {
   <?php if (!$liste): ?><p class="meta">Keine Beiträge mit Status „<?= h($zeige) ?>“.</p><?php endif ?>
   <?php foreach ($liste as $b):
       $pfad = $c['daten_dir'] . '/' . $b['datei'];
-      $erg = is_file($pfad) ? pruefe_beitrag($pfad) : ['probleme' => ['Datei fehlt'], 'spiele' => []];
+      $da = is_file($pfad);
+      $erg = $da ? pruefe_beitrag($pfad) : ['probleme' => $b['status'] === 'neu' ? ['Datei fehlt'] : [], 'spiele' => []];
       $wahl = auswahl($c, $b);
       $ed = edits($c, $b);
       $neu = $b['status'] === 'neu';
@@ -340,7 +367,8 @@ if ($admin) {
     <section class="karte">
       <strong>#<?= (int)$b['id'] ?></strong> · <?= h($b['eingang']) ?> · <?= (int)$b['spiele'] ?> Spiele
       <?php if ($b['name'] !== ''): ?>· von <?= h($b['name']) ?><?php endif ?>
-      · <a href="?zip=<?= (int)$b['id'] ?>">ZIP herunterladen</a>
+      <?php if ($da): ?>· <a href="?zip=<?= (int)$b['id'] ?>">ZIP herunterladen</a>
+      <?php elseif (!$neu): ?>· <span class="meta">Datei beim Aufräumen gelöscht</span><?php endif ?>
       <?php if ($vg): ?><p class="zusammen">Im Vergleich zum Datenbestand:
         <span class="chip neu"><?= (int)($zaehl['neu'] ?? 0) ?> neu</span>
         <span class="chip geaendert"><?= (int)($zaehl['geaendert'] ?? 0) ?> geändert</span>

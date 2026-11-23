@@ -140,6 +140,56 @@ function sorge_fuer_uebernommen(): void
     $fertig = true;
 }
 
+// Aufräumen: Dateien erledigter Beiträge (abgelehnt oder ins Daten-Repository übernommen) werden nicht mehr gebraucht.
+// Die Zeile in der Datenbank bleibt (Statistik, Liste); die Prüfseite zeigt dann „Datei gelöscht“.
+function beitrag_dateien(array $c, array $b): array
+{
+    $basis = $c['daten_dir'] . '/' . basename((string)$b['datei']);
+    return array_values(array_filter([$basis, $basis . '.auswahl.json', $basis . '.edits.json'], 'is_file'));
+}
+
+/** Erledigte Beiträge, deren Dateien noch auf dem Webspace liegen: [Anzahl, Bytes, Beiträge]. */
+function erledigte_mit_dateien(array $c): array
+{
+    sorge_fuer_uebernommen();
+    $rows = db()->query("SELECT * FROM beitraege WHERE status = 'abgelehnt'
+        OR (status = 'angenommen' AND uebernommen IS NOT NULL)")->fetchAll();
+    $treffer = [];
+    $bytes = 0;
+    foreach ($rows as $b) {
+        $dateien = beitrag_dateien($c, $b);
+        if ($dateien) {
+            $treffer[] = $b;
+            foreach ($dateien as $d) {
+                $bytes += (int)filesize($d);
+            }
+        }
+    }
+    return [count($treffer), $bytes, $treffer];
+}
+
+/** Löscht die Dateien aller erledigten Beiträge. [aufgeräumte Beiträge, freigegebene Bytes, Beiträge mit Fehler] */
+function erledigte_aufraeumen(array $c): array
+{
+    [, , $liste] = erledigte_mit_dateien($c);
+    $n = 0;
+    $bytes = 0;
+    $fehler = 0;
+    foreach ($liste as $b) {
+        $ok = true;
+        foreach (beitrag_dateien($c, $b) as $d) {
+            $groesse = (int)filesize($d);
+            if (@unlink($d)) {
+                $bytes += $groesse;
+            } else {
+                $ok = false;
+            }
+        }
+        $ok ? $n++ : $fehler++;
+    }
+    return [$n, $bytes, $fehler];
+}
+
 /** Geprüfte Fassung eines Beitrags als Datei: Original oder (bei Auswahl/Bearbeitung) neu gebautes ZIP. [Pfad, temporär?] */
 function geprueftes_zip(array $c, array $b): array
 {
