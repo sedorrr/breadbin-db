@@ -1,6 +1,6 @@
 {
-  "version": "0.9.3",
+  "version": "0.9.4",
   "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "Prüfung auf neue Fassung alle 6 Stunden, Knopf zum Nachsehen, Versionsverlauf",
-  "notes_en": "Version check every 6 hours, button to check now, version history"
+  "notes_de": "BMC64 und TeensyROM (ungetestet) als Geräte, mehrere Emulatoren samt Denise, REU-Abbild beim Start, Scan meldet neue und fehlende Dateien",
+  "notes_en": "BMC64 and TeensyROM (untested) as devices, several emulators incl. Denise, REU image on start, scan reports new and missing files"
 }
