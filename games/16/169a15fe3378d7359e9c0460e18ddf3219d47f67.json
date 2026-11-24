@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "sha1": "169a15fe3378d7359e9c0460e18ddf3219d47f67",
+  "md5": "fc4ccb0c35e794a6c1f05d2fb55a4066",
+  "crc32": "169b5430",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "666 ARCADE CLASSICS 666.D64"
+  ],
+  "title": "Arcade Classics",
+  "year": "2008",
+  "genres": [
+    "Arcade"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/29/2993c8870cc41bc718afa1cffb9236f53d4a9216.png",
+    "sstitle": "images/87/87b2c3bce4123a5f7df77b398a972b2f22efe430.png"
+  }
+}

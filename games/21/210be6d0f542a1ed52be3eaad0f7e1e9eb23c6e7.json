@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "210be6d0f542a1ed52be3eaad0f7e1e9eb23c6e7",
+  "md5": "f6ab454a23425777079ede1bf8ac9160",
+  "crc32": "c6454c7b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "174_Popeye_1984_ParkerBrothers.d64"
+  ],
+  "title": "Popeye",
+  "year": "1983",
+  "publisher": "Parker Brothers",
+  "genres": [
+    "Arcade",
+    "Platformer (Single Screen)"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/43/43c9c793245cd93614233574d894aa881ed712a7.png",
+    "sstitle": "images/e9/e95c37033fe11976653a0048260380055c7b6a17.png"
+  }
+}

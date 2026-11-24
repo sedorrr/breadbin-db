@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "8159590e0fdd21849a61e78ccfbcce316abc2125",
+  "md5": "198b2bdd8858528a42fbb7c6a6ba1444",
+  "crc32": "d3ad36b7",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "175_SilentService_1985_Microprose.d64"
+  ],
+  "title": "Silent Service",
+  "year": "1985",
+  "publisher": "Microprose",
+  "genres": [
+    "Simulation",
+    "Adventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/56/56327fc42492ad6a36402a9214db4a6e44cc9ee1.png",
+    "sstitle": "images/e2/e2d4aeee9433c03008d3fb42e767dfeb97235848.png"
+  }
+}

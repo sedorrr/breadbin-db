@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "747a57bb4e38aecc50734eddb639d11d345f17ea",
+  "md5": "26a22819f4e6d0de89259f6cf70e2e14",
+  "crc32": "d43ea662",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "308_Miami_Vice_1986_Ocean.d64"
+  ],
+  "title": "Miami Vice",
+  "year": "1986",
+  "publisher": "Ocean",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/e9/e90aa71fad6d6201cee69d875ea92b4b70ac494b.png",
+    "sstitle": "images/b4/b4bfc83ecc6b6fd5c3be85e39ec01e019686b0a7.png"
+  }
+}

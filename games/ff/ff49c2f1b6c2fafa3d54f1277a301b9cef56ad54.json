@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "ff49c2f1b6c2fafa3d54f1277a301b9cef56ad54",
+  "md5": "c59a3c77e915a7fd06b4d384da801617",
+  "crc32": "ea2b0bf4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "219_Bionic_Commando_1987_GO!.d64"
+  ],
+  "title": "Bionic Commando",
+  "year": "1988",
+  "publisher": "GO!",
+  "genres": [
+    "Arcade",
+    "Platformer (Scrolling Screen)"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/1d/1ddfb38f17e09d67ebaebddd87e4ddca0aca7354.png",
+    "sstitle": "images/10/1032222ea94b9d93ff6192d1b2a27354060d85c2.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "b63397951625e4df6b4356323841fa159fd8ab75",
+  "md5": "4c46267d4f20003879d010bbf0350387",
+  "crc32": "4fc6da14",
+  "size": 172432,
+  "format": "CRT",
+  "files": [
+    "099_BatmanTheMovice_1989_Ocean-EF.crt"
+  ],
+  "title": "Batman - The Movie",
+  "year": "1989",
+  "publisher": "Ocean",
+  "genres": [
+    "Action",
+    "Misc"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/60/6046dcac27c7264a1ffc3f55af2b3f0c2cb0a6f9.png",
+    "sstitle": "images/49/492dd333909214457308917fd02a431c73d6c3e3.png"
+  }
+}

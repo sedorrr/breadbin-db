@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "aba7635bb9a5048ab9ed528c0ff8ef39bb894957",
+  "md5": "9cc82c66fa735a3ebe7663e12f256a6c",
+  "crc32": "b4d747fe",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "254_TRAZ_1988_Cascade.d64"
+  ],
+  "title": "TRAZ - Transformable Arcade Zone",
+  "year": "1988",
+  "publisher": "Cascade",
+  "genres": [
+    "Arcade",
+    "Breakout/Pong"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/1c/1c5de66ea447e1224b5814b00847808a6e00392f.png",
+    "sstitle": "images/fc/fc2b68c9b7112880f764eb7c846f7f3322a01ece.png"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "e871913eea3e19217f19cef051cfaace7563d27f",
+  "md5": "7ee268f0bf609869e926db9295aebe55",
+  "crc32": "204e11c4",
+  "size": 303760,
+  "format": "CRT",
+  "files": [
+    "250_Pirates!_EF_1987_Microprose.crt"
+  ],
+  "title": "Pirates!",
+  "year": "1987",
+  "publisher": "Microprose",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/96/967a0e17439de46bbb474b93a1fc9cbb667de29e.png",
+    "sstitle": "images/6f/6f860321badf4dbe42b96bf9aa3c58cd6dec11db.png"
+  }
+}

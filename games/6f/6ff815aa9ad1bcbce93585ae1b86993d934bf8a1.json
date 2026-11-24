@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "6ff815aa9ad1bcbce93585ae1b86993d934bf8a1",
+  "md5": "3960cd35862796b8ea2ed3b375753c37",
+  "crc32": "e3ebab12",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "189_MovieMonster_1986_Epyx.d64"
+  ],
+  "title": "The Movie Monster Game",
+  "year": "1986",
+  "publisher": "Epyx",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/be/beb53cafbd7d5309f3e186ff2d748dda04d8dc9b.png",
+    "sstitle": "images/d2/d2a890cd0bbf25a83325dfeba9872412125098c5.png"
+  }
+}

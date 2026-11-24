@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "53f1fc536135adad95e5499863d32f05165b95fe",
+  "md5": "10a855977672fcdd59bd82743d84ecc0",
+  "crc32": "80231ef2",
+  "size": 197056,
+  "format": "CRT",
+  "files": [
+    "275_SWIV_1991_Storm.crt"
+  ],
+  "title": "SWIV",
+  "year": "1991",
+  "publisher": "Storm",
+  "genres": [
+    "Shoot'em Up",
+    "V-Scrolling"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/cc/cc4cf8c2d56390f6bf49005c67a2047228ff1431.png",
+    "sstitle": "images/de/de51a68b67a81bbba1958bcd4a8c7035c60308f9.png"
+  }
+}

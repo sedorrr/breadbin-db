@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "79b0bf269ebfe204eef57d83d3229a99f6c30884",
+  "md5": "cc677bd6fb94c58f6f6a860302ef80b9",
+  "crc32": "16de2616",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "234_OilsWell_1983_Sierra.d64"
+  ],
+  "title": "Oils Well",
+  "year": "1983",
+  "publisher": "Sierra Online Inc.",
+  "genres": [
+    "Arcade",
+    "Collect'em Up"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/61/61c906591c53e827dd358358c58983ea8c032c4b.png",
+    "sstitle": "images/e2/e20e0abd5f3c096ed0158f60ba97e78966fcf9f3.png"
+  }
+}

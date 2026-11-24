@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "2ac10f56afa56b78184eb3ae891e36eb573c0238",
+  "md5": "e526a2a0fa1a68c8357a178ecfe1eaef",
+  "crc32": "e7f95cd6",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "720 Degrees 100% +5 (Wanderer).d64"
+  ],
+  "title": "720°",
+  "year": "1987",
+  "publisher": "US Gold",
+  "genres": [
+    "Sports",
+    "Skateboard/Skating"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/a0/a0153f92dfdbb24ed3ccef3038345823d1d023d6.png",
+    "sstitle": "images/a7/a7762b75f9e98c0046f2853a1ac73baa3621f891.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "18ae94f87a2515b0bd4d5cc1bfc1dfbd21ce1f18",
+  "md5": "08c5fd80ac724a4fe6afde78cb1d537e",
+  "crc32": "9e42bfd4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "061_Hard_Hat_Mack_1983_Electronic_Arts.d64"
+  ],
+  "title": "Hard Hat Mack",
+  "year": "1983",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Arcade",
+    "Platformer (Single Screen)"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/25/251133a21173d04c7794ebc4acecf64f4d7a3508.png",
+    "sstitle": "images/62/62de60bdd6eb5f820fee3f8dd8bc5bc95c6bfc09.png"
+  }
+}

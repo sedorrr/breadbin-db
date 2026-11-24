@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "463dfd7dc322f3ae0baeacc076815fd4030213ee",
+  "md5": "b4dbf90b37cf63d8801c6903bcb39187",
+  "crc32": "f7ddb297",
+  "size": 632080,
+  "format": "CRT",
+  "files": [
+    "237_CavemanUgh-Lympics_1988_EOA-EF.crt"
+  ],
+  "title": "Caveman Ugh-Lympics",
+  "year": "1988",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Sport",
+    "Multi-Event"
+  ],
+  "players": "1-6",
+  "images": {
+    "ss": "images/f8/f87d9c65ebf96727167a76c342f35a02964e8902.png",
+    "sstitle": "images/59/59ddbd86a9d62e55573ada6190ab7dd0ceec35e1.png"
+  }
+}

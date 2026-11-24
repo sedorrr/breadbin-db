@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "dd4d8434861d0ef96d7603498c74335d2490df7c",
+  "md5": "53aac612f682440389ac8dfa4bb26ac9",
+  "crc32": "7520e8a3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "195_Infiltrator2_1987_Mindscape.d64"
+  ],
+  "title": "Infiltrator Part II - The Next Day",
+  "year": "1987",
+  "publisher": "Mindscape",
+  "genres": [
+    "Flight (Military)",
+    "Action-Adventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/ca/ca55f87b0c1e095e7c815d591278f2eeaaadf12a.png",
+    "sstitle": "images/3b/3b38e0fa22140e5106cf4b963b8130f5d72b7c13.png"
+  }
+}

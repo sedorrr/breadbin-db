@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "28b7b19e7314ace86b527eb99e7cc4bbf3afee2f",
+  "md5": "f7be73aa5508d326a75dc09a18748e39",
+  "crc32": "d84aa03f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "1942 +1 (HOTLINE).d64"
+  ],
+  "title": "1942",
+  "year": "1986",
+  "publisher": "Capcom",
+  "genres": [
+    "Arcade",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/c9/c9080622ac8f3b25746840a5c26a71b998f4475f.png",
+    "sstitle": "images/9f/9f38a82d43ad035ecb4d14d0e24899bcefa7b8ee.png"
+  }
+}

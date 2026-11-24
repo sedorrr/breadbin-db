@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "81d865c322cf987eef29499b5db22e128a1725de",
+  "md5": "3f8b76a61c47dcde765902dcf5ad0387",
+  "crc32": "e217d3dc",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "253_River_Raid_1984_Activision.d64"
+  ],
+  "title": "River Raid",
+  "year": "1984",
+  "publisher": "Activision",
+  "genres": [
+    "Shoot'em Up",
+    "V-Scrolling"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/37/37f3145338fdfbde79e1516ed7d486b30506a88b.png",
+    "sstitle": "images/87/87d3f9f25782622a356a11e914e99de840c1eec0.png"
+  }
+}

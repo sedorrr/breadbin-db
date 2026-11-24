@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "e439a40c4ee043c5c4c0f1dbca1a383ca052a6e0",
+  "md5": "54747598e6a35affe42773b26130ee63",
+  "crc32": "9278ebe0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "4Goal Challenge +D [BLZ].d64"
+  ],
+  "title": "4Goal: Challenge",
+  "year": "2026",
+  "publisher": "Public Domain",
+  "developer": "Eduardo Maronas Monks",
+  "genres": [
+    "Sports",
+    "Football/Soccer"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/ce/ce9f5e5ddaca9385b8def0eed9205c6463893055.png",
+    "sstitle": "images/1e/1e3cc66fe47af195a70c0e23682f567df90fedd5.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "3dd99fb63ee0e5dbc418b365603cd394722e3430",
+  "md5": "21187907c1cf40818012ebf2926cc15d",
+  "crc32": "6637f77c",
+  "size": 402256,
+  "format": "CRT",
+  "files": [
+    "225_SuperWonderboyInMonsterland_1989_Activision-EF.crt"
+  ],
+  "title": "Wonderboy in Monsterland",
+  "year": "1989",
+  "publisher": "Activision",
+  "genres": [
+    "Arcade",
+    "Platformer (Scrolling Screen)"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/65/65dd3ebcdf9654ad423e46644fa512e1a6012953.png",
+    "sstitle": "images/de/de9441b32a3d5460d6848ff4bbbf89a0fc234128.png"
+  }
+}

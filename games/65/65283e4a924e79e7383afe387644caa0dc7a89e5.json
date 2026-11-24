@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "65283e4a924e79e7383afe387644caa0dc7a89e5",
+  "md5": "fe5cbdc58c6ff70dd738cbe013653082",
+  "crc32": "f43bae71",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "328_Silk_Worm_1989_Sales_Curve.d64"
+  ],
+  "title": "Silkworm",
+  "year": "1989",
+  "publisher": "The Sales Curve",
+  "genres": [
+    "Shoot'em Up",
+    "H-Scrolling"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/e5/e5203bbd67bf1ee172c22359fea520b8443a9fb5.png",
+    "sstitle": "images/59/59012fed1a36131705b835b46948f27680e3f229.png"
+  }
+}

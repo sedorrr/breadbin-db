@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "d69f21e34196f519e3e80f6a5b0b644fa1519b8d",
+  "md5": "aedf3da5c73005d26924aabe54637e04",
+  "crc32": "1dbf6e39",
+  "size": 221680,
+  "format": "CRT",
+  "files": [
+    "273_Mayhem_in_Monsterland_1993_Apex.crt"
+  ],
+  "title": "Mayhem in Monsterland",
+  "year": "1993",
+  "publisher": "Apex",
+  "genres": [
+    "Jump & Run"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/2d/2d1512b68d47cf1e8abe590ab611636fcfd89238.png",
+    "sstitle": "images/84/8450f07b635912b6bf920a5d3c610bdde4511208.png"
+  }
+}

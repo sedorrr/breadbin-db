@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "72e39e0c8df45dc234cca9bc9827dcb283d28c5b",
+  "md5": "1c687632ebe84f65323522e0016fa10e",
+  "crc32": "ca20f449",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "182_Ghostbusters_1984_Activision.d64"
+  ],
+  "title": "Ghostbusters",
+  "year": "1984",
+  "publisher": "Activision",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/98/9850f75811c59ccd04e95028ceeda2419b1fe5d4.png",
+    "sstitle": "images/fa/fac7721a6769cb14a83ad274d12336a7be20030d.png"
+  }
+}

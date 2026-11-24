@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "1ad9fd7abfa7dd4b236f53d35db61b3cf8752112",
+  "md5": "5ab74e8b2c0f25d8e6cf4431ed52760c",
+  "crc32": "1cc94f96",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "332_Stormlord_1989_Hewson.d64"
+  ],
+  "title": "Stormlord",
+  "year": "1989",
+  "publisher": "Hewson",
+  "genres": [
+    "Jump & Run",
+    "Actionadventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/e0/e07e4de49365d2b3a35116a6a1589436c48576b5.png",
+    "sstitle": "images/30/30d38f85d106e9e50a7487c5ae4ffba36d7a7eef.png"
+  }
+}

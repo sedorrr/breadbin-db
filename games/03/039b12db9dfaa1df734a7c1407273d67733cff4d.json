@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "039b12db9dfaa1df734a7c1407273d67733cff4d",
+  "md5": "e8c8b3fe991b4bcbcf986377a7483bb8",
+  "crc32": "e5fdddee",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "320_Lady_Tut_1983_Progame.d64"
+  ],
+  "title": "Lady Tut",
+  "year": "1983",
+  "publisher": "Spinnaker Software",
+  "genres": [
+    "Arcade",
+    "Collect'em Up"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/66/66eb45d842cd71f04a762471dee3c93e2973d6ae.png",
+    "sstitle": "images/80/802ba161e9323acae7c75b0de9ce1e5014504e16.png"
+  }
+}

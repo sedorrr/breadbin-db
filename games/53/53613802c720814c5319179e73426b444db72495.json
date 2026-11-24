@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "53613802c720814c5319179e73426b444db72495",
+  "md5": "671a24a751a269c8b7f00b74fa7820e6",
+  "crc32": "ec216f6e",
+  "size": 361216,
+  "format": "CRT",
+  "files": [
+    "257_BattleChess-EF_1988_Interplay.crt"
+  ],
+  "title": "Battle Chess",
+  "year": "1988",
+  "publisher": "Electronic Arts",
+  "developer": "Interplay",
+  "genres": [
+    "Board Game",
+    "Chess"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/5d/5d84f3b673ed6ec50fda0a707d3bcc77fa2a147e.png",
+    "sstitle": "images/22/2200c90c244c56eed802ddd92a9e105414d216e7.png"
+  }
+}

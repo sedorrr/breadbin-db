@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "9500f01443a6cb671f0a2dd2de37c94efce64200",
+  "md5": "d655601d24b0e10574a65127ba1b12fd",
+  "crc32": "e487ad07",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "176_Space_Taxi_V3_1984_MUSE.d64"
+  ],
+  "title": "Space Taxi",
+  "year": "1984",
+  "publisher": "Muse Software",
+  "genres": [
+    "Arcade",
+    "Platformer (Single Screen)"
+  ],
+  "players": "1-4",
+  "images": {
+    "ss": "images/a5/a564855b70d1fd8e48a57895d4f1629e3b9cb44b.png",
+    "sstitle": "images/21/21d5ebbac5a8eef8303330abac6df8553e27d14f.png"
+  }
+}

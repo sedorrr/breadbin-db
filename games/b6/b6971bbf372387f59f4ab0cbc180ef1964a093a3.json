@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "b6971bbf372387f59f4ab0cbc180ef1964a093a3",
+  "md5": "3c0c4d56292cc6b0a4381f5c55cf7265",
+  "crc32": "0731b6ef",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "331_Operation_Wolf_1988_Ocean.d64"
+  ],
+  "title": "Operation Wolf",
+  "year": "1988",
+  "publisher": "Ocean",
+  "genres": [
+    "Shoot'em Up",
+    "Crosshair"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/2a/2a3335e32597313f3f25f61b7413e83a13e5dec7.png",
+    "sstitle": "images/9d/9d2b2763758c3d1fc6a39380b6354ac5aff002ab.png"
+  }
+}

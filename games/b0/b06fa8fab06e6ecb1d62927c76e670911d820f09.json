@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "b06fa8fab06e6ecb1d62927c76e670911d820f09",
+  "md5": "e8b20a520cb685fbf76465c57deeabde",
+  "crc32": "9a596b4f",
+  "size": 771616,
+  "format": "CRT",
+  "files": [
+    "327_Elvira-MOTD-Enhanced_1991_Flair.crt"
+  ],
+  "title": "Elvira - Mistress Of The Dark (Enhanced Version)",
+  "year": "1991",
+  "publisher": "Flair Software Ltd.",
+  "genres": [
+    "Rollenspiel",
+    "Adventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/01/012e2582d822ae641fb8c2dcbb0f97f3d0643cad.png",
+    "sstitle": "images/95/95c7f01b46e2d79b561d4c14da270962577ed9bc.png"
+  }
+}

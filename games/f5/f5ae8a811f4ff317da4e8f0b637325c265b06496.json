@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "f5ae8a811f4ff317da4e8f0b637325c265b06496",
+  "md5": "4ed78a14ee2cc10e3247f36ccb4c910a",
+  "crc32": "bc1de208",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "239_Arachnophobia_1991_WaltDisney.D64"
+  ],
+  "title": "Arachnophobia",
+  "year": "1991",
+  "publisher": "Walt Disney",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/33/33a8eacfbc785f2bbfb0aea50cd06a74b2b0a6a7.png",
+    "sstitle": "images/5b/5b64fbdb6ef07b79bcae42f1842d6410df00a2fb.png"
+  }
+}

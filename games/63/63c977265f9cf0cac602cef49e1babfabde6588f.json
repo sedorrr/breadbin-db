@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "63c977265f9cf0cac602cef49e1babfabde6588f",
+  "md5": "3a6b348289aa7a7cfc1a0415984ed89e",
+  "crc32": "97a649b1",
+  "size": 213472,
+  "format": "CRT",
+  "files": [
+    "266_Cabal_1989_Ocean.crt"
+  ],
+  "title": "Cabal",
+  "year": "1989",
+  "publisher": "Ocean",
+  "genres": [
+    "Shoot'em Up",
+    "Crosshair"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/44/44c9ecb6b94546c074d6b17cf3125c6073034692.png",
+    "sstitle": "images/79/79ef0f90fdd307e8f377e7a7734627a9cee88c2d.png"
+  }
+}

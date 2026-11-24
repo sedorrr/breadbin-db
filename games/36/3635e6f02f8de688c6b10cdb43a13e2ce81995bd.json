@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "3635e6f02f8de688c6b10cdb43a13e2ce81995bd",
+  "md5": "c6bde212e521e00fc2e7bb9d05cb1487",
+  "crc32": "6462741e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "318_Scorpius_1988_Silverbird.d64"
+  ],
+  "title": "Scorpius",
+  "year": "1988",
+  "publisher": "Silverbird",
+  "genres": [
+    "Shoot'em Up",
+    "H-Scrolling"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/63/6389ac1ced244c5b1dd4bf2913f6b5b801748715.png",
+    "sstitle": "images/f2/f29a498a75d1f9fbcb421d92303209065f2d1238.png"
+  }
+}

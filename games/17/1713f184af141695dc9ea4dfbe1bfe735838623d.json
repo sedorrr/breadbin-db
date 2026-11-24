@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "1713f184af141695dc9ea4dfbe1bfe735838623d",
+  "md5": "3e373b46c4c47dd05305f83e87d10ecf",
+  "crc32": "fd86e1f5",
+  "size": 229888,
+  "format": "CRT",
+  "files": [
+    "268_fix_Platoon_1987_Ocean.crt"
+  ],
+  "title": "Platoon",
+  "year": "1987",
+  "publisher": "Ocean",
+  "genres": [
+    "Shoot'em Up",
+    "Action Adventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/60/60ad485c8bcf92a7018d99d74ee94fc544db477f.png",
+    "sstitle": "images/50/50bf351a4a3f4bbf347603ee94be63f980d098d8.png"
+  }
+}

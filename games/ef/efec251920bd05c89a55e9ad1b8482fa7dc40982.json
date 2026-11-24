@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "efec251920bd05c89a55e9ad1b8482fa7dc40982",
+  "md5": "3da43229a868d1034adc588408c34009",
+  "crc32": "1bea4791",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "185_Infiltrator_1986_Mindscape.d64"
+  ],
+  "title": "Infiltrator",
+  "year": "1986",
+  "publisher": "Mindscape",
+  "genres": [
+    "Flight (Military)"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/fe/fe3cbdf4894e11afc315ca6eb9afb8c3da6f318d.png",
+    "sstitle": "images/9d/9d67db0c96d4806847797bf2e516d7ddc43b255b.png"
+  }
+}

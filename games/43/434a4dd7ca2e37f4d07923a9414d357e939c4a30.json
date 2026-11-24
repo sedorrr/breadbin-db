@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "434a4dd7ca2e37f4d07923a9414d357e939c4a30",
+  "md5": "5ed97313860483b354b677feebc7a567",
+  "crc32": "71c78173",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "180.d64"
+  ],
+  "title": "180",
+  "year": "1986",
+  "publisher": "MAD (Mastertronic)",
+  "genres": [
+    "Sports",
+    "Darts"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/47/4708d1cf8ba4989cd907d8f8b0dd65c4e3a65580.png",
+    "sstitle": "images/8f/8f2983a414c1122e9615680154b98d81f658a2c1.png"
+  }
+}

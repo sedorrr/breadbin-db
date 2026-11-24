@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "7d453bda829ee370b8d9630e85118815148647dc",
+  "md5": "16393e4d2cd2c191c7a9b1826e46d6cd",
+  "crc32": "6b73b53a",
+  "size": 689536,
+  "format": "CRT",
+  "files": [
+    "slam_siblings_[trex].crt"
+  ],
+  "title": "Awesome SlamSibs Infinite",
+  "year": "2026",
+  "publisher": "Public Domain",
+  "genres": [
+    "Sport",
+    "Fighting"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/cb/cbeca0001c1024ef3331ff866add55a63051a828.png",
+    "sstitle": "images/b9/b998a38ffce8075995fc9d4fe70d5afdb710e159.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "0a422c62a66b576f3c7ea655306e3bd8793e18c1",
+  "md5": "0ff45da5ec2d43d1ebf4105d59cb949a",
+  "crc32": "8ec209ec",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "303_Street_Surfer_1986_Mastertronic.d64"
+  ],
+  "title": "Street Surfer",
+  "year": "1986",
+  "publisher": "Mastertronic",
+  "genres": [
+    "Racing",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/aa/aab90ee4f806f832e8f3dc8513f92f237d55479a.png",
+    "sstitle": "images/7c/7c696d4a26bd3682a414c3567090cd27ece610a7.png"
+  }
+}

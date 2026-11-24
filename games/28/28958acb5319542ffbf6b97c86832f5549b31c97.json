@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "28958acb5319542ffbf6b97c86832f5549b31c97",
+  "md5": "a871abc18176bcfa0fd2beb3a11ae1ed",
+  "crc32": "a34cca9c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "160_ImpossibleMission2_1988_Epyx.d64"
+  ],
+  "title": "Impossible Mission II",
+  "year": "1988",
+  "publisher": "Epyx",
+  "genres": [
+    "Platformer",
+    "Puzzle"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/2b/2bf8bb2b656cfebed6d9bd8d62f39a84e77f74b4.png",
+    "sstitle": "images/e2/e268f96fdca1a403f2085205b283e3fb7db32c4e.png"
+  }
+}

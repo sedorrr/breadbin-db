@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "6355191a5c3c08e279b83a665ac93cc8b918f5b7",
+  "md5": "03b3f7d9a615bb87596e5b7c6c711ead",
+  "crc32": "98f2eeba",
+  "size": 819200,
+  "format": "D81",
+  "files": [
+    "4x4_Off-Road_Racing_1988_Epyx.d81"
+  ],
+  "title": "4x4 Off-Road Racing",
+  "year": "1988",
+  "publisher": "Epyx",
+  "genres": [
+    "Racing",
+    "Cars"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/ca/ca3051b95fea0d927508b05bdd9fcf78428252a3.png",
+    "sstitle": "images/5a/5ae237ad9ec31abd1dbd9e17d26b8d4e1639d6d4.png"
+  }
+}

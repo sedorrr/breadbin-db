@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "2f7364d795efb4748b3c6397f0a3831c406adb5b",
+  "md5": "1267dec15fca1414ce54bfcb26065e43",
+  "crc32": "d489809e",
+  "size": 763408,
+  "format": "CRT",
+  "files": [
+    "235_Elvira-MODT_1991_Flair-EF.crt"
+  ],
+  "title": "Elvira: Mistress of the Dark",
+  "year": "1991",
+  "publisher": "Flair Software Ltd.",
+  "genres": [
+    "Rollenspiel",
+    "Adventure"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/22/22dd8417feb529823004b66d69b9577c886b1826.png",
+    "sstitle": "images/c8/c8cd35a81dff8b46e58b90e9e9dd0c36463f3e43.png"
+  }
+}

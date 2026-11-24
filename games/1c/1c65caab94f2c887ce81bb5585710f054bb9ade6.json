@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "1c65caab94f2c887ce81bb5585710f054bb9ade6",
+  "md5": "0734659772c5f5d00c80399846db19f2",
+  "crc32": "dfbab503",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "274_Great_Giana_Sisters_1987_Rainbow_Arts.d64"
+  ],
+  "title": "The Great Giana Sisters",
+  "year": "1987",
+  "publisher": "Rainbow Arts",
+  "genres": [
+    "Jump & Run"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/60/60d7b7e624a3827453d0609d3f605ef6c2fd740d.png",
+    "sstitle": "images/f6/f6a1565ce3e785b91405ebb280ac1adad3a7819c.png"
+  }
+}

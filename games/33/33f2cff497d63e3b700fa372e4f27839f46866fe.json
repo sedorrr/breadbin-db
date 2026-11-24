@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "33f2cff497d63e3b700fa372e4f27839f46866fe",
+  "md5": "9e1f8142425783b8302efa85e699e43a",
+  "crc32": "9de73830",
+  "size": 197056,
+  "format": "CRT",
+  "files": [
+    "262_fix2_Robocop_1988_Ocean.crt"
+  ],
+  "title": "Robocop",
+  "year": "1988",
+  "publisher": "Ocean",
+  "genres": [
+    "Shoot'em Up (H-Scrolling)",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/c2/c27ae586d3b3fce5d07c97dbaf5a81c7eafbbe6a.png",
+    "sstitle": "images/71/710e9897f35655b87c83ecbf1451b584c106a02c.png"
+  }
+}

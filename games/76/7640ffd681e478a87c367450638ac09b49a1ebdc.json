@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "7640ffd681e478a87c367450638ac09b49a1ebdc",
+  "md5": "dfdbacca0bd2d9d1f3e3dfba224e28cb",
+  "crc32": "2deab854",
+  "size": 320176,
+  "format": "CRT",
+  "files": [
+    "271_Creatures_2_1992_Thalamus.crt"
+  ],
+  "title": "Creatures II - Torture Trouble",
+  "year": "1992",
+  "publisher": "Thalamus",
+  "genres": [
+    "Platformer",
+    "Scrolling Screen"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/db/db9674a0c16d4a02fde7aec1a06548dcd2f80629.png",
+    "sstitle": "images/34/344342a8bb9a70a2eeb2f020db18b64864d9506d.png"
+  }
+}

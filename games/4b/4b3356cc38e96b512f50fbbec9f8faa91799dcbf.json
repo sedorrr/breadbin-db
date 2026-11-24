@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "4b3356cc38e96b512f50fbbec9f8faa91799dcbf",
+  "md5": "ab6ecc8a93ec50b72f5646e938feb50b",
+  "crc32": "b93560ad",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "313_Wheres My Bones-Nostalgia.d64"
+  ],
+  "title": "Where's My Bones?",
+  "year": "1984",
+  "publisher": "Interceptor Software",
+  "genres": [
+    "Platformer",
+    "Scrolling Screen"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/10/10b569c1d4f803e8bee632eaa02b6582c5477028.png",
+    "sstitle": "images/2b/2bebfdfc5671ddcccdcf989efd6afeb8c29fd65f.png"
+  }
+}

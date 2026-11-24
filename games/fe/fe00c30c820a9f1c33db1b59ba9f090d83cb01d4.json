@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "fe00c30c820a9f1c33db1b59ba9f090d83cb01d4",
+  "md5": "ebbf4bc056fbb9bc336ac63917fa1f62",
+  "crc32": "d3518f42",
+  "size": 4105,
+  "format": "PRG",
+  "files": [
+    "31-weihnachtsspringen.prg"
+  ],
+  "title": "Weihnachtsspringen",
+  "year": "2022",
+  "developer": "Roman Werner",
+  "genres": [
+    "Sport",
+    "Ski"
+  ],
+  "players": "1-6",
+  "images": {
+    "ss": "images/f6/f62ff0ea5056470fd39ec4d5c10ceccbe3e07ea9.png",
+    "sstitle": "images/aa/aad604eecece3958e5acedf809af8170126b0901.png"
+  }
+}

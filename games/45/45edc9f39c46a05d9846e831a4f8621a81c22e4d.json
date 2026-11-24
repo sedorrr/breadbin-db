@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "45edc9f39c46a05d9846e831a4f8621a81c22e4d",
+  "md5": "122b278f690469d4eaac8a7f2a3119af",
+  "crc32": "9abe8796",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Rick Dangerous.d64"
+  ],
+  "title": "Rick Dangerous",
+  "year": "1989",
+  "publisher": "Firebird",
+  "developer": "Core Design",
+  "genres": [
+    "Arcade",
+    "Platformer (Scrolling Screen)"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/4f/4f7b9b2c6597a55cf623e0eb4a8f4aece9817b47.png",
+    "sstitle": "images/b0/b017b265e4ccaac09350daa60445ee772038b850.png"
+  }
+}

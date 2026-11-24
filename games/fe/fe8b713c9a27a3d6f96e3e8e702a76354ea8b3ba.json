@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "fe8b713c9a27a3d6f96e3e8e702a76354ea8b3ba",
+  "md5": "b616091f0537fd458c2d945835694550",
+  "crc32": "d0d9c670",
+  "size": 254512,
+  "format": "CRT",
+  "files": [
+    "272_Creatures_1990_Thalamus.crt"
+  ],
+  "title": "Creatures",
+  "year": "1990",
+  "publisher": "Thalamus",
+  "genres": [
+    "Platformer",
+    "Scrolling Screen"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/d6/d6995dfa965c3e3ee507a04de0a7cb50128f951d.png",
+    "sstitle": "images/85/85d9e02ad0d9043a2f1563cf9aca2bdcf9901937.png"
+  }
+}

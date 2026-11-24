@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "497412ab450b5108fb784de04fee6f9a62b2eec4",
+  "md5": "3fd6baf99c0537c588be1b945e679519",
+  "crc32": "7d57b103",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "1943.d64"
+  ],
+  "title": "1943 - The Battle of Midway",
+  "year": "1988",
+  "publisher": "Capcom",
+  "genres": [
+    "Arcade",
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/8a/8a41a812df0881a4a0b64f6a76e861fd2d2a3ca5.png",
+    "sstitle": "images/38/38563832c25ce7f6095f1ad11a2922e3e50bcba2.png"
+  }
+}

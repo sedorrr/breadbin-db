@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "881a156981cf08cf0040601202320c75fa89c536",
+  "md5": "ad3925e80ad1a38781e7bc245694e37f",
+  "crc32": "e11c124b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "329_Bod_Squad_1992_Zeppelin.d64"
+  ],
+  "title": "The Bod Squad",
+  "year": "1992",
+  "publisher": "Zeppelin Games",
+  "genres": [
+    "Platformer",
+    "Multi Screen"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/01/0156774ce73fb211fd2feb770dcf2dafc0693205.png",
+    "sstitle": "images/c5/c54d3738fdafaf8ab0c02c22a4521f69308b840a.png"
+  }
+}

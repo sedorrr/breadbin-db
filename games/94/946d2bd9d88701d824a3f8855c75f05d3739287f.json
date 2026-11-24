@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "946d2bd9d88701d824a3f8855c75f05d3739287f",
+  "md5": "c0ad1d282e70b4f77210f996ccf22d7c",
+  "crc32": "382da468",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "524B.D64"
+  ],
+  "title": "Rings of Medusa",
+  "year": "1990",
+  "publisher": "Starbyte",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/12/12b4a45f16798fb249a0fd6d51d60c8f782dde94.png",
+    "sstitle": "images/46/461ea95df94d894f75b0bdf3e67c5eb3a657ea05.png"
+  }
+}

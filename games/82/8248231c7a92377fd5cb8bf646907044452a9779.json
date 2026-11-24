@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "8248231c7a92377fd5cb8bf646907044452a9779",
+  "md5": "ba571eaf011c8ed260064bb0f6a76943",
+  "crc32": "142a8625",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "070_GhostsNGoblins_1986_Elite.d64"
+  ],
+  "title": "Ghosts'n Goblins",
+  "year": "1986",
+  "publisher": "Elite",
+  "genres": [
+    "Arcade",
+    "Platformer (Scrolling Screen)"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/13/13e247af78bc05fecd7fa4d821d0e090cf928d8a.png",
+    "sstitle": "images/3b/3b4483b5af6e16ea4dbdac65871d319b384eccc3.png"
+  }
+}

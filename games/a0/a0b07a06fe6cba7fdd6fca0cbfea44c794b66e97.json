@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "a0b07a06fe6cba7fdd6fca0cbfea44c794b66e97",
+  "md5": "f5158f76847d20cdacc7a95d2d48cdb6",
+  "crc32": "2f915e12",
+  "size": 492544,
+  "format": "CRT",
+  "files": [
+    "277_Turbo_Charge_1991_System3.crt"
+  ],
+  "title": "Turbo Charge",
+  "year": "1991",
+  "publisher": "System3",
+  "genres": [
+    "Racing",
+    "Cars"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/7c/7c06e35f549397857a82017a264a85e5b90a62ee.png",
+    "sstitle": "images/9d/9d0cfa15c3ad59a5a647513806409b27e7d587e9.png"
+  }
+}

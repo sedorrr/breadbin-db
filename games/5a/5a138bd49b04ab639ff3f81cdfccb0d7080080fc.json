@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "5a138bd49b04ab639ff3f81cdfccb0d7080080fc",
+  "md5": "4e2a7bc013836f8ffb9608a5c58e7f03",
+  "crc32": "359bfd99",
+  "size": 279136,
+  "format": "CRT",
+  "files": [
+    "236_MailOrderMonsters_1985_EOA-EasyFlash.crt"
+  ],
+  "title": "Mail Order Monsters",
+  "year": "1985",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Shoot'em Up",
+    "Duel"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/4d/4dfaa36a3251ca523384cf55a3ba991301ff0839.png",
+    "sstitle": "images/57/5747ddeb3791ce166f3a6843f8061edc0b529bf1.png"
+  }
+}

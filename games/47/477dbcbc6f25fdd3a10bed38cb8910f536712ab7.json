@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "477dbcbc6f25fdd3a10bed38cb8910f536712ab7",
+  "md5": "91320276638738d20024157db73978e7",
+  "crc32": "ab87e1ba",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "222_Cyberdyne_Warrior_1989_Hewson.D64"
+  ],
+  "title": "Cyberdyne Warrior",
+  "year": "1989",
+  "publisher": "Hewson",
+  "genres": [
+    "Shoot'em Up",
+    "Platformer"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/5c/5c557060fa5d60c61f9700d8472a82d5f22ddc4e.png",
+    "sstitle": "images/0b/0bb3d0d6d9f2b39de794d68eeb1645708bfd67c1.png"
+  }
+}

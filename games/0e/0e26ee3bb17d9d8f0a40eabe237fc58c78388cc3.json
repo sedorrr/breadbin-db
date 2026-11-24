@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "0e26ee3bb17d9d8f0a40eabe237fc58c78388cc3",
+  "md5": "be4749287d4fa4ae76d87226fb92bba9",
+  "crc32": "3fa18153",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "310_Mermaid_Madness.Nostalgia.d64"
+  ],
+  "title": "Mermaid Madness",
+  "year": "1986",
+  "publisher": "Activision",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/a0/a046728490a50c927113fd5d2a04a1f159839efa.png",
+    "sstitle": "images/70/70108897605691ced551ae3b2f88809001ba6338.png"
+  }
+}

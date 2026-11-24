@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "sha1": "07515817950615bd6bf3870200f36a74d429c2f6",
+  "md5": "b843606a845dac3580941ce921e874bf",
+  "crc32": "9e4164d0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "187_Steel_V2_1988_Rack-It.d64"
+  ],
+  "title": "Steel",
+  "year": "1989",
+  "publisher": "Rack-It (Hewson)",
+  "players": "1",
+  "images": {
+    "ss": "images/d7/d79afb09e995ca0a27955b5a59627d9eb1b52019.png",
+    "sstitle": "images/79/7999a30dc886ac71c90312c9c3b8c1deac2fb29a.png"
+  }
+}

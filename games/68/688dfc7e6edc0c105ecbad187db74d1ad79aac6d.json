@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "688dfc7e6edc0c105ecbad187db74d1ad79aac6d",
+  "md5": "549d435ce7a0e94672565afcd9dbdf66",
+  "crc32": "afe7c22f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "334_Licence_To_Kill_1989_Domark.d64"
+  ],
+  "title": "Licence to Kill",
+  "year": "1989",
+  "publisher": "Domark",
+  "genres": [
+    "Arcade"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/8e/8ed6b17edc9f0cd0f1131b71e1940f1bad4992f3.png",
+    "sstitle": "images/ad/ad8c6e0c28bfb0863eabed3da999b944c9100764.png"
+  }
+}
