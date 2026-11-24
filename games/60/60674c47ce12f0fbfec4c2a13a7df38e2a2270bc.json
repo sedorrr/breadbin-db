@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "60674c47ce12f0fbfec4c2a13a7df38e2a2270bc",
+  "md5": "0a4b10d91dace8c3d52e2b2d3870beb5",
+  "crc32": "99c8ee60",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "plum-manor.d64"
+  ],
+  "title": "The Secret of Plum Manor",
+  "year": "2026",
+  "publisher": "Vesa Heikkinen",
+  "developer": "Vesa Heikkinen",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Humorvolles Grafikabenteuer mit Verbsteuerung: Oma Plums Apfelkuchen gewinnt jedes Jahr den Backwettbewerb des Dorfes. Nun ist Oma verreist, der Wettbewerb beginnt um ein Uhr, und ihr weltberühmtes Rezept fehlt – zerrissen und irgendwo im knarzenden alten Plum Manor versteckt. Der junge Bäcker Pip hat bis zum Glockenschlag der Kirchturmuhr Zeit, alle Schnipsel zu finden, die Zutaten zu sammeln und den Kuchen in den Ofen zu bringen. Im Haus warten ein sehr pflichtbewusster Butler, eine Maus mit etwas Glänzendem, eine streitlustige Gans, ein Nachbar mit verdächtig perfekten Muffins und die Katze Mittens, die durch das ganze Haus streift. Man kann weder sterben noch in eine Sackgasse geraten; die Kirchturmuhr schlägt mit dem Fortschritt die Viertelstunden.\n\nSteuerung mit dem Joystick in Port 2: Zeiger bewegen und mit Feuer ein Verb, einen Gegenstand oder eine Stelle im Bild wählen; die Satzzeile zeigt die geplante Handlung (z. B. „USE KEY WITH DOOR“). Auf dem Titelbild startet Feuer das Spiel, F1 zeigt Infos. Laden mit LOAD\"*\",8 und RUN.\n\nVon Vesa Heikkinen, 2026; frei weitergebbar, nicht zum Verkauf.",
+  "texts": {
+    "de": "Humorvolles Grafikabenteuer mit Verbsteuerung: Oma Plums Apfelkuchen gewinnt jedes Jahr den Backwettbewerb des Dorfes. Nun ist Oma verreist, der Wettbewerb beginnt um ein Uhr, und ihr weltberühmtes Rezept fehlt – zerrissen und irgendwo im knarzenden alten Plum Manor versteckt. Der junge Bäcker Pip hat bis zum Glockenschlag der Kirchturmuhr Zeit, alle Schnipsel zu finden, die Zutaten zu sammeln und den Kuchen in den Ofen zu bringen. Im Haus warten ein sehr pflichtbewusster Butler, eine Maus mit etwas Glänzendem, eine streitlustige Gans, ein Nachbar mit verdächtig perfekten Muffins und die Katze Mittens, die durch das ganze Haus streift. Man kann weder sterben noch in eine Sackgasse geraten; die Kirchturmuhr schlägt mit dem Fortschritt die Viertelstunden.\n\nSteuerung mit dem Joystick in Port 2: Zeiger bewegen und mit Feuer ein Verb, einen Gegenstand oder eine Stelle im Bild wählen; die Satzzeile zeigt die geplante Handlung (z. B. „USE KEY WITH DOOR“). Auf dem Titelbild startet Feuer das Spiel, F1 zeigt Infos. Laden mit LOAD\"*\",8 und RUN.\n\nVon Vesa Heikkinen, 2026; frei weitergebbar, nicht zum Verkauf.",
+    "en": "Humorous verb-driven graphic adventure: Granny Plum's apple pie wins the village pie contest every single year. Now Granny is away, the contest starts at one o'clock, and her world-famous recipe is missing – torn to pieces and hidden somewhere in creaky old Plum Manor. Young baker Pip has until the church clock strikes one to find every scrap, gather the ingredients and get the pie into the oven. The manor holds a butler who takes his job very seriously, a mouse with something shiny, a goose with an attitude, a neighbour with suspiciously perfect muffins and Mittens the cat, who wanders all over the house. There are no deaths and no dead ends; the church clock strikes the quarters as you make progress.\n\nControls with a joystick in port 2: move the pointer and press fire to choose a verb, an item or something on screen; the sentence line shows the planned action (e.g. \"USE KEY WITH DOOR\"). On the title screen fire starts the game, F1 shows info. Load with LOAD\"*\",8 and RUN.\n\nBy Vesa Heikkinen, 2026; free to share, not for sale."
+  },
+  "images": {
+    "ss": "images/e1/e130fdb165417a061fd898455b387faa9c0a8fa6.png",
+    "sstitle": "images/3d/3ddcb188c5d746cb5883d27827e9a210f48acbde.png"
+  }
+}

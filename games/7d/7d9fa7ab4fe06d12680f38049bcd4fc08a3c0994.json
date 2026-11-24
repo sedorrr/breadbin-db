@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "7d9fa7ab4fe06d12680f38049bcd4fc08a3c0994",
+  "md5": "fe9a17bde7d518ce616933f4f234219e",
+  "crc32": "d5460b5a",
+  "size": 12883,
+  "format": "PRG",
+  "files": [
+    "4awin.prg"
+  ],
+  "title": "4 a Win V1.1",
+  "year": "2019",
+  "publisher": "Matteo Angelini",
+  "developer": "Matteo Angelini",
+  "genres": [
+    "Brettspiele"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Brettspiels „Vier gewinnt“ (Connect Four). Auf einem senkrechten Gitter mit acht Spalten werden abwechselnd Spielsteine eingeworfen; wer zuerst vier in einer Reihe hat, gewinnt. Drei Spielarten: Spieler gegen Spieler, Spieler gegen Computer und Computer gegen Computer. Der Computer setzt nach festen Regeln: kann er gewinnen, setzt er den Stein dorthin, sonst blockiert er den Gegner, sonst sucht er mit einer Alpha-Beta-Suche. Gespielt wird mit dem Joystick in Port 2; vor dem Start lässt sich ein Spielername eingeben.\n\nPRG-Datei, Version 1.1 (auf CSDb am 22. November 2026). Laut Titelbild erste Veröffentlichung 2019 von M. Angelini, Musik und Grafik von Richard Bayliss, Fehlerbehebung von „Deep Seek“.\n\nCode: Matteo Angelini · Musik: Richard Bayliss · Grafik: Richard Bayliss",
+  "texts": {
+    "de": "Umsetzung des Brettspiels „Vier gewinnt“ (Connect Four). Auf einem senkrechten Gitter mit acht Spalten werden abwechselnd Spielsteine eingeworfen; wer zuerst vier in einer Reihe hat, gewinnt. Drei Spielarten: Spieler gegen Spieler, Spieler gegen Computer und Computer gegen Computer. Der Computer setzt nach festen Regeln: kann er gewinnen, setzt er den Stein dorthin, sonst blockiert er den Gegner, sonst sucht er mit einer Alpha-Beta-Suche. Gespielt wird mit dem Joystick in Port 2; vor dem Start lässt sich ein Spielername eingeben.\n\nPRG-Datei, Version 1.1 (auf CSDb am 22. November 2026). Laut Titelbild erste Veröffentlichung 2019 von M. Angelini, Musik und Grafik von Richard Bayliss, Fehlerbehebung von „Deep Seek“.\n\nCode: Matteo Angelini · Musik: Richard Bayliss · Grafik: Richard Bayliss",
+    "en": "Adaptation of the board game Connect Four. Counters are dropped alternately into a vertical grid of eight columns; whoever gets four in a row first wins. Three game modes: player versus player, player versus computer, and computer versus computer. The computer plays by fixed rules: if it can win it puts the counter there, otherwise it blocks the opponent, otherwise it runs an alpha-beta search. Played with a joystick in port 2; a player name can be entered before the start.\n\nPRG file, version 1.1 (on CSDb on 22 November 2026). According to the title screen first released in 2019 by M. Angelini, music and graphics by Richard Bayliss, bug fix by \"Deep Seek\".\n\nCode: Matteo Angelini · Music: Richard Bayliss · Graphics: Richard Bayliss"
+  },
+  "images": {
+    "ss": "images/c4/c4ac760bf50ecd7eb0bd2a3444e4025d99d798e0.png",
+    "sstitle": "images/03/03b9e36d1d2b5ec0f883fd47f8597b5f32ab5dab.png"
+  }
+}
