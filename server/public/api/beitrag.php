@@ -5,6 +5,7 @@
 declare(strict_types=1);
 require __DIR__ . '/../../lib/gemeinsam.php';
 require __DIR__ . '/../../lib/pruefen.php';
+require __DIR__ . '/../../lib/benachrichtigung.php';
 
 $c = konfig();
 if ($_SERVER['REQUEST_METHOD'] === 'GET') {
@@ -54,6 +55,7 @@ if ($ergebnis['probleme']) {
     json_antwort(422, ['ok' => false, 'fehler' => 'Beitrag nicht gültig / contribution not valid', 'probleme' => array_slice($ergebnis['probleme'], 0, 50)]);
 }
 
+$wartetenVorher = (int)db()->query("SELECT COUNT(*) FROM beitraege WHERE status = 'neu'")->fetchColumn();
 $titel = implode(', ', array_slice(array_unique(array_map(fn($g) => (string)$g['title'], $ergebnis['spiele'])), 0, 30));
 $ins = db()->prepare('INSERT INTO beitraege (eingang, datei, groesse, spiele, titel, name, hinweis, ip_hash, notiz)
                       VALUES (NOW(), ?, ?, ?, ?, ?, ?, ?, \'\')');
@@ -66,4 +68,12 @@ $ins->execute([
     mb_substr(trim((string)($_POST['hinweis'] ?? '')), 0, 2000),
     $ipHash,
 ]);
-json_antwort(201, ['ok' => true, 'id' => (int)db()->lastInsertId(), 'spiele' => count($ergebnis['spiele'])]);
+$id = (int)db()->lastInsertId();
+// Nachricht an die Prüfenden (nur wenn in config.php eine Adresse steht); Fehler dabei sind egal.
+try {
+    melde_neuen_beitrag($c, $wartetenVorher, $id, count($ergebnis['spiele']), $titel,
+        mb_substr(trim((string)($_POST['name'] ?? '')), 0, 100));
+} catch (Throwable $e) {
+    // Annahme bleibt gültig.
+}
+json_antwort(201, ['ok' => true, 'id' => $id, 'spiele' => count($ergebnis['spiele'])]);

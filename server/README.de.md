@@ -48,7 +48,12 @@ URL-kodiert, und GitHub blendet diese Form nicht aus.
    `…/config.php` und `…/lib/gemeinsam.php` antworten mit 403.
 5. Angenommene Beiträge: ZIP herunterladen, in die Arbeitskopie des Daten-Repositorys auspacken, committen.
    (Automatisch ins Repository schreiben könnte der Server später mit einem GitHub-Token – bewusst noch nicht.)
-6. Aufräumen: Unter „Statistik“ zeigt die Prüfseite, wie viele erledigte Beiträge (abgelehnt oder vom Workflow
+6. Benachrichtigung (freiwillig): In `config.php` `benachrichtigung_an` (Empfänger), `benachrichtigung_von`
+   (Absender der eigenen Domain) und `pruefseite_url` eintragen. Dann schickt der Server per PHP-`mail()` eine
+   Nachricht, sobald ein Beitrag auf Freigabe wartet – nur wenn vorher nichts wartete oder die letzte Nachricht
+   älter als ein Tag ist (Breadbin sendet große Beiträge in Teilen; so kommt keine Flut). Stand in
+   `daten/benachrichtigung.json`.
+7. Aufräumen: Unter „Statistik“ zeigt die Prüfseite, wie viele erledigte Beiträge (abgelehnt oder vom Workflow
    ins Daten-Repository übernommen) noch Dateien in `daten/` haben. „Erledigte ZIPs löschen“ entfernt die ZIP samt
    `.auswahl.json`/`.edits.json`; die Zeile in MySQL bleibt (Liste, Statistik), die Prüfseite zeigt dann
    „Datei beim Aufräumen gelöscht“. Neue und angenommene, noch nicht übernommene Beiträge bleiben unberührt.
@@ -75,7 +80,8 @@ Stage 3 for a plain PHP + MySQL web space. **3a:** the workflow `spiegel.yml` up
 `https://<domain>/breadbin/db/breadbin-db.zip`. **3b:** `public/api/beitrag.php` accepts contributions
 (exchange file as `datei`), validates them with the same rules as `tools/pruefen.py` and stores valid ones;
 `public/admin/` lets the maintainer review, accept or reject them, and delete the files of finished
-(rejected or already imported) contributions with “Erledigte ZIPs löschen”. Setup: import `schema.sql`, copy
+(rejected or already imported) contributions with “Erledigte ZIPs löschen”. Optional e-mail notification when a contribution waits for review
+(`benachrichtigung_an`, `benachrichtigung_von`, `pruefseite_url` in config.php; PHP `mail()`, no flood). Setup: import `schema.sql`, copy
 `config.example.php` to `config.php`, upload `server/` as `/breadbin/`. Tested locally with Docker
 (PHP 8.3, MariaDB 11), not yet on the real web space.
 

@@ -30,4 +30,12 @@ return [
     // SHA-256 des Schlüssels, der als Secret BEITRAG_TOKEN im Daten-Repository liegt. Leer = abgeschaltet.
     //   printf %s 'schlüssel' | shasum -a 256
     // 'export_token_sha256' => '',
+
+    // E-Mail, wenn ein neuer Beitrag auf Freigabe wartet. Leer = keine Nachricht.
+    // Eine Nachricht nur, wenn vorher nichts wartete (oder die letzte älter als ein Tag ist) – keine Flut.
+    // 'benachrichtigung_an'  => 'du@example.org',
+    // Absender; bei vielen Hostern muss er zur eigenen Domain gehören (z. B. breadbin@<deine-domain>).
+    // 'benachrichtigung_von' => 'breadbin@example.org',
+    // Link zur Prüfseite in der Nachricht (freiwillig)
+    // 'pruefseite_url'       => 'https://example.org/breadbin/annahme/public/admin/',
 ];
