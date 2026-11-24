@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "3132a0fc35c5826d1622e43c486f266930581df9",
+  "md5": "1186e7d63e8ddc9f4705298be99b9bc8",
+  "crc32": "e000fed6",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "chariot_race.d64"
+  ],
+  "title": "Chariot Race",
+  "year": "2026",
+  "publisher": "TREX",
+  "developer": "TREX (Knight Rider); Original: Paul Hope",
+  "genres": [
+    "Rennen"
+  ],
+  "players": "1-2",
+  "synopsis": "C64-Umsetzung des VIC-20-Spiels von Micro-Antics (1982/83). Zwei riesige Wagenlenker, Sinister und Dexter, fahren auf einer senkrecht scrollenden Bahn voller gegnerischer Streitwagen. Man drängt die Rivalen seitlich gegen die Bande oder lässt sie auf sich auffahren und muss selbst Zusammenstöße vermeiden. Die Punkte richten sich nach dem Tempo; wer zu vorsichtig fährt, bekommt Feuerbälle von hinten, und wer zu lange hinter einem Gegner hängt, dessen Pferde brechen zusammen. Je weniger Gegner übrig sind, desto schneller und unberechenbarer fahren sie.\n\nF1 startet das Spiel für einen, F7 für zwei Spieler gleichzeitig. Sinister fährt mit Q, A, C und V, Dexter mit 0, P, = und RETURN. Auf der Diskette liegen außerdem die ursprüngliche VIC-20-Fassung und eine Anleitung.\n\nUmsetzung von TREX (Idee, Konzept und Test: Knight Rider), 2026; Original von Paul Hope, Micro-Antics.",
+  "texts": {
+    "de": "C64-Umsetzung des VIC-20-Spiels von Micro-Antics (1982/83). Zwei riesige Wagenlenker, Sinister und Dexter, fahren auf einer senkrecht scrollenden Bahn voller gegnerischer Streitwagen. Man drängt die Rivalen seitlich gegen die Bande oder lässt sie auf sich auffahren und muss selbst Zusammenstöße vermeiden. Die Punkte richten sich nach dem Tempo; wer zu vorsichtig fährt, bekommt Feuerbälle von hinten, und wer zu lange hinter einem Gegner hängt, dessen Pferde brechen zusammen. Je weniger Gegner übrig sind, desto schneller und unberechenbarer fahren sie.\n\nF1 startet das Spiel für einen, F7 für zwei Spieler gleichzeitig. Sinister fährt mit Q, A, C und V, Dexter mit 0, P, = und RETURN. Auf der Diskette liegen außerdem die ursprüngliche VIC-20-Fassung und eine Anleitung.\n\nUmsetzung von TREX (Idee, Konzept und Test: Knight Rider), 2026; Original von Paul Hope, Micro-Antics.",
+    "en": "C64 conversion of the VIC-20 game by Micro-Antics (1982/83). Two huge charioteers, Sinister and Dexter, race along a vertically scrolling track full of rival chariots. You push opponents sideways into the barrier or let them crash into you, while avoiding collisions yourself. Score depends on speed; driving too cautiously brings fireballs raining down from behind, and staying stuck behind a rival for too long makes your horses collapse. The fewer rivals remain, the faster and more erratic they become.\n\nF1 starts a one-player game, F7 a simultaneous two-player game. Sinister drives with Q, A, C and V, Dexter with 0, P, = and RETURN. The disk also contains the original VIC-20 version and instructions.\n\nConversion by TREX (idea, concept and test: Knight Rider), 2026; original by Paul Hope, Micro-Antics."
+  },
+  "images": {
+    "ss": "images/ce/ce9a218f91cc7d53c3e91be0125fd479078ea1f9.png",
+    "sstitle": "images/71/7114aeb4c35b9aeab51448317821abfa91fa865f.png"
+  }
+}

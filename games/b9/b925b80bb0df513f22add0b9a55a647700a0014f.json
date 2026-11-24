@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "b925b80bb0df513f22add0b9a55a647700a0014f",
+  "md5": "29da91a46524ed41b5a0048fd617de10",
+  "crc32": "95084aeb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Black Cave+2[HF+EX].d64"
+  ],
+  "title": "Black Cave +2",
+  "year": "2026",
+  "publisher": "Excess, Hokuto Force",
+  "developer": "Victor Castro",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Black Cave ist ein Höhlenabenteuer mit Rollenspielelementen. Der Held steigt Ebene um Ebene in eine dunkle Höhle hinab, deckt Räume auf und kämpft gegen Hunde, Goblins, Skelette, Orks, Bestien, Geister und Drachen bis hin zu Lich und Tiamat. Unterwegs findet er Schlüssel für verschlossene Türen, Gold, Waffen von Messer bis Axt, Rüstungen, Heiltränke, Feuerschriftrollen und Ringe; Händler kaufen und verkaufen Ausrüstung, deren Gewicht begrenzt ist. Erfahrung bringt Stufenaufstiege, deren Punkte auf Stärke, Geschicklichkeit und Glück verteilt werden. Ziel ist, bis Ebene 18 vorzudringen, das magische Medaillon zu finden und über die Leiter zu entkommen.\n\nGesteuert wird mit dem Joystick in Port 2; Feuer greift an, bestätigt, hebt Gegenstände auf und benutzt Leitern. Tasten: I Inventar, C Charakterwerte, L Stufenaufstieg, P Heiltrank, M Musik oder Klangeffekte. Der Spielstand wird beim Abstieg auf der Diskette gespeichert. Fassung V1.2 mit Kurzanleitung auf der Diskette.\n\nVon Victor Castro (Shadow Walker), 2026. Musik: Andrew Fisher (Merman).\n\nCrack von Excess und Hokuto Force vom 6. September 2026. Trainer: Black Beard. Die Trainer-Optionen sind nicht ermittelt. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Black Cave ist ein Höhlenabenteuer mit Rollenspielelementen. Der Held steigt Ebene um Ebene in eine dunkle Höhle hinab, deckt Räume auf und kämpft gegen Hunde, Goblins, Skelette, Orks, Bestien, Geister und Drachen bis hin zu Lich und Tiamat. Unterwegs findet er Schlüssel für verschlossene Türen, Gold, Waffen von Messer bis Axt, Rüstungen, Heiltränke, Feuerschriftrollen und Ringe; Händler kaufen und verkaufen Ausrüstung, deren Gewicht begrenzt ist. Erfahrung bringt Stufenaufstiege, deren Punkte auf Stärke, Geschicklichkeit und Glück verteilt werden. Ziel ist, bis Ebene 18 vorzudringen, das magische Medaillon zu finden und über die Leiter zu entkommen.\n\nGesteuert wird mit dem Joystick in Port 2; Feuer greift an, bestätigt, hebt Gegenstände auf und benutzt Leitern. Tasten: I Inventar, C Charakterwerte, L Stufenaufstieg, P Heiltrank, M Musik oder Klangeffekte. Der Spielstand wird beim Abstieg auf der Diskette gespeichert. Fassung V1.2 mit Kurzanleitung auf der Diskette.\n\nVon Victor Castro (Shadow Walker), 2026. Musik: Andrew Fisher (Merman).\n\nCrack von Excess und Hokuto Force vom 6. September 2026. Trainer: Black Beard. Die Trainer-Optionen sind nicht ermittelt. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Black Cave is a cave adventure with role-playing elements. The hero descends level by level into a dark cave, reveals rooms and fights dogs, goblins, skeletons, orcs, beasts, wraiths and dragons, up to a lich and Tiamat. Along the way he finds keys for locked doors, gold, weapons from knife to axe, armour, healing potions, fire scrolls and rings; merchants buy and sell equipment, whose weight is limited. Experience brings level-ups whose points are spent on strength, agility and luck. The goal is to reach level 18, find the magic medallion and escape via the ladder.\n\nControl is by joystick in port 2; fire attacks, confirms, picks up items and uses ladders. Keys: I inventory, C character stats, L level-up, P healing potion, M music or sound effects. Progress is saved to disk when descending. Version V1.2 with short instructions on the disk.\n\nBy Victor Castro (Shadow Walker), 2026. Music: Andrew Fisher (Merman).\n\nCrack by Excess and Hokuto Force, 6 September 2026. Trainer: Black Beard. The trainer options have not been determined. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/63/633aaaa46f1b0410c472ee2e203c4cfcd07b36da.png",
+    "sstitle": "images/ea/ea1ca0babee78c7dcc38323cadafd17d5b4563ba.png"
+  }
+}

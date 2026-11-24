@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e8e93205221f4287bbb9824fe4b7d80b40c34a8a",
+  "md5": "654e6c6d0d94eaabd7c5a780de44dd1e",
+  "crc32": "7fbf9afb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "The Greatest American Hero +3 [Shadow].d64"
+  ],
+  "title": "The Greatest American Hero +3",
+  "year": "2026",
+  "publisher": "Commodore Spain",
+  "developer": "Commodore Spain",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielles Spiel zur US-Fernsehserie aus den 1980er-Jahren. Lehrer Ralph Hinkley hat die Gebrauchsanweisung seines Superanzugs verloren. Um eine neue zu bekommen, fängt er am Stadtrand die Ufos ein, von denen er den Anzug einst erhielt. Mit einem Strahl holt man die Ufos herunter (150 Punkte), abgeschossene Schnellboote bringen 300 Punkte. Raketen lassen sich nicht zerstören und müssen umflogen werden, ein Treffer kostet ein Leben. Weil Ralph den Anzug noch nicht beherrscht, kehrt sich die Steuerung alle 25 Sekunden für etwa fünf Sekunden um; alle zehn gefangenen Ufos steigt die Stufe und die Ufos werden schneller. Nach fünf Stufen ist die Anleitung zurückgewonnen.\n\nGespielt wird mit dem Joystick in Port 2 (links, rechts, Feuer). Die Diskettenfassung enthält eine Standard- und eine „Survival“-Fassung mit nur einem Leben sowie Ladebild und Lademusik. Erstellt wurde das Spiel mit Garry Kitchens GameMaker; der Lader stammt von Martin Piper.\n\nVon Commodore Spain, 2026 (Idee, Code, Grafik, Spielmusik); Lademusik und SID-Fassung der Titelmelodie von Spidey.\n\nCrack von Shadow, 17.10.2026. Trainer und Linking: Stormfront. Trainer: unendlich viele Leben, unbegrenzte Zeit, Raketen schaden nicht. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Inoffizielles Spiel zur US-Fernsehserie aus den 1980er-Jahren. Lehrer Ralph Hinkley hat die Gebrauchsanweisung seines Superanzugs verloren. Um eine neue zu bekommen, fängt er am Stadtrand die Ufos ein, von denen er den Anzug einst erhielt. Mit einem Strahl holt man die Ufos herunter (150 Punkte), abgeschossene Schnellboote bringen 300 Punkte. Raketen lassen sich nicht zerstören und müssen umflogen werden, ein Treffer kostet ein Leben. Weil Ralph den Anzug noch nicht beherrscht, kehrt sich die Steuerung alle 25 Sekunden für etwa fünf Sekunden um; alle zehn gefangenen Ufos steigt die Stufe und die Ufos werden schneller. Nach fünf Stufen ist die Anleitung zurückgewonnen.\n\nGespielt wird mit dem Joystick in Port 2 (links, rechts, Feuer). Die Diskettenfassung enthält eine Standard- und eine „Survival“-Fassung mit nur einem Leben sowie Ladebild und Lademusik. Erstellt wurde das Spiel mit Garry Kitchens GameMaker; der Lader stammt von Martin Piper.\n\nVon Commodore Spain, 2026 (Idee, Code, Grafik, Spielmusik); Lademusik und SID-Fassung der Titelmelodie von Spidey.\n\nCrack von Shadow, 17.10.2026. Trainer und Linking: Stormfront. Trainer: unendlich viele Leben, unbegrenzte Zeit, Raketen schaden nicht. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Unofficial game based on the 1980s US TV series. Teacher Ralph Hinkley has lost the instruction manual for his super suit. To get a new copy he heads to the outskirts of the city to capture the UFOs that originally gave him the suit. A beam brings the UFOs down (150 points), and shot-down speedboats are worth 300 points. Missiles cannot be destroyed and must be dodged; a hit costs a life. Because Ralph has not mastered the suit yet, the controls reverse for about five seconds every 25 seconds, and every ten captured UFOs raise the level and make the UFOs faster. After five levels the manual is recovered.\n\nPlayed with a joystick in port 2 (left, right, fire). The disk version contains a Standard and a \"Survival\" version with only one life, plus a loading picture and loading music. The game was built with Garry Kitchen's GameMaker; the loader is by Martin Piper.\n\nBy Commodore Spain, 2026 (idea, code, graphics, in-game music); loading music and SID arrangement of the theme by Spidey.\n\nCrack by Shadow, 17 Oct 2026. Trainer and linking: Stormfront. Trainer: unlimited lives, unlimited time, rockets don't harm. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/9a/9a24b0b1388057f90400a67ca2dd875d9262b377.png",
+    "sstitle": "images/c1/c1286e5eb05e58ae0e1d1eff17bbc0aaad4888cb.png"
+  }
+}

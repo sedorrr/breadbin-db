@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "78cfaaacec312607ecebed2628f8d7b4dee50019",
+  "md5": "86fe5bf9d96cd9f0cb4834f9c4523ab3",
+  "crc32": "2e03d737",
+  "size": 238096,
+  "format": "CRT",
+  "files": [
+    "elevator_action_arcade_udi_rev113.crt"
+  ],
+  "title": "Elevator Action Arcade",
+  "year": "2026",
+  "publisher": "Underground Domain Inc.",
+  "developer": "Alwyz",
+  "genres": [
+    "Action",
+    "Plattform"
+  ],
+  "players": "1-2",
+  "synopsis": "Umsetzung des Taito-Automaten Elevator Action von 1983. Als Geheimagent steigt man über das Dach in ein Hochhaus ein und arbeitet sich mit Aufzügen und Rolltreppen Stockwerk für Stockwerk nach unten. Hinter den roten Türen liegen geheime Dokumente, die man einsammeln muss, bevor man im Untergeschoss mit dem Fluchtwagen entkommen kann. Aus den übrigen Türen treten feindliche Agenten; man schießt, springt, duckt sich, tritt zu, lässt Deckenlampen auf Gegner fallen oder zerquetscht sie mit dem Aufzug. Ein Schuss in die Lampen verdunkelt das Stockwerk.\n\nNach Angabe des Autors wurde der Z80- und MCU-Code des Automaten 1:1 nach 6502/6510 übertragen. Das Spiel liegt nur als Modul (CRT) vor, ist für NTSC gebaut und läuft auch auf PAL-Geräten, dort mit NTSC-Spieltempo und -Tonhöhe. Die vorliegende Datei ist Revision 113.\n\nVon Alwyz (Underground Domain Inc.), 2026; nach dem Automaten von Taito (1983). Weitere Mitwirkung: E$G (Hokuto Force).",
+  "texts": {
+    "de": "Umsetzung des Taito-Automaten Elevator Action von 1983. Als Geheimagent steigt man über das Dach in ein Hochhaus ein und arbeitet sich mit Aufzügen und Rolltreppen Stockwerk für Stockwerk nach unten. Hinter den roten Türen liegen geheime Dokumente, die man einsammeln muss, bevor man im Untergeschoss mit dem Fluchtwagen entkommen kann. Aus den übrigen Türen treten feindliche Agenten; man schießt, springt, duckt sich, tritt zu, lässt Deckenlampen auf Gegner fallen oder zerquetscht sie mit dem Aufzug. Ein Schuss in die Lampen verdunkelt das Stockwerk.\n\nNach Angabe des Autors wurde der Z80- und MCU-Code des Automaten 1:1 nach 6502/6510 übertragen. Das Spiel liegt nur als Modul (CRT) vor, ist für NTSC gebaut und läuft auch auf PAL-Geräten, dort mit NTSC-Spieltempo und -Tonhöhe. Die vorliegende Datei ist Revision 113.\n\nVon Alwyz (Underground Domain Inc.), 2026; nach dem Automaten von Taito (1983). Weitere Mitwirkung: E$G (Hokuto Force).",
+    "en": "Conversion of Taito's 1983 arcade game Elevator Action. As a secret agent you enter a high-rise through the roof and work your way down floor by floor using elevators and escalators. Secret documents lie behind the red doors and must be collected before you can escape in the getaway car in the basement. Enemy agents step out of the other doors; you shoot, jump, duck, kick, drop ceiling lamps on enemies or crush them with an elevator. Shooting the lamps darkens the floor.\n\nAccording to the author, the arcade's Z80 and MCU code was translated 1:1 to 6502/6510. The game comes as a cartridge (CRT) only, is made for NTSC and also runs on PAL machines, there at NTSC game speed and music pitch. The file here is revision 113.\n\nBy Alwyz (Underground Domain Inc.), 2026; based on the arcade game by Taito (1983). Additional credit: E$G (Hokuto Force)."
+  },
+  "images": {
+    "ss": "images/73/7329da3ac07dc9a5c84e4cb17c0c1e6ea216c675.png",
+    "sstitle": "images/00/00777fa54b0498fcaac318e954410ccb6d497b88.png"
+  }
+}

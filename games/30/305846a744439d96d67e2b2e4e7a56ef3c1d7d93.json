@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "305846a744439d96d67e2b2e4e7a56ef3c1d7d93",
+  "md5": "9f6ceb3689a97925eb25904989fba5f2",
+  "crc32": "5a5ed276",
+  "size": 495,
+  "format": "PRG",
+  "files": [
+    "neverending.prg"
+  ],
+  "title": "A Neverending Story",
+  "year": "2026",
+  "publisher": "Pers' Wastaiset Produktiot",
+  "developer": "Viznut",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "0",
+  "synopsis": "A Neverending Story ist ein 512-Byte-Programm, das ohne Mitspieler abläuft: Es liest weder Joystick noch Tastatur. Auf dem Bildschirm laufen farbige Querbalken, über die eine Linie zufällige Treppenstufen zieht; dazu erzeugt der SID Klänge, die dem Verlauf folgen. Die Geschichte erzählt sich gewissermaßen selbst und endet nicht.\n\nDas Programm ist eine einzelne PRG-Datei von 512 Byte. Es lief im 512-Byte-Spielewettbewerb der Zoo 2026 und belegte dort Platz 4. Nach dem Start genügt Zuschauen; beendet wird es mit einem Reset.\n\nVon Viznut (Pers' Wastaiset Produktiot), 2026.",
+  "texts": {
+    "de": "A Neverending Story ist ein 512-Byte-Programm, das ohne Mitspieler abläuft: Es liest weder Joystick noch Tastatur. Auf dem Bildschirm laufen farbige Querbalken, über die eine Linie zufällige Treppenstufen zieht; dazu erzeugt der SID Klänge, die dem Verlauf folgen. Die Geschichte erzählt sich gewissermaßen selbst und endet nicht.\n\nDas Programm ist eine einzelne PRG-Datei von 512 Byte. Es lief im 512-Byte-Spielewettbewerb der Zoo 2026 und belegte dort Platz 4. Nach dem Start genügt Zuschauen; beendet wird es mit einem Reset.\n\nVon Viznut (Pers' Wastaiset Produktiot), 2026.",
+    "en": "A Neverending Story is a 512-byte program that runs without a player: it reads neither joystick nor keyboard. Coloured horizontal bars fill the screen while a line draws random staircases across them, accompanied by SID sounds that follow its course. The story, so to speak, tells itself and never ends.\n\nThe program is a single 512-byte PRG file. It entered the 512-byte game competition at Zoo 2026 and placed 4th. Once started, you simply watch; a reset ends it.\n\nBy Viznut (Pers' Wastaiset Produktiot), 2026."
+  },
+  "images": {
+    "ss": "images/74/746a461953380ee65b4498889a39fa8f6557085b.png",
+    "sstitle": "images/a9/a9c866afe1d70ad7ae707c6ec7a2cc31cfac02e4.png"
+  }
+}

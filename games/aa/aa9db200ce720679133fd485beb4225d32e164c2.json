@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "aa9db200ce720679133fd485beb4225d32e164c2",
+  "md5": "75194f69e611759c8bf8874dd78cd095",
+  "crc32": "3c1aaf30",
+  "size": 46913,
+  "format": "PRG",
+  "files": [
+    "DelveOrDie!1.1.prg"
+  ],
+  "title": "Delve or Die!",
+  "year": "2026",
+  "publisher": "Tweety",
+  "developer": "Tweety",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Delve or Die! ist ein kleiner Dungeon Crawler in Maschinensprache. Die Vorgeschichte: Der Held hat versucht, den Tyrannenkönig zu töten, ist gescheitert und im Kerker des Königs gelandet. Nach einem Beben findet er sich zwei Stockwerke tiefer wieder und muss den Ausgang finden. Man erkundet den Kerker Raum für Raum aus der Draufsicht; Gegner werden bekämpft, indem man in sie hineinläuft, und sie können dabei etwas Nützliches fallen lassen. Zu den Gegnern gehören Höhlenratte, Goblin-Plänkler, Knochenbogenschütze, Steingolem, Gespenst, Ork-Berserker und Giftschleim, jeweils mit eigenen Lebens- und Schadenswerten.\n\nDie Statuszeile zeigt Lebenspunkte, Stufe, Gold sowie die aktuelle Waffe und Rüstung; man beginnt mit einer Holzwaffe. Gesteuert wird über die Tasten W, A, S, D oder mit dem Joystick in Port 1 oder 2; Feuer oder Leertaste startet das Spiel. Am Ende wartet ein Endgegner. Die Texte sind englisch.\n\nVon Tweety, 2026.",
+  "texts": {
+    "de": "Delve or Die! ist ein kleiner Dungeon Crawler in Maschinensprache. Die Vorgeschichte: Der Held hat versucht, den Tyrannenkönig zu töten, ist gescheitert und im Kerker des Königs gelandet. Nach einem Beben findet er sich zwei Stockwerke tiefer wieder und muss den Ausgang finden. Man erkundet den Kerker Raum für Raum aus der Draufsicht; Gegner werden bekämpft, indem man in sie hineinläuft, und sie können dabei etwas Nützliches fallen lassen. Zu den Gegnern gehören Höhlenratte, Goblin-Plänkler, Knochenbogenschütze, Steingolem, Gespenst, Ork-Berserker und Giftschleim, jeweils mit eigenen Lebens- und Schadenswerten.\n\nDie Statuszeile zeigt Lebenspunkte, Stufe, Gold sowie die aktuelle Waffe und Rüstung; man beginnt mit einer Holzwaffe. Gesteuert wird über die Tasten W, A, S, D oder mit dem Joystick in Port 1 oder 2; Feuer oder Leertaste startet das Spiel. Am Ende wartet ein Endgegner. Die Texte sind englisch.\n\nVon Tweety, 2026.",
+    "en": "Delve or Die! is a small dungeon crawler written in machine code. The backstory: the hero tried to kill the tyrant king, failed and ended up in the king's dungeon. After a quake he finds himself two floors further down and has to find the exit. You explore the dungeon room by room from a top-down view; enemies are fought by running into them, and they may drop something useful. Enemies include the cave rat, goblin skirmisher, bone archer, stone golem, wraith, orc berserker and toxic sludge, each with its own hit point and damage values.\n\nThe status line shows hit points, level, gold and the current weapon and armour; you start with a wooden weapon. Control is with the W, A, S, D keys or a joystick in port 1 or 2; fire or space starts the game. An end boss awaits at the end. All text is in English.\n\nBy Tweety, 2026."
+  },
+  "images": {
+    "ss": "images/10/1083a8e102aa8505e52238c708d2f55191ebc6bb.png",
+    "sstitle": "images/75/758daf5646fe7ea345499262c1e08801119caa23.png"
+  }
+}

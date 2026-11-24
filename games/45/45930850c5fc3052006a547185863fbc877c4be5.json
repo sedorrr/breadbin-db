@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "45930850c5fc3052006a547185863fbc877c4be5",
+  "md5": "106025db4ceacbd03f7b6eeeb14a9c8c",
+  "crc32": "618ff9ce",
+  "size": 131392,
+  "format": "CRT",
+  "files": [
+    "Zelda_C64.crt"
+  ],
+  "title": "The Legend of Zelda",
+  "year": "2026",
+  "publisher": "Goldfinger",
+  "developer": "Goldfinger",
+  "genres": [
+    "Action / Abenteuer"
+  ],
+  "players": "1",
+  "synopsis": "Inoffizielle C64-Umsetzung des NES-Spiels von Nintendo (1986), erschienen zum 40. Jahrestag des Vorbilds. Als Link durchstreift man aus der Vogelperspektive die Oberwelt von Hyrule Bild für Bild, kämpft mit Schwert und weiteren Gegenständen gegen Monster, sammelt Rubine und Herzen und sucht die Verliese, in denen die Teile des Triforce versteckt sind. Beide Durchgänge (erste und zweite Quest) lassen sich laut Anleitung bis zum Ende spielen; Spielstände können gespeichert werden.\n\nJoystick in Port 2 bewegt Link, der Feuerknopf entspricht dem A-Knopf, die Leertaste dem B-Knopf. F7 ist Start, F5 Select, F1 schaltet die Musik, F3 wechselt Links Hautfarbe, F8 speichert bzw. setzt fort. Neues Spiel: F7, F7, Namen eingeben, dreimal F5, F7, F7. Die Fassung läuft als Modul (CRT) auf PAL und NTSC gleich schnell, mit Musik und Geräuschen gleichzeitig; auf dem C128 im C64-Modus nutzt sie im Rahmen 2 MHz.\n\nVon Goldfinger, 2026.",
+  "texts": {
+    "de": "Inoffizielle C64-Umsetzung des NES-Spiels von Nintendo (1986), erschienen zum 40. Jahrestag des Vorbilds. Als Link durchstreift man aus der Vogelperspektive die Oberwelt von Hyrule Bild für Bild, kämpft mit Schwert und weiteren Gegenständen gegen Monster, sammelt Rubine und Herzen und sucht die Verliese, in denen die Teile des Triforce versteckt sind. Beide Durchgänge (erste und zweite Quest) lassen sich laut Anleitung bis zum Ende spielen; Spielstände können gespeichert werden.\n\nJoystick in Port 2 bewegt Link, der Feuerknopf entspricht dem A-Knopf, die Leertaste dem B-Knopf. F7 ist Start, F5 Select, F1 schaltet die Musik, F3 wechselt Links Hautfarbe, F8 speichert bzw. setzt fort. Neues Spiel: F7, F7, Namen eingeben, dreimal F5, F7, F7. Die Fassung läuft als Modul (CRT) auf PAL und NTSC gleich schnell, mit Musik und Geräuschen gleichzeitig; auf dem C128 im C64-Modus nutzt sie im Rahmen 2 MHz.\n\nVon Goldfinger, 2026.",
+    "en": "Unofficial C64 conversion of Nintendo's NES game (1986), released for the original's 40th anniversary. As Link you roam the overworld of Hyrule screen by screen from a top-down view, fight monsters with the sword and other items, collect rupees and hearts, and seek out the dungeons where the pieces of the Triforce are hidden. According to the readme both quests (first and second) can be played to completion; progress can be saved.\n\nJoystick in port 2 moves Link, the fire button acts as the A button and the space bar as the B button. F7 is Start, F5 Select, F1 toggles music, F3 changes Link's skin tone, F8 saves or continues. New game: F7, F7, enter a name, F5 three times, F7, F7. The cartridge (CRT) runs at the same speed on PAL and NTSC, with music and sound effects at once; on a C128 in C64 mode it uses 2 MHz in the border.\n\nBy Goldfinger, 2026."
+  },
+  "images": {
+    "sstitle": "images/84/84805f7f655e7f577b95d19236c285c0a0d13340.png"
+  }
+}

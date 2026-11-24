@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "8ab7369bcbffd5601f97572b4fa1de3a51abe2f0",
+  "md5": "2285fc7d97d4a720d78cbbb32cc71756",
+  "crc32": "1e67b65d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Pharaoh Fuse! [HF].d64"
+  ],
+  "title": "Pharaoh Fuse! +DG",
+  "year": "2026",
+  "publisher": "Ready64",
+  "developer": "Ready64",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Pharaoh Fuse! ist ein kurzes BASIC-Spiel in einer ägyptischen Grabkammer. Man steuert eine Figur durch ein zufällig erzeugtes Labyrinth aus Mauerblöcken und hat zwei Minuten Zeit, Goldstücke (je 100 Dollar) und sechs Schätze (je 10 000 bis 19 000 Dollar) einzusammeln. Mumien und Schlangengruben beenden die Runde sofort, und während des Spiels tauchen laufend neue Mauersteine auf. Mit Dynamit sprengt man die acht Felder rund um die Figur frei; zu Beginn gibt es sieben Ladungen.\n\nGesteuert wird mit dem Joystick in Port 1 oder mit den Cursortasten; Feuerknopf oder Leertaste zünden das Dynamit, Q beendet das Spiel. Nach jeder Runde fragt das Spiel, ob man noch einmal spielen möchte. Das Original gibt es als PRG, D64, TAP und Modul (CRT); das Programmlisting liegt als Text und PDF bei.\n\nVon Ready64, 2026.\n\nCrack von Hokuto Force (Original von E$G, Anleitung und Zusammenstellung MP Soft), 21. September 2026, ohne Trainer-Angabe. Die Fassung zeigt vor dem Spiel ein zusätzliches Bild, das nicht zum Original gehört. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Pharaoh Fuse! ist ein kurzes BASIC-Spiel in einer ägyptischen Grabkammer. Man steuert eine Figur durch ein zufällig erzeugtes Labyrinth aus Mauerblöcken und hat zwei Minuten Zeit, Goldstücke (je 100 Dollar) und sechs Schätze (je 10 000 bis 19 000 Dollar) einzusammeln. Mumien und Schlangengruben beenden die Runde sofort, und während des Spiels tauchen laufend neue Mauersteine auf. Mit Dynamit sprengt man die acht Felder rund um die Figur frei; zu Beginn gibt es sieben Ladungen.\n\nGesteuert wird mit dem Joystick in Port 1 oder mit den Cursortasten; Feuerknopf oder Leertaste zünden das Dynamit, Q beendet das Spiel. Nach jeder Runde fragt das Spiel, ob man noch einmal spielen möchte. Das Original gibt es als PRG, D64, TAP und Modul (CRT); das Programmlisting liegt als Text und PDF bei.\n\nVon Ready64, 2026.\n\nCrack von Hokuto Force (Original von E$G, Anleitung und Zusammenstellung MP Soft), 21. September 2026, ohne Trainer-Angabe. Die Fassung zeigt vor dem Spiel ein zusätzliches Bild, das nicht zum Original gehört. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Pharaoh Fuse! is a short BASIC game set in an Egyptian tomb. You guide a figure through a randomly generated maze of wall blocks and have two minutes to collect gold pieces (100 dollars each) and six treasures (10,000 to 19,000 dollars each). Mummies and snake pits end the round at once, and new wall blocks keep appearing during play. Dynamite blasts away the eight squares around the figure; you start with seven charges.\n\nControl is by joystick in port 1 or the cursor keys; the fire button or space bar sets off the dynamite, Q quits. After each round the game asks whether you want to play again. The original comes as PRG, D64, TAP and cartridge (CRT); the program listing is included as text and PDF.\n\nBy Ready64, 2026.\n\nCracked by Hokuto Force (original supplied by E$G, docs and linking by MP Soft), 21 September 2026, no trainer listed. The release shows an additional picture before the game that is not part of the original. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/cc/cc887807a43cf171eef9f0e846d07c49ad7c1080.png"
+  }
+}

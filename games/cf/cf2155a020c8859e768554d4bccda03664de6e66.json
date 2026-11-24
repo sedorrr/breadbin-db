@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "cf2155a020c8859e768554d4bccda03664de6e66",
+  "md5": "5035e6ac13994c840a223aa3e570c901",
+  "crc32": "0ff5bb62",
+  "size": 50965,
+  "format": "PRG",
+  "files": [
+    "Baby Escapes From Mushroom Manor.prg"
+  ],
+  "title": "Baby Escapes from Mushroom Manor",
+  "year": "2026",
+  "publisher": "ninjaconor",
+  "developer": "ninjaconor",
+  "genres": [
+    "Action / Abenteuer",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Baby Escapes from Mushroom Manor ist ein Plattform-Rätsel-Abenteuer in der Art von Dizzy, Seymour oder Murray Mouse. Man führt ein Baby durch das Herrenhaus Mushroom Manor. Ziel ist es, das Auto zu finden, es vollzutanken und damit zu entkommen. Im Haus geht nichts auf direktem Weg: Es gibt Rätsel zu lösen, und Motten, Hunde und Kondore stellen sich in den Weg. Außerdem braucht das Baby Geld für sein neues Leben; im Haus sind 30 Münzen versteckt.\n\nGesteuert wird nur mit dem Joystick in Port 2. Der Feuerknopf öffnet ein Menü, in dem man Gegenstände aufnimmt, ablegt oder benutzt.\n\nVon ninjaconor, 2026.",
+  "texts": {
+    "de": "Baby Escapes from Mushroom Manor ist ein Plattform-Rätsel-Abenteuer in der Art von Dizzy, Seymour oder Murray Mouse. Man führt ein Baby durch das Herrenhaus Mushroom Manor. Ziel ist es, das Auto zu finden, es vollzutanken und damit zu entkommen. Im Haus geht nichts auf direktem Weg: Es gibt Rätsel zu lösen, und Motten, Hunde und Kondore stellen sich in den Weg. Außerdem braucht das Baby Geld für sein neues Leben; im Haus sind 30 Münzen versteckt.\n\nGesteuert wird nur mit dem Joystick in Port 2. Der Feuerknopf öffnet ein Menü, in dem man Gegenstände aufnimmt, ablegt oder benutzt.\n\nVon ninjaconor, 2026.",
+    "en": "Baby Escapes from Mushroom Manor is a platform puzzle adventure in the vein of Dizzy, Seymour or Murray Mouse. You guide a baby through the mansion Mushroom Manor. The goal is to find the car, fill it up with fuel and drive away. Nothing in this house is straightforward: there are puzzles to solve, and moths, dogs and condors get in the way. The baby also needs some cash for its new life; 30 coins are hidden in the house.\n\nControl is by joystick in port 2 only. The fire button opens a menu for picking up, dropping or using items.\n\nBy ninjaconor, 2026."
+  },
+  "images": {
+    "ss": "images/5e/5e441cbfe579d10b54f163c9f626214dbc8dfa7a.png",
+    "sstitle": "images/1c/1c67cd84d203e5775c07e9160a1944012d99bb05.png"
+  }
+}

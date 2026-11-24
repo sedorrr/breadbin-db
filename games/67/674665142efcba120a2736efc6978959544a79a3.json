@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "674665142efcba120a2736efc6978959544a79a3",
+  "md5": "a636fb2ef66674981ae390a7ed420754",
+  "crc32": "a6189d44",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "irontide.d64"
+  ],
+  "title": "Iron Tide",
+  "year": "2026",
+  "publisher": "8bitbob01706",
+  "developer": "8bitbob01706",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "U-Boot-Spiel: Auf dem Titelbild „Iron Tide“ taucht ein U-Boot unter Wellen; auf Patrouille („Press fire to start patrol“) steuert man es mit dem Joystick in Port 2 durch das Wasser. Die Anzeigen zeigen Punkte, Tauchtiefe in Metern, Patrouillennummer, Rumpfzustand (Hull), Luftvorrat (Air) und versenkte Schiffe („Sunk 00/04“). Spielende bei zerstörtem Rumpf.\n\nVon 8bitbob01706 (itch.io), 2026.",
+  "texts": {
+    "de": "U-Boot-Spiel: Auf dem Titelbild „Iron Tide“ taucht ein U-Boot unter Wellen; auf Patrouille („Press fire to start patrol“) steuert man es mit dem Joystick in Port 2 durch das Wasser. Die Anzeigen zeigen Punkte, Tauchtiefe in Metern, Patrouillennummer, Rumpfzustand (Hull), Luftvorrat (Air) und versenkte Schiffe („Sunk 00/04“). Spielende bei zerstörtem Rumpf.\n\nVon 8bitbob01706 (itch.io), 2026.",
+    "en": "Submarine game: on the title screen \"Iron Tide\" a submarine dives beneath the waves; on patrol (\"Press fire to start patrol\") you steer it through the water with a joystick in port 2. The displays show score, depth in metres, patrol number, hull condition, air supply and ships sunk (\"Sunk 00/04\"). The game ends when the hull is destroyed.\n\nBy 8bitbob01706 (itch.io), 2026."
+  },
+  "images": {
+    "ss": "images/8b/8b9ff28942c4216078629470d931547e0dae58da.png",
+    "sstitle": "images/c0/c0e679cddc9aae6673484d629c4469a8ae2196e0.png"
+  }
+}

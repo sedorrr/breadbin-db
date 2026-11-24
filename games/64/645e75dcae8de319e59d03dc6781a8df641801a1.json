@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "645e75dcae8de319e59d03dc6781a8df641801a1",
+  "md5": "c7a23f7c803b6709da650b3aaf4611e1",
+  "crc32": "a52f3a35",
+  "size": 156016,
+  "format": "CRT",
+  "files": [
+    "Fates Hand 64 - EasyFlash (v1_4).crt"
+  ],
+  "title": "Fate's Hand 64",
+  "year": "2026",
+  "publisher": "Shadow Walker",
+  "developer": "Victor Castro (Shadow Walker)",
+  "genres": [
+    "Kartenspiele",
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Ein Roguelike-Deckbuilder: Über 40 Stufen kämpft man sich bis zum Erzlich Malakor vor. An jeder Abzweigung wählt man den Weg zu Monstern, Elitegegnern, Bossen, Händlern, Lagerplätzen oder geheimnisvollen Ereignissen. Im Kampf zieht man Karten und bezahlt sie mit Aktionspunkten: Angriffe verursachen Schaden, Block schützt die Lebenspunkte, Kräfte wirken für den ganzen Kampf. Jedes Monster zeigt an, was es als Nächstes vorhat; nach „End Turn“ handeln die Gegner. Zustände wie Gift, Schwäche oder Verwundbarkeit verändern den Schaden.\n\nBelohnungen erweitern das Deck; Karten lassen sich verbessern oder entfernen, Relikte geben dauerhafte Vorteile. Händler verkaufen Karten, Heilung und Entfernungen, Ereignisse bieten Gold, Verbesserungen oder Relikte gegen ein Risiko. An Lagerplätzen heilt man sich, und der Lauf wird gespeichert. Ein Punktemultiplikator steigt mit jedem gewonnenen Kampf. Die vorliegende EasyFlash-Fassung 1.4 speichert Lauf und Bestwert auf dem Modul; CSDb führt außerdem eine D64-Fassung und eine Kartenübersicht als PDF.\n\nVon Victor Castro (Shadow Walker), 2026. Musik: Andrew Fisher (Merman).",
+  "texts": {
+    "de": "Ein Roguelike-Deckbuilder: Über 40 Stufen kämpft man sich bis zum Erzlich Malakor vor. An jeder Abzweigung wählt man den Weg zu Monstern, Elitegegnern, Bossen, Händlern, Lagerplätzen oder geheimnisvollen Ereignissen. Im Kampf zieht man Karten und bezahlt sie mit Aktionspunkten: Angriffe verursachen Schaden, Block schützt die Lebenspunkte, Kräfte wirken für den ganzen Kampf. Jedes Monster zeigt an, was es als Nächstes vorhat; nach „End Turn“ handeln die Gegner. Zustände wie Gift, Schwäche oder Verwundbarkeit verändern den Schaden.\n\nBelohnungen erweitern das Deck; Karten lassen sich verbessern oder entfernen, Relikte geben dauerhafte Vorteile. Händler verkaufen Karten, Heilung und Entfernungen, Ereignisse bieten Gold, Verbesserungen oder Relikte gegen ein Risiko. An Lagerplätzen heilt man sich, und der Lauf wird gespeichert. Ein Punktemultiplikator steigt mit jedem gewonnenen Kampf. Die vorliegende EasyFlash-Fassung 1.4 speichert Lauf und Bestwert auf dem Modul; CSDb führt außerdem eine D64-Fassung und eine Kartenübersicht als PDF.\n\nVon Victor Castro (Shadow Walker), 2026. Musik: Andrew Fisher (Merman).",
+    "en": "A roguelike deckbuilder: across 40 stages you fight your way down to the Arch-Lich Malakor. At each fork you choose the path to monsters, elites, bosses, merchants, camp sites or mystery events. In combat you draw cards and pay for them with action points: attacks deal damage, block protects your hit points, and powers last for the whole fight. Every monster shows what it intends to do next; after “End Turn” the enemies act. Conditions such as poison, weak or vulnerable change the damage dealt.\n\nRewards add cards to the deck; cards can be upgraded or purged, and relics give lasting bonuses. Merchants sell cards, healing and purges, and events offer gold, upgrades or relics at a risk. Camp sites heal you and save the run. A score multiplier rises with every battle won. This EasyFlash version 1.4 saves the run and the high score on the cartridge; CSDb also lists a D64 version and a card overview as a PDF.\n\nBy Victor Castro (Shadow Walker), 2026. Music: Andrew Fisher (Merman)."
+  },
+  "images": {
+    "ss": "images/9f/9fcf87dc09dd734d43ab461eba3f1a1f7af7f4cd.png",
+    "sstitle": "images/ed/edab939069dfc29e18e6e31a46606d7bf51d3c9c.png"
+  }
+}

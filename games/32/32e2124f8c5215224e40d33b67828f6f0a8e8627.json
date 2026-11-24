@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "32e2124f8c5215224e40d33b67828f6f0a8e8627",
+  "md5": "6c2af112e23179f7da48d125ac8617e3",
+  "crc32": "588110b1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "rgb_invaders.d64"
+  ],
+  "title": "RGB Invaders",
+  "year": "2026",
+  "publisher": "Mermik",
+  "developer": "Mermik",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Ein Weltraumschießspiel mit Farbmischung: Jeder Invader hat eine Farbe und lässt sich nur mit einem Ring derselben Farbe treffen. Die Tasten J, K und L feuern Rot, Grün und Blau; drückt man mehrere zugleich, mischen sich die Farben. Ein Treffer mit einer Grundfarbe zählt 1 Punkt, mit einer Mischung aus zwei Farben 2 und mit allen drei 3 Punkte. Die Gegner kommen einzeln, später paarweise, zu dritt, zu viert und zu fünft. Bossgegner bestehen aus mehreren Farben und müssen an ihrer untersten Farbe getroffen werden.\n\nVier Treffer in Folge mit derselben Farbe schalten den Turbo frei; vier weitere Treffer in einer Farbe räumen dann den ganzen Bildschirm ab und bringen 25 Bonuspunkte. Ein Fehlschuss oder eine andere Farbe setzt die Serie zurück. Im Titelbild schalten M und N Musik und Effekte um, D startet eine Vorführung. Vorliegend ist Version 1.1.1 als D64; CSDb führt auch CRT- und PRG-Dateien.\n\nVon Mermik, 2026 (Code, Musik, Grafik, Design).",
+  "texts": {
+    "de": "Ein Weltraumschießspiel mit Farbmischung: Jeder Invader hat eine Farbe und lässt sich nur mit einem Ring derselben Farbe treffen. Die Tasten J, K und L feuern Rot, Grün und Blau; drückt man mehrere zugleich, mischen sich die Farben. Ein Treffer mit einer Grundfarbe zählt 1 Punkt, mit einer Mischung aus zwei Farben 2 und mit allen drei 3 Punkte. Die Gegner kommen einzeln, später paarweise, zu dritt, zu viert und zu fünft. Bossgegner bestehen aus mehreren Farben und müssen an ihrer untersten Farbe getroffen werden.\n\nVier Treffer in Folge mit derselben Farbe schalten den Turbo frei; vier weitere Treffer in einer Farbe räumen dann den ganzen Bildschirm ab und bringen 25 Bonuspunkte. Ein Fehlschuss oder eine andere Farbe setzt die Serie zurück. Im Titelbild schalten M und N Musik und Effekte um, D startet eine Vorführung. Vorliegend ist Version 1.1.1 als D64; CSDb führt auch CRT- und PRG-Dateien.\n\nVon Mermik, 2026 (Code, Musik, Grafik, Design).",
+    "en": "A space shooter built on colour mixing: every invader has a colour and can only be hit by a ring of the same colour. The keys J, K and L fire red, green and blue; pressing several at once mixes the colours. A hit with a primary colour scores 1 point, a mix of two colours 2 and all three 3 points. Enemies come singly, later in pairs, threes, fours and fives. Bosses are made of several colours and must be hit at their lowest colour.\n\nFour hits in a row with the same colour light up turbo; four more hits in one colour then clear the whole screen for a 25-point bonus. A miss or another colour resets the streak. On the title screen M and N toggle music and effects, and D starts a demo. This is version 1.1.1 as a D64; CSDb also lists CRT and PRG files.\n\nBy Mermik, 2026 (code, music, graphics, design)."
+  },
+  "images": {
+    "ss": "images/65/65216c1b05b1077e208c8b0b7af975a2c685a212.png",
+    "sstitle": "images/54/5444b977666272bab6c3ac8a504e88df4fc10bb8.png"
+  }
+}

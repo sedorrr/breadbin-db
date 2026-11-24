@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "0edc6f0daa0f60b455d2a63c98b60fedf33bfcff",
+  "md5": "efcabbe67eeaf2cabc373e7fce25f28f",
+  "crc32": "a7fdc218",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Deep Scan +1D [HF+EX].d64"
+  ],
+  "title": "Deep Scan +1D",
+  "year": "2026",
+  "publisher": "Excess, Hokuto Force",
+  "developer": "Minter",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Umsetzung des Automaten Deep Scan von Sega-Gremlin (1979). Man steuert ein Schiff an der Wasseroberfläche und wirft Wasserbomben auf die U-Boote, die in verschiedenen Tiefen vorbeiziehen; tiefer fahrende Boote sind anders schnell und bringen andere Punkte. Die U-Boote schießen Minen nach oben, denen man ausweichen muss. Treffer in Folge bauen Kombos und einen Punktemultiplikator auf, gelegentlich erscheint ein Bonus-U-Boot, und der Schwierigkeitsgrad passt sich der Spielweise an. Im Gegensatz zum senkrechten Automaten ist das Spielfeld waagerecht angelegt.\n\nGespielt wird mit Paddle (mit Kalibrierung) oder Joystick und nur einem Knopf: Die Bombe fällt in die Richtung, in die sich das Schiff zuletzt bewegt hat, eine neue erst, wenn die vorige im Wasser ist. Es gibt eine Pause, einen Modus für Farbenblinde und eine automatische PAL/NTSC-Anpassung. Das Titelbild beruht auf dem Werbeblatt des Automaten, die Titelmusik ist „Das Boot“ in der SID-Fassung von Glenn Gallefoss.\n\nVon Minter (Commodore Plus), 2026. Musik: Shark; Grafik: Minter, Viejoven FX; Verpackung: Josepzin; Test: Bieno.\n\nCrack von Excess und Hokuto Force, 09.10.2026. Trainer (Black Beard): unendlich viele Leben; mit der C=-Taste endet das Spiel. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Umsetzung des Automaten Deep Scan von Sega-Gremlin (1979). Man steuert ein Schiff an der Wasseroberfläche und wirft Wasserbomben auf die U-Boote, die in verschiedenen Tiefen vorbeiziehen; tiefer fahrende Boote sind anders schnell und bringen andere Punkte. Die U-Boote schießen Minen nach oben, denen man ausweichen muss. Treffer in Folge bauen Kombos und einen Punktemultiplikator auf, gelegentlich erscheint ein Bonus-U-Boot, und der Schwierigkeitsgrad passt sich der Spielweise an. Im Gegensatz zum senkrechten Automaten ist das Spielfeld waagerecht angelegt.\n\nGespielt wird mit Paddle (mit Kalibrierung) oder Joystick und nur einem Knopf: Die Bombe fällt in die Richtung, in die sich das Schiff zuletzt bewegt hat, eine neue erst, wenn die vorige im Wasser ist. Es gibt eine Pause, einen Modus für Farbenblinde und eine automatische PAL/NTSC-Anpassung. Das Titelbild beruht auf dem Werbeblatt des Automaten, die Titelmusik ist „Das Boot“ in der SID-Fassung von Glenn Gallefoss.\n\nVon Minter (Commodore Plus), 2026. Musik: Shark; Grafik: Minter, Viejoven FX; Verpackung: Josepzin; Test: Bieno.\n\nCrack von Excess und Hokuto Force, 09.10.2026. Trainer (Black Beard): unendlich viele Leben; mit der C=-Taste endet das Spiel. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Conversion of the Sega-Gremlin arcade game Deep Scan (1979). You steer a ship on the surface and drop depth charges on submarines passing at different depths; deeper boats move at other speeds and score differently. The submarines launch mines upwards, which you have to dodge. Consecutive hits build combos and a score multiplier, a bonus submarine appears now and then, and the difficulty adapts to how you play. Unlike the vertical arcade game, the playfield is laid out horizontally.\n\nIt is played with a paddle (with calibration) or a joystick and a single button: the charge drops in the direction the ship last moved, and a new one only once the previous one is in the water. There is a pause, a colour-blind mode and automatic PAL/NTSC adjustment. The title picture is based on the arcade flyer, and the title music is the SID version of “Das Boot” by Glenn Gallefoss.\n\nBy Minter (Commodore Plus), 2026. Music: Shark; graphics: Minter, Viejoven FX; paper art: Josepzin; test: Bieno.\n\nCrack by Excess and Hokuto Force, 9 Oct 2026. Trainer (Black Beard): infinite lives; the C= key ends the game. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/6d/6d50c4c8bb11ce3a90f1818a7a865ac85b6a8472.png"
+  }
+}

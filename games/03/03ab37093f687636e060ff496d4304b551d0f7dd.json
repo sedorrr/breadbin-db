@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "03ab37093f687636e060ff496d4304b551d0f7dd",
+  "md5": "48d10c1fe90f2eb5c0693d0f793c5235",
+  "crc32": "bfc2dfce",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "pirateraider.d64"
+  ],
+  "title": "Pirate Raider",
+  "year": "2026",
+  "publisher": "Chad Lung",
+  "developer": "Chad Lung",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Pirate Raider ist ein Seefahrer-Actionspiel aus der Draufsicht. Man steuert ein schwarzes Piratenschiff über das Meer, das zwischen Inseln von Handelsschiffen und Schiffen der Royal Navy befahren wird. Ein Schatzschiff wird versenkt; anschließend segelt man in sein Wrack, um das Gold an Bord zu holen (500 Punkte). Navy-Schiffe lassen sich kampfunfähig schießen (250 Punkte). Ab 5000 Punkten läuft das Flaggschiff der Navy aus und macht Jagd auf den Spieler; es betäubt zu bringen ergibt 400 Punkte. Wer von der Navy versenkt wird oder auf eine Insel aufläuft, verliert ein Schiff.\n\nGesteuert wird mit dem Joystick in Port 2, Feuer startet und schießt; die Taste H zeigt auf dem Titelbild die Spielanleitung. Man beginnt mit drei Schiffen und erhält alle 10000 Punkte ein weiteres. Bei 50000 Punkten setzt sich der Pirat reich zur Ruhe und das Spiel ist gewonnen. Die Texte sind englisch.\n\nVon Chad Lung, 2026.",
+  "texts": {
+    "de": "Pirate Raider ist ein Seefahrer-Actionspiel aus der Draufsicht. Man steuert ein schwarzes Piratenschiff über das Meer, das zwischen Inseln von Handelsschiffen und Schiffen der Royal Navy befahren wird. Ein Schatzschiff wird versenkt; anschließend segelt man in sein Wrack, um das Gold an Bord zu holen (500 Punkte). Navy-Schiffe lassen sich kampfunfähig schießen (250 Punkte). Ab 5000 Punkten läuft das Flaggschiff der Navy aus und macht Jagd auf den Spieler; es betäubt zu bringen ergibt 400 Punkte. Wer von der Navy versenkt wird oder auf eine Insel aufläuft, verliert ein Schiff.\n\nGesteuert wird mit dem Joystick in Port 2, Feuer startet und schießt; die Taste H zeigt auf dem Titelbild die Spielanleitung. Man beginnt mit drei Schiffen und erhält alle 10000 Punkte ein weiteres. Bei 50000 Punkten setzt sich der Pirat reich zur Ruhe und das Spiel ist gewonnen. Die Texte sind englisch.\n\nVon Chad Lung, 2026.",
+    "en": "Pirate Raider is a top-down naval action game. You steer a black pirate ship across a sea with islands, sailed by merchant vessels and Royal Navy ships. A treasure ship has to be sunk; afterwards you sail into its wreck to take the gold aboard (500 points). Navy ships can be stunned with gunfire (250 points). Once you reach 5000 points the navy flagship sets sail and hunts you down; stunning it is worth 400 points. Being sunk by the navy or running aground on an island costs a ship.\n\nControl is by joystick in port 2, fire starts and shoots; pressing H on the title screen shows the instructions. You start with three ships and earn another every 10000 points. At 50000 points the pirate retires rich and the game is won. All text is in English.\n\nBy Chad Lung, 2026."
+  },
+  "images": {
+    "ss": "images/2c/2c4499c1929572381309c7d848bcc188b7ebd4e8.png",
+    "sstitle": "images/9e/9eb2c632b04dff0c3a47b9df65da9faf881dd996.png"
+  }
+}

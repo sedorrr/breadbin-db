@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "10b572aa3f56d9fc07c4ff08f5d17df9346812b0",
+  "md5": "0eed118e8cdcad04db85e010dcbc6eed",
+  "crc32": "a8fb807f",
+  "size": 34903,
+  "format": "PRG",
+  "files": [
+    "zoorider.prg"
+  ],
+  "title": "ZooRider",
+  "year": "2026",
+  "publisher": "Linusvista",
+  "developer": "Linusvista",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Geschicklichkeitsspiel nach dem Vorbild von Taitos Zoo Keeper (1982): Die Tiere sind aus dem Gehege ausgebrochen. Als Wärter Zak läuft man den Weg um das Gehege ab und baut dabei die Mauer Stein für Stein wieder auf, während die Tiere Löcher hineingraben. Ausgebrochene Tiere fängt man, indem man über sie springt; mehrere Sprünge hintereinander geben Kombo-Punkte. Manche Tiere springen über eine einzelne Steinreihe. Ab und zu erscheint ein Kescher, der etwa zehn Sekunden unverwundbar macht.\n\nVier Level, vom Gehege bei Tag über die Nacht bis zu einem Zoo mit Käfigen, Schlüsseln und Gruben; dazu Bonuslevel (Boden einfärben, ein flüchtender Affe zwischen Plattformen und Kokosnüssen). Zwei Spielarten: „Arcade“ mit fünf Leben und Top-10-Liste, „Story“ mit fünf Leben je Level und eigener Bestenliste. Joystick in Port 2; auf dem Titelbild die Spielart mit links/rechts wählen und mit F1 starten. Als PRG und TAP, dazu eine Spielanleitung (PDF, italienisch).\n\nVon Linusvista, 2026.",
+  "texts": {
+    "de": "Geschicklichkeitsspiel nach dem Vorbild von Taitos Zoo Keeper (1982): Die Tiere sind aus dem Gehege ausgebrochen. Als Wärter Zak läuft man den Weg um das Gehege ab und baut dabei die Mauer Stein für Stein wieder auf, während die Tiere Löcher hineingraben. Ausgebrochene Tiere fängt man, indem man über sie springt; mehrere Sprünge hintereinander geben Kombo-Punkte. Manche Tiere springen über eine einzelne Steinreihe. Ab und zu erscheint ein Kescher, der etwa zehn Sekunden unverwundbar macht.\n\nVier Level, vom Gehege bei Tag über die Nacht bis zu einem Zoo mit Käfigen, Schlüsseln und Gruben; dazu Bonuslevel (Boden einfärben, ein flüchtender Affe zwischen Plattformen und Kokosnüssen). Zwei Spielarten: „Arcade“ mit fünf Leben und Top-10-Liste, „Story“ mit fünf Leben je Level und eigener Bestenliste. Joystick in Port 2; auf dem Titelbild die Spielart mit links/rechts wählen und mit F1 starten. Als PRG und TAP, dazu eine Spielanleitung (PDF, italienisch).\n\nVon Linusvista, 2026.",
+    "en": "Action game modelled on Taito's Zoo Keeper (1982): the animals have broken out of their enclosure. As keeper Zak you walk the path around the enclosure, rebuilding the wall brick by brick while the animals dig through it. Escaped animals are caught by jumping over them; several jumps in a row score combo points. Some animals can leap a single row of bricks. Now and then a net appears that makes you invulnerable for about ten seconds.\n\nFour levels, from the enclosure by day and by night to a zoo with cages, keys and pits, plus bonus levels (colouring the floor, a fleeing monkey among platforms and coconuts). Two modes: \"Arcade\" with five lives and a top-10 table, \"Story\" with five lives per level and its own high-score table. Joystick in port 2; on the title screen pick the mode with left/right and start with F1. Available as PRG and TAP, with a player's guide (PDF, Italian).\n\nBy Linusvista, 2026."
+  },
+  "images": {
+    "sstitle": "images/4e/4ea8f097c3e09792ef8f8ac218b8783b1128701a.png"
+  }
+}

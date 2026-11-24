@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "56bae95e75ec6bc41a854860339940a3816caeb5",
+  "md5": "1d8b48cc4b981039c93b30b5650fe606",
+  "crc32": "c5309150",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Revenge on School +3TDS [Shadow].d64"
+  ],
+  "title": "Revenge on School +3TDS",
+  "year": "2026",
+  "publisher": "Shadow",
+  "developer": "vili",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Revenge on School ist ein ungarisches Textabenteuer mit Menüsteuerung, die C64-Umsetzung eines DOS-Spiels von Tomcat aus dem Jahr 1994. Ein Schüler ist von der Schule geflogen und kehrt zurück, um sich am Direktor Edomer Kolompai und dem Kollegium zu rächen. Er durchstreift Eingangshalle, Gänge, Kantine, Lehrerzimmer, Hof und Keller, sammelt Gegenstände (bis zu zwölf), kombiniert sie und räumt Hindernisse aus dem Weg. Viele Handlungen enden tödlich, und verlorene Energie kehrt kaum zurück. Die Texte sind derb; schon die Vorlage war bewusst vulgär und politisch unkorrekt.\n\nOben links zeigt ein Bild den aktuellen Raum, rechts steht das Menü (Weitergehen, Ortsmenü, Angreifen, Ansprechen, Gegenstand benutzen, Sonstiges), in der Mitte der Text, unten Ziel und Energiebalken. Gesteuert wird mit den Cursortasten und RETURN, INST/DEL wirft einen Gegenstand weg, CTRL+S und CTRL+L sichern und laden (ein Speicherplatz). Auf der Diskette liegt außerdem der Spielstand-Editor „TOP SECRET FILE!“. Das Titelbild bietet mit F1 die ursprüngliche Anleitung von Tomcat und mit F3 Hinweise zur C64-Fassung. In VICE empfiehlt sich, die echte Laufwerksemulation abzuschalten.\n\nVon vili, 2026 (Programm, Musik, Grafik); Vorlage von Tomcat, 1994.\n\nCrack von Shadow vom 1. Oktober 2026 (pcollins). Trainer: unbegrenzte Energie, unbegrenzt Benzin für die Kettensäge, jeder Treffer schlägt den Gegner nieder. Alle Texte, Menüs, die Anleitung und der Spielstand-Editor sind ins Englische übersetzt, dazu kommt eine englische Anleitung mit Lösung. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Revenge on School ist ein ungarisches Textabenteuer mit Menüsteuerung, die C64-Umsetzung eines DOS-Spiels von Tomcat aus dem Jahr 1994. Ein Schüler ist von der Schule geflogen und kehrt zurück, um sich am Direktor Edomer Kolompai und dem Kollegium zu rächen. Er durchstreift Eingangshalle, Gänge, Kantine, Lehrerzimmer, Hof und Keller, sammelt Gegenstände (bis zu zwölf), kombiniert sie und räumt Hindernisse aus dem Weg. Viele Handlungen enden tödlich, und verlorene Energie kehrt kaum zurück. Die Texte sind derb; schon die Vorlage war bewusst vulgär und politisch unkorrekt.\n\nOben links zeigt ein Bild den aktuellen Raum, rechts steht das Menü (Weitergehen, Ortsmenü, Angreifen, Ansprechen, Gegenstand benutzen, Sonstiges), in der Mitte der Text, unten Ziel und Energiebalken. Gesteuert wird mit den Cursortasten und RETURN, INST/DEL wirft einen Gegenstand weg, CTRL+S und CTRL+L sichern und laden (ein Speicherplatz). Auf der Diskette liegt außerdem der Spielstand-Editor „TOP SECRET FILE!“. Das Titelbild bietet mit F1 die ursprüngliche Anleitung von Tomcat und mit F3 Hinweise zur C64-Fassung. In VICE empfiehlt sich, die echte Laufwerksemulation abzuschalten.\n\nVon vili, 2026 (Programm, Musik, Grafik); Vorlage von Tomcat, 1994.\n\nCrack von Shadow vom 1. Oktober 2026 (pcollins). Trainer: unbegrenzte Energie, unbegrenzt Benzin für die Kettensäge, jeder Treffer schlägt den Gegner nieder. Alle Texte, Menüs, die Anleitung und der Spielstand-Editor sind ins Englische übersetzt, dazu kommt eine englische Anleitung mit Lösung. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Revenge on School is a Hungarian menu-driven text adventure, the C64 conversion of a 1994 DOS game by Tomcat. A student has been expelled and returns to take revenge on headmaster Edomer Kolompai and the staff. He roams the entrance hall, corridors, canteen, staff room, yard and cellar, collects items (up to twelve), combines them and clears obstacles out of the way. Many actions end in death, and lost energy barely comes back. The texts are crude; the original was deliberately vulgar and politically incorrect.\n\nThe top left shows a picture of the current room, the menu sits on the right (move on, local menu, attack, talk to, use item, other), the text in the middle, and the target and energy bar at the bottom. Controls are cursor keys and RETURN, INST/DEL drops an item, CTRL+S and CTRL+L save and load (one slot). The disk also holds the save game editor \"TOP SECRET FILE!\". On the title screen F1 shows Tomcat's original readme and F3 notes on the C64 version. In VICE, turning off true drive emulation is recommended.\n\nBy vili, 2026 (code, music, graphics); original game by Tomcat, 1994.\n\nCrack by Shadow from 1 October 2026 (pcollins). Trainer: endless energy, endless chainsaw fuel, any hit knocks the opponent out. All texts, menus, the readme and the save editor are translated into English, plus English docs with a solution. The original is also in the database."
+  },
+  "images": {
+    "sstitle": "images/ca/ca73659d0917f321460cfbe460d65249ec93f5b0.png"
+  }
+}

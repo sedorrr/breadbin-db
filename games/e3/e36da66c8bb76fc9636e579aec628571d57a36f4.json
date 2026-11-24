@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "e36da66c8bb76fc9636e579aec628571d57a36f4",
+  "md5": "ea5315209e83bdd1b0578cc5e5fc9230",
+  "crc32": "45cdf56a",
+  "size": 1026064,
+  "format": "CRT",
+  "files": [
+    "rocknrope.crt"
+  ],
+  "title": "Roc'n Rope",
+  "year": "2026",
+  "publisher": "Antonio Savona",
+  "developer": "Antonio Savona, STE'86, Aldo Chiummo",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "C64-Umsetzung des Konami-Automatenspiels von 1983. Als Forscher mit Tropenhelm klettert man eine zerklüftete Felswand hinauf, um ganz oben den sagenhaften Phönix zu erreichen. Statt Leitern gibt es Seile: Mit einer Harpune schießt man ein Seil an einen Felsvorsprung und hangelt sich daran von Ebene zu Ebene. Unterwegs stellen sich Höhlenmenschen und Dinosaurier in den Weg, die man mit einer Blitzlampe kurz betäuben kann; herabfallende Gegenstände muss man ausweichen. Wer die Spitze erreicht, beginnt den nächsten, schwierigeren Durchgang.\n\nDie Fassung erscheint als EasyFlash-Modul (CRT) und wird mit dem Joystick gespielt. Titelbild und Abspann nennen „Commodore 64 Conversion © 2026“ und den Hinweis „© Konami 1983“.\n\nVon Antonio Savona (Code), Steve Day alias STE'86 (Grafik) und Aldo Chiummo (Musik), 2026.",
+  "texts": {
+    "de": "C64-Umsetzung des Konami-Automatenspiels von 1983. Als Forscher mit Tropenhelm klettert man eine zerklüftete Felswand hinauf, um ganz oben den sagenhaften Phönix zu erreichen. Statt Leitern gibt es Seile: Mit einer Harpune schießt man ein Seil an einen Felsvorsprung und hangelt sich daran von Ebene zu Ebene. Unterwegs stellen sich Höhlenmenschen und Dinosaurier in den Weg, die man mit einer Blitzlampe kurz betäuben kann; herabfallende Gegenstände muss man ausweichen. Wer die Spitze erreicht, beginnt den nächsten, schwierigeren Durchgang.\n\nDie Fassung erscheint als EasyFlash-Modul (CRT) und wird mit dem Joystick gespielt. Titelbild und Abspann nennen „Commodore 64 Conversion © 2026“ und den Hinweis „© Konami 1983“.\n\nVon Antonio Savona (Code), Steve Day alias STE'86 (Grafik) und Aldo Chiummo (Musik), 2026.",
+    "en": "C64 conversion of Konami's 1983 arcade game. As an explorer in a pith helmet you climb a rugged cliff face to reach the legendary phoenix at the very top. Instead of ladders there are ropes: you fire a rope at a rock ledge with a harpoon and climb it from level to level. Along the way cavemen and dinosaurs block the path; a flash lamp stuns them briefly, and falling objects have to be dodged. Reaching the summit starts the next, harder round.\n\nThis version comes as an EasyFlash cartridge (CRT) and is played with a joystick. The title screens credit \"Commodore 64 Conversion © 2026\" and \"© Konami 1983\".\n\nBy Antonio Savona (code), Steve Day aka STE'86 (graphics) and Aldo Chiummo (music), 2026."
+  },
+  "images": {
+    "ss": "images/8e/8e6c4e1db175ead766018cf9c6eedbbb67573e85.png",
+    "sstitle": "images/68/689ad8377b370f82ae286ff9cdb6ef9618b47dff.png"
+  }
+}

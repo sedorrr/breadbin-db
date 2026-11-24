@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "d4fbeaed6cb50e9da5c9814f09e7646fca0b83cf",
+  "md5": "65ec57c0b98106af512b68f5f78e990a",
+  "crc32": "71ce0b89",
+  "size": 5364,
+  "format": "PRG",
+  "files": [
+    "baricadedelux.prg"
+  ],
+  "title": "Baricade",
+  "year": "2026",
+  "publisher": "Iceout",
+  "developer": "Iceout",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Baricade ist ein Geschicklichkeitsspiel, das in nur 512 Byte passt. Eine Spielfigur wandert Zeile für Zeile den Bildschirm hinab, und mit dem Joystick lenkt man sie nach links und rechts durch die Lücken in den quer liegenden Mauern. Wer eine Wand berührt, verliert. Insgesamt sind 64 Räume zu durchqueren; ein Zähler oben neben dem Titel zeigt den Fortschritt, und Klangeffekte begleiten das Geschehen.\n\nDie Kurzanleitung steht beim Laden auf dem Bildschirm: Joystick in Port 2, Mauern ausweichen, 64 Räume schaffen. Das Spiel beginnt, sobald der Joystick bewegt wird. Veröffentlicht als „Final Version“ in der CSDb-Kategorie der 512-Byte-Spiele.\n\nVon Iceout (Avatar, Digital Monastery, Hokuto Force), 2026.",
+  "texts": {
+    "de": "Baricade ist ein Geschicklichkeitsspiel, das in nur 512 Byte passt. Eine Spielfigur wandert Zeile für Zeile den Bildschirm hinab, und mit dem Joystick lenkt man sie nach links und rechts durch die Lücken in den quer liegenden Mauern. Wer eine Wand berührt, verliert. Insgesamt sind 64 Räume zu durchqueren; ein Zähler oben neben dem Titel zeigt den Fortschritt, und Klangeffekte begleiten das Geschehen.\n\nDie Kurzanleitung steht beim Laden auf dem Bildschirm: Joystick in Port 2, Mauern ausweichen, 64 Räume schaffen. Das Spiel beginnt, sobald der Joystick bewegt wird. Veröffentlicht als „Final Version“ in der CSDb-Kategorie der 512-Byte-Spiele.\n\nVon Iceout (Avatar, Digital Monastery, Hokuto Force), 2026.",
+    "en": "Baricade is a skill game that fits into just 512 bytes. A figure moves down the screen row by row, and the joystick steers it left and right through the gaps in the horizontal walls. Touching a wall ends the run. A total of 64 rooms have to be crossed; a counter next to the title at the top shows the progress, and sound effects accompany the action.\n\nShort instructions appear on screen while loading: joystick in port 2, avoid the walls, clear 64 rooms. The game starts as soon as the joystick is moved. Released as the \"final version\" in CSDb's 512-byte game category.\n\nBy Iceout (Avatar, Digital Monastery, Hokuto Force), 2026."
+  },
+  "images": {
+    "ss": "images/5d/5dd3f53c68e11081d0f9b41e7313ac0d40a1f748.png"
+  }
+}

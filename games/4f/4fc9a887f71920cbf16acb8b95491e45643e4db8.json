@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "4fc9a887f71920cbf16acb8b95491e45643e4db8",
+  "md5": "caac89792feb7898b090d6ccb2dc83a2",
+  "crc32": "ac7ab766",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Tomb Jones+D_HF.d64"
+  ],
+  "title": "Tomb Jones",
+  "year": "2026",
+  "publisher": "ZombieGamer80",
+  "developer": "ZombieGamer80",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Tomb Jones and the Temple of Traps ist ein kleines Abenteuer in PETSCII-Grafik, geschrieben in BASIC 2.0. Der Spieler ist in einem alten Tempel gefangen, weicht Fallen und großen rollenden Felsbrocken aus und sammelt Schätze ein. Um zu entkommen, muss er zwischen den Schätzen den Schlüssel finden, der den Weg durch die Räume öffnet, bevor die Zeit abläuft und der Tempel einstürzt. Mit dem Schlüssel kann man auf eigenes Risiko einen Fluchtversuch wagen: Entweder schließt sich ein weiterer Raum an, oder die Flucht gelingt und die Punktzahl wird verdoppelt.\n\nDas Spiel entstand bereits 2018, wurde aber erst 2026 veröffentlicht; es ist als Hommage an die Abtipp-Listings in Zeitschriften wie Compute!, Papersoft oder Zzap!64 gedacht. Gestartet wird mit dem Feuerknopf. Die Texte sind englisch.\n\nVon ZombieGamer80, 2026.",
+  "texts": {
+    "de": "Tomb Jones and the Temple of Traps ist ein kleines Abenteuer in PETSCII-Grafik, geschrieben in BASIC 2.0. Der Spieler ist in einem alten Tempel gefangen, weicht Fallen und großen rollenden Felsbrocken aus und sammelt Schätze ein. Um zu entkommen, muss er zwischen den Schätzen den Schlüssel finden, der den Weg durch die Räume öffnet, bevor die Zeit abläuft und der Tempel einstürzt. Mit dem Schlüssel kann man auf eigenes Risiko einen Fluchtversuch wagen: Entweder schließt sich ein weiterer Raum an, oder die Flucht gelingt und die Punktzahl wird verdoppelt.\n\nDas Spiel entstand bereits 2018, wurde aber erst 2026 veröffentlicht; es ist als Hommage an die Abtipp-Listings in Zeitschriften wie Compute!, Papersoft oder Zzap!64 gedacht. Gestartet wird mit dem Feuerknopf. Die Texte sind englisch.\n\nVon ZombieGamer80, 2026.",
+    "en": "Tomb Jones and the Temple of Traps is a small adventure in PETSCII graphics, written in BASIC 2.0. The player is trapped in an ancient temple, dodges traps and huge rolling boulders and collects treasures. To get out, he has to find the key among the treasures that opens the way through the rooms before time runs out and the temple collapses. With the key you can risk an escape attempt: either another room follows, or the escape succeeds and the score is doubled.\n\nThe game was written back in 2018 but only published in 2026; it is meant as a tribute to the type-in listings in magazines such as Compute!, Papersoft or Zzap!64. Fire starts the game. All text is in English.\n\nBy ZombieGamer80, 2026."
+  },
+  "images": {
+    "ss": "images/3e/3e8ed4357af2300f2de0096a73b7bae5188e82e8.png",
+    "sstitle": "images/47/470cc5b7f3f3668475b330694bcee2bd5d952449.png"
+  }
+}

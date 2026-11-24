@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "612feb114e608a4b14672f7aab534ca82c2e29e2",
+  "md5": "af065f3133f5756754b990cf64ae88b2",
+  "crc32": "c4078765",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Superslide64+ [Shadow].d64"
+  ],
+  "title": "Superslide64",
+  "year": "2026",
+  "publisher": "Schorsch3000",
+  "developer": "Schorsch3000",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Superslide64 ist ein Schiebepuzzle ähnlich dem klassischen „Klotski“. Auf einem Spielfeld aus vier mal fünf Feldern liegen Blöcke unterschiedlicher Größe dicht an dicht. Ziel ist, den großen roten Block an die untere Mitte des Feldes zu schieben; die Blöcke dürfen sich dabei nicht überlappen, also muss man die übrigen Teile geschickt aus dem Weg rangieren. Gezählt werden die Züge, und die Aufgabe lautet, das Ziel mit möglichst wenigen Zügen zu erreichen.\n\nAm Bildschirmrand stehen eine verkleinerte Darstellung des Levels, die Levelnummer und der Zugzähler, daneben die Spielregeln. Ein Level lässt sich über seine Nummer anwählen; H ruft die Hilfe auf, R setzt die Stellung zurück. Auf CSDb gibt es außerdem eine Fassung für das WiC64-Modul, die hier nicht enthalten ist.\n\nVon Schorsch3000 (RetroBytes, WiC64-Team), 2026. Code und Grafik: Schorsch3000; Zeichensatz: Retrofan.",
+  "texts": {
+    "de": "Superslide64 ist ein Schiebepuzzle ähnlich dem klassischen „Klotski“. Auf einem Spielfeld aus vier mal fünf Feldern liegen Blöcke unterschiedlicher Größe dicht an dicht. Ziel ist, den großen roten Block an die untere Mitte des Feldes zu schieben; die Blöcke dürfen sich dabei nicht überlappen, also muss man die übrigen Teile geschickt aus dem Weg rangieren. Gezählt werden die Züge, und die Aufgabe lautet, das Ziel mit möglichst wenigen Zügen zu erreichen.\n\nAm Bildschirmrand stehen eine verkleinerte Darstellung des Levels, die Levelnummer und der Zugzähler, daneben die Spielregeln. Ein Level lässt sich über seine Nummer anwählen; H ruft die Hilfe auf, R setzt die Stellung zurück. Auf CSDb gibt es außerdem eine Fassung für das WiC64-Modul, die hier nicht enthalten ist.\n\nVon Schorsch3000 (RetroBytes, WiC64-Team), 2026. Code und Grafik: Schorsch3000; Zeichensatz: Retrofan.",
+    "en": "Superslide64 is a sliding block puzzle similar to the classic \"Klotski\". Blocks of different sizes are packed tightly on a board of four by five squares. The goal is to move the big red block to the bottom centre of the board; blocks must not overlap, so the other pieces have to be shuffled out of the way. Moves are counted, and the task is to reach the goal in as few moves as possible.\n\nThe side of the screen shows a small view of the level, the level number and the move counter, next to the rules. A level can be selected by its number; H shows the help and R resets the position. CSDb also lists a version for the WiC64 cartridge, which is not included here.\n\nBy Schorsch3000 (RetroBytes, WiC64-Team), 2026. Code and graphics: Schorsch3000; charset: Retrofan."
+  },
+  "images": {
+    "ss": "images/db/db20d1b81192fda18db01e9ca07872b61eb7e866.png"
+  }
+}

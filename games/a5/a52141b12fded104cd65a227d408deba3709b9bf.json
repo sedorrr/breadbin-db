@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a52141b12fded104cd65a227d408deba3709b9bf",
+  "md5": "a394af8613831ea0d1209a4a5f9aa3ea",
+  "crc32": "911d1c80",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "blazteroids.d64"
+  ],
+  "title": "Blazteroids",
+  "year": "2026",
+  "publisher": "Blazon",
+  "developer": "Zmolk",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "In Blazteroids steuert man ein Raumschiff durch einen Asteroidenschwarm. Die Brocken kommen auf das Schiff zu, und es gilt, ihnen auszuweichen. Jeder Asteroid, der vorbeizieht, ohne das Schiff zu treffen, bringt einen Punkt; ein Zusammenstoß kostet ein Schiff. Das Spiel läuft, bis alle Schiffe verloren sind, und zielt auf einen möglichst hohen Punktestand.\n\nGesteuert wird mit dem Joystick in Port 2, nur nach links und rechts. Vor dem Spiel erscheint ein Ladebild mit einer fliegenden Untertasse. Die Musik stammt von Ben Daglish.\n\nVon Blazon, 2026. Code: Zmolk; Grafik: Chesser, Vandahlia, Zmolk; Musik: Ben Daglish; Hilfe: Baracuda; Verzeichnisgrafik: Logiker. Veröffentlicht auf der Vintage Computing Carinthia $40.",
+  "texts": {
+    "de": "In Blazteroids steuert man ein Raumschiff durch einen Asteroidenschwarm. Die Brocken kommen auf das Schiff zu, und es gilt, ihnen auszuweichen. Jeder Asteroid, der vorbeizieht, ohne das Schiff zu treffen, bringt einen Punkt; ein Zusammenstoß kostet ein Schiff. Das Spiel läuft, bis alle Schiffe verloren sind, und zielt auf einen möglichst hohen Punktestand.\n\nGesteuert wird mit dem Joystick in Port 2, nur nach links und rechts. Vor dem Spiel erscheint ein Ladebild mit einer fliegenden Untertasse. Die Musik stammt von Ben Daglish.\n\nVon Blazon, 2026. Code: Zmolk; Grafik: Chesser, Vandahlia, Zmolk; Musik: Ben Daglish; Hilfe: Baracuda; Verzeichnisgrafik: Logiker. Veröffentlicht auf der Vintage Computing Carinthia $40.",
+    "en": "In Blazteroids you steer a spaceship through an asteroid swarm. The rocks come towards the ship and have to be dodged. Every asteroid that passes without hitting the ship scores a point; a collision costs a ship. The game runs until all ships are lost, with the aim of reaching the highest possible score.\n\nIt is controlled with a joystick in port 2, left and right only. A loading picture with a flying saucer appears before the game. The music is by Ben Daglish.\n\nBy Blazon, 2026. Code: Zmolk; graphics: Chesser, Vandahlia, Zmolk; music: Ben Daglish; help: Baracuda; directory art: Logiker. Released at Vintage Computing Carinthia $40."
+  },
+  "images": {
+    "ss": "images/93/9356e78fe55b45c56ef0620fa550cf285cda5f7c.png",
+    "sstitle": "images/aa/aa2fb7e90cf219483b68a52c397414566965f76f.png"
+  }
+}

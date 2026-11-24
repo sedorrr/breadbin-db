@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a6b6360e32ed7045ac86542adac78f220669c55b",
+  "md5": "27c7a6066a2044beeca10cc510fd0df6",
+  "crc32": "7abe2e69",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DBfdZ_v1.0(1571).d64"
+  ],
+  "title": "Das Bier für den Zwergenkönig",
+  "year": "2026",
+  "publisher": "Unicorn",
+  "developer": "Shmendric, TheRealWanderer",
+  "genres": [
+    "Abenteuer / Text",
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Ein Textabenteuer aus der „Gold Quest“-Reihe, das an die Ereignisse von Gold Quest VI anschließt. Shmendric hat mit dem Zwerg Sledgie gewettet, dass die Halblingsbrauer aus Kiluu besseres Bier brauen als die Zwerge, und muss nun ein Fass für den Zwergenkönig herstellen. Dafür braucht er die Brauerei in Roglia, das Rezept, Zutaten und Werkzeug. In rund 25 Orten trifft man Händler, Gnome, Nixen, Trolle und Oger, die selten umsonst helfen. Die Figuren tragen die Namen von Mitgliedern der C64-Szene.\n\nGespielt wird über einen Parser, der auch längere Befehle versteht (z. B. UNTERSUCHE, NIMM, REDE MIT, GIB … AN). HINWEIS gibt einen Tipp, REZEPT zeigt den Brau-Fortschritt; Spielstände lassen sich speichern. Zu jedem Ort gibt es ein Bild, die Darstellung lässt sich zwischen reinem Text und Grafik umschalten. Diese Fassung 1.0 ist deutsch und englisch, F7 wechselt die Sprache. Es gibt Disketten für 1541, 1571 und 1581; geladen wird mit Krills Schnelllader.\n\nVon Shmendric und TheRealWanderer (Unicorn), 2026. Zeichensatz: Retrofan; Lader: Krill; Übersetzung: TheRealWanderer; Test: ADAC, Camailleon, Daimansion, Sledgie; Hilfe: Mac Bacon, Sledgie.",
+  "texts": {
+    "de": "Ein Textabenteuer aus der „Gold Quest“-Reihe, das an die Ereignisse von Gold Quest VI anschließt. Shmendric hat mit dem Zwerg Sledgie gewettet, dass die Halblingsbrauer aus Kiluu besseres Bier brauen als die Zwerge, und muss nun ein Fass für den Zwergenkönig herstellen. Dafür braucht er die Brauerei in Roglia, das Rezept, Zutaten und Werkzeug. In rund 25 Orten trifft man Händler, Gnome, Nixen, Trolle und Oger, die selten umsonst helfen. Die Figuren tragen die Namen von Mitgliedern der C64-Szene.\n\nGespielt wird über einen Parser, der auch längere Befehle versteht (z. B. UNTERSUCHE, NIMM, REDE MIT, GIB … AN). HINWEIS gibt einen Tipp, REZEPT zeigt den Brau-Fortschritt; Spielstände lassen sich speichern. Zu jedem Ort gibt es ein Bild, die Darstellung lässt sich zwischen reinem Text und Grafik umschalten. Diese Fassung 1.0 ist deutsch und englisch, F7 wechselt die Sprache. Es gibt Disketten für 1541, 1571 und 1581; geladen wird mit Krills Schnelllader.\n\nVon Shmendric und TheRealWanderer (Unicorn), 2026. Zeichensatz: Retrofan; Lader: Krill; Übersetzung: TheRealWanderer; Test: ADAC, Camailleon, Daimansion, Sledgie; Hilfe: Mac Bacon, Sledgie.",
+    "en": "A text adventure from the “Gold Quest” series that follows the events of Gold Quest VI. Shmendric has bet the dwarf Sledgie that the halfling brewers of Kiluu brew better beer than the dwarves, and now has to make a barrel for the dwarf king. For that he needs the brewery in Roglia, the recipe, ingredients and tools. Across about 25 locations you meet traders, gnomes, nixies, trolls and ogres who rarely help for free. The characters are named after members of the C64 scene.\n\nIt is played through a parser that also understands longer commands (e.g. EXAMINE, TAKE, TALK TO, GIVE … TO). HINT gives a tip, RECIPE shows the brewing progress, and games can be saved. Every location has a picture, and the display can be switched between plain text and graphics. This version 1.0 is German and English, and F7 switches the language. There are disks for the 1541, 1571 and 1581; loading uses Krill's fast loader.\n\nBy Shmendric and TheRealWanderer (Unicorn), 2026. Charset: Retrofan; loader: Krill; translation: TheRealWanderer; test: ADAC, Camailleon, Daimansion, Sledgie; help: Mac Bacon, Sledgie."
+  },
+  "images": {
+    "ss": "images/ff/ff1408be3f854204a9787e68838cb65b0496372c.png"
+  }
+}

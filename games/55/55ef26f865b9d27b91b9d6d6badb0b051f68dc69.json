@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "55ef26f865b9d27b91b9d6d6badb0b051f68dc69",
+  "md5": "a54a6d85c822a3a5e6bd0a506c3335cd",
+  "crc32": "a0676f88",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "labyrinth.d64"
+  ],
+  "title": "Labyrinth of Ur",
+  "year": "2026",
+  "publisher": "Ursiny Games",
+  "developer": "Michal Ursiny (ursimon)",
+  "genres": [
+    "Rollenspiele",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "Labyrinth of Ur ist ein Dungeon-Erkundungsspiel aus der Ich-Perspektive. Man steigt in ein Labyrinth hinab und arbeitet sich Stockwerk für Stockwerk tiefer. In den Gängen warten Goblins, Hobgoblins, Skelette, Knochenritter und der Dämon Pazuzu. Wach gewordene Gegner handeln, sobald man länger als eine Sekunde untätig bleibt; stirbt man, wird das aktuelle Stockwerk neu begonnen.\n\nGesteuert wird mit dem Joystick in Port 2, mit W, A, S, D oder den Cursortasten: vor und zurück gehen, links und rechts drehen, mit Q/E bzw. Feuer und Richtung seitlich ausweichen; Leertaste, Return oder Feuer lösen Aktionen aus. Im Spiel schalten F1 und F3 Musik und Geräusche, M zeigt die Karte. Das Menü bietet eine Spielanleitung, Credits und Einstellungen. Die Musik ist „Surrounded by Darkness“ von Nordischsound (2022).\n\nVon Michal Ursiny (Ursiny Games), 2026.",
+  "texts": {
+    "de": "Labyrinth of Ur ist ein Dungeon-Erkundungsspiel aus der Ich-Perspektive. Man steigt in ein Labyrinth hinab und arbeitet sich Stockwerk für Stockwerk tiefer. In den Gängen warten Goblins, Hobgoblins, Skelette, Knochenritter und der Dämon Pazuzu. Wach gewordene Gegner handeln, sobald man länger als eine Sekunde untätig bleibt; stirbt man, wird das aktuelle Stockwerk neu begonnen.\n\nGesteuert wird mit dem Joystick in Port 2, mit W, A, S, D oder den Cursortasten: vor und zurück gehen, links und rechts drehen, mit Q/E bzw. Feuer und Richtung seitlich ausweichen; Leertaste, Return oder Feuer lösen Aktionen aus. Im Spiel schalten F1 und F3 Musik und Geräusche, M zeigt die Karte. Das Menü bietet eine Spielanleitung, Credits und Einstellungen. Die Musik ist „Surrounded by Darkness“ von Nordischsound (2022).\n\nVon Michal Ursiny (Ursiny Games), 2026.",
+    "en": "Labyrinth of Ur is a first-person dungeon exploration game. You descend into a labyrinth and work your way deeper floor by floor. Goblins, hobgoblins, skeletons, bone knights and the demon Pazuzu wait in the corridors. Awakened enemies act as soon as you stay idle for more than a second; if you die, the current floor is restarted.\n\nIt is controlled with a joystick in port 2, with W, A, S, D or the cursor keys: move forward and back, turn left and right, strafe with Q/E or fire plus a direction; space, Return or fire perform actions. In the game F1 and F3 toggle music and sound effects, and M shows the map. The menu offers instructions, credits and settings. The music is \"Surrounded by Darkness\" by Nordischsound (2022).\n\nBy Michal Ursiny (Ursiny Games), 2026."
+  },
+  "images": {
+    "ss": "images/44/4428abce171b7c9ba36db9e8aa03259c0c507168.png",
+    "sstitle": "images/d6/d602d0fecf77d83e9bda8e2d28aff247ba0d3422.png"
+  }
+}

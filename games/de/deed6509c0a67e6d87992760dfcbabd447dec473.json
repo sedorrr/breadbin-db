@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "deed6509c0a67e6d87992760dfcbabd447dec473",
+  "md5": "6a2501e50fe8ef6425ededd3270d3006",
+  "crc32": "3532adf7",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Gravity_Snake_-_Wastelands_(Level_5_Bugfix)_+1D_LAXITY.d64"
+  ],
+  "title": "Gravity Snake - Wastelands (Level 5 Bugfix) +1D",
+  "year": "2026",
+  "publisher": "Naufr4g0",
+  "developer": "Naufr4g0",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Gravity Snake ist ein Denkspiel, in dem man eine Schlange durch eine Reihe verschachtelter Rätselkammern steuert. In jedem Raum müssen alle Früchte gefressen werden, danach gilt es, den Ausgang zu erreichen. Dabei wirkt ständig die Schwerkraft auf die Schlange: Ragt sie über eine Kante, fällt sie hinunter. Tödliche Fallen und Sackgassen, in denen die Schlange stecken bleibt, machen jeden Zug zu einer Frage von Logik und Planung.\n\n„Wastelands“ ist ein Bonus-Levelpaket mit 20 neuen Levels in einem verseuchten Ödland voller Schlamm, Giftmüll und Abfall, das neue Gefahren ins Spiel bringt. Es baut auf der Fassung 1.0.1 auf; Hauptmenü mit Spielstart, Levelauswahl und Mitwirkenden. Diese Fassung behebt einen Fehler, durch den Level 5 nicht lösbar war. Das Grundspiel entstand für die Game Jam von Retro Programmers Inside (RPI) und Phaze101.\n\nVon Naufr4g0, 2026 (Idee, Programm und Grafik Naufr4g0, Musik Crain/Phaze101).\n\nCrack von Laxity (O'Dog), 25. September 2026, mit Trainer: alle Levels in der Levelauswahl freischalten. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Gravity Snake ist ein Denkspiel, in dem man eine Schlange durch eine Reihe verschachtelter Rätselkammern steuert. In jedem Raum müssen alle Früchte gefressen werden, danach gilt es, den Ausgang zu erreichen. Dabei wirkt ständig die Schwerkraft auf die Schlange: Ragt sie über eine Kante, fällt sie hinunter. Tödliche Fallen und Sackgassen, in denen die Schlange stecken bleibt, machen jeden Zug zu einer Frage von Logik und Planung.\n\n„Wastelands“ ist ein Bonus-Levelpaket mit 20 neuen Levels in einem verseuchten Ödland voller Schlamm, Giftmüll und Abfall, das neue Gefahren ins Spiel bringt. Es baut auf der Fassung 1.0.1 auf; Hauptmenü mit Spielstart, Levelauswahl und Mitwirkenden. Diese Fassung behebt einen Fehler, durch den Level 5 nicht lösbar war. Das Grundspiel entstand für die Game Jam von Retro Programmers Inside (RPI) und Phaze101.\n\nVon Naufr4g0, 2026 (Idee, Programm und Grafik Naufr4g0, Musik Crain/Phaze101).\n\nCrack von Laxity (O'Dog), 25. September 2026, mit Trainer: alle Levels in der Levelauswahl freischalten. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Gravity Snake is a puzzle game in which you guide a snake through a series of mind-bending puzzle chambers. In each room every fruit has to be eaten before you head for the exit. Gravity constantly acts on the snake: if it sticks out over an edge, it falls. Deadly traps and dead ends where the snake gets stuck turn every move into a matter of logic and planning.\n\n\"Wastelands\" is a bonus level pack with 20 new levels set in a toxic wasteland full of mud, poisonous waste and garbage, which brings new hazards into play. It is based on version 1.0.1; the main menu offers start game, level select and credits. This release fixes a bug that made level 5 impossible to complete. The base game was made for the Retro Programmers Inside (RPI) and Phaze101 game jam.\n\nBy Naufr4g0, 2026 (concept, code and graphics by Naufr4g0, music by Crain/Phaze101).\n\nCracked by Laxity (O'Dog), 25 September 2026, with trainer: unlock all levels for level select. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/17/17d1a7d43ae7d2fd12fad10b02f35fe712fdc164.png",
+    "sstitle": "images/14/140b15379e3c6f5f355aa617a4b601aa1a6add61.png"
+  }
+}

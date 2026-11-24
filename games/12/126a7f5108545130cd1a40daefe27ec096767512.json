@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "126a7f5108545130cd1a40daefe27ec096767512",
+  "md5": "d3aa14b058577c0578b7298a47d1c90d",
+  "crc32": "cbac4457",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Gate Game+3D [Shadow].d64"
+  ],
+  "title": "Gate Game +3D",
+  "year": "2026",
+  "publisher": "polytricity",
+  "developer": "polytricity",
+  "genres": [
+    "Denkspiel"
+  ],
+  "players": "1",
+  "synopsis": "Gate Game ist ein Logikpuzzle mit Schaltgattern. Jede der 20 Platinen zeigt eine Schaltung mit Eingängen, die 0 oder 1 führen, Leitungen und leeren Plätzen für Gatter; oben steht, wie viele AND-, OR-, NOT-, EOR- und NAND-Gatter für das Brett zur Verfügung stehen. Man setzt die Gatter so ein, dass der Impuls am Ende die Lampe am Ausgang zum Leuchten bringt. Erst wenn alle Gatter gesetzt sind, lässt sich die Schaltung starten; der Impuls läuft dann sichtbar durch die Leitungen. Ist die Lösung richtig, geht es mit dem nächsten Brett weiter. Ein falscher Ausgang oder eine durchgebrannte Sicherung kostet einen von fünf Versuchen.\n\nDie Bretter tragen Namen wie „First Light“, „Invert“, „Exclusive“, „Cascade“, „Fuse Box“ und „Mainframe“ und werden nach und nach größer und mehrstufig. Gesteuert wird mit dem Joystick: Richtung wählt den Platz, Feuer setzt das Gatter, über „Run“ wird die Schaltung gestartet. Sind alle Leben verbraucht, zeigt das Spiel die erreichte Stufe an. Die Texte sind englisch.\n\nVon polytricity, 2026.\n\nCrack von Shadow, 6. Oktober 2026, mit Anleitung; Trainer und Anleitung von pcollins. Trainer: unendlich viele Leben, Levelsprung mit der C=-Taste, Wahl der Startstufe. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Gate Game ist ein Logikpuzzle mit Schaltgattern. Jede der 20 Platinen zeigt eine Schaltung mit Eingängen, die 0 oder 1 führen, Leitungen und leeren Plätzen für Gatter; oben steht, wie viele AND-, OR-, NOT-, EOR- und NAND-Gatter für das Brett zur Verfügung stehen. Man setzt die Gatter so ein, dass der Impuls am Ende die Lampe am Ausgang zum Leuchten bringt. Erst wenn alle Gatter gesetzt sind, lässt sich die Schaltung starten; der Impuls läuft dann sichtbar durch die Leitungen. Ist die Lösung richtig, geht es mit dem nächsten Brett weiter. Ein falscher Ausgang oder eine durchgebrannte Sicherung kostet einen von fünf Versuchen.\n\nDie Bretter tragen Namen wie „First Light“, „Invert“, „Exclusive“, „Cascade“, „Fuse Box“ und „Mainframe“ und werden nach und nach größer und mehrstufig. Gesteuert wird mit dem Joystick: Richtung wählt den Platz, Feuer setzt das Gatter, über „Run“ wird die Schaltung gestartet. Sind alle Leben verbraucht, zeigt das Spiel die erreichte Stufe an. Die Texte sind englisch.\n\nVon polytricity, 2026.\n\nCrack von Shadow, 6. Oktober 2026, mit Anleitung; Trainer und Anleitung von pcollins. Trainer: unendlich viele Leben, Levelsprung mit der C=-Taste, Wahl der Startstufe. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Gate Game is a logic puzzle with logic gates. Each of the 20 boards shows a circuit with inputs carrying 0 or 1, wires and empty slots for gates; a line at the top shows how many AND, OR, NOT, EOR and NAND gates are available for the board. You place the gates so that the pulse lights the lamp at the output in the end. The circuit can only be run once every gate has been placed; the pulse then visibly travels along the wires. With a correct solution you move on to the next board. A wrong output or a blown fuse costs one of five lives.\n\nThe boards carry names such as \"First Light\", \"Invert\", \"Exclusive\", \"Cascade\", \"Fuse Box\" and \"Mainframe\" and gradually grow larger and multi-stage. Control is by joystick: directions select the slot, fire places the gate, and \"Run\" starts the circuit. When all lives are used up, the game shows the level reached. All text is in English.\n\nBy polytricity, 2026.\n\nCracked by Shadow, 6 October 2026, with docs; trainer and docs by pcollins. Trainer: unlimited lives, level skip with the C= key, choice of start level. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/06/06a3436af75b28be29044d683c3462b6a3b7d300.png",
+    "sstitle": "images/56/562671aa999f79d7b2cceba13e8bbbd63b883041.png"
+  }
+}

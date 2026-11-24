@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "caba5975a68d98ae7bad2c077f2459cde0a10ad7",
+  "md5": "778091aa60ef0f9e08322af8364cc2e2",
+  "crc32": "b9cb4f04",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Buckshot Roulette +1D [Shadow].d64"
+  ],
+  "title": "Buckshot Roulette +1D",
+  "year": "2026",
+  "publisher": "Shadow",
+  "developer": "Ko-Ko",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Buckshot Roulette ist die C64-Umsetzung des gleichnamigen Spiels von Mike Klubnika. Man sitzt einem unheimlichen Croupier, dem Dealer, gegenüber; zwischen beiden liegt eine Schrotflinte, die mit scharfen Patronen und Platzpatronen in verdeckter Reihenfolge geladen wird. Wer am Zug ist, schießt entweder auf den Dealer oder auf sich selbst. Eine Platzpatrone auf sich selbst bringt einen weiteren Zug, ein Treffer kostet Ladungen, und wer alle Ladungen verliert, scheidet aus. Gegenstände helfen beim Abwägen: Die Lupe zeigt die Patrone im Lauf, Bier wirft sie aus, Handschellen lassen den Dealer aussetzen, die Säge verdoppelt den Schaden, Zigaretten geben eine Ladung zurück.\n\nGespielt wird über drei Runden; ab der zweiten kommen Gegenstände ins Spiel, in der letzten gibt es keine Wiederbelebung mehr. Nach einem Sieg gibt es Geld und die Wahl „Double or Nothing“, die weitere Gegenstände wie Wegwerfhandy, Inverter, abgelaufene Medizin und Adrenalin bringt. Gesteuert wird mit dem Joystick: links/rechts wählt Gegenstände und Flinte, oben/unten die Reihe, Feuer benutzt; mit der Flinte in der Hand zielt oben auf den Dealer, unten auf einen selbst. Die Texte sind englisch. Enthalten sind die Fassungen V1.0 und V1.1.\n\nVon Ko-Ko (Kornel Kolma), 2026. Code, Grafik und Musik: Ko-Ko; Vorlage: Mike Klubnika.\n\nCrack von Shadow vom 25. September 2026. Trainer: Stormfront. Die Trainer-Optionen sind nicht ermittelt. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Buckshot Roulette ist die C64-Umsetzung des gleichnamigen Spiels von Mike Klubnika. Man sitzt einem unheimlichen Croupier, dem Dealer, gegenüber; zwischen beiden liegt eine Schrotflinte, die mit scharfen Patronen und Platzpatronen in verdeckter Reihenfolge geladen wird. Wer am Zug ist, schießt entweder auf den Dealer oder auf sich selbst. Eine Platzpatrone auf sich selbst bringt einen weiteren Zug, ein Treffer kostet Ladungen, und wer alle Ladungen verliert, scheidet aus. Gegenstände helfen beim Abwägen: Die Lupe zeigt die Patrone im Lauf, Bier wirft sie aus, Handschellen lassen den Dealer aussetzen, die Säge verdoppelt den Schaden, Zigaretten geben eine Ladung zurück.\n\nGespielt wird über drei Runden; ab der zweiten kommen Gegenstände ins Spiel, in der letzten gibt es keine Wiederbelebung mehr. Nach einem Sieg gibt es Geld und die Wahl „Double or Nothing“, die weitere Gegenstände wie Wegwerfhandy, Inverter, abgelaufene Medizin und Adrenalin bringt. Gesteuert wird mit dem Joystick: links/rechts wählt Gegenstände und Flinte, oben/unten die Reihe, Feuer benutzt; mit der Flinte in der Hand zielt oben auf den Dealer, unten auf einen selbst. Die Texte sind englisch. Enthalten sind die Fassungen V1.0 und V1.1.\n\nVon Ko-Ko (Kornel Kolma), 2026. Code, Grafik und Musik: Ko-Ko; Vorlage: Mike Klubnika.\n\nCrack von Shadow vom 25. September 2026. Trainer: Stormfront. Die Trainer-Optionen sind nicht ermittelt. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Buckshot Roulette is the C64 conversion of Mike Klubnika's game of the same name. You sit opposite an eerie croupier, the dealer, with a shotgun between you that is loaded with live rounds and blanks in a hidden order. Whoever has the turn shoots either the dealer or themselves. A blank fired at yourself grants another turn, a hit costs charges, and whoever loses all charges is out. Items help with the decision: the magnifying glass shows the shell in the chamber, beer ejects it, handcuffs make the dealer skip a turn, the hand saw doubles the damage and cigarettes restore a charge.\n\nThe game runs over three rounds; items come into play from the second round, and the final round has no more revivals. A win pays money and offers \"Double or Nothing\", which adds further items such as the burner phone, inverter, expired medicine and adrenaline. Control is by joystick: left/right selects items and the shotgun, up/down the row, fire uses; while holding the shotgun, up aims at the dealer and down at yourself. All text is in English. Versions V1.0 and V1.1 are included.\n\nBy Ko-Ko (Kornel Kolma), 2026. Code, graphics and music: Ko-Ko; original game: Mike Klubnika.\n\nCrack by Shadow, 25 September 2026. Trainer: Stormfront. The trainer options have not been determined. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/8e/8ebca0b9d44a4c71300719001c65adc6d68f9788.png",
+    "sstitle": "images/8a/8a58a117e42c3ea8cdce6797cbd40eae51480b81.png"
+  }
+}

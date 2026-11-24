@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "6ffaa1568b2463e2203581d8f2c0766475b2f9e7",
+  "md5": "00b3f30e1591062aedf3e231eecfd841",
+  "crc32": "90b7da22",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "afterglow.d64"
+  ],
+  "title": "Afterglow",
+  "year": "2026",
+  "publisher": "8bitbob01706",
+  "developer": "8bitbob01706",
+  "genres": [
+    "Shoot'em Up / Horizontal"
+  ],
+  "players": "1",
+  "synopsis": "Horizontal scrollender Weltraum-Shooter mit mehrlagigem Parallax-Scrolling („A parallax spectacle“): Ein kleines weißes Raumschiff fliegt über eine Gebirgslandschaft, die in mehreren Ebenen unterschiedlich schnell vorbeizieht, und kämpft sich durch Wellen grüner und blauer Gegner. Das erste Level heißt „Rose Ridge“. Gespielt wird mit dem Joystick in Port 2, Feuer startet; eine Bestenliste wird angezeigt.\n\nVon 8bitbob01706 (itch.io), 2026.",
+  "texts": {
+    "de": "Horizontal scrollender Weltraum-Shooter mit mehrlagigem Parallax-Scrolling („A parallax spectacle“): Ein kleines weißes Raumschiff fliegt über eine Gebirgslandschaft, die in mehreren Ebenen unterschiedlich schnell vorbeizieht, und kämpft sich durch Wellen grüner und blauer Gegner. Das erste Level heißt „Rose Ridge“. Gespielt wird mit dem Joystick in Port 2, Feuer startet; eine Bestenliste wird angezeigt.\n\nVon 8bitbob01706 (itch.io), 2026.",
+    "en": "Horizontally scrolling space shooter with multi-layer parallax scrolling (\"A parallax spectacle\"): a small white ship flies over a mountain landscape whose layers move past at different speeds, fighting its way through waves of green and blue enemies. The first stage is called \"Rose Ridge\". Played with a joystick in port 2, fire starts; a high score is shown.\n\nBy 8bitbob01706 (itch.io), 2026."
+  },
+  "images": {
+    "ss": "images/9a/9abaedc26d1def92a47a2c7769b003fe4692a87d.png",
+    "sstitle": "images/6b/6b58a4074c3fa848409e64a8d9b4541652aa248e.png"
+  }
+}

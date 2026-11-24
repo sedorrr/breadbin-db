@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "69801b5649170ecdaf0927f4941261a1ebbd5e94",
+  "md5": "e196d59a49faad458fdd7efe8882e137",
+  "crc32": "f4e9ffb2",
+  "size": 39943,
+  "format": "PRG",
+  "files": [
+    "domain83.prg"
+  ],
+  "title": "Domain 83",
+  "year": "2026",
+  "publisher": "Dr. TerrorZ",
+  "developer": "Dr. TerrorZ",
+  "genres": [
+    "Beat'em Up",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "In Domain 83 kämpft man sich durch eine Anlage aus Plattformen, Stegen und Leitern. Auf jeder Ebene tauchen Gegner auf, die den Spieler niederschlagen wollen; wer zuerst trifft, ist im Vorteil. Die Spielfigur wechselt über Leitern zwischen den Stockwerken und muss die Angreifer mit Faustschlägen und Tritten abwehren. Unten im Bild stehen die verbleibenden Herzen, die Energie und der Punktestand.\n\nGesteuert wird mit dem Joystick in Port 2: Feuer startet das Spiel und schlägt zu, Feuer mit links oder rechts löst einen Tritt aus, oben und unten klettern die Leitern hinauf und hinunter. Man hat drei Leben mit je drei Herzen Energie. Das Spiel ist eine einzelne Programmdatei.\n\nVon Dr. TerrorZ (Code, Grafik, Musik), 2026.",
+  "texts": {
+    "de": "In Domain 83 kämpft man sich durch eine Anlage aus Plattformen, Stegen und Leitern. Auf jeder Ebene tauchen Gegner auf, die den Spieler niederschlagen wollen; wer zuerst trifft, ist im Vorteil. Die Spielfigur wechselt über Leitern zwischen den Stockwerken und muss die Angreifer mit Faustschlägen und Tritten abwehren. Unten im Bild stehen die verbleibenden Herzen, die Energie und der Punktestand.\n\nGesteuert wird mit dem Joystick in Port 2: Feuer startet das Spiel und schlägt zu, Feuer mit links oder rechts löst einen Tritt aus, oben und unten klettern die Leitern hinauf und hinunter. Man hat drei Leben mit je drei Herzen Energie. Das Spiel ist eine einzelne Programmdatei.\n\nVon Dr. TerrorZ (Code, Grafik, Musik), 2026.",
+    "en": "In Domain 83 you fight your way through a complex of platforms, walkways and ladders. Enemies appear on every level trying to beat the player down; whoever lands the first hit has the advantage. The character uses ladders to move between floors and has to fend off the attackers with punches and kicks. The remaining hearts, energy and score are shown at the bottom of the screen.\n\nIt is controlled with a joystick in port 2: fire starts the game and punches, fire with left or right kicks, and up and down climb the ladders. You have three lives with three hearts of energy each. The game is a single program file.\n\nBy Dr. TerrorZ (code, graphics, music), 2026."
+  },
+  "images": {
+    "ss": "images/06/06c19380e4a35d267461c4d408feb9ebdafdba62.png",
+    "sstitle": "images/dc/dc11d524ed751981c29d26caf542fa1d5c7a3854.png"
+  }
+}

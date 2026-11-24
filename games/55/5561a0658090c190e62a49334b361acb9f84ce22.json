@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "5561a0658090c190e62a49334b361acb9f84ce22",
+  "md5": "a16613d5ea554fe39e207989cade76a1",
+  "crc32": "8a0dc18e",
+  "size": 257,
+  "format": "PRG",
+  "files": [
+    "Invaders One.prg"
+  ],
+  "title": "Invaders One",
+  "year": "2026",
+  "publisher": "AMID",
+  "developer": "Harvey",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Invaders One ist eine Space-Invaders-Variante, die in einer einzigen BASIC-Zeile steckt (257 Byte). Fünf Reihen mit je zehn Eindringlingen aus Textzeichen stehen am oberen Bildrand, wandern seitlich hin und her und rücken Runde um Runde eine Zeile tiefer. Der Spieler bewegt seine Kanone am unteren Rand und schießt nach oben; jeder Treffer zählt einen Punkt, der Stand steht oben links. Nach neun Abstiegen endet das Programm.\n\nGesteuert wird über die Tastatur: F1 nach links, F3 nach rechts, F5 schießt. Es gibt keinen Joystick und kein Menü; zum Neustart genügt RUN. Das Spiel lief im Wettbewerb „WiLD Demo“ auf der Comparade 2026 und belegte Platz 4.\n\nVon Harvey / AMID, 2026.",
+  "texts": {
+    "de": "Invaders One ist eine Space-Invaders-Variante, die in einer einzigen BASIC-Zeile steckt (257 Byte). Fünf Reihen mit je zehn Eindringlingen aus Textzeichen stehen am oberen Bildrand, wandern seitlich hin und her und rücken Runde um Runde eine Zeile tiefer. Der Spieler bewegt seine Kanone am unteren Rand und schießt nach oben; jeder Treffer zählt einen Punkt, der Stand steht oben links. Nach neun Abstiegen endet das Programm.\n\nGesteuert wird über die Tastatur: F1 nach links, F3 nach rechts, F5 schießt. Es gibt keinen Joystick und kein Menü; zum Neustart genügt RUN. Das Spiel lief im Wettbewerb „WiLD Demo“ auf der Comparade 2026 und belegte Platz 4.\n\nVon Harvey / AMID, 2026.",
+    "en": "Invaders One is a Space Invaders variant packed into a single line of BASIC (257 bytes). Five rows of ten invaders made of text characters sit at the top of the screen, shift from side to side and move one line lower each round. The player moves a cannon along the bottom and fires upwards; each hit scores a point, shown at the top left. After nine descents the program ends.\n\nControls are on the keyboard: F1 moves left, F3 moves right, F5 fires. There is no joystick support and no menu; RUN starts a new game. It was entered in the WiLD Demo competition at Comparade 2026 and placed 4th.\n\nBy Harvey / AMID, 2026."
+  },
+  "images": {
+    "ss": "images/5c/5c39c8f6bc80a6b3ddf458bedb558db6f96d6047.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "2715fa41fe0a2947292da2a2fc18dec86ae1604f",
+  "md5": "d09cb84e80d5f60817ed5ea598fa1151",
+  "crc32": "021682ab",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "basic2048-by-Arman-Anzanpour.d64"
+  ],
+  "title": "Basic 2048",
+  "year": "2026",
+  "publisher": "Armanz",
+  "developer": "Arman Anzanpour (Armanz)",
+  "genres": [
+    "Denkspiel"
+  ],
+  "players": "1",
+  "synopsis": "Basic 2048 ist eine Umsetzung des Schiebespiels 2048 in BASIC. Auf einem Feld aus vier mal vier Kästchen liegen Zahlenplättchen. Mit jedem Zug schiebt man alle Plättchen in eine Richtung; treffen zwei gleiche Zahlen aufeinander, verschmelzen sie zu ihrer Summe, die zum Punktestand addiert wird. Nach jedem Zug erscheint auf einem freien Feld eine neue 2 oder seltener eine 4. Ziel ist ein Plättchen mit 2048; ist kein Zug mehr möglich, endet das Spiel.\n\nGespielt wird mit den Tasten W, A, S und D für oben, links, unten und rechts; die Leertaste startet das Spiel. Das Spielfeld besteht aus PETSCII-Zeichen, die Zahlen sind je nach Größe unterschiedlich eingefärbt. Zum Titelbild spielt eine kurze Melodie, nach Spielende kann man eine neue Runde beginnen.\n\nVon Arman Anzanpour (Armanz), 2026.",
+  "texts": {
+    "de": "Basic 2048 ist eine Umsetzung des Schiebespiels 2048 in BASIC. Auf einem Feld aus vier mal vier Kästchen liegen Zahlenplättchen. Mit jedem Zug schiebt man alle Plättchen in eine Richtung; treffen zwei gleiche Zahlen aufeinander, verschmelzen sie zu ihrer Summe, die zum Punktestand addiert wird. Nach jedem Zug erscheint auf einem freien Feld eine neue 2 oder seltener eine 4. Ziel ist ein Plättchen mit 2048; ist kein Zug mehr möglich, endet das Spiel.\n\nGespielt wird mit den Tasten W, A, S und D für oben, links, unten und rechts; die Leertaste startet das Spiel. Das Spielfeld besteht aus PETSCII-Zeichen, die Zahlen sind je nach Größe unterschiedlich eingefärbt. Zum Titelbild spielt eine kurze Melodie, nach Spielende kann man eine neue Runde beginnen.\n\nVon Arman Anzanpour (Armanz), 2026.",
+    "en": "Basic 2048 is a BASIC version of the sliding puzzle 2048. Number tiles lie on a four-by-four grid. Each move slides all tiles in one direction; when two equal numbers meet, they merge into their sum, which is added to the score. After each move a new 2, or less often a 4, appears on a free square. The goal is a 2048 tile; when no move is left, the game ends.\n\nIt is played with the keys W, A, S and D for up, left, down and right; space starts the game. The grid is drawn with PETSCII characters, and the numbers are coloured according to their size. A short tune plays on the title screen, and after the game ends you can start another round.\n\nBy Arman Anzanpour (Armanz), 2026."
+  },
+  "images": {
+    "ss": "images/39/391ca26d4bc6ebc16d43eb491230b9c9b33fe60d.png",
+    "sstitle": "images/44/444695c6b2a63d1b7459c64e7aaec13e0e703269.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "7180639f4d0942f80aeb0aaf543acf3eed53e777",
+  "md5": "1aff161983cb66064582936deef6b64d",
+  "crc32": "f59f09f4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "reversing_ballet.d64"
+  ],
+  "title": "The Reversing Ballet",
+  "year": "2026",
+  "publisher": "Grue",
+  "developer": "Grue",
+  "genres": [
+    "Geschicklichkeit",
+    "Fahren"
+  ],
+  "players": "1",
+  "synopsis": "In The Reversing Ballet muss man einen Lastwagen mit Anhänger rückwärts in eine gelb markierte Parkbucht setzen und dort anhalten, mit dem Führerhaus nach außen. Das Spielfeld wird von oben gezeigt. Wände und abgestellte Lastwagen dürfen nicht berührt werden, und der Zug darf nicht einknicken; jede Berührung kostet Schadenspunkte, zehn Schadenspunkte in einer Stufe beenden das Spiel. Je schneller man einparkt, desto mehr Punkte gibt es. Der Anhänger schwenkt beim Rückwärtsfahren entgegengesetzt aus, was Übung verlangt. In späteren Stufen erschwert etwa schwarzes Öl das Bremsen.\n\nGesteuert wird mit Joystick oder Paddle in Port 2; mit dem Paddle lenkt der Drehknopf, der Knopf gibt Gas, die Leertaste wechselt den Gang. F1 ruft die Hilfe auf, F3 wählt den Expertenmodus, F5 die Credits, F7 das Training. Die Anhängerphysik geht auf Pete Cookes Spectrum-Spiel Juggernaut (CRL, 1985) zurück.\n\nVon Grue, 2026. Veröffentlicht auf der Zoo 2026.",
+  "texts": {
+    "de": "In The Reversing Ballet muss man einen Lastwagen mit Anhänger rückwärts in eine gelb markierte Parkbucht setzen und dort anhalten, mit dem Führerhaus nach außen. Das Spielfeld wird von oben gezeigt. Wände und abgestellte Lastwagen dürfen nicht berührt werden, und der Zug darf nicht einknicken; jede Berührung kostet Schadenspunkte, zehn Schadenspunkte in einer Stufe beenden das Spiel. Je schneller man einparkt, desto mehr Punkte gibt es. Der Anhänger schwenkt beim Rückwärtsfahren entgegengesetzt aus, was Übung verlangt. In späteren Stufen erschwert etwa schwarzes Öl das Bremsen.\n\nGesteuert wird mit Joystick oder Paddle in Port 2; mit dem Paddle lenkt der Drehknopf, der Knopf gibt Gas, die Leertaste wechselt den Gang. F1 ruft die Hilfe auf, F3 wählt den Expertenmodus, F5 die Credits, F7 das Training. Die Anhängerphysik geht auf Pete Cookes Spectrum-Spiel Juggernaut (CRL, 1985) zurück.\n\nVon Grue, 2026. Veröffentlicht auf der Zoo 2026.",
+    "en": "In The Reversing Ballet you have to back a truck and trailer into a yellow parking bay and stop there with the cab facing out. The playfield is shown from above. Walls and parked trucks must not be touched, and the rig must not jackknife; every contact costs damage points, and ten damage points in one level end the game. The faster you park, the more points you get. When reversing, the trailer swings the opposite way, which takes practice. In later levels black oil, for example, makes braking harder.\n\nIt is controlled with a joystick or paddle in port 2; with a paddle the knob steers, the button accelerates and space changes gear. F1 shows help, F3 selects expert mode, F5 the credits and F7 training. The trailer physics are based on Pete Cooke's Spectrum game Juggernaut (CRL, 1985).\n\nBy Grue, 2026. Released at Zoo 2026."
+  },
+  "images": {
+    "ss": "images/7e/7e5a8974f212478272bae1e7e417d2514ee221ea.png"
+  }
+}

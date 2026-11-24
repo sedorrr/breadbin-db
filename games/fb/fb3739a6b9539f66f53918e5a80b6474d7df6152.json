@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "fb3739a6b9539f66f53918e5a80b6474d7df6152",
+  "md5": "208732ad60486c92575fbce3b9c85f4a",
+  "crc32": "6f9c7953",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "der_schatz_der_zwerge_[ger-eng]_v1.1.d64"
+  ],
+  "title": "Der Schatz der Zwerge",
+  "year": "2026",
+  "publisher": "Unicorn",
+  "developer": "Shmendric",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Der Schatz der Zwerge ist ein kurzes Textadventure aus der Welt von „Gold Quest“. Man spielt Shmendric, einen stets hungrigen und abenteuerlustigen Hobbit, der in einer Taverne betrunkene Zwerge von einem Schatz auf einer kleinen Südseeinsel reden hörte. Auf der Insel gilt es, den Zwergenschatz auszugraben und aus Fundstücken wie Axtblatt, Ast, Zeltplane, Nähzeug, Seil und Palmstämmen ein Floß samt Segel zu bauen, um mit der Beute davonzusegeln. Jede Aktion kostet einen Hungerpunkt; Essen und Trinken füllen den Vorrat wieder auf, sonst bricht Shmendric entkräftet zusammen.\n\nBefehle werden als Verb und Gegenstand eingetippt (etwa NIMM, UNTERSUCHE, GRABE, BAUE), dazu Himmelsrichtungen sowie HILFE, INVENTAR, PUNKTE und HINWEIS. Die obere Zeile zeigt Raum, Punkte und Hunger; bis zu 100 Punkte sind möglich. Die Sprache wird beim Start gewählt (F1 Deutsch, F3 Englisch) und lässt sich im Spiel wechseln. Fassung V1.1, Deutsch und Englisch auf einer Diskette; eine Komplettlösung liegt als Textdatei bei.\n\nVon Unicorn, 2026. Code: Daybyter, Shmendric, TheRealWanderer; Idee und Text: Shmendric; Übersetzung: TheRealWanderer; Test: Daybyter, Sledgie.",
+  "texts": {
+    "de": "Der Schatz der Zwerge ist ein kurzes Textadventure aus der Welt von „Gold Quest“. Man spielt Shmendric, einen stets hungrigen und abenteuerlustigen Hobbit, der in einer Taverne betrunkene Zwerge von einem Schatz auf einer kleinen Südseeinsel reden hörte. Auf der Insel gilt es, den Zwergenschatz auszugraben und aus Fundstücken wie Axtblatt, Ast, Zeltplane, Nähzeug, Seil und Palmstämmen ein Floß samt Segel zu bauen, um mit der Beute davonzusegeln. Jede Aktion kostet einen Hungerpunkt; Essen und Trinken füllen den Vorrat wieder auf, sonst bricht Shmendric entkräftet zusammen.\n\nBefehle werden als Verb und Gegenstand eingetippt (etwa NIMM, UNTERSUCHE, GRABE, BAUE), dazu Himmelsrichtungen sowie HILFE, INVENTAR, PUNKTE und HINWEIS. Die obere Zeile zeigt Raum, Punkte und Hunger; bis zu 100 Punkte sind möglich. Die Sprache wird beim Start gewählt (F1 Deutsch, F3 Englisch) und lässt sich im Spiel wechseln. Fassung V1.1, Deutsch und Englisch auf einer Diskette; eine Komplettlösung liegt als Textdatei bei.\n\nVon Unicorn, 2026. Code: Daybyter, Shmendric, TheRealWanderer; Idee und Text: Shmendric; Übersetzung: TheRealWanderer; Test: Daybyter, Sledgie.",
+    "en": "The Treasure of the Dwarves (Der Schatz der Zwerge) is a short text adventure set in the world of \"Gold Quest\". You play Shmendric, an ever-hungry and adventurous hobbit who overheard drunken dwarves in a tavern talking about a treasure on a small South Sea island. On the island you have to dig up the dwarves' treasure and build a raft with a sail from items such as an axe blade, a branch, tent canvas, a sewing kit, rope and palm logs in order to sail away with the loot. Every action costs a hunger point; eating and drinking refill the supply, otherwise Shmendric collapses from exhaustion.\n\nCommands are typed as verb and object (such as TAKE, EXAMINE, DIG, BUILD), plus compass directions and HELP, INVENTORY, SCORE and HINT. The top line shows the location, score and hunger; up to 100 points can be earned. The language is chosen at the start (F1 German, F3 English) and can be switched during play. Version V1.1, German and English on one disk; a full solution is included as a text file.\n\nBy Unicorn, 2026. Code: Daybyter, Shmendric, TheRealWanderer; design and text: Shmendric; translation: TheRealWanderer; testing: Daybyter, Sledgie."
+  },
+  "images": {
+    "ss": "images/c5/c55ddbde46e4797d1b2173e97633d0bd5862388f.png",
+    "sstitle": "images/2e/2edec09fef0b0622068a835f1158aaa0b3486509.png"
+  }
+}

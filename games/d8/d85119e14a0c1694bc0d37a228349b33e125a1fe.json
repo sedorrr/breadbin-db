@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d85119e14a0c1694bc0d37a228349b33e125a1fe",
+  "md5": "ba9a5a005bd19f565d8828fd0d89b511",
+  "crc32": "1d50a3a0",
+  "size": 50141,
+  "format": "PRG",
+  "files": [
+    "nyxscrolls.prg"
+  ],
+  "title": "Nyx and the Scrolls",
+  "year": "2026",
+  "publisher": "J5",
+  "developer": "J5",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "In Nyx and the Scrolls fliegt die Zauberin Nyx auf einem fliegenden Teppich durch eine endlose Höhle. Sie sammelt Schriftrollen ein und weicht Felsen und Fledermäusen aus; ein Treffer kostet ein Herz und wirft sie in die Bildmitte zurück. Jede zehnte Rolle ist golden. Mit drei goldenen Rollen öffnet sich das versiegelte Tor des Dschinns: Dann wartet der Dschinn: Ist seine Lampe offen, schießt Nyx eine Leuchtkugel hinein, bis er in die Lampe zurückkehrt, und gelangt in die Bibliothek der Lampen. Danach beginnt ein neuer Durchgang. Gezählt werden Rollen, Treffer und Zeit.\n\nGesteuert wird mit dem Joystick in Port 2 oder mit W, A, S, D; Feuer bzw. die Leertaste schießt eine Leuchtkugel ab, gegen Fledermäuse hilft. Der Titelbildschirm zeigt die Regeln und die Bestleistung.\n\nVon J5, 2026.",
+  "texts": {
+    "de": "In Nyx and the Scrolls fliegt die Zauberin Nyx auf einem fliegenden Teppich durch eine endlose Höhle. Sie sammelt Schriftrollen ein und weicht Felsen und Fledermäusen aus; ein Treffer kostet ein Herz und wirft sie in die Bildmitte zurück. Jede zehnte Rolle ist golden. Mit drei goldenen Rollen öffnet sich das versiegelte Tor des Dschinns: Dann wartet der Dschinn: Ist seine Lampe offen, schießt Nyx eine Leuchtkugel hinein, bis er in die Lampe zurückkehrt, und gelangt in die Bibliothek der Lampen. Danach beginnt ein neuer Durchgang. Gezählt werden Rollen, Treffer und Zeit.\n\nGesteuert wird mit dem Joystick in Port 2 oder mit W, A, S, D; Feuer bzw. die Leertaste schießt eine Leuchtkugel ab, gegen Fledermäuse hilft. Der Titelbildschirm zeigt die Regeln und die Bestleistung.\n\nVon J5, 2026.",
+    "en": "In Nyx and the Scrolls the sorceress Nyx rides a flying carpet through an endless cave. She collects scrolls and dodges rocks and bats; a hit costs a heart and knocks her back to the middle of the screen. Every tenth scroll is golden. Three golden scrolls open the Djinn's sealed gate: the Djinn awaits: when his lamp is open, Nyx fires flares into it until he returns to the lamp, and she reaches the library of lamps. After that a new cycle begins. Scrolls, hits and time are counted.\n\nControls are a joystick in port 2 or W, A, S, D; fire or space launches a flare that deals with bats. The title screen shows the rules and the best score.\n\nBy J5, 2026."
+  },
+  "images": {
+    "ss": "images/6c/6c09eb72078feaba124fce1215bdc6eba82bbb61.png",
+    "sstitle": "images/ab/abeed77ce8042368f734c9c61c59c340028a4822.png"
+  }
+}

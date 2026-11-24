@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "ca85acc587cc79bcbe3d709e141f7d339104c46c",
+  "md5": "6a99ebf02af8dac451750901847e492e",
+  "crc32": "fe9e890b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "pirateraider2.d64"
+  ],
+  "title": "Pirate Raider II",
+  "year": "2026",
+  "publisher": "Shadow",
+  "developer": "Chad Lung",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Pirate Raider II ist die Fortsetzung von Pirate Raider, ein Seefahrt-Actionspiel. Der Spieler steuert ein Piratenschiff unter der Jolly Roger über das Meer, auf der Jagd nach Gold. Die Royal Navy verfolgt ihn; ihre Schiffe lassen sich abhängen oder mit Kanonen versenken, wobei Inseln Deckung bieten. Wer auf Grund läuft, scheitert sofort. Meerjungfrauen helfen kurze Zeit mit Seemagie, und wer lange genug durchhält, bekommt von König Neptun ein besseres Schiff. Zu viel Kanonenlärm weckt den Kraken. Die Fahrt endet durch Strandung, Versenkung durch die Navy, den Kraken – oder mit dem Sieg über alle Gegner.\n\nGesteuert wird mit dem Joystick in Port 2: Richtung lenkt das Schiff, Feuer schießt die Kanonen ab, die nach jedem Schuss nachladen müssen. Feuer im Titelbild startet die Fahrt.\n\nVon Chad Lung, 2026.",
+  "texts": {
+    "de": "Pirate Raider II ist die Fortsetzung von Pirate Raider, ein Seefahrt-Actionspiel. Der Spieler steuert ein Piratenschiff unter der Jolly Roger über das Meer, auf der Jagd nach Gold. Die Royal Navy verfolgt ihn; ihre Schiffe lassen sich abhängen oder mit Kanonen versenken, wobei Inseln Deckung bieten. Wer auf Grund läuft, scheitert sofort. Meerjungfrauen helfen kurze Zeit mit Seemagie, und wer lange genug durchhält, bekommt von König Neptun ein besseres Schiff. Zu viel Kanonenlärm weckt den Kraken. Die Fahrt endet durch Strandung, Versenkung durch die Navy, den Kraken – oder mit dem Sieg über alle Gegner.\n\nGesteuert wird mit dem Joystick in Port 2: Richtung lenkt das Schiff, Feuer schießt die Kanonen ab, die nach jedem Schuss nachladen müssen. Feuer im Titelbild startet die Fahrt.\n\nVon Chad Lung, 2026.",
+    "en": "Pirate Raider II is the sequel to Pirate Raider, a naval action game. The player steers a pirate ship under the Jolly Roger across the sea in search of gold. The Royal Navy gives chase; its ships can be outrun or sunk with cannon fire, and islands provide cover. Running aground ends the voyage at once. Mermaids help with sea magic for a short while, and those who last long enough get an upgraded ship from King Neptune. Too much cannon noise wakes the Kraken. The voyage ends by running aground, being sunk by the navy, the Kraken - or by beating back all enemies.\n\nControls are a joystick in port 2: direction steers the ship, fire shoots the cannons, which need to reload after each shot. Fire on the title screen sets sail.\n\nBy Chad Lung, 2026."
+  },
+  "images": {
+    "ss": "images/25/2580ca4042c8269e6e1f514c91df8ebf60fc547f.png",
+    "sstitle": "images/20/202fef428c683b24b517bc9232860c8ffcc1d430.png"
+  }
+}

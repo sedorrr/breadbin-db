@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a5e82a328db8fe8582a935b278712566c70fbd5f",
+  "md5": "3a26c017da1294f3599d6cbec20f37cd",
+  "crc32": "edb7ef27",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Empire 64.d64"
+  ],
+  "title": "Empire 64",
+  "year": "2026",
+  "publisher": "Binary Legends",
+  "developer": "Richard J. DeRocher",
+  "genres": [
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Empire 64 ist ein Handelsspiel in einer Fantasywelt. Als reisender Kaufmann zieht man zwischen verschiedenen Königreichen umher, kauft Waren günstig ein und verkauft sie mit Gewinn weiter: Waffen, Rüstungen, seltene Metalle, Pferde, Lebensmittel wie Reis, Stoffe und sogar Land. Die Preise ändern sich vierteljährlich, Ereignisse können sie stark verschieben, und beim Feilschen mit den Händlern lässt sich der Preis drücken. Die Händlergilde gewährt gegen Schuldscheine Kredit. Ziel ist, Schritt für Schritt das gesamte Eigentum zu erwerben; am Jahresende gibt es eine Abrechnung.\n\nDie Spielfigur wird mit dem Joystick in Port 2 durch die Orte bewegt; an Türen öffnet der Feuerknopf das Angebot mit Kaufen, Verkaufen und weiteren Möglichkeiten. Zu Beginn wählt man das Startkapital (Standard 500 Dollar, bis 10.000). Die Anleitung ist über das Startmenü der Diskette lesbar. Empire erschien im Oktober 1987 als Abtippprogramm für den C128 in der Zeitschrift Ahoy!; die C64-Fassung ist erweitert und hat einen neuen Zeichensatz und Musik.\n\nVon Binary Legends, 2026. Original (C128, 1987): Cleveland M. Blakemore; C64-Umsetzung und Erweiterung: Richard J. DeRocher.",
+  "texts": {
+    "de": "Empire 64 ist ein Handelsspiel in einer Fantasywelt. Als reisender Kaufmann zieht man zwischen verschiedenen Königreichen umher, kauft Waren günstig ein und verkauft sie mit Gewinn weiter: Waffen, Rüstungen, seltene Metalle, Pferde, Lebensmittel wie Reis, Stoffe und sogar Land. Die Preise ändern sich vierteljährlich, Ereignisse können sie stark verschieben, und beim Feilschen mit den Händlern lässt sich der Preis drücken. Die Händlergilde gewährt gegen Schuldscheine Kredit. Ziel ist, Schritt für Schritt das gesamte Eigentum zu erwerben; am Jahresende gibt es eine Abrechnung.\n\nDie Spielfigur wird mit dem Joystick in Port 2 durch die Orte bewegt; an Türen öffnet der Feuerknopf das Angebot mit Kaufen, Verkaufen und weiteren Möglichkeiten. Zu Beginn wählt man das Startkapital (Standard 500 Dollar, bis 10.000). Die Anleitung ist über das Startmenü der Diskette lesbar. Empire erschien im Oktober 1987 als Abtippprogramm für den C128 in der Zeitschrift Ahoy!; die C64-Fassung ist erweitert und hat einen neuen Zeichensatz und Musik.\n\nVon Binary Legends, 2026. Original (C128, 1987): Cleveland M. Blakemore; C64-Umsetzung und Erweiterung: Richard J. DeRocher.",
+    "en": "Empire 64 is a trading game set in a fantasy world. As a travelling merchant you journey between different kingdoms, buy goods cheaply and sell them at a profit: weapons, armour, rare metals, horses, food such as rice, cloth and even land. Prices change quarterly, events can shift them sharply, and haggling with the merchants can bring the price down. The merchants' guild extends credit against debt notes. The goal is to acquire complete ownership step by step; a summary follows at the end of each year.\n\nThe figure is moved through the towns with a joystick in port 2; at doorways the fire button opens the menu with buy, sell and further options. At the start you choose the starting money (default 500 dollars, up to 10,000). The instructions can be read from the disk's start menu. Empire first appeared in October 1987 as a C128 type-in listing in Ahoy! magazine; the C64 version is enhanced and has a new font and music.\n\nBy Binary Legends, 2026. Original (C128, 1987): Cleveland M. Blakemore; C64 conversion and enhancements: Richard J. DeRocher."
+  },
+  "images": {
+    "ss": "images/94/94136f05022260edbf73445024c9130d8af4b81d.png",
+    "sstitle": "images/cf/cf44e57668c31920a6c40139e8c81b0f0eef7b2a.png"
+  }
+}

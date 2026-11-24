@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7d109ba1b49af7e362e5954290be1f50a928bb80",
+  "md5": "fc1b968a01145500f965356a9aa45014",
+  "crc32": "c128c323",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "motherboard.d64"
+  ],
+  "title": "Motherboard",
+  "year": "2026",
+  "publisher": "Chad Lung",
+  "developer": "Chad Lung",
+  "genres": [
+    "Shoot'em Up",
+    "Strategie"
+  ],
+  "players": "1",
+  "synopsis": "Motherboard spielt im Inneren der Hauptplatine eines Commodore 64. Man steuert ein kleines Schiff über die Leiterbahnen zwischen den Chips und soll die Hauptplatine zurücksetzen. Dafür schießt man auf die herumlaufenden POKEs: Ein Treffer verscheucht sie, zwei Treffer zerstören sie und hinterlassen einen PEEK-Wert aus Nullen und Einsen. Diese Bits sammelt man, um im Bildschirm des Systemspeichers die Speicherchips auf den PEEK-Wert zu setzen; jede Einstellung kostet ein Bit, richtige Stellen werden gelb. Danach versuchen FLIP-FLOPs, die Einstellungen wieder zu verstellen, und müssen abgewehrt und zerstört werden. Grid Bugs laufen auf den Leiterbahnen, Lichtbogenfelder versperren den Weg, und die Diskettenwaffe muss an einer Batterie nachgeladen werden.\n\nGesteuert wird mit dem Joystick in Port 2, mit H ruft man eine Hilfe auf. Vor dem Speicherbildschirm sollte man mehr als 32 Bits gesammelt haben. Jede gelungene Rücksetzung bringt ein Extraleben; die Gegner werden mit der Zeit schneller und widerstandsfähiger. Am Ende vergibt das Spiel Ränge vom Newbie bis zum MOS 6510 Champion.\n\nVon Chad Lung, 2026.",
+  "texts": {
+    "de": "Motherboard spielt im Inneren der Hauptplatine eines Commodore 64. Man steuert ein kleines Schiff über die Leiterbahnen zwischen den Chips und soll die Hauptplatine zurücksetzen. Dafür schießt man auf die herumlaufenden POKEs: Ein Treffer verscheucht sie, zwei Treffer zerstören sie und hinterlassen einen PEEK-Wert aus Nullen und Einsen. Diese Bits sammelt man, um im Bildschirm des Systemspeichers die Speicherchips auf den PEEK-Wert zu setzen; jede Einstellung kostet ein Bit, richtige Stellen werden gelb. Danach versuchen FLIP-FLOPs, die Einstellungen wieder zu verstellen, und müssen abgewehrt und zerstört werden. Grid Bugs laufen auf den Leiterbahnen, Lichtbogenfelder versperren den Weg, und die Diskettenwaffe muss an einer Batterie nachgeladen werden.\n\nGesteuert wird mit dem Joystick in Port 2, mit H ruft man eine Hilfe auf. Vor dem Speicherbildschirm sollte man mehr als 32 Bits gesammelt haben. Jede gelungene Rücksetzung bringt ein Extraleben; die Gegner werden mit der Zeit schneller und widerstandsfähiger. Am Ende vergibt das Spiel Ränge vom Newbie bis zum MOS 6510 Champion.\n\nVon Chad Lung, 2026.",
+    "en": "Motherboard takes place inside the motherboard of a Commodore 64. You steer a small ship along the circuit traces between the chips, with the task of resetting the motherboard. To do so you shoot the roaming POKEs: one hit scares them away, two hits destroy them and leave behind a PEEK value made of zeros and ones. You collect these bits to set the memory chips to the PEEK value on the system memory screen; every setting costs one bit, and correct positions turn yellow. FLIP-FLOPs then try to toggle the settings back and have to be fended off and destroyed. Grid bugs run along the traces, arc fields block the way, and the disk weapon has to be recharged at a battery.\n\nControl is by joystick in port 2, and H brings up a help screen. You should have collected more than 32 bits before entering the memory screen. Each successful reset earns an extra life, and the enemies become faster and tougher over time. At the end the game awards ranks from Newbie to MOS 6510 Champion.\n\nBy Chad Lung, 2026."
+  },
+  "images": {
+    "ss": "images/3c/3c6c07a347a48882bcca1143177b7d357c92ca44.png",
+    "sstitle": "images/08/08a36241661ee4e8f91499065eaf5f3c8b230a0f.png"
+  }
+}

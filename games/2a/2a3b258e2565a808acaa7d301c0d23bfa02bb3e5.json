@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "2a3b258e2565a808acaa7d301c0d23bfa02bb3e5",
+  "md5": "80e663654f99e383764826a68c1463cf",
+  "crc32": "53a58497",
+  "size": 229888,
+  "format": "CRT",
+  "files": [
+    "Indiana Jones_de+en.crt"
+  ],
+  "title": "Indiana Jones und der blaue Diamant",
+  "year": "2026",
+  "publisher": "The United German Commodore Service",
+  "developer": "Mac",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Indiana Jones und der blaue Diamant ist ein Textadventure um den Abenteurer aus den Kinofilmen. Sein Vater liegt todkrank im Krankenhaus; zurück bleibt dessen Tagebuch über die Suche nach dem blauen Diamanten, den „Tränen Marias“ – einem Stein, der jede Wunde heilen soll und hinter dem auch die Nazis her sind. Die Spur führt nach Äthiopien zu einer Felsenkirche bei Lalibela mit Labyrinth und tödlichen Fallen. Befehle aus Verb und Gegenstand werden eingetippt; viele Rätsel stützen sich auf Hinweise aus dem Tagebuch, und unbedachte Schritte oder Worte können das Ende bedeuten.\n\nDie überarbeitete Fassung von 2026 geht auf das gleichnamige Spiel von 1993 zurück, das Mac für The United German Commodore Service schrieb. Sie liegt als deutsche und englische Diskette sowie als EasyFlash-Modul mit beiden Sprachen vor; Spielstände lassen sich speichern. Das Tagebuch von Henry Jones sen. gehört als PDF (deutsch und englisch) dazu. Veröffentlicht auf der DoReCo Party 2026.\n\nVon The United German Commodore Service, 2026. Idee, Text, Grafik und Zeichensatz: Mac; Code: Dizzy Devil; Linking: Knight Rider.",
+  "texts": {
+    "de": "Indiana Jones und der blaue Diamant ist ein Textadventure um den Abenteurer aus den Kinofilmen. Sein Vater liegt todkrank im Krankenhaus; zurück bleibt dessen Tagebuch über die Suche nach dem blauen Diamanten, den „Tränen Marias“ – einem Stein, der jede Wunde heilen soll und hinter dem auch die Nazis her sind. Die Spur führt nach Äthiopien zu einer Felsenkirche bei Lalibela mit Labyrinth und tödlichen Fallen. Befehle aus Verb und Gegenstand werden eingetippt; viele Rätsel stützen sich auf Hinweise aus dem Tagebuch, und unbedachte Schritte oder Worte können das Ende bedeuten.\n\nDie überarbeitete Fassung von 2026 geht auf das gleichnamige Spiel von 1993 zurück, das Mac für The United German Commodore Service schrieb. Sie liegt als deutsche und englische Diskette sowie als EasyFlash-Modul mit beiden Sprachen vor; Spielstände lassen sich speichern. Das Tagebuch von Henry Jones sen. gehört als PDF (deutsch und englisch) dazu. Veröffentlicht auf der DoReCo Party 2026.\n\nVon The United German Commodore Service, 2026. Idee, Text, Grafik und Zeichensatz: Mac; Code: Dizzy Devil; Linking: Knight Rider.",
+    "en": "Indiana Jones and the Blue Diamond is a text adventure featuring the adventurer from the films. His father lies gravely ill in hospital, leaving behind his diary about the search for the Blue Diamond, the \"Tears of Mary\" – a stone said to heal every wound, which the Nazis are also after. The trail leads to Ethiopia and a rock-hewn church near Lalibela with a labyrinth and deadly traps. Commands are typed as verb and object; many puzzles rely on clues from the diary, and careless steps or words can end the game.\n\nThe remastered 2026 version is based on the 1993 game of the same name that Mac wrote for The United German Commodore Service. It comes as a German and an English disk and as an EasyFlash cartridge with both languages; games can be saved. The diary of Henry Jones Sr. is included as a PDF (German and English). Released at the DoReCo Party 2026.\n\nBy The United German Commodore Service, 2026. Concept, text, graphics and charset: Mac; code: Dizzy Devil; linking: Knight Rider."
+  },
+  "images": {
+    "sstitle": "images/03/035b51412d6e1fb3064f53166b3d43cc3a151d0f.png"
+  }
+}

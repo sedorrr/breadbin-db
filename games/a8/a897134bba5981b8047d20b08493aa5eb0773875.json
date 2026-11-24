@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "a897134bba5981b8047d20b08493aa5eb0773875",
+  "md5": "7e9071122f696fb005975ceab7aebaf7",
+  "crc32": "1ce73998",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Pizzaboy64+_HF.d64"
+  ],
+  "title": "Pizza Boy 64",
+  "year": "2026",
+  "publisher": "Ricky Derocher",
+  "developer": "Ricky Derocher, Cleveland M. Blakemore",
+  "genres": [
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Pizza Boy 64 ist ein Geschicklichkeitsspiel um einen Pizzaboten. Auf einem Stadtplan aus Häuserblöcken holt man die Pizza in der Pizzeria ab und bringt sie zu dem Haus, das gerade bestellt hat. Unterwegs muss man Autos und Hunden ausweichen; ein Zusammenstoß kostet eines von drei Leben. Die Pizza kühlt während der Fahrt ab: Je schneller sie ankommt, desto mehr Geld bringt die Lieferung, und ist sie ganz kalt, ist ebenfalls ein Leben verloren. Nach jeder Lieferung wartet die nächste Bestellung an einem zufällig gewählten Haus.\n\nGesteuert wird mit dem Joystick in Port 2. Das in BASIC geschriebene Spiel ist eine C64-Fassung von „Pizza Boy“, das Cleveland M. Blakemore 1987 für den Commodore 128 veröffentlichte (Ion International); der Titelbildschirm nennt Blakemore als Autor.\n\nC64-Fassung von Ricky Derocher, 2026, nach Cleveland M. Blakemore.",
+  "texts": {
+    "de": "Pizza Boy 64 ist ein Geschicklichkeitsspiel um einen Pizzaboten. Auf einem Stadtplan aus Häuserblöcken holt man die Pizza in der Pizzeria ab und bringt sie zu dem Haus, das gerade bestellt hat. Unterwegs muss man Autos und Hunden ausweichen; ein Zusammenstoß kostet eines von drei Leben. Die Pizza kühlt während der Fahrt ab: Je schneller sie ankommt, desto mehr Geld bringt die Lieferung, und ist sie ganz kalt, ist ebenfalls ein Leben verloren. Nach jeder Lieferung wartet die nächste Bestellung an einem zufällig gewählten Haus.\n\nGesteuert wird mit dem Joystick in Port 2. Das in BASIC geschriebene Spiel ist eine C64-Fassung von „Pizza Boy“, das Cleveland M. Blakemore 1987 für den Commodore 128 veröffentlichte (Ion International); der Titelbildschirm nennt Blakemore als Autor.\n\nC64-Fassung von Ricky Derocher, 2026, nach Cleveland M. Blakemore.",
+    "en": "Pizza Boy 64 is an action game about a pizza delivery boy. On a city map made of house blocks you pick up the pizza at the pizzeria and take it to the house that has just ordered. On the way you have to dodge cars and dogs; a collision costs one of three lives. The pizza cools down during the trip: the faster it arrives, the more money the delivery earns, and if it goes completely cold, a life is lost as well. After each delivery the next order comes from a randomly chosen house.\n\nControl is by joystick in port 2. The game, written in BASIC, is a C64 version of \"Pizza Boy\", which Cleveland M. Blakemore released for the Commodore 128 in 1987 (Ion International); the title screen credits Blakemore as the author.\n\nC64 version by Ricky Derocher, 2026, after Cleveland M. Blakemore."
+  },
+  "images": {
+    "ss": "images/79/79a22e0ef336b6550f9474b3a438b1bae69ef101.png"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "65cc2d8a1f3157eec8bbf64d9b5aa488c4d873bc",
+  "md5": "2a53f43850eda6720d24f335f29180cb",
+  "crc32": "88ab414b",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "c64_shelter.d64"
+  ],
+  "title": "Shelter",
+  "year": "2026",
+  "publisher": "Blazon",
+  "developer": "RS-232",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Shelter – im Spiel „A Short Lovecraftian Escapade“ – ist ein kurzes Textabenteuer nach Motiven von H. P. Lovecraft. Auf einem Tagesausflug erreicht man bei Sturm ein abgelegenes Fischerdorf, dessen Bewohner wenig einladend wirken, und flüchtet sich in den Dorfkrug. Dort sitzen Fischer am Fenster, eine alte Frau murmelt vor sich hin, und von hier aus nimmt die Geschichte ihren Lauf.\n\nStatt Befehle einzutippen, wählt man in jeder Lage eine von mehreren nummerierten Möglichkeiten. Die Statuszeile zeigt den Ort sowie die Werte „Drunk“ (Trunkenheit) und „Sanity“ (geistige Gesundheit). Das Spiel ist englischsprachig, mit Inform 6 und der Bibliothek mca.h geschrieben und mit Ozmoo für den C64 umgesetzt; im Spiel läuft Musik, vorab erscheint ein Ladebild. Laut CSDb enthält die Modulfassung zusätzlich Lademusik.\n\nVon RS-232 (Blazon), 2026, mit Ladebild von Vandahlia. Veröffentlicht auf der Zoo 2026.",
+  "texts": {
+    "de": "Shelter – im Spiel „A Short Lovecraftian Escapade“ – ist ein kurzes Textabenteuer nach Motiven von H. P. Lovecraft. Auf einem Tagesausflug erreicht man bei Sturm ein abgelegenes Fischerdorf, dessen Bewohner wenig einladend wirken, und flüchtet sich in den Dorfkrug. Dort sitzen Fischer am Fenster, eine alte Frau murmelt vor sich hin, und von hier aus nimmt die Geschichte ihren Lauf.\n\nStatt Befehle einzutippen, wählt man in jeder Lage eine von mehreren nummerierten Möglichkeiten. Die Statuszeile zeigt den Ort sowie die Werte „Drunk“ (Trunkenheit) und „Sanity“ (geistige Gesundheit). Das Spiel ist englischsprachig, mit Inform 6 und der Bibliothek mca.h geschrieben und mit Ozmoo für den C64 umgesetzt; im Spiel läuft Musik, vorab erscheint ein Ladebild. Laut CSDb enthält die Modulfassung zusätzlich Lademusik.\n\nVon RS-232 (Blazon), 2026, mit Ladebild von Vandahlia. Veröffentlicht auf der Zoo 2026.",
+    "en": "Shelter – titled \"A Short Lovecraftian Escapade\" in the game – is a short text adventure inspired by H. P. Lovecraft. On a day trip you reach a remote fishing village during a storm, its inhabitants anything but welcoming, and take refuge in the village pub. Fishermen sit by the window, an old woman mutters to herself, and from here the story unfolds.\n\nInstead of typing commands, you choose one of several numbered options in each situation. The status line shows the location and the values \"Drunk\" and \"Sanity\". The game is in English, written in Inform 6 with the mca.h library and converted to the C64 with Ozmoo; music plays during the game and a loading picture is shown first. According to CSDb, the cartridge version also includes loading music.\n\nBy RS-232 (Blazon), 2026, with a loading picture by Vandahlia. Released at Zoo 2026."
+  },
+  "images": {
+    "ss": "images/e3/e3ec7f61fbed3edc81c35346aa00aba6215a3313.png",
+    "sstitle": "images/48/48d8540670d2d261e1097c8c39e84f584b9684fe.png"
+  }
+}

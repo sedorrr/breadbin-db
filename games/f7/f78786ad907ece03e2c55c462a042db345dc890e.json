@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "f78786ad907ece03e2c55c462a042db345dc890e",
+  "md5": "f4510c9df92422c9b0f4fe1fc9c29d46",
+  "crc32": "a1c66d31",
+  "size": 5643,
+  "format": "PRG",
+  "files": [
+    "blackbox_vcc40.prg"
+  ],
+  "title": "Black Box",
+  "year": "2026",
+  "publisher": "Vintage Computing Carinthia",
+  "developer": "Wil",
+  "genres": [
+    "Denkspiel",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "In der schwarzen Kiste steckt ein elementarer eindimensionaler Zellularautomat: Eine verborgene Regel macht aus drei Eingangsbits (links, Mitte, rechts) ein Ausgangsbit. Man probiert die Eingänge aus, beobachtet das Muster, das die Regel Zeile für Zeile erzeugt, und baut die Regel anschließend in einer weißen Kiste aus Logikgattern nach. Gatter werden durch Anklicken in ihrer Art geändert und über ihre Anschlüsse neu verdrahtet; beide Kisten lassen sich mit denselben Eingaben vergleichen. Jede der 11 Stufen ist mit einer Mindestzahl an Gattern lösbar, die als Par angezeigt wird; mehr Gatter sind erlaubt.\n\nGesteuert wird mit einer Commodore-1351-Maus in Port 1 oder einem Joystick in Port 2; die rechte Maustaste schaltet die Auswahl rückwärts durch. Tasten: N überspringt eine Stufe, B geht zurück, R setzt zurück. Das Spiel lief beim Wettbewerb der Vintage Computing Carinthia $40.\n\nVon Wil (Vintage Computing Carinthia), 2026. Code und Grafik: Wil.",
+  "texts": {
+    "de": "In der schwarzen Kiste steckt ein elementarer eindimensionaler Zellularautomat: Eine verborgene Regel macht aus drei Eingangsbits (links, Mitte, rechts) ein Ausgangsbit. Man probiert die Eingänge aus, beobachtet das Muster, das die Regel Zeile für Zeile erzeugt, und baut die Regel anschließend in einer weißen Kiste aus Logikgattern nach. Gatter werden durch Anklicken in ihrer Art geändert und über ihre Anschlüsse neu verdrahtet; beide Kisten lassen sich mit denselben Eingaben vergleichen. Jede der 11 Stufen ist mit einer Mindestzahl an Gattern lösbar, die als Par angezeigt wird; mehr Gatter sind erlaubt.\n\nGesteuert wird mit einer Commodore-1351-Maus in Port 1 oder einem Joystick in Port 2; die rechte Maustaste schaltet die Auswahl rückwärts durch. Tasten: N überspringt eine Stufe, B geht zurück, R setzt zurück. Das Spiel lief beim Wettbewerb der Vintage Computing Carinthia $40.\n\nVon Wil (Vintage Computing Carinthia), 2026. Code und Grafik: Wil.",
+    "en": "The black box holds an elementary one-dimensional cellular automaton: a hidden rule turns three input bits (left, centre, right) into one output bit. You try out the inputs, watch the pattern the rule produces line by line, and then rebuild the rule inside a white box made of logic gates. Clicking a gate changes its type, and clicking its pins rewires it; both boxes can be compared with the same inputs. Each of the 11 levels can be solved with a minimum number of gates, shown as par; using more gates is allowed.\n\nIt is controlled with a Commodore 1351 mouse in port 1 or a joystick in port 2; the right mouse button cycles backwards through options. Keys: N skips a level, B goes back, R resets. The game was entered in the competition at Vintage Computing Carinthia $40.\n\nBy Wil (Vintage Computing Carinthia), 2026. Code and graphics: Wil."
+  },
+  "images": {
+    "ss": "images/b4/b48784bfbb770725f31cb488eaae7ca166d2d834.png",
+    "sstitle": "images/ff/fff48320b2c46ac04211dbd7824d1df20412cac2.png"
+  }
+}

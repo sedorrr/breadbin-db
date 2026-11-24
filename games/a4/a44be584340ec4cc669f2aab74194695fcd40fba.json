@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a44be584340ec4cc669f2aab74194695fcd40fba",
+  "md5": "12607c230a558c8c9822bd813fd129b8",
+  "crc32": "7b329b73",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Triple Punch (NTSC-PAL) (1.1).d64"
+  ],
+  "title": "Triple Punch",
+  "year": "2026",
+  "publisher": "Dunkle Games",
+  "developer": "Dunkle Games",
+  "genres": [
+    "Arcade",
+    "Action / Labyrinth"
+  ],
+  "players": "1",
+  "synopsis": "C64-Umsetzung des Arcade-Spiels Triple Punch von 1982 (auch als „Knock Out!!“ erschienen), mit Anklängen an Amidar und Pepper II: Als Zimmermann läuft man die Wege eines Gitters ab und schließt so ein Feld nach dem anderen, bis der Bildschirm gefüllt ist; das Spielfeld ist breiter als der Bildschirm und scrollt seitlich. Auf den Wegen sind ein Gorilla, ein Geist, ein Radiergummi und Feuerstöße unterwegs. Der Radiergummi löscht noch nicht geschlossene Felder, der Gorilla will einen mit dem Hammer treffen. Mit drei schnellen Schlägen schaltet man Gegner aus – nur das Feuer lässt sich nicht aufhalten. Jedes Level hat eine größere Fläche. Punkte gibt es für geschlossene Felder und ausgeschaltete Gegner; zwei Felder auf einmal zählen doppelt, drei vierfach, dazu kommt ein Zeitbonus.\n\nAls D64 und als EasyFlash-Modul (Fassung 1.1, PAL und NTSC); die Bestenliste wird auf Diskette gespeichert. Joystick in Port 2, Feuer schlägt, F7 = Pause, F4 (Shift + F3) löscht die Bestenliste.\n\nVon Dunkle Games, 2026.",
+  "texts": {
+    "de": "C64-Umsetzung des Arcade-Spiels Triple Punch von 1982 (auch als „Knock Out!!“ erschienen), mit Anklängen an Amidar und Pepper II: Als Zimmermann läuft man die Wege eines Gitters ab und schließt so ein Feld nach dem anderen, bis der Bildschirm gefüllt ist; das Spielfeld ist breiter als der Bildschirm und scrollt seitlich. Auf den Wegen sind ein Gorilla, ein Geist, ein Radiergummi und Feuerstöße unterwegs. Der Radiergummi löscht noch nicht geschlossene Felder, der Gorilla will einen mit dem Hammer treffen. Mit drei schnellen Schlägen schaltet man Gegner aus – nur das Feuer lässt sich nicht aufhalten. Jedes Level hat eine größere Fläche. Punkte gibt es für geschlossene Felder und ausgeschaltete Gegner; zwei Felder auf einmal zählen doppelt, drei vierfach, dazu kommt ein Zeitbonus.\n\nAls D64 und als EasyFlash-Modul (Fassung 1.1, PAL und NTSC); die Bestenliste wird auf Diskette gespeichert. Joystick in Port 2, Feuer schlägt, F7 = Pause, F4 (Shift + F3) löscht die Bestenliste.\n\nVon Dunkle Games, 2026.",
+    "en": "C64 conversion of the 1982 arcade game Triple Punch (also released as \"Knock Out!!\"), with hints of Amidar and Pepper II: as a carpenter you walk the paths of a grid, closing one square after another until the screen is filled; the playfield is wider than the screen and scrolls sideways. A gorilla, a ghost, an eraser and bursts of fire roam the paths. The eraser erases squares not yet completed, and the gorilla would love to hammer you. Three quick punches knock enemies out – only the fire cannot be stopped. Each level has a larger area to fill. Points come from completed squares and knocked-out enemies; closing two squares at once doubles the score, three quadruples it, plus a time bonus.\n\nAvailable as a D64 and as an EasyFlash cartridge (version 1.1, PAL and NTSC); the high-score table is saved to disk. Joystick in port 2, fire punches, F7 = pause, F4 (Shift + F3) clears the high-score table.\n\nBy Dunkle Games, 2026."
+  },
+  "images": {
+    "ss": "images/56/569ef5bcd4b13b64ce25b903e6687321ef91bc8a.png",
+    "sstitle": "images/f4/f47416ee907a5600cfafc45cbb4d83160d4f3104.png"
+  }
+}

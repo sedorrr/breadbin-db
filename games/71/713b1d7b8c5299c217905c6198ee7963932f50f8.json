@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "713b1d7b8c5299c217905c6198ee7963932f50f8",
+  "md5": "42267636b76c645e31e213fc56d941e9",
+  "crc32": "042e722a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Baracuda (1986)(Commodore Welt)(Basic V3.5)(de).d64"
+  ],
+  "title": "Baracuda",
+  "year": "2026",
+  "publisher": "T!GER",
+  "developer": "Martin Purucker",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Man ist in den Krater des Vulkans Baracuda gestürzt und muss vor dem Ausbruch hinaus. Mit S, N, W und O geht man durch die Gänge; das Spiel nennt die genaue Zahl der Schritte bis zum Ausgang. Unterwegs warten Monster und Fallen, und jede Begegnung ist ein kleines Glücks- oder Gedächtnisspiel: einen Buchstaben in 15 Versuchen erraten, gegen den „Grausamen Gambler“ beim Würfeln auf höher oder niedriger setzen, sich den kurz aufleuchtenden Namen von „Namenchanger“ merken, gegen „Loserbuster“ eine Karte raten oder den „Fressmonstern“ durch das Erraten von Zahlen entkommen. Wer verliert, ist tot.\n\nDas deutschsprachige BASIC-Spiel erschien 1986 als Abtippprogramm im Sonderheft „C16/Plus/4 Special 3/86“ der Commodore Welt und ist in BASIC 3.5 geschrieben. Diese Fassung macht es auf dem C64 lauffähig: Ein Startprogramm lädt die BASIC-Erweiterung „BASIC 4.5“ (DG5KR, 2021), die zu BASIC 3.5 kompatibel ist, und startet danach das Spiel.\n\nVon Martin Purucker (Commodore Welt, 1986); C64-Fassung von T!GER, 2026. BASIC 4.5: DG5KR.",
+  "texts": {
+    "de": "Man ist in den Krater des Vulkans Baracuda gestürzt und muss vor dem Ausbruch hinaus. Mit S, N, W und O geht man durch die Gänge; das Spiel nennt die genaue Zahl der Schritte bis zum Ausgang. Unterwegs warten Monster und Fallen, und jede Begegnung ist ein kleines Glücks- oder Gedächtnisspiel: einen Buchstaben in 15 Versuchen erraten, gegen den „Grausamen Gambler“ beim Würfeln auf höher oder niedriger setzen, sich den kurz aufleuchtenden Namen von „Namenchanger“ merken, gegen „Loserbuster“ eine Karte raten oder den „Fressmonstern“ durch das Erraten von Zahlen entkommen. Wer verliert, ist tot.\n\nDas deutschsprachige BASIC-Spiel erschien 1986 als Abtippprogramm im Sonderheft „C16/Plus/4 Special 3/86“ der Commodore Welt und ist in BASIC 3.5 geschrieben. Diese Fassung macht es auf dem C64 lauffähig: Ein Startprogramm lädt die BASIC-Erweiterung „BASIC 4.5“ (DG5KR, 2021), die zu BASIC 3.5 kompatibel ist, und startet danach das Spiel.\n\nVon Martin Purucker (Commodore Welt, 1986); C64-Fassung von T!GER, 2026. BASIC 4.5: DG5KR.",
+    "en": "You have fallen into the crater of the volcano Baracuda and must get out before it erupts. You walk through the tunnels with S, N, W and O (German for east); the game tells you the exact number of steps to the exit. Monsters and traps lie in wait, and each encounter is a small game of luck or memory: guess a letter in 15 tries, bet higher or lower on dice against the “Cruel Gambler”, memorise the briefly flashing name of “Namenchanger”, guess a card against “Loserbuster” or escape the “Fressmonster” by guessing numbers. Losing means death.\n\nThe German-language BASIC game was published in 1986 as a type-in listing in the Commodore Welt special issue “C16/Plus/4 Special 3/86” and is written in BASIC 3.5. This version makes it run on the C64: a start program loads the BASIC extension “BASIC 4.5” (DG5KR, 2021), which is compatible with BASIC 3.5, and then runs the game.\n\nBy Martin Purucker (Commodore Welt, 1986); C64 version by T!GER, 2026. BASIC 4.5: DG5KR."
+  },
+  "images": {
+    "sstitle": "images/59/595c3cb0d8df816ded130485ac96dad5d9d1c373.png"
+  },
+  "more_images": {
+    "ss2": "images/b2/b2d9d772abfa9189f288e3e867d564ac0d1c2ac7.png"
+  }
+}

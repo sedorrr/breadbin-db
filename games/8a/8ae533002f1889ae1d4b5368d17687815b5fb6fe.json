@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "8ae533002f1889ae1d4b5368d17687815b5fb6fe",
+  "md5": "c6775f5d7b34ca063b521d9b11286986",
+  "crc32": "d385b103",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Charged Snake+ [Shadow].d64"
+  ],
+  "title": "Charged Snake +",
+  "year": "2026",
+  "publisher": "Shadow",
+  "developer": "Charged",
+  "genres": [
+    "Geschicklichkeit",
+    "Action"
+  ],
+  "players": "1",
+  "synopsis": "Charged Snake ist eine Abwandlung des Schlangenspiels. Die Schlange bewegt sich durch ein umrandetes Spielfeld mit einigen Hindernissen und sammelt Blitze ein, die sie mit Energie aufladen; eine Leiste oben zeigt den Ladestand. Dabei muss sie umherfliegenden Funken ausweichen. Ein Zusammenstoß endet mit „Short Circuit!“, danach kann man mit Feuer neu beginnen. Oben stehen Punktestand, Stufe und Höchstpunktzahl.\n\nGesteuert wird wahlweise mit dem Joystick in Port 2, mit W, A, S, D oder mit den Cursortasten. Mit M schaltet man zwischen Musik und Geräuschen um. Der Titelbildschirm fasst das Spiel mit „Eat bolts – dodge sparks – overcharge!“ zusammen. Die Musik ist „Snakebitten“ von Kravin.\n\nVon Charged, 2026. Idee und Test: Sir Art; Musik: Kravin.\n\nCrack von Shadow, 09.10.2026. Trainer und Linking: Stormfront; Original geliefert von pcollins. Trainer: endlose Energie. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Charged Snake ist eine Abwandlung des Schlangenspiels. Die Schlange bewegt sich durch ein umrandetes Spielfeld mit einigen Hindernissen und sammelt Blitze ein, die sie mit Energie aufladen; eine Leiste oben zeigt den Ladestand. Dabei muss sie umherfliegenden Funken ausweichen. Ein Zusammenstoß endet mit „Short Circuit!“, danach kann man mit Feuer neu beginnen. Oben stehen Punktestand, Stufe und Höchstpunktzahl.\n\nGesteuert wird wahlweise mit dem Joystick in Port 2, mit W, A, S, D oder mit den Cursortasten. Mit M schaltet man zwischen Musik und Geräuschen um. Der Titelbildschirm fasst das Spiel mit „Eat bolts – dodge sparks – overcharge!“ zusammen. Die Musik ist „Snakebitten“ von Kravin.\n\nVon Charged, 2026. Idee und Test: Sir Art; Musik: Kravin.\n\nCrack von Shadow, 09.10.2026. Trainer und Linking: Stormfront; Original geliefert von pcollins. Trainer: endlose Energie. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Charged Snake is a variation of the snake game. The snake moves through a bordered playfield with a few obstacles and collects lightning bolts that charge it with energy; a bar at the top shows the charge level. At the same time it has to avoid sparks flying around. A collision ends with \"Short Circuit!\", after which fire starts a new game. Score, level and high score are shown at the top.\n\nIt can be controlled with a joystick in port 2, with W, A, S, D or with the cursor keys. M switches between music and sound effects. The title screen sums up the game as \"Eat bolts – dodge sparks – overcharge!\". The music is \"Snakebitten\" by Kravin.\n\nBy Charged, 2026. Idea and testing: Sir Art; music: Kravin.\n\nCrack by Shadow, 9 Oct 2026. Trainer and linking: Stormfront; original supplied by pcollins. Trainer: endless energy. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/fe/fe50068cb55a84a2a208bbda6817fb7e60789369.png"
+  }
+}

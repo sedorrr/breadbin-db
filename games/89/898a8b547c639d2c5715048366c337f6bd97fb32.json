@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "898a8b547c639d2c5715048366c337f6bd97fb32",
+  "md5": "0375d3388c49fe537b92d3e1f0dd634f",
+  "crc32": "45704895",
+  "size": 12237,
+  "format": "PRG",
+  "files": [
+    "guess-what.prg"
+  ],
+  "title": "Guess What",
+  "year": "2026",
+  "publisher": "Vintage Computing Carinthia",
+  "developer": "Logiker",
+  "genres": [
+    "Denkspiel"
+  ],
+  "players": "1",
+  "synopsis": "Ein Symbol ist auf einem schwarzen Bildschirm versteckt. Mit einem kleinen Cursor fährt man über die Fläche und deckt dabei nur die Stelle unter dem Cursor auf; aus den sichtbaren Bruchstücken muss man erschließen, welches von 15 Symbolen es ist – etwa Quadrat, Dreieck, Kreuz, Augen, Sonne, Stern, Flugzeug, Flasche, Gabel oder Tic-Tac-Toe-Gitter. Danach wählt man den Namen aus einer Liste. Eine falsche Antwort beendet das Spiel; jede richtige bringt 10 Punkte plus die verbliebenen Sekunden.\n\n„Single Game“ ist eine Runde, „Full Game“ verlangt alle 15 Symbole je einmal. In den Einstellungen lassen sich die Zeit (0 bis 99 Sekunden, 0 = unbegrenzt), ein großer Cursor und ein kleineres Spielfeld einstellen. Gesucht wird mit Tastatur oder Joystick in Port 2, die Antwort wird mit 1–9 und A–F gewählt. Das Spiel lief beim Wettbewerb der Vintage Computing Carinthia $40.\n\nVon Logiker (Vintage Computing Carinthia), 2026.",
+  "texts": {
+    "de": "Ein Symbol ist auf einem schwarzen Bildschirm versteckt. Mit einem kleinen Cursor fährt man über die Fläche und deckt dabei nur die Stelle unter dem Cursor auf; aus den sichtbaren Bruchstücken muss man erschließen, welches von 15 Symbolen es ist – etwa Quadrat, Dreieck, Kreuz, Augen, Sonne, Stern, Flugzeug, Flasche, Gabel oder Tic-Tac-Toe-Gitter. Danach wählt man den Namen aus einer Liste. Eine falsche Antwort beendet das Spiel; jede richtige bringt 10 Punkte plus die verbliebenen Sekunden.\n\n„Single Game“ ist eine Runde, „Full Game“ verlangt alle 15 Symbole je einmal. In den Einstellungen lassen sich die Zeit (0 bis 99 Sekunden, 0 = unbegrenzt), ein großer Cursor und ein kleineres Spielfeld einstellen. Gesucht wird mit Tastatur oder Joystick in Port 2, die Antwort wird mit 1–9 und A–F gewählt. Das Spiel lief beim Wettbewerb der Vintage Computing Carinthia $40.\n\nVon Logiker (Vintage Computing Carinthia), 2026.",
+    "en": "A symbol is hidden on a black screen. You move a small cursor across the area, uncovering only the spot beneath it, and have to work out from the visible fragments which of 15 symbols it is – such as square, triangle, cross, eyes, sun, star, airplane, bottle, fork or a tic-tac-toe grid. Then you pick its name from a list. A wrong answer ends the game; each correct one scores 10 points plus the seconds left.\n\n“Single Game” is one round, “Full Game” asks for all 15 symbols once each. The settings cover the time limit (0 to 99 seconds, 0 = endless), a big cursor and a smaller playing field. You search with the keyboard or a joystick in port 2 and choose the answer with 1–9 and A–F. The game was entered in the competition at Vintage Computing Carinthia $40.\n\nBy Logiker (Vintage Computing Carinthia), 2026."
+  },
+  "images": {
+    "ss": "images/92/9277493c3fff927911c21bb203eb0df8be2ad0fb.png",
+    "sstitle": "images/06/0697384a11c7a2c7b13f611489ae27693fc2d84b.png"
+  }
+}

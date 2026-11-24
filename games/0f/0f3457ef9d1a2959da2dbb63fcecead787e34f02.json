@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "0f3457ef9d1a2959da2dbb63fcecead787e34f02",
+  "md5": "af27bb45083f2282d79d73a339088ea8",
+  "crc32": "15a33f3d",
+  "size": 5802,
+  "format": "PRG",
+  "files": [
+    "tourenigmes.prg"
+  ],
+  "title": "La Tour des Enigmes",
+  "year": "2026",
+  "publisher": "Wil",
+  "developer": "Wil",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Kleines Textabenteuer auf Französisch. Man steht im Erdgeschoss eines Turms mit Bücherregal und verschlossener Tür und muss sich Stockwerk für Stockwerk nach oben vorarbeiten. Auf jeder Etage gibt es nur wenige Dinge zu untersuchen – Bücher, Tische, Mauern, Fenster –, und irgendwo ist der Schlüssel für die nächste Tür versteckt: zwischen den Seiten eines alten Buchs, auf einem Tisch, draußen auf dem Fenstersims oder hinter einem lockeren Mauerstein. Ganz oben wartet ein gemütliches Zimmer mit Bett und Kaminfeuer, und das Spiel endet mit „Bonne nuit“.\n\nStatt Befehle einzutippen, wählt man die möglichen Handlungen („Lis les livres“, „Monte l'escalier“, „Examine la table“ …) aus einer Liste. Das Titelbild zeigt den Turm mit Fahne. Ein PRG-Programm ohne Nachladen.\n\nVon Wil (Vintage Computing Carinthia), 2026.",
+  "texts": {
+    "de": "Kleines Textabenteuer auf Französisch. Man steht im Erdgeschoss eines Turms mit Bücherregal und verschlossener Tür und muss sich Stockwerk für Stockwerk nach oben vorarbeiten. Auf jeder Etage gibt es nur wenige Dinge zu untersuchen – Bücher, Tische, Mauern, Fenster –, und irgendwo ist der Schlüssel für die nächste Tür versteckt: zwischen den Seiten eines alten Buchs, auf einem Tisch, draußen auf dem Fenstersims oder hinter einem lockeren Mauerstein. Ganz oben wartet ein gemütliches Zimmer mit Bett und Kaminfeuer, und das Spiel endet mit „Bonne nuit“.\n\nStatt Befehle einzutippen, wählt man die möglichen Handlungen („Lis les livres“, „Monte l'escalier“, „Examine la table“ …) aus einer Liste. Das Titelbild zeigt den Turm mit Fahne. Ein PRG-Programm ohne Nachladen.\n\nVon Wil (Vintage Computing Carinthia), 2026.",
+    "en": "Small French-language text adventure. You start on the ground floor of a tower with a bookshelf and a locked door and have to work your way up floor by floor. Each floor has only a few things to examine – books, tables, walls, windows – and somewhere the key to the next door is hidden: between the pages of an old book, on a table, out on the window ledge or behind a loose stone in the wall. At the top a cosy bedroom with a bed and a fire awaits, and the game ends with \"Bonne nuit\".\n\nInstead of typing commands you pick the possible actions (\"Lis les livres\", \"Monte l'escalier\", \"Examine la table\" …) from a list. The title screen shows the tower with a flag. A single PRG file without further loading.\n\nBy Wil (Vintage Computing Carinthia), 2026."
+  },
+  "images": {
+    "ss": "images/8e/8e06293fa96a2d94913dc04a23bd3fb45b05857d.png",
+    "sstitle": "images/7f/7f7396e2783268dfc52f8e61aafdc10772c81c41.png"
+  }
+}

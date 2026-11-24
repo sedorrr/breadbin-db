@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "7089e3ae1af57f4db1b2bef33e11778ccf73c67f",
+  "md5": "0a54f1734b7762a06d5034976a5cdc37",
+  "crc32": "c73d6309",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Domain_83_+3_LAXITY.d64"
+  ],
+  "title": "Domain 83 +3",
+  "year": "2026",
+  "publisher": "Laxity",
+  "developer": "Dr. TerrorZ",
+  "genres": [
+    "Beat'em Up",
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "In Domain 83 kämpft man sich durch eine Anlage aus Plattformen, Stegen und Leitern. Auf jeder Ebene tauchen Gegner auf, die den Spieler niederschlagen wollen; wer zuerst trifft, ist im Vorteil. Die Spielfigur wechselt über Leitern zwischen den Stockwerken und muss die Angreifer mit Faustschlägen und Tritten abwehren. Unten im Bild stehen die verbleibenden Herzen, die Energie und der Punktestand.\n\nGesteuert wird mit dem Joystick in Port 2: Feuer startet das Spiel und schlägt zu, Feuer mit links oder rechts löst einen Tritt aus, oben und unten klettern die Leitern hinauf und hinunter. Man hat drei Leben mit je drei Herzen Energie. Das Spiel ist eine einzelne Programmdatei.\n\nVon Dr. TerrorZ (Code, Grafik, Musik), 2026.\n\nCrack von Laxity, 26.10.2026. Trainer und Linking: O'Dog. Trainer: unendlich viele Herzen, unendlich viele Treffer aushalten, Gegner mit einem Treffer besiegen. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "In Domain 83 kämpft man sich durch eine Anlage aus Plattformen, Stegen und Leitern. Auf jeder Ebene tauchen Gegner auf, die den Spieler niederschlagen wollen; wer zuerst trifft, ist im Vorteil. Die Spielfigur wechselt über Leitern zwischen den Stockwerken und muss die Angreifer mit Faustschlägen und Tritten abwehren. Unten im Bild stehen die verbleibenden Herzen, die Energie und der Punktestand.\n\nGesteuert wird mit dem Joystick in Port 2: Feuer startet das Spiel und schlägt zu, Feuer mit links oder rechts löst einen Tritt aus, oben und unten klettern die Leitern hinauf und hinunter. Man hat drei Leben mit je drei Herzen Energie. Das Spiel ist eine einzelne Programmdatei.\n\nVon Dr. TerrorZ (Code, Grafik, Musik), 2026.\n\nCrack von Laxity, 26.10.2026. Trainer und Linking: O'Dog. Trainer: unendlich viele Herzen, unendlich viele Treffer aushalten, Gegner mit einem Treffer besiegen. Das Original ist ebenfalls in der Datenbank.",
+    "en": "In Domain 83 you fight your way through a complex of platforms, walkways and ladders. Enemies appear on every level trying to beat the player down; whoever lands the first hit has the advantage. The character uses ladders to move between floors and has to fend off the attackers with punches and kicks. The remaining hearts, energy and score are shown at the bottom of the screen.\n\nIt is controlled with a joystick in port 2: fire starts the game and punches, fire with left or right kicks, and up and down climb the ladders. You have three lives with three hearts of energy each. The game is a single program file.\n\nBy Dr. TerrorZ (code, graphics, music), 2026.\n\nCrack by Laxity, 26 Oct 2026. Trainer and linking: O'Dog. Trainer: infinite hearts, survive infinite hits, kill enemies with one hit. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/06/06c19380e4a35d267461c4d408feb9ebdafdba62.png",
+    "sstitle": "images/dc/dc11d524ed751981c29d26caf542fa1d5c7a3854.png"
+  }
+}

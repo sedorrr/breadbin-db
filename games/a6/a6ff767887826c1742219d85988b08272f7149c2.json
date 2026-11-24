@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "a6ff767887826c1742219d85988b08272f7149c2",
+  "md5": "410b1384a2dce11e4ee123e9a7f72f10",
+  "crc32": "dc6fd399",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "whack-the-taco.d64"
+  ],
+  "title": "Whack-the-taco",
+  "year": "2026",
+  "publisher": "Slash Design",
+  "developer": "Vai",
+  "genres": [
+    "Arcade"
+  ],
+  "players": "1",
+  "synopsis": "Whack-the-taco ist eine Sammlung von sieben Minispielen als politische Satire. Laut Vorspann hat der Autor fünf Spiele nachgebaut, die das Weiße Haus im September 2026 auf seiner Webseite veröffentlicht hat, und zwei eigene ergänzt; er distanziert sich dort ausdrücklich von den Vorlagen und will die Regierung Trump aufs Korn nehmen. Enthalten sind Rio Run (nach Art von Snake), Build the Wall (Steine stapeln wie bei Tetris), Flappy Bill (ein Adler mit einem Gesetzentwurf fliegt durch Hindernisse), Supply Line (Lebensmittel auf einem Fließband aussortieren), Savings Tycoon (herabschwebendes Geld einsammeln) sowie die Zusätze Whack-a-Taco und White House Down.\n\nNach dem Vorspann lädt Feuer oder die Leertaste das Auswahlmenü, aus dem jedes Spiel einzeln nachgeladen wird. Gespielt wird mit dem Joystick. Alle Spiele liegen auf einer Diskette.\n\nVon Vai / Slash Design, 2026.",
+  "texts": {
+    "de": "Whack-the-taco ist eine Sammlung von sieben Minispielen als politische Satire. Laut Vorspann hat der Autor fünf Spiele nachgebaut, die das Weiße Haus im September 2026 auf seiner Webseite veröffentlicht hat, und zwei eigene ergänzt; er distanziert sich dort ausdrücklich von den Vorlagen und will die Regierung Trump aufs Korn nehmen. Enthalten sind Rio Run (nach Art von Snake), Build the Wall (Steine stapeln wie bei Tetris), Flappy Bill (ein Adler mit einem Gesetzentwurf fliegt durch Hindernisse), Supply Line (Lebensmittel auf einem Fließband aussortieren), Savings Tycoon (herabschwebendes Geld einsammeln) sowie die Zusätze Whack-a-Taco und White House Down.\n\nNach dem Vorspann lädt Feuer oder die Leertaste das Auswahlmenü, aus dem jedes Spiel einzeln nachgeladen wird. Gespielt wird mit dem Joystick. Alle Spiele liegen auf einer Diskette.\n\nVon Vai / Slash Design, 2026.",
+    "en": "Whack-the-taco is a collection of seven mini-games written as political satire. According to its intro, the author recreated five games that the White House published on its website in September 2026 and added two of his own; he explicitly distances himself from the originals and aims to poke fun at the Trump government. Included are Rio Run (in the style of Snake), Build the Wall (stacking blocks like Tetris), Flappy Bill (an eagle carrying a bill flies past obstacles), Supply Line (sorting food on a conveyor belt), Savings Tycoon (collecting floating money) and the additions Whack-a-Taco and White House Down.\n\nAfter the intro, fire or space loads the selection menu, from which each game is loaded separately. The games are played with a joystick. All games are on one disk.\n\nBy Vai / Slash Design, 2026."
+  },
+  "images": {
+    "ss": "images/ce/ce628c676fac6b887ad5ba2ba6590ca5c537bc42.png",
+    "sstitle": "images/b4/b44c1c818fce1b51233736ea208098dd58840f6d.png"
+  }
+}

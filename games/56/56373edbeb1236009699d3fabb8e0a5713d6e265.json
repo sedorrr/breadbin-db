@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "56373edbeb1236009699d3fabb8e0a5713d6e265",
+  "md5": "14eaa2e22098914764fa9e8985d79296",
+  "crc32": "292cb94a",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Flashback+2D [HF+MS].d64"
+  ],
+  "title": "Letters to Flashback +2D",
+  "year": "2026",
+  "publisher": "Classic Devices Club",
+  "developer": "Massimo Bonucchi",
+  "genres": [
+    "Shoot'em Up"
+  ],
+  "players": "1",
+  "synopsis": "Letters to Flashback ist ein kleines Schießspiel um den Schriftzug FLASHBACK. Die Buchstaben lösen sich aus dem Titel und stürzen von oben auf das eigene Raumschiff herab. Man bewegt das Schiff am unteren Bildrand nach links und rechts und schießt die Buchstaben ab, bevor sie das Schiff treffen oder den Boden erreichen. Je mehr Buchstaben fallen, desto schneller kommen sie. Jeder zerstörte Buchstabe blendet langsam wieder in den Titel ein und kann danach erneut herunterfallen. Gewinnen kann man nicht, nur einen höheren Punktestand erreichen; jeder Buchstabe bringt einen Punkt.\n\nGesteuert wird mit dem Joystick in Port 2; es ist immer nur ein Schuss gleichzeitig unterwegs. Trifft ein Buchstabe das Schiff oder erreicht er den Boden, ist das Spiel vorbei. Der Titelbildschirm nennt die Veranstaltung Flashback 2026 am 3. und 4. Oktober in Follonica.\n\nVon Massimo Bonucchi (Classic Devices Club), 2026.\n\nCrack von Hokuto Force und Megasoft Argentina, 2. Oktober 2026, mit Trainer: Buchstaben dürfen unten durchfallen, Zusammenstöße mit Buchstaben harmlos (je ja/nein). Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Letters to Flashback ist ein kleines Schießspiel um den Schriftzug FLASHBACK. Die Buchstaben lösen sich aus dem Titel und stürzen von oben auf das eigene Raumschiff herab. Man bewegt das Schiff am unteren Bildrand nach links und rechts und schießt die Buchstaben ab, bevor sie das Schiff treffen oder den Boden erreichen. Je mehr Buchstaben fallen, desto schneller kommen sie. Jeder zerstörte Buchstabe blendet langsam wieder in den Titel ein und kann danach erneut herunterfallen. Gewinnen kann man nicht, nur einen höheren Punktestand erreichen; jeder Buchstabe bringt einen Punkt.\n\nGesteuert wird mit dem Joystick in Port 2; es ist immer nur ein Schuss gleichzeitig unterwegs. Trifft ein Buchstabe das Schiff oder erreicht er den Boden, ist das Spiel vorbei. Der Titelbildschirm nennt die Veranstaltung Flashback 2026 am 3. und 4. Oktober in Follonica.\n\nVon Massimo Bonucchi (Classic Devices Club), 2026.\n\nCrack von Hokuto Force und Megasoft Argentina, 2. Oktober 2026, mit Trainer: Buchstaben dürfen unten durchfallen, Zusammenstöße mit Buchstaben harmlos (je ja/nein). Das Original ist ebenfalls in der Datenbank.",
+    "en": "Letters to Flashback is a small shooting game built around the word FLASHBACK. The letters break away from the title and come crashing down on your spaceship. You move the ship left and right along the bottom of the screen and shoot the letters before they hit the ship or reach the ground. The more letters you shoot, the faster they come. Every destroyed letter slowly fades back into the title and can then fall again. You cannot win, only reach a higher score; each letter is worth one point.\n\nControl is by joystick in port 2, and only one shot can be on screen at a time. If a letter hits the ship or reaches the ground, the game is over. The title screen names the Flashback 2026 event on 3 and 4 October in Follonica.\n\nBy Massimo Bonucchi (Classic Devices Club), 2026.\n\nCracked by Hokuto Force and Megasoft Argentina, 2 October 2026, with trainer: letters may fall through at the bottom, collisions with letters are harmless (each yes/no). The original is also in the database."
+  },
+  "images": {
+    "ss": "images/d5/d594fa177264ed1329500a14a4ae24daf7509687.png",
+    "sstitle": "images/15/1551c805317f7b37763b57961a1f91257ef36d61.png"
+  }
+}

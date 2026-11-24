@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "65142bc3fa244be0f6efe1244be3dba7d1bb01c0",
+  "md5": "496fa0b14efaad25de11c5689fd25d6d",
+  "crc32": "4a41c2fb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Delve or Die!+4D 101% [Shadow].d64"
+  ],
+  "title": "Delve or Die! +4D",
+  "year": "2026",
+  "publisher": "Tweety",
+  "developer": "Tweety",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Delve or Die! ist ein kleiner Dungeon Crawler in Maschinensprache. Die Vorgeschichte: Der Held hat versucht, den Tyrannenkönig zu töten, ist gescheitert und im Kerker des Königs gelandet. Nach einem Beben findet er sich zwei Stockwerke tiefer wieder und muss den Ausgang finden. Man erkundet den Kerker Raum für Raum aus der Draufsicht; Gegner werden bekämpft, indem man in sie hineinläuft, und sie können dabei etwas Nützliches fallen lassen. Zu den Gegnern gehören Höhlenratte, Goblin-Plänkler, Knochenbogenschütze, Steingolem, Gespenst, Ork-Berserker und Giftschleim, jeweils mit eigenen Lebens- und Schadenswerten.\n\nDie Statuszeile zeigt Lebenspunkte, Stufe, Gold sowie die aktuelle Waffe und Rüstung; man beginnt mit einer Holzwaffe. Gesteuert wird über die Tasten W, A, S, D oder mit dem Joystick in Port 1 oder 2; Feuer oder Leertaste startet das Spiel. Am Ende wartet ein Endgegner. Die Texte sind englisch.\n\nVon Tweety, 2026.\n\nCrack von Shadow, 10. September 2026, mit Anleitung; Trainer, Fehlerbehebung und Anleitung von Stormfront. Behoben ist, dass nach dem Durchspielen im Hauptmenü die Musik hängen blieb. Trainer: unendlich viele Lebenspunkte, Gegner mit einem Treffer besiegen, Endgegner mit einem Treffer besiegen, Levelsprung mit der C=-Taste. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Delve or Die! ist ein kleiner Dungeon Crawler in Maschinensprache. Die Vorgeschichte: Der Held hat versucht, den Tyrannenkönig zu töten, ist gescheitert und im Kerker des Königs gelandet. Nach einem Beben findet er sich zwei Stockwerke tiefer wieder und muss den Ausgang finden. Man erkundet den Kerker Raum für Raum aus der Draufsicht; Gegner werden bekämpft, indem man in sie hineinläuft, und sie können dabei etwas Nützliches fallen lassen. Zu den Gegnern gehören Höhlenratte, Goblin-Plänkler, Knochenbogenschütze, Steingolem, Gespenst, Ork-Berserker und Giftschleim, jeweils mit eigenen Lebens- und Schadenswerten.\n\nDie Statuszeile zeigt Lebenspunkte, Stufe, Gold sowie die aktuelle Waffe und Rüstung; man beginnt mit einer Holzwaffe. Gesteuert wird über die Tasten W, A, S, D oder mit dem Joystick in Port 1 oder 2; Feuer oder Leertaste startet das Spiel. Am Ende wartet ein Endgegner. Die Texte sind englisch.\n\nVon Tweety, 2026.\n\nCrack von Shadow, 10. September 2026, mit Anleitung; Trainer, Fehlerbehebung und Anleitung von Stormfront. Behoben ist, dass nach dem Durchspielen im Hauptmenü die Musik hängen blieb. Trainer: unendlich viele Lebenspunkte, Gegner mit einem Treffer besiegen, Endgegner mit einem Treffer besiegen, Levelsprung mit der C=-Taste. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Delve or Die! is a small dungeon crawler written in machine code. The backstory: the hero tried to kill the tyrant king, failed and ended up in the king's dungeon. After a quake he finds himself two floors further down and has to find the exit. You explore the dungeon room by room from a top-down view; enemies are fought by running into them, and they may drop something useful. Enemies include the cave rat, goblin skirmisher, bone archer, stone golem, wraith, orc berserker and toxic sludge, each with its own hit point and damage values.\n\nThe status line shows hit points, level, gold and the current weapon and armour; you start with a wooden weapon. Control is with the W, A, S, D keys or a joystick in port 1 or 2; fire or space starts the game. An end boss awaits at the end. All text is in English.\n\nBy Tweety, 2026.\n\nCracked by Shadow, 10 September 2026, with docs; trainer, bug fix and docs by Stormfront. The fix stops the music from hanging in the main menu after the game has been completed. Trainer: unlimited hit points, kill enemies with one hit, kill the end boss with one hit, level skip with the C= key. The original is also in the database."
+  },
+  "images": {
+    "sstitle": "images/75/758daf5646fe7ea345499262c1e08801119caa23.png"
+  }
+}

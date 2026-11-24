@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "2fa87d3518783651fcceb80949f044a2047e0ca4",
+  "md5": "9700ab5eed71d9f7d940841869a7f383",
+  "crc32": "4dfd0a3a",
+  "size": 31645,
+  "format": "PRG",
+  "files": [
+    "islands-c64.prg"
+  ],
+  "title": "Islands",
+  "year": "2026",
+  "publisher": "Aleksi Eeben",
+  "developer": "Aleksi Eeben",
+  "genres": [
+    "Rollenspiele"
+  ],
+  "players": "1",
+  "synopsis": "Islands ist ein Roguelike in mittelalterlicher Fantasywelt. Man beginnt in seiner Hütte auf einer Insel, kauft in Läden Ausrüstung, besucht die Herrscherin Lady Lara und kann im Gasthaus ein Würfelspiel wagen. Dann sucht man den Eingang zum Verlies: Aus seinen Tiefen gilt es das Ankh zu holen und es Lady Lara lebend zurückzubringen. Insel, Verliese und Innenräume werden bei jedem Spiel neu erzeugt. Man kämpft, handelt, angelt, sammelt Nahrung und findet heraus, welche Wirkung die zufällig verteilten Tränke, Schriftrollen und Zauberstäbe haben. Erfahrungsstufen gibt es nicht, die Fähigkeiten wachsen durch Gebrauch.\n\nGesteuert wird mit der Tastatur: W/A/S/D und Q/E/Z/X bewegen in acht Richtungen, O führt die angezeigte Aktion aus, P schießt oder wirft, Return öffnet das Inventar, die Leertaste Ausrüstung und Optionen. Im Gasthaus erhält man im Schlaf einen „Traum“, eine Buchstabenfolge zum Fortsetzen, die auch mit den Fassungen für VIC-20 und Game Boy funktioniert. Die C64-Fassung lädt in einem Stück; am C64 Ultimate nutzt sie den Turbo beim Erzeugen der Karten.\n\nVon Aleksi Eeben, 2026. Veröffentlicht auf der Zoo 2026.",
+  "texts": {
+    "de": "Islands ist ein Roguelike in mittelalterlicher Fantasywelt. Man beginnt in seiner Hütte auf einer Insel, kauft in Läden Ausrüstung, besucht die Herrscherin Lady Lara und kann im Gasthaus ein Würfelspiel wagen. Dann sucht man den Eingang zum Verlies: Aus seinen Tiefen gilt es das Ankh zu holen und es Lady Lara lebend zurückzubringen. Insel, Verliese und Innenräume werden bei jedem Spiel neu erzeugt. Man kämpft, handelt, angelt, sammelt Nahrung und findet heraus, welche Wirkung die zufällig verteilten Tränke, Schriftrollen und Zauberstäbe haben. Erfahrungsstufen gibt es nicht, die Fähigkeiten wachsen durch Gebrauch.\n\nGesteuert wird mit der Tastatur: W/A/S/D und Q/E/Z/X bewegen in acht Richtungen, O führt die angezeigte Aktion aus, P schießt oder wirft, Return öffnet das Inventar, die Leertaste Ausrüstung und Optionen. Im Gasthaus erhält man im Schlaf einen „Traum“, eine Buchstabenfolge zum Fortsetzen, die auch mit den Fassungen für VIC-20 und Game Boy funktioniert. Die C64-Fassung lädt in einem Stück; am C64 Ultimate nutzt sie den Turbo beim Erzeugen der Karten.\n\nVon Aleksi Eeben, 2026. Veröffentlicht auf der Zoo 2026.",
+    "en": "Islands is a roguelike set in a medieval fantasy world. You start in your hut on an island, buy equipment in the shops, visit the ruler Lady Lara and can try a dice game at the inn. Then you look for the dungeon entrance: the goal is to recover the Ankh from its depths and bring it back to Lady Lara alive. The island, dungeons and interiors are generated anew for each game. You fight, trade, fish, forage and find out what the randomly assigned potions, scrolls and wands do. There are no experience levels; abilities improve through use.\n\nIt is played with the keyboard: W/A/S/D and Q/E/Z/X move in eight directions, O performs the action shown, P fires or throws, Return opens the inventory and space the equipment and options. Sleeping at an inn produces a \"Dream\", a sequence of letters for continuing, which also works with the VIC-20 and Game Boy versions. The C64 version is a single load; on the C64 Ultimate it uses the turbo while generating maps.\n\nBy Aleksi Eeben, 2026. Released at Zoo 2026."
+  },
+  "images": {
+    "ss": "images/88/8882d851eeaff21b1d3958a925b141a7391f4adf.png",
+    "sstitle": "images/57/57ffb25dca2e720769c5a6907cce9f2914b73468.png"
+  }
+}

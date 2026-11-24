@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "f9f59f203e92021608f40346d13363e5dc3cbac2",
+  "md5": "e97ab18142b8f9e54dc57912bbec8d5e",
+  "crc32": "c0e1b073",
+  "size": 22272,
+  "format": "PRG",
+  "files": [
+    "catsim64-2.1.3.prg"
+  ],
+  "title": "Cat Simulator 64",
+  "year": "2026",
+  "publisher": "illobo",
+  "developer": "illobo (netmilk)",
+  "genres": [
+    "Simulation",
+    "Gelegenheitsspiel"
+  ],
+  "players": "1",
+  "synopsis": "Familienfreundliche Katzensimulation ohne festes Spielziel. Gespielt wird eine schwarze Katze mit weißen Pfoten, die sich ein Zimmer mit einer grauen Katze teilt: herumlaufen, mit dem Wollknäuel spielen, fressen, miauen, schlafen und auf Möbel springen. Die graue Katze handelt selbstständig und wird ärgerlich, wenn man ihr das Knäuel wegnimmt; im Nebenraum stehen ein Klavier und eine Pflanze zum Kratzen.\n\nD64, Version 2.1.3 vom 11. November 2026 (behebt einen Rasterbalken-Fehler und bringt einen neuen Raum). Steuerung mit Maus in Port 1 oder Joystick in Port 2, F1 wechselt den Raum. Quelltext unter MIT-Lizenz auf GitHub.",
+  "texts": {
+    "de": "Familienfreundliche Katzensimulation ohne festes Spielziel. Gespielt wird eine schwarze Katze mit weißen Pfoten, die sich ein Zimmer mit einer grauen Katze teilt: herumlaufen, mit dem Wollknäuel spielen, fressen, miauen, schlafen und auf Möbel springen. Die graue Katze handelt selbstständig und wird ärgerlich, wenn man ihr das Knäuel wegnimmt; im Nebenraum stehen ein Klavier und eine Pflanze zum Kratzen.\n\nD64, Version 2.1.3 vom 11. November 2026 (behebt einen Rasterbalken-Fehler und bringt einen neuen Raum). Steuerung mit Maus in Port 1 oder Joystick in Port 2, F1 wechselt den Raum. Quelltext unter MIT-Lizenz auf GitHub.",
+    "en": "A family-friendly cat simulation with no fixed goal. The player is a black cat with white paws sharing a room with a grey cat: walking around, playing with a ball of yarn, eating, meowing, napping and jumping onto furniture. The grey cat acts on its own and gets annoyed if its ball is taken away; the next room has a piano and a plant to scratch.\n\nD64, version 2.1.3 from 11 November 2026 (fixes a raster bar glitch and adds a new room). Controlled with a mouse in port 1 or a joystick in port 2; F1 switches rooms. Source code on GitHub under the MIT licence."
+  },
+  "images": {
+    "ss": "images/4e/4e62c5d43109a1e9b028846f5e75add797435d25.png"
+  }
+}
