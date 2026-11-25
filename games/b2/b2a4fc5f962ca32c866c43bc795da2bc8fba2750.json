@@ -1,0 +1,24 @@
+{
+    "version": 1,
+    "sha1": "b2a4fc5f962ca32c866c43bc795da2bc8fba2750",
+    "md5": "7e6d0b9e4bceb213c06990ddf4d23542",
+    "crc32": "fabc4d4c",
+    "size": 65728,
+    "format": "CRT",
+    "files": [
+        "1nvader (Darren Foulds - 2019).crt"
+    ],
+    "title": "1nvader",
+    "year": "2019",
+    "publisher": "https://darrenfoulds.itch.io/",
+    "developer": "Darren Foulds",
+    "players": "1-2",
+    "images": {
+        "ss": "images/0c/0c14643984ef68c5a0ee80f7dbcc3a284ab2ce33.png"
+    },
+    "texts": {
+        "de": "1NVADER ist ein Spiel für einen oder zwei Spieler, das mit einem Button, einem Laser, einem 1NVADER und einem Leben gespielt wird. Spiele kooperativ oder im Wettstreit mit einem Freund – oder stelle dich dem 1NVADER ganz allein.",
+        "en": "1NVADER is a one or two-player game played with one button, one laser, one 1NVADER, and one life. Play co-operatively, or competitively with a friend, or face the 1NVADER alone."
+    },
+    "synopsis": "1NVADER ist ein Spiel für einen oder zwei Spieler, das mit einem Button, einem Laser, einem 1NVADER und einem Leben gespielt wird. Spiele kooperativ oder im Wettstreit mit einem Freund – oder stelle dich dem 1NVADER ganz allein."
+}
