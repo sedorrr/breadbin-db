@@ -31,6 +31,7 @@ sieht den Hinweis danach verschwinden). Bildangaben werden je Beitrag in `daten/
 | `titel_datei` | gelb/info | kein Titelwort, keine Abkürzung, kein gleicher Anfang im Dateinamen (bei 8.3-Namen nur Info) |
 | `bestand`, `dublette` | info/gelb | Titel schon im Bestand; Text oder Bild gleicht einem **anderen** Titel im Bestand oder im selben Beitrag |
 | `screenscraper` | rot | französischer Text zusammen mit ScreenScraper-Nummer |
+| `ohne_bild` | gelb | weder `images` noch `more_images` (wie die App, `submission_gaps`); oben im Beitrag zählt die Prüfseite „N ohne Beschreibung · N ohne Bild · N Art prüfen“ |
 | `bild` | rot/gelb/info | nicht lesbar, einfarbig/schwarz (rot, braucht GD), fast leer, 320×240 (ScreenScraper-Maß), sehr klein/groß, ungewöhnliche Maße, gleiches Bild zweimal |
 
 Gegen den eigenen Bestand (3 444 Einträge, 2026-11-27) geprüft: Die verbleibenden Treffer sind überwiegend echt

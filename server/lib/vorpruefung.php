@@ -197,14 +197,14 @@ function vp_art(array $g, string $de, string $en, array &$h): void
         'cracktro' => '/\b(crack ?intros?|cracktros?)\b/iu',
         'demo' => '/\b(demo|demos|onefiler|one-?filer|rolling demo|megademo|trackmo)\b/iu',
         'intro' => '/\b(intro|intros|4k|1k|256b|512b)\b/iu',
-        'music' => '/\b(music ?disk|musik ?disk|musicdisk|sid ?tunes?|tunes|soundtrack|music collection|musiksammlung)\b/iu',
+        'music' => '/\b(music|musik|music ?disk|musik ?disk|musicdisk|musicdisc|sid|sids|sid ?tunes?|tune|tunes|soundtrack|music collection|musiksammlung)\b/iu',
         'tool' => '/\b(tool|tools|utility|utilities|editor|assembler|monitor|copier|kopierprogramm|packer|cruncher)\b/iu',
-        'diskmag' => '/\b(disk ?mag|diskmag|magazin|magazine|newsletter)\b/iu',
-        'graphics' => '/\b(slide ?show|picture|pictures|bild(er)?sammlung|grafik ?sammlung|koala|art ?disk|gfx ?collection|charset|font)\b/iu',
+        'diskmag' => '/\b(disk ?mag|diskmag|mag64|magazin|magazine|newsletter)\b/iu',
+        'graphics' => '/\b(gfx|graphics|pic|pics|picture|pictures|slide ?show|bild(er)?sammlung|grafik ?sammlung|koala|art ?disk|gfx ?collection|charset|font)\b/iu',
     ];
     $quellen = [
-        'Titel' => (string)($g['title'] ?? ''),
-        'Datei' => preg_replace('/[_.]/', ' ', implode(' ', (array)($g['files'] ?? []))) ?? '',
+        'Titel' => preg_replace('/[^\p{L}\p{N}()\[\]]+/u', ' ', (string)($g['title'] ?? '')) ?? '',
+        'Datei' => preg_replace('/[^\p{L}\p{N}]+/u', ' ', implode(' ', array_map(fn($d) => (string)preg_replace('/\.[A-Za-z0-9]{1,4}$/', '', (string)$d), (array)($g['files'] ?? [])))) ?? '',
         'Genre' => implode(' ', (array)($g['genres'] ?? [])),
     ];
     $gefunden = [];
@@ -579,6 +579,9 @@ function vorpruefe_spiel(array $g, string $sha1, ?array $stand, array $bildInfo,
     }
 
     // 6. Bilder
+    if (!bb_alle_bilder($g)) {
+        vp_hinweis($h, 'gelb', 'ohne_bild', 'Ohne Bild (kein Titelbild, keine Spielszene)');
+    }
     vp_bilder($g, $bildInfo, $h);
 
     $rang = ['rot' => 0, 'gelb' => 1, 'info' => 2];
@@ -634,10 +637,15 @@ function vorpruefe_beitrag(array $c, array $b, array $erg, array $edits, ?array 
     foreach ($erg['spiele'] as $sha1 => $orig) {
         $spiele[$sha1] = mit_edits($orig, $edits[$sha1] ?? null);
     }
-    $out = ['angaben' => vorpruefe_angaben($b), 'spiele' => [], 'zahl' => ['rot' => 0, 'gelb' => 0, 'sauber' => 0]];
+    $out = ['angaben' => vorpruefe_angaben($b), 'spiele' => [], 'zahl' => ['rot' => 0, 'gelb' => 0, 'sauber' => 0],
+        'luecken' => ['ohne Beschreibung' => 0, 'ohne Bild' => 0, 'Art prüfen' => 0]];
     foreach ($spiele as $sha1 => $g) {
         $h = vorpruefe_spiel($g, (string)$sha1, $stand, $bildInfo, $spiele);
         $out['spiele'][$sha1] = $h;
+        $regeln = array_column(array_filter($h, fn($x) => $x['stufe'] !== 'info'), 'regel');
+        $out['luecken']['ohne Beschreibung'] += (int)in_array('text_fehlt', $regeln, true);
+        $out['luecken']['ohne Bild'] += (int)in_array('ohne_bild', $regeln, true);
+        $out['luecken']['Art prüfen'] += (int)(in_array('art', $regeln, true) || in_array('cracktro', $regeln, true));
         $stufen = array_column($h, 'stufe');
         if (in_array('rot', $stufen, true)) {
             $out['zahl']['rot']++;

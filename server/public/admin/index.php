@@ -439,6 +439,7 @@ if ($admin) {
         <span class="chip rot"><?= $vp['zahl']['rot'] ?> rot</span>
         <span class="chip gelb"><?= $vp['zahl']['gelb'] ?> gelb</span>
         <span class="chip sauber"><?= $vp['zahl']['sauber'] ?> unauffällig</span>
+        <?php $lz = array_filter($vp['luecken'] ?? []); if ($lz): ?><br><strong><?= h(implode(' · ', array_map(fn($k, $n) => "$n $k", array_keys($lz), $lz))) ?></strong><?php endif ?>
         <label class="meta"><input type="checkbox" class="nur-auff"> nur auffällige zeigen</label></p>
         <?php
           $ohneText = 0;
