@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha1": "4a48bc61b1bbba0a6f48f8cb4d115d7b39d853ea",
+  "md5": "2761af65ddc2292b92b3005d9b9c2df3",
+  "crc32": "a6b09080",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tomato_en_1.d64"
+  ],
+  "title": "Princess Tomato in the Salad Kingdom",
+  "year": "2026",
+  "publisher": "Ryo Ichiyama",
+  "developer": "Ryo Ichiyama (Umsetzung); Original: Hudson Soft",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Princess Tomato in the Salad Kingdom ist ein Grafikabenteuer nach dem Spiel von Hudson Soft aus dem Jahr 1984. Sir Cucumber zieht los, um die Prinzessin des Gemüsekönigreichs aus der Gewalt von Minister Pumpkin zu befreien; unterwegs begleitet ihn Percy the Persimmon. Jeder Ort wird mit einem Bild gezeigt.\n\nStatt der getippten Befehle des Originals wählt man Handlungen in der C64-Fassung aus einem Befehlsmenü. Die Umsetzung gibt es in drei Sprachen – Japanisch, Englisch und Spanisch – mit je zwei Disketten (D64). Eine Speichererweiterung ist nicht nötig.\n\nC64-Umsetzung von Ryo Ichiyama, 2026; Original von Hudson Soft, 1984.",
+  "texts": {
+    "de": "Princess Tomato in the Salad Kingdom ist ein Grafikabenteuer nach dem Spiel von Hudson Soft aus dem Jahr 1984. Sir Cucumber zieht los, um die Prinzessin des Gemüsekönigreichs aus der Gewalt von Minister Pumpkin zu befreien; unterwegs begleitet ihn Percy the Persimmon. Jeder Ort wird mit einem Bild gezeigt.\n\nStatt der getippten Befehle des Originals wählt man Handlungen in der C64-Fassung aus einem Befehlsmenü. Die Umsetzung gibt es in drei Sprachen – Japanisch, Englisch und Spanisch – mit je zwei Disketten (D64). Eine Speichererweiterung ist nicht nötig.\n\nC64-Umsetzung von Ryo Ichiyama, 2026; Original von Hudson Soft, 1984.",
+    "en": "Princess Tomato in the Salad Kingdom is a graphic adventure based on Hudson Soft's 1984 game. Sir Cucumber sets out to free the princess of the vegetable kingdom from Minister Pumpkin, joined along the way by Percy the Persimmon. Every location is shown with a picture.\n\nInstead of the original's typed commands, the C64 version lets you pick actions from a command menu. The conversion comes in three languages – Japanese, English and Spanish – each on two disks (D64). No memory expansion is required.\n\nC64 conversion by Ryo Ichiyama, 2026; original by Hudson Soft, 1984."
+  },
+  "images": {
+    "ss": "images/1b/1bccf1b694e260dce69b909e8804e8808f7cf07c.png",
+    "sstitle": "images/94/94a2783a98c239762d27c0c362c911122ae57f27.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 34,
+      "action": "added"
+    }
+  ]
+}

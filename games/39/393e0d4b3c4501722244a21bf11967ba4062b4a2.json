@@ -6,7 +6,7 @@
   "size": 147808,
   "format": "CRT",
   "files": [
-    "Ace_of_Aces_+4D_EF_[ExCeEs].crt"
+    "Ace of Aces.crt"
   ],
   "screenscraper_id": "35996",
   "title": "Ace of Aces",
@@ -24,7 +24,6 @@
     "en": "In the Second World War the player flies a British Mosquito fighter-bomber and chooses between missions against German bombers, V-1 flying bombs, U-boats and a train. The game switches between several views: the cockpit looking forward, left and right, the navigation map, the engine controls and the bomb bay. Enemy fighters are fought from the cockpit, ground targets with bombs. The mix of simple flight simulation and fast action made Ace of Aces a well-known title in 1986.\n\nArtech developed the game for Accolade, which released it in North America in 1986; U.S. Gold distributed it in Europe. It is played with a joystick in port 2. There are also EasyFlash conversions, including a MultiLoad64 version by hellboy73.\n\nCode: J. Stuart Easterbrook · Design: Rick Banks, Michael Bates · Graphics: Rick Banks, Grant Campbell, Scott Fiander · Music: Paul Butler"
   },
   "images": {
-    "ss": "images/bf/bf57647452bd21f44310de79d1d4967fd2f5d402.png",
     "sstitle": "images/fb/fb6d1fc2b1be801387ae717466f2c44d16a6c5f8.png"
   },
   "history": [
@@ -38,6 +37,12 @@
       "date": "2026-11-27",
       "by": "Rumpelkammer",
       "contribution": 29,
+      "action": "changed"
+    },
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 34,
       "action": "changed"
     }
   ]

@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha1": "3e26b210e7909fa615b24c6d51e163d8a6eebca1",
+  "md5": "6c56156345c9cfdb60decf41dbd85eb6",
+  "crc32": "d5152c87",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Santas_Christmas_Panic_C64_v1.0.d64"
+  ],
+  "title": "Santa's Christmas Panic",
+  "year": "2026",
+  "publisher": "Lohreck",
+  "developer": "Lohreck",
+  "genres": [
+    "Plattform"
+  ],
+  "players": "1",
+  "synopsis": "Santa's Christmas Panic ist ein Weihnachts-Plattformspiel, in dem man Santa Claus durch hektische Level steuert. Es entstand auf Grundlage von Lohrecks Plattformspiel Caveman Panic und wurde auch für Mega Drive, SNES und Amiga veröffentlicht. Die C64-Fassung ist laut den vorliegenden Angaben Version 1.0.\n\nGesteuert wird mit dem Joystick. Die Fassung 1.0 liegt als Diskettenabbild und als Modul (CRT) vor.\n\nVon Lohreck, 2026.",
+  "texts": {
+    "de": "Santa's Christmas Panic ist ein Weihnachts-Plattformspiel, in dem man Santa Claus durch hektische Level steuert. Es entstand auf Grundlage von Lohrecks Plattformspiel Caveman Panic und wurde auch für Mega Drive, SNES und Amiga veröffentlicht. Die C64-Fassung ist laut den vorliegenden Angaben Version 1.0.\n\nGesteuert wird mit dem Joystick. Die Fassung 1.0 liegt als Diskettenabbild und als Modul (CRT) vor.\n\nVon Lohreck, 2026.",
+    "en": "Santa's Christmas Panic is a Christmas platform game in which you guide Santa Claus through frantic levels. It is based on Lohreck's platformer Caveman Panic and was also released for Mega Drive, SNES and Amiga. According to the available information, the C64 version is version 1.0.\n\nIt is controlled with a joystick. Version 1.0 comes as a disk image and as a cartridge (CRT).\n\nBy Lohreck, 2026."
+  },
+  "images": {
+    "ss": "images/c4/c4c49d500e9890da2a91f65af1c9215a27fbb5ea.png",
+    "sstitle": "images/5c/5c2e6bf48e525c769789dfe844554b1cfb2cbe9e.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 34,
+      "action": "added"
+    }
+  ]
+}

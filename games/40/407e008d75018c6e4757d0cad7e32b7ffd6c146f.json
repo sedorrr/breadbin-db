@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "sha1": "407e008d75018c6e4757d0cad7e32b7ffd6c146f",
+  "md5": "e294839b6ca1372d447264f3da397d87",
+  "crc32": "46713e36",
+  "size": 1050688,
+  "format": "CRT",
+  "files": [
+    "Fahrenheit_451_EasyFlash.crt"
+  ],
+  "title": "Fahrenheit 451 (EasyFlash)",
+  "year": "1984",
+  "publisher": "Trillium / Telarium",
+  "developer": "Byron Preiss Video Productions; EasyFlash-Fassung: Ricky Derocher (2026)",
+  "genres": [
+    "Abenteuer / Text"
+  ],
+  "players": "1",
+  "synopsis": "Fahrenheit 451 setzt Ray Bradburys Roman von 1953 fort: Guy Montag arbeitet in Manhattan für den Untergrund. Das Abenteuer verbindet Texteingabe über einen Parser mit gezeichneten Szenenbildern; auf Wunsch lässt es sich auch ganz ohne Bilder spielen.\n\nDiese Fassung fasst die vier Diskettenseiten der Ausgabe von 1984 in einem 1-MB-Modul (EasyFlash, CRT) zusammen. Spielstände werden im Modulabbild selbst gespeichert, eine Diskette ist dafür nicht nötig; im Emulator bleiben sie nur erhalten, wenn er das veränderte Abbild zurückschreibt. Dokumentation und Lösungsweg liegen dem Download bei.\n\nOriginal von Byron Preiss Video Productions (Ray Bradbury, Byron Preiss; Text Len Neufeld; Bilder Brian Humphrey, Robert Strong), Trillium/Telarium, 1984; EasyFlash-Fassung von Ricky Derocher, 2026.",
+  "texts": {
+    "de": "Fahrenheit 451 setzt Ray Bradburys Roman von 1953 fort: Guy Montag arbeitet in Manhattan für den Untergrund. Das Abenteuer verbindet Texteingabe über einen Parser mit gezeichneten Szenenbildern; auf Wunsch lässt es sich auch ganz ohne Bilder spielen.\n\nDiese Fassung fasst die vier Diskettenseiten der Ausgabe von 1984 in einem 1-MB-Modul (EasyFlash, CRT) zusammen. Spielstände werden im Modulabbild selbst gespeichert, eine Diskette ist dafür nicht nötig; im Emulator bleiben sie nur erhalten, wenn er das veränderte Abbild zurückschreibt. Dokumentation und Lösungsweg liegen dem Download bei.\n\nOriginal von Byron Preiss Video Productions (Ray Bradbury, Byron Preiss; Text Len Neufeld; Bilder Brian Humphrey, Robert Strong), Trillium/Telarium, 1984; EasyFlash-Fassung von Ricky Derocher, 2026.",
+    "en": "Fahrenheit 451 continues Ray Bradbury's 1953 novel: Guy Montag works for the Underground in Manhattan. The adventure combines typed input via a parser with illustrated scenes; it can also be played text-only.\n\nThis version combines the four disk sides of the 1984 release into one 1 MB cartridge (EasyFlash, CRT). Saved games are stored in the cartridge image itself, so no disk is needed; in an emulator they only persist if it writes the changed image back. Documentation and a walkthrough come with the download.\n\nOriginal by Byron Preiss Video Productions (Ray Bradbury, Byron Preiss; text Len Neufeld; illustrations Brian Humphrey, Robert Strong), Trillium/Telarium, 1984; EasyFlash version by Ricky Derocher, 2026."
+  },
+  "images": {
+    "ss": "images/2d/2d78eafc1737afccc70d3e7eb1d33b958f97dbe8.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 34,
+      "action": "added"
+    }
+  ]
+}

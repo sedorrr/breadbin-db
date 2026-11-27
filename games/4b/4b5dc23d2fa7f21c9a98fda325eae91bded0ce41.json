@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "sha1": "4b5dc23d2fa7f21c9a98fda325eae91bded0ce41",
+  "md5": "530865b4492b6d519eb0434c70feddf9",
+  "crc32": "1cdd1746",
+  "size": 1050688,
+  "format": "CRT",
+  "files": [
+    "Western_Classics_Roundup_EasyFlash.crt"
+  ],
+  "title": "Western Classics Roundup",
+  "year": "2026",
+  "publisher": "Binary Legends",
+  "developer": "Binary Legends",
+  "genres": [
+    "Action"
+  ],
+  "players": "1-2",
+  "synopsis": "Western Classics Roundup ist ein EasyFlash-Modul von Binary Legends, das zehn Western-Spiele aus der C64-Frühzeit auf einer Kassette vereint: Buffalo Bill's Wild West Show, High Noon, Kane, Kane II, Law of the West, Outlaw (ein SEUCK-Spiel), Outlaws, Saloon Shootout, Shoot out at Fort Apache und West Bank. Die Spiele stammen aus verschiedenen Jahren und von verschiedenen Autoren und sind unverändert als Sammlung zusammengestellt; die Auswahl erfolgt über ein Menü.\n\nGesteuert wird je nach Spiel mit dem Joystick. Für Buffalo Bill's Wild West Show ist vermerkt, dass es unter NTSC womöglich nicht korrekt läuft.\n\nZusammenstellung von Binary Legends, 2026; die enthaltenen Spiele stammen von ihren jeweiligen Autoren.",
+  "texts": {
+    "de": "Western Classics Roundup ist ein EasyFlash-Modul von Binary Legends, das zehn Western-Spiele aus der C64-Frühzeit auf einer Kassette vereint: Buffalo Bill's Wild West Show, High Noon, Kane, Kane II, Law of the West, Outlaw (ein SEUCK-Spiel), Outlaws, Saloon Shootout, Shoot out at Fort Apache und West Bank. Die Spiele stammen aus verschiedenen Jahren und von verschiedenen Autoren und sind unverändert als Sammlung zusammengestellt; die Auswahl erfolgt über ein Menü.\n\nGesteuert wird je nach Spiel mit dem Joystick. Für Buffalo Bill's Wild West Show ist vermerkt, dass es unter NTSC womöglich nicht korrekt läuft.\n\nZusammenstellung von Binary Legends, 2026; die enthaltenen Spiele stammen von ihren jeweiligen Autoren.",
+    "en": "Western Classics Roundup is an EasyFlash cartridge by Binary Legends that gathers ten western-themed games from the early C64 days on one module: Buffalo Bill's Wild West Show, High Noon, Kane, Kane II, Law of the West, Outlaw (a SEUCK game), Outlaws, Saloon Shootout, Shoot out at Fort Apache and West Bank. The games date from different years and come from different authors; they are compiled as a collection, selected via a menu.\n\nControl is by joystick, depending on the game. For Buffalo Bill's Wild West Show it is noted that it may not run correctly on NTSC.\n\nCompilation by Binary Legends, 2026; the included games are by their respective authors."
+  },
+  "images": {
+    "sstitle": "images/20/2057ff7d3820481172669481d8e6f3ae7a97437c.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 34,
+      "action": "added"
+    }
+  ]
+}
