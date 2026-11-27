@@ -108,6 +108,14 @@ In `beitrag.json` haben diese Spiele `"textauftrag": true`. Je Spiel DE und EN n
   Mitwirkende. Sachlich, keine Wertungen, keine Angaben aus Kommentaren, keine Links, keine KI-Hinweise; bei Cracks
   nur Gruppe und Trainer-Optionen. Nur schreiben, was eine Quelle oder das Spiel selbst belegt; lieber kurz als erfunden.
 - Reichen die Quellen nicht für einen belastbaren Text, nichts ablegen und im Bericht vermerken.
+- **Mehrere Dateien desselben Titels** (Fassungen, Disk-Seiten, Cracks): einmal recherchieren, ein gemeinsamer
+  Grundtext; unterscheiden sich die Dateien erkennbar (Crack mit Trainer, Fassung, Seite), einen kurzen Satz dazu
+  (bei Cracks nur Gruppe und Trainer-Optionen). Alle Dateien in einer `texte.json` ablegen.
+- **Nicht-Spiele** (Art laut Beitrag oder laut `assembly64`/`angaben` Demo, Intro, Grafik …): im selben Lauf auch
+  Schritt 4c ausführen (Art, Gruppe, Party, Platz, Mitwirkende), damit Text und Angaben zusammenpassen. Der Text
+  beschreibt dann die Demo/Grafik, nicht ein Spiel.
+- Viele Aufträge auf einmal: Titel für Titel abarbeiten und nach jedem Titel mit `texte` ablegen, damit bei einem
+  Abbruch nichts verloren geht.
 
 Ablegen wie in 4a mit beiden Sprachen (`{"de": "…", "en": "…"}`). Der Auftrag ist damit erledigt; auf der Prüfseite
 steht „Texte von Claude geschrieben – bitte sichten“, mit „Annehmen“ gehen sie als „bearbeitet von Breadbin“ hinaus.
