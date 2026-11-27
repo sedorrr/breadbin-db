@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha1": "5899726c217bd60c9cf4806bfe5db2fc21a7cd0b",
+  "md5": "e8bb31a171c8b8bf429f598dec912a36",
+  "crc32": "49124f7e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ai-clownhoppers+.d64"
+  ],
+  "title": "Clown Hoppers +",
+  "year": "2026",
+  "publisher": "AIliens",
+  "developer": "MCSP",
+  "genres": [
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Clown Hoppers („High-Flying Circus!“) ist ein Geschicklichkeitsspiel im Zirkuszelt. Die Clowns sollen vom linken zum rechten Turm gelangen; dazu fängt man sie mit einem Trampolin auf und lässt sie wieder hochspringen. Wo der Clown auf dem Trampolin landet, bestimmt die Richtung: in der Mitte springt er senkrecht hoch, je weiter außen, desto weiter fliegt er zur Seite. Nur ein großer Sprung bringt ihn auf einen Turm. Schwebende Ballons geben Bonuspunkte, ein Clown, der nur mit großen Sprüngen hinüberkommt, bringt ein „PERFECT“, und je mehr Clowns gerettet werden, desto mehr ist jeder Punkt wert. Zusätzliche Leben gibt es bei 1000 und 2000 Punkten, danach alle 2000; wer 9999 Punkte erreicht, hat das Spiel geschafft.\n\nGesteuert wird mit dem Joystick in Port 2: links/rechts bewegt das Trampolin, Feuer beschleunigt, oben löst den großen Sprung aus, die Leertaste pausiert. Das Spiel ist für PAL-Geräte gedacht. Von der Diskette gespielt werden die fünf besten Ergebnisse auf der Diskette gespeichert (Datei CLOWN HOPPERS HS; Namenseingabe per Tastatur oder Joystick); beigelegt ist außerdem eine einzelne PRG-Datei. Die Musik umfasst unter anderem „Can Can“ und „Einzug der Gladiatoren“. Freeware, nicht zum Verkauf.\n\nVon MCSP, 2026.\n\nCrack von AIliens vom 23. November 2026. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Clown Hoppers („High-Flying Circus!“) ist ein Geschicklichkeitsspiel im Zirkuszelt. Die Clowns sollen vom linken zum rechten Turm gelangen; dazu fängt man sie mit einem Trampolin auf und lässt sie wieder hochspringen. Wo der Clown auf dem Trampolin landet, bestimmt die Richtung: in der Mitte springt er senkrecht hoch, je weiter außen, desto weiter fliegt er zur Seite. Nur ein großer Sprung bringt ihn auf einen Turm. Schwebende Ballons geben Bonuspunkte, ein Clown, der nur mit großen Sprüngen hinüberkommt, bringt ein „PERFECT“, und je mehr Clowns gerettet werden, desto mehr ist jeder Punkt wert. Zusätzliche Leben gibt es bei 1000 und 2000 Punkten, danach alle 2000; wer 9999 Punkte erreicht, hat das Spiel geschafft.\n\nGesteuert wird mit dem Joystick in Port 2: links/rechts bewegt das Trampolin, Feuer beschleunigt, oben löst den großen Sprung aus, die Leertaste pausiert. Das Spiel ist für PAL-Geräte gedacht. Von der Diskette gespielt werden die fünf besten Ergebnisse auf der Diskette gespeichert (Datei CLOWN HOPPERS HS; Namenseingabe per Tastatur oder Joystick); beigelegt ist außerdem eine einzelne PRG-Datei. Die Musik umfasst unter anderem „Can Can“ und „Einzug der Gladiatoren“. Freeware, nicht zum Verkauf.\n\nVon MCSP, 2026.\n\nCrack von AIliens vom 23. November 2026. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Clown Hoppers (\"High-Flying Circus!\") is a skill game set in a circus tent. The clowns are to get from the left tower to the right tower; you catch them on a trampoline and bounce them up again. Where the clown lands on the trampoline decides the direction: in the middle he bounces straight up, the further out, the further he flies sideways. Only a big bounce gets him onto a tower. Floating balloons give bonus points, a clown brought across with big bounces only earns a \"PERFECT\", and the more clowns are saved the more each point is worth. Extra lives come at 1000 and 2000 points and then every 2000; reaching 9999 points means the game is beaten.\n\nControl is by joystick in port 2: left/right moves the trampoline, fire speeds up, up triggers the big bounce, and the space bar pauses. The game is made for PAL machines. When played from the disk, the top five scores are saved on the disk (file CLOWN HOPPERS HS; names are entered by keyboard or joystick); a single PRG file is included as well. The music includes \"Can Can\" and \"Entrance of the Gladiators\". Freeware, not for sale.\n\nBy MCSP, 2026.\n\nCrack by AIliens, 23 November 2026. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/d6/d613ced5ec86f1346680826ec6bbe386c761999e.png",
+    "sstitle": "images/6d/6d4110bd170e9c1c8f286c37cf7923ba72cd322d.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 35,
+      "action": "added"
+    }
+  ]
+}

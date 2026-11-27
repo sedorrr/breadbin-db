@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha1": "5452023f6a526b1b63501a415530c49cba026a4d",
+  "md5": "0f6e6dbb1341d145f3cd427a13b95b07",
+  "crc32": "a44b4073",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "xblocks.d64"
+  ],
+  "title": "XBlocks ONLINE",
+  "year": "2026",
+  "publisher": "CodeBiters",
+  "developer": "CodeBiters",
+  "genres": [
+    "Puzzle"
+  ],
+  "players": "1-2",
+  "synopsis": "XBlocks ONLINE ist ein Spiel mit fallenden Steinen. In der Online-Arena verbindet ein Server von CodeBiters zwei Spieler; wer mehrere Reihen auf einmal abräumt, schickt dem Gegner Müllreihen, und ein kleiner Turm zeigt dessen Stapel laufend an. Ohne Netz gibt es den Marathon für einen Spieler mit steigenden Stufen und Bestenliste auf Diskette, das Duell zu zweit an einem Rechner und den Modus „Double“, in dem beide dieselbe Steinfolge bekommen und die Punkte verglichen werden. Neben den üblichen Formen gibt es ein U-förmiges Fünferteil und eine Bombe; Schattenvorschau und zwei kommende Steine werden angezeigt.\n\nDas Spiel kommt als Diskette (D64) für PAL-C64 oder C128 im C64-Modus und lädt mit dem normalen KERNAL-Lader. Für das Online-Spiel braucht man ein 2400-Baud-WLAN-Modem am Userport oder eine SwiftLink-kompatible Schnittstelle; laut Entwickler getestet mit Userport-Modem, dem Swift-Modem des TeensyROM und dem C64 Ultimate.\n\nVon CodeBiters, 2026.",
+  "texts": {
+    "de": "XBlocks ONLINE ist ein Spiel mit fallenden Steinen. In der Online-Arena verbindet ein Server von CodeBiters zwei Spieler; wer mehrere Reihen auf einmal abräumt, schickt dem Gegner Müllreihen, und ein kleiner Turm zeigt dessen Stapel laufend an. Ohne Netz gibt es den Marathon für einen Spieler mit steigenden Stufen und Bestenliste auf Diskette, das Duell zu zweit an einem Rechner und den Modus „Double“, in dem beide dieselbe Steinfolge bekommen und die Punkte verglichen werden. Neben den üblichen Formen gibt es ein U-förmiges Fünferteil und eine Bombe; Schattenvorschau und zwei kommende Steine werden angezeigt.\n\nDas Spiel kommt als Diskette (D64) für PAL-C64 oder C128 im C64-Modus und lädt mit dem normalen KERNAL-Lader. Für das Online-Spiel braucht man ein 2400-Baud-WLAN-Modem am Userport oder eine SwiftLink-kompatible Schnittstelle; laut Entwickler getestet mit Userport-Modem, dem Swift-Modem des TeensyROM und dem C64 Ultimate.\n\nVon CodeBiters, 2026.",
+    "en": "XBlocks ONLINE is a falling-block game. In the online Arena a CodeBiters server pairs two players; clearing several rows at once sends garbage rows to the opponent, and a small tower shows the rival's stack in real time. Offline there is a single-player marathon with rising levels and a high-score table on disk, a two-player duel on one machine, and \"Double\", in which both players get the same piece sequence and scores are compared. Besides the usual shapes there is a U-shaped five-block piece and a bomb; a ghost preview and the next two pieces are shown.\n\nThe game comes on a disk (D64) for PAL C64 or a C128 in C64 mode and loads with the standard KERNAL loader. Online play needs a 2400-baud Wi-Fi modem on the user port or a SwiftLink-compatible interface; the developer reports tests with a user-port modem, the TeensyROM's Swift modem and the C64 Ultimate.\n\nBy CodeBiters, 2026."
+  },
+  "images": {
+    "ss": "images/ef/efa40de0da352983a058d7ca17a0b56fe4315a53.png",
+    "sstitle": "images/b7/b73209689f8124fb7b8a8de4ce10c14add7a982b.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 35,
+      "action": "added"
+    }
+  ]
+}
