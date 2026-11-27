@@ -76,6 +76,15 @@ Bibliothek, beurteilen (sparsam CSDb), Empfehlungen an den Server schicken, Beri
   `api/export.php`) wird immer neu gebaut: Vom Einsender mitgeschickte `history`/`edited_by` fallen weg, bearbeitete
   Spiele bekommen `edited_by: ["Breadbin"]`, und `tools/uebernehmen.py` hängt das an den Herkunftseintrag in `history`.
 
+### Bericht als gelesen markieren (Nutzerwunsch 2026-11-27)
+
+Jeder Beitrag im Bericht (Artefakt „Beitragsdurchsicht“) hat den Knopf „Als gelesen markieren“. Das Artefakt hat dafür
+die Fähigkeiten `db` (Regel: `gelesen` lesen alle mit Zugriff, schreiben nur der Besitzer) und `user`; eine Markierung
+ist das Dokument `gelesen/b<Nr>` = `{gelesen, zeit, stand}`. Die geplante Aufgabe liest die Sammlung vor jedem Bericht
+(ArtifactData `list`) und gibt sie `durchsicht_bericht.py --gelesen` mit: Gelesene Beiträge stehen eingeklappt unten;
+kam seit dem Lesen etwas hinzu (jüngerer Zeitstempel bei Durchsicht, Texten oder Angaben), gelten sie wieder als
+ungelesen. In der Abschlussmeldung zählen gelesene ohne Änderung nur noch am Rande.
+
 `public/api/durchsicht.php` (eigener Schlüssel, kann nur lesen, Empfehlungen und fehlende Texte ablegen):
 
 | Aufruf | Antwort |

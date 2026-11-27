@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
 """Baut aus Durchsicht-Ordnern (tools/durchsicht.py holen) eine Berichtsseite für das Artefakt „Beitragsdurchsicht“.
 
-    python3 tools/durchsicht_bericht.py AUSGABE.html [--hinweis TEXT] ORDNER [ORDNER …]
+    python3 tools/durchsicht_bericht.py AUSGABE.html [--hinweis TEXT] [--gelesen GELESEN.json] ORDNER [ORDNER …]
+
+Knopf „Als gelesen markieren“ je Beitrag: Das Artefakt braucht dafür die Fähigkeiten
+`{db: {rules: [{path: "gelesen", read: "view", write: "owner"}]}, user: {}}`; markiert wird im Dokument
+`gelesen/b<Nr>` = {gelesen: true, zeit, stand}. `--gelesen` nimmt die Markierungen (ArtifactData `list` der Sammlung
+`gelesen`, als JSON-Datei {"b31": {"zeit": …, "stand": …}, …} oder als Liste der Dokumente) und klappt gelesene
+Beiträge unten ein – außer seit dem Lesen kam etwas hinzu (`stand` älter als der Bearbeitungsstand des Beitrags).
 
 Jeder Ordner enthält beitrag.json (von „holen“) und empfehlung.json (von Claude geschrieben, gleiches Format wie für
 „senden“: {zusammenfassung, spiele: {sha1: {empfehlung, grund}}}). Titelbilder werden klein eingebettet.
@@ -44,6 +50,15 @@ h1 { font-size: 24px; margin: 0; text-wrap: balance; } h2 { font-size: 18px; mar
 .datei { font: 12px var(--mono); color: var(--muted); overflow-wrap: anywhere; }
 ul { margin: 0; padding-left: 18px; font-size: 13px; } li.rot { color: var(--bad); } li.gelb { color: var(--warn); }
 a { color: var(--accent); }
+.lesen { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.lesen button { font: inherit; font-size: 14px; padding: 8px 14px; border-radius: 8px; border: 1px solid var(--accent);
+  background: var(--accent); color: var(--panel); cursor: pointer; min-height: 40px; }
+.lesen button.zurueck { background: transparent; color: var(--accent); }
+.lesen button:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.beitrag.ist-gelesen > :not(h2):not(.lesen):not(.meta.kopfzeile) { display: none; }
+.beitrag.ist-gelesen { opacity: .8; }
+details.gelesene > summary { cursor: pointer; font-weight: 600; }
+details.gelesene { display: grid; gap: 12px; }
 @media (max-width: 480px) { .spiel { grid-template-columns: 64px 1fr; } .spiel img, .spiel .leer { width: 64px; } }
 </style>
 """
@@ -62,12 +77,103 @@ def bild(g):
     return '<span class="leer"></span>'
 
 
+def stand_von(b):
+    """Bearbeitungsstand eines Beitrags: jüngster Zeitstempel von Durchsicht, Texten und Angaben (ISO, UTC)."""
+    zeiten = [str((b.get("durchsicht") or {}).get("zeit") or "")]
+    for g in b["spiele"]:
+        zeiten += [str((g.get("claude_texte") or {}).get("zeit") or ""), str((g.get("claude_felder") or {}).get("zeit") or "")]
+    return max(zeiten)
+
+
+def gelesen_laden(pfad):
+    """Markierungen als {"b31": {"zeit", "stand"}}; versteht auch die Ausgabe von ArtifactData list (Liste von Dokumenten)."""
+    if not pfad:
+        return {}
+    d = json.load(open(pfad, encoding="utf-8"))
+    if isinstance(d, dict) and "documents" in d:
+        d = d["documents"]
+    if isinstance(d, list):
+        aus = {}
+        for x in d:
+            pfad_x = str(x.get("path") or x.get("id") or "")
+            daten = x.get("data") or x.get("value") or x
+            aus[pfad_x.rsplit("/", 1)[-1]] = daten
+        d = aus
+    return {k: v for k, v in d.items() if isinstance(v, dict) and v.get("gelesen", True)}
+
+
+SKRIPT = """<script>
+(async () => {
+  const sektionen = [...document.querySelectorAll('section.beitrag[data-id]')];
+  const zeige = (s, doc) => {
+    const knopf = s.querySelector('.lesen button'), info = s.querySelector('.lesen .info');
+    const neuer = doc && doc.stand && s.dataset.stand && doc.stand < s.dataset.stand;
+    const gelesen = !!(doc && doc.gelesen && !neuer);
+    s.classList.toggle('ist-gelesen', gelesen);
+    knopf.textContent = gelesen ? 'Wieder als ungelesen zeigen' : 'Als gelesen markieren';
+    knopf.classList.toggle('zurueck', gelesen);
+    let t = '';
+    if (doc && doc.zeit) {
+      const z = new Date(doc.zeit);
+      t = (neuer ? 'Seit dem Lesen am ' : 'Gelesen am ') + z.toLocaleDateString('de-DE') + ', ' +
+          z.toLocaleTimeString('de-DE', {hour: '2-digit', minute: '2-digit'}) + (neuer ? ' kam etwas hinzu.' : '');
+    }
+    info.textContent = t;
+  };
+  let db = null, darf = false;
+  try {
+    db = await claude.use('db');
+    const user = await claude.use('user');
+    darf = !!(user && await user.isOwner());
+  } catch (e) { db = null; }
+  if (!db) {
+    sektionen.forEach(s => { s.querySelector('.lesen .info').textContent = 'Markieren geht nur angemeldet in claude.ai.'; });
+    return;
+  }
+  const stand = {};
+  sektionen.forEach(s => {
+    const knopf = s.querySelector('.lesen button');
+    knopf.hidden = !darf;
+    knopf.addEventListener('click', async () => {
+      knopf.disabled = true;
+      const ref = db.doc('gelesen/b' + s.dataset.id);
+      const doc = stand[s.dataset.id];
+      const neuer = doc && doc.stand && doc.stand < s.dataset.stand;
+      try {
+        if (doc && doc.gelesen && !neuer) { await ref.delete(); }
+        else { await ref.set({gelesen: true, zeit: new Date().toISOString(), stand: s.dataset.stand}); }
+      } catch (e) {
+        s.querySelector('.lesen .info').textContent = 'Speichern ging nicht – bitte später noch einmal.';
+      } finally { knopf.disabled = false; }
+    });
+  });
+  const timer = setTimeout(() => sektionen.forEach(s => {
+    const i = s.querySelector('.lesen .info'); if (!i.textContent) i.textContent = 'Markierungen werden geladen …';
+  }), 10000);
+  db.collection('gelesen').onSnapshot(snap => {
+    clearTimeout(timer);
+    for (const k of Object.keys(stand)) delete stand[k];
+    snap.docs.forEach(d => { stand[d.id.replace(/^b/, '')] = d.data(); });
+    sektionen.forEach(s => zeige(s, stand[s.dataset.id]));
+  }, () => clearTimeout(timer));
+})();
+</script>
+"""
+
+
 def main():
-    aus, ordner = sys.argv[1], sys.argv[2:]
-    hinweis = ""
-    if ordner[:1] == ["--hinweis"]:
-        hinweis, ordner = ordner[1], ordner[2:]
-    teile, bilder, sichten = [], 0, []
+    args = sys.argv[1:]
+    aus = args.pop(0)
+    hinweis, gelesen_pfad = "", None
+    while args and args[0] in ("--hinweis", "--gelesen"):
+        if args[0] == "--hinweis":
+            hinweis = args[1]
+        else:
+            gelesen_pfad = args[1]
+        args = args[2:]
+    ordner = args
+    gelesen = gelesen_laden(gelesen_pfad)
+    teile, gelesene, bilder, sichten = [], [], 0, []
     gesamt = {"uebernehmen": 0, "nachbessern": 0, "ablehnen": 0}
     for o in ordner:
         b = json.load(open(os.path.join(o, "beitrag.json"), encoding="utf-8"))
@@ -110,28 +216,35 @@ def main():
         for k in gesamt:
             gesamt[k] += zahl[k]
         von = f" · von {e(b['name'])}" if b.get("name") else ""
-        teile.append(f"""<section class="beitrag"><h2>Beitrag #{b['id']}</h2>
-<div class="meta">{e(b['eingang'])} · {len(b['spiele'])} Spiele{von} · <a href="{e(PRUEFSEITE)}" target="_blank" rel="noopener">Prüfseite öffnen</a></div>
+        stand = stand_von(b)
+        markiert = gelesen.get(f"b{b['id']}")
+        ist_gelesen = bool(markiert) and str(markiert.get("stand") or "") >= stand
+        ziel = gelesene if ist_gelesen else teile
+        ziel.append(f"""<section class="beitrag{' ist-gelesen' if ist_gelesen else ''}" data-id="{int(b['id'])}" data-stand="{e(stand)}"><h2>Beitrag #{b['id']}</h2>
+<div class="meta kopfzeile">{e(b['eingang'])} · {len(b['spiele'])} Spiele{von} · <a href="{e(PRUEFSEITE)}" target="_blank" rel="noopener">Prüfseite öffnen</a></div>
+<div class="lesen"><button type="button" id="lesen-{int(b['id'])}" hidden>Als gelesen markieren</button><span class="info meta"></span></div>
 <div class="zahlen"><span class="pill ok">{zahl['uebernehmen']} übernehmen</span><span class="pill warn">{zahl['nachbessern']} nachbessern</span>
 <span class="pill bad">{zahl['ablehnen']} ablehnen</span></div>
 {f'<div>{e(em.get("zusammenfassung"))}</div>' if em.get('zusammenfassung') else ''}
 {''.join(f'<div class="meta" style="color:var(--bad)">{e(h["text"])}</div>' for h in b.get('angaben') or [])}
 {'' if b.get('screenscraper_abgleich') else '<div class="meta">ScreenScraper-Abgleich fehlte (keine eigene Bibliothek gefunden).</div>'}
 {''.join(zeilen)}</section>""")
-    stand = max((json.load(open(os.path.join(o, "beitrag.json"))).get("eingang", "") for o in ordner), default="")
+    letzter = max((json.load(open(os.path.join(o, "beitrag.json"))).get("eingang", "") for o in ordner), default="")
     seite = CSS + f"""<main>
 <header><h1>Beitragsdurchsicht</h1>
-<p class="meta">Empfehlungen von Claude zu Beiträgen, die auf der Prüfseite warten (letzter Eingang {e(stand)}).
+<p class="meta">Empfehlungen von Claude zu Beiträgen, die auf der Prüfseite warten (letzter Eingang {e(letzter)}).
+Mit „Als gelesen markieren“ klappst du einen Beitrag ein; kommt danach etwas hinzu, erscheint er wieder.
 Entschieden wird auf der Prüfseite; dort stehen dieselben Empfehlungen an jedem Spiel.</p>
 {f'<p class="pill warn" style="display:inline-block;white-space:normal">{e(hinweis)}</p>' if hinweis else ''}
 <div class="zahlen"><span class="pill ok">{gesamt['uebernehmen']} übernehmen</span><span class="pill warn">{gesamt['nachbessern']} nachbessern</span>
 <span class="pill bad">{gesamt['ablehnen']} ablehnen</span></div>
 {f'<p><strong>Zur Sichtung:</strong> neue Texte von Claude bei {e(", ".join(sichten))}.</p>' if sichten else ''}</header>
-{''.join(teile) if teile else '<p>Zurzeit wartet kein Beitrag.</p>'}
+{''.join(teile) if teile else ('<p>Alle wartenden Beiträge sind gelesen.</p>' if gelesene else '<p>Zurzeit wartet kein Beitrag.</p>')}
+{f'<details class="gelesene"><summary>Gelesen ({len(gelesene)})</summary>{"".join(gelesene)}</details>' if gelesene else ''}
 </main>
-"""
+""" + SKRIPT
     open(aus, "w", encoding="utf-8").write(seite)
-    print(f"{aus}: {len(ordner)} Beiträge")
+    print(f"{aus}: {len(ordner)} Beiträge, davon {len(gelesene)} gelesen")
 
 
 if __name__ == "__main__":
