@@ -58,6 +58,11 @@ Bibliothek, beurteilen (sparsam CSDb), Empfehlungen an den Server schicken, Beri
   (`daten/<datei>.auftraege.json`), `?offen` meldet ihn, und der nächste Lauf (spätestens nach etwa 30 Minuten) schreibt
   DE und EN nach `tools/durchsicht-auftrag.md` (Schritt 4b). Auf der Prüfseite steht dann „Texte von Claude
   geschrieben – bitte sichten“. Ändern über „Bearbeiten“, freigeben mit „Annehmen“.
+- **Viele Spiele ohne Text:** Oben im Beitrag steht dann „N Spiele ohne Beschreibung: Texte für alle von Claude
+  schreiben lassen“ – ein Klick erteilt die Aufträge für alle Spiele ohne deutschen und englischen Text.
+- **Art auf der Prüfseite ändern:** Das Formular „Bearbeiten“ hat Felder für Art (Spiel, Demo, Intro, Musik, Diskmag,
+  Werkzeug, Grafik), Gruppe, Party und Platz (1–999). Spiel = Feld `kind` fehlt. Genres und Spielerzahl bei
+  Nicht-Spielen leeren, sonst bleibt der Hinweis stehen.
 - **Bearbeitet von:** Bearbeitungen durch den Betreiber und durch Claude werden in den Daten immer als „Breadbin“
   geführt (Nutzerentscheidung 2026-11-27; `betreiber_name` in config.php, Standard Breadbin). `<datei>.edits.json` führt
   `bearbeitet_von`; der Betreiber wird nur bei echter Änderung eingetragen. Die geprüfte ZIP (Download und

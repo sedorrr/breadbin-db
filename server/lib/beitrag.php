@@ -34,7 +34,9 @@ const EDITED_BY_FELD = 'edited_by';
 
 // Bearbeitungen der Prüfenden neben der ZIP-Datei: [sha1 => Felder]. Die eingegangene Datei bleibt unverändert.
 const EDIT_FELDER = ['title' => 200, 'year' => 20, 'publisher' => 200, 'developer' => 200, 'players' => 50, 'synopsis' => 20000,
-    'synopsis_en' => 20000];
+    'synopsis_en' => 20000, 'group' => 200, 'party' => 200];
+// Art (Feld kind, leer/„game“ = Spiel) und Platzierung (1–999) – wie die App, docs/Austauschformat.md
+const EDIT_ARTEN = ['game', 'demo', 'intro', 'music', 'diskmag', 'tool', 'graphics'];
 
 function edits_pfad(array $c, array $b): string
 {
@@ -67,6 +69,20 @@ function mit_edits(array $g, ?array $e): array
             } else {
                 $g[$f] = $e[$f];
             }
+        }
+    }
+    if (array_key_exists('kind', $e)) {
+        if ($e['kind'] === '' || $e['kind'] === 'game') {
+            unset($g['kind']);
+        } else {
+            $g['kind'] = (string)$e['kind'];
+        }
+    }
+    if (array_key_exists('place', $e)) {
+        if ($e['place'] === '' || $e['place'] === null) {
+            unset($g['place']);
+        } else {
+            $g['place'] = (int)$e['place'];
         }
     }
     if (array_key_exists('genres', $e)) {

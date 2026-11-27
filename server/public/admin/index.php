@@ -109,6 +109,10 @@ if ($admin) {
                     header('Location: ./#s' . $sha1);
                     exit;
                 }
+                $art = (string)($_POST['kind'] ?? 'game');
+                $e['kind'] = in_array($art, EDIT_ARTEN, true) && $art !== 'game' ? $art : '';
+                $platz = trim((string)($_POST['place'] ?? ''));
+                $e['place'] = ctype_digit($platz) && (int)$platz >= 1 && (int)$platz <= 999 ? (int)$platz : '';
                 $genres = array_values(array_filter(array_map(fn($x) => mb_substr(trim($x), 0, 60), explode(',', (string)($_POST['genres'] ?? '')))));
                 $e['genres'] = array_slice($genres, 0, 20);
                 $e['drop_images'] = array_values(array_intersect(array_merge(BB_KINDS, BB_EXTRA_KINDS), (array)($_POST['drop'] ?? [])));
@@ -128,6 +132,24 @@ if ($admin) {
             file_put_contents(edits_pfad($c, $b), json_encode($ed, JSON_UNESCAPED_UNICODE));
         }
         header('Location: ./#s' . $sha1);
+        exit;
+    }
+    // „Texte für alle ohne Beschreibung“: Aufträge für alle Spiele eines Beitrags ohne deutschen und englischen Text
+    if (isset($_POST['textauftrag_alle'], $_POST['id']) && hash_equals($token, (string)($_POST['token'] ?? ''))) {
+        $b = beitrag((int)$_POST['id']);
+        if ($b && $b['status'] === 'neu' && is_file($c['daten_dir'] . '/' . $b['datei'])) {
+            $erg0 = pruefe_beitrag($c['daten_dir'] . '/' . $b['datei']);
+            $ed0 = edits($c, $b);
+            $neuAuf = [];
+            foreach ($erg0['spiele'] as $s => $orig) {
+                if (texte(mit_edits($orig, $ed0[$s] ?? null)) === ['', '']) {
+                    $neuAuf[] = (string)$s;
+                }
+            }
+            auftraege_speichern($c, $b, array_merge(auftraege($c, $b), $neuAuf));
+            $_SESSION['info'] = count($neuAuf) . ' Textaufträge erteilt – Claude schreibt sie beim nächsten Lauf (spätestens in etwa 30 Minuten).';
+        }
+        header('Location: ./');
         exit;
     }
     // „Texte von Claude schreiben lassen“: Auftrag für den nächsten Lauf der Durchsicht
@@ -418,6 +440,17 @@ if ($admin) {
         <span class="chip gelb"><?= $vp['zahl']['gelb'] ?> gelb</span>
         <span class="chip sauber"><?= $vp['zahl']['sauber'] ?> unauffällig</span>
         <label class="meta"><input type="checkbox" class="nur-auff"> nur auffällige zeigen</label></p>
+        <?php
+          $ohneText = 0;
+          foreach ($erg['spiele'] as $s => $orig) {
+              if (texte(mit_edits($orig, $ed[$s] ?? null)) === ['', ''] && !in_array((string)$s, $auf, true)) { $ohneText++; }
+          }
+          if ($neu && $ohneText > 1): ?>
+          <form method="post" class="meta">
+            <input type="hidden" name="token" value="<?= h($token) ?>"><input type="hidden" name="id" value="<?= (int)$b['id'] ?>">
+            <?= $ohneText ?> Spiele ohne Beschreibung: <button name="textauftrag_alle" value="1">Texte für alle von Claude schreiben lassen</button>
+          </form>
+        <?php elseif ($auf): ?><p class="meta"><?= count($auf) ?> Textaufträge offen – Claude schreibt sie beim nächsten Lauf.</p><?php endif ?>
         <?php if ($vp['angaben']): ?><ul class="hinweise"><?php foreach ($vp['angaben'] as $x): ?><li class="<?= h($x['stufe']) ?>"><?= h($x['text']) ?></li><?php endforeach ?></ul><?php endif ?>
       <?php endif ?>
       <?php if ($ds): ?><div class="claude"><strong>Durchsicht durch Claude</strong> <span class="meta">(<?= h(date('d.m. H:i', strtotime((string)$ds['zeit']))) ?>)</span>
@@ -498,7 +531,19 @@ if ($admin) {
                 </div>
                 <label>Herausgeber <input name="publisher" value="<?= h($g['publisher'] ?? '') ?>" maxlength="200"></label>
                 <label>Entwickler <input name="developer" value="<?= h($g['developer'] ?? '') ?>" maxlength="200"></label>
-                <label>Genres (mit Komma getrennt) <input name="genres" value="<?= h(implode(', ', $g['genres'] ?? [])) ?>"></label>
+                <div class="reihe">
+                  <label>Art <select name="kind">
+                    <?php foreach (VP_ARTEN as $wert => $name): ?>
+                      <option value="<?= h($wert) ?>" <?= vp_art_von($g) === $wert ? 'selected' : '' ?>><?= h($name) ?></option>
+                    <?php endforeach ?>
+                  </select></label>
+                  <label>Platz (bei Party-Beiträgen) <input name="place" type="number" min="1" max="999" value="<?= h(isset($g['place']) ? (string)$g['place'] : '') ?>"></label>
+                </div>
+                <div class="reihe">
+                  <label>Gruppe (bei Demos usw.) <input name="group" value="<?= h(is_string($g['group'] ?? null) ? $g['group'] : '') ?>" maxlength="200"></label>
+                  <label>Party <input name="party" value="<?= h(is_string($g['party'] ?? null) ? $g['party'] : '') ?>" maxlength="200"></label>
+                </div>
+                <label>Genres (mit Komma getrennt, nur bei Spielen) <input name="genres" value="<?= h(implode(', ', $g['genres'] ?? [])) ?>"></label>
                 <label>Beschreibung (Deutsch) <textarea name="synopsis" rows="5" maxlength="20000"><?= h($tde) ?></textarea></label>
                 <label>Beschreibung (Englisch) <textarea name="synopsis_en" rows="5" maxlength="20000" lang="en"><?= h($ten) ?></textarea></label>
                 <?php if (bb_alle_bilder($orig)): ?>

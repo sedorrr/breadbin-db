@@ -107,6 +107,7 @@ def main():
         erwartet[titel] = regeln
 
     fall("Ohne Text", ["text_fehlt"])
+    fall("Auch ohne Text", ["text_fehlt"])
     fall("Nur Deutsch", ["text_en"], de=DE)
     fall("Nur Englisch", ["text_de"], en=EN)
     fall("Edge of Disgrace", ["art"], files=["edge_of_disgrace_demo.d64"], genres=["Verschiedenes"], de=DE, en=EN)

@@ -7,7 +7,7 @@ declare(strict_types=1);
 const VG_FELDER = [
     'title' => 'Titel', 'year' => 'Jahr', 'publisher' => 'Herausgeber', 'developer' => 'Entwickler',
     'genres' => 'Genres', 'players' => 'Spieler', 'text_de' => 'Beschreibung (DE)', 'text_en' => 'Beschreibung (EN)',
-    'screenscraper_id' => 'ScreenScraper-Nr.',
+    'screenscraper_id' => 'ScreenScraper-Nr.', 'kind' => 'Art', 'group' => 'Gruppe', 'party' => 'Party', 'place' => 'Platz',
 ];
 const VG_BILDARTEN = ['sstitle' => 'Titelbild', 'ss' => 'Spielszene', 'ss2' => 'Spielszene 2', 'ss3' => 'Spielszene 3',
     'ss4' => 'Spielszene 4', 'box-2D' => 'Verpackung'];
