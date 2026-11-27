@@ -128,7 +128,7 @@ Getestet 2026-11-27 (PHP 8.3, MariaDB 11): Texte ergänzen (vorhandene bleiben),
 `offen` meldet ihn → Texte abgelegt → Auftrag erledigt, „bearbeitet von“ nach Änderung durch den Betreiber
 (unverändertes Speichern trägt niemanden ein), `edited_by` in der geprüften ZIP; alle 17 Fälle, sauberer Beitrag ohne Hinweis, Prüfseite mit Hinweisen,
 Claude-Empfehlungen, „nur auffällige zeigen“, Bearbeiten lässt Hinweise verschwinden, Aufräumen löscht die neuen
-Begleitdateien, falsche Schlüssel (403) und ungültige Empfehlungen (422). Auf dem Webspace noch nicht.
+Begleitdateien, falsche Schlüssel (403) und ungültige Empfehlungen (422). Auf dem Webspace seit 2026-11-27 hochgeladen (server.yml), `durchsicht.py offen` antwortet; geplante Aufgabe läuft alle 30 Minuten.
 
 ---
 
