@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "sha1": "1a2f2c9a3ac7fa24c07c3a6bb58dcaac0387e1ce",
+  "md5": "2b8a178113b84e18586d84fd6cecfc66",
+  "crc32": "484bba58",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Coppernicus (2022-07-02)(Triad).d64",
+    "triad-coppernicus.d64",
+    "Coppernicus (2022-07-02)(Triad).d64",
+    "triad-coppernicus.d64",
+    "Coppernicus (2022-07-02)(Triad).d64",
+    "triad-coppernicus.d64",
+    "Coppernicus (2022-07-02)(Triad).d64",
+    "triad-coppernicus.d64",
+    "Coppernicus (2022-07-02)(Triad).d64",
+    "triad-coppernicus.d64"
+  ],
+  "title": "Coppernicus",
+  "year": "2022",
+  "publisher": "Triad",
+  "genres": [
+    "Demo"
+  ],
+  "images": {
+    "ss": "images/9c/9cc232eec32989299ae0f8f18fb2d634e8a109a4.png",
+    "sstitle": "images/d5/d59b4f56a21d6e38530cb638918147eb60d45f56.png"
+  },
+  "more_images": {
+    "ss2": "images/dd/dd9efa08e0fa3c73f436769b645e64b202d29502.png"
+  },
+  "texts": {
+    "de": "Demo der Gruppe Triad, auf der Gubbdata 2022 auf Platz 6. Code: Icon, Adder · Grafik: Twoflower · Musik: TDM · Text: Taper · Zeichensatz: Twoflower · Hilfe: Tao, Icon, wbochar, Taper · Directory Art: wbochar.",
+    "en": "Demo by the group Triad, placed 6th at Gubbdata 2022. Code: Icon, Adder · Graphics: Twoflower · Music: TDM · Text: Taper · Charset: Twoflower · Help: Tao, Icon, wbochar, Taper · Directory Art: wbochar."
+  },
+  "synopsis": "Demo der Gruppe Triad, auf der Gubbdata 2022 auf Platz 6. Code: Icon, Adder · Grafik: Twoflower · Musik: TDM · Text: Taper · Zeichensatz: Twoflower · Hilfe: Tao, Icon, wbochar, Taper · Directory Art: wbochar.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

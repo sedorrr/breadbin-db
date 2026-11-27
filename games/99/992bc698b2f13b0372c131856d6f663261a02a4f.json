@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "sha1": "992bc698b2f13b0372c131856d6f663261a02a4f",
+  "md5": "834bc538267b60f7504e4347ad0cc5c4",
+  "crc32": "64086818",
+  "size": 32337,
+  "format": "PRG",
+  "files": [
+    "Cosmic Combat DX v1.1 (TND - 2022).prg"
+  ],
+  "title": "Cosmic Combat DX v1.1",
+  "year": "2022",
+  "publisher": "TND",
+  "images": {
+    "ss": "images/7b/7bc0107356b681e38fb30229dc7406a04c30df81.png",
+    "sstitle": "images/7c/7c8b79d2237014c449dc48897830eff9f755c397.png"
+  },
+  "more_images": {
+    "ss2": "images/2d/2d070eecb6b273e5c2241f40a2ce03e3455602e0.png"
+  },
+  "texts": {
+    "de": "Weltraum-Ballerspiel mit Highscore-Tabelle: Man steuert ein Schiff am unteren Rand und schießt auf Wellen von Gegnern. Die Deluxe-Fassung 1.1 (2022) von TND baut auf einer mit dem Shoot ’Em Up Construction Kit gemachten Vorlage auf und nutzt die SEUCK-Redux-Engine. Beteiligt: Richard Bayliss, Alf Yngve, Hugues Poisseroux.",
+    "en": "Space shoot ’em up with a high-score table: you steer a ship along the bottom of the screen and shoot waves of enemies. The deluxe version 1.1 (2022) by TND builds on a game made with the Shoot ’Em Up Construction Kit and uses the SEUCK Redux engine. Contributors: Richard Bayliss, Alf Yngve, Hugues Poisseroux."
+  },
+  "synopsis": "Weltraum-Ballerspiel mit Highscore-Tabelle: Man steuert ein Schiff am unteren Rand und schießt auf Wellen von Gegnern. Die Deluxe-Fassung 1.1 (2022) von TND baut auf einer mit dem Shoot ’Em Up Construction Kit gemachten Vorlage auf und nutzt die SEUCK-Redux-Engine. Beteiligt: Richard Bayliss, Alf Yngve, Hugues Poisseroux.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "sha1": "c8fd41681b01a3a37728e89cf56bacd9117454ed",
+  "md5": "8919c5f9e2c6d1518442d9ac15f60bf5",
+  "crc32": "bf905b63",
+  "size": 7658,
+  "format": "PRG",
+  "files": [
+    "Flaschbier Final (Werner Soft - 2022).prg"
+  ],
+  "title": "Flaschbier Final",
+  "year": "2022",
+  "publisher": "Werner Soft",
+  "images": {
+    "ss": "images/ff/ff03ecf2edca2eddb32a8d41f6f263075d068fc3.png",
+    "sstitle": "images/09/09371a1258a2e94685c32fde6eb5069583cd85d0.png"
+  },
+  "texts": {
+    "de": "Boulder-Dash-artiges Spiel von Werner Soft, ursprünglich 1985 erschienen. Die „Final“-Fassung von 2022 ist die endgültige Version des damals vorab verbreiteten Spiels, mit Codeänderungen für besseres Laufverhalten. Man gräbt sich durch ein Steinlabyrinth.",
+    "en": "Boulder Dash-style game by Werner Soft, originally released in 1985. The 2022 “Final” version is the finished form of the game that had leaked before its release, with code changes for better behavior. You dig your way through a maze of stones."
+  },
+  "synopsis": "Boulder-Dash-artiges Spiel von Werner Soft, ursprünglich 1985 erschienen. Die „Final“-Fassung von 2022 ist die endgültige Version des damals vorab verbreiteten Spiels, mit Codeänderungen für besseres Laufverhalten. Man gräbt sich durch ein Steinlabyrinth.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

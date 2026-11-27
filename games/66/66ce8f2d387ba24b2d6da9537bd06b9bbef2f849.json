@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "sha1": "66ce8f2d387ba24b2d6da9537bd06b9bbef2f849",
+  "md5": "0bfebda2fd09be3300669613604196ce",
+  "crc32": "a0eb8370",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Sever the Wicked (Haplo - 2022).d64"
+  ],
+  "title": "Sever the Wicked",
+  "year": "2022",
+  "publisher": "Haplo",
+  "genres": [
+    "Shooter"
+  ],
+  "texts": {
+    "de": "Kurzes, schnelles Actionspiel für zwischendurch: In 24 Sekunden sollen möglichst viele Gegner zerstört werden. Weiter entfernte Gegner bringen mehr Punkte. Auf dem Bildschirm laufen Zeit, Kombo, Punktestand und Höchstpunktzahl mit. Entwickelt von Haplo, 2022.",
+    "en": "A short, fast action game for a coffee break: destroy as many enemies as possible within 24 seconds. Enemies that are farther away are worth more points. The screen shows time, combo, score and high score. Developed by Haplo, 2022."
+  },
+  "synopsis": "Kurzes, schnelles Actionspiel für zwischendurch: In 24 Sekunden sollen möglichst viele Gegner zerstört werden. Weiter entfernte Gegner bringen mehr Punkte. Auf dem Bildschirm laufen Zeit, Kombo, Punktestand und Höchstpunktzahl mit. Entwickelt von Haplo, 2022.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

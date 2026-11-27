@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "sha1": "60c3aea75d9eeeb35b98180f2c3cd91bd5a14ecd",
+  "md5": "34d913bbce97820b358f8b35ac5fa0f4",
+  "crc32": "21100c02",
+  "size": 23042,
+  "format": "PRG",
+  "files": [
+    "Is That All (2021-04-24)(Genesis Project).prg",
+    "genesis_project-is_that_all.prg",
+    "Is That All (2021-04-24)(Genesis Project).prg",
+    "genesis_project-is_that_all.prg",
+    "Is That All (2021-04-24)(Genesis Project).prg",
+    "genesis_project-is_that_all.prg",
+    "Is That All (2021-04-24)(Genesis Project).prg",
+    "genesis_project-is_that_all.prg",
+    "Is That All (2021-04-24)(Genesis Project).prg",
+    "genesis_project-is_that_all.prg"
+  ],
+  "title": "Is That All",
+  "year": "2021",
+  "publisher": "Genesis Project",
+  "images": {
+    "sstitle": "images/71/711ed9316ae80548e0c4f8990a73ff4c9c8f0726.png"
+  },
+  "texts": {
+    "de": "Demo der Gruppe Genesis Project, auf der Transmission64 (2021) auf Platz 6. Code: Shadow · Grafik: Facet · Musik: Stinsen.",
+    "en": "Demo by the group Genesis Project, placed 6th at Transmission64 (2021). Code: Shadow · Graphics: Facet · Music: Stinsen."
+  },
+  "synopsis": "Demo der Gruppe Genesis Project, auf der Transmission64 (2021) auf Platz 6. Code: Shadow · Grafik: Facet · Musik: Stinsen.",
+  "developer": "Code: Shadow · Grafik: Facet · Musik: Stinsen",
+  "group": "Genesis Project",
+  "party": "Transmission64",
+  "kind": "demo",
+  "place": 6,
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

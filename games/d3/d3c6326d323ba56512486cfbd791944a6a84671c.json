@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "sha1": "d3c6326d323ba56512486cfbd791944a6a84671c",
+  "md5": "2c0ea987ee4178bee9e932cd4715c343",
+  "crc32": "4016ef53",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Little Nippers DX (TND - 2022).d64"
+  ],
+  "title": "Little Nippers DX",
+  "year": "2022",
+  "publisher": "TND",
+  "images": {
+    "ss": "images/5d/5db2b41315e54331d705e850a801a2f9ddc33660.png",
+    "sstitle": "images/fa/fa7086b4fabf22e02ae6a520bdccfefbe1296759.png"
+  },
+  "texts": {
+    "de": "Ein-Knopf-Spiel am Strand: In Eimern sitzen Krabben, die man aus ihren Eimern schleudert. Sie sollen die Kinder beißen, die über Strand und Promenade laufen. Die Deluxe-Fassung des ursprünglich 4 KB großen Spiels für den Reset64-„Craptastic“-Wettbewerb 2022 erschien auch auf der Heftdiskette von Zzap!64 Micro Action Nr. 9 (August/September 2022); sie bringt ein Ladebild und läuft auf PAL und NTSC. Programm und Musik: Richard Bayliss, Grafik im Spiel: Hugues Poisseroux, Bandlader: Martin Piper.",
+    "en": "A single-button beach game: crabs sit in buckets and are flung out of them. Their job is to bite the kids running across the beach and the promenade. The deluxe version of the game, originally a 4 KB entry for the 2022 Reset64 “Craptastic” competition, also appeared on the cover disk of Zzap!64 Micro Action issue 9 (August/September 2022); it adds a loading picture and runs on PAL and NTSC. Code and music: Richard Bayliss, in-game graphics: Hugues Poisseroux, tape loader: Martin Piper."
+  },
+  "synopsis": "Ein-Knopf-Spiel am Strand: In Eimern sitzen Krabben, die man aus ihren Eimern schleudert. Sie sollen die Kinder beißen, die über Strand und Promenade laufen. Die Deluxe-Fassung des ursprünglich 4 KB großen Spiels für den Reset64-„Craptastic“-Wettbewerb 2022 erschien auch auf der Heftdiskette von Zzap!64 Micro Action Nr. 9 (August/September 2022); sie bringt ein Ladebild und läuft auf PAL und NTSC. Programm und Musik: Richard Bayliss, Grafik im Spiel: Hugues Poisseroux, Bandlader: Martin Piper.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

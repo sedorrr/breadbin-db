@@ -12,18 +12,31 @@
     "sb003876.d64",
     "byterapers_unsound_minds-B.d64"
   ],
-  "title": "234B",
+  "title": "Follow The Sign III",
   "year": "1996",
   "publisher": "Byterapers",
-  "genres": [
-    "Demo"
-  ],
+  "texts": {
+    "de": "Demo „Unsound Minds“ (Follow The Sign 3) der Gruppe Byterapers, 1996, auf mehreren Diskseiten.",
+    "en": "Demo “Unsound Minds” (Follow The Sign 3) by the group Byterapers, 1996, spread over several disk sides."
+  },
+  "synopsis": "Demo „Unsound Minds“ (Follow The Sign 3) der Gruppe Byterapers, 1996, auf mehreren Diskseiten.",
+  "group": "Byterapers",
+  "kind": "demo",
   "history": [
     {
       "date": "2026-11-27",
       "by": "Friti",
       "contribution": 30,
       "action": "added"
+    },
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "changed",
+      "edited_by": [
+        "Breadbin"
+      ]
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "sha1": "0dd0fb910f87410bf8d263bbb8459e2961484be2",
+  "md5": "58bf6f907d4866b12244c2730d11cdca",
+  "crc32": "053058b0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Is That All (2021-04-24)(Genesis Project).d64"
+  ],
+  "title": "Is That All",
+  "year": "2021",
+  "publisher": "Genesis Project",
+  "texts": {
+    "de": "Demo der Gruppe Genesis Project, auf der Transmission64 (2021) auf Platz 6. Code: Shadow · Grafik: Facet · Musik: Stinsen.",
+    "en": "Demo by the group Genesis Project, placed 6th at Transmission64 (2021). Code: Shadow · Graphics: Facet · Music: Stinsen."
+  },
+  "synopsis": "Demo der Gruppe Genesis Project, auf der Transmission64 (2021) auf Platz 6. Code: Shadow · Grafik: Facet · Musik: Stinsen.",
+  "developer": "Code: Shadow · Grafik: Facet · Musik: Stinsen",
+  "group": "Genesis Project",
+  "party": "Transmission64",
+  "kind": "demo",
+  "place": 6,
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

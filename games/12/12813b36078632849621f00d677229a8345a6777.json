@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "sha1": "12813b36078632849621f00d677229a8345a6777",
+  "md5": "ccf3d9d9a272db729abd19e1b544588c",
+  "crc32": "0ede256e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FTS3_A.D64",
+    "312-A.D64",
+    "fts3-1.d64",
+    "234A.D64",
+    "312-A.D64",
+    "sb003875.d64",
+    "FTS3UM1.D64",
+    "byterapers_unsound_minds-A.d64",
+    "FTS3UM1.D64",
+    "byterapers_unsound_minds-A.d64"
+  ],
+  "title": "Follow The Sign III",
+  "year": "1996",
+  "publisher": "Byterapers",
+  "images": {
+    "ss": "images/ea/eabe996773114bedd74d8f8b69b75384322d7f41.png",
+    "sstitle": "images/fa/fa5c945c48fd86897f2e1ae8aa44cc1ee725c803.png"
+  },
+  "more_images": {
+    "ss2": "images/8f/8f7eb216d7487d312827ac6e905995da278c7337.png",
+    "ss3": "images/03/03fcbbaae19e94960acb1deb1125ee433f25a0f5.png",
+    "ss4": "images/11/11c037e0fc1174abdc6244b8debfab48276fbc02.png"
+  },
+  "texts": {
+    "de": "Demo „Unsound Minds“ (Follow The Sign 3) der Gruppe Byterapers, 1996, auf mehreren Diskseiten.",
+    "en": "Demo “Unsound Minds” (Follow The Sign 3) by the group Byterapers, 1996, spread over several disk sides."
+  },
+  "synopsis": "Demo „Unsound Minds“ (Follow The Sign 3) der Gruppe Byterapers, 1996, auf mehreren Diskseiten.",
+  "group": "Byterapers",
+  "kind": "demo",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

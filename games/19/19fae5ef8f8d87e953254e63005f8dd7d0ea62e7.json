@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha1": "19fae5ef8f8d87e953254e63005f8dd7d0ea62e7",
+  "md5": "581a8313742c01845c2af8cd4626a155",
+  "crc32": "cfc688ac",
+  "size": 65728,
+  "format": "CRT",
+  "files": [
+    "Sever the Wicked (Haplo - 2022).crt"
+  ],
+  "title": "Sever the Wicked",
+  "year": "2022",
+  "publisher": "Haplo",
+  "genres": [
+    "Shooter"
+  ],
+  "images": {
+    "sstitle": "images/e6/e6e9ea7f40aec044e22c0db2cef5f6de812e87b9.png"
+  },
+  "texts": {
+    "de": "Kurzes, schnelles Actionspiel für zwischendurch: In 24 Sekunden sollen möglichst viele Gegner zerstört werden. Weiter entfernte Gegner bringen mehr Punkte. Auf dem Bildschirm laufen Zeit, Kombo, Punktestand und Höchstpunktzahl mit. Entwickelt von Haplo, 2022.",
+    "en": "A short, fast action game for a coffee break: destroy as many enemies as possible within 24 seconds. Enemies that are farther away are worth more points. The screen shows time, combo, score and high score. Developed by Haplo, 2022."
+  },
+  "synopsis": "Kurzes, schnelles Actionspiel für zwischendurch: In 24 Sekunden sollen möglichst viele Gegner zerstört werden. Weiter entfernte Gegner bringen mehr Punkte. Auf dem Bildschirm laufen Zeit, Kombo, Punktestand und Höchstpunktzahl mit. Entwickelt von Haplo, 2022.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

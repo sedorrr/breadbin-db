@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "sha1": "b0021074cd1c0d8e1b6575e221061d614427572d",
+  "md5": "cb89e9979f00eea078f911207f9d2bcb",
+  "crc32": "103e3f64",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "dice8_2022.d64"
+  ],
+  "title": "dice8",
+  "year": "2022",
+  "images": {
+    "ss": "images/e1/e1cb12418db212adbcaab06aa27ab2a7c3450251.png"
+  },
+  "texts": {
+    "de": "Würfelspiel im Stil von Yahtzee/Kniffel: Mit fünf Würfeln gibt es mehrere Würfe je Runde; die Ergebnisse werden in eine Wertungstabelle (Einsen bis Sechser, Dreier- und Viererpasch, Full House, kleine und große Straße, Yahtzee, Chance, Bonus) eingetragen. Code und Grafik: PCH, Musik: Aki, Text: Sillicon; erschienen 2018/2019, neue Fassung 2022.",
+    "en": "Dice game in the style of Yahtzee: you roll five dice, with several throws per turn, and enter the results in a score sheet (aces to sixes, three and four of a kind, full house, small and large straight, yahtzee, chance, bonus). Code and graphics: PCH, music: Aki, text: Sillicon; first released 2018/2019, new version 2022."
+  },
+  "synopsis": "Würfelspiel im Stil von Yahtzee/Kniffel: Mit fünf Würfeln gibt es mehrere Würfe je Runde; die Ergebnisse werden in eine Wertungstabelle (Einsen bis Sechser, Dreier- und Viererpasch, Full House, kleine und große Straße, Yahtzee, Chance, Bonus) eingetragen. Code und Grafik: PCH, Musik: Aki, Text: Sillicon; erschienen 2018/2019, neue Fassung 2022.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

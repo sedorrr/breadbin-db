@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "sha1": "97daf39350e245135b8bd1a0a7aabe7e870b2bee",
+  "md5": "914a4c36fdf09a0db41fbc2baf669e89",
+  "crc32": "a91e8753",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "craptastic_2022_compilation.d64"
+  ],
+  "title": "craptastic",
+  "year": "2022",
+  "publisher": "compilation",
+  "images": {
+    "sstitle": "images/b2/b26761934c387e7bff3edc39538c8c52699f7461.png"
+  },
+  "texts": {
+    "de": "Sammeldiskette mit den Spielen des Reset64-4-KB-Wettbewerbs „Craptastic“ 2022; jedes Spiel ist höchstens 4 KB groß. Zusammengestellt vom Team von Megastyle, Code: Six und Docster, Musik und PETSCII-Grafik: Rotteroy.",
+    "en": "Compilation disk with the games of the 2022 Reset64 4 KB “Craptastic” competition; every game is at most 4 KB in size. Compiled by the Megastyle team, code: Six and Docster, music and PETSCII graphics: Rotteroy."
+  },
+  "synopsis": "Sammeldiskette mit den Spielen des Reset64-4-KB-Wettbewerbs „Craptastic“ 2022; jedes Spiel ist höchstens 4 KB groß. Zusammengestellt vom Team von Megastyle, Code: Six und Docster, Musik und PETSCII-Grafik: Rotteroy.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

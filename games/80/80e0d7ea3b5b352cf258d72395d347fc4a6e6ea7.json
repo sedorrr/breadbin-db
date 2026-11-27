@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "sha1": "80e0d7ea3b5b352cf258d72395d347fc4a6e6ea7",
+  "md5": "44cb6b24a51f8d6a7f02c256a1541185",
+  "crc32": "ea3f3262",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "craptastic_2020_compilation_v2.d64"
+  ],
+  "title": "craptastic",
+  "year": "2022",
+  "publisher": "compilation",
+  "texts": {
+    "de": "Sammeldiskette mit kleinen Spielen („Craptastic“-Compilation, Fassung 2, 2020).",
+    "en": "Compilation disk of small games (“Craptastic” compilation, version 2, 2020)."
+  },
+  "synopsis": "Sammeldiskette mit kleinen Spielen („Craptastic“-Compilation, Fassung 2, 2020).",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

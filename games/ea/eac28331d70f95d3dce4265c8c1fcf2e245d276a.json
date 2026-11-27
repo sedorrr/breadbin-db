@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "sha1": "eac28331d70f95d3dce4265c8c1fcf2e245d276a",
+  "md5": "92e57f9fc7d778deff47dca8a6577b34",
+  "crc32": "c4991ca3",
+  "size": 7132,
+  "format": "PRG",
+  "files": [
+    "the_nightland_2022_rfx_hf.prg"
+  ],
+  "title": "the nightland",
+  "year": "2022",
+  "publisher": "rfx hf",
+  "images": {
+    "sstitle": "images/4c/4c7a408f488cc5013e2535fa5056782134a5bef4.png"
+  },
+  "texts": {
+    "de": "Mehrfarbiges C64-Bild, signiert „rfx“, veröffentlicht von Hokuto Force (Mai 2022): Eine Gestalt steht im verschneiten Winterwald bei Nacht unter einer Mondsichel; unten im Bild steht der Schriftzug „The Nightland“.",
+    "en": "Multicolor C64 picture signed “rfx”, released by Hokuto Force (May 2022): a figure stands in a snowy winter forest at night under a crescent moon; the logo “The Nightland” sits at the bottom of the picture."
+  },
+  "synopsis": "Mehrfarbiges C64-Bild, signiert „rfx“, veröffentlicht von Hokuto Force (Mai 2022): Eine Gestalt steht im verschneiten Winterwald bei Nacht unter einer Mondsichel; unten im Bild steht der Schriftzug „The Nightland“.",
+  "group": "Hokuto Force",
+  "kind": "graphics",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}

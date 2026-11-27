@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "sha1": "f85194e3e87ad53780eb08ab396ba502658815ef",
+  "md5": "412bee419ea73bba527ac6f12152c145",
+  "crc32": "2805068b",
+  "size": 195138,
+  "format": "TAP",
+  "files": [
+    "Bug Blaster_2022.tap"
+  ],
+  "title": "Bug Blaster",
+  "year": "1983",
+  "publisher": "Alligata",
+  "images": {
+    "ss": "images/77/77c44373eeab7c9d89260528a6661581a4ec8ed3.png",
+    "sstitle": "images/f5/f51ae3130147c43f082f12840d8f23a4c743b623.png"
+  },
+  "texts": {
+    "de": "Centipede-Umsetzung von Alligata Software (1983) von Antony Crowther: Von oben kriecht ein Tausendfüßler auf den Spieler zu; trifft man ein Segment, teilt er sich in zwei Teile. Ist er vernichtet, geht es mit dem nächsten Level weiter. Der Bildschirm zeigt Punkte und Leben.",
+    "en": "Clone of the arcade game Centipede by Alligata Software (1983), written by Antony Crowther: a centipede descends from the top toward the player; hitting a segment splits it in two. Once it is destroyed, the next level begins. The screen shows score and lives."
+  },
+  "synopsis": "Centipede-Umsetzung von Alligata Software (1983) von Antony Crowther: Von oben kriecht ein Tausendfüßler auf den Spieler zu; trifft man ein Segment, teilt er sich in zwei Teile. Ist er vernichtet, geht es mit dem nächsten Level weiter. Der Bildschirm zeigt Punkte und Leben.",
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 31,
+      "action": "added",
+      "edited_by": [
+        "Breadbin"
+      ]
+    }
+  ]
+}
