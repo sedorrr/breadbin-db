@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha1": "15dc4346a79944e1b4a5923f9083e637e7d8259b",
+  "md5": "c53df936c4e25e87d39c259ac81f41a1",
+  "crc32": "1390bb10",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ai-qixel+.d64"
+  ],
+  "title": "Qixel +2",
+  "year": "2026",
+  "publisher": "AIliens",
+  "developer": "Antibody Software",
+  "genres": [
+    "Arcade",
+    "Geschicklichkeit"
+  ],
+  "players": "1",
+  "synopsis": "Qixel ist ein Spiel nach dem Vorbild des Automaten „Qix“ mit niedlicher Grafik. Mit einem Roboter zeichnet man geschlossene Formen und beansprucht so den geforderten Anteil des Spielfelds, während der umherwandernde QIXEL und patrouillierende SPARKLES unterwegs sind. Gesteuert wird mit dem Joystick in Port 2: Feuer gedrückt halten bewegt den Roboter ins Feld und beginnt die Linie. Hält man Feuer weiter, ist es ein langsames Zeichnen mit doppelter Punktzahl, lässt man los, ein schnelles. Verwundbar ist man nur beim Zeichnen: Berührt der QIXEL den Roboter oder die Linie, ist man verloren, die SPARKLES töten bei jeder Berührung. Wer beim Zeichnen stehen bleibt, löst eine Zündschnur aus, die der Linie folgt.\n\nAb Level 3 gibt es zwei QIXEL; teilt man sie mit einer Linie in zwei getrennte Bereiche, endet der Level sofort und der Punkte-Multiplikator steigt um eins. Die Bestenliste wird auf der Diskette gespeichert (Datei QIXEL.HI). Version 1.00; im Programm stehen „1.0 by Longhair/Elysium“ und ein Hinweis auf Musik von Klax.\n\nVon Antibody Software, 2026.\n\nCrack von AIliens vom 25. November 2026. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Qixel ist ein Spiel nach dem Vorbild des Automaten „Qix“ mit niedlicher Grafik. Mit einem Roboter zeichnet man geschlossene Formen und beansprucht so den geforderten Anteil des Spielfelds, während der umherwandernde QIXEL und patrouillierende SPARKLES unterwegs sind. Gesteuert wird mit dem Joystick in Port 2: Feuer gedrückt halten bewegt den Roboter ins Feld und beginnt die Linie. Hält man Feuer weiter, ist es ein langsames Zeichnen mit doppelter Punktzahl, lässt man los, ein schnelles. Verwundbar ist man nur beim Zeichnen: Berührt der QIXEL den Roboter oder die Linie, ist man verloren, die SPARKLES töten bei jeder Berührung. Wer beim Zeichnen stehen bleibt, löst eine Zündschnur aus, die der Linie folgt.\n\nAb Level 3 gibt es zwei QIXEL; teilt man sie mit einer Linie in zwei getrennte Bereiche, endet der Level sofort und der Punkte-Multiplikator steigt um eins. Die Bestenliste wird auf der Diskette gespeichert (Datei QIXEL.HI). Version 1.00; im Programm stehen „1.0 by Longhair/Elysium“ und ein Hinweis auf Musik von Klax.\n\nVon Antibody Software, 2026.\n\nCrack von AIliens vom 25. November 2026. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Qixel is a game in the spirit of the arcade game Qix, with cute graphics. With a robot you draw closed shapes and claim the required share of the playfield while a wandering QIXEL and patrolling SPARKLES are about. Controlled with the joystick in port 2: holding fire moves the robot into the field and starts the line. Keeping fire held is a slow draw worth double points, releasing it is a fast draw. You are only vulnerable while drawing: if the QIXEL touches the robot or the line you lose, the SPARKLES kill on any touch. Stopping while drawing triggers a fuse that follows the line.\n\nFrom level 3 there are two QIXELs; splitting them into two separate regions with one line ends the level at once and raises the score multiplier by one. The high-score table is saved on disk (file QIXEL.HI). Version 1.00; the program shows \"1.0 by Longhair/Elysium\" and a note about music by Klax.\n\nBy Antibody Software, 2026.\n\nCrack by AIliens, 25 November 2026. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/7f/7f2dab52e0bd56752062b481d12a2bc152b29f2a.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 32,
+      "action": "added"
+    }
+  ]
+}

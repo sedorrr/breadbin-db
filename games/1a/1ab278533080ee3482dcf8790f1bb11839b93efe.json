@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "sha1": "1ab278533080ee3482dcf8790f1bb11839b93efe",
+  "md5": "c394a3f1b6133353f2773d603de90f2f",
+  "crc32": "9b62fd06",
+  "size": 886528,
+  "format": "CRT",
+  "files": [
+    "MM_Zak_1351_EasyFlash_v3.crt"
+  ],
+  "title": "Maniac Mansion and Zak McKracken [1351 mouse]",
+  "year": "2026",
+  "publisher": "Binary Legends",
+  "developer": "Binary Legends",
+  "genres": [
+    "Abenteuer / Grafik"
+  ],
+  "players": "1",
+  "synopsis": "Diese EasyFlash-Kassette vereint zwei LucasArts-Adventures auf einem Modul: Maniac Mansion (Lucasfilm Games, 1987) und Zak McKracken and the Alien Mindbenders (1988). In Maniac Mansion befreit man mit einer Gruppe von Jugendlichen eine Freundin aus dem Haus eines verrückten Wissenschaftlers; in Zak McKracken deckt ein Reporter den Plan von Außerirdischen auf, die die Intelligenz der Menschheit verringern wollen. Beide sind Point-and-Click-Adventures mit der SCUMM-Oberfläche.\n\nBesonderheit dieser Fassung ist die Steuerung mit der Maus 1351. Es gibt eine englische und eine deutsche Fassung (jeweils Version 3), die als zwei Module vorliegen. Vorlage sind die Disketten-Fassungen von 1987 und 1988.\n\nEasyFlash-Umsetzung von Binary Legends, 2026, nach den Spielen von Lucasfilm Games.",
+  "texts": {
+    "de": "Diese EasyFlash-Kassette vereint zwei LucasArts-Adventures auf einem Modul: Maniac Mansion (Lucasfilm Games, 1987) und Zak McKracken and the Alien Mindbenders (1988). In Maniac Mansion befreit man mit einer Gruppe von Jugendlichen eine Freundin aus dem Haus eines verrückten Wissenschaftlers; in Zak McKracken deckt ein Reporter den Plan von Außerirdischen auf, die die Intelligenz der Menschheit verringern wollen. Beide sind Point-and-Click-Adventures mit der SCUMM-Oberfläche.\n\nBesonderheit dieser Fassung ist die Steuerung mit der Maus 1351. Es gibt eine englische und eine deutsche Fassung (jeweils Version 3), die als zwei Module vorliegen. Vorlage sind die Disketten-Fassungen von 1987 und 1988.\n\nEasyFlash-Umsetzung von Binary Legends, 2026, nach den Spielen von Lucasfilm Games.",
+    "en": "This EasyFlash cartridge combines two LucasArts adventures on one module: Maniac Mansion (Lucasfilm Games, 1987) and Zak McKracken and the Alien Mindbenders (1988). In Maniac Mansion a group of teenagers sets out to rescue a friend from a mad scientist's house; in Zak McKracken a reporter uncovers the plan of aliens who want to lower humanity's intelligence. Both are point-and-click adventures using the SCUMM interface.\n\nA feature of this version is control with the 1351 mouse. There is an English and a German version (each version 3), provided as two modules. The templates are the disk versions of 1987 and 1988.\n\nEasyFlash conversion by Binary Legends, 2026, after the games by Lucasfilm Games."
+  },
+  "images": {
+    "sstitle": "images/86/86d45f35f3f730390b1611aebd8460e8c1bb9d3d.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 32,
+      "action": "added"
+    }
+  ]
+}

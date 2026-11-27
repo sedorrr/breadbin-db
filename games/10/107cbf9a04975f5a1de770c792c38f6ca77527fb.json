@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "sha1": "107cbf9a04975f5a1de770c792c38f6ca77527fb",
+  "md5": "509d18a9e8193e49e6fa6996702e1b32",
+  "crc32": "defd82fa",
+  "size": 16323,
+  "format": "PRG",
+  "files": [
+    "ai-moonpit+.prg"
+  ],
+  "title": "Moonpit +3",
+  "year": "2026",
+  "publisher": "AIliens",
+  "developer": "websimon.de",
+  "genres": [
+    "Action",
+    "Puzzle"
+  ],
+  "players": "1",
+  "synopsis": "Moonpit ist ein Geschicklichkeits- und Denkspiel auf Mondbasen. Mit dem Laser gräbt man Löcher in den Boden, fängt damit die Roboter, sammelt alle Energiekristalle ein und klettert dann zum Ausgang. Es gibt 30 Level, jeweils eine Station mit eigenem Namen, etwa „First Steps“, „Moon Base“, „Robot Factory“, „Gravity Well“, „Black Hole“ oder „Mothership“; bis zu fünf Roboter sind gleichzeitig im Spiel.\n\nGesteuert wird mit dem Joystick in Port 2, Feuer startet das Spiel oder das Level. Das Spiel zeigt Punktestand, Bestwert, Leben und Level an; nach jeder Station gibt es einen Bonus, nach Level 30 folgt die Meldung „Mission complete“. Die Texte sind englisch.\n\nVon websimon.de, 2026.\n\nCrack von AIliens vom 24. November 2026. Das Original ist ebenfalls in der Datenbank.",
+  "texts": {
+    "de": "Moonpit ist ein Geschicklichkeits- und Denkspiel auf Mondbasen. Mit dem Laser gräbt man Löcher in den Boden, fängt damit die Roboter, sammelt alle Energiekristalle ein und klettert dann zum Ausgang. Es gibt 30 Level, jeweils eine Station mit eigenem Namen, etwa „First Steps“, „Moon Base“, „Robot Factory“, „Gravity Well“, „Black Hole“ oder „Mothership“; bis zu fünf Roboter sind gleichzeitig im Spiel.\n\nGesteuert wird mit dem Joystick in Port 2, Feuer startet das Spiel oder das Level. Das Spiel zeigt Punktestand, Bestwert, Leben und Level an; nach jeder Station gibt es einen Bonus, nach Level 30 folgt die Meldung „Mission complete“. Die Texte sind englisch.\n\nVon websimon.de, 2026.\n\nCrack von AIliens vom 24. November 2026. Das Original ist ebenfalls in der Datenbank.",
+    "en": "Moonpit is a skill and puzzle game set on moon bases. With your laser you dig holes in the floor to trap the robots, collect all energy crystals and then climb to the exit. There are 30 levels, each a station with its own name, such as \"First Steps\", \"Moon Base\", \"Robot Factory\", \"Gravity Well\", \"Black Hole\" or \"Mothership\"; up to five robots are in play at once.\n\nControl is by joystick in port 2; fire starts the game or the level. The game shows score, high score, lives and level; a bonus is awarded after each station, and after level 30 the message \"Mission complete\" appears. The text is in English.\n\nBy websimon.de, 2026.\n\nCrack by AIliens, 24 November 2026. The original is also in the database."
+  },
+  "images": {
+    "ss": "images/61/61b5287f8275588033ad487ecbaa6141db97493a.png",
+    "sstitle": "images/50/501aea3b4de7b4e7d9c22c215b0c8dd14cc00476.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 32,
+      "action": "added"
+    }
+  ]
+}
