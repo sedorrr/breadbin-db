@@ -121,7 +121,7 @@ if ($admin) {
                 $erg0 = pruefe_beitrag($c['daten_dir'] . '/' . $b['datei']);
                 $vorher = mit_edits($erg0['spiele'][$sha1] ?? [], $alt ?: null);
                 $nachher = mit_edits($erg0['spiele'][$sha1] ?? [], $e);
-                foreach (['bearbeitet_von', 'claude_texte'] as $k) {
+                foreach (['bearbeitet_von', 'claude_texte', 'claude_felder'] as $k) {
                     if (isset($alt[$k])) { $e[$k] = $alt[$k]; }
                 }
                 if ($vorher != $nachher) {
@@ -495,6 +495,10 @@ if ($admin) {
                   <td><?= $neuw === '' ? '<ins>– (fällt weg)</ins>' : '<img src="?id=' . (int)$b['id'] . '&amp;bild=' . h(rawurlencode($neuw)) . '" alt="neu">' ?></td></tr>
               <?php endforeach ?>
             </table></details>
+          <?php endif ?>
+          <?php if (!empty($ed[$sha1]['claude_felder'])): $cf = $ed[$sha1]['claude_felder']; ?>
+            <div class="claude uebernehmen"><strong>Angaben von Claude ergänzt:</strong> <?= h(implode(', ', $cf['felder'] ?? [])) ?>
+              <?= ($cf['quellen'] ?? '') !== '' ? '<span class="meta">(' . h($cf['quellen']) . ')</span>' : '' ?> – ändern über „Bearbeiten“.</div>
           <?php endif ?>
           <?php [$tde, $ten] = texte($g);
                 $ct = $ed[$sha1]['claude_texte'] ?? null;

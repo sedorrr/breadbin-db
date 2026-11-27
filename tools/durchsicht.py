@@ -6,6 +6,8 @@ Ablauf (Anleitung: server/VORPRUEFUNG.md):
     python3 tools/durchsicht.py holen N [--ziel DIR]  # Beitrag N als JSON (+ Bilder) holen, ScreenScraper-Abgleich
                                                       # (Standard-Ziel: ~/.cache/breadbin-durchsicht/N)
     python3 tools/durchsicht.py senden N DATEI.json   # Empfehlungen an die Prüfseite schicken
+    python3 tools/durchsicht.py felder N DATEI.json   # fehlende Angaben (Art, Gruppe, Party, Platz, Jahr, Mitwirkende)
+                                                      # aus Assembly64/CSDb/pouet ablegen ({spiele: {sha1: {…}}})
     python3 tools/durchsicht.py texte N DATEI.json    # von Claude geschriebene Texte als Bearbeitung ablegen
                                                       # (JSON {spiele: {sha1: {de, en}}}, nur fehlende Sprachen)
 
@@ -60,7 +62,8 @@ def anfrage(abfrage, daten=None, roh=False):
     except urllib.error.HTTPError as e:
         inhalt = e.read()
         try:
-            fehler = json.loads(inhalt).get("fehler", "")
+            j = json.loads(inhalt)
+            fehler = j.get("fehler") or "; ".join((j.get("uebersprungen") or [])[:8]) or "nichts abgelegt"
         except Exception:  # noqa: BLE001
             fehler = inhalt[:200].decode("utf-8", "replace")
         sys.exit(f"HTTP {e.code}: {fehler}")
@@ -177,6 +180,89 @@ def a64_hinweise(g, treffer):
     return h
 
 
+# ---- Fehlende Angaben bei Demos usw.: Assembly64 (lokal) → CSDb → pouet.net ----
+
+def _n(t):
+    return re.sub(r"[^a-z0-9]+", "", (t or "").lower())
+
+
+def quellen_sammeln(g):
+    """Vorschlag für fehlende Angaben eines Nicht-Spiels (oder eines vermutlichen Nicht-Spiels).
+    Reihenfolge laut Nutzer: zuerst die lokalen Assembly64-Daten, dann CSDb, erst danach pouet.net."""
+    import csdb, pouet
+    a64 = [t for t in g.get("assembly64") or [] if t["treffer"] == "pruefsumme"]
+    angegeben = g.get("art") or "game"
+    if angegeben == "game" and not any(t["art"] not in ("game",) for t in a64):
+        return None
+    zus = g.get("zusatz") or {}
+    fehlt = {f for f in ("group", "party", "place") if not str(zus.get(f) or "").strip()}
+    fehlt |= {f for f in ("year", "developer") if not str(g.get(f) or "").strip()}
+    if angegeben == "game":
+        fehlt.add("kind")
+    v, herkunft, quellen, notiz = {}, {}, {}, []
+    titel = _n(g.get("title"))
+    dateien = {f.lower() for f in g.get("files") or []}
+
+    def setze(feld, wert, quelle):
+        if feld in fehlt and feld not in v and str(wert or "").strip():
+            v[feld] = wert
+            herkunft[feld] = quelle
+
+    # 1. Assembly64 über die Prüfsumme (die Datei ist bekannt). Art nur, wenn der Titel zur Veröffentlichung passt –
+    #    eine Partydiskette steht dort bei jedem Beitrag, der darauf liegt.
+    csdb_id = None
+    for t in sorted(a64, key=lambda t: -sum(bool(t[k]) for k in ("gruppe", "jahr", "party", "platz", "csdb_id"))):
+        passt = _n(t["titel"]) == titel
+        if passt:
+            setze("kind", t["art"] if t["art"] in ("demo", "intro", "music", "graphics", "diskmag", "tool") else "", "Assembly64")
+            setze("group", t["gruppe"], "Assembly64")
+            setze("year", t["jahr"], "Assembly64")
+            setze("party", t["party"], "Assembly64")
+            setze("place", int(t["platz"]) if t["platz"].isdigit() else "", "Assembly64")
+            csdb_id = csdb_id or (int(t["csdb_id"]) if t["csdb_id"] else None)
+    if a64:
+        quellen["assembly64"] = a64[:3]
+    offen = lambda: fehlt - set(v)  # noqa: E731
+    # 2. CSDb – über die Nummer aus Assembly64, sonst über den Namen
+    try:
+        if offen() and not csdb_id:
+            for i, name in csdb.suche(g.get("title") or ""):
+                if _n(name) == titel or len(csdb.suche(g.get("title") or "")) == 1:
+                    csdb_id = i
+                    break
+        if offen() and csdb_id:
+            r = csdb.release(csdb_id)
+            if r and (_n(r["name"]) == titel or _n(r["aka"]) == titel or dateien & {d.lower() for d in r["dateien"]}):
+                quellen["csdb"] = r
+                if r["art"] is None:
+                    notiz.append(f"laut CSDb {r['id']} ein Cracktro ({r['typ']}) – wird nicht aufgenommen")
+                for feld, wert in csdb.vorschlag(r, g).items():
+                    setze(feld, wert, f"CSDb {r['id']}")
+            elif r:
+                notiz.append(f"CSDb {csdb_id} („{r['name']}“) passt nicht zum Titel")
+    except Exception as e:  # noqa: BLE001 – Netz, Grenze erreicht
+        notiz.append(f"CSDb: {e}")
+    # 3. pouet.net, wenn noch etwas fehlt
+    try:
+        if offen():
+            treffer = [p for p in pouet.suche(g.get("title") or "") if _n(p["name"]) == titel]
+            gruppe = _n(v.get("group") or zus.get("group") or "")
+            if gruppe:
+                treffer = [p for p in treffer if any(_n(x) and _n(x) in gruppe for x in p["gruppen"])] or treffer
+            if treffer:
+                p = treffer[0]
+                quellen["pouet"] = p
+                if p["art"] and p["art"] != "game":
+                    setze("kind", p["art"], f"pouet {p['id']}")
+                setze("group", ", ".join(p["gruppen"]), f"pouet {p['id']}")
+                setze("year", p["jahr"], f"pouet {p['id']}")
+                setze("party", p["party"], f"pouet {p['id']}")
+                setze("place", int(p["platz"]) if p["platz"] else "", f"pouet {p['id']}")
+    except Exception as e:  # noqa: BLE001
+        notiz.append(f"pouet: {e}")
+    return {"vorschlag": v, "herkunft": herkunft, "fehlt_noch": sorted(offen()), "quellen": quellen, "notiz": notiz}
+
+
 # ---- Befehle ----
 
 def offen(_a):
@@ -213,6 +299,13 @@ def holen(a):
                     g["hinweise"].insert(0, {"stufe": "rot", "regel": "ss_lokal",
                                              "text": f"Text {sp.upper()} gleicht zu {int(t['anteil'] * 100)} % dem ScreenScraper-Text "
                                                      f"von „{t['titel']}“ (nicht teilbar)"})
+        if a64con and not a.ohne_quellen:
+            q = quellen_sammeln(g)
+            if q:
+                g["angaben"] = q
+                if q["vorschlag"]:
+                    g["hinweise"].append({"stufe": "info", "regel": "angaben", "text": "Fehlende Angaben belegt: " + ", ".join(
+                        f"{k} = {q['vorschlag'][k]} ({q['herkunft'][k]})" for k in q["vorschlag"])})
         if not a.ohne_bilder:
             for art, b in (g.get("bilder") or {}).items():
                 datei = os.path.join(ziel, "bilder", f"{g['sha1'][:8]}-{art}.{b['pfad'].rsplit('.', 1)[1]}")
@@ -238,6 +331,15 @@ def senden(a):
     return 0
 
 
+def felder(a):
+    daten = json.load(open(a.datei, encoding="utf-8"))
+    r = anfrage(f"felder={a.id}", json.dumps(daten, ensure_ascii=False).encode())
+    print(f"{r['felder']} Angaben für Beitrag #{r['id']} abgelegt (auf der Prüfseite als „bearbeitet von Breadbin“).")
+    for w in r.get("uebersprungen") or []:
+        print("  übersprungen:", w)
+    return 0
+
+
 def texte(a):
     daten = json.load(open(a.datei, encoding="utf-8"))
     r = anfrage(f"texte={a.id}", json.dumps(daten, ensure_ascii=False).encode())
@@ -256,11 +358,16 @@ def main():
     h.add_argument("--ziel")
     h.add_argument("--ohne-bilder", action="store_true")
     h.add_argument("--ohne-ss", action="store_true")
+    h.add_argument("--ohne-quellen", action="store_true", help="keine CSDb-/pouet-Abfragen")
     h.set_defaults(f=holen)
     s = sub.add_parser("senden")
     s.add_argument("id", type=int)
     s.add_argument("datei")
     s.set_defaults(f=senden)
+    f = sub.add_parser("felder")
+    f.add_argument("id", type=int)
+    f.add_argument("datei")
+    f.set_defaults(f=felder)
     t = sub.add_parser("texte")
     t.add_argument("id", type=int)
     t.add_argument("datei")

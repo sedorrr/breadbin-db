@@ -63,6 +63,12 @@ Bibliothek, beurteilen (sparsam CSDb), Empfehlungen an den Server schicken, Beri
 - **Art auf der Prüfseite ändern:** Das Formular „Bearbeiten“ hat Felder für Art (Spiel, Demo, Intro, Musik, Diskmag,
   Werkzeug, Grafik), Gruppe, Party und Platz (1–999). Spiel = Feld `kind` fehlt. Genres und Spielerzahl bei
   Nicht-Spielen leeren, sonst bleibt der Hinweis stehen.
+- **Fehlende Angaben bei Demos usw. (Nutzerwunsch 2026-11-27):** `tools/durchsicht.py holen` schlägt für
+  Nicht-Spiele fehlende Art, Gruppe, Party, Platz, Jahr und Mitwirkende vor – zuerst aus den lokalen Assembly64-Daten,
+  dann aus CSDb (Webservice, `tools/csdb.py`), zuletzt aus pouet.net (`tools/pouet.py`); beide zwischengespeichert unter
+  `~/.cache/breadbin-durchsicht/`, 2 s Pause, Obergrenze je Lauf (`CSDB_MAX` 15, `POUET_MAX` 10). Claude prüft und legt
+  sie mit `POST ?felder=N` ab: nur leere Felder, Art nur statt „Spiel“. Die Prüfseite zeigt „Angaben von Claude
+  ergänzt“ samt Quellen.
 - **Bearbeitet von:** Bearbeitungen durch den Betreiber und durch Claude werden in den Daten immer als „Breadbin“
   geführt (Nutzerentscheidung 2026-11-27; `betreiber_name` in config.php, Standard Breadbin). `<datei>.edits.json` führt
   `bearbeitet_von`; der Betreiber wird nur bei echter Änderung eingetragen. Die geprüfte ZIP (Download und
@@ -77,6 +83,7 @@ Bibliothek, beurteilen (sparsam CSDb), Empfehlungen an den Server schicken, Beri
 | `GET ?id=N` | Spiele (bearbeitete Fassung), Hinweise, Vergleich mit dem Bestand, Bildangaben |
 | `GET ?id=N&bild=images/…` | ein Bild des Beitrags |
 | `POST ?durchsicht=N` | JSON `{zusammenfassung, bericht, spiele: {sha1: {empfehlung, grund}}}` → `daten/<datei>.claude.json` |
+| `POST ?felder=N` | JSON `{spiele: {sha1: {kind, group, party, place, year, developer, quellen}}}` → nur leere Felder |
 | `POST ?texte=N` | JSON `{spiele: {sha1: {de, en}}}` → Bearbeitung mit „bearbeitet von Breadbin“, erledigt Textaufträge |
 
 **Assembly64 (lokal, nur lesen):** `tools/assembly64_index.py bauen` hasht die Dateien, die die App Assembly64 in

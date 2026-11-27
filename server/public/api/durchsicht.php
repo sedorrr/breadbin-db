@@ -7,6 +7,8 @@
 //   GET  ?id=N             → Beitrag N: Spiele (bearbeitete Fassung), Hinweise der Vorprüfung, Vergleich mit dem Bestand
 //   GET  ?id=N&bild=PFAD   → ein Bild aus Beitrag N
 //   POST ?durchsicht=N     → Empfehlungen ablegen (JSON: {zusammenfassung, bericht, spiele: {sha1: {empfehlung, grund}}})
+//   POST ?felder=N         → fehlende Angaben (Art, Gruppe, Party, Platz, Jahr, Mitwirkende) aus Assembly64/CSDb/pouet
+//                            als Bearbeitung ablegen; nur leere Felder, Art nur statt „Spiel“
 //   POST ?texte=N          → von Claude geschriebene Texte als Bearbeitung ablegen (JSON: {spiele: {sha1: {de, en}}});
 //                            nur fehlende Sprachen werden gefüllt, Spiel bekommt „bearbeitet von Breadbin“
 // Review endpoint for new contributions; separate read-only token that can only store recommendations.
@@ -58,6 +60,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_GET['texte'])) {
     }
     [$n, $weg] = claude_texte_ablegen($c, $b, pruefe_beitrag($c['daten_dir'] . '/' . $b['datei']), $daten['spiele']);
     json_antwort($n ? 200 : 422, ['ok' => $n > 0, 'id' => (int)$b['id'], 'texte' => $n, 'uebersprungen' => $weg]);
+}
+if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_GET['felder'])) {
+    $b = neuer_beitrag($c, (int)$_GET['felder']);
+    $daten = json_decode((string)file_get_contents('php://input', false, null, 0, 1048576), true);
+    if (!is_array($daten) || !is_array($daten['spiele'] ?? null)) {
+        json_antwort(400, ['ok' => false, 'fehler' => 'JSON {spiele: {sha1: {kind, group, party, place, year, developer, quellen}}} erwartet']);
+    }
+    [$n, $weg] = claude_felder_ablegen($c, $b, pruefe_beitrag($c['daten_dir'] . '/' . $b['datei']), $daten['spiele']);
+    json_antwort($n ? 200 : 422, ['ok' => $n > 0, 'id' => (int)$b['id'], 'felder' => $n, 'uebersprungen' => $weg]);
 }
 if ($_SERVER['REQUEST_METHOD'] !== 'GET') {
     json_antwort(405, ['ok' => false, 'fehler' => 'nur GET oder POST ?durchsicht / GET or POST ?durchsicht only']);
@@ -119,6 +130,7 @@ if (isset($_GET['id'])) {
             'bearbeitet' => isset($ed[$sha1]),
             'bearbeitet_von' => $ed[$sha1]['bearbeitet_von'] ?? [],
             'claude_texte' => $ed[$sha1]['claude_texte'] ?? null,
+            'claude_felder' => $ed[$sha1]['claude_felder'] ?? null,
             'textauftrag' => in_array((string)$sha1, auftraege($c, $b), true),
             'bestand' => $vg === null ? null : ['art' => $vg['art'], 'felder' => $vg['felder'], 'bilder' => array_keys($vg['bilder'])],
             'hinweise' => $vp['spiele'][$sha1] ?? [],

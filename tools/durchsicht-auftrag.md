@@ -46,6 +46,8 @@ Hausregeln der Gemeinschaftsdaten (CC BY-SA 4.0):
   Suche lokal mit `python3 tools/assembly64_index.py suche "<Titel>"`. (2) Erst danach, sparsam, CSDb selbst
   (höchstens fünf Abrufe je Lauf, z. B. `https://csdb.dk/search/?seinsel=releases&search=<Titel>` oder
   `https://csdb.dk/release/?id=<csdb_id>`; der Release-Typ steht dort, etwa „C64 Demo“ oder „C64 Game“).
+  Für eigene Nachfragen die Werkzeuge nutzen, sie halten Pausen und Obergrenzen ein: `python3 tools/csdb.py release <id>`,
+  `python3 tools/csdb.py suche "<Titel>"`, `python3 tools/pouet.py suche "<Titel>"` (pouet erst nach CSDb).
 - Texte beschreiben, bewerten nicht: keine Wertungen, keine Angaben aus Kommentaren, keine KI-Floskeln oder
   KI-Hinweise. Bei Cracks nur Gruppe und Trainer-Optionen nennen. Keine Links, schon gar keine zu Downloads/Cracks.
 - Jahr = Jahr der C64-Fassung (auch bei Umsetzungen). Genres aus der Genre-Liste der App.
@@ -110,7 +112,32 @@ In `beitrag.json` haben diese Spiele `"textauftrag": true`. Je Spiel DE und EN n
 Ablegen wie in 4a mit beiden Sprachen (`{"de": "…", "en": "…"}`). Der Auftrag ist damit erledigt; auf der Prüfseite
 steht „Texte von Claude geschrieben – bitte sichten“, mit „Annehmen“ gehen sie als „bearbeitet von Breadbin“ hinaus.
 
-Nach 4a/4b den Beitrag noch einmal holen (Schritt 2), damit der Bericht die Texte zeigt.
+### 4c. Fehlende Angaben bei Demos, Intros, Musik usw.
+
+`holen` sammelt für Nicht-Spiele (und als Spiel eingesandte, die laut Assembly64 keine sind) unter `angaben` einen
+Vorschlag für fehlende Felder – in der Reihenfolge **Assembly64 (lokal) → CSDb → pouet.net** (Nutzerentscheidung
+2026-11-27; CSDb und pouet nur, wenn vorher etwas offen bleibt, mit Obergrenze je Lauf). `herkunft` nennt je Feld die
+Quelle, `quellen` die gefundenen Einträge, `notiz` Abweichungen (z. B. „laut CSDb ein Cracktro“).
+
+Prüfe den Vorschlag: Passt der Eintrag (Titel, Gruppe, Jahr, Dateiname – bei CSDb stehen die Dateinamen unter
+`quellen.csdb.dateien`)? Liegt die Datei nur auf einer Partydiskette mit vielen Beiträgen, keine Art übernehmen. Was
+stimmt, als `~/.cache/breadbin-durchsicht/N/felder.json` ablegen:
+
+```json
+{"spiele": {"<sha1>": {"kind": "demo", "group": "…", "party": "…", "place": 2, "year": "…",
+                       "developer": "Code: … · Grafik: … · Musik: …", "quellen": "Assembly64, CSDb 105907"}}}
+```
+
+```bash
+python3 tools/durchsicht.py felder N ~/.cache/breadbin-durchsicht/N/felder.json
+```
+
+Der Server füllt nur leere Felder (Art nur statt „Spiel“; dann fallen Genres und Spielerzahl weg). Auf der Prüfseite
+steht „Angaben von Claude ergänzt: …“ mit den Quellen, in den Daten „bearbeitet von Breadbin“. Fehlende Texte bei
+Nicht-Spielen: wie 4a/4b; Gruppe, Party/Platz und Mitwirkende gehören auch in den Text (wie bei den eigenen
+Demo-Einträgen: kurzer sachlicher Absatz, am Ende die Mitwirkenden).
+
+Nach 4a–4c den Beitrag noch einmal holen (Schritt 2), damit der Bericht den neuen Stand zeigt.
 
 ## 5. Bericht aktualisieren
 

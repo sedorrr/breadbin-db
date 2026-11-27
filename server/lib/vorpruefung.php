@@ -786,3 +786,68 @@ function claude_texte_ablegen(array $c, array $b, array $erg, array $texte): arr
     auftraege_speichern($c, $b, $auf);
     return [$n, $weg];
 }
+
+/**
+ * Legt fehlende Angaben (aus Assembly64, CSDb, pouet) als Bearbeitung ab. $felder: [sha1 => ['kind'?, 'group'?,
+ * 'party'?, 'place'?, 'year'?, 'developer'?, 'quellen'?]]. Gefüllt wird nur, was in der aktuellen Fassung leer ist; die
+ * Art nur, wenn bisher „Spiel“ gilt (dann fallen Genres und Spielerzahl weg). Rückgabe: [Zahl Felder, übersprungen].
+ */
+function claude_felder_ablegen(array $c, array $b, array $erg, array $felder): array
+{
+    $ed = edits($c, $b);
+    $n = 0;
+    $weg = [];
+    foreach ($felder as $sha1 => $f) {
+        if (!isset($erg['spiele'][$sha1]) || !is_array($f)) {
+            $weg[] = "$sha1: nicht im Beitrag";
+            continue;
+        }
+        $g = mit_edits($erg['spiele'][$sha1], $ed[$sha1] ?? null);
+        $e = $ed[$sha1] ?? [];
+        $gesetzt = [];
+        $kind = strtolower(trim((string)($f['kind'] ?? '')));
+        if ($kind !== '') {
+            if (!in_array($kind, EDIT_ARTEN, true) || $kind === 'game') {
+                $weg[] = "$sha1: Art „{$kind}“ nicht erlaubt";
+            } elseif (vp_art_von($g) !== 'game') {
+                $weg[] = "$sha1: Art ist schon angegeben";
+            } else {
+                $e['kind'] = $kind;
+                $e['genres'] = [];
+                $e['players'] = '';
+                $gesetzt[] = 'Art';
+            }
+        }
+        foreach (['group' => 'Gruppe', 'party' => 'Party', 'year' => 'Jahr', 'developer' => 'Mitwirkende'] as $feld => $name) {
+            $wert = trim(str_replace(["\r", "\n"], ' ', (string)($f[$feld] ?? '')));
+            if ($wert === '') {
+                continue;
+            }
+            if (trim((string)($g[$feld] ?? '')) !== '') {
+                $weg[] = "$sha1: $name ist schon angegeben";
+                continue;
+            }
+            $e[$feld] = mb_substr($wert, 0, $feld === 'year' ? 20 : 200);
+            $gesetzt[] = $name;
+        }
+        if (isset($f['place']) && $f['place'] !== '') {
+            $p = (int)$f['place'];
+            if ($p < 1 || $p > 999) {
+                $weg[] = "$sha1: Platz außerhalb 1–999";
+            } elseif (isset($g['place'])) {
+                $weg[] = "$sha1: Platz ist schon angegeben";
+            } else {
+                $e['place'] = $p;
+                $gesetzt[] = 'Platz';
+            }
+        }
+        if ($gesetzt) {
+            $e['claude_felder'] = ['felder' => array_values(array_unique(array_merge($e['claude_felder']['felder'] ?? [], $gesetzt))),
+                'quellen' => mb_substr(trim((string)($f['quellen'] ?? '')), 0, 300), 'zeit' => gmdate('Y-m-d\TH:i:s\Z')];
+            $ed[$sha1] = bearbeitet_von($e, vp_bearbeiter($c));
+            $n += count($gesetzt);
+        }
+    }
+    file_put_contents(edits_pfad($c, $b), json_encode($ed, JSON_UNESCAPED_UNICODE));
+    return [$n, $weg];
+}
