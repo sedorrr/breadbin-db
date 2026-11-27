@@ -6,6 +6,19 @@ Prüfseite. Du nimmst nichts an, lehnst nichts ab, schreibst nichts ins Reposito
 
 Daten-Repo: `/Volumes/WD8TB/Claude-Workspace/Breadbin-DB`. Alle Befehle von dort aus.
 
+## Arbeitsregeln (sonst fragt jeder Lauf nach Freigaben)
+
+- In der Shell **nur diese festen Befehle**, jeder einzeln (kein `&&`, `;`, `|`, keine Umleitung, kein `cd`):
+  `python3 tools/durchsicht.py …`, `python3 tools/durchsicht_bericht.py …`, `python3 tools/csdb.py …`,
+  `python3 tools/pouet.py …`, `python3 tools/assembly64_index.py suche …` – immer mit vollem Pfad aufrufen, also
+  `python3 /Volumes/WD8TB/Claude-Workspace/Breadbin-DB/tools/durchsicht.py offen` usw. (in dieser Anleitung kurz
+  `tools/…` geschrieben). Die Werkzeuge brauchen kein bestimmtes Arbeitsverzeichnis.
+- **Keine eigenen Skripte** (kein `python3 - <<…`, kein `python3 -c`, kein `jq`, kein `cat … | …`): Inhalte mit
+  `python3 tools/durchsicht.py liste N [--nur auftrag,demo] [--alle]` ansehen oder `beitrag.json` mit dem
+  Read-Werkzeug lesen; Bilder mit dem Read-Werkzeug ansehen.
+- **JSON-Dateien** (`empfehlung.json`, `texte.json`, `felder.json`) mit dem **Write-Werkzeug** schreiben, nie per Shell.
+- Web-Abfragen nur über `csdb.py`/`pouet.py` (Pausen und Obergrenzen sind dort eingebaut); keine eigenen `curl`-Aufrufe.
+
 ## 1. Warten Beiträge? (eine Anfrage)
 
 ```bash

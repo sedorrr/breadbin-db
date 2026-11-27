@@ -6,6 +6,7 @@ Ablauf (Anleitung: server/VORPRUEFUNG.md):
     python3 tools/durchsicht.py holen N [--ziel DIR]  # Beitrag N als JSON (+ Bilder) holen, ScreenScraper-Abgleich
                                                       # (Standard-Ziel: ~/.cache/breadbin-durchsicht/N)
     python3 tools/durchsicht.py senden N DATEI.json   # Empfehlungen an die Prüfseite schicken
+    python3 tools/durchsicht.py liste N [--nur auftrag,demo]  # Kurzübersicht des geholten Beitrags (ohne Netz)
     python3 tools/durchsicht.py felder N DATEI.json   # fehlende Angaben (Art, Gruppe, Party, Platz, Jahr, Mitwirkende)
                                                       # aus Assembly64/CSDb/pouet ablegen ({spiele: {sha1: {…}}})
     python3 tools/durchsicht.py texte N DATEI.json    # von Claude geschriebene Texte als Bearbeitung ablegen
@@ -331,6 +332,54 @@ def senden(a):
     return 0
 
 
+def liste(a):
+    """Kurzübersicht eines geholten Beitrags (aus ~/.cache/breadbin-durchsicht/N/beitrag.json, ohne Netz) – damit die
+    geplante Aufgabe keine eigenen Inline-Skripte braucht (die lösen bei jedem Lauf Rückfragen aus)."""
+    pfad = os.path.join(ARBEIT, str(a.id), "beitrag.json")
+    if not os.path.isfile(pfad):
+        sys.exit(f"{pfad} fehlt – zuerst: python3 tools/durchsicht.py holen {a.id}")
+    d = json.load(open(pfad, encoding="utf-8"))
+    print(f"Beitrag #{d['id']} vom {d['eingang']}, {len(d['spiele'])} Spiele" + (f", von {d['name']}" if d.get("name") else ""))
+    for h in d.get("angaben") or []:
+        print(f"  [{h['stufe']}] {h['text']}")
+    nur = set(a.nur.split(",")) if a.nur else None
+    for g in d["spiele"]:
+        passt = ("auftrag" in nur and g.get("textauftrag")) or ("demo" in nur and ((g.get("art") or "game") != "game"
+                                                                                   or g.get("angaben"))) if nur else True
+        if not passt:
+            continue
+        ct = g.get("claude_texte") or {}
+        status = "Textauftrag" if g.get("textauftrag") else ("Text von Claude" if ct else
+                                                              ("Text" if g["text_de"] or g["text_en"] else "ohne Text"))
+        print(f"\n{g['sha1']}  {g['title']}  [{g.get('art') or 'game'}]  {status}")
+        print(f"  Dateien: {', '.join(g.get('files') or [])} · {g.get('format', '')} · Jahr {g.get('year') or '–'}"
+              f" · {g.get('publisher') or '–'} · {', '.join(g.get('genres') or []) or '–'} · Spieler {g.get('players') or '–'}")
+        if g.get("zusatz"):
+            print(f"  Zusatz: {json.dumps(g['zusatz'], ensure_ascii=False)}")
+        if g.get("developer"):
+            print(f"  Mitwirkende: {g['developer']}")
+        for sp in ("de", "en"):
+            if g.get(f"text_{sp}"):
+                print(f"  {sp.upper()}: {g[f'text_{sp}'][:300]}{'…' if len(g[f'text_{sp}']) > 300 else ''}")
+        for h in g.get("hinweise") or []:
+            if h["stufe"] != "info" or a.alle:
+                print(f"  [{h['stufe']}] {h['text']}")
+        q = g.get("angaben")
+        if q:
+            if q["vorschlag"]:
+                print("  Vorschlag: " + json.dumps(q["vorschlag"], ensure_ascii=False) + "  Quellen: "
+                      + json.dumps(q["herkunft"], ensure_ascii=False))
+            for n in q.get("notiz") or []:
+                print(f"  Notiz: {n}")
+            if q.get("quellen", {}).get("csdb"):
+                r = q["quellen"]["csdb"]
+                print(f"  CSDb {r['id']}: {r['name']} · {r['typ']} · {r['datum']} · {', '.join(r['gruppen'])} · Dateien {', '.join(r['dateien'][:4])}")
+        for art, b in (g.get("bilder") or {}).items():
+            if b.get("datei"):
+                print(f"  Bild {art}: {b['datei']}")
+    return 0
+
+
 def felder(a):
     daten = json.load(open(a.datei, encoding="utf-8"))
     r = anfrage(f"felder={a.id}", json.dumps(daten, ensure_ascii=False).encode())
@@ -364,6 +413,11 @@ def main():
     s.add_argument("id", type=int)
     s.add_argument("datei")
     s.set_defaults(f=senden)
+    li = sub.add_parser("liste", help="Kurzübersicht eines geholten Beitrags (ohne Netz)")
+    li.add_argument("id", type=int)
+    li.add_argument("--nur", help="auftrag,demo – nur Spiele mit Textauftrag bzw. Nicht-Spiele")
+    li.add_argument("--alle", action="store_true", help="auch Info-Hinweise")
+    li.set_defaults(f=liste)
     f = sub.add_parser("felder")
     f.add_argument("id", type=int)
     f.add_argument("datei")
