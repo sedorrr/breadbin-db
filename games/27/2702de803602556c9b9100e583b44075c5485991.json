@@ -10,7 +10,7 @@
   ],
   "screenscraper_id": "36732",
   "title": "Super Cars",
-  "year": "1990",
+  "year": "1991",
   "publisher": "Gremlin Graphics",
   "developer": "Magnetic Fields",
   "genres": [
@@ -32,6 +32,12 @@
       "by": "Breadbin",
       "contribution": 22,
       "action": "added"
+    },
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 33,
+      "action": "changed"
     }
   ]
 }

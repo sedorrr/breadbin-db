@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "sha1": "2fb3bafb1dabd5b665def15e53550a3a3b9b0cfc",
+  "md5": "7ed0c9731b8cbe0ac56e09ac8898a24d",
+  "crc32": "5f66bd37",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "hungry-henry.d64"
+  ],
+  "title": "Hungry Henry",
+  "year": "2026",
+  "publisher": "Vesa Heikkinen",
+  "developer": "Vesa Heikkinen",
+  "genres": [
+    "Action / Labyrinth"
+  ],
+  "players": "1-2",
+  "synopsis": "Hungry Henry ist ein Labyrinth-Spiel: Henry ist ein kleiner Roboter mit großem Appetit, die Labyrinthe sind voller Energiekristalle, und die „Glitch Bugs“ wollen nichts davon abgeben. Um ein Labyrinth zu räumen, muss Henry alle Kristalle fressen. Es gibt 30 Labyrinthe, nach jedem fünften folgt eine Bonusstufe. Jeder Kristall lädt Henry auf; bei vollem Anzeiger löst Feuer den „Overcharge“ aus, einen Spurt geradewegs durch die Wände. Batterien machen die Käfer verwundbar (200, 400, 800, 1600 Punkte). Sonderobjekte sind Magnet, Schneeflocke, Blitz, Schild, Stecker, Herz und Edelstein; ab Labyrinth 16 gibt es Teleporter, ab 26 kurze Stromausfälle.\n\nGesteuert wird mit dem Joystick in Port 2 (Feuer = Overcharge), zweiter Spieler an Port 1 als Harry, im Koop- oder Versus-Modus; es gibt drei Schwierigkeitsgrade (9, 7 oder 5 Leben), je mit eigener Bestenliste (die Diskette speichert sie, Datei HH SCORES). Jedes Labyrinth hat ein vierbuchstabiges Passwort. Ein Infobildschirm mit fünf Seiten liegt als Datei INSTRUCTIONS auf der Diskette.\n\nVon Vesa Heikkinen (Vesa_Hei), 2026.",
+  "texts": {
+    "de": "Hungry Henry ist ein Labyrinth-Spiel: Henry ist ein kleiner Roboter mit großem Appetit, die Labyrinthe sind voller Energiekristalle, und die „Glitch Bugs“ wollen nichts davon abgeben. Um ein Labyrinth zu räumen, muss Henry alle Kristalle fressen. Es gibt 30 Labyrinthe, nach jedem fünften folgt eine Bonusstufe. Jeder Kristall lädt Henry auf; bei vollem Anzeiger löst Feuer den „Overcharge“ aus, einen Spurt geradewegs durch die Wände. Batterien machen die Käfer verwundbar (200, 400, 800, 1600 Punkte). Sonderobjekte sind Magnet, Schneeflocke, Blitz, Schild, Stecker, Herz und Edelstein; ab Labyrinth 16 gibt es Teleporter, ab 26 kurze Stromausfälle.\n\nGesteuert wird mit dem Joystick in Port 2 (Feuer = Overcharge), zweiter Spieler an Port 1 als Harry, im Koop- oder Versus-Modus; es gibt drei Schwierigkeitsgrade (9, 7 oder 5 Leben), je mit eigener Bestenliste (die Diskette speichert sie, Datei HH SCORES). Jedes Labyrinth hat ein vierbuchstabiges Passwort. Ein Infobildschirm mit fünf Seiten liegt als Datei INSTRUCTIONS auf der Diskette.\n\nVon Vesa Heikkinen (Vesa_Hei), 2026.",
+    "en": "Hungry Henry is a maze game: Henry is a small robot with a big appetite, the mazes are full of energy crystals, and the glitch bugs do not want to share. To clear a maze Henry must eat every crystal. There are 30 mazes, with a bonus stage after every fifth. Each crystal charges Henry up; when the meter is full, fire triggers the \"Overcharge\", a dash straight through the walls. Batteries make the bugs vulnerable (200, 400, 800, 1600 points). Special objects are magnet, snowflake, bolt, shield, plug, heart and gem; from maze 16 there are teleport pads, from 26 brief power cuts.\n\nControl is by joystick in port 2 (fire = overcharge), with a second player on port 1 as Harry, in co-op or versus mode; there are three skill levels (9, 7 or 5 lives), each with its own top-five table (saved on the disk, file HH SCORES). Every maze has a four-letter password. A five-page info screen is included on the disk as the file INSTRUCTIONS.\n\nBy Vesa Heikkinen (Vesa_Hei), 2026."
+  },
+  "images": {
+    "ss": "images/ba/ba3a075c27178428994b6552881f472cb37f4242.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 33,
+      "action": "added"
+    }
+  ]
+}
