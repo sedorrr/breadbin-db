@@ -1,6 +1,6 @@
 {
-  "version": "0.9.4",
-  "url": "https://github.com/sedorrr/breadbin/releases/latest",
-  "notes_de": "BMC64 und TeensyROM (ungetestet) als Geräte, mehrere Emulatoren samt Denise, REU-Abbild beim Start, Scan meldet neue und fehlende Dateien",
-  "notes_en": "BMC64 and TeensyROM (untested) as devices, several emulators incl. Denise, REU image on start, scan reports new and missing files"
+  "version": "0.9.5",
+  "url": "https://breadbin.8bitcavern.de",
+  "notes_de": "BMX als Gerät, Knopf „Spiel beenden“, Geräte nach IP-Wechsel wiederfinden, VICE mit Diskwechsel und Bildschirmfoto, Demos und Intros, schnellere Suche",
+  "notes_en": "BMX as a device, “Stop game” button, find devices again after an IP change, VICE disk swap and screenshots, demos and intros, faster search"
 }
