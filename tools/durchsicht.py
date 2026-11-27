@@ -18,7 +18,7 @@ Die ScreenScraper-Prüfung geht nur hier, nicht auf dem Server: Die eigene Bibli
 von ScreenScraper geholt hat. Ein eingereichter Text, der einem davon weitgehend gleicht, ist nicht teilbar.
 Review helper for new contributions; one request per call, so it is safe for the hoster's rate limits.
 """
-import argparse, json, os, re, sqlite3, subprocess, sys, urllib.error, urllib.parse, urllib.request
+import argparse, json, os, re, sqlite3, ssl, subprocess, sys, urllib.error, urllib.parse, urllib.request
 
 # Arbeitsordner außerhalb des Repositorys (tools/pruefen.py duldet keine fremden Ordner im Repo).
 ARBEIT = os.environ.get("BREADBIN_DURCHSICHT_DIR", os.path.join(os.path.expanduser("~"), ".cache", "breadbin-durchsicht"))
@@ -37,12 +37,25 @@ def schluessel():
     return t
 
 
+def tls_kontext():
+    """Python von python.org bringt auf macOS keine Stammzertifikate mit: certifi, sonst die des Systems."""
+    try:
+        import certifi
+        return ssl.create_default_context(cafile=certifi.where())
+    except ImportError:
+        pass
+    for p in ("/etc/ssl/cert.pem", "/etc/ssl/certs/ca-certificates.crt"):
+        if os.path.isfile(p):
+            return ssl.create_default_context(cafile=p)
+    return ssl.create_default_context()
+
+
 def anfrage(abfrage, daten=None, roh=False):
     url = os.environ.get("BREADBIN_DURCHSICHT_URL", STANDARD_URL) + "?" + abfrage
     req = urllib.request.Request(url, data=daten, method="POST" if daten is not None else "GET", headers={
         "X-Breadbin-Token": schluessel(), "User-Agent": AGENT, "Content-Type": "application/json"})
     try:
-        with urllib.request.urlopen(req, timeout=60) as r:
+        with urllib.request.urlopen(req, timeout=60, context=tls_kontext()) as r:
             inhalt = r.read()
     except urllib.error.HTTPError as e:
         inhalt = e.read()
@@ -51,6 +64,8 @@ def anfrage(abfrage, daten=None, roh=False):
         except Exception:  # noqa: BLE001
             fehler = inhalt[:200].decode("utf-8", "replace")
         sys.exit(f"HTTP {e.code}: {fehler}")
+    except urllib.error.URLError as e:
+        sys.exit(f"Server nicht erreichbar: {e.reason}")
     return inhalt if roh else json.loads(inhalt)
 
 
