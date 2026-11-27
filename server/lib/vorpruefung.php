@@ -269,16 +269,19 @@ function vp_art(array $g, string $de, string $en, array &$h): void
             vp_hinweis($h, 'info', 'art', 'Gruppe fehlt (Feld group)');
         }
     }
-    // Felder für Nicht-Spiele (abgestimmt mit dem App-Teil): group, party (Text), place (ganze Zahl ≥ 1)
+    // Felder für Nicht-Spiele (wie die App, docs/Austauschformat.md): group, party (Text ≤ 200), place (1–999)
     foreach (['group', 'party'] as $f) {
         if (isset($g[$f]) && !is_string($g[$f])) {
             vp_hinweis($h, 'gelb', 'art', "Feld $f muss Text sein");
         } elseif (isset($g[$f])) {
+            if (mb_strlen($g[$f]) > 200) {
+                vp_hinweis($h, 'gelb', 'art', "Feld $f länger als 200 Zeichen (die App liest das nicht ein)");
+            }
             vp_inhalt($f === 'group' ? 'Gruppe' : 'Party', $g[$f], $h);
         }
     }
-    if (isset($g['place']) && !(is_int($g['place']) && $g['place'] >= 1)) {
-        vp_hinweis($h, 'gelb', 'art', 'Platz (place) muss eine ganze Zahl ab 1 sein');
+    if (isset($g['place']) && !(is_int($g['place']) && $g['place'] >= 1 && $g['place'] <= 999)) {
+        vp_hinweis($h, 'gelb', 'art', 'Platz (place) muss eine ganze Zahl von 1 bis 999 sein');
     }
     if ($art === 'game' && (isset($g['party']) || isset($g['place']))) {
         vp_hinweis($h, 'info', 'art', 'Spiel mit Party/Platz – Wettbewerbsbeitrag (Game Compo) oder doch eine Demo?');
