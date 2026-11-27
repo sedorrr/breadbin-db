@@ -16,6 +16,28 @@ EXTS = {"png": b"\x89PNG", "jpg": b"\xff\xd8\xff", "gif": b"GIF8", "webp": b"RIF
 MAX_IMAGE = 8 * 1024 * 1024
 MAX_JSON = 256 * 1024
 TEXT_FIELDS = ["title", "year", "publisher", "developer", "players", "synopsis"]
+DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+
+
+def check_history(rel, hist):
+    """Herkunft eines Eintrags: [{date, by, action, contribution?}], trägt tools/uebernehmen.py selbst ein."""
+    if not isinstance(hist, list) or not hist:
+        bad(rel, "history muss eine nicht leere Liste sein / must be a non-empty list")
+        return
+    for i, h in enumerate(hist):
+        if not isinstance(h, dict) or set(h) - {"date", "by", "action", "contribution"}:
+            bad(rel, f"history[{i}]: nur date, by, action, contribution / only date, by, action, contribution")
+            continue
+        if not DATE.match(str(h.get("date", ""))):
+            bad(rel, f"history[{i}].date muss JJJJ-MM-TT sein / must be YYYY-MM-DD")
+        if not isinstance(h.get("by"), str) or not h["by"].strip() or len(h["by"]) > 100:
+            bad(rel, f"history[{i}].by: Name (höchstens 100 Zeichen) / name (max. 100 characters)")
+        if h.get("action") not in ("added", "changed"):
+            bad(rel, f"history[{i}].action: added oder changed / added or changed")
+        if "contribution" in h and not (isinstance(h["contribution"], int) and h["contribution"] > 0):
+            bad(rel, f"history[{i}].contribution muss eine positive Zahl sein / must be a positive number")
+    if isinstance(hist[0], dict) and hist[0].get("action") != "added":
+        bad(rel, "history beginnt mit added / history starts with added")
 
 problems = []
 
@@ -94,6 +116,8 @@ def check_games():
                 bad(rel, "genres muss eine Liste von Texten sein / must be a list of strings")
             if not isinstance(g.get("files", []), list):
                 bad(rel, "files muss eine Liste sein / must be a list")
+            if "history" in g:
+                check_history(rel, g["history"])
             sid = g.get("screenscraper_id", "")
             if sid and not (isinstance(sid, str) and sid.isdigit()):
                 bad(rel, "screenscraper_id nur Ziffern / digits only")

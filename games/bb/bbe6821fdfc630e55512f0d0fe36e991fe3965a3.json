@@ -21,5 +21,13 @@
   "texts": {
     "de": "Ein Karatekämpfer dringt in die Festung des Kriegsherrn Akuma ein, um die entführte Prinzessin Mariko zu befreien. Auf dem Weg stellen sich ihm nacheinander Wachen im Zweikampf, dazu ein Adler; wer in Laufhaltung statt Kampfstellung auf einen Gegner trifft, ist verloren. Die per Rotoskopie entstandenen, sehr flüssigen Bewegungen und die filmischen Zwischenszenen machten das Spiel bekannt.\n\nErschien auf Diskette. Gesteuert wird per Joystick. Daneben gibt es eine MultiLoad64-Umsetzung als EasyFlash-Modul von $olo1870.\n\nDesign: Jordan Mechner · Code (C64): Robert Cook · Grafik: Gene Portwood, Lauren Elliott · Musik: Francis Mechner",
     "en": "A karate fighter infiltrates the fortress of the warlord Akuma to free the kidnapped Princess Mariko. Along the way, guards confront him one after another in single combat, as well as an eagle; meeting an opponent in running posture instead of fighting stance is fatal. The very smooth movements created by rotoscoping and the cinematic cut scenes made the game famous.\n\nReleased on disk. Controlled by joystick. There is also a MultiLoad64 conversion as an EasyFlash cartridge by $olo1870.\n\nDesign: Jordan Mechner · Code (C64): Robert Cook · Graphics: Gene Portwood, Lauren Elliott · Music: Francis Mechner"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-09",
+      "by": "Breadbin",
+      "contribution": 9,
+      "action": "added"
+    }
+  ]
 }

@@ -56,8 +56,19 @@ def benutzte_bilder():
     return used
 
 
-def einspielen(daten):
-    """Spielt eine Austauschdatei ein. Gibt (neu, geändert, unverändert, bilder) zurück."""
+def ohne_herkunft(g):
+    return {k: v for k, v in g.items() if k != "history"}
+
+
+def json_text(g):
+    return (json.dumps(g, ensure_ascii=False, indent=2) + "\n").encode("utf-8")
+
+
+def einspielen(daten, eintrag=None):
+    """Spielt eine Austauschdatei ein. Gibt (neu, geändert, unverändert, bilder) zurück.
+
+    `eintrag` ({date, by, contribution?}) kommt als Herkunft (Feld `history`) an jedes neue bzw. geänderte Spiel; eine
+    mitgeschickte `history` wird verworfen – die Herkunft trägt nur dieses Werkzeug ein."""
     z = zipfile.ZipFile(io.BytesIO(daten))
     namen = z.namelist()
     praefix = next((n[: -len("breadbin-share.json")] for n in namen if re.match(r"^([^/]+/)?breadbin-share\.json$", n)),
@@ -85,13 +96,23 @@ def einspielen(daten):
         alt = open(ziel, "rb").read() if os.path.isfile(ziel) else None
         if rel.startswith("images/"):
             bilder += alt is None
-        elif alt is None:
-            neu += 1
-        elif json.loads(alt) == json.loads(inhalt):
-            gleich += 1
-            continue  # nur andere Schreibweise (Einrückung, Reihenfolge): Datei im Repository lassen
         else:
-            geaendert += 1
+            g = ohne_herkunft(json.loads(inhalt))
+            vorher = json.loads(alt) if alt is not None else None
+            if vorher is not None and ohne_herkunft(vorher) == g:
+                gleich += 1
+                continue  # gleicher Inhalt (nur andere Schreibweise): Datei samt Herkunft im Repository lassen
+            if vorher is None:
+                neu += 1
+            else:
+                geaendert += 1
+            if eintrag:
+                hist = list(vorher.get("history") or []) if vorher else []
+                hist.append({**eintrag, "action": "changed" if hist else "added"})
+                g["history"] = hist
+            elif vorher and vorher.get("history"):
+                g["history"] = vorher["history"]
+            inhalt = json_text(g)
         if alt != inhalt:
             os.makedirs(os.path.dirname(ziel), exist_ok=True)
             with open(ziel, "wb") as f:
@@ -111,10 +132,27 @@ def zuruecksetzen():
     git("clean", "-fdq", "--", "games", "images", check=False)
 
 
-def uebernehmen(nr, daten, name=""):
-    """Ein Beitrag → ein Commit. Gibt True zurück, wenn etwas committet wurde oder nichts zu tun war."""
+def einsender(name):
+    """Angezeigter Name eines Einsenders: Schreibvarianten aus tools/einsender.json zusammenfassen, leer = „anonym“."""
+    name = re.sub(r"\s+", " ", name or "").strip()[:100]
     try:
-        neu, geaendert, gleich, bilder = einspielen(daten)
+        alias = json.load(open(os.path.join(ROOT, "tools", "einsender.json"), encoding="utf-8"))
+    except FileNotFoundError:
+        alias = {}
+    for key, val in alias.items():
+        if key.lower() == name.lower():
+            return val
+    return name or "anonym"
+
+
+def uebernehmen(nr, daten, name="", datum=None):
+    """Ein Beitrag → ein Commit. Gibt True zurück, wenn etwas committet wurde oder nichts zu tun war."""
+    import datetime
+    eintrag = {"date": datum or datetime.date.today().isoformat(), "by": einsender(name)}
+    if nr:
+        eintrag["contribution"] = nr
+    try:
+        neu, geaendert, gleich, bilder = einspielen(daten, eintrag)
     except Exception as e:  # noqa: BLE001
         zuruecksetzen()
         zusammenfassung(f"- ✗ Beitrag {nr}: nicht lesbar / unreadable: {e}")

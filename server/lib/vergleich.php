@@ -128,6 +128,25 @@ function vergleiche(array $neu, ?array $alt): array
     return ['art' => ($felder || $bilder) ? 'geaendert' : 'gleich', 'felder' => $felder, 'bilder' => $bilder];
 }
 
+/** Herkunft eines Eintrags im Stand als Text: „aufgenommen am … von …, zuletzt geändert am … von …“ ('' ohne Angabe). */
+function herkunft_text(?array $g): string
+{
+    $h = is_array($g['history'] ?? null) ? array_values($g['history']) : [];
+    if (!$h) {
+        return '';
+    }
+    $teil = function (array $e): string {
+        $d = preg_match('/^(\d{4})-(\d{2})-(\d{2})$/', (string)($e['date'] ?? ''), $m) ? "$m[3].$m[2].$m[1]" : '?';
+        $nr = isset($e['contribution']) ? ' (Beitrag ' . (int)$e['contribution'] . ')' : '';
+        return 'am ' . $d . ' von ' . (string)($e['by'] ?? '?') . $nr;
+    };
+    $text = 'aufgenommen ' . $teil($h[0]);
+    if (count($h) > 1) {
+        $text .= ', zuletzt geändert ' . $teil($h[count($h) - 1]);
+    }
+    return $text;
+}
+
 /** Bild aus dem Stand lesen (für die Gegenüberstellung alt/neu); null, wenn nicht vorhanden. */
 function stand_bild(array $c, string $bild): ?string
 {

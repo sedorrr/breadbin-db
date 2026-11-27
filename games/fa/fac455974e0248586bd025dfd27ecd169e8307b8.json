@@ -21,5 +21,13 @@
   "texts": {
     "de": "Horizontal scrollendes Unterwasser-Shoot'em-up: Vor jedem Einsatz stellt der Spieler in einem Laden aus mehreren Schiffstypen, Waffen und Satelliten seine Flotte zusammen. Danach geht es durch acht Abschnitte mit Meeresgegnern, Stationen und großen Endgegnern. Das freie Zusammenstellen der Ausrüstung hebt das Spiel von vielen Genrekollegen ab.\n\nDiese Fassung ist eine MultiLoad64-Umsetzung von $olo1870 als EasyFlash-Modul; die Nachladeteile des Originals kommen aus dem Modul statt von Diskette.\n\nCode: Jörg Prenzing · Grafik: Andreas Escher · Musik: Michael Hendriks, Adam Bulka",
     "en": "Horizontally scrolling underwater shoot 'em up: before each mission the player assembles a fleet in a shop from several ship types, weapons and satellites. Then it is on through eight sections with sea creatures, stations and large bosses. The free choice of equipment sets the game apart from many others in the genre.\n\nThis version is a MultiLoad64 conversion by $olo1870 as an EasyFlash cartridge; the multi-load parts of the original come from the cartridge instead of from disk.\n\nCode: Jörg Prenzing · Graphics: Andreas Escher · Music: Michael Hendriks, Adam Bulka"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-09",
+      "by": "Breadbin",
+      "contribution": 10,
+      "action": "added"
+    }
+  ]
 }

@@ -22,5 +22,13 @@
   "texts": {
     "de": "Ein augenzwinkerndes Mehrkampfspiel, das die Olympischen Spiele auf einen fernen Planeten verlegt und von außerirdischen Teilnehmern bestreiten lässt. Die fünf Disziplinen heißen 100-Meter-Schlängeln, Weltraumhockey, Kopfwerfen, Metamorph-Marathon und Psycho-Judo und haben jeweils eigene Steuerungen. Statt nur am Joystick zu rütteln, verlangen manche Wettbewerbe Gefühl und Taktik. Zu zweit kann gegeneinander angetreten werden.\n\nDie C64-Fassung erschien 1987 bei Activision auf Kassette und Diskette und lädt die Disziplinen nach. Gesteuert wird per Joystick in Port 2. Neben dem Original gibt es EasyFlash-Umsetzungen als Modul (MultiLoad64 von $olo1870).\n\nGrafik: Martin Chatfield",
     "en": "A tongue-in-cheek multi-event game that moves the Olympics to a distant planet, contested by alien athletes. The five events are the 100 metre slither, space hockey, head throwing, the metamorph marathon and psychic judo, each with its own controls. Rather than simple joystick waggling, some events call for finesse and tactics. Two players can compete against each other.\n\nThe C64 version was released by Activision in 1987 on tape and disk and loads the events separately. It is controlled with a joystick in port 2. Besides the original there are EasyFlash cartridge conversions (MultiLoad64 by $olo1870).\n\nGraphics: Martin Chatfield"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-13",
+      "by": "Breadbin",
+      "contribution": 13,
+      "action": "added"
+    }
+  ]
 }

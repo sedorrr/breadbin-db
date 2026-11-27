@@ -25,5 +25,19 @@
   "images": {
     "ss": "images/6f/6febd20b23e310d4572d7683a00b5bf7804b1110.png",
     "sstitle": "images/b3/b33dd2c57a1969ce1900aa35927c937c48ae74bd.png"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-09",
+      "by": "Breadbin",
+      "contribution": 8,
+      "action": "added"
+    },
+    {
+      "date": "2026-11-11",
+      "by": "Breadbin",
+      "contribution": 11,
+      "action": "changed"
+    }
+  ]
 }

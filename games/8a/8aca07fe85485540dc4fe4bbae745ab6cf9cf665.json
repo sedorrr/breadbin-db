@@ -22,5 +22,13 @@
   "texts": {
     "de": "Der Barbar Hegor zieht durch Höhlen und unterirdische Hallen, um seinen Bruder, den Zauberer Necron, zu besiegen. Gesteuert wird über eine Symbolleiste am unteren Bildrand: Links und rechts bewegen die Figur, über die Symbole werden Springen, Kämpfen, Bogenschießen, Laufen oder Fliehen gewählt. Fallen und Gegner verlangen jeweils die passende Aktion. Es handelt sich um das Psygnosis-Spiel, nicht um das gleichnamige Kampfspiel von Palace Software.\n\nDiese Datei ist ein Bandabbild (T64) aus einer Sammlung, eine gecrackte Fassung mit Trainern und Anleitungsdatei; Joystick in Port 2.",
     "en": "The barbarian Hegor travels through caves and underground halls to defeat his brother, the sorcerer Necron. Control is via an icon bar at the bottom of the screen: left and right move the character, and the icons select jumping, fighting, archery, running or fleeing. Traps and enemies each require the appropriate action. This is the Psygnosis game, not the fighting game of the same name by Palace Software.\n\nThis file is a tape image (T64) from a collection, a cracked version with trainers and an instructions file; joystick in port 2."
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-09",
+      "by": "Breadbin",
+      "contribution": 9,
+      "action": "added"
+    }
+  ]
 }

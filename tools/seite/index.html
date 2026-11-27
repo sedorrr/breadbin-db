@@ -126,6 +126,7 @@ const EN = {
   ph: "Title, publisher, developer, genre, year …", unknown: "unknown",
   n: (a, b) => b === undefined ? `${a} games` : `${a} of ${b} games`,
   dev: "Developer", players: "Players", noimg: "no picture",
+  added: "Added", changed: "last changed", by: "by",
 };
 const GENRE_EN = { "Plattform": "Platform", "Jump 'n' Run": "Run & Jump", "Vertikal": "Vertical", "Labyrinth": "Maze",
   "Abenteuer": "Adventure", "Breakout Spiele": "Breakout games", "Grafik": "Graphics", "Strategie": "Strategy", "Fallen": "Falling blocks",
@@ -134,7 +135,8 @@ const GENRE_EN = { "Plattform": "Platform", "Jump 'n' Run": "Run & Jump", "Verti
   "Geschicklichkeit": "Skill", "Sammlung": "Compilation", "Lernspiel": "Educational" };
 const tg = (g) => (lang === "en" ? g.split(" / ").map((p) => GENRE_EN[p] ?? p).join(" / ") : g);
 const DE = { n: (a, b) => b === undefined ? `${a} Spiele` : `${a} von ${b} Spielen`, unknown: "unbekannt",
-  dev: "Entwicklung", players: "Spieler", noimg: "kein Bild" };
+  dev: "Entwicklung", players: "Spieler", noimg: "kein Bild",
+  added: "Aufgenommen", changed: "zuletzt geändert", by: "von" };
 let lang = (navigator.language || "de").slice(0, 2) === "de" ? "de" : "en";
 try { lang = localStorage.getItem("lang") || lang; } catch { /* egal */ }
 const T = (k) => (lang === "en" ? EN[k] : DE[k]);
@@ -211,6 +213,9 @@ function text(e) {
   return `<p lang="${lang === "en" ? "de" : "en"}">${esc(other)}</p><p class="sub">${lang === "en" ? "Description only available in German." : "Beschreibung nur auf Englisch vorhanden."}</p>`;
 }
 
+// Datum JJJJ-MM-TT je nach Sprache.
+const fdate = (d) => { const [y, m, t] = String(d).split("-"); return lang === "en" ? `${y}-${m}-${t}` : `${t}.${m}.${y}`; };
+
 function card(e) {
   const img = e.sstitle || e.ss;
   const sub = [e.y, e.p].filter(Boolean).map(esc).join(" · ");
@@ -226,6 +231,7 @@ function card(e) {
       ${e.sstitle && e.ss ? `<div class="shots2"><img loading="lazy" alt="" src="${esc(e.sstitle)}"><img loading="lazy" alt="" src="${esc(e.ss)}"></div>` : ""}
       ${text(e)}
       <div class="sub">${[e.d && `${T("dev")}: ${esc(e.d)}`, e.pl && `${T("players")}: ${esc(e.pl)}`].filter(Boolean).join(" · ")}</div>
+      ${e.a ? `<div class="sub">${T("added")} ${fdate(e.a[0])} ${T("by")} ${esc(e.a[1])}${e.c ? ` · ${T("changed")} ${fdate(e.c[0])} ${T("by")} ${esc(e.c[1])}` : ""}</div>` : ""}
       <div class="files">${e.v.map((v) => `${esc(v.n)} · ${esc(v.f)} · ${nf(v.z)} B · SHA-1 ${esc(v.h)}`).join("<br>")}</div>
     </div>
   </article>`;

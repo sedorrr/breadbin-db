@@ -27,5 +27,13 @@
   },
   "more_images": {
     "ss2": "images/bf/bfd5b46bb9a31b2d38a541ada9f6050d7b60d26a.png"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-22",
+      "by": "Breadbin",
+      "contribution": 22,
+      "action": "added"
+    }
+  ]
 }

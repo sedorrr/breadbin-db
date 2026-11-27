@@ -10,5 +10,13 @@
   ],
   "title": "Test Drive II",
   "year": "1989",
-  "publisher": "Accolade"
+  "publisher": "Accolade",
+  "history": [
+    {
+      "date": "2026-11-24",
+      "by": "Rumpelkammer",
+      "contribution": 25,
+      "action": "added"
+    }
+  ]
 }

@@ -20,5 +20,19 @@
   "images": {
     "ss": "images/0f/0f386e132665c9f8ad94959925f13a69efc6a632.png",
     "sstitle": "images/aa/aafaf2e87dda8fdb96ead43d56f906a4b6918850.png"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-21",
+      "by": "Rumpelkammer",
+      "contribution": 19,
+      "action": "added"
+    },
+    {
+      "date": "2026-11-24",
+      "by": "Rumpelkammer",
+      "contribution": 25,
+      "action": "changed"
+    }
+  ]
 }

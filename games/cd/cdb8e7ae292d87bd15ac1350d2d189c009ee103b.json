@@ -21,5 +21,13 @@
   "texts": {
     "de": "Deadline war Infocoms erster Kriminalfall: Der reiche Marshall Robner liegt tot in seinem verschlossenen Arbeitszimmer, und die Polizei hält es für Selbstmord. Als Ermittler hat der Spieler zwölf Stunden Spielzeit, um das Anwesen zu durchsuchen, Spuren zu sichern, Verdächtige zu befragen und zu beobachten, was sie tun. Die Figuren bewegen sich nach eigenem Zeitplan durch das Haus, sodass man zur richtigen Zeit am richtigen Ort sein muss. Am Ende reicht ein Verdacht nicht, es braucht Beweise für eine Verhaftung.\n\nErschien als reines Textabenteuer bei Infocom für zahlreiche Systeme, darunter den C64 auf Diskette; beigelegt waren eine Ermittlungsakte mit Vernehmungsprotokollen, Fotos und Laborbefunden, die zum Lösen gebraucht werden. Gespielt wird über die Tastatur.\n\nAutor: Marc Blank",
     "en": "Deadline was Infocom's first murder mystery: wealthy Marshall Robner lies dead in his locked study, and the police believe it was suicide. As the investigator, the player has twelve hours of game time to search the estate, secure evidence, question suspects and observe what they do. The characters move through the house on their own schedules, so being in the right place at the right time matters. In the end suspicion is not enough; an arrest requires evidence.\n\nReleased as a pure text adventure by Infocom for numerous systems, including the C64 on disk; it came with a case dossier of interview transcripts, photos and lab reports that are needed to solve it. It is played with the keyboard.\n\nAuthor: Marc Blank"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-13",
+      "by": "Breadbin",
+      "contribution": 15,
+      "action": "added"
+    }
+  ]
 }

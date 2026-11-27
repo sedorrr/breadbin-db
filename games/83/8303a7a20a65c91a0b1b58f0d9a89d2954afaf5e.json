@@ -21,5 +21,13 @@
   "texts": {
     "de": "Abschluss der ursprünglichen Zork-Trilogie: Der Abenteurer steigt in die tiefsten Bereiche des unterirdischen Reichs hinab, wo ein geheimnisvoller alter Mann wartet – der Dungeon Master. Anders als in den Vorgängern geht es nicht ums Schätzesammeln; stattdessen stellen Rätsel und Begegnungen Eigenschaften wie Mut, Klugheit und Großmut auf die Probe. Wer alle Prüfungen besteht, tritt am Ende selbst die Nachfolge des Dungeon Masters an. Zork III gilt als die nachdenklichste und eigenwilligste der drei Folgen.\n\nDie C64-Fassung erschien auf Diskette, auch in späteren Neuauflagen von Infocom. Das Spiel wird per Tastatur mit englischen Befehlen gesteuert.\n\nAutoren: Marc Blank, Dave Lebling",
     "en": "The conclusion of the original Zork trilogy: the adventurer descends into the deepest reaches of the underground empire, where a mysterious old man waits – the Dungeon Master. Unlike its predecessors, the game is not about collecting treasure; instead puzzles and encounters test qualities such as courage, wisdom and generosity. Whoever passes all the trials finally takes over as the Dungeon Master's successor. Zork III is regarded as the most thoughtful and unusual of the three parts.\n\nThe C64 version was released on disk, including later Infocom re-releases. The game is played via the keyboard with English commands.\n\nAuthors: Marc Blank, Dave Lebling"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-13",
+      "by": "Breadbin",
+      "contribution": 14,
+      "action": "added"
+    }
+  ]
 }

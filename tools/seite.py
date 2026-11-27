@@ -47,6 +47,14 @@ def main():
             for kind in ("sstitle", "ss"):
                 if imgs.get(kind) and not e.get(kind):
                     e[kind] = imgs[kind]
+            # Herkunft: früheste Aufnahme und letzte Änderung über alle Fassungen des Spiels.
+            hist = g.get("history") or []
+            if hist:
+                a, c = hist[0], hist[-1]
+                if not e.get("a") or a["date"] < e["a"][0]:
+                    e["a"] = [a["date"], a["by"]]
+                if len(hist) > 1 and (not e.get("c") or c["date"] > e["c"][0]):
+                    e["c"] = [c["date"], c["by"]]
             e["v"].append({"f": g.get("format", ""), "n": (g.get("files") or [""])[0], "h": g["sha1"],
                            "z": g.get("size", 0)})
     games = sorted(groups.values(), key=lambda e: e["t"].lower())
