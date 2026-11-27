@@ -197,14 +197,16 @@ function vp_art(array $g, string $de, string $en, array &$h): void
         'cracktro' => '/\b(crack ?intros?|cracktros?)\b/iu',
         'demo' => '/\b(demo|demos|onefiler|one-?filer|rolling demo|megademo|trackmo)\b/iu',
         'intro' => '/\b(intro|intros|4k|1k|256b|512b)\b/iu',
-        'music' => '/\b(music|musik|music ?disk|musik ?disk|musicdisk|musicdisc|sid|sids|sid ?tunes?|tune|tunes|soundtrack|music collection|musiksammlung)\b/iu',
+        'music' => '/\b(music|musik|music ?disk|musik ?disk|musicdisk|musicdisc|sids|sid ?tunes?|tune|tunes|soundtrack|music collection|musiksammlung)\b/iu',
         'tool' => '/\b(tool|tools|utility|utilities|editor|assembler|monitor|copier|kopierprogramm|packer|cruncher)\b/iu',
         'diskmag' => '/\b(disk ?mag|diskmag|mag64|magazin|magazine|newsletter)\b/iu',
         'graphics' => '/\b(gfx|graphics|pic|pics|picture|pictures|slide ?show|bild(er)?sammlung|grafik ?sammlung|koala|art ?disk|gfx ?collection|charset|font)\b/iu',
     ];
     $quellen = [
         'Titel' => preg_replace('/[^\p{L}\p{N}()\[\]]+/u', ' ', (string)($g['title'] ?? '')) ?? '',
-        'Datei' => preg_replace('/[^\p{L}\p{N}]+/u', ' ', implode(' ', array_map(fn($d) => (string)preg_replace('/\.[A-Za-z0-9]{1,4}$/', '', (string)$d), (array)($g['files'] ?? [])))) ?? '',
+        // Dateiname ohne Endung und ohne Zusätze in (), [] und {}, dann an Nicht-Buchstaben/Ziffern zerlegt (wie die App)
+        'Datei' => preg_replace('/[^\p{L}\p{N}]+/u', ' ', implode(' ', array_map(fn($d) => (string)preg_replace('/[\(\[\{][^\)\]\}]*[\)\]\}]/u', ' ',
+            (string)preg_replace('/\.[A-Za-z0-9]{1,4}$/', '', (string)$d)), (array)($g['files'] ?? [])))) ?? '',
         'Genre' => implode(' ', (array)($g['genres'] ?? [])),
     ];
     $gefunden = [];
@@ -212,6 +214,10 @@ function vp_art(array $g, string $de, string $en, array &$h): void
     if (preg_match('/[\[(]\s*(demo|preview)\b[^\])]*[\])]/iu', $quellen['Titel'], $m)) {
         vp_hinweis($h, 'info', 'vorab', "Probefassung eines Spiels („{$m[0]}“) – Art bleibt Spiel");
         $quellen['Titel'] = str_replace($m[0], '', $quellen['Titel']);
+    }
+    // Zusätze in (), [] und {} zählen nicht (wie die App): „Music v1“, „Gremlin Graphics“, „Music by …“
+    foreach (['Titel', 'Datei'] as $wo) {
+        $quellen[$wo] = (string)preg_replace('/[\(\[\{][^\)\]\}]*[\)\]\}]/u', ' ', $quellen[$wo]);
     }
     foreach ($quellen as $wo => $text) {
         foreach ($muster as $a => $re) {
