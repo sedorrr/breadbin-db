@@ -80,7 +80,8 @@ Begründung: ein bis zwei sachliche Sätze auf Deutsch.
 Fehlende Texte:
 - **Nur eine Sprache fehlt** und der vorhandene Text ist brauchbar (keine Ablehnung): Übersetze ihn ins Deutsche bzw.
   Englische – sinngemäß und vollständig, ohne neue Angaben, ohne Wertungen, Namen und Fachbegriffe wie im Original,
-  Stil wie die übrigen Einträge. Ablegen mit Schritt 4a. In der Begründung: „EN (bzw. DE) von Claude ergänzt“.
+  Stil wie die übrigen Einträge. Fest stehende englische Bezeichnungen bleiben stehen: „Single-Button“/„Single Button“
+  (nicht „Ein-Knopf“, also „Single-Button-Joystick“, „Single-Button-Steuerung“) und „2nd Button“ (Nutzerregel 2026-11-27). Ablegen mit Schritt 4a. In der Begründung: „EN (bzw. DE) von Claude ergänzt“.
 - **Beide Texte fehlen:** nichts schreiben, Empfehlung „nachbessern“, Begründung: „Keine Beschreibung – auf der
   Prüfseite ‚Texte von Claude schreiben lassen‘ wählen, dann schreibe ich DE und EN zur Sichtung.“ Erst ein Auftrag
   des Betreibers (Schritt 4b) löst das Schreiben aus.
@@ -163,17 +164,29 @@ Nach 4a–4c den Beitrag noch einmal holen (Schritt 2), damit der Bericht den ne
 ## 5. Bericht aktualisieren
 
 Alle Beiträge, die noch auf der Prüfseite warten (laut `offen`), kommen in einen Bericht, auch früher durchgesehene,
-deren Ordner unter `~/.cache/breadbin-durchsicht/` noch liegen. Ordner zu Beiträgen, die nicht mehr in `offen` stehen, löschen.
+deren Ordner unter `~/.cache/breadbin-durchsicht/` noch liegen. Ordner zu Beiträgen, die nicht mehr in `offen` stehen,
+einfach weglassen (nicht löschen – `rm` gehört nicht zu den erlaubten Befehlen).
+
+**Gelesen-Markierungen auswerten:** Der Nutzer markiert im Bericht Beiträge mit „Als gelesen markieren“. Vor dem Bauen
+mit dem ArtifactData-Werkzeug die Sammlung `gelesen` des Berichts-Artefakts lesen (`action: "list"`, `path: "gelesen"`,
+`url` = Berichts-Artefakt) und das Ergebnis unverändert mit dem Write-Werkzeug als
+`~/.cache/breadbin-durchsicht/gelesen.json` speichern (Liste der Dokumente oder `{"b31": {gelesen, zeit, stand}}`).
+Dann bauen:
 
 ```bash
-python3 tools/durchsicht_bericht.py <Scratchpad>/beitragsdurchsicht.html ~/.cache/breadbin-durchsicht/N [~/.cache/breadbin-durchsicht/M …]
+python3 tools/durchsicht_bericht.py <Scratchpad>/beitragsdurchsicht.html --gelesen ~/.cache/breadbin-durchsicht/gelesen.json ~/.cache/breadbin-durchsicht/N [~/.cache/breadbin-durchsicht/M …]
 ```
 
+Gelesene Beiträge klappt der Bericht unten ein. Kam seit dem Lesen etwas hinzu (neue Durchsicht, Texte, Angaben), gilt
+der Beitrag wieder als ungelesen. Markierungen nie selbst setzen oder löschen – das macht nur der Nutzer.
+
 Die Seite ins bestehende Artefakt „Beitragsdurchsicht“ veröffentlichen (Artifact-Werkzeug, `url` = die Adresse aus
-dem Text der geplanten Aufgabe; vorher einmal mit `action: "read"` lesen). Wartet nichts mehr,
-den Bericht mit leerer Ordnerliste neu bauen und veröffentlichen („Zurzeit wartet kein Beitrag“).
+dem Text der geplanten Aufgabe; vorher einmal mit `action: "read"` lesen; `capabilities` weglassen, die Speicher-
+Fähigkeiten bleiben dann erhalten). Wartet nichts mehr, den Bericht mit leerer Ordnerliste neu bauen und veröffentlichen
+(„Zurzeit wartet kein Beitrag“).
 
 ## 6. Abschluss
 
 Eine kurze Meldung: welche Beiträge, wie viele Spiele je Empfehlung, wie viele Texte ergänzt bzw. neu geschrieben
-(neue Texte warten auf Sichtung), Link zum Bericht. Sonst nichts.
+(neue Texte warten auf Sichtung), Link zum Bericht. Beiträge, die der Nutzer schon als gelesen markiert hat und an denen
+sich nichts geändert hat, nur in einem Halbsatz zählen („2 gelesene ohne Änderung“). Sonst nichts.
