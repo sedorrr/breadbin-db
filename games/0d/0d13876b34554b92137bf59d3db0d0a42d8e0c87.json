@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "0d13876b34554b92137bf59d3db0d0a42d8e0c87",
+  "md5": "4b2544e75ed41121209bd2c3097038e3",
+  "crc32": "32bff20e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "APB +3_The Sharks.d64"
+  ],
+  "title": "APB: All Points Bulletin",
+  "year": "1989",
+  "publisher": "Domark",
+  "genres": [
+    "Racing",
+    "Overhead"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/8c/8c2dda4cf045dbdca76a42543e4c2be8ebc75bb0.png",
+    "sstitle": "images/ab/abc95417786067d1801092f966a453ab0997e98f.png"
+  }
+}

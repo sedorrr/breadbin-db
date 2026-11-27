@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "8d6a02edc4dfdc2c01cb890648ca0266058a88ce",
+  "md5": "910285e3654f32802404e924d6cfe6a1",
+  "crc32": "03cc2c91",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "PWRDRIFT.D64"
+  ],
+  "title": "Power Drift",
+  "year": "1990",
+  "publisher": "Activision",
+  "genres": [
+    "Racing",
+    "Cars"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/c8/c8ace5ae6a61f05f284040c911ebb8b2d8eaacfa.png",
+    "sstitle": "images/f7/f7008ed94877c4a8e0da68790a008dbc5c1047f7.png"
+  },
+  "more_images": {
+    "ss2": "images/3a/3ada695ec2b5099f48b759f59da947d6487d2d0f.png",
+    "ss3": "images/bf/bf2ad27fafc1ee29d2909c7e160e293d7646b698.png"
+  }
+}

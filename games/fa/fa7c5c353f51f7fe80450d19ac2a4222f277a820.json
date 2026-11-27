@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "fa7c5c353f51f7fe80450d19ac2a4222f277a820",
+  "md5": "05e2267bb39bc59ebeb6ff2b1ad20b60",
+  "crc32": "28a5cca0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Alter Ego Female (1985)(Activision)(Disk 2 of 3 Side A)(cr TNC).d64"
+  ],
+  "title": "Alter Ego: Female Version",
+  "year": "1986",
+  "publisher": "Activision",
+  "genres": [
+    "Adventure",
+    "Selectable Answers"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/b4/b4230b5ab55bd00df2b9b583fcc037930d1b177e.png",
+    "sstitle": "images/8f/8f86302c488479570e995006da1402b6244d846b.png"
+  },
+  "more_images": {
+    "ss2": "images/f1/f1f7450e5cf2ce2dd437630c68321bc616633d72.png"
+  }
+}

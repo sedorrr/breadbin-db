@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "78a5a5677c6aa80f7a7b9012e2940cc301213eae",
+  "md5": "c30cb111b869767ee850870a952b8709",
+  "crc32": "8709b596",
+  "size": 270928,
+  "format": "CRT",
+  "files": [
+    "atari_collection_[excess].crt"
+  ],
+  "title": "Antonio Savona's ATARI Collection",
+  "year": "2022",
+  "publisher": "Public Domain",
+  "developer": "Antonio Savona",
+  "genres": [
+    "Arcade",
+    "Multi-Genre"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/44/4493136518f802e650b831651088512f2bd18693.png",
+    "sstitle": "images/05/0505d7459f233799386eba68994bc48793841931.png"
+  },
+  "more_images": {
+    "ss2": "images/ac/ac0bfc81bd09064fcaf6d5045ddfb97c74a02570.png",
+    "ss3": "images/a5/a534cfb2c05ed84e4db97ff380aae06ddb30797c.png",
+    "ss4": "images/a1/a156fbc923e3655b910ce6624e9829c7c9896868.png"
+  }
+}

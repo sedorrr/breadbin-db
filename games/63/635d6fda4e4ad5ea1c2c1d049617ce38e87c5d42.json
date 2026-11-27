@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "635d6fda4e4ad5ea1c2c1d049617ce38e87c5d42",
+  "md5": "5ae0e88bf6f41101c52d5b7c35091231",
+  "crc32": "f3b515f3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "AnotherWorld0.D64"
+  ],
+  "title": "AnotherWorld",
+  "year": "1991",
+  "publisher": "Golden Disk 64",
+  "genres": [
+    "Platformer",
+    "Scrolling Screen"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/fb/fba0cce1af44c07b8ee1284d0e442125ca447496.png",
+    "sstitle": "images/b8/b8d36711e98da2f01ad560669ca42da6e36153b1.png"
+  }
+}

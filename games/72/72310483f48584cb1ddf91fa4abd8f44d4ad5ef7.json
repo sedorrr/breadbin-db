@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "72310483f48584cb1ddf91fa4abd8f44d4ad5ef7",
+  "md5": "2a489c3a631bf3a96fd3ad9e536020cf",
+  "crc32": "e5302abb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Assembloids_(Retail)_+2HD_LAXITY.d64"
+  ],
+  "title": "Assembloids",
+  "year": "2012",
+  "publisher": "Psytronik Software",
+  "genres": [
+    "Brain",
+    "Puzzle"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/87/87658b799a3b63f6b4905e63596f257b7d65a6e1.png",
+    "sstitle": "images/d2/d2ebffc1380dfbf4159f78c385635ae40f819eb6.png"
+  },
+  "more_images": {
+    "ss2": "images/b2/b2087a449825e10fbc5c5f83e0da2127e5e93963.png"
+  }
+}

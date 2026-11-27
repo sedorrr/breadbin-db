@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "0864bd07d40e7c455be81e7ce2da54f419bdfc37",
+  "md5": "14614e520d3329d50fbf9e47ae8f6143",
+  "crc32": "8dfc5345",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Apeshit101.d64"
+  ],
+  "title": "Apeshit",
+  "year": "2022",
+  "publisher": "Bitmap Soft",
+  "genres": [
+    "Arcade",
+    "Collect'em Up"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/6f/6f478d2434c5dd0a894d106e8c32e7c3436cf20f.png",
+    "sstitle": "images/f1/f1ea786e69ff62415d5795cb8d8666fac95f0b0c.png"
+  }
+}

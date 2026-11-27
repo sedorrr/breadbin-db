@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "c4baaf8139bf5ad57b721103fe62e54a8b7ed43d",
+  "md5": "a92bfa6d0219c67de93a11af3a7fb5f1",
+  "crc32": "115d9359",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "amc+6dghm100%.D64"
+  ],
+  "title": "AMC: Attack of the Mutant Camels",
+  "year": "1983",
+  "publisher": "Llamasoft",
+  "genres": [
+    "Shoot'em Up",
+    "H-Scrolling"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/4f/4f169bc915399068434d97944759666267d4dec4.png",
+    "sstitle": "images/11/1138a5342b72050611d80d50ac1464b42237f4ec.png"
+  }
+}

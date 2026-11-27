@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "2c95df25e73a3243256c50d5c106c68e0bbc0c53",
+  "md5": "487649351391cc824923bad4cce224cd",
+  "crc32": "79c8bc88",
+  "size": 788032,
+  "format": "CRT",
+  "files": [
+    "AccoladeComics+1D_EF_TRX.crt"
+  ],
+  "title": "Accolade Comics",
+  "year": "1987",
+  "publisher": "Accolade",
+  "genres": [
+    "Adventure",
+    "Comic"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/de/de8ec040684bd4cb1ce956c8a0a43f67e98fd86f.png",
+    "sstitle": "images/b2/b26b19e286e7509f2d294965b9a3d82e1d9ea1ee.png"
+  },
+  "more_images": {
+    "ss2": "images/84/84aeee31f82c78cd4300e6d25a5a9576ef4c9bd7.png"
+  }
+}

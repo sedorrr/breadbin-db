@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "8b0945a4306c3332389019c168809e399dd32ff8",
+  "md5": "ba521a2ba8477df7293de7eda29f7727",
+  "crc32": "9d6a9d31",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Action Biker.d64"
+  ],
+  "title": "Action Biker",
+  "year": "1985",
+  "publisher": "Mastertronic",
+  "genres": [
+    "Racing",
+    "Motorcycle"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/34/34e9dc50b879f5ddb4fb43d788574fc375a3a036.png",
+    "sstitle": "images/e5/e5baca9d3f5353eb70f3ca6a90a28d3d0bb04690.png"
+  },
+  "more_images": {
+    "ss2": "images/f2/f2db10a40213b0cf875a0b7379ad12190bebdf47.png"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "ee21aff070754743bee1db6eb24de628942c8ae9",
+  "md5": "ce69f8b591f4a10bd7aa514e5ac8c6f0",
+  "crc32": "a79c889c",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "AstroMarineCorps.d64"
+  ],
+  "title": "AMC: Astro Marine Corps",
+  "year": "1990",
+  "publisher": "Dinamic",
+  "genres": [
+    "Shoot'em Up",
+    "Platformer"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/14/147d2b3052d9dab8dd35005cb65606a279f0d02c.png",
+    "sstitle": "images/dc/dc9d9f8fc1c7b5ddeea3180c7e501cf74212b643.png"
+  },
+  "more_images": {
+    "ss2": "images/c8/c850ef67167ec3ef7a1db8ec39747f1ce8e81534.png"
+  }
+}

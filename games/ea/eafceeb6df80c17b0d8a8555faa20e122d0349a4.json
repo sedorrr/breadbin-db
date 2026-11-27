@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "eafceeb6df80c17b0d8a8555faa20e122d0349a4",
+  "md5": "74f216fa3a9362ff0d0547ff990e6a04",
+  "crc32": "a009adbb",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Arkanoid-Revenge Of Doh.d64"
+  ],
+  "title": "Arkanoid: Revenge of Doh",
+  "year": "1988",
+  "publisher": "Imagine",
+  "genres": [
+    "Arcade",
+    "Breakout/Pong"
+  ],
+  "players": "1-4",
+  "images": {
+    "ss": "images/49/4906fa7f8b762769ec3ae1b4344a60a5168a694f.png",
+    "sstitle": "images/05/050f8f32da1b5979503905d3f776857b1b03cfed.png"
+  }
+}

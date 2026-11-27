@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "4585aa76b409b61b218454b95573515bf1d40b7a",
+  "md5": "ae36347eece1804bab8ce8da2ec8a235",
+  "crc32": "45a46ca0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "alien_zoo_TRIAD.d64"
+  ],
+  "title": "Alien Zoo",
+  "year": "1997",
+  "publisher": "Loadstar",
+  "genres": [
+    "Match-3"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/91/9148a31302707dc2a5d6d73d2f3be832e1d13ba5.png",
+    "sstitle": "images/e8/e8c776365fb3d49cc4938b0b31abb0e1e36aff3b.png"
+  }
+}

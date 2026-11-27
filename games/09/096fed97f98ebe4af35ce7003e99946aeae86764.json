@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "096fed97f98ebe4af35ce7003e99946aeae86764",
+  "md5": "448d785e37c8933dc169b57a79aeaf91",
+  "crc32": "c188b560",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Artillery Duel.d64"
+  ],
+  "title": "Artillery Duel",
+  "year": "1983",
+  "publisher": "Perkins Engineering",
+  "genres": [
+    "Shoot'em Up",
+    "Duel"
+  ],
+  "players": "2",
+  "images": {
+    "ss": "images/5a/5a56784ace1b39ecdcc9e46fa3be58f73b3bdded.png",
+    "sstitle": "images/e9/e9b4249626ed963a3ea1d442669e805f2b7dee33.png"
+  }
+}

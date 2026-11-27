@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "811cd8f3c9853d2b40b212278c5ff122dff880f8",
+  "md5": "8e0f60fcbb640b078ae7df964f38efc1",
+  "crc32": "7ce18115",
+  "size": 42703,
+  "format": "T64",
+  "files": [
+    "ACE 2+.t64"
+  ],
+  "title": "Ace 2",
+  "year": "1987",
+  "publisher": "Cascade Games",
+  "genres": [
+    "Simulation",
+    "Flight"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/19/191904c9f493972581c789aae72b4657e51faa16.png",
+    "sstitle": "images/f2/f247538d5ef3ea2caca45d063af153d472dc7cb8.png"
+  },
+  "more_images": {
+    "ss2": "images/0d/0d227cc71760ecc1537ebedaf80943e51880e17f.png"
+  }
+}

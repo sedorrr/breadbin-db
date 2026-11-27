@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "ba90d94712285b1cff402f6b3033619f92b6d4ca",
+  "md5": "2e54149c2c80a6d540536df771122a12",
+  "crc32": "dbd5fee5",
+  "size": 426880,
+  "format": "CRT",
+  "files": [
+    "asterix_[excess].crt"
+  ],
+  "title": "Asterix and the Magic Cauldron",
+  "year": "1986",
+  "publisher": "Melbourne House",
+  "genres": [
+    "Actionadventure",
+    "Arcade 3D"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/66/665d6cddaf66c6652fc6c602a8a35702cc685178.png",
+    "sstitle": "images/fa/fa4ff3dd4ad3df27c8f938321178f74e5b9f095b.png"
+  },
+  "more_images": {
+    "ss2": "images/a7/a764b4b893f530ed15519305614d92f9c10bb4f1.png"
+  }
+}

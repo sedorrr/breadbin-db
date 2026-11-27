@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "21b0d21f513d8a466919ca440acd479bb9120f61",
+  "md5": "9f714fcebe9baaa9fb07cf25eaa140c1",
+  "crc32": "de7bb7f5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Ad_Astra_2420_+4D_LAXITY.d64"
+  ],
+  "title": "Ad Astra 2420",
+  "year": "2024",
+  "publisher": "Public Domain",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/67/676cb71ab4cc61b4d17c07668079d36ee9848d19.png",
+    "sstitle": "images/f0/f0a8ac115c9447bcc877fb618c30f43a439b142c.png"
+  }
+}

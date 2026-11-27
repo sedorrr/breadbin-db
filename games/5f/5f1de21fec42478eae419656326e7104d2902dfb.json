@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "5f1de21fec42478eae419656326e7104d2902dfb",
+  "md5": "e20322c37af2f372915c25d8f8559fb9",
+  "crc32": "4d6ac312",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "NICKFLDG.D64"
+  ],
+  "title": "Nick Faldo's Championship Golf",
+  "year": "1992",
+  "publisher": "Grandslam",
+  "genres": [
+    "Sports",
+    "Golf"
+  ],
+  "players": "1-4",
+  "images": {
+    "ss": "images/19/1955fd9b61ecb8746ebfc09366c43b3d2c4b430d.png",
+    "sstitle": "images/8c/8c898643867c64b50ff582c4b31507fa50c62758.png"
+  },
+  "more_images": {
+    "ss2": "images/f8/f83fde77791b5ce47afd7c2f6d58108046a0f27b.png",
+    "ss3": "images/64/64d01128a84076c529532290c11b1a4604fd732e.png"
+  }
+}

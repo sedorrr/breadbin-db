@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "e71403618aec6ad287940578f63b1a1bfb888036",
+  "md5": "27152607f7f1c72f274c44e19a066827",
+  "crc32": "3044a4b9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Archon 2.d64"
+  ],
+  "title": "Archon II: Adept",
+  "year": "1984",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Board",
+    "Miscellaneous"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/b9/b9a3b600349bac2127f2a18b914421e4c10538ba.png",
+    "sstitle": "images/52/52d7e63580b5047b242f5f25da812a0ba5d719f2.png"
+  },
+  "more_images": {
+    "ss2": "images/95/950e908c1cfae6ebee7f021463d021790ea3d187.png"
+  }
+}

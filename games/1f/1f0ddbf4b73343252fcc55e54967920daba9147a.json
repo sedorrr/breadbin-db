@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "1f0ddbf4b73343252fcc55e54967920daba9147a",
+  "md5": "f0a316c4102d21cd655b3fabbaa7e27e",
+  "crc32": "d4c0715d",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Ad_Astra_V1.01_+3D_LAXITY.d64"
+  ],
+  "title": "Ad Astra",
+  "year": "2023",
+  "publisher": "Public Domain",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/d2/d2f5325a2c3842bc7f345c26dfd4cc6c49149b55.png",
+    "sstitle": "images/54/54a3af7b30e6efef6850b5808d7bed6f1956b9c6.png"
+  }
+}

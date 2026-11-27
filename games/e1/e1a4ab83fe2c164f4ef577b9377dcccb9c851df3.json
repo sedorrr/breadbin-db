@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "e1a4ab83fe2c164f4ef577b9377dcccb9c851df3",
+  "md5": "5407c754680ad9681c44f9ced7b7757c",
+  "crc32": "29b51f4f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Alien8V1.20+D[EX].d64"
+  ],
+  "title": "Alien 8",
+  "year": "2019",
+  "publisher": "Public Domain",
+  "developer": "Rod & Emu Productions",
+  "genres": [
+    "Adventure",
+    "Arcade 3D"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/b2/b20fa183f9edef31cb0c7ee4659ab8371b1631c0.png",
+    "sstitle": "images/de/de81e8e4cb694c2df7a92e987a6ffd41acfac88f.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "5f28c91b063210663ebb768283cbabdb59f80b96",
+  "md5": "b67c11f3837bade0fb9c07651f9473f3",
+  "crc32": "e1929636",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "AIDSCHAMP.D64"
+  ],
+  "title": "ADIDAS Championship Football",
+  "year": "1990",
+  "publisher": "Ocean",
+  "genres": [
+    "Sports",
+    "Football/Soccer"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/df/df1d3dab3b62a797e4ee8e29bf6f77e5ecc710aa.png",
+    "sstitle": "images/37/376ba35f052fb930e50381e2d0d8f3f504031869.png"
+  }
+}

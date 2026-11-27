@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "9f6372b10fc378e9d7b5719d1538c389967908ff",
+  "md5": "ddaeb2d66eef34eb2426c2f641dce335",
+  "crc32": "9a4e397f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Archon.d64"
+  ],
+  "title": "Archon: The Light and the Dark",
+  "year": "1983",
+  "publisher": "Electronic Arts",
+  "genres": [
+    "Board",
+    "Miscellaneous"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/5e/5e5fa793a877bee02edfd6e73ad6d8408beaa96a.png",
+    "sstitle": "images/98/98264b8740a8be656369b8967b15dabec66da656.png"
+  },
+  "more_images": {
+    "ss2": "images/68/6836bb9e2b733a6f27891c2057d18dd58d0d159e.png"
+  }
+}

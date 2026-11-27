@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "sha1": "70405027cc91afece4b7cdb54e5f640a2cedf571",
+  "md5": "a936f35bdd4c07a90e1aa5242ac6ad84",
+  "crc32": "0a80ef23",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "After Burner (USA).d64"
+  ],
+  "title": "After Burner (US Version)",
+  "year": "1989",
+  "publisher": "Mindscape",
+  "genres": [
+    "Shoot'em Up",
+    "Action",
+    "Arcade"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/5e/5e301925603944e21b97f7e50080cbc0d854b400.png",
+    "sstitle": "images/bb/bbe452cc9b0290cd19c2a9838f7288d7aa59f3b2.png"
+  }
+}

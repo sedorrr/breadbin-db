@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "f1a8ccbccf44f36f16ecbb758dcd206a01c4c874",
+  "md5": "751b69ae4a4621ca8d7ffdf3f88bb3c2",
+  "crc32": "916c2473",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Aliens - The Computer Game.d64"
+  ],
+  "title": "Aliens: The Computer Game (US Version)",
+  "year": "1986",
+  "publisher": "Activision",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/ee/eedbc82c1756a3d1855d533e8569c1aa520666da.png",
+    "sstitle": "images/54/54e20de9eb2cb999856662eba5439c93805efe46.png"
+  },
+  "more_images": {
+    "ss2": "images/5a/5a7ae646c1b678f23eefedde4ab05c6e71181d01.png"
+  }
+}

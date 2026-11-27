@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "07ccbabcdabbbfc829377fdcdfd70e1f39300557",
+  "md5": "cc4cf297ca22dfd496cd075f7552fbd6",
+  "crc32": "75255730",
+  "size": 550000,
+  "format": "CRT",
+  "files": [
+    "alternate_reality-the_dungeon-[flt_trx].crt"
+  ],
+  "title": "Alternate Reality: The Dungeon",
+  "year": "1987",
+  "publisher": "Datasoft",
+  "genres": [
+    "Adventure",
+    "RPG 3D"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/e2/e2799e815a0d7f15d666fc8e2bfef6dc5dbe3b78.png",
+    "sstitle": "images/f7/f7e4c0694780bd16fe83b8d5c7f8a01aa7b3b9a4.png"
+  },
+  "more_images": {
+    "ss2": "images/0d/0d6744680ffb34c03b36ef0b80493760ed189fa7.png"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "9962306e63dff1a3be6cd9824aec226669328c0a",
+  "md5": "12cceb9e72e4bce94e6cc33eee9eeaad",
+  "crc32": "1dd81103",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Amaurote_+3_LAXITY+ONSLAUGHT.d64"
+  ],
+  "title": "Amaurote",
+  "year": "2022",
+  "publisher": "Zzap!64",
+  "genres": [
+    "Adventure",
+    "Arcade 3D"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/d8/d8da3253a0891f49a1926c9843c02d18f328631c.png",
+    "sstitle": "images/e6/e6f6e9e17f074a2733634d9171a2428f2d6cf145.png"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "2161af748a8de1caf81c294dccae156924741ba7",
+  "md5": "d5f6aebb4cca87f86f42f35b0af9513e",
+  "crc32": "70ab9cc3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "OLD_TOWER_101_Percent_+3D_[ExCeSs}.d64"
+  ],
+  "title": "Old Tower",
+  "year": "2020",
+  "publisher": "RetroSouls",
+  "genres": [
+    "Arcade",
+    "Logical"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/bf/bf3e88597addfd618336316444bf8d0446609691.png",
+    "sstitle": "images/da/da73294407f87d09e458fb677e2b366222436894.png"
+  },
+  "more_images": {
+    "ss2": "images/28/285c87f94cf716645dba03d7f5918bb8fdda2948.png",
+    "ss3": "images/9c/9ca8aad7e4febfc63ce7921fc0c1cf822304cb5a.png"
+  }
+}

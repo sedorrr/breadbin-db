@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "527577353605cf63d051770a5fa70456d4fac003",
+  "md5": "5c1c972eb3fa4eaf491472c9fcf2136d",
+  "crc32": "22e701d9",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ABBAYE DES MORTS V1.1  8DW.d64"
+  ],
+  "title": "L'Abbaye des Morts",
+  "year": "2019",
+  "publisher": "Double Sided Games",
+  "genres": [
+    "Jump and Run"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/bb/bb7c4169bf9e002801607582d5739a1161ac7f91.png",
+    "sstitle": "images/fb/fb0311949b350792a30a30355727bc15e9bd494e.png"
+  }
+}

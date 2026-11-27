@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "365b44158e48afc35927664cb99cdd6ccdef0909",
+  "md5": "59210eb0de448c201bcc720fbeca165a",
+  "crc32": "74d29bdb",
+  "size": 205264,
+  "format": "CRT",
+  "files": [
+    "Accolade Card Sharks EasyFlash [ExCeSs].crt"
+  ],
+  "title": "Card Sharks",
+  "year": "1988",
+  "publisher": "Accolade",
+  "genres": [
+    "Cards",
+    "Poker"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/77/77f7fc5247ce82b2ad60f0b92fb39441ea52948d.png",
+    "sstitle": "images/26/26f70a4bd9709435927553c3690fad4a0c018886.png"
+  },
+  "more_images": {
+    "ss2": "images/ba/ba0893861338003b560c0d51a3d9392568e09ae3.png"
+  }
+}

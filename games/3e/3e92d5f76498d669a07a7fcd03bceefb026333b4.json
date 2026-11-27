@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "3e92d5f76498d669a07a7fcd03bceefb026333b4",
+  "md5": "987f5204a6586a56394ee062855fa7c9",
+  "crc32": "194601c4",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "AliceInWonderland.d64"
+  ],
+  "title": "Alice in Wonderland",
+  "year": "1985",
+  "publisher": "Windham Classics",
+  "genres": [
+    "Adventure",
+    "Arcade 2D"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/fa/fa5971ee8d3dd3288ce249bd7ddf3ffd871a2f00.png",
+    "sstitle": "images/70/70db6601334f0a7922a64d06a80a14064f492517.png"
+  }
+}

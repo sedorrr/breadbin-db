@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "39eb225327a9d8f89bdeafe62b57c932c8a6b01e",
+  "md5": "43143d01b10be5fa8da60a8ced4cdbd2",
+  "crc32": "92bc7bb1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Aaargh +4 (FAIRLIGHT).D64"
+  ],
+  "title": "Aaargh!",
+  "year": "1989",
+  "publisher": "Melbourne House",
+  "genres": [
+    "Arcade",
+    "Miscellaneous"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/f3/f368134d4d4a3cb79268d5bc701a94f18402e506.png",
+    "sstitle": "images/67/671a0a71576d3ffd4a0a7f7224a8e268a43149ea.png"
+  }
+}

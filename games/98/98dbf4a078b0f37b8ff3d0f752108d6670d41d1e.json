@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "98dbf4a078b0f37b8ff3d0f752108d6670d41d1e",
+  "md5": "aee299502726fa8b7032f23fd752de3a",
+  "crc32": "4a623c82",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "AmiRun_and_the_Alien_Beersuckers_+3HD_LAXITY.d64"
+  ],
+  "title": "Amirun and the Alien Beersuckers",
+  "year": "2026",
+  "publisher": "Zzap!64",
+  "genres": [
+    "Shoot'em Up",
+    "Miscellaneous"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/db/db6b5a4c5803e74e020a476e02d75a73eb8331c4.png",
+    "sstitle": "images/df/dfaf858d93b8fecb68adb2ac08229590330c7d8e.png"
+  },
+  "more_images": {
+    "ss2": "images/8c/8c1600c298d139ce38a322f3ef42b9fff8cdef41.png"
+  }
+}

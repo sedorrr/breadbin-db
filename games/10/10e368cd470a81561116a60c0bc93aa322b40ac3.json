@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "10e368cd470a81561116a60c0bc93aa322b40ac3",
+  "md5": "1c79b5da66f4b5ef9265fe4eed84f877",
+  "crc32": "681095f3",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Agricola (1987)(M.U.S Software)(de)[cr tsr].d64"
+  ],
+  "title": "Agricola",
+  "year": "1987",
+  "publisher": "M.U.S Software",
+  "genres": [
+    "Wirtschaftssimulation"
+  ],
+  "players": "1-4",
+  "images": {
+    "ss": "images/3f/3fb22a427a59f681dbeffb73a7805d391b292add.png",
+    "sstitle": "images/df/dfc8aa4272c39bb3e112c83106d92a04ed57f7b1.png"
+  },
+  "more_images": {
+    "ss2": "images/79/79951b72482da925b20e911736621f82ee0513a1.png"
+  }
+}

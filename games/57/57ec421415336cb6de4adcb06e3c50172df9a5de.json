@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "57ec421415336cb6de4adcb06e3c50172df9a5de",
+  "md5": "f7c9ca240551f02089f4ba1223e10c4e",
+  "crc32": "a7c66a19",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Armalyte.d64"
+  ],
+  "title": "Armalyte",
+  "year": "1988",
+  "publisher": "Thalamus",
+  "genres": [
+    "Shoot'em Up",
+    "H-Scrolling"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/44/448d3b9e2d00d8376e76ab0ec3537c1ae2f50359.png",
+    "sstitle": "images/5e/5ea4014a64c2f79c34fdf8136f93fa6531e50dbd.png"
+  }
+}

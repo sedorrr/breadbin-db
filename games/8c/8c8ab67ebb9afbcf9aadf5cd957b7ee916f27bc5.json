@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sha1": "8c8ab67ebb9afbcf9aadf5cd957b7ee916f27bc5",
+  "md5": "3053ebca5c87c3178615f4433ccc527f",
+  "crc32": "aaa06fde",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ACE-EU.D64"
+  ],
+  "title": "ACE: Air Combat Emulator",
+  "year": "1985",
+  "publisher": "Cascade Games",
+  "genres": [
+    "Simulation",
+    "Flight"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/c1/c178644403226dd1db1d63c7638b02dca89577bb.png",
+    "sstitle": "images/96/9667b1788e03f4251eb69f09d3da51a6a349d3c8.png"
+  }
+}

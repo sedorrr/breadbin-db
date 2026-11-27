@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "e7d5913981cbe39aa9cd05cde54e9b5008eae508",
+  "md5": "c05b0c3f2596f5100def0023aeb0ba8f",
+  "crc32": "ec13c5d3",
+  "size": 819200,
+  "format": "D81",
+  "files": [
+    "Alter_Ego_Male_1985_Activision_s2.d81"
+  ],
+  "title": "Alter Ego: Male Version",
+  "year": "1986",
+  "publisher": "Activision",
+  "genres": [
+    "Adventure",
+    "Selectable Answers"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/6b/6bb93b24a9b8ecc6322879f8910f39dc4b255d13.png",
+    "sstitle": "images/8f/8f86302c488479570e995006da1402b6244d846b.png"
+  },
+  "more_images": {
+    "ss2": "images/7f/7f66dc25eda63b830a8e802cf743cb75331e961e.png"
+  }
+}

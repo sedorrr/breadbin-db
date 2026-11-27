@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "sha1": "a5505ecc2cfdde6410c305c204a9b8f7e64e1b52",
+  "md5": "3f67bd005821e52288fe8e9bb9fe1645",
+  "crc32": "1969de1f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ALTERED BEAST +8DHI.d64"
+  ],
+  "title": "Altered Beast",
+  "year": "1989",
+  "publisher": "Activision",
+  "genres": [
+    "Beat'em Up"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/59/590fb13cc92f3f7530bdde86f803e6529120892a.png",
+    "sstitle": "images/94/94f943627efd3fc4dee41f14f7daf4ba1a9537e8.png"
+  }
+}

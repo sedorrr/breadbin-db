@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "sha1": "01761df902ab34c5f5defa7a9dabba5f300ada32",
+  "md5": "e92941b32896fc1e3867955e847d947d",
+  "crc32": "a7082655",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Alter_Ego_+5_101%_LAXITY.d64"
+  ],
+  "title": "Alter Ego",
+  "year": "2014",
+  "publisher": "RetroSouls",
+  "genres": [
+    "Platformer",
+    "Single Screen"
+  ],
+  "players": "1",
+  "images": {
+    "ss": "images/92/92a869588e1d1eb516711088915ec702a1bf17f4.png",
+    "sstitle": "images/1a/1a577d926607f36c664729603926688492ee85ba.png"
+  },
+  "more_images": {
+    "ss2": "images/b1/b106237488e7dcc56dde3d42baaa56131c6496fc.png"
+  }
+}

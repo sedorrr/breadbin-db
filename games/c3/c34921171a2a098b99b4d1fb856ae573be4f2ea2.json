@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "c34921171a2a098b99b4d1fb856ae573be4f2ea2",
+  "md5": "f44addcafc43a9f6a627a68702d98395",
+  "crc32": "7a643030",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "artillery_duel_deluxe.d64"
+  ],
+  "title": "Artillery Duel Deluxe",
+  "year": "2023",
+  "publisher": "Public Domain",
+  "developer": "WiC64 Team",
+  "genres": [
+    "Shoot'em Up",
+    "Duel"
+  ],
+  "players": "1-2",
+  "images": {
+    "ss": "images/75/758d10246d0847dfff48d64c6b34b15c5a36a5bc.png",
+    "sstitle": "images/96/9619b3c280f615e5921ee9550471e9f9549a154f.png"
+  },
+  "more_images": {
+    "ss2": "images/72/72861dec4c7a50fc706c70f1fb32336c7cbbb085.png",
+    "ss3": "images/ba/bac725ce6d37ef1d6edec6136778330799e818c3.png"
+  }
+}
