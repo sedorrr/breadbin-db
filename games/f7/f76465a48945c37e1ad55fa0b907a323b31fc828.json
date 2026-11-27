@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "f76465a48945c37e1ad55fa0b907a323b31fc828",
+  "md5": "0218523f767afe4957c47f627abac7b3",
+  "crc32": "dff8adc5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "jump_bird_2025_2b4_laxity.d64"
+  ],
+  "title": "jump bird",
+  "year": "2025",
+  "publisher": "2b3 laxity",
+  "genres": [
+    "Platformer"
+  ],
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

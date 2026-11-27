@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "sha1": "56dc4af5d7f18b3ddbcf3ee2091a7b151b808783",
+  "md5": "69be2ce53b285881f27d97202f20715c",
+  "crc32": "a97217e0",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "DEKADENCE - Le Phant.d64",
+    "lephant.d64",
+    "DEKADENCE - Le Phant.d64",
+    "lephant.d64",
+    "DEKADENCE - Le Phant.d64",
+    "lephant.d64",
+    "DEKADENCE - Le Phant.d64",
+    "lephant.d64",
+    "DEKADENCE - Le Phant.d64",
+    "lephant.d64"
+  ],
+  "title": "DEKADENCE - Le Phant",
+  "year": "2003",
+  "publisher": "Dekadence",
+  "genres": [
+    "Demo"
+  ],
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

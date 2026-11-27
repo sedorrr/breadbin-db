@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "555cb08efbbd447fc347e25fee4693e7f4411153",
+  "md5": "fd35e617096b76882738fc3b543f4175",
+  "crc32": "36c33d5f",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "c7_polar_xmas_2024.d64"
+  ],
+  "title": "c7 polar xmas",
+  "year": "2024",
+  "genres": [
+    "Demo",
+    "Graphic"
+  ],
+  "images": {
+    "sstitle": "images/8e/8e67d41f423444e5fce2d3ddee1cfa776faa19df.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

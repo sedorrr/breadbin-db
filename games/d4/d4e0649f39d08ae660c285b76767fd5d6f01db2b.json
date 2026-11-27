@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "d4e0649f39d08ae660c285b76767fd5d6f01db2b",
+  "md5": "9d471aab667310e245364f0c3797f386",
+  "crc32": "b7d5f7f2",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "tsa_xmas_2025.d64"
+  ],
+  "title": "tsa xmas",
+  "year": "2025",
+  "genres": [
+    "Demo"
+  ],
+  "images": {
+    "ss": "images/11/11a4839229bb72a22ed70626f40daf28c1e0c04c.png",
+    "sstitle": "images/45/456e600fef74d77a809a727bc28ec435734da6c6.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "b39dc8516d7c74c05d9fba71ebb0448382b160f4",
+  "md5": "47f82e14df9b11ac6ff5d8102c01b110",
+  "crc32": "e6bc1731",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "meow_xmas_2025_ready.d64"
+  ],
+  "title": "meow xmas",
+  "year": "2025",
+  "publisher": "ready",
+  "genres": [
+    "Graphic"
+  ],
+  "images": {
+    "ss": "images/b9/b923130e457ab988e75d7d4c51fa9f52215d5ef2.png",
+    "sstitle": "images/21/21300674411b82551e6cc66a9378b1dafadb3bab.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

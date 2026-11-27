@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "sha1": "2cbe92d0b47dadf4fdcadc2efd02bf55c4960fb5",
+  "md5": "dd1eace0e95c9195fff04f4aa65d2d74",
+  "crc32": "0994dd41",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "primek_dragongirl_multi_syntax_2025.d64"
+  ],
+  "title": "primek dragongirl multi syntax",
+  "year": "2025",
+  "genres": [
+    "Graphic"
+  ],
+  "images": {
+    "sstitle": "images/2b/2b8d002407305851b70bb147a9ad9d8e1a7b53b5.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

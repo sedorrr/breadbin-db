@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "cba9798266b0016a944fc6cb638b21b75af6794d",
+  "md5": "519f95f859467426b97ada264ebb0716",
+  "crc32": "625c29a5",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "FTS3_B.D64",
+    "fts3-2.d64",
+    "234B.D64",
+    "sb003876.d64",
+    "byterapers_unsound_minds-B.d64"
+  ],
+  "title": "234B",
+  "year": "1996",
+  "publisher": "Byterapers",
+  "genres": [
+    "Demo"
+  ],
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

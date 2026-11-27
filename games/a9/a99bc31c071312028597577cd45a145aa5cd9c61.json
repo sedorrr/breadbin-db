@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sha1": "a99bc31c071312028597577cd45a145aa5cd9c61",
+  "md5": "90c423d65510d37af93ed53a37a8c753",
+  "crc32": "4208d5d8",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "xmas_live_2025_invitro_by_boom21.d64"
+  ],
+  "title": "xmas live",
+  "year": "2025",
+  "publisher": "invitro by boom21",
+  "genres": [
+    "Demo"
+  ],
+  "images": {
+    "ss": "images/d2/d2ec837e4e01f1eb67d00ee145c06b3964fa60a7.png",
+    "sstitle": "images/88/8839dcaf6350b9fc12c7699b0ae0a1fd0a49113e.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

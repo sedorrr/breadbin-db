@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "sha1": "0473883349d7479880a48cbe3807560fb9c3a136",
+  "md5": "1ab5663ae5d4d0c5f9a7772ee2f11a3c",
+  "crc32": "13ccf098",
+  "size": 18583,
+  "format": "PRG",
+  "files": [
+    "meow_xmas_2025_ready.prg"
+  ],
+  "title": "meow xmas",
+  "year": "2025",
+  "publisher": "ready",
+  "genres": [
+    "Graphic"
+  ],
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

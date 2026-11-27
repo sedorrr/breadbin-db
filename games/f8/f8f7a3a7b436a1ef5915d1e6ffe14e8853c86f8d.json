@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "sha1": "f8f7a3a7b436a1ef5915d1e6ffe14e8853c86f8d",
+  "md5": "18d6a2b4217f38e1714abedc45effb8e",
+  "crc32": "e192814e",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "ms02invi.d64",
+    "Invitation Symposium & Mekka 2002 (200x)(Padua).d64",
+    "sb036608.d64",
+    "tmb0622.d64",
+    "MS2002_Invitation.D64",
+    "ms02invi.d64"
+  ],
+  "title": "Invitation Symposium & Mekka 2002",
+  "year": "2002",
+  "publisher": "Padua",
+  "genres": [
+    "Intro",
+    "Demo"
+  ],
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

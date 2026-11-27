@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "sha1": "408337992eba4c2ec0c91e03c1989a6ede09f153",
+  "md5": "f46c0aa504ebdf6bca188cc162147784",
+  "crc32": "e07734d8",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "38_years_later_2025.d64"
+  ],
+  "title": "38 years later",
+  "year": "2025",
+  "genres": [
+    "Demo"
+  ],
+  "images": {
+    "ss": "images/a4/a4043ea3d7f36c6608578e72845de93c78f1fd29.png",
+    "sstitle": "images/a9/a97f655f82244c6dcda00f06be2181c7e0b66e4f.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

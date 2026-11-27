@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "sha1": "cb9ace2e95efa1905143d59e7bb88e2cc9570e8c",
+  "md5": "f3271ef1ced321e44fa570093acabd5e",
+  "crc32": "03a754b1",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "Breadbinked (2022-07-02)(Atlantis_ Pretzel Logic).d64",
+    "breadbinked.d64",
+    "Breadbinked (2022-07-02)(Atlantis_ Pretzel Logic).d64",
+    "breadbinked.d64",
+    "Breadbinked (2022-07-02)(Atlantis_ Pretzel Logic).d64",
+    "breadbinked.d64",
+    "Breadbinked (2022-07-02)(Atlantis_ Pretzel Logic).d64",
+    "breadbinked.d64",
+    "Breadbinked (2022-07-02)(Atlantis_ Pretzel Logic).d64",
+    "breadbinked.d64"
+  ],
+  "title": "Breadbinked",
+  "year": "2022",
+  "publisher": "Atlantis  Pretzel Logic",
+  "genres": [
+    "Demo"
+  ],
+  "images": {
+    "ss": "images/5a/5a8883d278acf34fa5f6127487202215e553c3ef.png",
+    "sstitle": "images/71/71d67ade7f1df5f9ccb86a6164cc4c5d6e6c9e2e.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}

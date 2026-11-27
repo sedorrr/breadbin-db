@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "sha1": "5c7ac71f195cab85997fe8c1cd981a97a9a61e65",
+  "md5": "015666283d00e37c9f7709f577854a3d",
+  "crc32": "e7e73345",
+  "size": 11176,
+  "format": "PRG",
+  "files": [
+    "Berniemania (2021-01-24)(Pretzel Logic).prg",
+    "berniemania.prg",
+    "Berniemania (2021-01-24)(Pretzel Logic).prg",
+    "berniemania.prg",
+    "Berniemania (2021-01-24)(Pretzel Logic).prg",
+    "berniemania.prg",
+    "Berniemania (2021-01-24)(Pretzel Logic).prg",
+    "berniemania.prg"
+  ],
+  "title": "Berniemania",
+  "year": "2021",
+  "publisher": "Pretzel Logic",
+  "genres": [
+    "Demo"
+  ],
+  "images": {
+    "ss": "images/db/dbc55292618243ae464d20f2590b7e72b8d74e8a.png",
+    "sstitle": "images/39/39e234538aa367b8fa1dc9446597519d31c634a1.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Friti",
+      "contribution": 30,
+      "action": "added"
+    }
+  ]
+}
