@@ -25,9 +25,12 @@ def check_history(rel, hist):
         bad(rel, "history muss eine nicht leere Liste sein / must be a non-empty list")
         return
     for i, h in enumerate(hist):
-        if not isinstance(h, dict) or set(h) - {"date", "by", "action", "contribution"}:
-            bad(rel, f"history[{i}]: nur date, by, action, contribution / only date, by, action, contribution")
+        if not isinstance(h, dict) or set(h) - {"date", "by", "action", "contribution", "edited_by"}:
+            bad(rel, f"history[{i}]: nur date, by, action, contribution, edited_by / only these keys")
             continue
+        eb = h.get("edited_by", [])
+        if not isinstance(eb, list) or not all(isinstance(x, str) and x.strip() and len(x) <= 100 for x in eb):
+            bad(rel, f"history[{i}].edited_by: Liste von Namen / list of names")
         if not DATE.match(str(h.get("date", ""))):
             bad(rel, f"history[{i}].date muss JJJJ-MM-TT sein / must be YYYY-MM-DD")
         if not isinstance(h.get("by"), str) or not h["by"].strip() or len(h["by"]) > 100:

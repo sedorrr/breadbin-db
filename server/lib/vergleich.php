@@ -138,7 +138,8 @@ function herkunft_text(?array $g): string
     $teil = function (array $e): string {
         $d = preg_match('/^(\d{4})-(\d{2})-(\d{2})$/', (string)($e['date'] ?? ''), $m) ? "$m[3].$m[2].$m[1]" : '?';
         $nr = isset($e['contribution']) ? ' (Beitrag ' . (int)$e['contribution'] . ')' : '';
-        return 'am ' . $d . ' von ' . (string)($e['by'] ?? '?') . $nr;
+        $ed = !empty($e['edited_by']) && is_array($e['edited_by']) ? ' (bearbeitet von ' . implode(', ', $e['edited_by']) . ')' : '';
+        return 'am ' . $d . ' von ' . (string)($e['by'] ?? '?') . $nr . $ed;
     };
     $text = 'aufgenommen ' . $teil($h[0]);
     if (count($h) > 1) {

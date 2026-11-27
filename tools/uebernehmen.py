@@ -57,7 +57,7 @@ def benutzte_bilder():
 
 
 def ohne_herkunft(g):
-    return {k: v for k, v in g.items() if k != "history"}
+    return {k: v for k, v in g.items() if k not in ("history", "edited_by")}
 
 
 def json_text(g):
@@ -68,7 +68,9 @@ def einspielen(daten, eintrag=None):
     """Spielt eine Austauschdatei ein. Gibt (neu, geändert, unverändert, bilder) zurück.
 
     `eintrag` ({date, by, contribution?}) kommt als Herkunft (Feld `history`) an jedes neue bzw. geänderte Spiel; eine
-    mitgeschickte `history` wird verworfen – die Herkunft trägt nur dieses Werkzeug ein."""
+    mitgeschickte `history` wird verworfen – die Herkunft trägt nur dieses Werkzeug ein. `edited_by` (Liste) setzt die
+    Prüfseite in die geprüfte ZIP, wenn ein Spiel dort bearbeitet wurde; es wandert in den Herkunftseintrag und wird
+    aus der Spieldatei entfernt."""
     z = zipfile.ZipFile(io.BytesIO(daten))
     namen = z.namelist()
     praefix = next((n[: -len("breadbin-share.json")] for n in namen if re.match(r"^([^/]+/)?breadbin-share\.json$", n)),
@@ -97,7 +99,9 @@ def einspielen(daten, eintrag=None):
         if rel.startswith("images/"):
             bilder += alt is None
         else:
-            g = ohne_herkunft(json.loads(inhalt))
+            roh = json.loads(inhalt)
+            bearbeitet = [str(x).strip()[:100] for x in roh.get("edited_by") or [] if str(x).strip()]
+            g = ohne_herkunft(roh)
             vorher = json.loads(alt) if alt is not None else None
             if vorher is not None and ohne_herkunft(vorher) == g:
                 gleich += 1
@@ -108,7 +112,10 @@ def einspielen(daten, eintrag=None):
                 geaendert += 1
             if eintrag:
                 hist = list(vorher.get("history") or []) if vorher else []
-                hist.append({**eintrag, "action": "changed" if hist else "added"})
+                e = {**eintrag, "action": "changed" if hist else "added"}
+                if bearbeitet:
+                    e["edited_by"] = sorted(set(bearbeitet))
+                hist.append(e)
                 g["history"] = hist
             elif vorher and vorher.get("history"):
                 g["history"] = vorher["history"]
