@@ -23,5 +23,13 @@
   "more_images": {
     "ss2": "images/f8/f83fde77791b5ce47afd7c2f6d58108046a0f27b.png",
     "ss3": "images/64/64d01128a84076c529532290c11b1a4604fd732e.png"
-  }
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Rumpelkammer",
+      "contribution": 29,
+      "action": "added"
+    }
+  ]
 }
