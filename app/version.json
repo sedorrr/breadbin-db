@@ -1,6 +1,6 @@
 {
-  "version": "0.9.5",
+  "version": "0.9.6",
   "url": "https://breadbin.8bitcavern.de",
-  "notes_de": "BMX als Gerät, Knopf „Spiel beenden“, Geräte nach IP-Wechsel wiederfinden, VICE mit Diskwechsel und Bildschirmfoto, Demos und Intros, schnellere Suche",
-  "notes_en": "BMX as a device, “Stop game” button, find devices again after an IP change, VICE disk swap and screenshots, demos and intros, faster search"
+  "notes_de": "Vor dem Einsenden: Hinweise auf fehlende Beschreibung, Bild oder Art. Dazu alles aus 0.9.5: BMX als Gerät, „Spiel beenden“, Geräte nach IP-Wechsel wiederfinden, VICE mit Diskwechsel und Bildschirmfoto, Demos und Intros, schnellere Suche",
+  "notes_en": "Before submitting: hints on missing description, picture or kind. Plus everything from 0.9.5: BMX as a device, “Stop game”, find devices again after an IP change, VICE disk swap and screenshots, demos and intros, faster search"
 }
