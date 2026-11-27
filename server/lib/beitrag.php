@@ -29,6 +29,9 @@ function auswahl(array $c, array $b): ?array
     return is_array($a) ? $a : null;
 }
 
+// Feld in der geprüften ZIP mit den Bearbeitenden eines Spiels (immer ["Breadbin"], tools/uebernehmen.py → history).
+const EDITED_BY_FELD = 'edited_by';
+
 // Bearbeitungen der Prüfenden neben der ZIP-Datei: [sha1 => Felder]. Die eingegangene Datei bleibt unverändert.
 const EDIT_FELDER = ['title' => 200, 'year' => 20, 'publisher' => 200, 'developer' => 200, 'players' => 50, 'synopsis' => 20000,
     'synopsis_en' => 20000];
@@ -114,8 +117,14 @@ function zip_auswahl(string $quelle, array $erg, ?array $sha1s, array $edits = [
             || isset($bilder[$rel]);
         if ($nimm) {
             $daten = (string)$ein->getFromIndex($i);
-            if (!empty($t[1]) && isset($edits[$t[1]]) && str_starts_with($rel, 'games/')) {
-                $g = mit_edits((array)json_decode($daten, true), $edits[$t[1]]);
+            if (!empty($t[1]) && str_starts_with($rel, 'games/')) {
+                // Vom Einsender mitgeschickte Herkunft und „bearbeitet von“ immer entfernen; edited_by setzt nur die
+                // Prüfseite (Bearbeitungen des Betreibers und von Claude, in den Daten immer „Breadbin“).
+                $g = mit_edits((array)json_decode($daten, true), $edits[$t[1]] ?? null);
+                unset($g['history'], $g[EDITED_BY_FELD]);
+                if (!empty($edits[$t[1]]['bearbeitet_von'])) {
+                    $g[EDITED_BY_FELD] = array_values(array_unique(array_map('strval', (array)$edits[$t[1]]['bearbeitet_von'])));
+                }
                 $daten = json_encode($g, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) . "\n";
             }
             $aus->addFromString($rel, $daten);
@@ -145,7 +154,8 @@ function sorge_fuer_uebernommen(): void
 function beitrag_dateien(array $c, array $b): array
 {
     $basis = $c['daten_dir'] . '/' . basename((string)$b['datei']);
-    return array_values(array_filter([$basis, $basis . '.auswahl.json', $basis . '.edits.json'], 'is_file'));
+    return array_values(array_filter([$basis, $basis . '.auswahl.json', $basis . '.edits.json', $basis . '.bilder.json',
+        $basis . '.claude.json', $basis . '.auftraege.json'], 'is_file'));
 }
 
 /** Erledigte Beiträge, deren Dateien noch auf dem Webspace liegen: [Anzahl, Bytes, Beiträge]. */
@@ -190,15 +200,13 @@ function erledigte_aufraeumen(array $c): array
     return [$n, $bytes, $fehler];
 }
 
-/** Geprüfte Fassung eines Beitrags als Datei: Original oder (bei Auswahl/Bearbeitung) neu gebautes ZIP. [Pfad, temporär?] */
+/**
+ * Geprüfte Fassung eines Beitrags als Datei: immer neu gebaut (Auswahl, Bearbeitungen, mitgeschickte `history`/
+ * `edited_by` entfernt). [Pfad, temporär?]
+ */
 function geprueftes_zip(array $c, array $b): array
 {
     $quelle = $c['daten_dir'] . '/' . $b['datei'];
-    $wahl = auswahl($c, $b);
-    $ed = edits($c, $b);
-    if ($wahl === null && !$ed) {
-        return [$quelle, false];
-    }
-    return [zip_auswahl($quelle, pruefe_beitrag($quelle), $wahl, $ed), true];
+    return [zip_auswahl($quelle, pruefe_beitrag($quelle), auswahl($c, $b), edits($c, $b)), true];
 }
 

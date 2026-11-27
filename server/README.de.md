@@ -31,6 +31,8 @@ URL-kodiert, und GitHub blendet diese Form nicht aus.
 | `public/admin/index.php` | Prüfseite: Beiträge mit Texten und Bildern ansehen, Spiele einzeln übernehmen oder weglassen, Angaben bearbeiten und Bilder abwählen (gespeichert neben dem Beitrag, das Original bleibt), annehmen oder ablehnen, geprüfte ZIP herunterladen; vergleicht jedes Spiel mit dem veröffentlichten Stand (neu / geändert mit Feldvergleich und Bildern bisher–eingereicht / unverändert – diese sind nicht angehakt) |
 | `lib/vergleich.php` | Vergleich mit dem Stand: liest `breadbin-db.zip` des Spiegels (Standard `../../breadbindb/breadbin-db.zip` vom Annahme-Ordner aus, sonst `stand_zip` in config.php), Zwischenspeicher `daten/stand-cache.json` |
 | `lib/pruefen.php` | Prüfregeln, dieselben wie `tools/pruefen.py` |
+| `lib/vorpruefung.php` | Vorprüfung: Hinweise je Spiel auf der Prüfseite (fehlende Texte, kein Spiel, Links, Spam, Plausibilität, Bilder) – siehe `VORPRUEFUNG.md` |
+| `public/api/durchsicht.php` | Durchsicht durch Claude: offene Beiträge lesen, Empfehlungen ablegen (eigener Schlüssel) – siehe `VORPRUEFUNG.md` |
 | `lib/gemeinsam.php` | Datenbank, Einstellungen |
 | `schema.sql` | Tabelle `beitraege` |
 | `config.example.php` | Vorlage für `config.php` (Zugangsdaten – nie ins Repository) |

@@ -6,6 +6,7 @@ require __DIR__ . '/../../lib/gemeinsam.php';
 require __DIR__ . '/../../lib/pruefen.php';
 require __DIR__ . '/../../lib/vergleich.php';
 require __DIR__ . '/../../lib/beitrag.php';
+require __DIR__ . '/../../lib/vorpruefung.php';
 
 session_set_cookie_params(['httponly' => true, 'samesite' => 'Strict', 'secure' => !empty($_SERVER['HTTPS'])]);
 session_start();
@@ -111,9 +112,32 @@ if ($admin) {
                 $genres = array_values(array_filter(array_map(fn($x) => mb_substr(trim($x), 0, 60), explode(',', (string)($_POST['genres'] ?? '')))));
                 $e['genres'] = array_slice($genres, 0, 20);
                 $e['drop_images'] = array_values(array_intersect(array_merge(BB_KINDS, BB_EXTRA_KINDS), (array)($_POST['drop'] ?? [])));
+                // „bearbeitet von“: bisherige Bearbeitende behalten, den Betreiber nur bei echter Änderung eintragen
+                $alt = $ed[$sha1] ?? [];
+                $erg0 = pruefe_beitrag($c['daten_dir'] . '/' . $b['datei']);
+                $vorher = mit_edits($erg0['spiele'][$sha1] ?? [], $alt ?: null);
+                $nachher = mit_edits($erg0['spiele'][$sha1] ?? [], $e);
+                foreach (['bearbeitet_von', 'claude_texte'] as $k) {
+                    if (isset($alt[$k])) { $e[$k] = $alt[$k]; }
+                }
+                if ($vorher != $nachher) {
+                    $e = bearbeitet_von($e, vp_bearbeiter($c));
+                }
                 $ed[$sha1] = $e;
             }
             file_put_contents(edits_pfad($c, $b), json_encode($ed, JSON_UNESCAPED_UNICODE));
+        }
+        header('Location: ./#s' . $sha1);
+        exit;
+    }
+    // „Texte von Claude schreiben lassen“: Auftrag für den nächsten Lauf der Durchsicht
+    if (isset($_POST['textauftrag'], $_POST['id'], $_POST['sha1']) && hash_equals($token, (string)($_POST['token'] ?? ''))) {
+        $b = beitrag((int)$_POST['id']);
+        $sha1 = (string)$_POST['sha1'];
+        if ($b && $b['status'] === 'neu' && preg_match('/^[0-9a-f]{40}$/', $sha1)) {
+            $auf = auftraege($c, $b);
+            $auf = $_POST['textauftrag'] === 'weg' ? array_diff($auf, [$sha1]) : array_merge($auf, [$sha1]);
+            auftraege_speichern($c, $b, $auf);
         }
         header('Location: ./#s' . $sha1);
         exit;
@@ -201,6 +225,16 @@ if ($admin) {
   .balken.breit { grid-template-columns: minmax(0, 290px) 1fr 60px; }
   .balken i { display: block; height: 8px; border-radius: 3px; background: var(--accent); min-width: 2px; }
   .statistik summary { cursor: pointer; font-weight: 600; }
+  .hinweise { list-style: none; margin: 0; padding: 0; display: grid; gap: 2px; font-size: 13px; }
+  .hinweise li::before { content: "●"; margin-right: 6px; }
+  .hinweise .rot::before, .chip.rot { color: var(--bad); } .hinweise .gelb::before, .chip.gelb { color: #b07d00; }
+  .hinweise .info { color: var(--muted); } .hinweise .info::before { color: var(--line); }
+  .chip.rot { background: color-mix(in srgb, var(--bad) 18%, transparent); }
+  .chip.gelb { background: color-mix(in srgb, #e0a800 22%, transparent); }
+  .chip.sauber { background: color-mix(in srgb, var(--ok) 18%, transparent); color: var(--ok); }
+  .claude { font-size: 13px; border-left: 3px solid var(--accent); padding-left: 8px; }
+  .claude.ablehnen { border-color: var(--bad); } .claude.nachbessern { border-color: #e0a800; } .claude.uebernehmen { border-color: var(--ok); }
+  section:has(.nur-auff:checked) .spiel.unauffaellig { display: none; }
 </style>
 </head>
 <body><main>
@@ -363,7 +397,11 @@ if ($admin) {
               $vg[$sha1] = vergleiche(mit_edits($orig, $ed[$sha1] ?? null), $stand[$sha1] ?? null);
           }
       }
-      $zaehl = array_count_values(array_column($vg, 'art')); ?>
+      $zaehl = array_count_values(array_column($vg, 'art'));
+      // Vorprüfung (feste Regeln) und Durchsicht durch Claude, siehe server/VORPRUEFUNG.md
+      $vp = $da && $erg['spiele'] ? vorpruefe_beitrag($c, $b, $erg, $ed, $stand) : null;
+      $ds = $da ? durchsicht($c, $b) : null;
+      $auf = $da ? auftraege($c, $b) : []; ?>
     <section class="karte">
       <strong>#<?= (int)$b['id'] ?></strong> · <?= h($b['eingang']) ?> · <?= (int)$b['spiele'] ?> Spiele
       <?php if ($b['name'] !== ''): ?>· von <?= h($b['name']) ?><?php endif ?>
@@ -375,22 +413,43 @@ if ($admin) {
         <span class="chip gleich"><?= (int)($zaehl['gleich'] ?? 0) ?> unverändert</span>
         <?php if (!empty($zaehl['gleich']) && $neu): ?><span class="meta">– unveränderte sind nicht angehakt und eingeklappt.</span><?php endif ?></p><?php endif ?>
       <?php if ($b['hinweis'] !== ''): ?><p><em><?= nl2br(h($b['hinweis'])) ?></em></p><?php endif ?>
+      <?php if ($vp): ?><p class="zusammen">Vorprüfung:
+        <span class="chip rot"><?= $vp['zahl']['rot'] ?> rot</span>
+        <span class="chip gelb"><?= $vp['zahl']['gelb'] ?> gelb</span>
+        <span class="chip sauber"><?= $vp['zahl']['sauber'] ?> unauffällig</span>
+        <label class="meta"><input type="checkbox" class="nur-auff"> nur auffällige zeigen</label></p>
+        <?php if ($vp['angaben']): ?><ul class="hinweise"><?php foreach ($vp['angaben'] as $x): ?><li class="<?= h($x['stufe']) ?>"><?= h($x['text']) ?></li><?php endforeach ?></ul><?php endif ?>
+      <?php endif ?>
+      <?php if ($ds): ?><div class="claude"><strong>Durchsicht durch Claude</strong> <span class="meta">(<?= h(date('d.m. H:i', strtotime((string)$ds['zeit']))) ?>)</span>
+        <?php if ($ds['zusammenfassung'] !== ''): ?><div><?= nl2br(h($ds['zusammenfassung'])) ?></div><?php endif ?>
+        <?php if ($ds['bericht'] !== ''): ?><a href="<?= h($ds['bericht']) ?>" target="_blank" rel="noopener">Bericht</a><?php endif ?></div>
+      <?php elseif ($neu && $da): ?><p class="meta">Durchsicht durch Claude steht noch aus.</p><?php endif ?>
       <?php foreach ($erg['probleme'] as $p): ?><p class="bad"><?= h($p) ?></p><?php endforeach ?>
       <?php foreach ($erg['spiele'] as $sha1 => $orig):
           $g = mit_edits($orig, $ed[$sha1] ?? null);
           $v = $vg[$sha1] ?? null;
-          $art = $v['art'] ?? ''; ?>
-        <div class="spiel<?= $wahl !== null && !in_array($sha1, $wahl, true) ? ' weg' : '' ?><?= $art === 'gleich' ? ' gleich' : '' ?>" id="s<?= h($sha1) ?>">
+          $art = $v['art'] ?? '';
+          $hw = $vp['spiele'][$sha1] ?? [];
+          $auff = (bool)array_filter($hw, fn($x) => $x['stufe'] !== 'info');
+          $em = $ds['spiele'][$sha1] ?? null;
+          $haken = $art !== 'gleich' && ($em['empfehlung'] ?? '') !== 'ablehnen'; ?>
+        <div class="spiel<?= $wahl !== null && !in_array($sha1, $wahl, true) ? ' weg' : '' ?><?= $art === 'gleich' ? ' gleich' : '' ?><?= $auff || ($em && $em['empfehlung'] !== 'uebernehmen') ? '' : ' unauffaellig' ?>" id="s<?= h($sha1) ?>">
           <?php if ($neu): ?>
-            <label class="nimm"><input type="checkbox" name="spiele[]" value="<?= h($sha1) ?>" form="f<?= (int)$b['id'] ?>" <?= $art === 'gleich' ? '' : 'checked' ?>> übernehmen</label>
+            <label class="nimm"><input type="checkbox" name="spiele[]" value="<?= h($sha1) ?>" form="f<?= (int)$b['id'] ?>" <?= $haken ? 'checked' : '' ?>> übernehmen</label>
           <?php elseif ($wahl !== null && !in_array($sha1, $wahl, true)): ?>
             <span class="meta bad">nicht übernommen</span>
           <?php endif ?>
           <div class="kopf"><strong><?= h($g['title'] ?? '') ?></strong>
             <?php if ($art): ?><span class="chip <?= h($art) ?>"><?= ['neu' => 'neu', 'gleich' => 'unverändert', 'geaendert' => 'geändert'][$art] ?></span><?php endif ?>
-            <?php if (isset($ed[$sha1])): ?> <span class="chip">bearbeitet</span><?php endif ?>
+            <?php if (vp_art_von($g) !== 'game'): ?> <span class="chip geaendert">Art: <?= h(VP_ARTEN[vp_art_von($g)] ?? vp_art_von($g)) ?></span><?php endif ?>
+            <?php if (isset($ed[$sha1])): ?> <span class="chip">bearbeitet<?= !empty($ed[$sha1]['bearbeitet_von']) ? ' von ' . h(implode(', ', $ed[$sha1]['bearbeitet_von'])) : '' ?></span><?php endif ?>
             <span class="meta"><?= h(implode(' · ', array_filter([$g['year'] ?? '', $g['publisher'] ?? '', $g['developer'] ?? '', implode(', ', $g['genres'] ?? [])]))) ?></span></div>
           <div class="meta"><?= h(implode(', ', $g['files'] ?? [])) ?> · <?= h($g['format'] ?? '') ?> · SHA-1 <?= h($sha1) ?></div>
+          <?php if ($em): ?><div class="claude <?= h($em['empfehlung']) ?>"><strong>Claude: <?= h(VP_EMPFEHLUNGEN[$em['empfehlung']] ?? '') ?></strong><?= $em['grund'] !== '' ? ' – ' . h($em['grund']) : '' ?></div><?php endif ?>
+          <?php if ($hw): ?><ul class="hinweise"><?php foreach ($hw as $x): ?><li class="<?= h($x['stufe']) ?>"><?= h($x['text']) ?></li><?php endforeach ?></ul><?php endif ?>
+          <?php if ($art !== 'neu' && ($hk = herkunft_text($stand[$sha1] ?? null)) !== ''): ?>
+            <div class="meta">Im Datenbestand: <?= h($hk) ?></div>
+          <?php endif ?>
           <?php if ($art === 'geaendert'): ?>
             <details open><summary class="meta">Unterschiede zum Datenbestand</summary>
             <table class="vergleich"><tr><th></th><td class="meta">bisher</td><td class="meta">eingereicht</td></tr>
@@ -404,7 +463,22 @@ if ($admin) {
               <?php endforeach ?>
             </table></details>
           <?php endif ?>
-          <?php [$tde, $ten] = texte($g); ?>
+          <?php [$tde, $ten] = texte($g);
+                $ct = $ed[$sha1]['claude_texte'] ?? null;
+                if ($ct): $neuT = in_array('neu', [$ct['de'] ?? '', $ct['en'] ?? ''], true); ?>
+            <div class="claude <?= $neuT ? 'nachbessern' : 'uebernehmen' ?>"><strong><?= $neuT ? 'Texte von Claude geschrieben – bitte sichten' : 'Text von Claude ergänzt' ?></strong>
+              (<?= h(implode(', ', array_map('strtoupper', array_keys(array_filter(['de' => $ct['de'] ?? '', 'en' => $ct['en'] ?? '']))))) ?>).
+              Ändern über „Bearbeiten“; „Annehmen“ übernimmt sie mit „bearbeitet von <?= h(vp_bearbeiter($c)) ?>“.</div>
+          <?php endif;
+                if ($neu && $tde === '' && $ten === ''): $hatAuftrag = in_array((string)$sha1, $auf, true); ?>
+            <form method="post" class="meta">
+              <input type="hidden" name="token" value="<?= h($token) ?>"><input type="hidden" name="id" value="<?= (int)$b['id'] ?>">
+              <input type="hidden" name="sha1" value="<?= h($sha1) ?>">
+              <?php if ($hatAuftrag): ?>Auftrag erteilt: Claude schreibt die Texte beim nächsten Lauf (spätestens in etwa 30 Minuten).
+                <button name="textauftrag" value="weg">Auftrag zurücknehmen</button>
+              <?php else: ?><button name="textauftrag" value="ja">Texte von Claude schreiben lassen</button> (Deutsch und Englisch, zur Sichtung)<?php endif ?>
+            </form>
+          <?php endif ?>
           <?php if ($tde !== ''): ?><div><span class="chip">DE</span> <?= nl2br(h($tde)) ?></div><?php endif ?>
           <?php if ($ten !== ''): ?><div lang="en"><span class="chip">EN</span> <?= nl2br(h($ten)) ?></div><?php endif ?>
           <div class="bilder"><?php foreach (bb_alle_bilder($g) as $art => $bild): ?>
@@ -443,7 +517,7 @@ if ($admin) {
       <?php endforeach ?>
       <?php if ($neu): ?>
         <form method="post" id="f<?= (int)$b['id'] ?>">
-          <p class="meta">Haken weg = dieses Spiel nicht übernehmen. „Annehmen“ übernimmt nur die angehakten Spiele, in der bearbeiteten Fassung; der ZIP-Download enthält dann genau das.</p>
+          <p class="meta">Haken weg = dieses Spiel nicht übernehmen (bei Claude-Empfehlung „ablehnen“ ist er schon weg). „Annehmen“ übernimmt nur die angehakten Spiele, in der bearbeiteten Fassung; der ZIP-Download enthält dann genau das.</p>
           <input type="hidden" name="token" value="<?= h($token) ?>">
           <input type="hidden" name="id" value="<?= (int)$b['id'] ?>">
           <textarea name="notiz" rows="2" placeholder="Notiz (z. B. Grund der Ablehnung)"></textarea>

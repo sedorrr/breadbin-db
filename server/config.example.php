@@ -31,6 +31,12 @@ return [
     //   printf %s 'schlüssel' | shasum -a 256
     // 'export_token_sha256' => '',
 
+    // Durchsicht durch Claude (api/durchsicht.php, tools/durchsicht.py, siehe VORPRUEFUNG.md): SHA-256 eines eigenen
+    // Schlüssels, der nur lesen und Empfehlungen ablegen kann. Leer = abgeschaltet.
+    // 'durchsicht_token_sha256' => '',
+    // Name für „bearbeitet von“, wenn der Betreiber auf der Prüfseite etwas ändert (Standard: Breadbin)
+    // 'betreiber_name' => 'Breadbin',
+
     // E-Mail, wenn ein neuer Beitrag auf Freigabe wartet. Leer = keine Nachricht.
     // Eine Nachricht nur, wenn vorher nichts wartete (oder die letzte älter als ein Tag ist) – keine Flut.
     // 'benachrichtigung_an'  => 'du@example.org',
