@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "sha1": "77dd30b2c3bd38fe5a18ae502074ad56972c3fd0",
+  "md5": "5ec9212b2d2492b6e4c13c226a97dc24",
+  "crc32": "5b7f8285",
+  "size": 174848,
+  "format": "D64",
+  "files": [
+    "alpine-rush-64.d64"
+  ],
+  "title": "Alpine Rush 64",
+  "year": "2026",
+  "publisher": "JDC",
+  "developer": "JDC",
+  "genres": [
+    "Rennen",
+    "Sport"
+  ],
+  "players": "1",
+  "synopsis": "Alpine Rush 64 ist ein Abfahrtslauf auf Skiern, von Grund auf in 6510-Assembler geschrieben. Man fährt eine zufällig erzeugte Piste hinab, steuert zwischen roten und blauen Slalomtoren hindurch, weicht Kiefern, Felsen, Baumstämmen und Zäunen aus und springt über Rampen, wobei man in der Luft greifen oder drehen kann. Die Strecke wird mit der Zeit enger, schneller und fieser; der Pistengenerator stellt aber sicher, dass es immer einen Weg gibt. Gespielt wird mit 50 bzw. 60 Bildern pro Sekunde auf PAL und NTSC.\n\nVier Spielarten: „Arcade“ ist ein endloser Lauf mit drei Leben, der Level (1–10) steigt alle 500 m oder 50 Sekunden; „Time Trial“ bietet drei feste Strecken von etwa 45–60 Sekunden mit Zielstrich, die Bestzeiten werden je Strecke gespeichert; „Score Attack“ gibt zwei Minuten Zeit für möglichst viele Punkte; „Practice“ läuft ohne Leben und ohne Uhr auf einem wählbaren Level. Das Spiel liegt als Diskette vor (die Modul-Fassung mit 16 KB ist hier nicht enthalten), Joystick in Port 2.\n\nVon JDC, 2026.",
+  "texts": {
+    "de": "Alpine Rush 64 ist ein Abfahrtslauf auf Skiern, von Grund auf in 6510-Assembler geschrieben. Man fährt eine zufällig erzeugte Piste hinab, steuert zwischen roten und blauen Slalomtoren hindurch, weicht Kiefern, Felsen, Baumstämmen und Zäunen aus und springt über Rampen, wobei man in der Luft greifen oder drehen kann. Die Strecke wird mit der Zeit enger, schneller und fieser; der Pistengenerator stellt aber sicher, dass es immer einen Weg gibt. Gespielt wird mit 50 bzw. 60 Bildern pro Sekunde auf PAL und NTSC.\n\nVier Spielarten: „Arcade“ ist ein endloser Lauf mit drei Leben, der Level (1–10) steigt alle 500 m oder 50 Sekunden; „Time Trial“ bietet drei feste Strecken von etwa 45–60 Sekunden mit Zielstrich, die Bestzeiten werden je Strecke gespeichert; „Score Attack“ gibt zwei Minuten Zeit für möglichst viele Punkte; „Practice“ läuft ohne Leben und ohne Uhr auf einem wählbaren Level. Das Spiel liegt als Diskette vor (die Modul-Fassung mit 16 KB ist hier nicht enthalten), Joystick in Port 2.\n\nVon JDC, 2026.",
+    "en": "Alpine Rush 64 is a downhill skiing game written from scratch in 6510 assembly. You race down a procedurally generated mountain, steer between red and blue slalom gates, avoid pines, rocks, logs and fences, and launch off ramps, grabbing or spinning in the air. The course gets narrower, faster and nastier over time, but the course generator guarantees there is always a way through. It runs at 50 or 60 frames per second on PAL and NTSC.\n\nFour modes: Arcade is an endless run with three lives, the level (1–10) rises every 500 m or 50 seconds; Time Trial offers three fixed courses of about 45–60 seconds each with a finish line, best times are kept per course; Score Attack gives two minutes to score as much as possible; Practice has no lives and no clock, at a level of your choice. The game is on disk (the 16 KB cartridge version is not included here), joystick in port 2.\n\nBy JDC, 2026."
+  },
+  "images": {
+    "ss": "images/6f/6f61323408c1da75f1aea0f497b3eccf201364c2.png",
+    "sstitle": "images/36/36a4dd951191856ac6c8795218a4d29c0d670357.png"
+  },
+  "history": [
+    {
+      "date": "2026-11-27",
+      "by": "Breadbin",
+      "contribution": 36,
+      "action": "added"
+    }
+  ]
+}
