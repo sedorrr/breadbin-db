@@ -147,7 +147,7 @@ if ($admin) {
                 }
             }
             auftraege_speichern($c, $b, array_merge(auftraege($c, $b), $neuAuf));
-            $_SESSION['info'] = count($neuAuf) . ' Textaufträge erteilt – Claude schreibt sie beim nächsten Lauf (spätestens in etwa 30 Minuten).';
+            $_SESSION['info'] = count($neuAuf) . ' Textaufträge erteilt – Claude schreibt sie beim nächsten Lauf (spätestens in etwa einer Stunde).';
         }
         header('Location: ./');
         exit;
@@ -512,7 +512,7 @@ if ($admin) {
             <form method="post" class="meta">
               <input type="hidden" name="token" value="<?= h($token) ?>"><input type="hidden" name="id" value="<?= (int)$b['id'] ?>">
               <input type="hidden" name="sha1" value="<?= h($sha1) ?>">
-              <?php if ($hatAuftrag): ?>Auftrag erteilt: Claude schreibt die Texte beim nächsten Lauf (spätestens in etwa 30 Minuten).
+              <?php if ($hatAuftrag): ?>Auftrag erteilt: Claude schreibt die Texte beim nächsten Lauf (spätestens in etwa einer Stunde).
                 <button name="textauftrag" value="weg">Auftrag zurücknehmen</button>
               <?php else: ?><button name="textauftrag" value="ja">Texte von Claude schreiben lassen</button> (Deutsch und Englisch, zur Sichtung)<?php endif ?>
             </form>

@@ -42,7 +42,7 @@ sich die Bildprüfung ändert (dann werden die Bild-Zwischenspeicher neu gebaut)
 
 ## b) Durchsicht durch Claude
 
-Ablauf: Eine geplante Aufgabe in der Claude-App (`breadbin-beitragsdurchsicht`, alle 30 Minuten, solange der Mac
+Ablauf: Eine geplante Aufgabe in der Claude-App (`breadbin-beitragsdurchsicht`, stündlich, solange der Mac
 läuft) fragt den Server mit **einer** Anfrage, ob ein noch nicht durchgesehener Beitrag wartet. Wenn nicht, endet
 sie sofort. Wenn ja, folgt sie `tools/durchsicht-auftrag.md`: Beitrag holen, ScreenScraper-Abgleich mit der eigenen
 Bibliothek, beurteilen (sparsam CSDb), Empfehlungen an den Server schicken, Bericht als Artefakt veröffentlichen
@@ -56,7 +56,7 @@ Bibliothek, beurteilen (sparsam CSDb), Empfehlungen an den Server schicken, Beri
   steht „Text von Claude ergänzt (EN)“ und am Spiel „bearbeitet von Breadbin“.
 - **Beide Texte fehlen:** Die Durchsicht schreibt nichts von sich aus, sondern empfiehlt „nachbessern“. Auf der
   Prüfseite steht am Spiel der Knopf **„Texte von Claude schreiben lassen“**. Er legt einen Auftrag ab
-  (`daten/<datei>.auftraege.json`), `?offen` meldet ihn, und der nächste Lauf (spätestens nach etwa 30 Minuten) schreibt
+  (`daten/<datei>.auftraege.json`), `?offen` meldet ihn, und der nächste Lauf (spätestens nach etwa einer Stunde) schreibt
   DE und EN nach `tools/durchsicht-auftrag.md` (Schritt 4b). Auf der Prüfseite steht dann „Texte von Claude
   geschrieben – bitte sichten“. Ändern über „Bearbeiten“, freigeben mit „Annehmen“.
 - **Viele Spiele ohne Text:** Oben im Beitrag steht dann „N Spiele ohne Beschreibung: Texte für alle von Claude
@@ -122,7 +122,7 @@ Gegenprobe: Keiner der 6 790 eigenen Texte im Bestand schlägt an, eine kopierte
    In `config.php` auf dem Webspace eintragen: `'durchsicht_token_sha256' => '<die 64 Zeichen>',`
 3. Server hochladen: Workflow „Server hochladen“ (`server.yml`) im Daten-Repo starten (lädt `lib/` und `public/`).
 4. Prüfen (eine Anfrage): `python3 tools/durchsicht.py offen`
-5. Geplante Aufgabe auf „alle 30 Minuten“ stellen (Claude-App → Geplante Aufgaben → `breadbin-beitragsdurchsicht`).
+5. Geplante Aufgabe auf „stündlich“ stellen (Claude-App → Geplante Aufgaben → `breadbin-beitragsdurchsicht`).
 
 Auf GD achten: Ohne die PHP-Erweiterung GD fällt nur die Prüfung „schwarz/leer“ weg, alles andere läuft.
 
@@ -150,7 +150,7 @@ Getestet 2026-11-27 (PHP 8.3, MariaDB 11): Texte ergänzen (vorhandene bleiben),
 `offen` meldet ihn → Texte abgelegt → Auftrag erledigt, „bearbeitet von“ nach Änderung durch den Betreiber
 (unverändertes Speichern trägt niemanden ein), `edited_by` in der geprüften ZIP; alle 17 Fälle, sauberer Beitrag ohne Hinweis, Prüfseite mit Hinweisen,
 Claude-Empfehlungen, „nur auffällige zeigen“, Bearbeiten lässt Hinweise verschwinden, Aufräumen löscht die neuen
-Begleitdateien, falsche Schlüssel (403) und ungültige Empfehlungen (422). Auf dem Webspace seit 2026-11-27 hochgeladen (server.yml), `durchsicht.py offen` antwortet; geplante Aufgabe läuft alle 30 Minuten.
+Begleitdateien, falsche Schlüssel (403) und ungültige Empfehlungen (422). Auf dem Webspace seit 2026-11-27 hochgeladen (server.yml), `durchsicht.py offen` antwortet; geplante Aufgabe läuft stündlich (seit 2026-11-28, vorher alle 30 Minuten).
 
 ---
 
@@ -160,7 +160,7 @@ Two stages, both only flag (nothing is rejected on upload). **a)** `lib/vorpruef
 of a contribution (missing or one-language descriptions, demos/intros/music/tools, links and warez/filehoster domains,
 spam, slurs, gibberish, other languages, ratings and AI phrases, year/players/genre plausibility, title vs. file name,
 duplicates against the published data, ScreenScraper hints, blank/black/odd-sized pictures) and shows red/yellow/grey
-hints on the review page. **b)** A scheduled Claude task polls `public/api/durchsicht.php?offen` every 30 minutes (one
+hints on the review page. **b)** A scheduled Claude task polls `public/api/durchsicht.php?offen` every hour (one
 request); when a contribution waits, it follows `tools/durchsicht-auftrag.md`, compares texts with the ScreenScraper
 texts of the local Breadbin library, writes a recommendation per game (accept / fix / reject) back to the review page
 and publishes a report artifact. The review endpoint has its own token (`durchsicht_token_sha256`) that can only read
